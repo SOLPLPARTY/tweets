@@ -1,0 +1,7 @@
+var user_details =  {
+  "screen_name" : "solplparty",
+  "full_name" : "\uC194\uD50C\uD30C\uD2F0",
+  "bio" : "\uD83C\uDF08 \uBB38\uD654\uC608\uC220 \uC194\uD50C\uB7EC \uCEE4\uBBA4\uB2C8\uD2F0, \uC194\uD50C\uD30C\uD2F0\n\n\uACF5\uC5F0\uC77C\uC815 \/ \uD2F0\uCF13\uC608\uB9E4 \uACF5\uC9C0 \/ \uC74C\uC545 \uD398\uC2A4\uD2F0\uBC8C \/ \uC778\uB514\uBC34\uB4DC \/ \uB0B4\uD55C \/ \uCF58\uC11C\uD2B8 \/ \uD64D\uB300\uBB38\uD654 \/ \uC601\uD654\uC81C \/ \uC804\uC2DC\uD68C \/ \uBAA8\uC784",
+  "id" : "968706450779463682",
+  "created_at" : "2018-02-28 04:36:30 +0000"
+}
