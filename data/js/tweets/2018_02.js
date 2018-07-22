@@ -119,7 +119,7 @@ Grailbird.data.tweets_2018_02 =
     "screen_name" : "solplparty",
     "protected" : false,
     "id_str" : "968706450779463682",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/968706939743096833\/Thi299Ig_normal.jpg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994446317622472704\/JSzJim6N_normal.jpg",
     "id" : 968706450779463682,
     "verified" : false
   }
