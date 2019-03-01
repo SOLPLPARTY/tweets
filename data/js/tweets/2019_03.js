@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 01 04:40:27 +0000 2019",
+		"id": 1101341406361055200,
+		"id_str": "1101349269976596480",
+		"full_text": "[2019 EBS 헬로루키 with KOCCA]\n\n🔈‘2019 헬로루키’로 거듭날 신인 뮤지션을 찾습니다! \n\n&lt;EBS 스페이스 공감&gt;의 신인 발굴 프로젝트! \n여러분의 도전을 기다립니다! 💫\n\n🎼상반기 응모 기간 ▶︎ 3월 4일(월) ~ 4월 5일(금)\n(4월 6일 00시부터는 접수 불가)\n🎼응모하기 ▶︎ https://t.co/pMpGkYf9aG https://t.co/rXdO5CJWNk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pMpGkYf9aG",
+					"expanded_url": "http://www.ebs.co.kr/space/rookie/audition",
+					"display_url": "ebs.co.kr/space/rookie/a…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1101341371015675900,
+					"id_str": "1101341371015675904",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jAJEvUwAAYS2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jAJEvUwAAYS2r.jpg",
+					"url": "https://t.co/rXdO5CJWNk",
+					"display_url": "pic.twitter.com/rXdO5CJWNk",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1101341406361055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101341371015675900,
+					"id_str": "1101341371015675904",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jAJEvUwAAYS2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jAJEvUwAAYS2r.jpg",
+					"url": "https://t.co/rXdO5CJWNk",
+					"display_url": "pic.twitter.com/rXdO5CJWNk",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1101341406361055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101341371019849700,
+					"id_str": "1101341371019849729",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jAJEwUcAE4LM3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jAJEwUcAE4LM3.jpg",
+					"url": "https://t.co/rXdO5CJWNk",
+					"display_url": "pic.twitter.com/rXdO5CJWNk",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1101341406361055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101341371019931600,
+					"id_str": "1101341371019931648",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jAJEwVsAAxfWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jAJEwVsAAxfWl.jpg",
+					"url": "https://t.co/rXdO5CJWNk",
+					"display_url": "pic.twitter.com/rXdO5CJWNk",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1101341406361055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101341371019870200,
+					"id_str": "1101341371019870211",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jAJEwUwAMD2V3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jAJEwUwAMD2V3.jpg",
+					"url": "https://t.co/rXdO5CJWNk",
+					"display_url": "pic.twitter.com/rXdO5CJWNk",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1101341406361055232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5302,
+			"friends_count": 4783,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2207,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 헬로루키 with KOCCA]\n\n🔈‘2019 헬로루키’로 거듭날 신인 뮤지션을 찾습니다! \n\n&lt;EBS 스페이스 공감&gt;의 신인 발굴 프로젝트! \n여러분의 도전을 기다립니다! 💫\n\n🎼상반기 응모 기간 ▶︎ 3월 4일(월) ~ 4월 5일(금)\n(4월 6일 00시부터는 접수 불가)\n🎼응모하기 ▶︎ https://t.co/pMpGkYf9aG https://t.co/rXdO5CJWNk"
+	},
+	{
+		"created_at": "Fri Mar 01 03:33:42 +0000 2019",
+		"id": 1101324608056094700,
+		"id_str": "1101335833288818688",
+		"full_text": "[[MUNHWAIN PLAYLIST] 봄이 왔나봄, 듣기만 해도 기분 좋아지는 노래#11\n\n나들이 갈 생각에 두근거리는 요즘 \n봄이 왔다는 소식만 들어도 기분이 좋아지는 요즘\n이 노래들과 함께 더 기분 좋은 하루 보내세요🎶\n\n🎥 https://t.co/IXJafR9x9r \n\n#문화인 #MUNHWAIN #플레이리스트 #PLAYLIST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "MUNHWAIN",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXJafR9x9r",
+					"expanded_url": "http://youtu.be/OiIowywczuY",
+					"display_url": "youtu.be/OiIowywczuY",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/신현희와김루트/민채/롱디/앤츠/윤현상/젊은이/이나/재니/크림/글로잉독/서교동의 밤/크래커/콜렉티브아츠/알레프/아일/헤이맨/유라/에버루아/로지",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501,
+			"friends_count": 7,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 618,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[[MUNHWAIN PLAYLIST] 봄이 왔나봄, 듣기만 해도 기분 좋아지는 노래#11\n\n나들이 갈 생각에 두근거리는 요즘 \n봄이 왔다는 소식만 들어도 기분이 좋아지는 요즘\n이 노래들과 함께 더 기분 좋은 하루 보내세요🎶\n\n🎥 https://t.co/IXJafR9x9r \n\n#문화인 #MUNHWAIN #플레이리스트 #PLAYLIST"
+	},
+	{
 		"created_at": "Fri Mar 01 04:17:12 +0000 2019",
 		"id": 1101335555810447400,
 		"id_str": "1101335555810447362",
