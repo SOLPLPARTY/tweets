@@ -1,10 +1,291 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 01 08:16:35 +0000 2019",
+		"id": 1101395798489686000,
+		"id_str": "1101409667996102657",
+		"full_text": "3/8(fri) [clubFF - Live Bands]\nPart1 - Best Part\n더 폴스\n기억\n너드커넥션\n우주왕복선싸이드미러\nstart 8:00pm\n*공연 순서는 추후 공개됩니다. \n*1부 공연 관람자는 2부 공연도 관람이 가능합니다. \n\nPart2 - All the small things\n더 바이퍼스\nBluesnake\nStart 11pm\n*공연 순서는 추후 공개됩니다. https://t.co/XNMvNAToHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101395787877998600,
+					"id_str": "1101395787877998592",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jxojWUYAAp61V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jxojWUYAAp61V.jpg",
+					"url": "https://t.co/XNMvNAToHq",
+					"display_url": "pic.twitter.com/XNMvNAToHq",
+					"expanded_url": "https://twitter.com/clubFF_/status/1101395798489686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 742,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101395787877998600,
+					"id_str": "1101395787877998592",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jxojWUYAAp61V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jxojWUYAAp61V.jpg",
+					"url": "https://t.co/XNMvNAToHq",
+					"display_url": "pic.twitter.com/XNMvNAToHq",
+					"expanded_url": "https://twitter.com/clubFF_/status/1101395798489686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 742,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101395787873808400,
+					"id_str": "1101395787873808384",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jxojVUcAAhcCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jxojVUcAAhcCH.jpg",
+					"url": "https://t.co/XNMvNAToHq",
+					"display_url": "pic.twitter.com/XNMvNAToHq",
+					"expanded_url": "https://twitter.com/clubFF_/status/1101395798489686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101395787882229800,
+					"id_str": "1101395787882229762",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jxojXU8AIdk5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jxojXU8AIdk5j.jpg",
+					"url": "https://t.co/XNMvNAToHq",
+					"display_url": "pic.twitter.com/XNMvNAToHq",
+					"expanded_url": "https://twitter.com/clubFF_/status/1101395798489686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101395787882192900,
+					"id_str": "1101395787882192897",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D0jxojXUYAEt3fj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0jxojXUYAEt3fj.jpg",
+					"url": "https://t.co/XNMvNAToHq",
+					"display_url": "pic.twitter.com/XNMvNAToHq",
+					"expanded_url": "https://twitter.com/clubFF_/status/1101395798489686016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6945,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3312,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/8(fri) [clubFF - Live Bands]\nPart1 - Best Part\n더 폴스\n기억\n너드커넥션\n우주왕복선싸이드미러\nstart 8:00pm\n*공연 순서는 추후 공개됩니다. \n*1부 공연 관람자는 2부 공연도 관람이 가능합니다. \n\nPart2 - All the small things\n더 바이퍼스\nBluesnake\nStart 11pm\n*공연 순서는 추후 공개됩니다. https://t.co/XNMvNAToHq"
+	},
+	{
 		"created_at": "Fri Mar 01 07:12:52 +0000 2019",
 		"id": 1101379762918838300,
 		"id_str": "1101394334321016833",
-		"full_text": "100년 전 나라를 잃고 부른 노래들은 어떤 것이었을까요? ‘노래로 조국 광복을 염원하다’ 는 독립을 향한 민족의 노래인 항일 음악을 다룬 다큐멘터리로 ‘깊이 생각’ ‘거기 정순이 쉬는데’ 등 이제는 잊혀진 여러 곡들을 소개합니다.\n무료 다시보기: https://t.co/uxUjzScjFn\n\n#삼일절100주년⁠ ⁠ https://t.co/MTvIME71nW",
+		"full_text": "100년 전 나라를 잃고 부른 노래들은 어떤 것이었을까요? ‘노래로 조국 광복을 염원하다’ 는 독립을 향한 민족의 노래인 항일 음악을 다룬 다큐멘터리로 ‘깊이 생각’ ‘거기 정순이 쉬는데’ 등 이제는 잊혀진 여러 곡들을 소개합니다.\n무료 다시보기: https://t.co/uxUjzScjFn\n\n#삼일절100주년  https://t.co/MTvIME71nW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -190,7 +471,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "100년 전 나라를 잃고 부른 노래들은 어떤 것이었을까요? ‘노래로 조국 광복을 염원하다’ 는 독립을 향한 민족의 노래인 항일 음악을 다룬 다큐멘터리로 ‘깊이 생각’ ‘거기 정순이 쉬는데’ 등 이제는 잊혀진 여러 곡들을 소개합니다.\n무료 다시보기: https://t.co/uxUjzScjFn\n\n#삼일절100주년⁠ ⁠ https://t.co/MTvIME71nW"
+		"text": "100년 전 나라를 잃고 부른 노래들은 어떤 것이었을까요? ‘노래로 조국 광복을 염원하다’ 는 독립을 향한 민족의 노래인 항일 음악을 다룬 다큐멘터리로 ‘깊이 생각’ ‘거기 정순이 쉬는데’ 등 이제는 잊혀진 여러 곡들을 소개합니다.\n무료 다시보기: https://t.co/uxUjzScjFn\n\n#삼일절100주년  https://t.co/MTvIME71nW"
 	},
 	{
 		"created_at": "Fri Mar 01 05:02:44 +0000 2019",
