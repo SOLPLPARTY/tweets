@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 09:18:16 +0000 2019",
+		"id": 1101769296919769100,
+		"id_str": "1101773707909971968",
+		"full_text": "[스무살 - 단독 콘서트 '너의 날씨는 어때 D-8]\nㅤ\n코앞으로 다가온 스무살 콘서트! 여러분들을 위해 깜짝 공개하는 포토 카드💃\nㅤ\n관객분들께 회차당 각 2종씩 선물로 드릴 예정이에요😉 당일 진행되는 이벤트도 많은 기대 부탁드려요!\n ㅤ\n#스무살 #콘서트 #너의날씨는어때 #20yearsofage #concert https://t.co/jBxHDFv1Up",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스무살",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "너의날씨는어때",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "20yearsofage",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "concert",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101769284051624000,
+					"id_str": "1101769284051623937",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pFU5BVYAEnFF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pFU5BVYAEnFF7.jpg",
+					"url": "https://t.co/jBxHDFv1Up",
+					"display_url": "pic.twitter.com/jBxHDFv1Up",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1101769296919769088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101769284051624000,
+					"id_str": "1101769284051623937",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pFU5BVYAEnFF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pFU5BVYAEnFF7.jpg",
+					"url": "https://t.co/jBxHDFv1Up",
+					"display_url": "pic.twitter.com/jBxHDFv1Up",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1101769296919769088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/vehjNOGeWf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vehjNOGeWf",
+							"expanded_url": "http://facebook.com/shofarmusic",
+							"display_url": "facebook.com/shofarmusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6858,
+			"friends_count": 14,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스무살 - 단독 콘서트 '너의 날씨는 어때 D-8]\nㅤ\n코앞으로 다가온 스무살 콘서트! 여러분들을 위해 깜짝 공개하는 포토 카드💃\nㅤ\n관객분들께 회차당 각 2종씩 선물로 드릴 예정이에요😉 당일 진행되는 이벤트도 많은 기대 부탁드려요!\n ㅤ\n#스무살 #콘서트 #너의날씨는어때 #20yearsofage #concert https://t.co/jBxHDFv1Up"
+	},
+	{
 		"created_at": "Sat Mar 02 08:56:27 +0000 2019",
 		"id": 1101768217641529300,
 		"id_str": "1101768217641529344",
