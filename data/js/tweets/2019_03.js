@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 00:14:33 +0000 2019",
+		"id": 1101636878321610800,
+		"id_str": "1101637812569423872",
+		"full_text": "와우! 스테레오검에 드링킹소년소녀합창단의 데뷔앨범이 프리미어 소개되었습니다. 어서 들어보세요:) Stereogum premieres our debut album \"Keep Drinking\" thanks to Keely Quinlann. 🛹🔥🍻👊 https://t.co/1Ii1LSZx7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Ii1LSZx7P",
+					"expanded_url": "https://twitter.com/stereogum/status/1101496878947074048",
+					"display_url": "twitter.com/stereogum/stat…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3595,
+			"friends_count": 1362,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 3558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23764,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101496878947074000,
+		"quoted_status_id_str": "1101496878947074048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1Ii1LSZx7P",
+			"expanded": "https://twitter.com/stereogum/status/1101496878947074048",
+			"display": "twitter.com/stereogum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 01 14:58:15 +0000 2019",
+			"id": 1101496878947074000,
+			"id_str": "1101496878947074048",
+			"full_text": "Stream Korean skate punk band Drinking Boys And Girls Choir (@BandDBGC)'s wild and intoxicating debut 'Keep Drinking' https://t.co/BVxFevY4kL https://t.co/AccywwBLyl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BandDBGC",
+						"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+						"id": 944548838731157500,
+						"id_str": "944548838731157506",
+						"indices": [
+							61,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BVxFevY4kL",
+						"expanded_url": "https://gum.to/6DRd5W",
+						"display_url": "gum.to/6DRd5W",
+						"indices": [
+							118,
+							141
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1101496876866723800,
+						"id_str": "1101496876866723842",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/D0lNktLX4AI0tqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0lNktLX4AI0tqJ.jpg",
+						"url": "https://t.co/AccywwBLyl",
+						"display_url": "pic.twitter.com/AccywwBLyl",
+						"expanded_url": "https://twitter.com/stereogum/status/1101496878947074048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101496876866723800,
+						"id_str": "1101496876866723842",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/D0lNktLX4AI0tqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0lNktLX4AI0tqJ.jpg",
+						"url": "https://t.co/AccywwBLyl",
+						"display_url": "pic.twitter.com/AccywwBLyl",
+						"expanded_url": "https://twitter.com/stereogum/status/1101496878947074048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5135521,
+				"id_str": "5135521",
+				"name": "Stereogum",
+				"screen_name": "stereogum",
+				"location": "New York",
+				"description": "The original new music blog.",
+				"url": "http://t.co/SI3YpbnzEX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SI3YpbnzEX",
+								"expanded_url": "http://www.stereogum.com",
+								"display_url": "stereogum.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 337292,
+				"friends_count": 2870,
+				"listed_count": 9913,
+				"created_at": "Wed Apr 18 16:23:31 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66788,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/719962473806372864/sb6BX0Fe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/719962473806372864/sb6BX0Fe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5135521/1492653837",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와우! 스테레오검에 드링킹소년소녀합창단의 데뷔앨범이 프리미어 소개되었습니다. 어서 들어보세요:) Stereogum premieres our debut album \"Keep Drinking\" thanks to Keely Quinlann. 🛹🔥🍻👊 https://t.co/1Ii1LSZx7P"
+	},
+	{
 		"created_at": "Fri Mar 01 18:51:35 +0000 2019",
 		"id": 1101555598427152400,
 		"id_str": "1101555598427152386",
