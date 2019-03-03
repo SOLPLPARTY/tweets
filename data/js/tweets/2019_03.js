@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 11:18:21 +0000 2019",
+		"id": 1102162813701652500,
+		"id_str": "1102166317283577861",
+		"full_text": "TEASER ✔️ #아마도이자람밴드\n\n음악에 흔들거리는 너에게 달려가\n오른편에 앉을거야\n이어폰을 뽑아 같은 음악을 들으며\n같은 리듬으로 몸을 앞뒤로 흔들거야\n\n아마도이자람밴드 5th Single [Just Taste It]\n01 Going To\n02 I Will\n\n2019.3.5.12PM release\n\n#Just_taste_it #Teaser #I_Will https://t.co/IVoj4Lajji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "Just_taste_it",
+					"indices": [
+						171,
+						185
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "I_Will",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102162676560457700,
+					"id_str": "1102162676560457728",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102162676560457728/pu/img/RnAxZJmFv91cDW9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102162676560457728/pu/img/RnAxZJmFv91cDW9A.jpg",
+					"url": "https://t.co/IVoj4Lajji",
+					"display_url": "pic.twitter.com/IVoj4Lajji",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102162813701652480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102162676560457700,
+					"id_str": "1102162676560457728",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102162676560457728/pu/img/RnAxZJmFv91cDW9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102162676560457728/pu/img/RnAxZJmFv91cDW9A.jpg",
+					"url": "https://t.co/IVoj4Lajji",
+					"display_url": "pic.twitter.com/IVoj4Lajji",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102162813701652480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33375,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102162676560457728/pu/vid/320x180/PQWid6z502Ps0EZt.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102162676560457728/pu/vid/640x360/-JEeDI52ZgrwGJVs.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102162676560457728/pu/pl/aHlYSpsM_fpbul7G.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102162676560457728/pu/vid/1280x720/aURK7-jxP5YpRWl_.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 전기뱀장어, 최낙타, 홍이삭, 네이버 온스테이지 라이브와 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3250,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TEASER ✔️ #아마도이자람밴드\n\n음악에 흔들거리는 너에게 달려가\n오른편에 앉을거야\n이어폰을 뽑아 같은 음악을 들으며\n같은 리듬으로 몸을 앞뒤로 흔들거야\n\n아마도이자람밴드 5th Single [Just Taste It]\n01 Going To\n02 I Will\n\n2019.3.5.12PM release\n\n#Just_taste_it #Teaser #I_Will https://t.co/IVoj4Lajji"
+	},
+	{
 		"created_at": "Sun Mar 03 11:11:42 +0000 2019",
 		"id": 1102155075848331300,
 		"id_str": "1102164643445960704",
