@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 14:10:46 +0000 2019",
+		"id": 1102199502566436900,
+		"id_str": "1102209706641276928",
+		"full_text": "이번 주말에는 사우스 아프리카에서 놀랍도록 열정적인 #UltraSouthAfrica 를 마쳤습니다. 다음 울트라는 본국 미국 마이애미에서 만나요!\nThat’s a wrap Ultra South Africa, thank you!!\nNext stop on the Ultra Worldwide Tour: #Ultra2019 in Miami! https://t.co/XSDfAVC6DS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UltraSouthAfrica",
+					"indices": [
+						29,
+						46
+					]
+				},
+				{
+					"text": "Ultra2019",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102199491988316200,
+					"id_str": "1102199491988316160",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D0vMmSeUYAA2NBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0vMmSeUYAA2NBa.jpg",
+					"url": "https://t.co/XSDfAVC6DS",
+					"display_url": "pic.twitter.com/XSDfAVC6DS",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1102199502566436866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102199491988316200,
+					"id_str": "1102199491988316160",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D0vMmSeUYAA2NBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0vMmSeUYAA2NBa.jpg",
+					"url": "https://t.co/XSDfAVC6DS",
+					"display_url": "pic.twitter.com/XSDfAVC6DS",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1102199502566436866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": "https://t.co/tfLq6kIHkR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tfLq6kIHkR",
+							"expanded_url": "http://UMFKorea.com",
+							"display_url": "UMFKorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20155,
+			"friends_count": 24,
+			"listed_count": 122,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2155,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1548984729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주말에는 사우스 아프리카에서 놀랍도록 열정적인 #UltraSouthAfrica 를 마쳤습니다. 다음 울트라는 본국 미국 마이애미에서 만나요!\nThat’s a wrap Ultra South Africa, thank you!!\nNext stop on the Ultra Worldwide Tour: #Ultra2019 in Miami! https://t.co/XSDfAVC6DS"
+	},
+	{
 		"created_at": "Sun Mar 03 13:11:56 +0000 2019",
 		"id": 1102191950319534100,
 		"id_str": "1102194897568837632",
