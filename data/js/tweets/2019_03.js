@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 11:11:42 +0000 2019",
+		"id": 1102155075848331300,
+		"id_str": "1102164643445960704",
+		"full_text": "아직도 혼자 드럼 배운다고?\n\n국내 최대 드러머 강사진들이 모인 \n드럼캠프에 상상마당이 다녀 옴!\n\n#드럼캠프 #상상마당춘천 #리듬스토어 https://t.co/SWGXphHMpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "드럼캠프",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "상상마당춘천",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "리듬스토어",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102153981747322900,
+					"id_str": "1102153981747322880",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102153981747322880/pu/img/u8nRHEGReDfqZK1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102153981747322880/pu/img/u8nRHEGReDfqZK1c.jpg",
+					"url": "https://t.co/SWGXphHMpI",
+					"display_url": "pic.twitter.com/SWGXphHMpI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1102155075848331266/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102153981747322900,
+					"id_str": "1102153981747322880",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102153981747322880/pu/img/u8nRHEGReDfqZK1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102153981747322880/pu/img/u8nRHEGReDfqZK1c.jpg",
+					"url": "https://t.co/SWGXphHMpI",
+					"display_url": "pic.twitter.com/SWGXphHMpI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1102155075848331266/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 53587,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102153981747322880/pu/vid/480x480/KUiSDiLSL3abQigR.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102153981747322880/pu/pl/AR9nMyIXdTdVINhX.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102153981747322880/pu/vid/720x720/Wwu7F7DJJSnlvRZe.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102153981747322880/pu/vid/320x320/6cdvp0ZXolbxp5cH.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19881,
+			"friends_count": 2048,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9141,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아직도 혼자 드럼 배운다고?\n\n국내 최대 드러머 강사진들이 모인 \n드럼캠프에 상상마당이 다녀 옴!\n\n#드럼캠프 #상상마당춘천 #리듬스토어 https://t.co/SWGXphHMpI"
+	},
+	{
+		"created_at": "Sun Mar 03 10:18:28 +0000 2019",
+		"id": 1102140493771694100,
+		"id_str": "1102151244175589376",
+		"full_text": "LIVE ✔️ #우주히피\n\n#로맨틱펀치 의 어쿠스틱싱송라 #배인혁 @bennydepp  과 함께한 #최악의커플 공연이 올 해도 열렸지요. 올 해는 특별히 #이지형 의 생일 축하 무대가 있었습니다.\n\n최악의 커플이면서 언제나 최고의 캐미를 보여주는 무대, 즐거우셨나요. 😏😎 https://t.co/VhDJq3jEO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "최악의커플",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bennydepp",
+					"name": "benny kurniawan",
+					"id": 63047061,
+					"id_str": "63047061",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102140477933936600,
+					"id_str": "1102140477933936640",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D0uW7N_U4AAICp0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0uW7N_U4AAICp0.jpg",
+					"url": "https://t.co/VhDJq3jEO8",
+					"display_url": "pic.twitter.com/VhDJq3jEO8",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102140493771694082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102140477933936600,
+					"id_str": "1102140477933936640",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D0uW7N_U4AAICp0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0uW7N_U4AAICp0.jpg",
+					"url": "https://t.co/VhDJq3jEO8",
+					"display_url": "pic.twitter.com/VhDJq3jEO8",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102140493771694082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102140477933928400,
+					"id_str": "1102140477933928448",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D0uW7N_UwAAxVzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0uW7N_UwAAxVzL.jpg",
+					"url": "https://t.co/VhDJq3jEO8",
+					"display_url": "pic.twitter.com/VhDJq3jEO8",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102140493771694082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 전기뱀장어, 최낙타, 홍이삭, 네이버 온스테이지 라이브와 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1381,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3250,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LIVE ✔️ #우주히피\n\n#로맨틱펀치 의 어쿠스틱싱송라 #배인혁 @bennydepp  과 함께한 #최악의커플 공연이 올 해도 열렸지요. 올 해는 특별히 #이지형 의 생일 축하 무대가 있었습니다.\n\n최악의 커플이면서 언제나 최고의 캐미를 보여주는 무대, 즐거우셨나요. 😏😎 https://t.co/VhDJq3jEO8"
+	},
+	{
+		"created_at": "Sun Mar 03 10:18:19 +0000 2019",
+		"id": 1102139978551722000,
+		"id_str": "1102151205890023425",
+		"full_text": "'물병자리' 3라운드 무대 - J에게 (출처 : 복면가왕 | 네이버TV) https://t.co/Xvzw1oIjXG #물병자리 #권진아 #퀸진아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "물병자리",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "퀸진아",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xvzw1oIjXG",
+					"expanded_url": "http://naver.me/G35M4Bvz",
+					"display_url": "naver.me/G35M4Bvz",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai_Music Company Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35001,
+			"friends_count": 15220,
+			"listed_count": 415,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2352,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1450673766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'물병자리' 3라운드 무대 - J에게 (출처 : 복면가왕 | 네이버TV) https://t.co/Xvzw1oIjXG #물병자리 #권진아 #퀸진아"
+	},
+	{
 		"created_at": "Sun Mar 03 09:12:10 +0000 2019",
 		"id": 1102131913043566600,
 		"id_str": "1102134558630297603",
