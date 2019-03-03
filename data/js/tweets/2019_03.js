@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 06:18:16 +0000 2019",
+		"id": 1102086878730182700,
+		"id_str": "1102090798026444800",
+		"full_text": "&lt;롤링 24주년 기념 공연 vol.21 김사월 &amp; 안예은&gt; \n\n잠시후에 만나요!\n\n*공연안내*\n\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 김사월, 안예은 https://t.co/aklCnSGafx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102086869896974300,
+					"id_str": "1102086869896974336",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tmK0fU0AAN2Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tmK0fU0AAN2Je.jpg",
+					"url": "https://t.co/aklCnSGafx",
+					"display_url": "pic.twitter.com/aklCnSGafx",
+					"expanded_url": "https://twitter.com/pandawhaler/status/1102086878730182657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102086869896974300,
+					"id_str": "1102086869896974336",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tmK0fU0AAN2Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tmK0fU0AAN2Je.jpg",
+					"url": "https://t.co/aklCnSGafx",
+					"display_url": "pic.twitter.com/aklCnSGafx",
+					"expanded_url": "https://twitter.com/pandawhaler/status/1102086878730182657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024196826,
+			"id_str": "1024196826",
+			"name": "팬더웨일(Pandawhale)",
+			"screen_name": "pandawhaler",
+			"location": "",
+			"description": "팬더웨일입니다. 대서양 태평양 인도양 북극해 남극해 Fling(플링) 안예은",
+			"url": "https://t.co/We5XdGrw02",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/We5XdGrw02",
+							"expanded_url": "http://www.facebook.com/pandawhales",
+							"display_url": "facebook.com/pandawhales",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1099,
+			"friends_count": 1272,
+			"listed_count": 6,
+			"created_at": "Thu Dec 20 12:57:34 +0000 2012",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 945,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2998452563/dede211b8f48fc2ea291dd46d6f64abd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2998452563/dede211b8f48fc2ea291dd46d6f64abd_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 24주년 기념 공연 vol.21 김사월 &amp; 안예은&gt; \n\n잠시후에 만나요!\n\n*공연안내*\n\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 김사월, 안예은 https://t.co/aklCnSGafx"
+	},
+	{
 		"created_at": "Sun Mar 03 05:11:42 +0000 2019",
 		"id": 1102071774693404700,
 		"id_str": "1102074046819258368",
