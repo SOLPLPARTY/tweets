@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 07:17:11 +0000 2019",
+		"id": 1102468013079576600,
+		"id_str": "1102468013079576576",
+		"full_text": "【 #가온차트 】\n역주행 음원 트렌드 변화\n▶ https://t.co/9IZa9Xmdou\n　\n#GaonChart #가온 #Gaon #칼럼 https://t.co/9BaPsTkmoh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "가온",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						73,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9IZa9Xmdou",
+					"expanded_url": "http://bit.ly/2UkiM66",
+					"display_url": "bit.ly/2UkiM66",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102468012005883900,
+					"id_str": "1102468012005883904",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D0zA0NfXgAAeKsN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0zA0NfXgAAeKsN.png",
+					"url": "https://t.co/9BaPsTkmoh",
+					"display_url": "pic.twitter.com/9BaPsTkmoh",
+					"expanded_url": "https://twitter.com/solplparty/status/1102468013079576576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102468012005883900,
+					"id_str": "1102468012005883904",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D0zA0NfXgAAeKsN.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0zA0NfXgAAeKsN.png",
+					"url": "https://t.co/9BaPsTkmoh",
+					"display_url": "pic.twitter.com/9BaPsTkmoh",
+					"expanded_url": "https://twitter.com/solplparty/status/1102468013079576576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68,
+			"friends_count": 305,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25357,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n역주행 음원 트렌드 변화\n▶ https://t.co/9IZa9Xmdou\n　\n#GaonChart #가온 #Gaon #칼럼 https://t.co/9BaPsTkmoh"
+	},
+	{
+		"created_at": "Mon Mar 04 07:10:46 +0000 2019",
+		"id": 1102451938103345200,
+		"id_str": "1102466398201221120",
+		"full_text": "쉬었다 놉니다.\n.\n문화를 더하다. life with culture.\n㈜비이피씨탄젠트\n.\n#6월엔월디페 #5월같은6월 #월디페 #BEPCTANGENT #wdjf #edm #페스티벌 #뮤직페스티벌 #korea #비이피씨탄젠트 #BEPC #비이피씨 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/kwqkOmxBOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "6월엔월디페",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "5월같은6월",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "월디페",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "BEPCTANGENT",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "wdjf",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "edm",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "뮤직페스티벌",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "korea",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "비이피씨탄젠트",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "BEPC",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "비이피씨",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "올해도함께해요",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "월디페는사랑입니다",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "서울랜드",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "seoulland",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "ODESZA",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "오데자",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102451936207532000,
+					"id_str": "1102451936207532032",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D0yyMeeXcAAvONt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0yyMeeXcAAvONt.jpg",
+					"url": "https://t.co/kwqkOmxBOg",
+					"display_url": "pic.twitter.com/kwqkOmxBOg",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1102451938103345152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102451936207532000,
+					"id_str": "1102451936207532032",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D0yyMeeXcAAvONt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0yyMeeXcAAvONt.jpg",
+					"url": "https://t.co/kwqkOmxBOg",
+					"display_url": "pic.twitter.com/kwqkOmxBOg",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1102451938103345152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://crowdfireapp.com\" rel=\"nofollow\">Crowdfire App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3424,
+			"friends_count": 282,
+			"listed_count": 87,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2148,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1510898141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쉬었다 놉니다.\n.\n문화를 더하다. life with culture.\n㈜비이피씨탄젠트\n.\n#6월엔월디페 #5월같은6월 #월디페 #BEPCTANGENT #wdjf #edm #페스티벌 #뮤직페스티벌 #korea #비이피씨탄젠트 #BEPC #비이피씨 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/kwqkOmxBOg"
+	},
+	{
 		"created_at": "Mon Mar 04 06:11:42 +0000 2019",
 		"id": 1102446005830672400,
 		"id_str": "1102451532937809920",
