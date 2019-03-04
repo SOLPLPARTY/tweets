@@ -1,10 +1,705 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 11:10:46 +0000 2019",
+		"id": 1102523810283020300,
+		"id_str": "1102526796501794816",
+		"full_text": "로맨스와 포근한 봄의 설레임으로 가득한 페이크버진의 달콤한 3월 내한 공연들이 이번주 금요일부터 시작됩니다.\nㅤ\n0308 (금) SG LEWIS &amp; CLAIRO + AFTER PARTY\n0313 (수) MAC AYRES\n0317 (일) JMSN\nㅤ\n🎫 https://t.co/ebms0ocbIj\n#fakevirgin #페이크버진 https://t.co/qrGzSCcHFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fakevirgin",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "페이크버진",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ebms0ocbIj",
+					"expanded_url": "http://fakevirgin.com",
+					"display_url": "fakevirgin.com",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102523719467978800,
+					"id_str": "1102523719467978752",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102523719467978752/pu/img/5dXpNBCNCwL5Dgu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102523719467978752/pu/img/5dXpNBCNCwL5Dgu_.jpg",
+					"url": "https://t.co/qrGzSCcHFU",
+					"display_url": "pic.twitter.com/qrGzSCcHFU",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1102523810283020289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102523719467978800,
+					"id_str": "1102523719467978752",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102523719467978752/pu/img/5dXpNBCNCwL5Dgu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102523719467978752/pu/img/5dXpNBCNCwL5Dgu_.jpg",
+					"url": "https://t.co/qrGzSCcHFU",
+					"display_url": "pic.twitter.com/qrGzSCcHFU",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1102523810283020289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57048,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102523719467978752/pu/vid/480x480/uiL2mxYFykpLRtb8.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102523719467978752/pu/pl/phwOwHBXiASC5aid.m3u8?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102523719467978752/pu/vid/320x320/mPXEQyNYUN7Q3Lv5.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102523719467978752/pu/vid/720x720/RB96f3bl3C57_hqE.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "2/28 MASEGO • 3/8 SG LEWIS & CLAIRO • 3/13 MAC AYRES • 3/17 JMSN • 4/11 ALUNAGEORGE",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 60,
+			"listed_count": 16,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로맨스와 포근한 봄의 설레임으로 가득한 페이크버진의 달콤한 3월 내한 공연들이 이번주 금요일부터 시작됩니다.\nㅤ\n0308 (금) SG LEWIS &amp; CLAIRO + AFTER PARTY\n0313 (수) MAC AYRES\n0317 (일) JMSN\nㅤ\n🎫 https://t.co/ebms0ocbIj\n#fakevirgin #페이크버진 https://t.co/qrGzSCcHFU"
+	},
+	{
+		"created_at": "Mon Mar 04 10:18:30 +0000 2019",
+		"id": 1102510934017241100,
+		"id_str": "1102513639817441280",
+		"full_text": "[유라]\n유라가 피처링으로 참여한\n코스믹보이 타이틀곡\n'Can I Love?' Live Ver🎤 이\n공개되었습니다👏🏻👏🏻\n(놓치지말고 풀버전 보러가긔👀)\n\n🎥Full Ver : https://t.co/wyZGeSYRTn\n딩고 프리스타일 유튜브 채널에서 확인 가능합니다!\n\n#유라 #youra #can_i_love\n#Cosmic_boy #딩고프리스타일 https://t.co/XLdPrJFufX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "can_i_love",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"text": "Cosmic_boy",
+					"indices": [
+						175,
+						186
+					]
+				},
+				{
+					"text": "딩고프리스타일",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wyZGeSYRTn",
+					"expanded_url": "https://youtu.be/5lQj7wmvWfQ",
+					"display_url": "youtu.be/5lQj7wmvWfQ",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102510837468606500,
+					"id_str": "1102510837468606464",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102510837468606464/pu/img/Kh23l_e-_RvQxEdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102510837468606464/pu/img/Kh23l_e-_RvQxEdL.jpg",
+					"url": "https://t.co/XLdPrJFufX",
+					"display_url": "pic.twitter.com/XLdPrJFufX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1102510934017241088/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102510837468606500,
+					"id_str": "1102510837468606464",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102510837468606464/pu/img/Kh23l_e-_RvQxEdL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102510837468606464/pu/img/Kh23l_e-_RvQxEdL.jpg",
+					"url": "https://t.co/XLdPrJFufX",
+					"display_url": "pic.twitter.com/XLdPrJFufX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1102510934017241088/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59970,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102510837468606464/pu/vid/480x480/aK1IHfrGJT0KPn6w.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102510837468606464/pu/vid/320x320/R2kawBicJf5eX_wX.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102510837468606464/pu/pl/yOGiT26SORWUhWgc.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/신현희와김루트/민채/롱디/앤츠/윤현상/젊은이/이나/재니/크림/글로잉독/서교동의 밤/크래커/콜렉티브아츠/알레프/아일/헤이맨/유라/에버루아/로지",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 7,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 619,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n유라가 피처링으로 참여한\n코스믹보이 타이틀곡\n'Can I Love?' Live Ver🎤 이\n공개되었습니다👏🏻👏🏻\n(놓치지말고 풀버전 보러가긔👀)\n\n🎥Full Ver : https://t.co/wyZGeSYRTn\n딩고 프리스타일 유튜브 채널에서 확인 가능합니다!\n\n#유라 #youra #can_i_love\n#Cosmic_boy #딩고프리스타일 https://t.co/XLdPrJFufX"
+	},
+	{
+		"created_at": "Mon Mar 04 10:18:26 +0000 2019",
+		"id": 1102509921508122600,
+		"id_str": "1102513626521526273",
+		"full_text": "• 참여 기간 : 3/5(화) 정오 ~ 3/10(일) 자정까지\n• 당첨자 발표 : 3/11(월)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102501648172122100,
+		"in_reply_to_status_id_str": "1102501648172122112",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 전기뱀장어, 최낙타, 홍이삭, 네이버 온스테이지 라이브와 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1381,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 참여 기간 : 3/5(화) 정오 ~ 3/10(일) 자정까지\n• 당첨자 발표 : 3/11(월)"
+	},
+	{
+		"created_at": "Mon Mar 04 10:18:22 +0000 2019",
+		"id": 1102509772958388200,
+		"id_str": "1102513609291296768",
+		"full_text": "• 이벤트 참여 방법 :\n1. 개인 인스타그램/트위터/페이스북에 싱글 ‘I will’, ‘Going to’의 스트리밍 인증 캡쳐와 함께 감상평 올리기\n2. 해시태그 #아마도이자람밴드 #아이밴 #음악감상 #추천 도 함께 올려야 참여 완료!\n3. 비공개인 경우, 확인이 불가능하니 반드시 공개로 전환하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "아이밴",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "음악감상",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "추천",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102501648172122100,
+		"in_reply_to_status_id_str": "1102501648172122112",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 전기뱀장어, 최낙타, 홍이삭, 네이버 온스테이지 라이브와 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1381,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 이벤트 참여 방법 :\n1. 개인 인스타그램/트위터/페이스북에 싱글 ‘I will’, ‘Going to’의 스트리밍 인증 캡쳐와 함께 감상평 올리기\n2. 해시태그 #아마도이자람밴드 #아이밴 #음악감상 #추천 도 함께 올려야 참여 완료!\n3. 비공개인 경우, 확인이 불가능하니 반드시 공개로 전환하기"
+	},
+	{
 		"created_at": "Mon Mar 04 10:11:42 +0000 2019",
 		"id": 1102501115843641300,
 		"id_str": "1102511931225722881",
-		"full_text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 세 번째 뮤지션\n\n#은종 님입니다🍭🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #bilyacoustie\n#모트 #motte #silverbell https://t.co/nVCalrVpT5",
+		"full_text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 세 번째 뮤지션\n\n#은종 님입니다🍭🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #bilyacoustie\n#모트 #motte #silverbell https://t.co/nVCalrVpT5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -236,7 +931,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 세 번째 뮤지션\n\n#은종 님입니다🍭🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #bilyacoustie\n#모트 #motte #silverbell https://t.co/nVCalrVpT5"
+		"text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 세 번째 뮤지션\n\n#은종 님입니다🍭🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #bilyacoustie\n#모트 #motte #silverbell https://t.co/nVCalrVpT5"
 	},
 	{
 		"created_at": "Mon Mar 04 10:10:46 +0000 2019",
