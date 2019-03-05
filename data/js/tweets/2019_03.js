@@ -1,10 +1,715 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 11:09:19 +0000 2019",
+		"id": 1102888816631840800,
+		"id_str": "1102888816631840769",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n황지민\nhttps://t.co/LUNtse7oAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LUNtse7oAV",
+					"expanded_url": "https://youtu.be/x_eZQ4pmjpM",
+					"display_url": "youtu.be/x_eZQ4pmjpM",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 305,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25496,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n황지민\nhttps://t.co/LUNtse7oAV"
+	},
+	{
+		"created_at": "Tue Mar 05 11:01:54 +0000 2019",
+		"id": 1102886950741180400,
+		"id_str": "1102886950741180416",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n3월 5일 | 김담소\nhttps://t.co/9jt6E7joUW\n#미러볼블로그 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "미러볼블로그",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jt6E7joUW",
+					"expanded_url": "http://bit.ly/2TwmTPk",
+					"display_url": "bit.ly/2TwmTPk",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 305,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25496,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n3월 5일 | 김담소\nhttps://t.co/9jt6E7joUW\n#미러볼블로그 #유통사"
+	},
+	{
+		"created_at": "Tue Mar 05 10:18:31 +0000 2019",
+		"id": 1102872073146269700,
+		"id_str": "1102876035618652162",
+		"full_text": "#민서 가 출연하는 tvN D &lt;좀 예민해도 괜찮아2&gt;의 마지막회 EP.10가 V LIVE, 네이버TV를 통해 선공개됐습니다. 깡윤선배의 사이다 이제 못 보는건가요?😭 깡윤의 인턴 동기들과 홍대리님도 안녕..😭👋\n\n#강윤주 #깡윤 #좀예민해도괜찮아2 #좀예민2 #유혜인 #정혜린 #안시은 https://t.co/B8LYXjsLcH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "강윤주",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "깡윤",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "좀예민해도괜찮아2",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "좀예민2",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "유혜인",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "정혜린",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "안시은",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102872062274592800,
+					"id_str": "1102872062274592768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D04wTCCUYAAYX6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04wTCCUYAAYX6J.jpg",
+					"url": "https://t.co/B8LYXjsLcH",
+					"display_url": "pic.twitter.com/B8LYXjsLcH",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1102872073146269696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102872062274592800,
+					"id_str": "1102872062274592768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D04wTCCUYAAYX6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04wTCCUYAAYX6J.jpg",
+					"url": "https://t.co/B8LYXjsLcH",
+					"display_url": "pic.twitter.com/B8LYXjsLcH",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1102872073146269696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102872062308151300,
+					"id_str": "1102872062308151296",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D04wTCKUcAAfZ97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04wTCKUcAAfZ97.jpg",
+					"url": "https://t.co/B8LYXjsLcH",
+					"display_url": "pic.twitter.com/B8LYXjsLcH",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1102872073146269696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "MYSTIC Entertainment",
+			"screen_name": "Mystic_89",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC Entertainment Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16363,
+			"friends_count": 12,
+			"listed_count": 218,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4151,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1420771662",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민서 가 출연하는 tvN D &lt;좀 예민해도 괜찮아2&gt;의 마지막회 EP.10가 V LIVE, 네이버TV를 통해 선공개됐습니다. 깡윤선배의 사이다 이제 못 보는건가요?😭 깡윤의 인턴 동기들과 홍대리님도 안녕..😭👋\n\n#강윤주 #깡윤 #좀예민해도괜찮아2 #좀예민2 #유혜인 #정혜린 #안시은 https://t.co/B8LYXjsLcH"
+	},
+	{
+		"created_at": "Tue Mar 05 10:18:25 +0000 2019",
+		"id": 1102865067144491000,
+		"id_str": "1102876009924362240",
+		"full_text": "SCHEDULE ✔️ #아마도이자람밴드\n\n아마도이자람밴드 싱글 [Just taste it] 잘 듣고 계신가요?\n⠀\n🎥내일(3/6) 오전 10시 SBS 파워FM &lt;아름다운 이 아침 김창완입니다&gt; 에서 신곡 라이브 바로 생방송으로 만나실 수 있습니다.\n⠀\n👀보는라디오도 함께! 107.7Mhz, 고릴라 어플로 청취 가능합니다. https://t.co/9pnfmhs7DQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102865060676821000,
+					"id_str": "1102865060676820992",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D04p7fDU4AAh8GR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04p7fDU4AAh8GR.jpg",
+					"url": "https://t.co/9pnfmhs7DQ",
+					"display_url": "pic.twitter.com/9pnfmhs7DQ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102865067144491008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102865060676821000,
+					"id_str": "1102865060676820992",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D04p7fDU4AAh8GR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04p7fDU4AAh8GR.jpg",
+					"url": "https://t.co/9pnfmhs7DQ",
+					"display_url": "pic.twitter.com/9pnfmhs7DQ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1102865067144491008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 전기뱀장어, 최낙타, 홍이삭, 네이버 온스테이지 라이브와 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1381,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3260,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SCHEDULE ✔️ #아마도이자람밴드\n\n아마도이자람밴드 싱글 [Just taste it] 잘 듣고 계신가요?\n⠀\n🎥내일(3/6) 오전 10시 SBS 파워FM &lt;아름다운 이 아침 김창완입니다&gt; 에서 신곡 라이브 바로 생방송으로 만나실 수 있습니다.\n⠀\n👀보는라디오도 함께! 107.7Mhz, 고릴라 어플로 청취 가능합니다. https://t.co/9pnfmhs7DQ"
+	},
+	{
 		"created_at": "Tue Mar 05 10:11:42 +0000 2019",
 		"id": 1102874166997311500,
 		"id_str": "1102874319846297601",
-		"full_text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 마지막 뮤지션은\n\n#윤덕원 님입니다🥦🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #모트 #은종\n#브로콜리너마저 #yoonduckwon https://t.co/qfyJM1yTF5",
+		"full_text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 마지막 뮤지션은\n\n#윤덕원 님입니다🥦🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #모트 #은종\n#브로콜리너마저 #yoonduckwon https://t.co/qfyJM1yTF5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -236,7 +941,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 마지막 뮤지션은\n\n#윤덕원 님입니다🥦🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #모트 #은종\n#브로콜리너마저 #yoonduckwon https://t.co/qfyJM1yTF5"
+		"text": "#올댓뮤직 #공개녹화 \n190314(목) 19:00 @춘천KBS공개홀\n\n달콤한 화이트데이를\n함께 해주실 마지막 뮤지션은\n\n#윤덕원 님입니다🥦🍬💕\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #190314\n#빌리어코스티 #모트 #은종\n#브로콜리너마저 #yoonduckwon https://t.co/qfyJM1yTF5"
 	},
 	{
 		"created_at": "Tue Mar 05 10:02:11 +0000 2019",
