@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 13:11:42 +0000 2019",
+		"id": 1102905316503511000,
+		"id_str": "1102919618304315392",
+		"full_text": "3/17(sun) [clubFF - Feels so good]\n키라이트 keylight\n리엘 Liel\n메이릴 Mayreel\n원디비 1DB\n오렌지팡팡보이즈 orange fang fang boys\n\nStart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/l7kUqYeW4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102905309687738400,
+					"id_str": "1102905309687738369",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D05OiSTUcAE5DCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D05OiSTUcAE5DCU.jpg",
+					"url": "https://t.co/l7kUqYeW4w",
+					"display_url": "pic.twitter.com/l7kUqYeW4w",
+					"expanded_url": "https://twitter.com/clubFF_/status/1102905316503511041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102905309687738400,
+					"id_str": "1102905309687738369",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D05OiSTUcAE5DCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D05OiSTUcAE5DCU.jpg",
+					"url": "https://t.co/l7kUqYeW4w",
+					"display_url": "pic.twitter.com/l7kUqYeW4w",
+					"expanded_url": "https://twitter.com/clubFF_/status/1102905316503511041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102905309687738400,
+					"id_str": "1102905309687738368",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D05OiSTUcAAZqb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D05OiSTUcAAZqb_.jpg",
+					"url": "https://t.co/l7kUqYeW4w",
+					"display_url": "pic.twitter.com/l7kUqYeW4w",
+					"expanded_url": "https://twitter.com/clubFF_/status/1102905316503511041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6932,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/17(sun) [clubFF - Feels so good]\n키라이트 keylight\n리엘 Liel\n메이릴 Mayreel\n원디비 1DB\n오렌지팡팡보이즈 orange fang fang boys\n\nStart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/l7kUqYeW4w"
+	},
+	{
+		"created_at": "Tue Mar 05 12:18:24 +0000 2019",
+		"id": 1102896795716210700,
+		"id_str": "1102906201543753728",
+		"full_text": "생각의 여름 - ‘Preface’ MV 공개\n풀버전은 아래 링크에서\nhttps://t.co/m4EXKk09mF\n\n생각의 여름 단독공연 [나무들의 공화국]\n*공연일시 : 2019년 3월 30일(토) 6pm / 31일(일) 6pm\n*공연장소 : 벨로주 망원\n*티켓가격 : 예매 45,000원 / 현매 50,000원\n*예매처 : 멜론티켓 https://t.co/OdPMeAD1N3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m4EXKk09mF",
+					"expanded_url": "https://youtu.be/3D7B3jjFlXA",
+					"display_url": "youtu.be/3D7B3jjFlXA",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102896654242345000,
+					"id_str": "1102896654242344960",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102896654242344960/pu/img/oZ50dOq62wadvJiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102896654242344960/pu/img/oZ50dOq62wadvJiH.jpg",
+					"url": "https://t.co/OdPMeAD1N3",
+					"display_url": "pic.twitter.com/OdPMeAD1N3",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1102896795716210690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102896654242345000,
+					"id_str": "1102896654242344960",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102896654242344960/pu/img/oZ50dOq62wadvJiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102896654242344960/pu/img/oZ50dOq62wadvJiH.jpg",
+					"url": "https://t.co/OdPMeAD1N3",
+					"display_url": "pic.twitter.com/OdPMeAD1N3",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1102896795716210690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102896654242344960/pu/vid/318x180/YEbx_LDq-a7NKHG-.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102896654242344960/pu/pl/KHAIGWODYdjcZ45t.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102896654242344960/pu/vid/720x406/2KJIO3nfs4SuSxRJ.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10988,
+			"friends_count": 5114,
+			"listed_count": 313,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4924,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생각의 여름 - ‘Preface’ MV 공개\n풀버전은 아래 링크에서\nhttps://t.co/m4EXKk09mF\n\n생각의 여름 단독공연 [나무들의 공화국]\n*공연일시 : 2019년 3월 30일(토) 6pm / 31일(일) 6pm\n*공연장소 : 벨로주 망원\n*티켓가격 : 예매 45,000원 / 현매 50,000원\n*예매처 : 멜론티켓 https://t.co/OdPMeAD1N3"
+	},
+	{
+		"created_at": "Tue Mar 05 12:18:22 +0000 2019",
+		"id": 1102891133611343900,
+		"id_str": "1102906192731537410",
+		"full_text": "-Credit-\nCast 서현재\nDirector 오채영\nArt 김미정 오은정\nD.O.P 문효은\nEditor 오채영\n\n#유정목 #우리의날들 #뮤직비디오 #kiwicrew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "우리의날들",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "kiwicrew",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1102891132298571800,
+		"in_reply_to_status_id_str": "1102891132298571778",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT)",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희 여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 337,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2294,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101005454300241920/KQuDiUBQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101005454300241920/KQuDiUBQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1551334897",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "-Credit-\nCast 서현재\nDirector 오채영\nArt 김미정 오은정\nD.O.P 문효은\nEditor 오채영\n\n#유정목 #우리의날들 #뮤직비디오 #kiwicrew"
+	},
+	{
 		"created_at": "Tue Mar 05 12:10:46 +0000 2019",
 		"id": 1102889133846847500,
 		"id_str": "1102904283572379648",
