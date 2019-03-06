@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 10:12:10 +0000 2019",
+		"id": 1103236821578850300,
+		"id_str": "1103236821578850304",
+		"full_text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF2019 Artist] John Scofield's \"Combo 66\"\nhttps://t.co/sy4oNg0ZhU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울재즈페스티벌",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Seoul_Jazz_Festival",
+					"indices": [
+						10,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sy4oNg0ZhU",
+					"expanded_url": "https://youtu.be/vZEvdPv1snI",
+					"display_url": "youtu.be/vZEvdPv1snI",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 305,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25582,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF2019 Artist] John Scofield's \"Combo 66\"\nhttps://t.co/sy4oNg0ZhU"
+	},
+	{
+		"created_at": "Wed Mar 06 10:11:42 +0000 2019",
+		"id": 1103229672416931800,
+		"id_str": "1103236706931802113",
+		"full_text": "#올댓뮤직 #본방사수\n\n#금손포토 님 사진이 도착했습니다💌\n귀호강 무대를 드디어 방송으로 만나다니🙊\n\n내일 밤 11시40분 KBS1TV\n#TSQUARE #최고은 편 기대해주세요🎧\n\n#올댓뮤직_본방사수 #ALLTHATMUSIC\n#목요일밤엔올댓뮤직 #육중완 #MC와니\n#티스퀘어 #gonnechoi\n#본방사수이벤트 #기대해주세요오 https://t.co/Iz5uHMnogX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "금손포토",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "TSQUARE",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "최고은",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "티스퀘어",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "gonnechoi",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "기대해주세요오",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103228034222415900,
+					"id_str": "1103228034222415872",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D090DU4UYAAwkbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D090DU4UYAAwkbK.jpg",
+					"url": "https://t.co/Iz5uHMnogX",
+					"display_url": "pic.twitter.com/Iz5uHMnogX",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1103229672416931840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103228034222415900,
+					"id_str": "1103228034222415872",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D090DU4UYAAwkbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D090DU4UYAAwkbK.jpg",
+					"url": "https://t.co/Iz5uHMnogX",
+					"display_url": "pic.twitter.com/Iz5uHMnogX",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1103229672416931840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103229649121767400,
+					"id_str": "1103229649121767425",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D091hU2U8AEvr3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D091hU2U8AEvr3q.jpg",
+					"url": "https://t.co/Iz5uHMnogX",
+					"display_url": "pic.twitter.com/Iz5uHMnogX",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1103229672416931840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103229658831548400,
+					"id_str": "1103229658831548416",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D091h5BUcAA38dT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D091h5BUcAA38dT.jpg",
+					"url": "https://t.co/Iz5uHMnogX",
+					"display_url": "pic.twitter.com/Iz5uHMnogX",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1103229672416931840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103229663378268200,
+					"id_str": "1103229663378268160",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D091iJ9V4AAi2Ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D091iJ9V4AAi2Ux.jpg",
+					"url": "https://t.co/Iz5uHMnogX",
+					"display_url": "pic.twitter.com/Iz5uHMnogX",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1103229672416931840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3796,
+			"friends_count": 968,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7669,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n\n#금손포토 님 사진이 도착했습니다💌\n귀호강 무대를 드디어 방송으로 만나다니🙊\n\n내일 밤 11시40분 KBS1TV\n#TSQUARE #최고은 편 기대해주세요🎧\n\n#올댓뮤직_본방사수 #ALLTHATMUSIC\n#목요일밤엔올댓뮤직 #육중완 #MC와니\n#티스퀘어 #gonnechoi\n#본방사수이벤트 #기대해주세요오 https://t.co/Iz5uHMnogX"
+	},
+	{
+		"created_at": "Wed Mar 06 10:10:46 +0000 2019",
+		"id": 1103228436259065900,
+		"id_str": "1103236472411471872",
+		"full_text": "☮#2018아티스트리뷰\n-\n평화행 급행 열차 피스트레인에 함께 탑승했던 2018 아티스트의 리뷰 영상입니다.  피-쓰. https://t.co/amVsZuAUNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2018아티스트리뷰",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amVsZuAUNB",
+					"expanded_url": "https://youtu.be/3x8dNydakDo",
+					"display_url": "youtu.be/3x8dNydakDo",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Peace & Music! 2019.6.5~6.9 Cheorwon&Seoul Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1551863620",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮#2018아티스트리뷰\n-\n평화행 급행 열차 피스트레인에 함께 탑승했던 2018 아티스트의 리뷰 영상입니다.  피-쓰. https://t.co/amVsZuAUNB"
+	},
+	{
 		"created_at": "Wed Mar 06 09:10:55 +0000 2019",
 		"id": 1103218875628511200,
 		"id_str": "1103221411383074816",
