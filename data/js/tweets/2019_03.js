@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 06:18:16 +0000 2019",
+		"id": 1103531684119511000,
+		"id_str": "1103540349396488192",
+		"full_text": "'죽어도 못 보내'..#정진운 입대 전 마지막 춤사위 현장 &lt;Wait!!&gt;\n&gt; https://t.co/J41IRgh8QK\n\n더 많은 사진 보러 가기🔼 https://t.co/lLDmb4WecV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J41IRgh8QK",
+					"expanded_url": "http://naver.me/xFXsozLG",
+					"display_url": "naver.me/xFXsozLG",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103531352379469800,
+					"id_str": "1103531352379469825",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D1CH6xEVsAE5krs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1CH6xEVsAE5krs.jpg",
+					"url": "https://t.co/lLDmb4WecV",
+					"display_url": "pic.twitter.com/lLDmb4WecV",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1103531684119511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103531352379469800,
+					"id_str": "1103531352379469825",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D1CH6xEVsAE5krs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1CH6xEVsAE5krs.jpg",
+					"url": "https://t.co/lLDmb4WecV",
+					"display_url": "pic.twitter.com/lLDmb4WecV",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1103531684119511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103531352975011800,
+					"id_str": "1103531352975011845",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D1CH6zSU8AU6-OJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1CH6zSU8AU6-OJ.jpg",
+					"url": "https://t.co/lLDmb4WecV",
+					"display_url": "pic.twitter.com/lLDmb4WecV",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1103531684119511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103531352006119400,
+					"id_str": "1103531352006119426",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D1CH6vrU0AII6aE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1CH6vrU0AII6aE.jpg",
+					"url": "https://t.co/lLDmb4WecV",
+					"display_url": "pic.twitter.com/lLDmb4WecV",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1103531684119511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1103531417961525200,
+					"id_str": "1103531417961525248",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D1CH-lYUcAAMR6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1CH-lYUcAAMR6y.jpg",
+					"url": "https://t.co/lLDmb4WecV",
+					"display_url": "pic.twitter.com/lLDmb4WecV",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1103531684119511040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "MYSTIC Entertainment",
+			"screen_name": "Mystic_89",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC Entertainment Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16367,
+			"friends_count": 12,
+			"listed_count": 219,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4154,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1420771662",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'죽어도 못 보내'..#정진운 입대 전 마지막 춤사위 현장 &lt;Wait!!&gt;\n&gt; https://t.co/J41IRgh8QK\n\n더 많은 사진 보러 가기🔼 https://t.co/lLDmb4WecV"
+	},
+	{
 		"created_at": "Thu Mar 07 06:11:42 +0000 2019",
 		"id": 1103532948374974500,
 		"id_str": "1103538696601694208",
