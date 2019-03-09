@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 09 11:11:50 +0000 2019",
+		"id": 1104334965397831700,
+		"id_str": "1104339004386885634",
+		"full_text": "2. &lt;2019 Lovesome&gt; 플라이어\n\n봄을 맞아 아주 특별한 축제가 준비되었어요🌷 그만큼 라인업도 특별한데요🥳\n따스하고 한가로운 봄의 분위기를 만끽하고 싶으신 분들은 아래 공연을 주목해주세요-!\n\n&lt;2019 LOVESOME&gt;\n📍일시 : 4/6(토)\n📍장소 : 연세대학교 노천극장\n📍예매 : https://t.co/dxr5yEcoZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxr5yEcoZL",
+					"expanded_url": "http://reurl.kr/13524FA4NR",
+					"display_url": "reurl.kr/13524FA4NR",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1104334958607253500,
+		"in_reply_to_status_id_str": "1104334958607253504",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2633,
+			"friends_count": 2395,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8154,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2. &lt;2019 Lovesome&gt; 플라이어\n\n봄을 맞아 아주 특별한 축제가 준비되었어요🌷 그만큼 라인업도 특별한데요🥳\n따스하고 한가로운 봄의 분위기를 만끽하고 싶으신 분들은 아래 공연을 주목해주세요-!\n\n&lt;2019 LOVESOME&gt;\n📍일시 : 4/6(토)\n📍장소 : 연세대학교 노천극장\n📍예매 : https://t.co/dxr5yEcoZL"
+	},
+	{
 		"created_at": "Sat Mar 09 10:11:23 +0000 2019",
 		"id": 1104323789213614100,
 		"id_str": "1104323789213614080",
