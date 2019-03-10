@@ -1,10 +1,173 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 08:18:17 +0000 2019",
+		"id": 1104650380040790000,
+		"id_str": "1104657713190129666",
+		"full_text": "[유라] 오늘 함께한\nSBS 라디오 '두시탈출 컬투쇼' 잘 들으셨나요?😃\n\n유라가 컬투쇼에서 전한 #박정현 #춤 #일본진출 #더팬 에 대한 내용은\n홈페이지를 통해 다시 듣기 해주세요📻\n\n🗞https://t.co/4RGhB1sjWh\n\n#유라 #youra #두시탈출 #컬투쇼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박정현",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "춤",
+					"indices": [
+						60,
+						62
+					]
+				},
+				{
+					"text": "일본진출",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "더팬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "유라",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "두시탈출",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "컬투쇼",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4RGhB1sjWh",
+					"expanded_url": "http://naver.me/Grzc2cmt",
+					"display_url": "naver.me/Grzc2cmt",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/신현희와김루트/민채/롱디/앤츠/윤현상/젊은이/이나/재니/크림/글로잉독/서교동의 밤/크래커/콜렉티브아츠/알레프/아일/헤이맨/유라/에버루아/로지",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 7,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 624,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라] 오늘 함께한\nSBS 라디오 '두시탈출 컬투쇼' 잘 들으셨나요?😃\n\n유라가 컬투쇼에서 전한 #박정현 #춤 #일본진출 #더팬 에 대한 내용은\n홈페이지를 통해 다시 듣기 해주세요📻\n\n🗞https://t.co/4RGhB1sjWh\n\n#유라 #youra #두시탈출 #컬투쇼"
+	},
+	{
 		"created_at": "Sun Mar 10 07:19:54 +0000 2019",
 		"id": 1104638115916992500,
 		"id_str": "1104643024158629890",
-		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#6월엔월디페 #5월같은6월 #월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/J1l0lbmeJn",
+		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⠀\n.\n예매처 : https://t.co/pFmo1AWpe0\n2019 월디페는 서울랜드에서⠀\n6월 1일~2일에 진행됩니다.\n.⠀\n#6월엔월디페 #5월같은6월 #월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/J1l0lbmeJn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -239,7 +402,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#6월엔월디페 #5월같은6월 #월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/J1l0lbmeJn"
+		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⠀\n.\n예매처 : https://t.co/pFmo1AWpe0\n2019 월디페는 서울랜드에서⠀\n6월 1일~2일에 진행됩니다.\n.⠀\n#6월엔월디페 #5월같은6월 #월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 https://t.co/J1l0lbmeJn"
 	},
 	{
 		"created_at": "Sun Mar 10 04:55:26 +0000 2019",
