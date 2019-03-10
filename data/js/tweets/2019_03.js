@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 15:11:42 +0000 2019",
+		"id": 1104758583541940200,
+		"id_str": "1104761756457594880",
+		"full_text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n#은종 #모트 #빌리어코스티 #윤덕원\n\n벌써 주말 끝이라니😢\n두 남자의 따뜻한 목소리로\n다음 주도 힘내봅시다💪\n\n곧 신청이 마감되니\n서둘러 신청해주세요!\n올댓뮤직에서 만나요오😍\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC\n#시와 님도 #함께합니다❤ https://t.co/n4pIj8s5Wc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개방송",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "은종",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "빌리어코스티",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "윤덕원",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "시와",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "함께합니다",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104758495574818800,
+					"id_str": "1104758495574818818",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1104758495574818818/pu/img/sZmTL8aK-4_zhc5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1104758495574818818/pu/img/sZmTL8aK-4_zhc5E.jpg",
+					"url": "https://t.co/n4pIj8s5Wc",
+					"display_url": "pic.twitter.com/n4pIj8s5Wc",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1104758583541940225/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 912,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 912,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104758495574818800,
+					"id_str": "1104758495574818818",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1104758495574818818/pu/img/sZmTL8aK-4_zhc5E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1104758495574818818/pu/img/sZmTL8aK-4_zhc5E.jpg",
+					"url": "https://t.co/n4pIj8s5Wc",
+					"display_url": "pic.twitter.com/n4pIj8s5Wc",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1104758583541940225/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 912,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 912,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							15,
+							19
+						],
+						"duration_millis": 35398,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1104758495574818818/pu/vid/720x912/z2asWW4WU4EXKS6P.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1104758495574818818/pu/pl/L4jgbDQXovO6ww7v.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1104758495574818818/pu/vid/360x456/kJFeihdhgKCZGWIU.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1104758495574818818/pu/vid/320x404/mqLPq5tUfqJNGgnZ.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3797,
+			"friends_count": 968,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7675,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n#은종 #모트 #빌리어코스티 #윤덕원\n\n벌써 주말 끝이라니😢\n두 남자의 따뜻한 목소리로\n다음 주도 힘내봅시다💪\n\n곧 신청이 마감되니\n서둘러 신청해주세요!\n올댓뮤직에서 만나요오😍\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC\n#시와 님도 #함께합니다❤ https://t.co/n4pIj8s5Wc"
+	},
+	{
 		"created_at": "Sun Mar 10 13:11:43 +0000 2019",
 		"id": 1104723026354987000,
 		"id_str": "1104731558055952386",
