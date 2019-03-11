@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 01:11:42 +0000 2019",
+		"id": 1104903476390309900,
+		"id_str": "1104912751300919296",
+		"full_text": "'그러나 사실은 슬프게도 나는 괜찮지 않지'\n이별해봤다면 폭풍 공감! 10cm - &lt;그러나&gt; \n\n풀버전 감상하기 \n▶ https://t.co/udGkk06b2m\n\n#10cm #십센치 #권정열 #그러나 #아지트라이브\n#유튜브 #구독 #인디라이브 #azitlive #CJ문화재단 https://t.co/IE0ywt97G0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10cm",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "그러나",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "구독",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "인디라이브",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "azitlive",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "CJ문화재단",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/udGkk06b2m",
+					"expanded_url": "https://youtu.be/qRuBFZcN880",
+					"display_url": "youtu.be/qRuBFZcN880",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/IE0ywt97G0",
+					"expanded_url": "https://www.facebook.com/cjazit/videos/769295426775677/",
+					"display_url": "facebook.com/cjazit/videos/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134983822,
+			"id_str": "134983822",
+			"name": "CJ문화재단",
+			"screen_name": "cjazit",
+			"location": "Seoul, South Korea",
+			"description": "젊은 창작자의 꿈을 함께 실현하여 문화산업의 새로운 미래를 만들어갑니다",
+			"url": "https://t.co/8yRt1LmqWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8yRt1LmqWh",
+							"expanded_url": "http://www.cjazit.org/",
+							"display_url": "cjazit.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5737,
+			"friends_count": 993,
+			"listed_count": 165,
+			"created_at": "Tue Apr 20 01:07:47 +0000 2010",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2115,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F25E24",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/587855418791038977/EhZIx_h2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/587855418791038977/EhZIx_h2_normal.png",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "D0C9C2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'그러나 사실은 슬프게도 나는 괜찮지 않지'\n이별해봤다면 폭풍 공감! 10cm - &lt;그러나&gt; \n\n풀버전 감상하기 \n▶ https://t.co/udGkk06b2m\n\n#10cm #십센치 #권정열 #그러나 #아지트라이브\n#유튜브 #구독 #인디라이브 #azitlive #CJ문화재단 https://t.co/IE0ywt97G0"
+	},
+	{
 		"created_at": "Mon Mar 11 00:11:43 +0000 2019",
 		"id": 1104895691556454400,
 		"id_str": "1104897653077434368",
