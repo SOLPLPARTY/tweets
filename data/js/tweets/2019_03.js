@@ -1,10 +1,408 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 12:58:36 +0000 2019",
+		"id": 1105090645520207900,
+		"id_str": "1105090645520207872",
+		"full_text": "【 #벅스 】 #뮤직포스트\n[뮤직포커스] 월간 팝 뉴스 - 2019 시상식 총결산, 미국판 복면가왕 우승자는?\nhttps://t.co/cpigEPfeii https://t.co/s2Oa0iW8P3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cpigEPfeii",
+					"expanded_url": "http://bit.ly/2UqSqj6",
+					"display_url": "bit.ly/2UqSqj6",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105090644266111000,
+					"id_str": "1105090644266110976",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D1YSFgAW0AARoYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1YSFgAW0AARoYM.jpg",
+					"url": "https://t.co/s2Oa0iW8P3",
+					"display_url": "pic.twitter.com/s2Oa0iW8P3",
+					"expanded_url": "https://twitter.com/solplparty/status/1105090645520207872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105090644266111000,
+					"id_str": "1105090644266110976",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D1YSFgAW0AARoYM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1YSFgAW0AARoYM.jpg",
+					"url": "https://t.co/s2Oa0iW8P3",
+					"display_url": "pic.twitter.com/s2Oa0iW8P3",
+					"expanded_url": "https://twitter.com/solplparty/status/1105090645520207872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25943,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #벅스 】 #뮤직포스트\n[뮤직포커스] 월간 팝 뉴스 - 2019 시상식 총결산, 미국판 복면가왕 우승자는?\nhttps://t.co/cpigEPfeii https://t.co/s2Oa0iW8P3"
+	},
+	{
+		"created_at": "Mon Mar 11 12:31:49 +0000 2019",
+		"id": 1105083908830441500,
+		"id_str": "1105083908830441472",
+		"full_text": "【 #멜론 】 #멜론매거진\n에픽하이 (EPIK HIGH) '술이 달다 (Feat. 크러쉬)' 뮤직비디오 촬영 현장\nhttps://t.co/lgOqEhupuH https://t.co/gZvqhrMAaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lgOqEhupuH",
+					"expanded_url": "http://bit.ly/2J1QBrs",
+					"display_url": "bit.ly/2J1QBrs",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105083907559559200,
+					"id_str": "1105083907559559168",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D1YL9X0WkAAXMZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1YL9X0WkAAXMZy.jpg",
+					"url": "https://t.co/gZvqhrMAaS",
+					"display_url": "pic.twitter.com/gZvqhrMAaS",
+					"expanded_url": "https://twitter.com/solplparty/status/1105083908830441472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105083907559559200,
+					"id_str": "1105083907559559168",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D1YL9X0WkAAXMZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1YL9X0WkAAXMZy.jpg",
+					"url": "https://t.co/gZvqhrMAaS",
+					"display_url": "pic.twitter.com/gZvqhrMAaS",
+					"expanded_url": "https://twitter.com/solplparty/status/1105083908830441472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25943,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론 】 #멜론매거진\n에픽하이 (EPIK HIGH) '술이 달다 (Feat. 크러쉬)' 뮤직비디오 촬영 현장\nhttps://t.co/lgOqEhupuH https://t.co/gZvqhrMAaS"
+	},
+	{
 		"created_at": "Mon Mar 11 11:11:42 +0000 2019",
 		"id": 1105051071867584500,
 		"id_str": "1105063746412646401",
-		"full_text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n\n#은종 #모트  님에게\n궁금한 점을 댓글로 남겨주세요!\n\n음악 이야기부터 아주 사소한 TMI까지\n올댓뮤직이 직접! 물어보겠습니다🕵️‍♀️🕵️‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190314\n#춘천 #음악맛집 #윤덕원 #빌리어코스티\n#모찌 #핸드벨 #드루오세요🤗 https://t.co/ULNfgzA54V",
+		"full_text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n\n#은종 #모트  님에게\n궁금한 점을 댓글로 남겨주세요!\n\n음악 이야기부터 아주 사소한 TMI까지\n올댓뮤직이 직접! 물어보겠습니다🕵️♀️🕵️♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190314\n#춘천 #음악맛집 #윤덕원 #빌리어코스티\n#모찌 #핸드벨 #드루오세요🤗 https://t.co/ULNfgzA54V",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -264,7 +662,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n\n#은종 #모트  님에게\n궁금한 점을 댓글로 남겨주세요!\n\n음악 이야기부터 아주 사소한 TMI까지\n올댓뮤직이 직접! 물어보겠습니다🕵️‍♀️🕵️‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190314\n#춘천 #음악맛집 #윤덕원 #빌리어코스티\n#모찌 #핸드벨 #드루오세요🤗 https://t.co/ULNfgzA54V"
+		"text": "#올댓뮤직 #공개방송\n190314 19:00 @춘천KBS공개홀\n\n#은종 #모트  님에게\n궁금한 점을 댓글로 남겨주세요!\n\n음악 이야기부터 아주 사소한 TMI까지\n올댓뮤직이 직접! 물어보겠습니다🕵️♀️🕵️♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190314\n#춘천 #음악맛집 #윤덕원 #빌리어코스티\n#모찌 #핸드벨 #드루오세요🤗 https://t.co/ULNfgzA54V"
 	},
 	{
 		"created_at": "Mon Mar 11 10:11:42 +0000 2019",
