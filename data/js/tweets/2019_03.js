@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 09:11:51 +0000 2019",
+		"id": 1105388233100189700,
+		"id_str": "1105395969347256320",
+		"full_text": "3/15(fri) [clubFF - Live Bands]\npart1. My sweet load\n교정. 차세대. 루아멜. 벤치위레오 \n*1부 관람객은 2부 공연도 관람하실 수 있습니다.\nStart7:30pm\n\npart2. Punk Rock Show!\n초록불꽃소년단. octopoulpe.  ...Whatever That Means     토크뱃츠\nStart 9:00pm https://t.co/XJrThcmFv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105388219510583300,
+					"id_str": "1105388219510583296",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cguqLUcAADLxU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cguqLUcAADLxU.jpg",
+					"url": "https://t.co/XJrThcmFv3",
+					"display_url": "pic.twitter.com/XJrThcmFv3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105388233100189696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105388219510583300,
+					"id_str": "1105388219510583296",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cguqLUcAADLxU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cguqLUcAADLxU.jpg",
+					"url": "https://t.co/XJrThcmFv3",
+					"display_url": "pic.twitter.com/XJrThcmFv3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105388233100189696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105388219510620200,
+					"id_str": "1105388219510620163",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cguqLVAAMvV1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cguqLVAAMvV1s.jpg",
+					"url": "https://t.co/XJrThcmFv3",
+					"display_url": "pic.twitter.com/XJrThcmFv3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105388233100189696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105388219506417700,
+					"id_str": "1105388219506417664",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cguqKU4AA56bN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cguqKU4AA56bN.jpg",
+					"url": "https://t.co/XJrThcmFv3",
+					"display_url": "pic.twitter.com/XJrThcmFv3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105388233100189696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6925,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3325,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/15(fri) [clubFF - Live Bands]\npart1. My sweet load\n교정. 차세대. 루아멜. 벤치위레오 \n*1부 관람객은 2부 공연도 관람하실 수 있습니다.\nStart7:30pm\n\npart2. Punk Rock Show!\n초록불꽃소년단. octopoulpe.  ...Whatever That Means     토크뱃츠\nStart 9:00pm https://t.co/XJrThcmFv3"
+	},
+	{
+		"created_at": "Tue Mar 12 09:11:42 +0000 2019",
+		"id": 1105381806101033000,
+		"id_str": "1105395934777741313",
+		"full_text": "[제 47회 #라이브클럽데이]\n3월 라이브 클럽 데이의 1차 라인업이 공개되었습니다👏👏\n더불어, 일반 예매가 오픈되었는데요!\n예매는 티켓 수수료가 없는 씬디 티켓라운지로 오세요✨\n-\n&lt;오프라인 예매 티켓&gt;\n*일시: ~3/28(목) 오후 9시까지\n*가격: 20,000원 (현금, 카드 모두 결제 가능) https://t.co/ZZpibPKnwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZpibPKnwU",
+					"expanded_url": "https://twitter.com/liveclubday/status/1103911549096255489",
+					"display_url": "twitter.com/liveclubday/st…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2633,
+			"friends_count": 2395,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8158,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103911549096255500,
+		"quoted_status_id_str": "1103911549096255489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZZpibPKnwU",
+			"expanded": "https://twitter.com/liveclubday/status/1103911549096255489",
+			"display": "twitter.com/liveclubday/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 08 06:53:17 +0000 2019",
+			"id": 1103911549096255500,
+			"id_str": "1103911549096255489",
+			"full_text": "📮 3월, 제47회 #라이브클럽데이 1차 라인업 공개 📮 #라이브클럽데이4주년 을 잘 마치고, 이번달 1차 라인업을 공개 합니다! 일반티켓 오픈은 다음주 월요일(3월 11일)입니다 😀 #liveishere #liveclubday #LCD #thismyvibe #뮤지션리그 https://t.co/PgjKRkFdcv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이브클럽데이",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"text": "라이브클럽데이4주년",
+						"indices": [
+							32,
+							43
+						]
+					},
+					{
+						"text": "liveishere",
+						"indices": [
+							103,
+							114
+						]
+					},
+					{
+						"text": "liveclubday",
+						"indices": [
+							115,
+							127
+						]
+					},
+					{
+						"text": "LCD",
+						"indices": [
+							128,
+							132
+						]
+					},
+					{
+						"text": "thismyvibe",
+						"indices": [
+							133,
+							144
+						]
+					},
+					{
+						"text": "뮤지션리그",
+						"indices": [
+							145,
+							151
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1103911402241060900,
+						"id_str": "1103911402241060864",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/D1HhklIU8AANNeN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1HhklIU8AANNeN.jpg",
+						"url": "https://t.co/PgjKRkFdcv",
+						"display_url": "pic.twitter.com/PgjKRkFdcv",
+						"expanded_url": "https://twitter.com/liveclubday/status/1103911549096255489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1103911402241060900,
+						"id_str": "1103911402241060864",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/D1HhklIU8AANNeN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1HhklIU8AANNeN.jpg",
+						"url": "https://t.co/PgjKRkFdcv",
+						"display_url": "pic.twitter.com/PgjKRkFdcv",
+						"expanded_url": "https://twitter.com/liveclubday/status/1103911549096255489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1640,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2984929856,
+				"id_str": "2984929856",
+				"name": "라이브 클럽 데이",
+				"screen_name": "liveclubday",
+				"location": "홍대",
+				"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이! / 문의 사항은 페이스북 메세지만 확인 가능합니다. / Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+				"url": "https://t.co/4nCZCbzpDC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4nCZCbzpDC",
+								"expanded_url": "https://www.facebook.com/liveclubday",
+								"display_url": "facebook.com/liveclubday",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W4XFUoYsNN",
+								"expanded_url": "http://facebook.com/liveclubday",
+								"display_url": "facebook.com/liveclubday",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4072,
+				"friends_count": 689,
+				"listed_count": 35,
+				"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2250,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1552016552",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[제 47회 #라이브클럽데이]\n3월 라이브 클럽 데이의 1차 라인업이 공개되었습니다👏👏\n더불어, 일반 예매가 오픈되었는데요!\n예매는 티켓 수수료가 없는 씬디 티켓라운지로 오세요✨\n-\n&lt;오프라인 예매 티켓&gt;\n*일시: ~3/28(목) 오후 9시까지\n*가격: 20,000원 (현금, 카드 모두 결제 가능) https://t.co/ZZpibPKnwU"
+	},
+	{
 		"created_at": "Tue Mar 12 08:11:42 +0000 2019",
 		"id": 1105369075595731000,
 		"id_str": "1105380835975401473",
