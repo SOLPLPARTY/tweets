@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 11:28:33 +0000 2019",
+		"id": 1105430372265926700,
+		"id_str": "1105430372265926656",
+		"full_text": "【 #예스24라이브홀 】\nYURI 1st Fanmeeting Tour [INTO YURI] in SEOUL (2019.04.07 (일) 17:00)\n▶ https://t.co/kNz9QVcMHe\n　\n#LIVEHALL #라이브홀\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/jL6JP2TStX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24라이브홀",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "LIVEHALL",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kNz9QVcMHe",
+					"expanded_url": "http://bit.ly/2HgTYsM",
+					"display_url": "bit.ly/2HgTYsM",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105430371263569900,
+					"id_str": "1105430371263569920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dHENsX4AAwBC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dHENsX4AAwBC6.jpg",
+					"url": "https://t.co/jL6JP2TStX",
+					"display_url": "pic.twitter.com/jL6JP2TStX",
+					"expanded_url": "https://twitter.com/solplparty/status/1105430372265926656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105430371263569900,
+					"id_str": "1105430371263569920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dHENsX4AAwBC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dHENsX4AAwBC6.jpg",
+					"url": "https://t.co/jL6JP2TStX",
+					"display_url": "pic.twitter.com/jL6JP2TStX",
+					"expanded_url": "https://twitter.com/solplparty/status/1105430372265926656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26014,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "【 #예스24라이브홀 】\nYURI 1st Fanmeeting Tour [INTO YURI] in SEOUL (2019.04.07 (일) 17:00)\n▶ https://t.co/kNz9QVcMHe\n　\n#LIVEHALL #라이브홀\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/jL6JP2TStX"
+	},
+	{
+		"created_at": "Tue Mar 12 11:18:36 +0000 2019",
+		"id": 1105425155910586400,
+		"id_str": "1105427867956072450",
+		"full_text": "@fuckingtwit_ 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fuckingtwit_",
+					"name": "팡매",
+					"id": 1075391458033655800,
+					"id_str": "1075391458033655808",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1105082506821263400,
+		"in_reply_to_status_id_str": "1105082506821263368",
+		"in_reply_to_user_id": 1075391458033655800,
+		"in_reply_to_user_id_str": "1075391458033655808",
+		"in_reply_to_screen_name": "fuckingtwit_",
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2888,
+			"friends_count": 395,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 12022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@fuckingtwit_ 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다"
+	},
+	{
+		"created_at": "Tue Mar 12 11:18:31 +0000 2019",
+		"id": 1105425065003212800,
+		"id_str": "1105427846451920896",
+		"full_text": "@kyuuu97 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyuuu97",
+					"name": "규오 めろな",
+					"id": 861267284932743200,
+					"id_str": "861267284932743168",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1105154905981902800,
+		"in_reply_to_status_id_str": "1105154905981902849",
+		"in_reply_to_user_id": 861267284932743200,
+		"in_reply_to_user_id_str": "861267284932743168",
+		"in_reply_to_screen_name": "kyuuu97",
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2888,
+			"friends_count": 395,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 12022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kyuuu97 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다"
+	},
+	{
+		"created_at": "Tue Mar 12 11:18:21 +0000 2019",
+		"id": 1105424872706981900,
+		"id_str": "1105427808115982338",
+		"full_text": "@kayome10 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kayome10",
+					"name": "화신, 카요가 성좌 '구원의 마왕'을 기다립니다.",
+					"id": 2467896061,
+					"id_str": "2467896061",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1105420959140347900,
+		"in_reply_to_status_id_str": "1105420959140347904",
+		"in_reply_to_user_id": 2467896061,
+		"in_reply_to_user_id_str": "2467896061",
+		"in_reply_to_screen_name": "kayome10",
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2888,
+			"friends_count": 395,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 12022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kayome10 생각하고 계신 분이랑 이름을 다르게 표기하셨네요 \n다른 분들이 오해하실수 있으니 삭제 부탁드립니다.\n실수로 이름을 잘못 표기하여 올리셔도 법적 책임을 물을 수 있으니 \n신속히 삭제 부탁드립니다"
+	},
+	{
 		"created_at": "Tue Mar 12 11:11:42 +0000 2019",
 		"id": 1105423007026098200,
 		"id_str": "1105426133850472448",
@@ -532,7 +1081,7 @@ Grailbird.data.tweets_2019_03 =
 		"created_at": "Tue Mar 12 10:19:54 +0000 2019",
 		"id": 1105398035935318000,
 		"id_str": "1105413098607910912",
-		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ",
+		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⠀\n.\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⠀\n6월 1일~2일에 진행됩니다.\n.⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -760,7 +1309,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ"
+		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⠀\n.\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⠀\n6월 1일~2일에 진행됩니다.\n.⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ"
 	},
 	{
 		"created_at": "Tue Mar 12 10:18:20 +0000 2019",
