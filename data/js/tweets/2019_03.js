@@ -1,6 +1,1012 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 11:11:42 +0000 2019",
+		"id": 1105423007026098200,
+		"id_str": "1105426133850472448",
+		"full_text": "동니퐁디가 6월 13일 첫방부터 \n캐스퍼라디오와 함께한 32번의 흔적💜\n\n유튜브에서 고화질로 보세요^__^!\nBgm: 손동운 -크레센도\n\n다음주 수요일에 만나요! \nhttps://t.co/SmMhLaeyJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SmMhLaeyJM",
+					"expanded_url": "https://youtu.be/8wxtugBwyjE",
+					"display_url": "youtu.be/8wxtugBwyjE",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 옥상달빛의 옥탑라됴/ 권정열고영배의 십란한밤/ 손동운의 동니좋군/ 하박국의 박국박국해/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 678,
+			"friends_count": 4,
+			"listed_count": 1,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022767149469786114/-eQJ-U-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022767149469786114/-eQJ-U-O_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동니퐁디가 6월 13일 첫방부터 \n캐스퍼라디오와 함께한 32번의 흔적💜\n\n유튜브에서 고화질로 보세요^__^!\nBgm: 손동운 -크레센도\n\n다음주 수요일에 만나요! \nhttps://t.co/SmMhLaeyJM"
+	},
+	{
+		"created_at": "Tue Mar 12 10:23:17 +0000 2019",
+		"id": 1105413946813558800,
+		"id_str": "1105413946813558785",
+		"full_text": "【 #PlayDB 】 #현대카드_UNDERSTAGE\nE.O.S 콘서트 (2019.03.30 ~ 2019.03.30) at 현대카드 UNDERSTAGE\n▶ https://t.co/vs2DRnhiMq\n　\n#플레이DB #플레이디비\n#현대카드 #언더스테이지\n#공연일정 #티켓공지 https://t.co/NR92IIb474",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "현대카드_UNDERSTAGE",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "현대카드",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "언더스테이지",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						146,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vs2DRnhiMq",
+					"expanded_url": "http://bit.ly/2HtBGnJ",
+					"display_url": "bit.ly/2HtBGnJ",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105413945571983400,
+					"id_str": "1105413945571983360",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D1c4IHOUwAAIhn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1c4IHOUwAAIhn4.jpg",
+					"url": "https://t.co/NR92IIb474",
+					"display_url": "pic.twitter.com/NR92IIb474",
+					"expanded_url": "https://twitter.com/solplparty/status/1105413946813558785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105413945571983400,
+					"id_str": "1105413945571983360",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D1c4IHOUwAAIhn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1c4IHOUwAAIhn4.jpg",
+					"url": "https://t.co/NR92IIb474",
+					"display_url": "pic.twitter.com/NR92IIb474",
+					"expanded_url": "https://twitter.com/solplparty/status/1105413946813558785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26009,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #현대카드_UNDERSTAGE\nE.O.S 콘서트 (2019.03.30 ~ 2019.03.30) at 현대카드 UNDERSTAGE\n▶ https://t.co/vs2DRnhiMq\n　\n#플레이DB #플레이디비\n#현대카드 #언더스테이지\n#공연일정 #티켓공지 https://t.co/NR92IIb474"
+	},
+	{
+		"created_at": "Tue Mar 12 10:20:00 +0000 2019",
+		"id": 1105401825220485100,
+		"id_str": "1105413120296652800",
+		"full_text": "6월이 매우 기다려집니다. 함께 하실 거죠?🙌🏻\nCan’t wait to party again with our wonderful Ultranauts! ⠀\nSee you in June!\n#Ultrakorea2019 https://t.co/5TPiQANs1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ultrakorea2019",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105401740000542700,
+					"id_str": "1105401740000542720",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ctBp7UwAAe9cJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ctBp7UwAAe9cJ.jpg",
+					"url": "https://t.co/5TPiQANs1p",
+					"display_url": "pic.twitter.com/5TPiQANs1p",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1105401825220485120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105401740000542700,
+					"id_str": "1105401740000542720",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ctBp7UwAAe9cJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ctBp7UwAAe9cJ.jpg",
+					"url": "https://t.co/5TPiQANs1p",
+					"display_url": "pic.twitter.com/5TPiQANs1p",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1105401825220485120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": "https://t.co/tfLq6kIHkR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tfLq6kIHkR",
+							"expanded_url": "http://UMFKorea.com",
+							"display_url": "UMFKorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20183,
+			"friends_count": 24,
+			"listed_count": 122,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1548984729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6월이 매우 기다려집니다. 함께 하실 거죠?🙌🏻\nCan’t wait to party again with our wonderful Ultranauts! ⠀\nSee you in June!\n#Ultrakorea2019 https://t.co/5TPiQANs1p"
+	},
+	{
+		"created_at": "Tue Mar 12 10:19:54 +0000 2019",
+		"id": 1105398035935318000,
+		"id_str": "1105413098607910912",
+		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월디페",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "비이피씨탄젠트",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "서울랜드",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "seoulland",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "ODESZA",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "오데자",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "큐댄스",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105398033167118300,
+					"id_str": "1105398033167118336",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cpp45XcAA2Zun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cpp45XcAA2Zun.jpg",
+					"url": "https://t.co/MNLGNahtSQ",
+					"display_url": "pic.twitter.com/MNLGNahtSQ",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1105398035935318017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105398033167118300,
+					"id_str": "1105398033167118336",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D1cpp45XcAA2Zun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1cpp45XcAA2Zun.jpg",
+					"url": "https://t.co/MNLGNahtSQ",
+					"display_url": "pic.twitter.com/MNLGNahtSQ",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1105398035935318017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3431,
+			"friends_count": 283,
+			"listed_count": 87,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2157,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1510898141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.⁣⠀\n.⁣\n예매처 : https://t.co/pFmo1AWpe0\n가격대별 티켓 수량 매진 시 가격상승\n.\n2019 월디페는 서울랜드에서⁣⠀\n6월 1일~2일에 진행됩니다.⁣\n.⁣⠀\n#월디페 #비이피씨탄젠트 #서울랜드 #seoulland #ODESZA #오데자 #큐댄스 https://t.co/MNLGNahtSQ"
+	},
+	{
+		"created_at": "Tue Mar 12 10:18:20 +0000 2019",
+		"id": 1105408817729134600,
+		"id_str": "1105412704028815360",
+		"full_text": "[PLAYLIST] 적적한 밤, 내 마음을 닮은 음악🌃\nfull ver을 유튜브에서 감상해보세요 🎧\n👉🏻 https://t.co/Vx3nJmoQAW\n\n#아월 #OurR #적적한밤 #PLAYLIST https://t.co/pRD4JqZbBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아월",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "OurR",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "적적한밤",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vx3nJmoQAW",
+					"expanded_url": "http://youtu.be/aMVZ1QXny3I",
+					"display_url": "youtu.be/aMVZ1QXny3I",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105408658718908400,
+					"id_str": "1105408658718908416",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105408658718908416/pu/img/YE4ZVKLSjucSvVj-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105408658718908416/pu/img/YE4ZVKLSjucSvVj-.jpg",
+					"url": "https://t.co/pRD4JqZbBk",
+					"display_url": "pic.twitter.com/pRD4JqZbBk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1105408817729134598/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105408658718908400,
+					"id_str": "1105408658718908416",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105408658718908416/pu/img/YE4ZVKLSjucSvVj-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105408658718908416/pu/img/YE4ZVKLSjucSvVj-.jpg",
+					"url": "https://t.co/pRD4JqZbBk",
+					"display_url": "pic.twitter.com/pRD4JqZbBk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1105408817729134598/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60027,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105408658718908416/pu/vid/1280x720/PD6UXsE4QI4FbAAD.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105408658718908416/pu/vid/320x180/K7MXZTIW9-Q5ET-H.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1105408658718908416/pu/pl/lr4UnLW0VyGkIExY.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105408658718908416/pu/vid/640x360/WADnZABQOZZxezdX.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "naru, 노리플라이, 데이브레이크, 소란, THE SOLUTIONS, 아월(OurR), TUNE, 권순관, THORNAPPLE, Life and Time, LambC",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14075,
+			"friends_count": 2825,
+			"listed_count": 309,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PLAYLIST] 적적한 밤, 내 마음을 닮은 음악🌃\nfull ver을 유튜브에서 감상해보세요 🎧\n👉🏻 https://t.co/Vx3nJmoQAW\n\n#아월 #OurR #적적한밤 #PLAYLIST https://t.co/pRD4JqZbBk"
+	},
+	{
 		"created_at": "Tue Mar 12 09:37:24 +0000 2019",
 		"id": 1105402400897204200,
 		"id_str": "1105402400897204224",
