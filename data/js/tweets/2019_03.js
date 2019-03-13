@@ -1,10 +1,874 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 12:11:45 +0000 2019",
+		"id": 1105796857840746500,
+		"id_str": "1105803631973023749",
+		"full_text": "3/24(일)홀린. 오팔. 혜아.  일곱시반. 오프이\n\nStart 6:00pm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6925,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3329,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "3/24(일)홀린. 오팔. 혜아.  일곱시반. 오프이\n\nStart 6:00pm"
+	},
+	{
+		"created_at": "Wed Mar 13 12:11:43 +0000 2019",
+		"id": 1105793599260647400,
+		"id_str": "1105803623068561409",
+		"full_text": "3/17(sun) [clubFF - Feels so good]\n원디비 1DB\n메이릴 Mayreel\n키라이트 keylight\n오렌지팡팡보이즈 orange fang fang boys\n리엘 Liel\n\nStart 6:00pm\n*공연 순서는 위와 같습니다.(상황에 따라 변경될 수 있습니다) https://t.co/8rdI5D3yQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105793590842712000,
+					"id_str": "1105793590842712065",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iRaYEVYAEds5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iRaYEVYAEds5c.jpg",
+					"url": "https://t.co/8rdI5D3yQK",
+					"display_url": "pic.twitter.com/8rdI5D3yQK",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105793599260647424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105793590842712000,
+					"id_str": "1105793590842712065",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iRaYEVYAEds5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iRaYEVYAEds5c.jpg",
+					"url": "https://t.co/8rdI5D3yQK",
+					"display_url": "pic.twitter.com/8rdI5D3yQK",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105793599260647424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105793590846865400,
+					"id_str": "1105793590846865408",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iRaYFUwAAlp5a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iRaYFUwAAlp5a.jpg",
+					"url": "https://t.co/8rdI5D3yQK",
+					"display_url": "pic.twitter.com/8rdI5D3yQK",
+					"expanded_url": "https://twitter.com/clubFF_/status/1105793599260647424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6925,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3329,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/17(sun) [clubFF - Feels so good]\n원디비 1DB\n메이릴 Mayreel\n키라이트 keylight\n오렌지팡팡보이즈 orange fang fang boys\n리엘 Liel\n\nStart 6:00pm\n*공연 순서는 위와 같습니다.(상황에 따라 변경될 수 있습니다) https://t.co/8rdI5D3yQK"
+	},
+	{
+		"created_at": "Wed Mar 13 11:46:45 +0000 2019",
+		"id": 1105797339267190800,
+		"id_str": "1105797339267190784",
+		"full_text": "【 #상상마당 】\n[힙합] 한요한 정규 1집［엑시브］발매 기념 공연 (2019.03.30~2019.03.30) at 라이브홀\n▶ https://t.co/uQLednJxCq\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/0ZTJBlfwLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "상상마당홍대",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "LIVE_HALL",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uQLednJxCq",
+					"expanded_url": "http://bit.ly/2HfTeUV",
+					"display_url": "bit.ly/2HfTeUV",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105797338101174300,
+					"id_str": "1105797338101174273",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iU0fsX0AEyYe2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iU0fsX0AEyYe2.jpg",
+					"url": "https://t.co/0ZTJBlfwLq",
+					"display_url": "pic.twitter.com/0ZTJBlfwLq",
+					"expanded_url": "https://twitter.com/solplparty/status/1105797339267190784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105797338101174300,
+					"id_str": "1105797338101174273",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iU0fsX0AEyYe2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iU0fsX0AEyYe2.jpg",
+					"url": "https://t.co/0ZTJBlfwLq",
+					"display_url": "pic.twitter.com/0ZTJBlfwLq",
+					"expanded_url": "https://twitter.com/solplparty/status/1105797339267190784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26095,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #상상마당 】\n[힙합] 한요한 정규 1집［엑시브］발매 기념 공연 (2019.03.30~2019.03.30) at 라이브홀\n▶ https://t.co/uQLednJxCq\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/0ZTJBlfwLq"
+	},
+	{
+		"created_at": "Wed Mar 13 11:18:25 +0000 2019",
+		"id": 1105790062728364000,
+		"id_str": "1105790212377112577",
+		"full_text": "#손태진 이 고민 상담해주는 시간 &lt;해결사 TJ&gt;🔍 지금 바로 네이버 #VLIVE 에서 확인하세요!😉\n&gt; https://t.co/f3PGRwSmH8 https://t.co/31Q1s83725",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						45,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3PGRwSmH8",
+					"expanded_url": "https://www.vlive.tv/video/117694",
+					"display_url": "vlive.tv/video/117694",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105790055971356700,
+					"id_str": "1105790055971356672",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iOMnpVAAAuSxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iOMnpVAAAuSxl.jpg",
+					"url": "https://t.co/31Q1s83725",
+					"display_url": "pic.twitter.com/31Q1s83725",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1105790062728364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 717,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 717,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105790055971356700,
+					"id_str": "1105790055971356672",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D1iOMnpVAAAuSxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1iOMnpVAAAuSxl.jpg",
+					"url": "https://t.co/31Q1s83725",
+					"display_url": "pic.twitter.com/31Q1s83725",
+					"expanded_url": "https://twitter.com/Mystic_89/status/1105790062728364032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 717,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 717,
+							"h": 1195,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "MYSTIC Entertainment",
+			"screen_name": "Mystic_89",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC Entertainment Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17457,
+			"friends_count": 12,
+			"listed_count": 222,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4166,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723535778123374593/AN_0A2n0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1420771662",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#손태진 이 고민 상담해주는 시간 &lt;해결사 TJ&gt;🔍 지금 바로 네이버 #VLIVE 에서 확인하세요!😉\n&gt; https://t.co/f3PGRwSmH8 https://t.co/31Q1s83725"
+	},
+	{
+		"created_at": "Wed Mar 13 11:18:20 +0000 2019",
+		"id": 1105786583171555300,
+		"id_str": "1105790189929197568",
+		"full_text": "카페에서 이별을 직감하는 순간☕ (Feat. 정승환)\n⠀\n🎼 소리풍경 | #이진아 &amp; #정승환 - ‘안녕, 카페’\nep2. 이별에 아파하는 이들을 위한 노래\n⠀\nYouTube ▶️ https://t.co/mosQ2k83we",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이진아",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mosQ2k83we",
+					"expanded_url": "https://youtu.be/thS2LMYUPrs",
+					"display_url": "youtu.be/thS2LMYUPrs",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai_Music Company Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34972,
+			"friends_count": 15189,
+			"listed_count": 415,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2360,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1450673766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카페에서 이별을 직감하는 순간☕ (Feat. 정승환)\n⠀\n🎼 소리풍경 | #이진아 &amp; #정승환 - ‘안녕, 카페’\nep2. 이별에 아파하는 이들을 위한 노래\n⠀\nYouTube ▶️ https://t.co/mosQ2k83we"
+	},
+	{
 		"created_at": "Wed Mar 13 11:11:42 +0000 2019",
 		"id": 1105774390665343000,
 		"id_str": "1105788521439203328",
-		"full_text": "#올댓뮤직 #공개녹화 \n190328(목) 19:00 @춘천KBS공개홀\n\n음악과 함께 떠나고 싶은 날🚗\n옆자리에 함께 해주실 뮤지션!\n#이한철 #허클베리핀 입니다🤘\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC\n#190328 #커밍쑨 https://t.co/KAsDygjtXA",
+		"full_text": "#올댓뮤직 #공개녹화 \n190328(목) 19:00 @춘천KBS공개홀\n\n음악과 함께 떠나고 싶은 날🚗\n옆자리에 함께 해주실 뮤지션!\n#이한철 #허클베리핀 입니다🤘\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC\n#190328 #커밍쑨 https://t.co/KAsDygjtXA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -251,7 +1115,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화 \n190328(목) 19:00 @춘천KBS공개홀\n\n음악과 함께 떠나고 싶은 날🚗\n옆자리에 함께 해주실 뮤지션!\n#이한철 #허클베리핀 입니다🤘\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC\n#190328 #커밍쑨 https://t.co/KAsDygjtXA"
+		"text": "#올댓뮤직 #공개녹화 \n190328(목) 19:00 @춘천KBS공개홀\n\n음악과 함께 떠나고 싶은 날🚗\n옆자리에 함께 해주실 뮤지션!\n#이한철 #허클베리핀 입니다🤘\n\n지금 올댓뮤직 홈페이지에서\n방청신청 하실 수 있습니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC\n#190328 #커밍쑨 https://t.co/KAsDygjtXA"
 	},
 	{
 		"created_at": "Wed Mar 13 11:07:46 +0000 2019",
