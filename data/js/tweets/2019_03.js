@@ -1,10 +1,514 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 09:11:42 +0000 2019",
+		"id": 1105748340908666900,
+		"id_str": "1105758323255754752",
+		"full_text": "당신의 작품을 기다립니다🌹\n2019 스테이지업 뮤지컬 공모 혜택\n\n공모 지원하기 ▶ https://t.co/TsawsnHyvn\n2019.03.04(월) ~ 2019.04.19(금) 오후 4시 \n\n#스테이지업 #뮤지컬 #공모 #혜택 #CJ문화재단",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스테이지업",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "뮤지컬",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "공모",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "혜택",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "CJ문화재단",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsawsnHyvn",
+					"expanded_url": "https://bit.ly/2XoTCp5",
+					"display_url": "bit.ly/2XoTCp5",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134983822,
+			"id_str": "134983822",
+			"name": "CJ문화재단",
+			"screen_name": "cjazit",
+			"location": "Seoul, South Korea",
+			"description": "젊은 창작자의 꿈을 함께 실현하여 문화산업의 새로운 미래를 만들어갑니다",
+			"url": "https://t.co/8yRt1LmqWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8yRt1LmqWh",
+							"expanded_url": "http://www.cjazit.org/",
+							"display_url": "cjazit.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5740,
+			"friends_count": 993,
+			"listed_count": 165,
+			"created_at": "Tue Apr 20 01:07:47 +0000 2010",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2117,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F25E24",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/587855418791038977/EhZIx_h2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/587855418791038977/EhZIx_h2_normal.png",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "D0C9C2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신의 작품을 기다립니다🌹\n2019 스테이지업 뮤지컬 공모 혜택\n\n공모 지원하기 ▶ https://t.co/TsawsnHyvn\n2019.03.04(월) ~ 2019.04.19(금) 오후 4시 \n\n#스테이지업 #뮤지컬 #공모 #혜택 #CJ문화재단"
+	},
+	{
+		"created_at": "Wed Mar 13 09:02:52 +0000 2019",
+		"id": 1105756096579493900,
+		"id_str": "1105756096579493888",
+		"full_text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n서사무엘이 중학생때 좋아했던 밴드는? [고요한라디오]\nhttps://t.co/AOeCjLtWXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AOeCjLtWXT",
+					"expanded_url": "https://youtu.be/5etf6HAw_9E",
+					"display_url": "youtu.be/5etf6HAw_9E",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26074,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n서사무엘이 중학생때 좋아했던 밴드는? [고요한라디오]\nhttps://t.co/AOeCjLtWXT"
+	},
+	{
+		"created_at": "Wed Mar 13 09:00:53 +0000 2019",
+		"id": 1105755601244774400,
+		"id_str": "1105755601244774400",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 온아 (OnA) - 봄바람 (Spring Breeze)\nhttps://t.co/8TEMNKTNEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TEMNKTNEO",
+					"expanded_url": "https://youtu.be/sGY1TKVwvQQ",
+					"display_url": "youtu.be/sGY1TKVwvQQ",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26074,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 온아 (OnA) - 봄바람 (Spring Breeze)\nhttps://t.co/8TEMNKTNEO"
+	},
+	{
+		"created_at": "Wed Mar 13 09:00:31 +0000 2019",
+		"id": 1105755507787210800,
+		"id_str": "1105755507787210752",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n프리즘 톤 (Prism Tone) - 딱! 여기까지만이야 Just until today (Vocal by 우희) [Official_Audio]\nhttps://t.co/5WU8rye1oP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5WU8rye1oP",
+					"expanded_url": "https://youtu.be/hH5e1giVRfM",
+					"display_url": "youtu.be/hH5e1giVRfM",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26074,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n프리즘 톤 (Prism Tone) - 딱! 여기까지만이야 Just until today (Vocal by 우희) [Official_Audio]\nhttps://t.co/5WU8rye1oP"
+	},
+	{
 		"created_at": "Wed Mar 13 08:11:42 +0000 2019",
 		"id": 1105740859796918300,
 		"id_str": "1105743223065116672",
-		"full_text": "[2018 헬로루키, 뭘 하고 있을까?]\n\n지난 ‘2018 올해의 헬로루키’ 이후 활발한 활동을 이어가고 있는 헬로루키들!🚶🏻‍♂️🏃🏻‍♂️매일 한 팀씩, 루키들이 직접 전하는 가장 핫한 근황이 공개됩니다. 놓치지 마세요🥰\n\n헬로루키 이후 그들만의 또 다른 \"공간\"을 만들었다는 '공중그늘'의 근황은? 😳🎵\n\n#공중그늘 https://t.co/vmX48E7gtS",
+		"full_text": "[2018 헬로루키, 뭘 하고 있을까?]\n\n지난 ‘2018 올해의 헬로루키’ 이후 활발한 활동을 이어가고 있는 헬로루키들!🚶🏻♂️🏃🏻♂️매일 한 팀씩, 루키들이 직접 전하는 가장 핫한 근황이 공개됩니다. 놓치지 마세요🥰\n\n헬로루키 이후 그들만의 또 다른 \"공간\"을 만들었다는 '공중그늘'의 근황은? 😳🎵\n\n#공중그늘 https://t.co/vmX48E7gtS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -288,7 +792,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2018 헬로루키, 뭘 하고 있을까?]\n\n지난 ‘2018 올해의 헬로루키’ 이후 활발한 활동을 이어가고 있는 헬로루키들!🚶🏻‍♂️🏃🏻‍♂️매일 한 팀씩, 루키들이 직접 전하는 가장 핫한 근황이 공개됩니다. 놓치지 마세요🥰\n\n헬로루키 이후 그들만의 또 다른 \"공간\"을 만들었다는 '공중그늘'의 근황은? 😳🎵\n\n#공중그늘 https://t.co/vmX48E7gtS"
+		"text": "[2018 헬로루키, 뭘 하고 있을까?]\n\n지난 ‘2018 올해의 헬로루키’ 이후 활발한 활동을 이어가고 있는 헬로루키들!🚶🏻♂️🏃🏻♂️매일 한 팀씩, 루키들이 직접 전하는 가장 핫한 근황이 공개됩니다. 놓치지 마세요🥰\n\n헬로루키 이후 그들만의 또 다른 \"공간\"을 만들었다는 '공중그늘'의 근황은? 😳🎵\n\n#공중그늘 https://t.co/vmX48E7gtS"
 	},
 	{
 		"created_at": "Wed Mar 13 07:54:10 +0000 2019",
