@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 07:11:42 +0000 2019",
+		"id": 1112962914485334000,
+		"id_str": "1112975881285369856",
+		"full_text": "4/6(토) [clubFF - Live Bands]\nMACGUFFIN\nDouble line II \"ADIEU\"\n\nstart 7pm(120분셋)\n예매처 : https://t.co/FULklGrlWE\n\n과거,현재,미래 다양한 시간과 장소에 존재해온 맥거핀의 커튼콜! 그들의 미래를 암시하는, 음악적 복선을 넌지시 살펴볼 수 있는 군입대 전 맥거핀 마지막 단공 Double line! https://t.co/M5Qo90jGp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FULklGrlWE",
+					"expanded_url": "http://clubff.modoo.at/",
+					"display_url": "clubff.modoo.at",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1112962908521001000,
+					"id_str": "1112962908521000960",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D3IJ3lqUcAAAFdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3IJ3lqUcAAAFdo.jpg",
+					"url": "https://t.co/M5Qo90jGp1",
+					"display_url": "pic.twitter.com/M5Qo90jGp1",
+					"expanded_url": "https://twitter.com/clubFF_/status/1112962914485334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112962908521001000,
+					"id_str": "1112962908521000960",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D3IJ3lqUcAAAFdo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3IJ3lqUcAAAFdo.jpg",
+					"url": "https://t.co/M5Qo90jGp1",
+					"display_url": "pic.twitter.com/M5Qo90jGp1",
+					"expanded_url": "https://twitter.com/clubFF_/status/1112962914485334017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6903,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3357,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4/6(토) [clubFF - Live Bands]\nMACGUFFIN\nDouble line II \"ADIEU\"\n\nstart 7pm(120분셋)\n예매처 : https://t.co/FULklGrlWE\n\n과거,현재,미래 다양한 시간과 장소에 존재해온 맥거핀의 커튼콜! 그들의 미래를 암시하는, 음악적 복선을 넌지시 살펴볼 수 있는 군입대 전 맥거핀 마지막 단공 Double line! https://t.co/M5Qo90jGp1"
+	},
+	{
+		"created_at": "Tue Apr 02 06:27:13 +0000 2019",
+		"id": 1112964684678926300,
+		"id_str": "1112964684678926336",
+		"full_text": "#루비레코드 #Ruby_Records\n[애경뮤직룸] 이준호 - 퇴근버스\nhttps://t.co/ZEZLxTNHyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZEZLxTNHyY",
+					"expanded_url": "https://youtu.be/DP7vqQfZaZg",
+					"display_url": "youtu.be/DP7vqQfZaZg",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27657,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[애경뮤직룸] 이준호 - 퇴근버스\nhttps://t.co/ZEZLxTNHyY"
+	},
+	{
+		"created_at": "Tue Apr 02 06:19:54 +0000 2019",
+		"id": 1112960508234063900,
+		"id_str": "1112962845640142853",
+		"full_text": "Billie Eilish 의 첫 데뷔 앨범 발매 기념 오랜만의 #fakeshop 신상 입고! 불독 화이트 버킷햇과 모노그램 티셔츠\nhttps://t.co/HW4HkNvg8i\n\n#billieeilish #빌리아일리시 #페이크샵 https://t.co/6oKyjCAvLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fakeshop",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "billieeilish",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "빌리아일리시",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "페이크샵",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HW4HkNvg8i",
+					"expanded_url": "https://fakeshop.tv",
+					"display_url": "fakeshop.tv",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1112960491297615900,
+					"id_str": "1112960491297615872",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D3IHq4zWsAAnSlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3IHq4zWsAAnSlb.jpg",
+					"url": "https://t.co/6oKyjCAvLQ",
+					"display_url": "pic.twitter.com/6oKyjCAvLQ",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1112960508234063874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112960491297615900,
+					"id_str": "1112960491297615872",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D3IHq4zWsAAnSlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3IHq4zWsAAnSlb.jpg",
+					"url": "https://t.co/6oKyjCAvLQ",
+					"display_url": "pic.twitter.com/6oKyjCAvLQ",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1112960508234063874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1112960491192705000,
+					"id_str": "1112960491192705024",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D3IHq4aV4AAWZ17.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3IHq4aV4AAWZ17.jpg",
+					"url": "https://t.co/6oKyjCAvLQ",
+					"display_url": "pic.twitter.com/6oKyjCAvLQ",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1112960508234063874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "• 5/11 KAMAAL WILLIAMS • 7/27-7/28 HOLIDAY LAND FESTIVAL",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404,
+			"friends_count": 60,
+			"listed_count": 16,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Billie Eilish 의 첫 데뷔 앨범 발매 기념 오랜만의 #fakeshop 신상 입고! 불독 화이트 버킷햇과 모노그램 티셔츠\nhttps://t.co/HW4HkNvg8i\n\n#billieeilish #빌리아일리시 #페이크샵 https://t.co/6oKyjCAvLQ"
+	},
+	{
+		"created_at": "Tue Apr 02 06:18:33 +0000 2019",
+		"id": 1112954487080026100,
+		"id_str": "1112962502898450432",
+		"full_text": "BML 2019 최종 라인업이 공개되었습니다!\n⠀⠀\n5월/11(토)\n노리플라이 / CBH\n데이브레이크 / CBH\nSURL / CBH\n램씨x최정윤 / LFG\n⠀⠀\n5/12(일)\n소란 / CBH\n쏜애플 / CBH\n⠀⠀\n#BML #BML2019 #뷰티풀민트라이프 #뷰민라 #노리플라이 #데이브레이크 #SURL #LambC #소란 #쏜애플 https://t.co/tuAmFBFuOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BML",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "BML2019",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "뷰티풀민트라이프",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "뷰민라",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "노리플라이",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "LambC",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112954468570619900,
+					"id_str": "1112954468570619904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ICMUZV4AADim2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ICMUZV4AADim2.jpg",
+					"url": "https://t.co/tuAmFBFuOq",
+					"display_url": "pic.twitter.com/tuAmFBFuOq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1112954487080026112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112954468570619900,
+					"id_str": "1112954468570619904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ICMUZV4AADim2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ICMUZV4AADim2.jpg",
+					"url": "https://t.co/tuAmFBFuOq",
+					"display_url": "pic.twitter.com/tuAmFBFuOq",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1112954487080026112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14038,
+			"friends_count": 2824,
+			"listed_count": 308,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12592,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BML 2019 최종 라인업이 공개되었습니다!\n⠀⠀\n5월/11(토)\n노리플라이 / CBH\n데이브레이크 / CBH\nSURL / CBH\n램씨x최정윤 / LFG\n⠀⠀\n5/12(일)\n소란 / CBH\n쏜애플 / CBH\n⠀⠀\n#BML #BML2019 #뷰티풀민트라이프 #뷰민라 #노리플라이 #데이브레이크 #SURL #LambC #소란 #쏜애플 https://t.co/tuAmFBFuOq"
+	},
+	{
+		"created_at": "Tue Apr 02 06:18:25 +0000 2019",
+		"id": 1112950857664876500,
+		"id_str": "1112962468853305344",
+		"full_text": "[이지형 콘서트 사뿐] 오늘 저녁 8시!! 멜론티켓에서 예매 오픈됩니다🌸\n\n•일시 : 2019년 5월 4일(토) 오후 3시 / 저녁 7시 30분\n•장소 : 웨스트브릿지 라이브홀\n•티켓가격 : 전석 55,000원\n•티켓오픈 : 4월 2일 (화) 저녁 8시 멜론 티켓 ▶️ https://t.co/2PNT3CV8Vt\n\n#이지형 #사뿐 #웨스트브릿지 https://t.co/DybFAAmqaI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지형",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "사뿐",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "웨스트브릿지",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2PNT3CV8Vt",
+					"expanded_url": "http://bit.ly/2TXFapW",
+					"display_url": "bit.ly/2TXFapW",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1112950850769453000,
+					"id_str": "1112950850769453057",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D3H-5vCVAAEKaMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3H-5vCVAAEKaMa.jpg",
+					"url": "https://t.co/DybFAAmqaI",
+					"display_url": "pic.twitter.com/DybFAAmqaI",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1112950857664876544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112950850769453000,
+					"id_str": "1112950850769453057",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D3H-5vCVAAEKaMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3H-5vCVAAEKaMa.jpg",
+					"url": "https://t.co/DybFAAmqaI",
+					"display_url": "pic.twitter.com/DybFAAmqaI",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1112950857664876544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1395,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3337,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이지형 콘서트 사뿐] 오늘 저녁 8시!! 멜론티켓에서 예매 오픈됩니다🌸\n\n•일시 : 2019년 5월 4일(토) 오후 3시 / 저녁 7시 30분\n•장소 : 웨스트브릿지 라이브홀\n•티켓가격 : 전석 55,000원\n•티켓오픈 : 4월 2일 (화) 저녁 8시 멜론 티켓 ▶️ https://t.co/2PNT3CV8Vt\n\n#이지형 #사뿐 #웨스트브릿지 https://t.co/DybFAAmqaI"
+	},
+	{
 		"created_at": "Tue Apr 02 06:11:42 +0000 2019",
 		"id": 1112958230315950100,
 		"id_str": "1112960782373916672",
