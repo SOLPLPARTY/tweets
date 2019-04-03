@@ -1,6 +1,1458 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 09:16:41 +0000 2019",
+		"id": 1113369718692487200,
+		"id_str": "1113369718692487168",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[4K] 루카스 그레이엄 (Lukas Graham) - Drunk In The Morning (Live In Seoul, 2019)\nhttps://t.co/FjlDoRFABy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FjlDoRFABy",
+					"expanded_url": "https://youtu.be/u1nXC-Sfilg",
+					"display_url": "youtu.be/u1nXC-Sfilg",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[4K] 루카스 그레이엄 (Lukas Graham) - Drunk In The Morning (Live In Seoul, 2019)\nhttps://t.co/FjlDoRFABy"
+	},
+	{
+		"created_at": "Wed Apr 03 09:03:33 +0000 2019",
+		"id": 1113366414197391400,
+		"id_str": "1113366414197391360",
+		"full_text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF19 A Message From Artist] 선우정아(sunwoojunga)\nhttps://t.co/YI88FkH67S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울재즈페스티벌",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Seoul_Jazz_Festival",
+					"indices": [
+						10,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YI88FkH67S",
+					"expanded_url": "https://youtu.be/SUVXGr1OGf4",
+					"display_url": "youtu.be/SUVXGr1OGf4",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울재즈페스티벌 #Seoul_Jazz_Festival\n[SJF19 A Message From Artist] 선우정아(sunwoojunga)\nhttps://t.co/YI88FkH67S"
+	},
+	{
+		"created_at": "Wed Apr 03 09:02:23 +0000 2019",
+		"id": 1113366123238633500,
+		"id_str": "1113366123238633477",
+		"full_text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n태연만이 부를 수 있는 싱글, '사계' [베뉴팝]\nhttps://t.co/PiJIiTcJY1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PiJIiTcJY1",
+					"expanded_url": "https://youtu.be/NNLoY52XIiU",
+					"display_url": "youtu.be/NNLoY52XIiU",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n태연만이 부를 수 있는 싱글, '사계' [베뉴팝]\nhttps://t.co/PiJIiTcJY1"
+	},
+	{
+		"created_at": "Wed Apr 03 09:02:22 +0000 2019",
+		"id": 1113366116754182100,
+		"id_str": "1113366116754182146",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Teaser] 윤지영 / Yoon Jiyoung - 우우우린 (wwwe)\nhttps://t.co/8t5dy4kSiR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8t5dy4kSiR",
+					"expanded_url": "https://youtu.be/a1Md3n75H2o",
+					"display_url": "youtu.be/a1Md3n75H2o",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Teaser] 윤지영 / Yoon Jiyoung - 우우우린 (wwwe)\nhttps://t.co/8t5dy4kSiR"
+	},
+	{
+		"created_at": "Wed Apr 03 09:02:10 +0000 2019",
+		"id": 1113366066728771600,
+		"id_str": "1113366066728771584",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] SUDI - In The Air (With 석우 (Seok Woo))\nhttps://t.co/fzCuSlHXgN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fzCuSlHXgN",
+					"expanded_url": "https://youtu.be/akvzVPl5Ts0",
+					"display_url": "youtu.be/akvzVPl5Ts0",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] SUDI - In The Air (With 석우 (Seok Woo))\nhttps://t.co/fzCuSlHXgN"
+	},
+	{
+		"created_at": "Wed Apr 03 09:00:44 +0000 2019",
+		"id": 1113365708073852900,
+		"id_str": "1113365708073852928",
+		"full_text": "#딩고뮤직 #dingo_music\n데뷔부터 초대박!! 데뷔곡 임팩트 갑은 누구!? ㅣ Kpop best debut song cover l 댄스 ㅣ 신인들의 소름돋는 댄스 ㅣ 밴디트 BVNDIT\nhttps://t.co/z7K8QRU9v8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z7K8QRU9v8",
+					"expanded_url": "https://youtu.be/Ufa2MKPkiTI",
+					"display_url": "youtu.be/Ufa2MKPkiTI",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n데뷔부터 초대박!! 데뷔곡 임팩트 갑은 누구!? ㅣ Kpop best debut song cover l 댄스 ㅣ 신인들의 소름돋는 댄스 ㅣ 밴디트 BVNDIT\nhttps://t.co/z7K8QRU9v8"
+	},
+	{
+		"created_at": "Wed Apr 03 08:42:08 +0000 2019",
+		"id": 1113361024432914400,
+		"id_str": "1113361024432914432",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Image Clip] 김윤주 / Kim Yoon ju - Intro\nhttps://t.co/pRBnwtPXLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pRBnwtPXLq",
+					"expanded_url": "https://youtu.be/eIv7XDseO34",
+					"display_url": "youtu.be/eIv7XDseO34",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Image Clip] 김윤주 / Kim Yoon ju - Intro\nhttps://t.co/pRBnwtPXLq"
+	},
+	{
+		"created_at": "Wed Apr 03 08:22:09 +0000 2019",
+		"id": 1113355995835707400,
+		"id_str": "1113355995835707392",
+		"full_text": "#포크라노스 #POCLANOS\n[MUSIC SPECIAL] 싱어송라이터 홍갑이 동료 뮤지션 강아솔, 김목인과 나눈 새 앨범 이야기\nhttps://t.co/Clk7Ki8DYg\n#블로그 #매거진 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Clk7Ki8DYg",
+					"expanded_url": "http://bit.ly/2WJsLTu",
+					"display_url": "bit.ly/2WJsLTu",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27784,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[MUSIC SPECIAL] 싱어송라이터 홍갑이 동료 뮤지션 강아솔, 김목인과 나눈 새 앨범 이야기\nhttps://t.co/Clk7Ki8DYg\n#블로그 #매거진 #유통사"
+	},
+	{
+		"created_at": "Wed Apr 03 08:19:54 +0000 2019",
+		"id": 1113352021711544300,
+		"id_str": "1113355432217784320",
+		"full_text": "[SJF19 A Message From Artist] Wouter Hamel\n봄과 어울리는 음색의 재즈보컬리스트 #바우터하멜 @hamelmusic\n그의 에너지 넘치는 인사영상입니다!🕺\n▶ 예매: https://t.co/hdPk0sQiCy  / 1544-1555, https://t.co/ru6LNF3lN0  / 1588-4763\n.\nJazz UP Your Soul\nTHE 13th SEOUL JAZZ FESTIVAL 2019 https://t.co/Y3OIsVJzda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바우터하멜",
+					"indices": [
+						63,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamelmusic",
+					"name": "Wouter Hamel",
+					"id": 19281354,
+					"id_str": "19281354",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hdPk0sQiCy",
+					"expanded_url": "https://bit.ly/2t0p5A1",
+					"display_url": "bit.ly/2t0p5A1",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/ru6LNF3lN0",
+					"expanded_url": "https://bit.ly/2F1kNPi",
+					"display_url": "bit.ly/2F1kNPi",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113351316724535300,
+					"id_str": "1113351316724535296",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113351316724535296/pu/img/WJX5PCgGrhgLzMuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113351316724535296/pu/img/WJX5PCgGrhgLzMuW.jpg",
+					"url": "https://t.co/Y3OIsVJzda",
+					"display_url": "pic.twitter.com/Y3OIsVJzda",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1113352021711544320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113351316724535300,
+					"id_str": "1113351316724535296",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113351316724535296/pu/img/WJX5PCgGrhgLzMuW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113351316724535296/pu/img/WJX5PCgGrhgLzMuW.jpg",
+					"url": "https://t.co/Y3OIsVJzda",
+					"display_url": "pic.twitter.com/Y3OIsVJzda",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1113352021711544320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35667,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113351316724535296/pu/vid/320x180/fBrqLh8XFUWXwnMP.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113351316724535296/pu/vid/1280x720/KP1yd02s8mKEidQJ.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1113351316724535296/pu/pl/iYVaMHC6qAxknYy7.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113351316724535296/pu/vid/640x360/Nhc6c53FWcafbeCW.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival",
+			"screen_name": "SeoulJazzFest",
+			"location": "seoul",
+			"description": "The official Seoul Jazz Festival Twitter page. 올림픽 공원 http://t.co/DfF5mFbv4a",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/DfF5mFbv4a",
+							"expanded_url": "http://facebook.com/seouljazzfestival",
+							"display_url": "facebook.com/seouljazzfesti…",
+							"indices": [
+								54,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2999,
+			"friends_count": 42,
+			"listed_count": 37,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1824,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071961660879818753/f-vdyky2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071961660879818753/f-vdyky2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1554174160",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SJF19 A Message From Artist] Wouter Hamel\n봄과 어울리는 음색의 재즈보컬리스트 #바우터하멜 @hamelmusic\n그의 에너지 넘치는 인사영상입니다!🕺\n▶ 예매: https://t.co/hdPk0sQiCy  / 1544-1555, https://t.co/ru6LNF3lN0  / 1588-4763\n.\nJazz UP Your Soul\nTHE 13th SEOUL JAZZ FESTIVAL 2019 https://t.co/Y3OIsVJzda"
+	},
+	{
+		"created_at": "Wed Apr 03 08:18:24 +0000 2019",
+		"id": 1113354647714951200,
+		"id_str": "1113355054902403072",
+		"full_text": "@band_SORAN 이 선사한 완벽한 순간들🌸\n\n민트페이퍼에 소란의 봄 소극장 장기 콘서트 '퍼펙트데이 7'의 소식이 업데이트 됐어요!\n\n라이브 영상과 하이라이트, 퍼펙트 딜리버리 서비스 영상도 곧 업데이트 될 예정입니다🌼🌻\n\nhttps://t.co/8lumohYW2T\n\n#소란 #퍼펙트데이7 https://t.co/UGK3jyAhym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "퍼펙트데이7",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "band_SORAN",
+					"name": "소란(SORAN)_오피셜",
+					"id": 3235980565,
+					"id_str": "3235980565",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8lumohYW2T",
+					"expanded_url": "http://bit.ly/2Uc5Set",
+					"display_url": "bit.ly/2Uc5Set",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113354479569559600,
+					"id_str": "1113354479569559552",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NuABfVYAAoMNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NuABfVYAAoMNR.jpg",
+					"url": "https://t.co/UGK3jyAhym",
+					"display_url": "pic.twitter.com/UGK3jyAhym",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1113354647714951169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113354479569559600,
+					"id_str": "1113354479569559552",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NuABfVYAAoMNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NuABfVYAAoMNR.jpg",
+					"url": "https://t.co/UGK3jyAhym",
+					"display_url": "pic.twitter.com/UGK3jyAhym",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1113354647714951169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3235980565,
+		"in_reply_to_user_id_str": "3235980565",
+		"in_reply_to_screen_name": "band_SORAN",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14039,
+			"friends_count": 2824,
+			"listed_count": 308,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12594,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@band_SORAN 이 선사한 완벽한 순간들🌸\n\n민트페이퍼에 소란의 봄 소극장 장기 콘서트 '퍼펙트데이 7'의 소식이 업데이트 됐어요!\n\n라이브 영상과 하이라이트, 퍼펙트 딜리버리 서비스 영상도 곧 업데이트 될 예정입니다🌼🌻\n\nhttps://t.co/8lumohYW2T\n\n#소란 #퍼펙트데이7 https://t.co/UGK3jyAhym"
+	},
+	{
 		"created_at": "Wed Apr 03 08:11:43 +0000 2019",
 		"id": 1113339378326134800,
 		"id_str": "1113353370021113856",
