@@ -1,6 +1,1537 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 13:16:06 +0000 2019",
+		"id": 1113429971547119600,
+		"id_str": "1113429971547119617",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 오늘은 옥달과 'Tadow' 라이브 보면서 죠스바 먹기! | CASPER MUSIC TV\nhttps://t.co/z7ml0zJhSh\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z7ml0zJhSh",
+					"expanded_url": "http://bit.ly/2uFx6er",
+					"display_url": "bit.ly/2uFx6er",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 오늘은 옥달과 'Tadow' 라이브 보면서 죠스바 먹기! | CASPER MUSIC TV\nhttps://t.co/z7ml0zJhSh\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 13:16:05 +0000 2019",
+		"id": 1113429967700930600,
+		"id_str": "1113429967700930560",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 역대급 쉽게 하는 오!짜!토!크! with 존박 | CASPER MUSIC TV\nhttps://t.co/07HtoPiH9S\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07HtoPiH9S",
+					"expanded_url": "http://bit.ly/2WFB2HW",
+					"display_url": "bit.ly/2WFB2HW",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 역대급 쉽게 하는 오!짜!토!크! with 존박 | CASPER MUSIC TV\nhttps://t.co/07HtoPiH9S\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 13:16:04 +0000 2019",
+		"id": 1113429964194484200,
+		"id_str": "1113429964194484224",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 옥상달빛과 비빔면을 먹으며 코코를 보자! | CASPER MUSIC TV\nhttps://t.co/1fsOg28XWA\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						123,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1fsOg28XWA",
+					"expanded_url": "http://bit.ly/2uNPem9",
+					"display_url": "bit.ly/2uNPem9",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 옥상달빛과 비빔면을 먹으며 코코를 보자! | CASPER MUSIC TV\nhttps://t.co/1fsOg28XWA\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 13:13:39 +0000 2019",
+		"id": 1113429353440923600,
+		"id_str": "1113429353440923650",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 믿고 듣는 레드벨벳! Power Up | CASPER MUSIC TV\nhttps://t.co/ZbxfXX7Gwf\n\n#김윤하 #박희아\n#BEST_NEW_KPOP #베스트뉴케이팝 #KPOP\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "김윤하",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "박희아",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "BEST_NEW_KPOP",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "베스트뉴케이팝",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZbxfXX7Gwf",
+					"expanded_url": "http://bit.ly/2Uflkq4",
+					"display_url": "bit.ly/2Uflkq4",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 믿고 듣는 레드벨벳! Power Up | CASPER MUSIC TV\nhttps://t.co/ZbxfXX7Gwf\n\n#김윤하 #박희아\n#BEST_NEW_KPOP #베스트뉴케이팝 #KPOP\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 13:11:50 +0000 2019",
+		"id": 1113420826575925200,
+		"id_str": "1113428900221259776",
+		"full_text": "📍 일시 : 4/4(목) 8:30pm\n📍 장소 : #고인물\n📍 라인업 : 너도밤나무 (이후 잼 파티)\n📍 티켓가 : 무료입장 자율페이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						28,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113420824751497200,
+		"in_reply_to_status_id_str": "1113420824751497217",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2387,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍 일시 : 4/4(목) 8:30pm\n📍 장소 : #고인물\n📍 라인업 : 너도밤나무 (이후 잼 파티)\n📍 티켓가 : 무료입장 자율페이"
+	},
+	{
+		"created_at": "Wed Apr 03 13:11:42 +0000 2019",
+		"id": 1113420824751497200,
+		"id_str": "1113428865878319104",
+		"full_text": "[공연추천]\n평일(4/4 목)에 볼 만한 공연 한 편을 씬디 티켓라운지가 추천해드립니다🔥\n최근 홍대에서 입지를 탄탄하게 키워가고 있는 밴드 너도밤나무의 공연인데요🎵\n이후에는 신나는 잼 파티도 있다고 하니 평일의 무료함을 공연장 고인물에서 달래보세요-!😝 https://t.co/wbUiot7NJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113420612498649100,
+					"id_str": "1113420612498649088",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3OqJd2UcAAOK-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3OqJd2UcAAOK-D.jpg",
+					"url": "https://t.co/wbUiot7NJg",
+					"display_url": "pic.twitter.com/wbUiot7NJg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113420824751497217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113420612498649100,
+					"id_str": "1113420612498649088",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D3OqJd2UcAAOK-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3OqJd2UcAAOK-D.jpg",
+					"url": "https://t.co/wbUiot7NJg",
+					"display_url": "pic.twitter.com/wbUiot7NJg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113420824751497217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2387,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n평일(4/4 목)에 볼 만한 공연 한 편을 씬디 티켓라운지가 추천해드립니다🔥\n최근 홍대에서 입지를 탄탄하게 키워가고 있는 밴드 너도밤나무의 공연인데요🎵\n이후에는 신나는 잼 파티도 있다고 하니 평일의 무료함을 공연장 고인물에서 달래보세요-!😝 https://t.co/wbUiot7NJg"
+	},
+	{
+		"created_at": "Wed Apr 03 12:57:26 +0000 2019",
+		"id": 1113425275432394800,
+		"id_str": "1113425275432394753",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 예서의 정규앨범은 이렇게 만들어졌다? | CASPER MUSIC TV\nhttps://t.co/rRzdgO4vY6\n\n#하박국의_박국박국해 #하박국 #HAVAQQUQ\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "하박국의_박국박국해",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "하박국",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "HAVAQQUQ",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rRzdgO4vY6",
+					"expanded_url": "http://bit.ly/2K2F8bQ",
+					"display_url": "bit.ly/2K2F8bQ",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 예서의 정규앨범은 이렇게 만들어졌다? | CASPER MUSIC TV\nhttps://t.co/rRzdgO4vY6\n\n#하박국의_박국박국해 #하박국 #HAVAQQUQ\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 12:57:25 +0000 2019",
+		"id": 1113425272047644700,
+		"id_str": "1113425272047644672",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 키라라의 스토리가 담긴 이번 앨범 'Sarah' | CASPER MUSIC TV\nhttps://t.co/v4gAY1sEce\n\n#하박국의_박국박국해 #하박국 #HAVAQQUQ\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "하박국의_박국박국해",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "하박국",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "HAVAQQUQ",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v4gAY1sEce",
+					"expanded_url": "http://bit.ly/2UtLbdp",
+					"display_url": "bit.ly/2UtLbdp",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27821,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 키라라의 스토리가 담긴 이번 앨범 'Sarah' | CASPER MUSIC TV\nhttps://t.co/v4gAY1sEce\n\n#하박국의_박국박국해 #하박국 #HAVAQQUQ\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Wed Apr 03 12:18:31 +0000 2019",
+		"id": 1113411276397375500,
+		"id_str": "1113415479006310400",
+		"full_text": "* 예약판매 링크 *\n향뮤직: https://t.co/nhstdA6lQT\n알라딘: https://t.co/OhSZU7SMmk\n예스24: https://t.co/G69oJDqbJb\n신나라레코드: https://t.co/N09GZJJnDX\n인터파크: https://t.co/flyWqKlnn4\n교보문고핫트랙스: https://t.co/3MmDVCbSms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nhstdA6lQT",
+					"expanded_url": "https://bit.ly/2YGNMje",
+					"display_url": "bit.ly/2YGNMje",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/OhSZU7SMmk",
+					"expanded_url": "https://bit.ly/2I4x3Rk",
+					"display_url": "bit.ly/2I4x3Rk",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/G69oJDqbJb",
+					"expanded_url": "https://bit.ly/2HSp0HL",
+					"display_url": "bit.ly/2HSp0HL",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/N09GZJJnDX",
+					"expanded_url": "https://bit.ly/2UlE9an",
+					"display_url": "bit.ly/2UlE9an",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/flyWqKlnn4",
+					"expanded_url": "https://bit.ly/2OzL2j2",
+					"display_url": "bit.ly/2OzL2j2",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/3MmDVCbSms",
+					"expanded_url": "https://bit.ly/2Ua612a",
+					"display_url": "bit.ly/2Ua612a",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1113411248081625100,
+		"in_reply_to_status_id_str": "1113411248081625088",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10928,
+			"friends_count": 5098,
+			"listed_count": 313,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4936,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* 예약판매 링크 *\n향뮤직: https://t.co/nhstdA6lQT\n알라딘: https://t.co/OhSZU7SMmk\n예스24: https://t.co/G69oJDqbJb\n신나라레코드: https://t.co/N09GZJJnDX\n인터파크: https://t.co/flyWqKlnn4\n교보문고핫트랙스: https://t.co/3MmDVCbSms"
+	},
+	{
+		"created_at": "Wed Apr 03 12:18:21 +0000 2019",
+		"id": 1113411248081625100,
+		"id_str": "1113415440615837697",
+		"full_text": "[생각의 여름 EP 예약 판매 시작]\n지난 공연에서 선판매되었던 생각의 여름 EP 'The Republic of Trees'의 예약 판매가 시작되었습니다. 아래 사이트에서 만나보세요 🌿 https://t.co/v7SjBtygC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113411233212817400,
+					"id_str": "1113411233212817408",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D3OhnhSUYAAqmMW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3OhnhSUYAAqmMW.jpg",
+					"url": "https://t.co/v7SjBtygC8",
+					"display_url": "pic.twitter.com/v7SjBtygC8",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1113411248081625088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113411233212817400,
+					"id_str": "1113411233212817408",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/D3OhnhSUYAAqmMW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3OhnhSUYAAqmMW.jpg",
+					"url": "https://t.co/v7SjBtygC8",
+					"display_url": "pic.twitter.com/v7SjBtygC8",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1113411248081625088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10928,
+			"friends_count": 5098,
+			"listed_count": 313,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4936,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[생각의 여름 EP 예약 판매 시작]\n지난 공연에서 선판매되었던 생각의 여름 EP 'The Republic of Trees'의 예약 판매가 시작되었습니다. 아래 사이트에서 만나보세요 🌿 https://t.co/v7SjBtygC8"
+	},
+	{
 		"created_at": "Wed Apr 03 11:50:10 +0000 2019",
 		"id": 1113408347733143600,
 		"id_str": "1113408347733143552",
