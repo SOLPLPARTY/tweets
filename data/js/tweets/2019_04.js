@@ -1,6 +1,1290 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 05:27:30 +0000 2019",
+		"id": 1113312045481508900,
+		"id_str": "1113312045481508865",
+		"full_text": "【 #인터파크티켓 】\n[콘서트] 2019 장범준 전국공연〈노래방에서〉 - 안양 티켓오픈 안내 : 19.04.09(화) 14:00\n▶ https://t.co/ApVg1lf0ee\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ApVg1lf0ee",
+					"expanded_url": "http://bit.ly/2Umvt3P",
+					"display_url": "bit.ly/2Umvt3P",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[콘서트] 2019 장범준 전국공연〈노래방에서〉 - 안양 티켓오픈 안내 : 19.04.09(화) 14:00\n▶ https://t.co/ApVg1lf0ee\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:29 +0000 2019",
+		"id": 1113312042486849500,
+		"id_str": "1113312042486849536",
+		"full_text": "【 #인터파크티켓 】\n[콘서트] 2019 마리아칼라스홀 소극장콘서트 - 하비누아주 티켓오픈 안내 : 19.04.10(수) 13:00\n▶ https://t.co/Vm7TFTnaDs\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vm7TFTnaDs",
+					"expanded_url": "http://bit.ly/2JXdPiW",
+					"display_url": "bit.ly/2JXdPiW",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[콘서트] 2019 마리아칼라스홀 소극장콘서트 - 하비누아주 티켓오픈 안내 : 19.04.10(수) 13:00\n▶ https://t.co/Vm7TFTnaDs\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:29 +0000 2019",
+		"id": 1113312039735320600,
+		"id_str": "1113312039735320576",
+		"full_text": "【 #인터파크티켓 】\n[뮤지컬] 국민뮤지컬 〈사랑은 비를 타고〉 3월 티켓오픈 안내 : 19.04.05(금) 14:00\n▶ https://t.co/8G7JxnE2SX\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						121,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8G7JxnE2SX",
+					"expanded_url": "http://bit.ly/2Up6Rr7",
+					"display_url": "bit.ly/2Up6Rr7",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[뮤지컬] 국민뮤지컬 〈사랑은 비를 타고〉 3월 티켓오픈 안내 : 19.04.05(금) 14:00\n▶ https://t.co/8G7JxnE2SX\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:28 +0000 2019",
+		"id": 1113312038019829800,
+		"id_str": "1113312038019829760",
+		"full_text": "【 #인터파크티켓 】\n[콘서트] NICHKHUN SOLO CONCERT ＇HOME＇ IN SEOUL 티켓오픈 안내 : 19.04.10(수) 20:00\n▶ https://t.co/A112Z3BBA2\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A112Z3BBA2",
+					"expanded_url": "http://bit.ly/2JXdNaO",
+					"display_url": "bit.ly/2JXdNaO",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[콘서트] NICHKHUN SOLO CONCERT ＇HOME＇ IN SEOUL 티켓오픈 안내 : 19.04.10(수) 20:00\n▶ https://t.co/A112Z3BBA2\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:28 +0000 2019",
+		"id": 1113312035138428900,
+		"id_str": "1113312035138428928",
+		"full_text": "【 #인터파크티켓 】\n[콘서트] 노래인생 60년 기념 이미자 음악회 - 광주 티켓오픈 안내 : 19.04.05(금) 14:00\n▶ https://t.co/4dLXQ27XLy\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4dLXQ27XLy",
+					"expanded_url": "http://bit.ly/2Uu7pvL",
+					"display_url": "bit.ly/2Uu7pvL",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[콘서트] 노래인생 60년 기념 이미자 음악회 - 광주 티켓오픈 안내 : 19.04.05(금) 14:00\n▶ https://t.co/4dLXQ27XLy\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:27 +0000 2019",
+		"id": 1113312033049587700,
+		"id_str": "1113312033049587713",
+		"full_text": "【 #인터파크티켓 】\n[뮤지컬] 뮤지컬 〈지킬앤하이드〉 - 대전 티켓오픈 안내 : 19.04.08(월) 14:00\n▶ https://t.co/dR4DAOWrQ7\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dR4DAOWrQ7",
+					"expanded_url": "http://bit.ly/2JZ4DKY",
+					"display_url": "bit.ly/2JZ4DKY",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[뮤지컬] 뮤지컬 〈지킬앤하이드〉 - 대전 티켓오픈 안내 : 19.04.08(월) 14:00\n▶ https://t.co/dR4DAOWrQ7\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:27:26 +0000 2019",
+		"id": 1113312029861994500,
+		"id_str": "1113312029861994496",
+		"full_text": "【 #인터파크티켓 】\n[콘서트] 노래인생 60년 기념 이미자 음악회 - 목포 티켓오픈 안내 : 19.04.05(금) 15:00\n▶ https://t.co/Q5yLRmwsSJ\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q5yLRmwsSJ",
+					"expanded_url": "http://bit.ly/2UqsuXR",
+					"display_url": "bit.ly/2UqsuXR",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[콘서트] 노래인생 60년 기념 이미자 음악회 - 목포 티켓오픈 안내 : 19.04.05(금) 15:00\n▶ https://t.co/Q5yLRmwsSJ\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Apr 03 05:18:26 +0000 2019",
+		"id": 1113308014629412900,
+		"id_str": "1113309762400280576",
+		"full_text": "유정목 겨울3연작에 관한 심층분석(?ㅎㅎ) 영상 인터뷰가 네이버 메인에 소개 되었습니다! 🙆‍\n아직 못보신 분들은 방문해 주세요. 공감과 댓글은 힘이 됩니다~ (소곤) 💪💗📝\n네이버 포스트 바로가기: https://t.co/71ePQt3IsO\n\n#유정목 #겨울3연작 #네이버 #메인  #서울숲 #인터뷰 #영상 #심층분석 https://t.co/CTX5rdpUvZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "겨울3연작",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "메인",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "서울숲",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "심층분석",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/71ePQt3IsO",
+					"expanded_url": "http://bitly.kr/x8LyQ",
+					"display_url": "bitly.kr/x8LyQ",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113307937559076900,
+					"id_str": "1113307937559076864",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NDq6_U4AAimId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NDq6_U4AAimId.jpg",
+					"url": "https://t.co/CTX5rdpUvZ",
+					"display_url": "pic.twitter.com/CTX5rdpUvZ",
+					"expanded_url": "https://twitter.com/orm_ent/status/1113308014629412865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 565,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 943,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113307937559076900,
+					"id_str": "1113307937559076864",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D3NDq6_U4AAimId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3NDq6_U4AAimId.jpg",
+					"url": "https://t.co/CTX5rdpUvZ",
+					"display_url": "pic.twitter.com/CTX5rdpUvZ",
+					"expanded_url": "https://twitter.com/orm_ent/status/1113308014629412865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 565,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 943,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT)",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희 여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 336,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2350,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1553481095",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유정목 겨울3연작에 관한 심층분석(?ㅎㅎ) 영상 인터뷰가 네이버 메인에 소개 되었습니다! 🙆‍\n아직 못보신 분들은 방문해 주세요. 공감과 댓글은 힘이 됩니다~ (소곤) 💪💗📝\n네이버 포스트 바로가기: https://t.co/71ePQt3IsO\n\n#유정목 #겨울3연작 #네이버 #메인  #서울숲 #인터뷰 #영상 #심층분석 https://t.co/CTX5rdpUvZ"
+	},
+	{
 		"created_at": "Wed Apr 03 05:11:44 +0000 2019",
 		"id": 1113302846118649900,
 		"id_str": "1113308078815023104",
