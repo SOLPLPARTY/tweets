@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 17:29:21 +0000 2019",
+		"id": 1113856094248603600,
+		"id_str": "1113856094248603649",
+		"full_text": "【 #두인디 】\n클럽 빵 (일) at 클럽빵 (2019/04/07 18:30)\n▶ https://t.co/CJTxRSVR5R\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/qFs0ggscAg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "두인디",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "Doindie",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CJTxRSVR5R",
+					"expanded_url": "http://bit.ly/2K2Hg38",
+					"display_url": "bit.ly/2K2Hg38",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113856093187448800,
+					"id_str": "1113856093187448834",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U2Nx1XoAI5YX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U2Nx1XoAI5YX1.jpg",
+					"url": "https://t.co/qFs0ggscAg",
+					"display_url": "pic.twitter.com/qFs0ggscAg",
+					"expanded_url": "https://twitter.com/solplparty/status/1113856094248603649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 793,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113856093187448800,
+					"id_str": "1113856093187448834",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U2Nx1XoAI5YX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U2Nx1XoAI5YX1.jpg",
+					"url": "https://t.co/qFs0ggscAg",
+					"display_url": "pic.twitter.com/qFs0ggscAg",
+					"expanded_url": "https://twitter.com/solplparty/status/1113856094248603649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 793,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27948,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #두인디 】\n클럽 빵 (일) at 클럽빵 (2019/04/07 18:30)\n▶ https://t.co/CJTxRSVR5R\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/qFs0ggscAg"
+	},
+	{
+		"created_at": "Thu Apr 04 17:29:20 +0000 2019",
+		"id": 1113856087252447200,
+		"id_str": "1113856087252447232",
+		"full_text": "【 #두인디 】\nI Will at 클럽 FF (2019/04/07 18:00)\n▶ https://t.co/vAWUr0Sgrs\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/GnTj3XkfYE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "두인디",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "Doindie",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vAWUr0Sgrs",
+					"expanded_url": "http://bit.ly/2UuW9iB",
+					"display_url": "bit.ly/2UuW9iB",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113856086140948500,
+					"id_str": "1113856086140948480",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U2NXlWkAArk1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U2NXlWkAArk1P.jpg",
+					"url": "https://t.co/GnTj3XkfYE",
+					"display_url": "pic.twitter.com/GnTj3XkfYE",
+					"expanded_url": "https://twitter.com/solplparty/status/1113856087252447232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113856086140948500,
+					"id_str": "1113856086140948480",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U2NXlWkAArk1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U2NXlWkAArk1P.jpg",
+					"url": "https://t.co/GnTj3XkfYE",
+					"display_url": "pic.twitter.com/GnTj3XkfYE",
+					"expanded_url": "https://twitter.com/solplparty/status/1113856087252447232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27948,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #두인디 】\nI Will at 클럽 FF (2019/04/07 18:00)\n▶ https://t.co/vAWUr0Sgrs\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/GnTj3XkfYE"
+	},
+	{
 		"created_at": "Thu Apr 04 15:30:49 +0000 2019",
 		"id": 1113826263301595100,
 		"id_str": "1113826263301595142",
