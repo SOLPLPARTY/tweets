@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 00:11:47 +0000 2019",
+		"id": 1113583892009586700,
+		"id_str": "1113594982114439168",
+		"full_text": "#EBS #스페이스공감 #공감 #드렁큰타이거 #비지 #난널원해 #너희가힙합을아느냐 #엄지손가락 #주노플로 #비틀어 #Twisted #statues #Grapevine #포도주 #힙합호랑이 #타이거JK #bizzy #Junoflo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "드렁큰타이거",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "비지",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "난널원해",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "너희가힙합을아느냐",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "엄지손가락",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "주노플로",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "비틀어",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "Twisted",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "statues",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "Grapevine",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "포도주",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "힙합호랑이",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "타이거JK",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "bizzy",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "Junoflo",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1113583844454588400,
+		"in_reply_to_status_id_str": "1113583844454588417",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281614,
+			"friends_count": 20840,
+			"listed_count": 859,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6545,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#EBS #스페이스공감 #공감 #드렁큰타이거 #비지 #난널원해 #너희가힙합을아느냐 #엄지손가락 #주노플로 #비틀어 #Twisted #statues #Grapevine #포도주 #힙합호랑이 #타이거JK #bizzy #Junoflo"
+	},
+	{
 		"created_at": "Wed Apr 03 21:22:29 +0000 2019",
 		"id": 1113552374579302400,
 		"id_str": "1113552374579302400",
