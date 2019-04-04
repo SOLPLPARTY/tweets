@@ -1,10 +1,230 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 15:30:49 +0000 2019",
+		"id": 1113826263301595100,
+		"id_str": "1113826263301595142",
+		"full_text": "#날씨알리미\n2019-04-06+09:00\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/UDkIBlsFea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "날씨알리미",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "마포구",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "날씨",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "비",
+					"indices": [
+						98,
+						100
+					]
+				},
+				{
+					"text": "우산챙겨요",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LWEpY0XtVE",
+					"expanded_url": "https://youtu.be/K1fi8KUf8F8",
+					"display_url": "youtu.be/K1fi8KUf8F8",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113826262387253200,
+					"id_str": "1113826262387253250",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D3UbFZcX4AID6k5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3UbFZcX4AID6k5.png",
+					"url": "https://t.co/UDkIBlsFea",
+					"display_url": "pic.twitter.com/UDkIBlsFea",
+					"expanded_url": "https://twitter.com/solplparty/status/1113826263301595142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113826262387253200,
+					"id_str": "1113826262387253250",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D3UbFZcX4AID6k5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3UbFZcX4AID6k5.png",
+					"url": "https://t.co/UDkIBlsFea",
+					"display_url": "pic.twitter.com/UDkIBlsFea",
+					"expanded_url": "https://twitter.com/solplparty/status/1113826263301595142/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27945,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#날씨알리미\n2019-04-06+09:00\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/UDkIBlsFea"
+	},
+	{
 		"created_at": "Thu Apr 04 15:11:42 +0000 2019",
 		"id": 1113809202017759200,
 		"id_str": "1113821452980060161",
-		"full_text": "#올댓뮤직 #긴급공지\n\n긴급 속보로 인해\n오늘 올댓뮤직은 결방이 결정되었습니다.\n\n#김사월 #권나무 편은\n다음주 목요일에 방송됩니다🙏\n\n더 좋은 방송으로\n다음주에 다시 찾아뵙겠습니다🙇‍♀️🙇‍♂️\n\n#ALLTHATMUSIC https://t.co/WeNY7yG6Ox",
+		"full_text": "#올댓뮤직 #긴급공지\n\n긴급 속보로 인해\n오늘 올댓뮤직은 결방이 결정되었습니다.\n\n#김사월 #권나무 편은\n다음주 목요일에 방송됩니다🙏\n\n더 좋은 방송으로\n다음주에 다시 찾아뵙겠습니다🙇♀️🙇♂️\n\n#ALLTHATMUSIC https://t.co/WeNY7yG6Ox",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -208,7 +428,7 @@ Grailbird.data.tweets_2019_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #긴급공지\n\n긴급 속보로 인해\n오늘 올댓뮤직은 결방이 결정되었습니다.\n\n#김사월 #권나무 편은\n다음주 목요일에 방송됩니다🙏\n\n더 좋은 방송으로\n다음주에 다시 찾아뵙겠습니다🙇‍♀️🙇‍♂️\n\n#ALLTHATMUSIC https://t.co/WeNY7yG6Ox"
+		"text": "#올댓뮤직 #긴급공지\n\n긴급 속보로 인해\n오늘 올댓뮤직은 결방이 결정되었습니다.\n\n#김사월 #권나무 편은\n다음주 목요일에 방송됩니다🙏\n\n더 좋은 방송으로\n다음주에 다시 찾아뵙겠습니다🙇♀️🙇♂️\n\n#ALLTHATMUSIC https://t.co/WeNY7yG6Ox"
 	},
 	{
 		"created_at": "Thu Apr 04 15:01:20 +0000 2019",
