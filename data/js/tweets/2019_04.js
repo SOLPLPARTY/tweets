@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 13:11:42 +0000 2019",
+		"id": 1113788618286325800,
+		"id_str": "1113791253844496384",
+		"full_text": "4/13(sat) [clubFF - Yellow]\n플래그 Flag\n아디오스오디오 Adios Audio\n카딘 Cardean\n기억 Memoire\n블루파프리카 Blue Paprika\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. \n*1부 공연 관람객은 2부 공연도 관람하실 수 있습니다. https://t.co/B4OZGwCrUt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113788608605900800,
+					"id_str": "1113788608605900800",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D3T41qLU0AADGQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3T41qLU0AADGQ_.jpg",
+					"url": "https://t.co/B4OZGwCrUt",
+					"display_url": "pic.twitter.com/B4OZGwCrUt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1113788618286325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113788608605900800,
+					"id_str": "1113788608605900800",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D3T41qLU0AADGQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3T41qLU0AADGQ_.jpg",
+					"url": "https://t.co/B4OZGwCrUt",
+					"display_url": "pic.twitter.com/B4OZGwCrUt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1113788618286325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113788608647798800,
+					"id_str": "1113788608647798784",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D3T41qVUIAAbGrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3T41qVUIAAbGrG.jpg",
+					"url": "https://t.co/B4OZGwCrUt",
+					"display_url": "pic.twitter.com/B4OZGwCrUt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1113788618286325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6900,
+			"friends_count": 7,
+			"listed_count": 103,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3362,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4/13(sat) [clubFF - Yellow]\n플래그 Flag\n아디오스오디오 Adios Audio\n카딘 Cardean\n기억 Memoire\n블루파프리카 Blue Paprika\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. \n*1부 공연 관람객은 2부 공연도 관람하실 수 있습니다. https://t.co/B4OZGwCrUt"
+	},
+	{
+		"created_at": "Thu Apr 04 12:42:34 +0000 2019",
+		"id": 1113783919697190900,
+		"id_str": "1113783919697190912",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 구원찬과 함께하는 엉망진창 5자토크 (feat. 치킨) | CASPER MUSIC TV\nhttps://t.co/SkJUB7LpOi\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkJUB7LpOi",
+					"expanded_url": "http://bit.ly/2Kg4TVU",
+					"display_url": "bit.ly/2Kg4TVU",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27936,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 구원찬과 함께하는 엉망진창 5자토크 (feat. 치킨) | CASPER MUSIC TV\nhttps://t.co/SkJUB7LpOi\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
 		"created_at": "Thu Apr 04 12:11:56 +0000 2019",
 		"id": 1113771135290576900,
 		"id_str": "1113776211854016513",
