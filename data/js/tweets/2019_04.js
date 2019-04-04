@@ -1,6 +1,1913 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 08:06:04 +0000 2019",
+		"id": 1113714339163320300,
+		"id_str": "1113714339163320320",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\nPLAYLIST | 느낌적인 느낌, 트렌디한 Vibe의 인디 일렉트로닉 팝\nhttps://t.co/3RbOKOzhFD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3RbOKOzhFD",
+					"expanded_url": "https://youtu.be/bQAjrEUyp3c",
+					"display_url": "youtu.be/bQAjrEUyp3c",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\nPLAYLIST | 느낌적인 느낌, 트렌디한 Vibe의 인디 일렉트로닉 팝\nhttps://t.co/3RbOKOzhFD"
+	},
+	{
+		"created_at": "Thu Apr 04 07:34:46 +0000 2019",
+		"id": 1113706460175904800,
+		"id_str": "1113706460175904769",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.04.09(화) 〈2019 인천 월드뮤직 피에스타〉 티켓 오픈 안내\n▶ https://t.co/SHPJTkNHxY\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/qiakjEIIVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						135,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SHPJTkNHxY",
+					"expanded_url": "http://bit.ly/2K4OVOw",
+					"display_url": "bit.ly/2K4OVOw",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113706459123073000,
+					"id_str": "1113706459123073024",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuH7gWwAALZ-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuH7gWwAALZ-e.jpg",
+					"url": "https://t.co/qiakjEIIVP",
+					"display_url": "pic.twitter.com/qiakjEIIVP",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706460175904769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113706459123073000,
+					"id_str": "1113706459123073024",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuH7gWwAALZ-e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuH7gWwAALZ-e.jpg",
+					"url": "https://t.co/qiakjEIIVP",
+					"display_url": "pic.twitter.com/qiakjEIIVP",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706460175904769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.04.09(화) 〈2019 인천 월드뮤직 피에스타〉 티켓 오픈 안내\n▶ https://t.co/SHPJTkNHxY\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/qiakjEIIVP"
+	},
+	{
+		"created_at": "Thu Apr 04 07:34:36 +0000 2019",
+		"id": 1113706420422283300,
+		"id_str": "1113706420422283264",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.04.09(화) 2019 바이브 전국투어콘서트［VIBE］－서울 티켓 오픈 안내\n▶ https://t.co/tqdk5d6f1E\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/exsycoLWU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tqdk5d6f1E",
+					"expanded_url": "http://bit.ly/2Utc3tV",
+					"display_url": "bit.ly/2Utc3tV",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113706419432374300,
+					"id_str": "1113706419432374272",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuFnpWwAAnFer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuFnpWwAAnFer.jpg",
+					"url": "https://t.co/exsycoLWU2",
+					"display_url": "pic.twitter.com/exsycoLWU2",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706420422283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113706419432374300,
+					"id_str": "1113706419432374272",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuFnpWwAAnFer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuFnpWwAAnFer.jpg",
+					"url": "https://t.co/exsycoLWU2",
+					"display_url": "pic.twitter.com/exsycoLWU2",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706420422283264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.04.09(화) 2019 바이브 전국투어콘서트［VIBE］－서울 티켓 오픈 안내\n▶ https://t.co/tqdk5d6f1E\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/exsycoLWU2"
+	},
+	{
+		"created_at": "Thu Apr 04 07:34:28 +0000 2019",
+		"id": 1113706383285866500,
+		"id_str": "1113706383285866497",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.04.04(목) 소년 EP 발매 기념 콘서트 〈LOVE〉 티켓 오픈 안내\n▶ https://t.co/X9SA0yIClZ\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/4ukmyhYNoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X9SA0yIClZ",
+					"expanded_url": "http://bit.ly/2K20pSH",
+					"display_url": "bit.ly/2K20pSH",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113706382275035100,
+					"id_str": "1113706382275035136",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuDdOWwAADbgI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuDdOWwAADbgI.png",
+					"url": "https://t.co/4ukmyhYNoN",
+					"display_url": "pic.twitter.com/4ukmyhYNoN",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706383285866497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113706382275035100,
+					"id_str": "1113706382275035136",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SuDdOWwAADbgI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3SuDdOWwAADbgI.png",
+					"url": "https://t.co/4ukmyhYNoN",
+					"display_url": "pic.twitter.com/4ukmyhYNoN",
+					"expanded_url": "https://twitter.com/solplparty/status/1113706383285866497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.04.04(목) 소년 EP 발매 기념 콘서트 〈LOVE〉 티켓 오픈 안내\n▶ https://t.co/X9SA0yIClZ\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/4ukmyhYNoN"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:26 +0000 2019",
+		"id": 1113704616720515100,
+		"id_str": "1113704616720515073",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 구원찬 (Ku One Chan) - 슬퍼하지마 (Don't Be Sad) | CASPER MUSIC TV\nhttps://t.co/6HFmSPhs7l\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6HFmSPhs7l",
+					"expanded_url": "http://bit.ly/2YWFd4e",
+					"display_url": "bit.ly/2YWFd4e",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 구원찬 (Ku One Chan) - 슬퍼하지마 (Don't Be Sad) | CASPER MUSIC TV\nhttps://t.co/6HFmSPhs7l\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:26 +0000 2019",
+		"id": 1113704614937886700,
+		"id_str": "1113704614937886721",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 윤주가 한강에서 생긴일 (?) 행복은 멀리 있지 않아요 | CASPER MUSIC TV\nhttps://t.co/KbqU6Jghob\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KbqU6Jghob",
+					"expanded_url": "http://bit.ly/2TRV4wZ",
+					"display_url": "bit.ly/2TRV4wZ",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 윤주가 한강에서 생긴일 (?) 행복은 멀리 있지 않아요 | CASPER MUSIC TV\nhttps://t.co/KbqU6Jghob\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:25 +0000 2019",
+		"id": 1113704612056453100,
+		"id_str": "1113704612056453120",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 탄수화물과 애인만 있다면 행복한 세진(?) | CASPER MUSIC TV\nhttps://t.co/4IQi3qjrXk\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4IQi3qjrXk",
+					"expanded_url": "http://bit.ly/2YK5q61",
+					"display_url": "bit.ly/2YK5q61",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 탄수화물과 애인만 있다면 행복한 세진(?) | CASPER MUSIC TV\nhttps://t.co/4IQi3qjrXk\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:25 +0000 2019",
+		"id": 1113704608994660400,
+		"id_str": "1113704608994660352",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 혜성처럼 나타난 신인뮤지션 Sejin과 딥샤워 (Deepshower) | CASPER MUSIC TV\nhttps://t.co/AQvAgr0CWF\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AQvAgr0CWF",
+					"expanded_url": "http://bit.ly/2TUsTgT",
+					"display_url": "bit.ly/2TUsTgT",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 혜성처럼 나타난 신인뮤지션 Sejin과 딥샤워 (Deepshower) | CASPER MUSIC TV\nhttps://t.co/AQvAgr0CWF\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:24 +0000 2019",
+		"id": 1113704607077863400,
+		"id_str": "1113704607077863424",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 남은 10대, 어떻게 하면 뜻깊게 보낼 수 있을까요? | CASPER MUSIC TV\nhttps://t.co/aJwPEOds48\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aJwPEOds48",
+					"expanded_url": "http://bit.ly/2YMwT6V",
+					"display_url": "bit.ly/2YMwT6V",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 남은 10대, 어떻게 하면 뜻깊게 보낼 수 있을까요? | CASPER MUSIC TV\nhttps://t.co/aJwPEOds48\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:27:24 +0000 2019",
+		"id": 1113704604611567600,
+		"id_str": "1113704604611567618",
+		"full_text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 오자토크 장인이세요? '송은이'의 오자로 답해요! | CASPER MUSIC TV\nhttps://t.co/oI3EhUjRpI\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "옥탑라됴",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "김윤주",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "박세진",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						128,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oI3EhUjRpI",
+					"expanded_url": "http://bit.ly/2TX2mzI",
+					"display_url": "bit.ly/2TX2mzI",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #캐스퍼라디오 】\n[캐스퍼라디오] 오자토크 장인이세요? '송은이'의 오자로 답해요! | CASPER MUSIC TV\nhttps://t.co/oI3EhUjRpI\n\n#옥상달빛 #옥탑라됴 #김윤주 #박세진\n#CASPER_RADIO #CASPER_MUSIC_TV"
+	},
+	{
+		"created_at": "Thu Apr 04 07:18:24 +0000 2019",
+		"id": 1113688168660750300,
+		"id_str": "1113702343693033472",
+		"full_text": "예매하기 ▶️ https://t.co/2PNT3CV8Vt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2PNT3CV8Vt",
+					"expanded_url": "http://bit.ly/2TXFapW",
+					"display_url": "bit.ly/2TXFapW",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1113687786052153300,
+		"in_reply_to_status_id_str": "1113687786052153344",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1397,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3347,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예매하기 ▶️ https://t.co/2PNT3CV8Vt"
+	},
+	{
 		"created_at": "Thu Apr 04 07:12:01 +0000 2019",
 		"id": 1113686471448367100,
 		"id_str": "1113700733759696896",
