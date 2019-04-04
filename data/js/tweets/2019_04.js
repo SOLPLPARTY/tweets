@@ -1,10 +1,622 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 07:12:01 +0000 2019",
+		"id": 1113686471448367100,
+		"id_str": "1113700733759696896",
+		"full_text": "둘째!\n&lt;THE MAGUSTAKERS 27&gt;\n메이커스테이커스 의 절친밴드이자 부산 씬을 대표하는 The magus 매거스와 함께 진행되는 공연입니다!!\n.\n🎈일시 : 4/6 (금) 6:30 PM\n🎈장소 : #고인물\n🎈라인업: #메이커스테이커스 #매거스 😃\n🎈티켓가 : 10,000원 (선착순 입장) https://t.co/CxFCEevbWq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "메이커스테이커스",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "매거스",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113685297559031800,
+					"id_str": "1113685297559031809",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sa4KiU0AEKabX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sa4KiU0AEKabX.jpg",
+					"url": "https://t.co/CxFCEevbWq",
+					"display_url": "pic.twitter.com/CxFCEevbWq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686471448367105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113685297559031800,
+					"id_str": "1113685297559031809",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sa4KiU0AEKabX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sa4KiU0AEKabX.jpg",
+					"url": "https://t.co/CxFCEevbWq",
+					"display_url": "pic.twitter.com/CxFCEevbWq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686471448367105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113686469288136700,
+		"in_reply_to_status_id_str": "1113686469288136704",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2387,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8217,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "둘째!\n&lt;THE MAGUSTAKERS 27&gt;\n메이커스테이커스 의 절친밴드이자 부산 씬을 대표하는 The magus 매거스와 함께 진행되는 공연입니다!!\n.\n🎈일시 : 4/6 (금) 6:30 PM\n🎈장소 : #고인물\n🎈라인업: #메이커스테이커스 #매거스 😃\n🎈티켓가 : 10,000원 (선착순 입장) https://t.co/CxFCEevbWq"
+	},
+	{
+		"created_at": "Thu Apr 04 07:11:52 +0000 2019",
+		"id": 1113686469288136700,
+		"id_str": "1113700695532888065",
+		"full_text": "첫째!\n&lt;HEAVY WINGS Concert&gt;\n포스트락 또는 헤비하게 \n무게감을 선호하는 분들 위한 공연 입니다!!😃\n.\n🎈일시 : 4/5 (금) 8:30 PM\n🎈장소 : #고인물\n🎈라인업: #팎,#Rukh\n🎈티켓가 : 10,000원 (예매시 5000원 드링크 쿠폰 증정)\n▶️ 예매처 RSVP: https://t.co/4bpsb27d4V https://t.co/QTr2PCfZuN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "팎",
+					"indices": [
+						113,
+						115
+					]
+				},
+				{
+					"text": "Rukh",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4bpsb27d4V",
+					"expanded_url": "https://bit.ly/hippy10",
+					"display_url": "bit.ly/hippy10",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113684932247806000,
+					"id_str": "1113684932247805954",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sai5pV4AISD-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sai5pV4AISD-V.jpg",
+					"url": "https://t.co/QTr2PCfZuN",
+					"display_url": "pic.twitter.com/QTr2PCfZuN",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686469288136704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113684932247806000,
+					"id_str": "1113684932247805954",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Sai5pV4AISD-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Sai5pV4AISD-V.jpg",
+					"url": "https://t.co/QTr2PCfZuN",
+					"display_url": "pic.twitter.com/QTr2PCfZuN",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686469288136704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113686467618820100,
+		"in_reply_to_status_id_str": "1113686467618820096",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2387,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8217,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫째!\n&lt;HEAVY WINGS Concert&gt;\n포스트락 또는 헤비하게 \n무게감을 선호하는 분들 위한 공연 입니다!!😃\n.\n🎈일시 : 4/5 (금) 8:30 PM\n🎈장소 : #고인물\n🎈라인업: #팎,#Rukh\n🎈티켓가 : 10,000원 (예매시 5000원 드링크 쿠폰 증정)\n▶️ 예매처 RSVP: https://t.co/4bpsb27d4V https://t.co/QTr2PCfZuN"
+	},
+	{
+		"created_at": "Thu Apr 04 07:11:42 +0000 2019",
+		"id": 1113686467618820100,
+		"id_str": "1113700656945221632",
+		"full_text": "[공연추천] \n금,토 두 요일! \n '고인물' 에서 진행되는 두 공연을 소개합니다! 😊\n(이어서) https://t.co/MnRcheaSYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113684836571582500,
+					"id_str": "1113684836571582464",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SadVOWkAAWHKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SadVOWkAAWHKO.jpg",
+					"url": "https://t.co/MnRcheaSYs",
+					"display_url": "pic.twitter.com/MnRcheaSYs",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686467618820096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113684836571582500,
+					"id_str": "1113684836571582464",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SadVOWkAAWHKO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SadVOWkAAWHKO.jpg",
+					"url": "https://t.co/MnRcheaSYs",
+					"display_url": "pic.twitter.com/MnRcheaSYs",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686467618820096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113684836613591000,
+					"id_str": "1113684836613591040",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D3SadVYXkAAXX5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3SadVYXkAAXX5N.jpg",
+					"url": "https://t.co/MnRcheaSYs",
+					"display_url": "pic.twitter.com/MnRcheaSYs",
+					"expanded_url": "https://twitter.com/xindieticket/status/1113686467618820096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2387,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8217,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천] \n금,토 두 요일! \n '고인물' 에서 진행되는 두 공연을 소개합니다! 😊\n(이어서) https://t.co/MnRcheaSYs"
+	},
+	{
 		"created_at": "Thu Apr 04 06:11:51 +0000 2019",
 		"id": 1113682989701976000,
 		"id_str": "1113685595648344065",
-		"full_text": "#올댓뮤직 #공개녹화\n190404(목) 19:00 @춘천KBS공개홀\n\n#김필 #최낙타 #로큰롤라디오 #헤이맨\n\n올댓뮤직은 리허설 중!\n크으 오늘 기대하셔도 좋습니다🙊\n좀이따 만나요🙋‍♀️🙋‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190404 https://t.co/0CeQhHipf3",
+		"full_text": "#올댓뮤직 #공개녹화\n190404(목) 19:00 @춘천KBS공개홀\n\n#김필 #최낙타 #로큰롤라디오 #헤이맨\n\n올댓뮤직은 리허설 중!\n크으 오늘 기대하셔도 좋습니다🙊\n좀이따 만나요🙋♀️🙋♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190404 https://t.co/0CeQhHipf3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -229,7 +841,7 @@ Grailbird.data.tweets_2019_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화\n190404(목) 19:00 @춘천KBS공개홀\n\n#김필 #최낙타 #로큰롤라디오 #헤이맨\n\n올댓뮤직은 리허설 중!\n크으 오늘 기대하셔도 좋습니다🙊\n좀이따 만나요🙋‍♀️🙋‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190404 https://t.co/0CeQhHipf3"
+		"text": "#올댓뮤직 #공개녹화\n190404(목) 19:00 @춘천KBS공개홀\n\n#김필 #최낙타 #로큰롤라디오 #헤이맨\n\n올댓뮤직은 리허설 중!\n크으 오늘 기대하셔도 좋습니다🙊\n좀이따 만나요🙋♀️🙋♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190404 https://t.co/0CeQhHipf3"
 	},
 	{
 		"created_at": "Thu Apr 04 06:11:49 +0000 2019",
