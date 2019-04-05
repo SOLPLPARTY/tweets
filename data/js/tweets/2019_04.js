@@ -1,6 +1,1655 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 03:11:51 +0000 2019",
+		"id": 1113999859881631700,
+		"id_str": "1114002681629114368",
+		"full_text": "페스티벌 나다 2019 전체일정 소개(3/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP 춘천 예매 -&gt; https://t.co/EfZtteGfhq 부산 예매 -&gt; https://t.co/cm2EAdzcO9  전체일정 한눈에 보기 https://t.co/nh2g0JRf9u  https://t.co/9N3pc5yVM1 https://t.co/YRl1gaOSF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQsbVUToxP",
+					"expanded_url": "https://bit.ly/2IcFMRB",
+					"display_url": "bit.ly/2IcFMRB",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/EfZtteGfhq",
+					"expanded_url": "https://bit.ly/2YIEP9j",
+					"display_url": "bit.ly/2YIEP9j",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/cm2EAdzcO9",
+					"expanded_url": "https://bit.ly/2uH2n0x",
+					"display_url": "bit.ly/2uH2n0x",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/nh2g0JRf9u",
+					"expanded_url": "http://nestnada.blog.me/221506100146",
+					"display_url": "nestnada.blog.me/221506100146",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113999823982567400,
+					"id_str": "1113999823982567424",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W48AxUIAAQT3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W48AxUIAAQT3m.jpg",
+					"url": "https://t.co/YRl1gaOSF6",
+					"display_url": "pic.twitter.com/YRl1gaOSF6",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999859881631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113998326976864300,
+					"id_str": "1113998326976864257",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1113998694376820700,
+					"source_status_id_str": "1113998694376820736",
+					"source_user_id": 814959722,
+					"source_user_id_str": "814959722"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113999823982567400,
+					"id_str": "1113999823982567424",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W48AxUIAAQT3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W48AxUIAAQT3m.jpg",
+					"url": "https://t.co/YRl1gaOSF6",
+					"display_url": "pic.twitter.com/YRl1gaOSF6",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999859881631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113999847995007000,
+					"id_str": "1113999847995006976",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W49aOU4AAwKYG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W49aOU4AAwKYG.jpg",
+					"url": "https://t.co/YRl1gaOSF6",
+					"display_url": "pic.twitter.com/YRl1gaOSF6",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999859881631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113998326976864300,
+					"id_str": "1113998326976864257",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1113998694376820700,
+					"source_status_id_str": "1113998694376820736",
+					"source_user_id": 814959722,
+					"source_user_id_str": "814959722"
+				},
+				{
+					"id": 1113998343602970600,
+					"id_str": "1113998343602970625",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3l17UIAEGgDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3l17UIAEGgDj.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1113998694376820700,
+					"source_status_id_str": "1113998694376820736",
+					"source_user_id": 814959722,
+					"source_user_id_str": "814959722"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113999345500561400,
+		"in_reply_to_status_id_str": "1113999345500561409",
+		"in_reply_to_user_id": 814959722,
+		"in_reply_to_user_id_str": "814959722",
+		"in_reply_to_screen_name": "nestNADA",
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 901,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 3999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1133,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페스티벌 나다 2019 전체일정 소개(3/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP 춘천 예매 -&gt; https://t.co/EfZtteGfhq 부산 예매 -&gt; https://t.co/cm2EAdzcO9  전체일정 한눈에 보기 https://t.co/nh2g0JRf9u  https://t.co/9N3pc5yVM1 https://t.co/YRl1gaOSF6"
+	},
+	{
+		"created_at": "Fri Apr 05 03:11:45 +0000 2019",
+		"id": 1113999345500561400,
+		"id_str": "1114002659990736897",
+		"full_text": "페스티벌 나다 2019 전체일정 소개(2/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP 춘천 예매 -&gt; https://t.co/EfZtteGfhq 부산 예매 -&gt; https://t.co/cm2EAdzcO9  전체일정 한눈에 보기 https://t.co/nh2g0JRf9u  https://t.co/9N3pc5yVM1 https://t.co/1hJtfWsJgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQsbVUToxP",
+					"expanded_url": "https://bit.ly/2IcFMRB",
+					"display_url": "bit.ly/2IcFMRB",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/EfZtteGfhq",
+					"expanded_url": "https://bit.ly/2YIEP9j",
+					"display_url": "bit.ly/2YIEP9j",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/cm2EAdzcO9",
+					"expanded_url": "https://bit.ly/2uH2n0x",
+					"display_url": "bit.ly/2uH2n0x",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/nh2g0JRf9u",
+					"expanded_url": "http://nestnada.blog.me/221506100146",
+					"display_url": "nestnada.blog.me/221506100146",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113999252013736000,
+					"id_str": "1113999252013735936",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W4auBUYAAf5Dx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W4auBUYAAf5Dx.jpg",
+					"url": "https://t.co/1hJtfWsJgv",
+					"display_url": "pic.twitter.com/1hJtfWsJgv",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999345500561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113999252013736000,
+					"id_str": "1113999252013735936",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W4auBUYAAf5Dx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W4auBUYAAf5Dx.jpg",
+					"url": "https://t.co/1hJtfWsJgv",
+					"display_url": "pic.twitter.com/1hJtfWsJgv",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999345500561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113999278882480100,
+					"id_str": "1113999278882480130",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W4cSHU4AIIp_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W4cSHU4AIIp_u.jpg",
+					"url": "https://t.co/1hJtfWsJgv",
+					"display_url": "pic.twitter.com/1hJtfWsJgv",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999345500561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113999303712710700,
+					"id_str": "1113999303712710656",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W4dunUIAA2BAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W4dunUIAA2BAs.jpg",
+					"url": "https://t.co/1hJtfWsJgv",
+					"display_url": "pic.twitter.com/1hJtfWsJgv",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999345500561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113999330476679200,
+					"id_str": "1113999330476679169",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W4fSUV4AEocYm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W4fSUV4AEocYm.jpg",
+					"url": "https://t.co/1hJtfWsJgv",
+					"display_url": "pic.twitter.com/1hJtfWsJgv",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113999345500561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1113998694376820700,
+		"in_reply_to_status_id_str": "1113998694376820736",
+		"in_reply_to_user_id": 814959722,
+		"in_reply_to_user_id_str": "814959722",
+		"in_reply_to_screen_name": "nestNADA",
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 901,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 3999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1133,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페스티벌 나다 2019 전체일정 소개(2/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP 춘천 예매 -&gt; https://t.co/EfZtteGfhq 부산 예매 -&gt; https://t.co/cm2EAdzcO9  전체일정 한눈에 보기 https://t.co/nh2g0JRf9u  https://t.co/9N3pc5yVM1 https://t.co/1hJtfWsJgv"
+	},
+	{
+		"created_at": "Fri Apr 05 03:11:42 +0000 2019",
+		"id": 1113998694376820700,
+		"id_str": "1114002646359212032",
+		"full_text": "페스티벌 나다 2019 전체일정 소개(1/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP페스티벌 나다 춘천 예매 -&gt; https://t.co/EfZtteGfhq페스티벌 나다 부산 예매 -&gt; https://t.co/cm2EAdzcO9 전체일정 한눈에 보기 https://t.co/nh2g0JRf9u https://t.co/9N3pc5yVM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQsbVUToxP",
+					"expanded_url": "https://bit.ly/2IcFMRB",
+					"display_url": "bit.ly/2IcFMRB",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/EfZtteGfhq",
+					"expanded_url": "https://bit.ly/2YIEP9j",
+					"display_url": "bit.ly/2YIEP9j",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/cm2EAdzcO9",
+					"expanded_url": "https://bit.ly/2uH2n0x",
+					"display_url": "bit.ly/2uH2n0x",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/nh2g0JRf9u",
+					"expanded_url": "http://nestnada.blog.me/221506100146",
+					"display_url": "nestnada.blog.me/221506100146",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113998326976864300,
+					"id_str": "1113998326976864257",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113998326976864300,
+					"id_str": "1113998326976864257",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3k3_V4AEXPaV.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113998343602970600,
+					"id_str": "1113998343602970625",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3l17UIAEGgDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3l17UIAEGgDj.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113998361000988700,
+					"id_str": "1113998361000988673",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3m2vU0AENmHQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3m2vU0AENmHQ.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113998377606209500,
+					"id_str": "1113998377606209536",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/D3W3n0mUYAAOss0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3W3n0mUYAAOss0.jpg",
+					"url": "https://t.co/9N3pc5yVM1",
+					"display_url": "pic.twitter.com/9N3pc5yVM1",
+					"expanded_url": "https://twitter.com/nestNADA/status/1113998694376820736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 901,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 3999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1133,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페스티벌 나다 2019 전체일정 소개(1/3) 페스티벌 나다 서울 예매 -&gt; https://t.co/NQsbVUToxP페스티벌 나다 춘천 예매 -&gt; https://t.co/EfZtteGfhq페스티벌 나다 부산 예매 -&gt; https://t.co/cm2EAdzcO9 전체일정 한눈에 보기 https://t.co/nh2g0JRf9u https://t.co/9N3pc5yVM1"
+	},
+	{
+		"created_at": "Fri Apr 05 03:02:57 +0000 2019",
+		"id": 1114000442906816500,
+		"id_str": "1114000442906816512",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] TEYUN - Idiots (바보들)\nhttps://t.co/EZWjaAWLgM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZWjaAWLgM",
+					"expanded_url": "https://youtu.be/0GcM6GynpUA",
+					"display_url": "youtu.be/0GcM6GynpUA",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] TEYUN - Idiots (바보들)\nhttps://t.co/EZWjaAWLgM"
+	},
+	{
+		"created_at": "Fri Apr 05 03:02:56 +0000 2019",
+		"id": 1114000440960720900,
+		"id_str": "1114000440960720896",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] AkKE (아케) - How Plants Grow\nhttps://t.co/3FkqXcmusW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3FkqXcmusW",
+					"expanded_url": "https://youtu.be/4uz1pQ6JOEg",
+					"display_url": "youtu.be/4uz1pQ6JOEg",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] AkKE (아케) - How Plants Grow\nhttps://t.co/3FkqXcmusW"
+	},
+	{
+		"created_at": "Fri Apr 05 03:01:23 +0000 2019",
+		"id": 1114000050227744800,
+		"id_str": "1114000050227744768",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[MV] 파랑망또 (Blue Mangtto) - 헷갈리게 하지 말아요 (Don't get confused)\nhttps://t.co/3XmEYFzz7h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3XmEYFzz7h",
+					"expanded_url": "https://youtu.be/rBM7_aa9K0E",
+					"display_url": "youtu.be/rBM7_aa9K0E",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[MV] 파랑망또 (Blue Mangtto) - 헷갈리게 하지 말아요 (Don't get confused)\nhttps://t.co/3XmEYFzz7h"
+	},
+	{
+		"created_at": "Fri Apr 05 03:01:23 +0000 2019",
+		"id": 1114000047711060000,
+		"id_str": "1114000047711059974",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[Lyric Video] 파랑망또 (Blue Mangtto) - 헷갈리게 하지 말아요 (Don't get confused)\nhttps://t.co/SCDrXrCKyj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SCDrXrCKyj",
+					"expanded_url": "https://youtu.be/AiFlPi-h9uk",
+					"display_url": "youtu.be/AiFlPi-h9uk",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[Lyric Video] 파랑망또 (Blue Mangtto) - 헷갈리게 하지 말아요 (Don't get confused)\nhttps://t.co/SCDrXrCKyj"
+	},
+	{
+		"created_at": "Fri Apr 05 03:00:49 +0000 2019",
+		"id": 1113999908346957800,
+		"id_str": "1113999908346957825",
+		"full_text": "#포크라노스 #POCLANOS\n[Full Album] Kelly wei - A+romantic / 앨범 전곡 듣기\nhttps://t.co/6wle960XAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6wle960XAk",
+					"expanded_url": "https://youtu.be/ikav1wCrIA4",
+					"display_url": "youtu.be/ikav1wCrIA4",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Full Album] Kelly wei - A+romantic / 앨범 전곡 듣기\nhttps://t.co/6wle960XAk"
+	},
+	{
 		"created_at": "Fri Apr 05 01:54:48 +0000 2019",
 		"id": 1113983294905958400,
 		"id_str": "1113983294905958401",
