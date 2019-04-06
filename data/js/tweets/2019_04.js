@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 04:19:54 +0000 2019",
+		"id": 1114369199592185900,
+		"id_str": "1114382198008889344",
+		"full_text": "자전거, 와플기계, 고양이용 헤드폰..\n팬들의 지갑과 멘탈을 털어간 기상천외 머천다이즈 6선\nhttps://t.co/6UMVfIEr0w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6UMVfIEr0w",
+					"expanded_url": "https://bit.ly/2Vpj7F7",
+					"display_url": "bit.ly/2Vpj7F7",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "• 5/11 KAMAAL WILLIAMS • 7/27-7/28 HOLIDAY LAND FESTIVAL",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1411,
+			"friends_count": 60,
+			"listed_count": 16,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자전거, 와플기계, 고양이용 헤드폰..\n팬들의 지갑과 멘탈을 털어간 기상천외 머천다이즈 6선\nhttps://t.co/6UMVfIEr0w"
+	},
+	{
 		"created_at": "Sat Apr 06 03:23:38 +0000 2019",
 		"id": 1114368037497593900,
 		"id_str": "1114368037497593856",
