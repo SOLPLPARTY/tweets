@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 02:11:43 +0000 2019",
+		"id": 1114340891412521000,
+		"id_str": "1114349935946870784",
+		"full_text": "🔈4월6일 (토) 난장 on air🔈\n토요일 오후 4시 45분\n광주MBC ON AIR!!\nR&amp;B 싱어송라이터 #구원찬\n여전히 독보적인 보이스 #박혜경\n편이 방송됩니다~~\nhttps://t.co/K5iwNuO4bW 에서도 실시간 시청, 방송 다시보기 가능합니다\n\n#난장 #난장온에어 https://t.co/aDAfZqdsNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구원찬",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "박혜경",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "난장",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "난장온에어",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K5iwNuO4bW",
+					"expanded_url": "http://www.kjmbc.co.kr",
+					"display_url": "kjmbc.co.kr",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114340587744849900,
+					"id_str": "1114340587744849921",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bu3EtU8AEXWoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bu3EtU8AEXWoL.jpg",
+					"url": "https://t.co/aDAfZqdsNU",
+					"display_url": "pic.twitter.com/aDAfZqdsNU",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1114340891412520960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114340587744849900,
+					"id_str": "1114340587744849921",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bu3EtU8AEXWoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bu3EtU8AEXWoL.jpg",
+					"url": "https://t.co/aDAfZqdsNU",
+					"display_url": "pic.twitter.com/aDAfZqdsNU",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1114340891412520960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114340681097441300,
+					"id_str": "1114340681097441281",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bu8geUcAEf3wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bu8geUcAEf3wq.jpg",
+					"url": "https://t.co/aDAfZqdsNU",
+					"display_url": "pic.twitter.com/aDAfZqdsNU",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1114340891412520960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114340706024284200,
+					"id_str": "1114340706024284161",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bu99VV4AE_CzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bu99VV4AE_CzF.jpg",
+					"url": "https://t.co/aDAfZqdsNU",
+					"display_url": "pic.twitter.com/aDAfZqdsNU",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1114340891412520960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114340726198816800,
+					"id_str": "1114340726198816769",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bu_IfU0AEeY9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bu_IfU0AEeY9F.jpg",
+					"url": "https://t.co/aDAfZqdsNU",
+					"display_url": "pic.twitter.com/aDAfZqdsNU",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1114340891412520960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4491,
+			"friends_count": 3702,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7162,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈4월6일 (토) 난장 on air🔈\n토요일 오후 4시 45분\n광주MBC ON AIR!!\nR&amp;B 싱어송라이터 #구원찬\n여전히 독보적인 보이스 #박혜경\n편이 방송됩니다~~\nhttps://t.co/K5iwNuO4bW 에서도 실시간 시청, 방송 다시보기 가능합니다\n\n#난장 #난장온에어 https://t.co/aDAfZqdsNU"
+	},
+	{
 		"created_at": "Fri Apr 05 19:24:10 +0000 2019",
 		"id": 1114247373369245700,
 		"id_str": "1114247373369245696",
