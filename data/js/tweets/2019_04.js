@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 13:11:47 +0000 2019",
+		"id": 1114513235892494300,
+		"id_str": "1114516049276362752",
+		"full_text": "[온스테이지2.0]설(Surl) - The Lights Behind You\n\n이 곡의 클라이맥스는 놓치지 마시길!!\n마지막 1분여 구간 동안 펼쳐지는 기타 솔로 연주, \n그 사이를 촘촘하게 메우는 베이스와 드럼까지...💓\n\n자세히 보기: https://t.co/z1mKLY46K0 https://t.co/JJjTRrv1Vd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1mKLY46K0",
+					"expanded_url": "https://bit.ly/2I6ZWMG",
+					"display_url": "bit.ly/2I6ZWMG",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/JJjTRrv1Vd",
+					"expanded_url": "https://www.facebook.com/naveronstage/videos/364367670836466/",
+					"display_url": "facebook.com/naveronstage/v…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 219204821,
+			"id_str": "219204821",
+			"name": "온스테이지 (ONSTAGE)",
+			"screen_name": "naveronstage",
+			"location": "",
+			"description": "실력 있는 뮤지션들의 멋진 음악을 소개합니다. 지금 온스테이지에서 숨은 뮤지션들의 멋진 라이브 영상과 공연을 만나보세요!  \r\n\r\n숨은 음악, 세상과 만나다 '온스테이지'\r\nhttp://t.co/WsTv374VRL",
+			"url": "http://t.co/x0225eHWEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x0225eHWEP",
+							"expanded_url": "http://www.facebook.com/pages/Naver-Onstage/366883906712925",
+							"display_url": "facebook.com/pages/Naver-On…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/WsTv374VRL",
+							"expanded_url": "http://music.naver.com/onStage/",
+							"display_url": "music.naver.com/onStage/",
+							"indices": [
+								97,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9229,
+			"friends_count": 223,
+			"listed_count": 129,
+			"created_at": "Wed Nov 24 06:22:53 +0000 2010",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2455,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543342557694926849/DLIZ8hhI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543342557694926849/DLIZ8hhI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/219204821/1428474581",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[온스테이지2.0]설(Surl) - The Lights Behind You\n\n이 곡의 클라이맥스는 놓치지 마시길!!\n마지막 1분여 구간 동안 펼쳐지는 기타 솔로 연주, \n그 사이를 촘촘하게 메우는 베이스와 드럼까지...💓\n\n자세히 보기: https://t.co/z1mKLY46K0 https://t.co/JJjTRrv1Vd"
+	},
+	{
 		"created_at": "Sat Apr 06 12:11:43 +0000 2019",
 		"id": 1114493321978601500,
 		"id_str": "1114500930886623232",
