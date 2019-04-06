@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 06:11:50 +0000 2019",
+		"id": 1114409911566266400,
+		"id_str": "1114410363276152833",
+		"full_text": "또 밴드에서 기타리스트를 맡고 있는 #유정목 아티스트의 \n단독공연이 있다고 합니다! \n많이들 보러 가셔요~~😊\n\n- 공연명 : 유정목 겨울3연작 발매 기념 콘서트 '...그리고 봄'\n- 일시 : 2019.04.13.(Sat) 6:00pm !\n- 장소 : Da Capo (서교동 451-41)\n- 예매처 링크 : https://t.co/FVfyql1MAS https://t.co/P0HsegOuvw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						20,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FVfyql1MAS",
+					"expanded_url": "http://bitly.kr/UbnyD",
+					"display_url": "bitly.kr/UbnyD",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114409711179161600,
+					"id_str": "1114409711179161600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ctulkUYAA4xLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ctulkUYAA4xLy.jpg",
+					"url": "https://t.co/P0HsegOuvw",
+					"display_url": "pic.twitter.com/P0HsegOuvw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1114409911566266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114409711179161600,
+					"id_str": "1114409711179161600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ctulkUYAA4xLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ctulkUYAA4xLy.jpg",
+					"url": "https://t.co/P0HsegOuvw",
+					"display_url": "pic.twitter.com/P0HsegOuvw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1114409911566266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1114409909070651400,
+		"in_reply_to_status_id_str": "1114409909070651393",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2628,
+			"friends_count": 2388,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8225,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 밴드에서 기타리스트를 맡고 있는 #유정목 아티스트의 \n단독공연이 있다고 합니다! \n많이들 보러 가셔요~~😊\n\n- 공연명 : 유정목 겨울3연작 발매 기념 콘서트 '...그리고 봄'\n- 일시 : 2019.04.13.(Sat) 6:00pm !\n- 장소 : Da Capo (서교동 451-41)\n- 예매처 링크 : https://t.co/FVfyql1MAS https://t.co/P0HsegOuvw"
+	},
+	{
 		"created_at": "Sat Apr 06 04:19:54 +0000 2019",
 		"id": 1114369199592185900,
 		"id_str": "1114382198008889344",
