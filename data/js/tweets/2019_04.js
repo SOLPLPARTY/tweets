@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 10:11:52 +0000 2019",
+		"id": 1114466672407015400,
+		"id_str": "1114470769784967170",
+		"full_text": "[4/7 공연 안내]\n\n&lt;롤링 24주년 기념 공연 vol.35 그리즐리 &amp; SAAY&gt;\n\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 그리즐리, SAAY (rolling pick 가은)\n\n#그리즐리 #SAAY #가은 #롤링24주년 #롤링홀 #rollinghall #홍대 #공연 #인디 #RnB #멜론티켓 https://t.co/pgSlWwENt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그리즐리",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "SAAY",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "가은",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "롤링24주년",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "rollinghall",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "RnB",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114466663171117000,
+					"id_str": "1114466663171117056",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dhhoRUUAA_BrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dhhoRUUAA_BrE.jpg",
+					"url": "https://t.co/pgSlWwENt4",
+					"display_url": "pic.twitter.com/pgSlWwENt4",
+					"expanded_url": "https://twitter.com/rollinghall/status/1114466672407015424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114466663171117000,
+					"id_str": "1114466663171117056",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dhhoRUUAA_BrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dhhoRUUAA_BrE.jpg",
+					"url": "https://t.co/pgSlWwENt4",
+					"display_url": "pic.twitter.com/pgSlWwENt4",
+					"expanded_url": "https://twitter.com/rollinghall/status/1114466672407015424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 799,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2302,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4/7 공연 안내]\n\n&lt;롤링 24주년 기념 공연 vol.35 그리즐리 &amp; SAAY&gt;\n\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 그리즐리, SAAY (rolling pick 가은)\n\n#그리즐리 #SAAY #가은 #롤링24주년 #롤링홀 #rollinghall #홍대 #공연 #인디 #RnB #멜론티켓 https://t.co/pgSlWwENt4"
+	},
+	{
+		"created_at": "Sat Apr 06 10:11:42 +0000 2019",
+		"id": 1114456588629286900,
+		"id_str": "1114470731558064129",
+		"full_text": "전화끊지마 Don’t hang up\n수란 SURAN\n\n라이브버전 감상하기\nhttps://t.co/757c5xVZfC\n\n#아지트라이브 33번째 #수란 #전화끊지마 #유튜브 #구독 #azitlive #오늘같은날_딱_듣기좋은노래 https://t.co/757c5xVZfC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아지트라이브",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "수란",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "전화끊지마",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "구독",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "azitlive",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "오늘같은날_딱_듣기좋은노래",
+					"indices": [
+						109,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/757c5xVZfC",
+					"expanded_url": "https://youtu.be/niQWGh_FsjE",
+					"display_url": "youtu.be/niQWGh_FsjE",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/757c5xVZfC",
+					"expanded_url": "https://youtu.be/niQWGh_FsjE",
+					"display_url": "youtu.be/niQWGh_FsjE",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134983822,
+			"id_str": "134983822",
+			"name": "AZIT LIVE",
+			"screen_name": "cjazit",
+			"location": "Seoul, South Korea",
+			"description": "We support artist\nTUNEUP | STAGEUP | STORYUP",
+			"url": "https://t.co/8yRt1LmqWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8yRt1LmqWh",
+							"expanded_url": "http://www.cjazit.org/",
+							"display_url": "cjazit.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5716,
+			"friends_count": 990,
+			"listed_count": 162,
+			"created_at": "Tue Apr 20 01:07:47 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2130,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F25E24",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110715983776239616/qCZGXrxX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110715983776239616/qCZGXrxX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134983822/1553651149",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "D0C9C2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전화끊지마 Don’t hang up\n수란 SURAN\n\n라이브버전 감상하기\nhttps://t.co/757c5xVZfC\n\n#아지트라이브 33번째 #수란 #전화끊지마 #유튜브 #구독 #azitlive #오늘같은날_딱_듣기좋은노래 https://t.co/757c5xVZfC"
+	},
+	{
+		"created_at": "Sat Apr 06 09:52:24 +0000 2019",
+		"id": 1114465872104558600,
+		"id_str": "1114465872104558592",
+		"full_text": "#아지트라이브 #azit_live\n수란 SURAN - 전화끊지마 Don’t hang up | 아지트라이브세션 Azit Live Session #33\nhttps://t.co/M3Y1y08m3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아지트라이브",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "azit_live",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M3Y1y08m3R",
+					"expanded_url": "https://youtu.be/niQWGh_FsjE",
+					"display_url": "youtu.be/niQWGh_FsjE",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28098,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아지트라이브 #azit_live\n수란 SURAN - 전화끊지마 Don’t hang up | 아지트라이브세션 Azit Live Session #33\nhttps://t.co/M3Y1y08m3R"
+	},
+	{
 		"created_at": "Sat Apr 06 09:11:50 +0000 2019",
 		"id": 1114454947720876000,
 		"id_str": "1114455661755154437",
