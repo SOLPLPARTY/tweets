@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 09:11:50 +0000 2019",
+		"id": 1114454947720876000,
+		"id_str": "1114455661755154437",
+		"full_text": "라쿠나 새앨범 음악사이트🎵  \n\n💿 네이버뮤직 ▶️ https://t.co/Ngh3auIrja\n💿 소리바다 ▶️https://t.co/kpPuCFOljN\n💿 멜론 ▶️ https://t.co/E2ld2uDkfz\n💿 지니 ▶️ https://t.co/CR4adlFJ0j\n💿 엠넷 ▶️ https://t.co/iRK9ORwTVD\n\n#라쿠나 #밴드라쿠나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "밴드라쿠나",
+					"indices": [
+						188,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ngh3auIrja",
+					"expanded_url": "http://bitly.kr/Hkybo",
+					"display_url": "bitly.kr/Hkybo",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/kpPuCFOljN",
+					"expanded_url": "http://bitly.kr/fL894H",
+					"display_url": "bitly.kr/fL894H",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/E2ld2uDkfz",
+					"expanded_url": "http://bitly.kr/LmvQd",
+					"display_url": "bitly.kr/LmvQd",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/CR4adlFJ0j",
+					"expanded_url": "http://bitly.kr/mJgoE",
+					"display_url": "bitly.kr/mJgoE",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/iRK9ORwTVD",
+					"expanded_url": "http://bitly.kr/0S2mn",
+					"display_url": "bitly.kr/0S2mn",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1114454943555973100,
+		"in_reply_to_status_id_str": "1114454943555973120",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2628,
+			"friends_count": 2388,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라쿠나 새앨범 음악사이트🎵  \n\n💿 네이버뮤직 ▶️ https://t.co/Ngh3auIrja\n💿 소리바다 ▶️https://t.co/kpPuCFOljN\n💿 멜론 ▶️ https://t.co/E2ld2uDkfz\n💿 지니 ▶️ https://t.co/CR4adlFJ0j\n💿 엠넷 ▶️ https://t.co/iRK9ORwTVD\n\n#라쿠나 #밴드라쿠나"
+	},
+	{
+		"created_at": "Sat Apr 06 09:11:42 +0000 2019",
+		"id": 1114454943555973100,
+		"id_str": "1114455631556165632",
+		"full_text": "[신규입고]\n04월 02일 에 발매 된 밴드 #라쿠나 의\n새 싱글 앨범 [CAKE] 의 앨범자켓으로\n만들어진 스티커가 입고 되었습니다🤗\n라쿠나의 새 앨범을 들으시면서 스티커 챙기러 씬디로 오시는건 어떨까요😆\n밴드 라쿠나를 알고싶다면\n라쿠나 공식 인스타 https://t.co/XGp0nEbY9d 로 방문하세요! https://t.co/vC9vfKs8kv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라쿠나",
+					"indices": [
+						25,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XGp0nEbY9d",
+					"expanded_url": "http://bitly.kr/Bl09P",
+					"display_url": "bitly.kr/Bl09P",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114450432959471600,
+					"id_str": "1114450432959471617",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dSw6BUYAEJyQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dSw6BUYAEJyQQ.jpg",
+					"url": "https://t.co/vC9vfKs8kv",
+					"display_url": "pic.twitter.com/vC9vfKs8kv",
+					"expanded_url": "https://twitter.com/xindieticket/status/1114454943555973120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114450432959471600,
+					"id_str": "1114450432959471617",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dSw6BUYAEJyQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dSw6BUYAEJyQQ.jpg",
+					"url": "https://t.co/vC9vfKs8kv",
+					"display_url": "pic.twitter.com/vC9vfKs8kv",
+					"expanded_url": "https://twitter.com/xindieticket/status/1114454943555973120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114450432951181300,
+					"id_str": "1114450432951181312",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dSw5_V4AAKiku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dSw5_V4AAKiku.jpg",
+					"url": "https://t.co/vC9vfKs8kv",
+					"display_url": "pic.twitter.com/vC9vfKs8kv",
+					"expanded_url": "https://twitter.com/xindieticket/status/1114454943555973120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2628,
+			"friends_count": 2388,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n04월 02일 에 발매 된 밴드 #라쿠나 의\n새 싱글 앨범 [CAKE] 의 앨범자켓으로\n만들어진 스티커가 입고 되었습니다🤗\n라쿠나의 새 앨범을 들으시면서 스티커 챙기러 씬디로 오시는건 어떨까요😆\n밴드 라쿠나를 알고싶다면\n라쿠나 공식 인스타 https://t.co/XGp0nEbY9d 로 방문하세요! https://t.co/vC9vfKs8kv"
+	},
+	{
+		"created_at": "Sat Apr 06 09:02:45 +0000 2019",
+		"id": 1114453376576704500,
+		"id_str": "1114453376576704512",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[VIDEO] 구원찬 X 장석훈 - '너에게' LIP SYNC CLIP\nhttps://t.co/gAZSm9bNnw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gAZSm9bNnw",
+					"expanded_url": "https://youtu.be/cZZUnwS7plU",
+					"display_url": "youtu.be/cZZUnwS7plU",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 306,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28094,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[VIDEO] 구원찬 X 장석훈 - '너에게' LIP SYNC CLIP\nhttps://t.co/gAZSm9bNnw"
+	},
+	{
 		"created_at": "Sat Apr 06 08:17:20 +0000 2019",
 		"id": 1114441947991687200,
 		"id_str": "1114441947991687169",
