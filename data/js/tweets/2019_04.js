@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 04:11:42 +0000 2019",
+		"id": 1114733807167344600,
+		"id_str": "1114742522755072000",
+		"full_text": "#상상마당시네마\n영화를 사랑하는 모든 분들을 위한 이벤트!\n\n🎉이벤트1️⃣_습작노트 증정\n4/8(월) &lt;한강에게&gt; 박준 시인과 함께하는\n詩(시)네마톡 참석 관객 전원 노트 증정!\n\n🎉이벤트2️⃣_예매이벤트\n상상마당 시네마 예매자 추첨을 통해 어썸스트로베리 goodnight, my forest 자수파우치 증정! https://t.co/8hIMELMzIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114733797755371500,
+					"id_str": "1114733797755371521",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hUe6JUwAEho3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hUe6JUwAEho3q.jpg",
+					"url": "https://t.co/8hIMELMzIn",
+					"display_url": "pic.twitter.com/8hIMELMzIn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1114733807167344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114733797755371500,
+					"id_str": "1114733797755371521",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hUe6JUwAEho3q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hUe6JUwAEho3q.jpg",
+					"url": "https://t.co/8hIMELMzIn",
+					"display_url": "pic.twitter.com/8hIMELMzIn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1114733807167344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114733797755351000,
+					"id_str": "1114733797755351041",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hUe6JUcAETprz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hUe6JUcAETprz.jpg",
+					"url": "https://t.co/8hIMELMzIn",
+					"display_url": "pic.twitter.com/8hIMELMzIn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1114733807167344641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19775,
+			"friends_count": 2040,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당시네마\n영화를 사랑하는 모든 분들을 위한 이벤트!\n\n🎉이벤트1️⃣_습작노트 증정\n4/8(월) &lt;한강에게&gt; 박준 시인과 함께하는\n詩(시)네마톡 참석 관객 전원 노트 증정!\n\n🎉이벤트2️⃣_예매이벤트\n상상마당 시네마 예매자 추첨을 통해 어썸스트로베리 goodnight, my forest 자수파우치 증정! https://t.co/8hIMELMzIn"
+	},
+	{
+		"created_at": "Sun Apr 07 03:18:31 +0000 2019",
+		"id": 1114727465996283900,
+		"id_str": "1114729138269638656",
+		"full_text": "계피만의 맑은 목소리와 섬세한 감성을 느낄 수 있는 [빛과 바람의 유영], 지금 음원사이트에서 감상해보세요💚\n\n네이버뮤직▶️https://t.co/8NwcZmhA4k\n멜론▶️https://t.co/IRG3uJlkuE\n벅스▶️https://t.co/ty8JTfpcq0\n엠넷▶️https://t.co/jJ9aTLmxHA\n지니▶️https://t.co/ojWF6zmSjs\n\n#계피 #가을방학",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8NwcZmhA4k",
+					"expanded_url": "http://bit.ly/2UmTdW0",
+					"display_url": "bit.ly/2UmTdW0",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/IRG3uJlkuE",
+					"expanded_url": "http://bit.ly/2I4QTwm",
+					"display_url": "bit.ly/2I4QTwm",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/ty8JTfpcq0",
+					"expanded_url": "http://bit.ly/2D0YTdD",
+					"display_url": "bit.ly/2D0YTdD",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/jJ9aTLmxHA",
+					"expanded_url": "http://bit.ly/2OTk5XJ",
+					"display_url": "bit.ly/2OTk5XJ",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/ojWF6zmSjs",
+					"expanded_url": "http://bit.ly/2YUzk7C",
+					"display_url": "bit.ly/2YUzk7C",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1114727270281703400,
+		"in_reply_to_status_id_str": "1114727270281703426",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1401,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "계피만의 맑은 목소리와 섬세한 감성을 느낄 수 있는 [빛과 바람의 유영], 지금 음원사이트에서 감상해보세요💚\n\n네이버뮤직▶️https://t.co/8NwcZmhA4k\n멜론▶️https://t.co/IRG3uJlkuE\n벅스▶️https://t.co/ty8JTfpcq0\n엠넷▶️https://t.co/jJ9aTLmxHA\n지니▶️https://t.co/ojWF6zmSjs\n\n#계피 #가을방학"
+	},
+	{
+		"created_at": "Sun Apr 07 03:18:24 +0000 2019",
+		"id": 1114727270281703400,
+		"id_str": "1114729108439695361",
+		"full_text": "[계피] 동요집 [빛과 바람의 유영] 발매 🌿\n\n가을방학의 보컬 계피가 동요집 [빛과 바람의 유영]으로 돌아왔습니다. 어린시절 계피가 어린이 합창단을 하며 자주 부르던 동요들 11곡과 신곡 ‘2019’까지 총 12곡을 담았어요. https://t.co/jipRu65GNv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114727234395201500,
+					"id_str": "1114727234395201537",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hOg3uUYAEMe9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hOg3uUYAEMe9b.jpg",
+					"url": "https://t.co/jipRu65GNv",
+					"display_url": "pic.twitter.com/jipRu65GNv",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1114727270281703426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114727234395201500,
+					"id_str": "1114727234395201537",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D3hOg3uUYAEMe9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3hOg3uUYAEMe9b.jpg",
+					"url": "https://t.co/jipRu65GNv",
+					"display_url": "pic.twitter.com/jipRu65GNv",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1114727270281703426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1401,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[계피] 동요집 [빛과 바람의 유영] 발매 🌿\n\n가을방학의 보컬 계피가 동요집 [빛과 바람의 유영]으로 돌아왔습니다. 어린시절 계피가 어린이 합창단을 하며 자주 부르던 동요들 11곡과 신곡 ‘2019’까지 총 12곡을 담았어요. https://t.co/jipRu65GNv"
+	},
+	{
 		"created_at": "Sun Apr 07 03:13:19 +0000 2019",
 		"id": 1114727827440590800,
 		"id_str": "1114727827440590849",
