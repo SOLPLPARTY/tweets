@@ -1,6 +1,892 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 03:20:07 +0000 2019",
+		"id": 1115453804630106100,
+		"id_str": "1115454316624711683",
+		"full_text": "마이스페이스 손실 음원 5000만곡 중 1/100 이 복원됐다\nhttps://t.co/x8U16TXuGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8U16TXuGk",
+					"expanded_url": "https://bit.ly/2ULl8hK",
+					"display_url": "bit.ly/2ULl8hK",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "• 5/11 KAMAAL WILLIAMS • 7/27-7/28 HOLIDAY LAND FESTIVAL",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1409,
+			"friends_count": 60,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이스페이스 손실 음원 5000만곡 중 1/100 이 복원됐다\nhttps://t.co/x8U16TXuGk"
+	},
+	{
+		"created_at": "Tue Apr 09 03:20:02 +0000 2019",
+		"id": 1115452067403849700,
+		"id_str": "1115454294868856832",
+		"full_text": "독일에서 온 전자음악의 단군그랜파!⚙️\n크라프트베르크翁의 공연을 더욱 흥미롭게 즐길 수 있는 뽀잉뿜-짝한 3D안경이 도착했습니다! 🕶✨\n본 안경은 공연 당일 티켓확인 후 입장 시 1인 1개 배부될 예정이며,\n분실로 인한 재배부는 진행하지 않습니다.   \n-\n✔️https://t.co/AT2GsnSN9W https://t.co/Ph9hN0bOeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AT2GsnSN9W",
+					"expanded_url": "https://c11.kr/6j74",
+					"display_url": "c11.kr/6j74",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115452057488511000,
+					"id_str": "1115452057488510976",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rhvIKU0AA1-HR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rhvIKU0AA1-HR.jpg",
+					"url": "https://t.co/Ph9hN0bOeD",
+					"display_url": "pic.twitter.com/Ph9hN0bOeD",
+					"expanded_url": "https://twitter.com/livenationkr/status/1115452067403849728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115452057488511000,
+					"id_str": "1115452057488510976",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rhvIKU0AA1-HR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rhvIKU0AA1-HR.jpg",
+					"url": "https://t.co/Ph9hN0bOeD",
+					"display_url": "pic.twitter.com/Ph9hN0bOeD",
+					"expanded_url": "https://twitter.com/livenationkr/status/1115452067403849728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Metallica, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6209,
+			"friends_count": 235,
+			"listed_count": 26,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "독일에서 온 전자음악의 단군그랜파!⚙️\n크라프트베르크翁의 공연을 더욱 흥미롭게 즐길 수 있는 뽀잉뿜-짝한 3D안경이 도착했습니다! 🕶✨\n본 안경은 공연 당일 티켓확인 후 입장 시 1인 1개 배부될 예정이며,\n분실로 인한 재배부는 진행하지 않습니다.   \n-\n✔️https://t.co/AT2GsnSN9W https://t.co/Ph9hN0bOeD"
+	},
+	{
+		"created_at": "Tue Apr 09 03:19:54 +0000 2019",
+		"id": 1115446901522882600,
+		"id_str": "1115454262019088386",
+		"full_text": "여러분의 에너지를 더욱 뜨겁게 해줄 울트라 엔젤!\nUltra Angels welcomes you to Ultra Korea! https://t.co/PPEDTSMN3K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115446595695210500,
+					"id_str": "1115446595695210496",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rcxNZU8AA5N1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rcxNZU8AA5N1w.jpg",
+					"url": "https://t.co/PPEDTSMN3K",
+					"display_url": "pic.twitter.com/PPEDTSMN3K",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1115446901522882560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115446595695210500,
+					"id_str": "1115446595695210496",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rcxNZU8AA5N1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rcxNZU8AA5N1w.jpg",
+					"url": "https://t.co/PPEDTSMN3K",
+					"display_url": "pic.twitter.com/PPEDTSMN3K",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1115446901522882560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": "https://t.co/tfLq6kIHkR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tfLq6kIHkR",
+							"expanded_url": "http://UMFKorea.com",
+							"display_url": "UMFKorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20227,
+			"friends_count": 24,
+			"listed_count": 123,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1548984729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분의 에너지를 더욱 뜨겁게 해줄 울트라 엔젤!\nUltra Angels welcomes you to Ultra Korea! https://t.co/PPEDTSMN3K"
+	},
+	{
+		"created_at": "Tue Apr 09 03:18:27 +0000 2019",
+		"id": 1115447130204692500,
+		"id_str": "1115453896347013120",
+		"full_text": "🔺기간 내 신청 100% 당첨(선착순)\n🔺좌석은 SNS이벤트석인 앞자리 좌석(신청 순서대로 지정)\n🔺현장석은 녹화당일 상황에 따라 유동적입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1115447092959371300,
+		"in_reply_to_status_id_str": "1115447092959371264",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3368,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔺기간 내 신청 100% 당첨(선착순)\n🔺좌석은 SNS이벤트석인 앞자리 좌석(신청 순서대로 지정)\n🔺현장석은 녹화당일 상황에 따라 유동적입니다"
+	},
+	{
+		"created_at": "Tue Apr 09 03:18:24 +0000 2019",
+		"id": 1115447092959371300,
+		"id_str": "1115453882463870977",
+		"full_text": "🖤대구 KBS &lt;콘서트 문화창고&gt;\n\n✔신청일자: 4월 10일(수) 낮 12시 ~ 4월 17일(수) 낮 12시\n✔발표: 4월 17일(수) 저녁\n✔방청신청방법 : 인터넷 사전 접수\n• KBS대구방송총국 홈페이지-콘서트문화창고-방청신청\n• 모바일 앱 MyK(마이케이)-왼쪽 상단 바-방청권신청-콘서트문화창고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1115447035358924800,
+		"in_reply_to_status_id_str": "1115447035358924805",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3368,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🖤대구 KBS &lt;콘서트 문화창고&gt;\n\n✔신청일자: 4월 10일(수) 낮 12시 ~ 4월 17일(수) 낮 12시\n✔발표: 4월 17일(수) 저녁\n✔방청신청방법 : 인터넷 사전 접수\n• KBS대구방송총국 홈페이지-콘서트문화창고-방청신청\n• 모바일 앱 MyK(마이케이)-왼쪽 상단 바-방청권신청-콘서트문화창고"
+	},
+	{
+		"created_at": "Tue Apr 09 03:18:21 +0000 2019",
+		"id": 1115447035358924800,
+		"id_str": "1115453869323059201",
+		"full_text": "우주히피가 대구 KBS &lt;콘서트 문화창고&gt;에 출연합니다🙌\n\n일정, 방청 신청 등 자세한 사항은 아래 내용을 확인해 주세요!\n\n#대구KBS #콘서트문화창고 #우주히피 https://t.co/CycgkCpHU7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대구KBS",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "콘서트문화창고",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115447018636185600,
+					"id_str": "1115447018636185601",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rdJ0-UEAEluxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rdJ0-UEAEluxG.jpg",
+					"url": "https://t.co/CycgkCpHU7",
+					"display_url": "pic.twitter.com/CycgkCpHU7",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1115447035358924805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1435,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115447018636185600,
+					"id_str": "1115447018636185601",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rdJ0-UEAEluxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rdJ0-UEAEluxG.jpg",
+					"url": "https://t.co/CycgkCpHU7",
+					"display_url": "pic.twitter.com/CycgkCpHU7",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1115447035358924805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1435,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115447018619424800,
+					"id_str": "1115447018619424769",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D3rdJ06UUAEjFf0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3rdJ06UUAEjFf0.jpg",
+					"url": "https://t.co/CycgkCpHU7",
+					"display_url": "pic.twitter.com/CycgkCpHU7",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1115447035358924805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3368,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우주히피가 대구 KBS &lt;콘서트 문화창고&gt;에 출연합니다🙌\n\n일정, 방청 신청 등 자세한 사항은 아래 내용을 확인해 주세요!\n\n#대구KBS #콘서트문화창고 #우주히피 https://t.co/CycgkCpHU7"
+	},
+	{
 		"created_at": "Tue Apr 09 03:10:20 +0000 2019",
 		"id": 1115451854094204900,
 		"id_str": "1115451854094204928",
