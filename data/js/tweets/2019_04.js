@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 08:11:46 +0000 2019",
+		"id": 1115517354807451600,
+		"id_str": "1115527712876171264",
+		"full_text": "🔥 4월, 제28회 #라이브클럽데이 1차 라인업이 오픈 되었습니다! 일반티켓 오픈은 내일입니다 😀😀😀 이번달도 함께 달려욧! #liveishere #liveclubday #LCD #thismyvibe #뮤지션리그 https://t.co/b2RPzyZyrP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "liveishere",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "liveclubday",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "LCD",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "thismyvibe",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "뮤지션리그",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115517348461535200,
+					"id_str": "1115517348461535232",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3sdHj_V4AAtBxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3sdHj_V4AAtBxc.jpg",
+					"url": "https://t.co/b2RPzyZyrP",
+					"display_url": "pic.twitter.com/b2RPzyZyrP",
+					"expanded_url": "https://twitter.com/liveclubday/status/1115517354807451649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115517348461535200,
+					"id_str": "1115517348461535232",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D3sdHj_V4AAtBxc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3sdHj_V4AAtBxc.jpg",
+					"url": "https://t.co/b2RPzyZyrP",
+					"display_url": "pic.twitter.com/b2RPzyZyrP",
+					"expanded_url": "https://twitter.com/liveclubday/status/1115517354807451649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이! / 문의 사항은 페이스북 메세지만 확인 가능합니다. / Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/R5ENy6Gs2T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R5ENy6Gs2T",
+							"expanded_url": "https://bit.ly/2UrLkLc",
+							"display_url": "bit.ly/2UrLkLc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4064,
+			"friends_count": 687,
+			"listed_count": 35,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2255,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1552016552",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥 4월, 제28회 #라이브클럽데이 1차 라인업이 오픈 되었습니다! 일반티켓 오픈은 내일입니다 😀😀😀 이번달도 함께 달려욧! #liveishere #liveclubday #LCD #thismyvibe #뮤지션리그 https://t.co/b2RPzyZyrP"
+	},
+	{
+		"created_at": "Tue Apr 09 08:11:42 +0000 2019",
+		"id": 1115512899177304000,
+		"id_str": "1115527695339851776",
+		"full_text": "따뜻한 봄, 설레이고 싶은사람 여기여기!\n'자이로' 콘서트로 다모여!!\n.\n&lt;2019 자이로. 봄🌸&gt;\n✔️공연일시 : 4/19(금) ~ 4/21(일)\n✔️공연시간 : 금 오후 8시 / 토 오후 7시 / 일 오후 5시\n✔️공연장소 : KT&amp;G상상마당 라이브홀\n✔️예매링크 : https://t.co/tDOgGLAv2w\n_\n#상상마당 #공연 #자이로 #콘서트 https://t.co/JZ79iDWxp6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "자이로",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						204,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tDOgGLAv2w",
+					"expanded_url": "http://bit.ly/2In9Bif",
+					"display_url": "bit.ly/2In9Bif",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115511785874792400,
+					"id_str": "1115511785874792448",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115511785874792448/pu/img/Xv1zk4fKyvQgHEGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115511785874792448/pu/img/Xv1zk4fKyvQgHEGw.jpg",
+					"url": "https://t.co/JZ79iDWxp6",
+					"display_url": "pic.twitter.com/JZ79iDWxp6",
+					"expanded_url": "https://twitter.com/SSmadang/status/1115512899177304064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115511785874792400,
+					"id_str": "1115511785874792448",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115511785874792448/pu/img/Xv1zk4fKyvQgHEGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115511785874792448/pu/img/Xv1zk4fKyvQgHEGw.jpg",
+					"url": "https://t.co/JZ79iDWxp6",
+					"display_url": "pic.twitter.com/JZ79iDWxp6",
+					"expanded_url": "https://twitter.com/SSmadang/status/1115512899177304064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115511785874792448/pu/pl/Zxf6DxjshLOlS3Su.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115511785874792448/pu/vid/720x406/mxifOQEHAPyWxF5T.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115511785874792448/pu/vid/318x180/-2zZRqt5NDsYoTqy.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19765,
+			"friends_count": 2039,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9157,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "따뜻한 봄, 설레이고 싶은사람 여기여기!\n'자이로' 콘서트로 다모여!!\n.\n&lt;2019 자이로. 봄🌸&gt;\n✔️공연일시 : 4/19(금) ~ 4/21(일)\n✔️공연시간 : 금 오후 8시 / 토 오후 7시 / 일 오후 5시\n✔️공연장소 : KT&amp;G상상마당 라이브홀\n✔️예매링크 : https://t.co/tDOgGLAv2w\n_\n#상상마당 #공연 #자이로 #콘서트 https://t.co/JZ79iDWxp6"
+	},
+	{
+		"created_at": "Tue Apr 09 08:05:10 +0000 2019",
+		"id": 1115526051659173900,
+		"id_str": "1115526051659173890",
+		"full_text": "#날씨알리미\n마포구에 비가 오고 있습니다. ☔\nhttps://t.co/HB2mmwvQJg\n#마포구 #날씨 #비",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "날씨알리미",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "마포구",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "날씨",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "비",
+					"indices": [
+						59,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HB2mmwvQJg",
+					"expanded_url": "https://youtu.be/nCzHni0UaOo",
+					"display_url": "youtu.be/nCzHni0UaOo",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28293,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#날씨알리미\n마포구에 비가 오고 있습니다. ☔\nhttps://t.co/HB2mmwvQJg\n#마포구 #날씨 #비"
+	},
+	{
+		"created_at": "Tue Apr 09 07:19:54 +0000 2019",
+		"id": 1115501415495921700,
+		"id_str": "1115514659468193793",
+		"full_text": "아비치가 생전 마지막으로 작업하던 앨범이 곧 발표된다\nhttps://t.co/xbDlSuqExP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xbDlSuqExP",
+					"expanded_url": "https://bit.ly/2YXY5zN",
+					"display_url": "bit.ly/2YXY5zN",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "• 5/11 KAMAAL WILLIAMS • 7/27-7/28 HOLIDAY LAND FESTIVAL",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1408,
+			"friends_count": 60,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아비치가 생전 마지막으로 작업하던 앨범이 곧 발표된다\nhttps://t.co/xbDlSuqExP"
+	},
+	{
 		"created_at": "Tue Apr 09 07:12:11 +0000 2019",
 		"id": 1115510923328811000,
 		"id_str": "1115512715894841344",
