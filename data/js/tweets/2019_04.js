@@ -1,6 +1,1009 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 04:05:05 +0000 2019",
+		"id": 1115828018470096900,
+		"id_str": "1115828018470096898",
+		"full_text": "【 #벅스 】 #뮤직포스트\n[주간 핫이슈] Johnny Stimson(조니 스팀슨) - 엣지 있는 로맨티스트 싱어송라이터\nhttps://t.co/Pc8MnSeFht https://t.co/VFPsLAj4cm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pc8MnSeFht",
+					"expanded_url": "http://bit.ly/2UtTPt0",
+					"display_url": "bit.ly/2UtTPt0",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115828017534853100,
+					"id_str": "1115828017534853120",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D3w3q4eX4AAmCNn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3w3q4eX4AAmCNn.jpg",
+					"url": "https://t.co/VFPsLAj4cm",
+					"display_url": "pic.twitter.com/VFPsLAj4cm",
+					"expanded_url": "https://twitter.com/solplparty/status/1115828018470096898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115828017534853100,
+					"id_str": "1115828017534853120",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D3w3q4eX4AAmCNn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3w3q4eX4AAmCNn.jpg",
+					"url": "https://t.co/VFPsLAj4cm",
+					"display_url": "pic.twitter.com/VFPsLAj4cm",
+					"expanded_url": "https://twitter.com/solplparty/status/1115828018470096898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #벅스 】 #뮤직포스트\n[주간 핫이슈] Johnny Stimson(조니 스팀슨) - 엣지 있는 로맨티스트 싱어송라이터\nhttps://t.co/Pc8MnSeFht https://t.co/VFPsLAj4cm"
+	},
+	{
+		"created_at": "Wed Apr 10 03:40:05 +0000 2019",
+		"id": 1115821728159105000,
+		"id_str": "1115821728159105032",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n4월 10일 | BLVN (BELIEVE IN), 유다희, 김참다운\nhttps://t.co/eibxKrE7GP\n#미러볼블로그 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "미러볼블로그",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eibxKrE7GP",
+					"expanded_url": "http://bit.ly/2G3AepK",
+					"display_url": "bit.ly/2G3AepK",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n4월 10일 | BLVN (BELIEVE IN), 유다희, 김참다운\nhttps://t.co/eibxKrE7GP\n#미러볼블로그 #유통사"
+	},
+	{
+		"created_at": "Wed Apr 10 03:19:54 +0000 2019",
+		"id": 1115811717731242000,
+		"id_str": "1115816649683361793",
+		"full_text": "2019 월디페 아티스트...😙🤘\nTroyboi #트로이보이 #6월1일\n.\nTroyBoi로 알려진 이 다재다능한 뮤지션은 여러 장르의 다양한 질감을 융합시켜 'My Style'이라고 한다.\n\n.\n검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.\n예매처 : https://t.co/pFmo1AWpe0 https://t.co/PuXBg2kYIF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트로이보이",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "6월1일",
+					"indices": [
+						34,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115806373311283200,
+					"id_str": "1115806373311283202",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wj_BdWAAI0Jri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wj_BdWAAI0Jri.jpg",
+					"url": "https://t.co/PuXBg2kYIF",
+					"display_url": "pic.twitter.com/PuXBg2kYIF",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1115811717731241990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115806373311283200,
+					"id_str": "1115806373311283202",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wj_BdWAAI0Jri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wj_BdWAAI0Jri.jpg",
+					"url": "https://t.co/PuXBg2kYIF",
+					"display_url": "pic.twitter.com/PuXBg2kYIF",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1115811717731241990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3419,
+			"friends_count": 283,
+			"listed_count": 87,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2202,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1510898141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 월디페 아티스트...😙🤘\nTroyboi #트로이보이 #6월1일\n.\nTroyBoi로 알려진 이 다재다능한 뮤지션은 여러 장르의 다양한 질감을 융합시켜 'My Style'이라고 한다.\n\n.\n검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.\n예매처 : https://t.co/pFmo1AWpe0 https://t.co/PuXBg2kYIF"
+	},
+	{
+		"created_at": "Wed Apr 10 03:18:28 +0000 2019",
+		"id": 1115813250023723000,
+		"id_str": "1115816285990944768",
+		"full_text": "[음원듣기] 노들뮤직 Vol.2 가고 싶은 곳이 생겼는데\n\nGenie : https://t.co/a0jguvYRP2\nMelon : https://t.co/FOKeaqt8NL\nFLO : https://t.co/dBT900iQLR\nBugs : https://t.co/CL0ZMvMFb3\nNaver : https://t.co/AoRB2QgC4c\nMnet : https://t.co/gYiFVIgNKp https://t.co/3yDmTiq62v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0jguvYRP2",
+					"expanded_url": "http://bit.ly/2UoS28N",
+					"display_url": "bit.ly/2UoS28N",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/FOKeaqt8NL",
+					"expanded_url": "http://bit.ly/2UsL4Q8",
+					"display_url": "bit.ly/2UsL4Q8",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/dBT900iQLR",
+					"expanded_url": "http://flomuz.io/s/C1O",
+					"display_url": "flomuz.io/s/C1O",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/CL0ZMvMFb3",
+					"expanded_url": "http://bit.ly/2IbhKXC",
+					"display_url": "bit.ly/2IbhKXC",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/AoRB2QgC4c",
+					"expanded_url": "http://bit.ly/2G55xQK",
+					"display_url": "bit.ly/2G55xQK",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/gYiFVIgNKp",
+					"expanded_url": "http://bit.ly/2ItptzA",
+					"display_url": "bit.ly/2ItptzA",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115813132515987500,
+					"id_str": "1115813132515987457",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wqIddU0AEGrx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wqIddU0AEGrx0.jpg",
+					"url": "https://t.co/3yDmTiq62v",
+					"display_url": "pic.twitter.com/3yDmTiq62v",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1115813250023723008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115813132515987500,
+					"id_str": "1115813132515987457",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wqIddU0AEGrx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wqIddU0AEGrx0.jpg",
+					"url": "https://t.co/3yDmTiq62v",
+					"display_url": "pic.twitter.com/3yDmTiq62v",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1115813250023723008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115812182543876100,
+		"in_reply_to_status_id_str": "1115812182543876096",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14017,
+			"friends_count": 2823,
+			"listed_count": 308,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12593,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[음원듣기] 노들뮤직 Vol.2 가고 싶은 곳이 생겼는데\n\nGenie : https://t.co/a0jguvYRP2\nMelon : https://t.co/FOKeaqt8NL\nFLO : https://t.co/dBT900iQLR\nBugs : https://t.co/CL0ZMvMFb3\nNaver : https://t.co/AoRB2QgC4c\nMnet : https://t.co/gYiFVIgNKp https://t.co/3yDmTiq62v"
+	},
+	{
+		"created_at": "Wed Apr 10 03:18:19 +0000 2019",
+		"id": 1115813195073998800,
+		"id_str": "1115816251773935622",
+		"full_text": "[도재]\n🎂Happy DoJae Day🎂\n\n따스한 봄과 잘 어울리는\n목소리를 가진 도재의 생일을 축하합니다🌻\n\n쌀쌀한 오늘, 앤츠의 노래들로\n따뜻한 하루 보내세요🌞\n\n#도재 #DOJAE #앤츠 #봄을_닮은_도재 #생일축하해 #190410 https://t.co/osKdIDPYwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "도재",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "DOJAE",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "앤츠",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "봄을_닮은_도재",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "생일축하해",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115813147875663900,
+					"id_str": "1115813147875663874",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115813147875663874/pu/img/DmwfvzxzroN0umQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115813147875663874/pu/img/DmwfvzxzroN0umQU.jpg",
+					"url": "https://t.co/osKdIDPYwX",
+					"display_url": "pic.twitter.com/osKdIDPYwX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1115813195073998848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115813147875663900,
+					"id_str": "1115813147875663874",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115813147875663874/pu/img/DmwfvzxzroN0umQU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115813147875663874/pu/img/DmwfvzxzroN0umQU.jpg",
+					"url": "https://t.co/osKdIDPYwX",
+					"display_url": "pic.twitter.com/osKdIDPYwX",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1115813195073998848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5339,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115813147875663874/pu/vid/320x320/-3amhY_NsKDZQJsg.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115813147875663874/pu/vid/720x720/ToHNFEXcg58OQKqi.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115813147875663874/pu/pl/BMH8rGuDyljnQ4jO.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115813147875663874/pu/vid/480x480/FO8oGYtNkUaJbcqy.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/신현희와김루트/민채/롱디/앤츠/윤현상/젊은이/이나/재니/크림/글로잉독/서교동의 밤/크래커/콜렉티브아츠/알레프/아일/헤이맨/유라/에버루아/로지",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562,
+			"friends_count": 7,
+			"listed_count": 7,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 655,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[도재]\n🎂Happy DoJae Day🎂\n\n따스한 봄과 잘 어울리는\n목소리를 가진 도재의 생일을 축하합니다🌻\n\n쌀쌀한 오늘, 앤츠의 노래들로\n따뜻한 하루 보내세요🌞\n\n#도재 #DOJAE #앤츠 #봄을_닮은_도재 #생일축하해 #190410 https://t.co/osKdIDPYwX"
+	},
+	{
 		"created_at": "Wed Apr 10 03:11:43 +0000 2019",
 		"id": 1115812737026682900,
 		"id_str": "1115814590569381888",
