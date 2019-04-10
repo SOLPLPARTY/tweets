@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 15:12:02 +0000 2019",
+		"id": 1115990074934489100,
+		"id_str": "1115995862600245251",
+		"full_text": "따뜻한 이 계절! 마음 간질거리게 만드는 공연이 여러분을 기다리고 있어요 🌱 \n공연 신청하러 홈페이지로 고고 🙂\n\n여러분의 많은 신청 바랍니다 ෆʕ·ᴥ·ʔ ෆ\nㅤㅤ\n#EBS공감 #스페이스공감 #계피 #가을방학 #동요집 #빛과바람의유영 #반달 #스르르 #아이보리 #홍갑 #보이는것들 #나는요 #봄날의봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "동요집",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "빛과바람의유영",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "반달",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "스르르",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "아이보리",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "홍갑",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "보이는것들",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "나는요",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "봄날의봄",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1115990072786948100,
+		"in_reply_to_status_id_str": "1115990072786948096",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281093,
+			"friends_count": 20822,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "따뜻한 이 계절! 마음 간질거리게 만드는 공연이 여러분을 기다리고 있어요 🌱 \n공연 신청하러 홈페이지로 고고 🙂\n\n여러분의 많은 신청 바랍니다 ෆʕ·ᴥ·ʔ ෆ\nㅤㅤ\n#EBS공감 #스페이스공감 #계피 #가을방학 #동요집 #빛과바람의유영 #반달 #스르르 #아이보리 #홍갑 #보이는것들 #나는요 #봄날의봄"
+	},
+	{
+		"created_at": "Wed Apr 10 15:11:53 +0000 2019",
+		"id": 1115990072786948100,
+		"id_str": "1115995823878430721",
+		"full_text": "[EBS 스페이스 공감 공연 안내]\nㅤㅤ\n&lt;EBS 스페이스 공감&gt;의 \n2019년 5월 둘째 주 공연 소식입니다 ! \nㅤㅤ\n공연안내 ▶\n계피 '나의 작은 그림자에게' X 홍갑 '오늘, 보이는 것들'\nㅤㅤ\n공연일정 ▶ \n5월 9일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶https://t.co/cr9xxFjIbg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cr9xxFjIbg",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4638",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281093,
+			"friends_count": 20822,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 공연 안내]\nㅤㅤ\n&lt;EBS 스페이스 공감&gt;의 \n2019년 5월 둘째 주 공연 소식입니다 ! \nㅤㅤ\n공연안내 ▶\n계피 '나의 작은 그림자에게' X 홍갑 '오늘, 보이는 것들'\nㅤㅤ\n공연일정 ▶ \n5월 9일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶https://t.co/cr9xxFjIbg"
+	},
+	{
+		"created_at": "Wed Apr 10 15:11:49 +0000 2019",
+		"id": 1115989810651336700,
+		"id_str": "1115995805998092289",
+		"full_text": "매력 넘치는 두 보컬리스트의 공연을 보고 싶다면 놓치지말고 어서 홈페이지로 고고싱💫\n공감러버들의 많은 참여 기다립니다🖤\n#EBS공감 #스페이스공감 #허소영 #DestinationMoon #That`sAll #BaublesBanglesandBeads #BBB #스텔라장 #StellaJang #어제차이고 #미세먼지 #월급은통장을스칠뿐 #유해물질",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "허소영",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "DestinationMoon",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "That",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "BaublesBanglesandBeads",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"text": "BBB",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "StellaJang",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "어제차이고",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "미세먼지",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "월급은통장을스칠뿐",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "유해물질",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1115989808164118500,
+		"in_reply_to_status_id_str": "1115989808164118528",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281093,
+			"friends_count": 20822,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매력 넘치는 두 보컬리스트의 공연을 보고 싶다면 놓치지말고 어서 홈페이지로 고고싱💫\n공감러버들의 많은 참여 기다립니다🖤\n#EBS공감 #스페이스공감 #허소영 #DestinationMoon #That`sAll #BaublesBanglesandBeads #BBB #스텔라장 #StellaJang #어제차이고 #미세먼지 #월급은통장을스칠뿐 #유해물질"
+	},
+	{
+		"created_at": "Wed Apr 10 15:11:42 +0000 2019",
+		"id": 1115989808164118500,
+		"id_str": "1115995780316389377",
+		"full_text": "[EBS 스페이스 공감 공연 안내]\n\n&lt;EBS 스페이스 공감&gt;의 \n2019년 5월 첫째 주 공연 소식입니다 ! \n\n공연안내 ▶ \n허소영 '낭만으로 물들이다'\nX \n스텔라장 '회색 도시의 멜로디'\n\n공연일정 ▶ \n5월 2일 (목) 저녁 8시\n\n공연신청 ▶https://t.co/r95YBXOs1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r95YBXOs1O",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4637",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281093,
+			"friends_count": 20822,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6550,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 공연 안내]\n\n&lt;EBS 스페이스 공감&gt;의 \n2019년 5월 첫째 주 공연 소식입니다 ! \n\n공연안내 ▶ \n허소영 '낭만으로 물들이다'\nX \n스텔라장 '회색 도시의 멜로디'\n\n공연일정 ▶ \n5월 2일 (목) 저녁 8시\n\n공연신청 ▶https://t.co/r95YBXOs1O"
+	},
+	{
 		"created_at": "Wed Apr 10 14:11:42 +0000 2019",
 		"id": 1115976725387591700,
 		"id_str": "1115980680771584000",
