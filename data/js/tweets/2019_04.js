@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 14:11:42 +0000 2019",
+		"id": 1115976725387591700,
+		"id_str": "1115980680771584000",
+		"full_text": "캡틴락...❤️ https://t.co/YsiSWOjnlO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YsiSWOjnlO",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1115830582905327617",
+					"display_url": "twitter.com/thecaptainrock…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 904,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1139,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115830582905327600,
+		"quoted_status_id_str": "1115830582905327617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YsiSWOjnlO",
+			"expanded": "https://twitter.com/thecaptainrock/status/1115830582905327617",
+			"display": "twitter.com/thecaptainrock…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 04:15:16 +0000 2019",
+			"id": 1115830582905327600,
+			"id_str": "1115830582905327617",
+			"full_text": "🎈나다 페스티벌 2019🎉🎉🎉\n\n장애인과 비장애인 함께하는 감각축제~~🎭💓\n\n서로의 다름을 어루만질수 있고,\n일상과 음악에 감사할수 있는 따듯한 축제 입니다. \n\n크라잉넛은 매년 참여하면서도 항상 좋은 에너지를 받아갑니다. 😊🍀\n\n#나다페스티벌 #크라잉넛 https://t.co/Z1qfjvvJoZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "나다페스티벌",
+						"indices": [
+							129,
+							136
+						]
+					},
+					{
+						"text": "크라잉넛",
+						"indices": [
+							137,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115830574529302500,
+						"id_str": "1115830574529302528",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/D3w5_uBW0AAcrJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3w5_uBW0AAcrJC.jpg",
+						"url": "https://t.co/Z1qfjvvJoZ",
+						"display_url": "pic.twitter.com/Z1qfjvvJoZ",
+						"expanded_url": "https://twitter.com/thecaptainrock/status/1115830582905327617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1697,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115830574529302500,
+						"id_str": "1115830574529302528",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/D3w5_uBW0AAcrJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3w5_uBW0AAcrJC.jpg",
+						"url": "https://t.co/Z1qfjvvJoZ",
+						"display_url": "pic.twitter.com/Z1qfjvvJoZ",
+						"expanded_url": "https://twitter.com/thecaptainrock/status/1115830582905327617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1697,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1115830574562857000,
+						"id_str": "1115830574562856961",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/D3w5_uJW0AEr9c5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3w5_uJW0AEr9c5.jpg",
+						"url": "https://t.co/Z1qfjvvJoZ",
+						"display_url": "pic.twitter.com/Z1qfjvvJoZ",
+						"expanded_url": "https://twitter.com/thecaptainrock/status/1115830582905327617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1697,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139751998,
+				"id_str": "139751998",
+				"name": "한경록",
+				"screen_name": "thecaptainrock",
+				"location": "",
+				"description": "CryingNut bass CaptainRock☠️🌹",
+				"url": "https://t.co/xL5jURrP6m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xL5jURrP6m",
+								"expanded_url": "http://blog.naver.com/captainrock1",
+								"display_url": "blog.naver.com/captainrock1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12974,
+				"friends_count": 722,
+				"listed_count": 350,
+				"created_at": "Mon May 03 15:31:23 +0000 2010",
+				"favourites_count": 550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18873,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캡틴락...❤️ https://t.co/YsiSWOjnlO"
+	},
+	{
 		"created_at": "Wed Apr 10 12:55:30 +0000 2019",
 		"id": 1115961503813861400,
 		"id_str": "1115961503813861376",
