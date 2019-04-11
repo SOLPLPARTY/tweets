@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 03:25:08 +0000 2019",
+		"id": 1116180352962322400,
+		"id_str": "1116180352962322432",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n4월 11일 | 오등(吾等)은 자(玆)에 아음악(我音樂), The Apop, 트리키네코\nhttps://t.co/FEFEf3CUuQ\n#미러볼블로그 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "미러볼블로그",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FEFEf3CUuQ",
+					"expanded_url": "http://bit.ly/2GfqERV",
+					"display_url": "bit.ly/2GfqERV",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n4월 11일 | 오등(吾等)은 자(玆)에 아음악(我音樂), The Apop, 트리키네코\nhttps://t.co/FEFEf3CUuQ\n#미러볼블로그 #유통사"
+	},
+	{
+		"created_at": "Thu Apr 11 03:25:08 +0000 2019",
+		"id": 1116180352039575600,
+		"id_str": "1116180352039575552",
+		"full_text": "【 #PlayDB 】 #블루스퀘어\n벤허 (2019.07.30 ~ 2019.10.13) at 블루스퀘어 인터파크홀 (구 삼성전자홀)\n▶ https://t.co/vH5ZZ3XYMy\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Ez5QirYp6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "블루스퀘어",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						133,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vH5ZZ3XYMy",
+					"expanded_url": "http://bit.ly/2P5YyLB",
+					"display_url": "bit.ly/2P5YyLB",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116180351121023000,
+					"id_str": "1116180351121022976",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D314HZXW4AA1uSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D314HZXW4AA1uSp.jpg",
+					"url": "https://t.co/Ez5QirYp6j",
+					"display_url": "pic.twitter.com/Ez5QirYp6j",
+					"expanded_url": "https://twitter.com/solplparty/status/1116180352039575552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116180351121023000,
+					"id_str": "1116180351121022976",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D314HZXW4AA1uSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D314HZXW4AA1uSp.jpg",
+					"url": "https://t.co/Ez5QirYp6j",
+					"display_url": "pic.twitter.com/Ez5QirYp6j",
+					"expanded_url": "https://twitter.com/solplparty/status/1116180352039575552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #블루스퀘어\n벤허 (2019.07.30 ~ 2019.10.13) at 블루스퀘어 인터파크홀 (구 삼성전자홀)\n▶ https://t.co/vH5ZZ3XYMy\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Ez5QirYp6j"
+	},
+	{
+		"created_at": "Thu Apr 11 03:19:54 +0000 2019",
+		"id": 1116170793065439200,
+		"id_str": "1116179037100085248",
+		"full_text": "홀리데이랜드 페스티벌 2차 라인업 공개\n\n🍑 Aminé (28일)\n🍑 Sabrina Claudio (28일)\n🍑 Cigarettes After Sex (27일)\n🍑 Toro Y Moi (28일)\n\n날짜 | 2019.7.27-7.28\n장소 | 파라다이스 시티\n티켓 | 양일권 165,000 하루권 120,000 (정가의 25% 할인가)\n예매 | https://t.co/BN7oIHkCsR https://t.co/OT77nrzdM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BN7oIHkCsR",
+					"expanded_url": "http://HOLIDAYLAND.KR",
+					"display_url": "HOLIDAYLAND.KR",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116170768625225700,
+					"id_str": "1116170768625225728",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D31vZnyU0AASHW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31vZnyU0AASHW9.jpg",
+					"url": "https://t.co/OT77nrzdM1",
+					"display_url": "pic.twitter.com/OT77nrzdM1",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1116170793065439232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116170768625225700,
+					"id_str": "1116170768625225728",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D31vZnyU0AASHW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31vZnyU0AASHW9.jpg",
+					"url": "https://t.co/OT77nrzdM1",
+					"display_url": "pic.twitter.com/OT77nrzdM1",
+					"expanded_url": "https://twitter.com/holidaylandfest/status/1116170793065439232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996572708874797000,
+			"id_str": "996572708874797056",
+			"name": "HOLIDAY LAND FESTIVAL 2019",
+			"screen_name": "holidaylandfest",
+			"location": "",
+			"description": "FOREVER SUMMER, FOREVER HOLIDAY 🍑🌴 7.27-7.28 @ PARADISE CITY",
+			"url": "https://t.co/FQQrKwCJI1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQQrKwCJI1",
+							"expanded_url": "http://holidayland.kr",
+							"display_url": "holidayland.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1,
+			"listed_count": 1,
+			"created_at": "Wed May 16 02:07:03 +0000 2018",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102434643486203904/VTF25xDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996572708874797056/1551758953",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홀리데이랜드 페스티벌 2차 라인업 공개\n\n🍑 Aminé (28일)\n🍑 Sabrina Claudio (28일)\n🍑 Cigarettes After Sex (27일)\n🍑 Toro Y Moi (28일)\n\n날짜 | 2019.7.27-7.28\n장소 | 파라다이스 시티\n티켓 | 양일권 165,000 하루권 120,000 (정가의 25% 할인가)\n예매 | https://t.co/BN7oIHkCsR https://t.co/OT77nrzdM1"
+	},
+	{
 		"created_at": "Thu Apr 11 03:11:54 +0000 2019",
 		"id": 1116174509038428200,
 		"id_str": "1116177024903675904",
