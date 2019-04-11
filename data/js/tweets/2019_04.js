@@ -1,6 +1,1366 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 06:11:51 +0000 2019",
+		"id": 1116218537050132500,
+		"id_str": "1116222308417458176",
+		"full_text": "&lt; FEST &gt;\n- 일시 : 4월 13일 (토) 오후 7시\n- 장소 : Prism+/프리즘플러스 (구, 프리즘홀)\n- 라인업 : 키라라, Airy 애리,  Aseul 아슬, UZA&amp;SHANE\n- 티켓가 : 예매 25,000원/ 현매 30,000원\n- 예매링크 : https://t.co/HtyxKXGaCC \n#FEST  #프리즘플러스 #키라라 #애리 #아슬 #UZASHANE https://t.co/N5LODQ2kZh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FEST",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "프리즘플러스",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "키라라",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "애리",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "아슬",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "UZASHANE",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HtyxKXGaCC",
+					"expanded_url": "http://bitly.kr/Dezki",
+					"display_url": "bitly.kr/Dezki",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116215972472299500,
+					"id_str": "1116215972472299520",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D32Yg1PUIAAGFUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32Yg1PUIAAGFUC.jpg",
+					"url": "https://t.co/N5LODQ2kZh",
+					"display_url": "pic.twitter.com/N5LODQ2kZh",
+					"expanded_url": "https://twitter.com/xindieticket/status/1116218537050132480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116215972472299500,
+					"id_str": "1116215972472299520",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D32Yg1PUIAAGFUC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32Yg1PUIAAGFUC.jpg",
+					"url": "https://t.co/N5LODQ2kZh",
+					"display_url": "pic.twitter.com/N5LODQ2kZh",
+					"expanded_url": "https://twitter.com/xindieticket/status/1116218537050132480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1116218534160240600,
+		"in_reply_to_status_id_str": "1116218534160240640",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 2388,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; FEST &gt;\n- 일시 : 4월 13일 (토) 오후 7시\n- 장소 : Prism+/프리즘플러스 (구, 프리즘홀)\n- 라인업 : 키라라, Airy 애리,  Aseul 아슬, UZA&amp;SHANE\n- 티켓가 : 예매 25,000원/ 현매 30,000원\n- 예매링크 : https://t.co/HtyxKXGaCC \n#FEST  #프리즘플러스 #키라라 #애리 #아슬 #UZASHANE https://t.co/N5LODQ2kZh"
+	},
+	{
+		"created_at": "Thu Apr 11 06:11:48 +0000 2019",
+		"id": 1116218534160240600,
+		"id_str": "1116222295218032640",
+		"full_text": "[씬디 블로그 : 이 주의 추천공연]\n씬디가 추천하는 4월의 둘째 주 공연이 네이버 메인에 소개되었습니다👏\n이번에 추천해드리는 공연은 홍대 공연장 '프리즘플러스'의의 7주년 기념공연 &lt;FEST&gt; 입니다~! 신나는 주말을 공연으로 보내봐요~!\n📎블로그 원문 보러가기 : https://t.co/nzE86AI7ac https://t.co/e1qbF3H9Eo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzE86AI7ac",
+					"expanded_url": "http://bitly.kr/gIFJo",
+					"display_url": "bitly.kr/gIFJo",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116217624621248500,
+					"id_str": "1116217624621248513",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D32aA_-UcAEMg1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32aA_-UcAEMg1A.jpg",
+					"url": "https://t.co/e1qbF3H9Eo",
+					"display_url": "pic.twitter.com/e1qbF3H9Eo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1116218534160240640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 594,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1013,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116217624621248500,
+					"id_str": "1116217624621248513",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D32aA_-UcAEMg1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32aA_-UcAEMg1A.jpg",
+					"url": "https://t.co/e1qbF3H9Eo",
+					"display_url": "pic.twitter.com/e1qbF3H9Eo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1116218534160240640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 594,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1013,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116217624520577000,
+					"id_str": "1116217624520577024",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D32aA_mUUAAymmf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32aA_mUUAAymmf.jpg",
+					"url": "https://t.co/e1qbF3H9Eo",
+					"display_url": "pic.twitter.com/e1qbF3H9Eo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1116218534160240640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2627,
+			"friends_count": 2388,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디 블로그 : 이 주의 추천공연]\n씬디가 추천하는 4월의 둘째 주 공연이 네이버 메인에 소개되었습니다👏\n이번에 추천해드리는 공연은 홍대 공연장 '프리즘플러스'의의 7주년 기념공연 &lt;FEST&gt; 입니다~! 신나는 주말을 공연으로 보내봐요~!\n📎블로그 원문 보러가기 : https://t.co/nzE86AI7ac https://t.co/e1qbF3H9Eo"
+	},
+	{
+		"created_at": "Thu Apr 11 06:11:43 +0000 2019",
+		"id": 1116216305969848300,
+		"id_str": "1116222273629892609",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1TV\n\n오늘 올댓뮤직,\n하루를 따뜻하게 감싸줄\n두 분과 함께합니다🌸\n\n오늘 밤 11시 40분!\n#김사월 #권나무 편 많이 기대해주세요🌳\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#kimsawol #Kwontree https://t.co/fJg0A9ygGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "권나무",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "kimsawol",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "Kwontree",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116216279126331400,
+					"id_str": "1116216279126331394",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D32YyrnVUAIJHyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32YyrnVUAIJHyx.jpg",
+					"url": "https://t.co/fJg0A9ygGU",
+					"display_url": "pic.twitter.com/fJg0A9ygGU",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1116216305969848320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116216279126331400,
+					"id_str": "1116216279126331394",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D32YyrnVUAIJHyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32YyrnVUAIJHyx.jpg",
+					"url": "https://t.co/fJg0A9ygGU",
+					"display_url": "pic.twitter.com/fJg0A9ygGU",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1116216305969848320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116216282741796900,
+					"id_str": "1116216282741796864",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D32Yy5FU8AAzIqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32Yy5FU8AAzIqo.jpg",
+					"url": "https://t.co/fJg0A9ygGU",
+					"display_url": "pic.twitter.com/fJg0A9ygGU",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1116216305969848320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116216290404749300,
+					"id_str": "1116216290404749315",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D32YzVoUUAMZJ2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32YzVoUUAMZJ2E.jpg",
+					"url": "https://t.co/fJg0A9ygGU",
+					"display_url": "pic.twitter.com/fJg0A9ygGU",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1116216305969848320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116216298478825500,
+					"id_str": "1116216298478825473",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D32YzztU8AEHvLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32YzztU8AEHvLv.jpg",
+					"url": "https://t.co/fJg0A9ygGU",
+					"display_url": "pic.twitter.com/fJg0A9ygGU",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1116216305969848320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3776,
+			"friends_count": 965,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7729,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1TV\n\n오늘 올댓뮤직,\n하루를 따뜻하게 감싸줄\n두 분과 함께합니다🌸\n\n오늘 밤 11시 40분!\n#김사월 #권나무 편 많이 기대해주세요🌳\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#kimsawol #Kwontree https://t.co/fJg0A9ygGU"
+	},
+	{
+		"created_at": "Thu Apr 11 05:33:06 +0000 2019",
+		"id": 1116212555461136400,
+		"id_str": "1116212555461136386",
+		"full_text": "#아지트라이브 #azit_live\n빌리코스티 Bily Acoustie - 사라져가는하루 Missing day | 아지트라이브세션 Azit Live Session #34\nhttps://t.co/gIfiLMIDZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아지트라이브",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "azit_live",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gIfiLMIDZH",
+					"expanded_url": "https://youtu.be/XYxjmGCd0Hc",
+					"display_url": "youtu.be/XYxjmGCd0Hc",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28493,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아지트라이브 #azit_live\n빌리코스티 Bily Acoustie - 사라져가는하루 Missing day | 아지트라이브세션 Azit Live Session #34\nhttps://t.co/gIfiLMIDZH"
+	},
+	{
+		"created_at": "Thu Apr 11 05:20:46 +0000 2019",
+		"id": 1116209455111254000,
+		"id_str": "1116209455111254016",
+		"full_text": "【 #헤이즈 】 #Heize\n제1회 대구 그랜드 뮤직 페스티벌 (2019.06.08 ~ 2019.06.08) at 대구스타디움\n▶ https://t.co/J1sz6KZH14\n　\n#PlayDB #플레이DB #인터파크티켓\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/mUvuOg1zTj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J1sz6KZH14",
+					"expanded_url": "http://bit.ly/2VAKtIJ",
+					"display_url": "bit.ly/2VAKtIJ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116209454125604900,
+					"id_str": "1116209454125604864",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D32SlagW4AAGlVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32SlagW4AAGlVa.jpg",
+					"url": "https://t.co/mUvuOg1zTj",
+					"display_url": "pic.twitter.com/mUvuOg1zTj",
+					"expanded_url": "https://twitter.com/solplparty/status/1116209455111254016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116209454125604900,
+					"id_str": "1116209454125604864",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D32SlagW4AAGlVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32SlagW4AAGlVa.jpg",
+					"url": "https://t.co/mUvuOg1zTj",
+					"display_url": "pic.twitter.com/mUvuOg1zTj",
+					"expanded_url": "https://twitter.com/solplparty/status/1116209455111254016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28493,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #헤이즈 】 #Heize\n제1회 대구 그랜드 뮤직 페스티벌 (2019.06.08 ~ 2019.06.08) at 대구스타디움\n▶ https://t.co/J1sz6KZH14\n　\n#PlayDB #플레이DB #인터파크티켓\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/mUvuOg1zTj"
+	},
+	{
+		"created_at": "Thu Apr 11 05:20:02 +0000 2019",
+		"id": 1116205109434650600,
+		"id_str": "1116209267080617985",
+		"full_text": "무더운 여름철, 도심 속 공간에서 꿈꾸는 특별한 순간\n어반 뮤직 페스티벌 2019\n\n블라인드 티켓 안내\n2일권 77,000원 (정가 2일권 110,000원)\n4월 16일(화) 14시 인터파크 티켓 오픈 (https://t.co/1g4B1QciTP)\n\nUrban Music Festival 2019\n7월 6일(토) ~ 7일(일) / 세종대 컨벤션센터 및 대양홀 일대 https://t.co/eGHLNU7ZFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1g4B1QciTP",
+					"expanded_url": "https://bit.ly/2UxZ0rZ",
+					"display_url": "bit.ly/2UxZ0rZ",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116204896825397200,
+					"id_str": "1116204896825397248",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D32OcJPUUAAXQAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32OcJPUUAAXQAi.jpg",
+					"url": "https://t.co/eGHLNU7ZFa",
+					"display_url": "pic.twitter.com/eGHLNU7ZFa",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1116205109434650624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116204896825397200,
+					"id_str": "1116204896825397248",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D32OcJPUUAAXQAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32OcJPUUAAXQAi.jpg",
+					"url": "https://t.co/eGHLNU7ZFa",
+					"display_url": "pic.twitter.com/eGHLNU7ZFa",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1116205109434650624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918766987865550800,
+			"id_str": "918766987865550848",
+			"name": "어반 뮤직 콘서트 & 페스티벌",
+			"screen_name": "urbanmusiccon",
+			"location": "",
+			"description": "도시 그리고 당신의 음악, 어반 뮤직 콘서트 & 페스티벌 (문의는 페이스북 메세지로 부탁드립니다.)",
+			"url": "https://t.co/Lyin7L8h9u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lyin7L8h9u",
+							"expanded_url": "https://www.facebook.com/UrbanMusicConcert/",
+							"display_url": "facebook.com/UrbanMusicConc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 69,
+			"listed_count": 1,
+			"created_at": "Fri Oct 13 09:14:54 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 212,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918766987865550848/1554950145",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무더운 여름철, 도심 속 공간에서 꿈꾸는 특별한 순간\n어반 뮤직 페스티벌 2019\n\n블라인드 티켓 안내\n2일권 77,000원 (정가 2일권 110,000원)\n4월 16일(화) 14시 인터파크 티켓 오픈 (https://t.co/1g4B1QciTP)\n\nUrban Music Festival 2019\n7월 6일(토) ~ 7일(일) / 세종대 컨벤션센터 및 대양홀 일대 https://t.co/eGHLNU7ZFa"
+	},
+	{
 		"created_at": "Thu Apr 11 05:12:03 +0000 2019",
 		"id": 1116195855151718400,
 		"id_str": "1116207258680033285",
