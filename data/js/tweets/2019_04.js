@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 01:11:59 +0000 2019",
+		"id": 1116145161753350100,
+		"id_str": "1116146843409317888",
+		"full_text": "#EBS공감 #스페이스공감 #김민규 #델리스파이스 #고백 #챠우챠우 #북극곰 #달빛과춤을 #가장어두운밤의위로 #황푸하 #자화상 #혼자하는사랑 #사랑을한다는건",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "김민규",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "델리스파이스",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "고백",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "챠우챠우",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "북극곰",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "달빛과춤을",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "가장어두운밤의위로",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "황푸하",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "자화상",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "혼자하는사랑",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "사랑을한다는건",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116145158406361100,
+		"in_reply_to_status_id_str": "1116145158406361088",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281087,
+			"friends_count": 20825,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#EBS공감 #스페이스공감 #김민규 #델리스파이스 #고백 #챠우챠우 #북극곰 #달빛과춤을 #가장어두운밤의위로 #황푸하 #자화상 #혼자하는사랑 #사랑을한다는건"
+	},
+	{
+		"created_at": "Thu Apr 11 01:11:56 +0000 2019",
+		"id": 1116145158406361100,
+		"id_str": "1116146830281195525",
+		"full_text": "[EBS 스페이스 공감 방송 안내]\n\n오늘 밤 11시 55분! EBS1에서\n김민규 ‘눈부시게 빛나는’ X 황푸하 ‘물음표를 던지다’ 편이 방송됩니다🙂\n\n박수와 감동이 넘쳤던 그 현장을 공개합니다🖤\n\n[방송안내]\n김민규 ‘눈부시게 빛나는’ X 황푸하 ‘물음표를 던지다’\n[방송일시] 4월 11일 (목) 밤 11시 55분 방송 https://t.co/pREh0f2Emo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116145148574855200,
+					"id_str": "1116145148574855169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D31YGVqUcAE4-HE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31YGVqUcAE4-HE.jpg",
+					"url": "https://t.co/pREh0f2Emo",
+					"display_url": "pic.twitter.com/pREh0f2Emo",
+					"expanded_url": "https://twitter.com/ebsspace/status/1116145158406361088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1057,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116145148574855200,
+					"id_str": "1116145148574855169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D31YGVqUcAE4-HE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31YGVqUcAE4-HE.jpg",
+					"url": "https://t.co/pREh0f2Emo",
+					"display_url": "pic.twitter.com/pREh0f2Emo",
+					"expanded_url": "https://twitter.com/ebsspace/status/1116145158406361088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1057,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1410,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116145148574855200,
+					"id_str": "1116145148574855172",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D31YGVqUcAQzfao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31YGVqUcAQzfao.jpg",
+					"url": "https://t.co/pREh0f2Emo",
+					"display_url": "pic.twitter.com/pREh0f2Emo",
+					"expanded_url": "https://twitter.com/ebsspace/status/1116145158406361088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281087,
+			"friends_count": 20825,
+			"listed_count": 858,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6552,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 방송 안내]\n\n오늘 밤 11시 55분! EBS1에서\n김민규 ‘눈부시게 빛나는’ X 황푸하 ‘물음표를 던지다’ 편이 방송됩니다🙂\n\n박수와 감동이 넘쳤던 그 현장을 공개합니다🖤\n\n[방송안내]\n김민규 ‘눈부시게 빛나는’ X 황푸하 ‘물음표를 던지다’\n[방송일시] 4월 11일 (목) 밤 11시 55분 방송 https://t.co/pREh0f2Emo"
+	},
+	{
+		"created_at": "Thu Apr 11 01:11:48 +0000 2019",
+		"id": 1116142615412367400,
+		"id_str": "1116146800317083648",
+		"full_text": "티라미수케잌 티라미수케잌 준비할게요 ^^ https://t.co/ioBurz2WA4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ioBurz2WA4",
+					"expanded_url": "https://twitter.com/_WEARETHENIGHT_/status/1115945014188593153",
+					"display_url": "twitter.com/_WEARETHENIGHT…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4484,
+			"friends_count": 3699,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7165,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115945014188593200,
+		"quoted_status_id_str": "1115945014188593153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ioBurz2WA4",
+			"expanded": "https://twitter.com/_WEARETHENIGHT_/status/1115945014188593153",
+			"display": "twitter.com/_WEARETHENIGHT…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 11:49:59 +0000 2019",
+			"id": 1115945014188593200,
+			"id_str": "1115945014188593153",
+			"full_text": "광주 MBC &lt;문화콘서트 난장&gt; \n\n일시: 2019.04.23 (화) 오후 7시 30분\n장소:  광주 MBC 공개홀\n\n방청신청: https://t.co/8VTJOtbz64\n신청기간: 2019년 4월10일~4월19일\n발표: 4월 20일 AM 10:00\n\n방청 안내: https://t.co/huidpy3DWe\n\n#위아더나잇 https://t.co/DrvYxEkMW7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "위아더나잇",
+						"indices": [
+							179,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8VTJOtbz64",
+						"expanded_url": "http://naver.me/GHhJq7rO",
+						"display_url": "naver.me/GHhJq7rO",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/huidpy3DWe",
+						"expanded_url": "http://nanjangse11.blog.me/221510263985",
+						"display_url": "nanjangse11.blog.me/221510263985",
+						"indices": [
+							154,
+							177
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1115945006529826800,
+						"id_str": "1115945006529826816",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D3yiEicU0AArA8n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3yiEicU0AArA8n.jpg",
+						"url": "https://t.co/DrvYxEkMW7",
+						"display_url": "pic.twitter.com/DrvYxEkMW7",
+						"expanded_url": "https://twitter.com/_WEARETHENIGHT_/status/1115945014188593153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115945006529826800,
+						"id_str": "1115945006529826816",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D3yiEicU0AArA8n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3yiEicU0AArA8n.jpg",
+						"url": "https://t.co/DrvYxEkMW7",
+						"display_url": "pic.twitter.com/DrvYxEkMW7",
+						"expanded_url": "https://twitter.com/_WEARETHENIGHT_/status/1115945014188593153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113338777,
+				"id_str": "113338777",
+				"name": "WE ARE THE NIGHT",
+				"screen_name": "_WEARETHENIGHT_",
+				"location": "Night",
+				"description": "위아더나잇 / WE ARE THE NIGHT WEARETHENIGHT@naver.com",
+				"url": "https://t.co/HUIDudGSrF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HUIDudGSrF",
+								"expanded_url": "https://www.facebook.com/bandWEARETHENIGHT",
+								"display_url": "facebook.com/bandWEARETHENI…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1362,
+				"friends_count": 5,
+				"listed_count": 33,
+				"created_at": "Thu Feb 11 12:54:10 +0000 2010",
+				"favourites_count": 221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2046,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A4357",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960730820188168192/kjpWFuL8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960730820188168192/kjpWFuL8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113338777/1531921622",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티라미수케잌 티라미수케잌 준비할게요 ^^ https://t.co/ioBurz2WA4"
+	},
+	{
 		"created_at": "Wed Apr 10 20:44:29 +0000 2019",
 		"id": 1116079527921373200,
 		"id_str": "1116079527921373185",
