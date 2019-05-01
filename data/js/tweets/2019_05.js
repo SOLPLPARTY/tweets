@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 10:18:16 +0000 2019",
+		"id": 1123518039993925600,
+		"id_str": "1123532080657444864",
+		"full_text": "내일 정오엔 각자의 취향에 맞는 음료를 마시며 '카페인 노마드'를 들어요~\n어떤 음료와 함께해도 잘 어울릴 '카페인 노마드(Caffeine Nomad)'\n🥤🥂🍹🍸🍷☕🥛🍵\n\n9(9와 숫자들)/ 카페인 노마드 \n2019.05.02. 12pm 발매!\n\n#카페인노마드 #커피 #홍차 #녹차 #쥬스 #탄산음료 #정오발매 #모든음료 https://t.co/aK5l3o3pvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카페인노마드",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "커피",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "홍차",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "녹차",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "쥬스",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "탄산음료",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "정오발매",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "모든음료",
+					"indices": [
+						174,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123517123123241000,
+					"id_str": "1123517123123240961",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eI3u7UYAEQ2UE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eI3u7UYAEQ2UE.jpg",
+					"url": "https://t.co/aK5l3o3pvt",
+					"display_url": "pic.twitter.com/aK5l3o3pvt",
+					"expanded_url": "https://twitter.com/orm_ent/status/1123518039993925632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1837,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123517123123241000,
+					"id_str": "1123517123123240961",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D5eI3u7UYAEQ2UE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5eI3u7UYAEQ2UE.jpg",
+					"url": "https://t.co/aK5l3o3pvt",
+					"display_url": "pic.twitter.com/aK5l3o3pvt",
+					"expanded_url": "https://twitter.com/orm_ent/status/1123518039993925632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1837,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희 여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 703,
+			"friends_count": 341,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2381,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1553481095",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일 정오엔 각자의 취향에 맞는 음료를 마시며 '카페인 노마드'를 들어요~\n어떤 음료와 함께해도 잘 어울릴 '카페인 노마드(Caffeine Nomad)'\n🥤🥂🍹🍸🍷☕🥛🍵\n\n9(9와 숫자들)/ 카페인 노마드 \n2019.05.02. 12pm 발매!\n\n#카페인노마드 #커피 #홍차 #녹차 #쥬스 #탄산음료 #정오발매 #모든음료 https://t.co/aK5l3o3pvt"
+	},
+	{
 		"created_at": "Wed May 01 10:11:50 +0000 2019",
 		"id": 1123526408913834000,
 		"id_str": "1123530461899317248",
@@ -149,7 +380,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Wed May 01 10:11:42 +0000 2019",
 		"id": 1123526284582068200,
 		"id_str": "1123530427803885570",
-		"full_text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n#몽니 #데이브레이크\n\n🙌올댓뮤직 두번째 질문타임🙌\n#몽니 @band_monni 에게\n궁금한 점을 보내주세요!\n\n멤버들에게 각자 궁금했던 것들 모두!\n아주 사소하고 작은 TMI까지 모두 모아모아🕵️‍♀️🕵️‍♂️\n올댓뮤직이 토크 중 직접! 물어보겠습니다🤘 https://t.co/2hlwfXHOg3",
+		"full_text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n#몽니 #데이브레이크\n\n🙌올댓뮤직 두번째 질문타임🙌\n#몽니 @band_monni 에게\n궁금한 점을 보내주세요!\n\n멤버들에게 각자 궁금했던 것들 모두!\n아주 사소하고 작은 TMI까지 모두 모아모아🕵️♀️🕵️♂️\n올댓뮤직이 토크 중 직접! 물어보겠습니다🤘 https://t.co/2hlwfXHOg3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -364,7 +595,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n#몽니 #데이브레이크\n\n🙌올댓뮤직 두번째 질문타임🙌\n#몽니 @band_monni 에게\n궁금한 점을 보내주세요!\n\n멤버들에게 각자 궁금했던 것들 모두!\n아주 사소하고 작은 TMI까지 모두 모아모아🕵️‍♀️🕵️‍♂️\n올댓뮤직이 토크 중 직접! 물어보겠습니다🤘 https://t.co/2hlwfXHOg3"
+		"text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n#몽니 #데이브레이크\n\n🙌올댓뮤직 두번째 질문타임🙌\n#몽니 @band_monni 에게\n궁금한 점을 보내주세요!\n\n멤버들에게 각자 궁금했던 것들 모두!\n아주 사소하고 작은 TMI까지 모두 모아모아🕵️♀️🕵️♂️\n올댓뮤직이 토크 중 직접! 물어보겠습니다🤘 https://t.co/2hlwfXHOg3"
 	},
 	{
 		"created_at": "Wed May 01 10:04:09 +0000 2019",
