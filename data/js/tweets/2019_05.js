@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 15:18:16 +0000 2019",
+		"id": 1123603066333216800,
+		"id_str": "1123607577915547651",
+		"full_text": "[#MUE_ㅊㅋㅊㅋ🎊]\n\n선미의 생일을 진심으로 축하합니다!\nHappy birthday to MIYA🤟💜\n\n#선미 #SUNMI \n#미야네 #MIYANE\n#해피미야데이 #HappyMIYAday #🎁 https://t.co/KhZNWNSdC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUE_ㅊㅋㅊㅋ",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "미야네",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "MIYANE",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "해피미야데이",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "HappyMIYAday",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123603059182002200,
+					"id_str": "1123603059182002176",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D5fXB3sV4AA3n58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5fXB3sV4AA3n58.jpg",
+					"url": "https://t.co/KhZNWNSdC9",
+					"display_url": "pic.twitter.com/KhZNWNSdC9",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1123603066333216769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123603059182002200,
+					"id_str": "1123603059182002176",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D5fXB3sV4AA3n58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5fXB3sV4AA3n58.jpg",
+					"url": "https://t.co/KhZNWNSdC9",
+					"display_url": "pic.twitter.com/KhZNWNSdC9",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1123603066333216769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "MAKEUS_Ent",
+			"screen_name": "MAKEUS_Ent",
+			"location": "",
+			"description": "MAKEUS Entertainment 공식 트위터 입니다. [https://t.co/rVAme5caJr] [https://t.co/UICLMo31bs] [https://t.co/KckpUWVrbi]",
+			"url": "https://t.co/cKAGkoYHot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cKAGkoYHot",
+							"expanded_url": "http://www.makeusent.com/",
+							"display_url": "makeusent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rVAme5caJr",
+							"expanded_url": "http://facebook.com/makeusent",
+							"display_url": "facebook.com/makeusent",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/UICLMo31bs",
+							"expanded_url": "http://Instagram.com/makeus_ent",
+							"display_url": "Instagram.com/makeus_ent",
+							"indices": [
+								60,
+								83
+							]
+						},
+						{
+							"url": "https://t.co/KckpUWVrbi",
+							"expanded_url": "http://youtube.com/c/MAKEUSEntertainment",
+							"display_url": "youtube.com/c/MAKEUSEntert…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7148,
+			"friends_count": 3,
+			"listed_count": 74,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 376,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1554110227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3459,
+		"favorite_count": 6217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MUE_ㅊㅋㅊㅋ🎊]\n\n선미의 생일을 진심으로 축하합니다!\nHappy birthday to MIYA🤟💜\n\n#선미 #SUNMI \n#미야네 #MIYANE\n#해피미야데이 #HappyMIYAday #🎁 https://t.co/KhZNWNSdC9"
+	},
+	{
 		"created_at": "Wed May 01 10:18:16 +0000 2019",
 		"id": 1123518039993925600,
 		"id_str": "1123532080657444864",
