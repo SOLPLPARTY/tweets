@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 14:11:45 +0000 2019",
+		"id": 1123950862575947800,
+		"id_str": "1123953224166379521",
+		"full_text": "[방송안내]\n페노메코 '영혼을 깨우는 비밀정원' X 펀치넬로 'Be Myself'\nㅤㅤ\n[방송일시] ㅤㅤ\n5월 2일 (목) 밤 11시 55분 방송\nㅤ\n#EBS공감 #스페이스공감 #페노메코 #No.5 #Okay #COCOBOTTLE #TillIDie #펀치넬로 #BlueHawaii #GREENHORIZON #BoilingPoint #CORONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "페노메코",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "No",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "Okay",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "COCOBOTTLE",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "TillIDie",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "펀치넬로",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "BlueHawaii",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "GREENHORIZON",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "BoilingPoint",
+					"indices": [
+						171,
+						184
+					]
+				},
+				{
+					"text": "CORONA",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123950856569856000,
+		"in_reply_to_status_id_str": "1123950856569856007",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280451,
+			"friends_count": 20789,
+			"listed_count": 855,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6578,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[방송안내]\n페노메코 '영혼을 깨우는 비밀정원' X 펀치넬로 'Be Myself'\nㅤㅤ\n[방송일시] ㅤㅤ\n5월 2일 (목) 밤 11시 55분 방송\nㅤ\n#EBS공감 #스페이스공감 #페노메코 #No.5 #Okay #COCOBOTTLE #TillIDie #펀치넬로 #BlueHawaii #GREENHORIZON #BoilingPoint #CORONA"
+	},
+	{
+		"created_at": "Thu May 02 14:11:43 +0000 2019",
+		"id": 1123950856569856000,
+		"id_str": "1123953214905298944",
+		"full_text": "[EBS 스페이스 공감 방송 안내]ㅤㅤㅤ\n오늘 밤 11시 55분! EBS1에서\nㅤ\n이 시대 가장 힙하고 핫한 뮤지션들의 무대가 펼쳐집니다😉\nㅤㅤ\n페노메코 '영혼을 깨우는 비밀정원' X 펀치넬로 'Be Myself' 편이 방송됩니다\nㅤㅤ\n엄청난 환호성, 앵콜이 연발했던 레전드 무대가 곧 펼쳐집니다 〰️🎊🔥 https://t.co/EQinBwowlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123950829738840000,
+					"id_str": "1123950829738840078",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kTUx-W0A4h0Gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kTUx-W0A4h0Gs.jpg",
+					"url": "https://t.co/EQinBwowlE",
+					"display_url": "pic.twitter.com/EQinBwowlE",
+					"expanded_url": "https://twitter.com/ebsspace/status/1123950856569856007/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123950829738840000,
+					"id_str": "1123950829738840078",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kTUx-W0A4h0Gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kTUx-W0A4h0Gs.jpg",
+					"url": "https://t.co/EQinBwowlE",
+					"display_url": "pic.twitter.com/EQinBwowlE",
+					"expanded_url": "https://twitter.com/ebsspace/status/1123950856569856007/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1756,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123950829977964500,
+					"id_str": "1123950829977964548",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D5kTUy3XkAQb9IK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5kTUy3XkAQb9IK.jpg",
+					"url": "https://t.co/EQinBwowlE",
+					"display_url": "pic.twitter.com/EQinBwowlE",
+					"expanded_url": "https://twitter.com/ebsspace/status/1123950856569856007/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280451,
+			"friends_count": 20789,
+			"listed_count": 855,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6578,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 방송 안내]ㅤㅤㅤ\n오늘 밤 11시 55분! EBS1에서\nㅤ\n이 시대 가장 힙하고 핫한 뮤지션들의 무대가 펼쳐집니다😉\nㅤㅤ\n페노메코 '영혼을 깨우는 비밀정원' X 펀치넬로 'Be Myself' 편이 방송됩니다\nㅤㅤ\n엄청난 환호성, 앵콜이 연발했던 레전드 무대가 곧 펼쳐집니다 〰️🎊🔥 https://t.co/EQinBwowlE"
+	},
+	{
 		"created_at": "Thu May 02 13:12:26 +0000 2019",
 		"id": 1123938295493353500,
 		"id_str": "1123938295493353476",
@@ -451,7 +841,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Thu May 02 13:11:58 +0000 2019",
 		"id": 1123936291564003300,
 		"id_str": "1123938178497417217",
-		"full_text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n몽니의\n인사영상이 도착했습니다💌\n\n오늘 밤 12시, 방청신청이 마감되니\n늦기 전에 서둘러 주세요🏃‍♀️🏃‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190509\n#MONNI #김신의 #이인경 #공태우 #정훈태\n#파워스탠딩기대해주세요🤘 https://t.co/L3RJmIawcO",
+		"full_text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n몽니의\n인사영상이 도착했습니다💌\n\n오늘 밤 12시, 방청신청이 마감되니\n늦기 전에 서둘러 주세요🏃♀️🏃♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190509\n#MONNI #김신의 #이인경 #공태우 #정훈태\n#파워스탠딩기대해주세요🤘 https://t.co/L3RJmIawcO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -735,7 +1125,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n몽니의\n인사영상이 도착했습니다💌\n\n오늘 밤 12시, 방청신청이 마감되니\n늦기 전에 서둘러 주세요🏃‍♀️🏃‍♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190509\n#MONNI #김신의 #이인경 #공태우 #정훈태\n#파워스탠딩기대해주세요🤘 https://t.co/L3RJmIawcO"
+		"text": "#올댓뮤직 #공개녹화\n190509(목) 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n몽니의\n인사영상이 도착했습니다💌\n\n오늘 밤 12시, 방청신청이 마감되니\n늦기 전에 서둘러 주세요🏃♀️🏃♂️\n\n#올댓뮤직_공개녹화\n#ALLTHATMUSIC #190509\n#MONNI #김신의 #이인경 #공태우 #정훈태\n#파워스탠딩기대해주세요🤘 https://t.co/L3RJmIawcO"
 	},
 	{
 		"created_at": "Thu May 02 13:11:51 +0000 2019",
