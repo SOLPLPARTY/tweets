@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 10:19:54 +0000 2019",
+		"id": 1123884156918878200,
+		"id_str": "1123894879048949761",
+		"full_text": "진정한 레전드의 귀환! 완전체로 돌아온 @swedishousemfia ●●●\n9일 일요일 메인 스테이지를 불태울 국내 최초 내한, 재결합 후 첫 아시아 방문의 전설의 무대에서 뮤직 페스티벌의 새로운 역사를 함께 만들어주세요. https://t.co/oq0QPyTPTf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swedishousemfia",
+					"name": "Swedish House Mafia",
+					"id": 34464376,
+					"id_str": "34464376",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123884149692149800,
+					"id_str": "1123884149692149761",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jWrfcXsAE41VF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jWrfcXsAE41VF.jpg",
+					"url": "https://t.co/oq0QPyTPTf",
+					"display_url": "pic.twitter.com/oq0QPyTPTf",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1123884156918878219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123884149692149800,
+					"id_str": "1123884149692149761",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jWrfcXsAE41VF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5jWrfcXsAE41VF.jpg",
+					"url": "https://t.co/oq0QPyTPTf",
+					"display_url": "pic.twitter.com/oq0QPyTPTf",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1123884156918878219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20224,
+			"friends_count": 24,
+			"listed_count": 122,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2180,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1556213191",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진정한 레전드의 귀환! 완전체로 돌아온 @swedishousemfia ●●●\n9일 일요일 메인 스테이지를 불태울 국내 최초 내한, 재결합 후 첫 아시아 방문의 전설의 무대에서 뮤직 페스티벌의 새로운 역사를 함께 만들어주세요. https://t.co/oq0QPyTPTf"
+	},
+	{
 		"created_at": "Thu May 02 10:04:19 +0000 2019",
 		"id": 1123890955772411900,
 		"id_str": "1123890955772411904",
