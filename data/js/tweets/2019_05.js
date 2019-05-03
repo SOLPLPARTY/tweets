@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 15:18:16 +0000 2019",
+		"id": 1124326978755022800,
+		"id_str": "1124332353797668864",
+		"full_text": "9와 숫자들의 그분 디자이너 이재민 님이 새로 디자인한 김연수 작가님의 ‘청춘의 문장들’ 재작년 읽콘도 생각나고 그러네요~ 역시나 이재민님의 손을 거치니 다시 사고프네여. 👍🖌🖋📖📚\nmaumsanchaek https://t.co/KiynuhSv7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KiynuhSv7I",
+					"expanded_url": "https://twitter.com/yeonsukimbot/status/1123413836407508993",
+					"display_url": "twitter.com/yeonsukimbot/s…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희 여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 704,
+			"friends_count": 342,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2389,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1556769004",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123413836407509000,
+		"quoted_status_id_str": "1123413836407508993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KiynuhSv7I",
+			"expanded": "https://twitter.com/yeonsukimbot/status/1123413836407508993",
+			"display": "twitter.com/yeonsukimbot/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 01 02:28:25 +0000 2019",
+			"id": 1123413836407509000,
+			"id_str": "1123413836407508993",
+			"full_text": "「청춘의 문장들」 리에디션 2,000부 한정판입니다. 알라딘 단독 진행! 노트와 컵 굿즈도 받아가세요. https://t.co/qWvXVYEosx https://t.co/Qn6QeU3maw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qWvXVYEosx",
+						"expanded_url": "http://aladin.kr/p/iez0Z",
+						"display_url": "aladin.kr/p/iez0Z",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1123413828740370400,
+						"id_str": "1123413828740370432",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/D5cq7NXU0AAuPPk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5cq7NXU0AAuPPk.jpg",
+						"url": "https://t.co/Qn6QeU3maw",
+						"display_url": "pic.twitter.com/Qn6QeU3maw",
+						"expanded_url": "https://twitter.com/yeonsukimbot/status/1123413836407508993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 989,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1123413828740370400,
+						"id_str": "1123413828740370432",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/D5cq7NXU0AAuPPk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5cq7NXU0AAuPPk.jpg",
+						"url": "https://t.co/Qn6QeU3maw",
+						"display_url": "pic.twitter.com/Qn6QeU3maw",
+						"expanded_url": "https://twitter.com/yeonsukimbot/status/1123413836407508993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 989,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 339025259,
+				"id_str": "339025259",
+				"name": "소설가 김연수 bot",
+				"screen_name": "yeonsukimbot",
+				"location": "정발산 정원",
+				"description": "수동봇이며 관리자가 할 수 있는 한 꾸준히 김연수 작가의 문장을 전합니다. (인터뷰, 에세이, 블로그) 그밖에 관련 소식 업데이트, 더 긴 문장들 : https://t.co/eVhjQ25u3O",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eVhjQ25u3O",
+								"expanded_url": "http://facebook.com/yeonsukimbot",
+								"display_url": "facebook.com/yeonsukimbot",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4595,
+				"friends_count": 0,
+				"listed_count": 96,
+				"created_at": "Wed Jul 20 13:35:39 +0000 2011",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2170,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021268206827130881/sIOWOHte_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021268206827130881/sIOWOHte_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339025259/1359306952",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들의 그분 디자이너 이재민 님이 새로 디자인한 김연수 작가님의 ‘청춘의 문장들’ 재작년 읽콘도 생각나고 그러네요~ 역시나 이재민님의 손을 거치니 다시 사고프네여. 👍🖌🖋📖📚\nmaumsanchaek https://t.co/KiynuhSv7I"
+	},
+	{
 		"created_at": "Fri May 03 15:02:11 +0000 2019",
 		"id": 1124328305233207300,
 		"id_str": "1124328305233207301",
