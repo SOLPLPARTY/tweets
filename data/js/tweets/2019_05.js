@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 04:18:33 +0000 2019",
+		"id": 1124163958884036600,
+		"id_str": "1124166327357329410",
+		"full_text": "[THE 13th SEOUL JAZZ FESTIVAL 2019]\n5월 25일(토)~26일(일) @올림픽공원\nhttps://t.co/MLiHFTI5Ep\n▶ 티켓 예매 : 인터파크, 위메프\n-\n#김사월 #서울재즈페스티벌2019 #sjf #타임테이블",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "서울재즈페스티벌2019",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "sjf",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "타임테이블",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MLiHFTI5Ep",
+					"expanded_url": "http://www.seouljazz.co.kr",
+					"display_url": "seouljazz.co.kr",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1124163918199312400,
+		"in_reply_to_status_id_str": "1124163918199312385",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1431,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3466,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[THE 13th SEOUL JAZZ FESTIVAL 2019]\n5월 25일(토)~26일(일) @올림픽공원\nhttps://t.co/MLiHFTI5Ep\n▶ 티켓 예매 : 인터파크, 위메프\n-\n#김사월 #서울재즈페스티벌2019 #sjf #타임테이블"
+	},
+	{
+		"created_at": "Fri May 03 04:18:29 +0000 2019",
+		"id": 1124163918199312400,
+		"id_str": "1124166314321502208",
+		"full_text": "[#김사월] 서울재즈페스티벌 2019 타임테이블 공개 ✨\n\n5월 25일~26일 2일간 5개의 스테이지에서 펼쳐지는 제13회 서울재즈페스티벌의 타임테이블이 공개되었습니다!\n\n김사월의 무대는 5월 25일 (토) ‘SJF_THEATRE - 우리금융아트홀’에서 만나보실 수 있어요♥️ https://t.co/GQSamBhJNj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124163905893220400,
+					"id_str": "1124163905893220352",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nVHcgUwAACec4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nVHcgUwAACec4.jpg",
+					"url": "https://t.co/GQSamBhJNj",
+					"display_url": "pic.twitter.com/GQSamBhJNj",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1124163918199312385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124163905893220400,
+					"id_str": "1124163905893220352",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nVHcgUwAACec4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nVHcgUwAACec4.jpg",
+					"url": "https://t.co/GQSamBhJNj",
+					"display_url": "pic.twitter.com/GQSamBhJNj",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1124163918199312385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1431,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3466,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] 서울재즈페스티벌 2019 타임테이블 공개 ✨\n\n5월 25일~26일 2일간 5개의 스테이지에서 펼쳐지는 제13회 서울재즈페스티벌의 타임테이블이 공개되었습니다!\n\n김사월의 무대는 5월 25일 (토) ‘SJF_THEATRE - 우리금융아트홀’에서 만나보실 수 있어요♥️ https://t.co/GQSamBhJNj"
+	},
+	{
+		"created_at": "Fri May 03 04:18:21 +0000 2019",
+		"id": 1124162099750494200,
+		"id_str": "1124166280104370177",
+		"full_text": "@SURLofficial 의 첫 번째 싱글 [Cilla] 예약판매 시작!\n\n#SURL #Cilla https://t.co/53KwqcokYS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "Cilla",
+					"indices": [
+						48,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SURLofficial",
+					"name": "SURL",
+					"id": 1007177110077632500,
+					"id_str": "1007177110077632512",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/53KwqcokYS",
+					"expanded_url": "https://twitter.com/SURLofficial/status/1124160877215641600",
+					"display_url": "twitter.com/SURLofficial/s…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1007177110077632500,
+		"in_reply_to_user_id_str": "1007177110077632512",
+		"in_reply_to_screen_name": "SURLofficial",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13995,
+			"friends_count": 2819,
+			"listed_count": 307,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12634,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124160877215641600,
+		"quoted_status_id_str": "1124160877215641600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/53KwqcokYS",
+			"expanded": "https://twitter.com/SURLofficial/status/1124160877215641600",
+			"display": "twitter.com/SURLofficial/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 03 03:56:53 +0000 2019",
+			"id": 1124160877215641600,
+			"id_str": "1124160877215641600",
+			"full_text": "SURL 1st Single &lt;Cilla&gt;의 예약판매가 시작되었습니다! \n아래 링크를 통해 예약구매를 진행하실 수 있습니다.\n-\nPreorder for SURL 1st Single &lt;Cilla&gt; has begun!\n-\nYES24 - https://t.co/0enpneBy59 \nINTERPARK - https://t.co/6DhucZzHxf\nHOTTRACKS - https://t.co/HPbVAavmDy https://t.co/X153jbMPCV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0enpneBy59",
+						"expanded_url": "https://bit.ly/2PItVMI",
+						"display_url": "bit.ly/2PItVMI",
+						"indices": [
+							142,
+							165
+						]
+					},
+					{
+						"url": "https://t.co/6DhucZzHxf",
+						"expanded_url": "https://bit.ly/2UW7dkY",
+						"display_url": "bit.ly/2UW7dkY",
+						"indices": [
+							179,
+							202
+						]
+					},
+					{
+						"url": "https://t.co/HPbVAavmDy",
+						"expanded_url": "https://bit.ly/2DIIriQ",
+						"display_url": "bit.ly/2DIIriQ",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1124160769367482400,
+						"id_str": "1124160769367482371",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nSQ4CUIAMUNdl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nSQ4CUIAMUNdl.jpg",
+						"url": "https://t.co/X153jbMPCV",
+						"display_url": "pic.twitter.com/X153jbMPCV",
+						"expanded_url": "https://twitter.com/SURLofficial/status/1124160877215641600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124160769367482400,
+						"id_str": "1124160769367482371",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nSQ4CUIAMUNdl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nSQ4CUIAMUNdl.jpg",
+						"url": "https://t.co/X153jbMPCV",
+						"display_url": "pic.twitter.com/X153jbMPCV",
+						"expanded_url": "https://twitter.com/SURLofficial/status/1124160877215641600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1007177110077632500,
+				"id_str": "1007177110077632512",
+				"name": "SURL",
+				"screen_name": "SURLofficial",
+				"location": "대한민국 서울",
+				"description": "",
+				"url": "https://t.co/O1xgl8GGWC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O1xgl8GGWC",
+								"expanded_url": "https://www.youtube.com/SURLofficial",
+								"display_url": "youtube.com/SURLofficial",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 554,
+				"friends_count": 0,
+				"listed_count": 5,
+				"created_at": "Thu Jun 14 08:25:10 +0000 2018",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 260,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019142793380311041/ceADfB5X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019142793380311041/ceADfB5X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007177110077632512/1555571269",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@SURLofficial 의 첫 번째 싱글 [Cilla] 예약판매 시작!\n\n#SURL #Cilla https://t.co/53KwqcokYS"
+	},
+	{
 		"created_at": "Fri May 03 03:53:10 +0000 2019",
 		"id": 1124159941823139800,
 		"id_str": "1124159941823139840",
