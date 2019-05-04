@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 07:19:54 +0000 2019",
+		"id": 1124572525747269600,
+		"id_str": "1124574355915194368",
+		"full_text": "어반 뮤직 페스티벌 2019 Artist.04\n\n듣는 이의 귀를 사로잡는 감성적인 음색이 돋보이는 뮤지션, 케이시\n\n‘그때가 좋았어’, ‘진심이 담긴 노래’\n음원만큼 좋은 케이시의 라이브 무대를 어반 뮤직 페스티벌에서 만나보세요 :)\n\n어반 뮤직 페스티벌 2019\n7월 6일(토) ~ 7일(일) https://t.co/HWiVkoHbc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124572397649010700,
+					"id_str": "1124572397649010689",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5tIoy4UIAEStlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5tIoy4UIAEStlb.jpg",
+					"url": "https://t.co/HWiVkoHbc8",
+					"display_url": "pic.twitter.com/HWiVkoHbc8",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1124572525747269632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1458,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124572397649010700,
+					"id_str": "1124572397649010689",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D5tIoy4UIAEStlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5tIoy4UIAEStlb.jpg",
+					"url": "https://t.co/HWiVkoHbc8",
+					"display_url": "pic.twitter.com/HWiVkoHbc8",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1124572525747269632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1458,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918766987865550800,
+			"id_str": "918766987865550848",
+			"name": "어반 뮤직 콘서트 & 페스티벌",
+			"screen_name": "urbanmusiccon",
+			"location": "",
+			"description": "도시 그리고 당신의 음악, 어반 뮤직 콘서트 & 페스티벌 (문의는 페이스북 메세지로 부탁드립니다.)",
+			"url": "https://t.co/Lyin7L8h9u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lyin7L8h9u",
+							"expanded_url": "https://www.facebook.com/UrbanMusicConcert/",
+							"display_url": "facebook.com/UrbanMusicConc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 74,
+			"listed_count": 1,
+			"created_at": "Fri Oct 13 09:14:54 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918766987865550848/1554950145",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어반 뮤직 페스티벌 2019 Artist.04\n\n듣는 이의 귀를 사로잡는 감성적인 음색이 돋보이는 뮤지션, 케이시\n\n‘그때가 좋았어’, ‘진심이 담긴 노래’\n음원만큼 좋은 케이시의 라이브 무대를 어반 뮤직 페스티벌에서 만나보세요 :)\n\n어반 뮤직 페스티벌 2019\n7월 6일(토) ~ 7일(일) https://t.co/HWiVkoHbc8"
+	},
+	{
 		"created_at": "Sat May 04 07:11:42 +0000 2019",
 		"id": 1124560088428044300,
 		"id_str": "1124572292569358336",
