@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 12:12:01 +0000 2019",
+		"id": 1124646878203662300,
+		"id_str": "1124647867208151040",
+		"full_text": "[소셜 사이트]\n위메프 : https://t.co/fxrnf4zyT6\n티몬 : https://t.co/hjqaAV5lF7\n쿠팡 : https://t.co/TsYogakLDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fxrnf4zyT6",
+					"expanded_url": "http://bit.ly/GMF2019_wmp",
+					"display_url": "bit.ly/GMF2019_wmp",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/hjqaAV5lF7",
+					"expanded_url": "http://bit.ly/GMF2019_tmon",
+					"display_url": "bit.ly/GMF2019_tmon",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/TsYogakLDK",
+					"expanded_url": "http://bit.ly/GMF2019_coupang",
+					"display_url": "bit.ly/GMF2019_coupang",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124646876899242000,
+		"in_reply_to_status_id_str": "1124646876899241984",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2633,
+			"friends_count": 2392,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[소셜 사이트]\n위메프 : https://t.co/fxrnf4zyT6\n티몬 : https://t.co/hjqaAV5lF7\n쿠팡 : https://t.co/TsYogakLDK"
+	},
+	{
+		"created_at": "Sat May 04 12:11:57 +0000 2019",
+		"id": 1124646876899242000,
+		"id_str": "1124647849927544832",
+		"full_text": "[티켓 예매] \n인터파크 : https://t.co/j28ERjGZtF\n멜론티켓 : https://t.co/wc62VwGoL0\n네이버예약 : https://t.co/f8CBKhwMTL\n티켓링크 : https://t.co/bZav4grKL8\n예스24 : https://t.co/GwQDjppXIA\n하나티켓 : https://t.co/wflerKf14f\n아이겟 : https://t.co/fzzPkZ5V45 (app)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j28ERjGZtF",
+					"expanded_url": "http://bit.ly/GMF2019_interpark",
+					"display_url": "bit.ly/GMF2019_interp…",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/wc62VwGoL0",
+					"expanded_url": "http://bit.ly/GMF2019_melon",
+					"display_url": "bit.ly/GMF2019_melon",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/f8CBKhwMTL",
+					"expanded_url": "http://bit.ly/GMF2019_naver",
+					"display_url": "bit.ly/GMF2019_naver",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/bZav4grKL8",
+					"expanded_url": "http://bit.ly/GMF2019_ticketlink",
+					"display_url": "bit.ly/GMF2019_ticket…",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/GwQDjppXIA",
+					"expanded_url": "http://bit.ly/GMF2019_yes24",
+					"display_url": "bit.ly/GMF2019_yes24",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/wflerKf14f",
+					"expanded_url": "http://bit.ly/GMF2019_hana",
+					"display_url": "bit.ly/GMF2019_hana",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/fzzPkZ5V45",
+					"expanded_url": "http://bit.ly/GMF2019_iget",
+					"display_url": "bit.ly/GMF2019_iget",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124646875682918400,
+		"in_reply_to_status_id_str": "1124646875682918401",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2633,
+			"friends_count": 2392,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓 예매] \n인터파크 : https://t.co/j28ERjGZtF\n멜론티켓 : https://t.co/wc62VwGoL0\n네이버예약 : https://t.co/f8CBKhwMTL\n티켓링크 : https://t.co/bZav4grKL8\n예스24 : https://t.co/GwQDjppXIA\n하나티켓 : https://t.co/wflerKf14f\n아이겟 : https://t.co/fzzPkZ5V45 (app)"
+	},
+	{
+		"created_at": "Sat May 04 12:11:49 +0000 2019",
+		"id": 1124646875682918400,
+		"id_str": "1124647819946672129",
+		"full_text": "일시:6/1 (토) 2PM\n장소:올림픽공원 핸드볼 경기장\n티켓가:스탠딩 88,000/2층 66,000\n라인업:사이먼도미닉, 스윙스, 이센스, 헤이즈, 비와이, 기리보이, 창모, 수퍼비, Uneducated Kid, ph1, 콜드, XXX, 페노메코, 키드밀리, 영비, 노엘, 한요한, 재키와이, 죠지, 이영지, AQUINAS, Sokodomo, PLUMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124646871270453200,
+		"in_reply_to_status_id_str": "1124646871270453248",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2633,
+			"friends_count": 2392,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일시:6/1 (토) 2PM\n장소:올림픽공원 핸드볼 경기장\n티켓가:스탠딩 88,000/2층 66,000\n라인업:사이먼도미닉, 스윙스, 이센스, 헤이즈, 비와이, 기리보이, 창모, 수퍼비, Uneducated Kid, ph1, 콜드, XXX, 페노메코, 키드밀리, 영비, 노엘, 한요한, 재키와이, 죠지, 이영지, AQUINAS, Sokodomo, PLUMA"
+	},
+	{
 		"created_at": "Sat May 04 11:12:11 +0000 2019",
 		"id": 1124627937955684400,
 		"id_str": "1124632810667614208",
