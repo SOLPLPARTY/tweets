@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 13:11:42 +0000 2019",
+		"id": 1125010792816959500,
+		"id_str": "1125025277355098112",
+		"full_text": "#Repost @ssmadang with @make_repost\n・・・\n#상상마당라운지\n상상마당 홍대 3층 라운지 5월의 전시!\n.\n볼로냐 그림책 워크숍 9기 원화전📚\n오프닝을 시작으로 다양한 그림책이 전시 중이랍니다!\n커버도 따라 그려보는 이벤트에도 참여해보고\n그림책도 구경하기👧🏻👦🏻\n(전시는 5/26 까지에요!!) https://t.co/K71Dz8UmY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Repost",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "상상마당라운지",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SSmadang",
+					"name": "KT&G 상상마당",
+					"id": 110358280,
+					"id_str": "110358280",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125010778522677200,
+					"id_str": "1125010778522677249",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zXV65UcAEVV3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zXV65UcAEVV3d.jpg",
+					"url": "https://t.co/K71Dz8UmY0",
+					"display_url": "pic.twitter.com/K71Dz8UmY0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1125010792816959488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125010778522677200,
+					"id_str": "1125010778522677249",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zXV65UcAEVV3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zXV65UcAEVV3d.jpg",
+					"url": "https://t.co/K71Dz8UmY0",
+					"display_url": "pic.twitter.com/K71Dz8UmY0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1125010792816959488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125010778510151700,
+					"id_str": "1125010778510151680",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zXV62VUAAK1u_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zXV62VUAAK1u_.jpg",
+					"url": "https://t.co/K71Dz8UmY0",
+					"display_url": "pic.twitter.com/K71Dz8UmY0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1125010792816959488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125010778526851100,
+					"id_str": "1125010778526851072",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zXV66UIAAM19H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zXV66UIAAM19H.jpg",
+					"url": "https://t.co/K71Dz8UmY0",
+					"display_url": "pic.twitter.com/K71Dz8UmY0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1125010792816959488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125010778514284500,
+					"id_str": "1125010778514284544",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zXV63UYAAGfDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zXV63UYAAGfDe.jpg",
+					"url": "https://t.co/K71Dz8UmY0",
+					"display_url": "pic.twitter.com/K71Dz8UmY0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1125010792816959488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19715,
+			"friends_count": 2036,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9168,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Repost @ssmadang with @make_repost\n・・・\n#상상마당라운지\n상상마당 홍대 3층 라운지 5월의 전시!\n.\n볼로냐 그림책 워크숍 9기 원화전📚\n오프닝을 시작으로 다양한 그림책이 전시 중이랍니다!\n커버도 따라 그려보는 이벤트에도 참여해보고\n그림책도 구경하기👧🏻👦🏻\n(전시는 5/26 까지에요!!) https://t.co/K71Dz8UmY0"
+	},
+	{
 		"created_at": "Sun May 05 12:01:18 +0000 2019",
 		"id": 1125007561265172500,
 		"id_str": "1125007561265172480",
