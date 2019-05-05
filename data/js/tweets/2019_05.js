@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 04:19:54 +0000 2019",
+		"id": 1124879070133665800,
+		"id_str": "1124891446530707456",
+		"full_text": "검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣\n.⁣\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "6월엔월디페",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "월디페",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "비이피씨탄젠트",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "올해도함께해요",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "월디페는사랑입니다",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "서울랜드",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "seoulland",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124878905461157900,
+					"id_str": "1124878905461157888",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124878905461157888/pu/img/nLJk2XcC_O0hCjtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124878905461157888/pu/img/nLJk2XcC_O0hCjtg.jpg",
+					"url": "https://t.co/wQ4EqDxlh7",
+					"display_url": "pic.twitter.com/wQ4EqDxlh7",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1124879070133665792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124878905461157900,
+					"id_str": "1124878905461157888",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124878905461157888/pu/img/nLJk2XcC_O0hCjtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124878905461157888/pu/img/nLJk2XcC_O0hCjtg.jpg",
+					"url": "https://t.co/wQ4EqDxlh7",
+					"display_url": "pic.twitter.com/wQ4EqDxlh7",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1124879070133665792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32032,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124878905461157888/pu/vid/720x720/Cm2ud3S8nzReBy-u.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124878905461157888/pu/vid/480x480/rPEi0VCR_kBzlZ_e.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1124878905461157888/pu/pl/KJmWsL7T_srFS1ZP.m3u8?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124878905461157888/pu/vid/320x320/uN4O_i9U1XI0rczG.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3417,
+			"friends_count": 283,
+			"listed_count": 87,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2223,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1510898141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣\n.⁣\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7"
+	},
+	{
 		"created_at": "Sun May 05 04:11:49 +0000 2019",
 		"id": 1124882001893314600,
 		"id_str": "1124889408971386881",
