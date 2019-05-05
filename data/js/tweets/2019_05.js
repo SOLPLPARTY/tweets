@@ -1,10 +1,131 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 06:10:03 +0000 2019",
+		"id": 1124919163577864200,
+		"id_str": "1124919163577864198",
+		"full_text": "#루비레코드 #Ruby_Records\n[버스크온X루비레코드] ‘모트(Motte)', Roomie Special Clip #2 (Story.ver)\nhttps://t.co/JOqXChMXKv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOqXChMXKv",
+					"expanded_url": "https://youtu.be/KBCsVPI7TO8",
+					"display_url": "youtu.be/KBCsVPI7TO8",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30241,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[버스크온X루비레코드] ‘모트(Motte)', Roomie Special Clip #2 (Story.ver)\nhttps://t.co/JOqXChMXKv"
+	},
+	{
 		"created_at": "Sun May 05 04:19:54 +0000 2019",
 		"id": 1124879070133665800,
 		"id_str": "1124891446530707456",
-		"full_text": "검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣\n.⁣\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7",
+		"full_text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.\n\n예매처 : https://t.co/pFmo1AWpe0\n.\n문화를 더하다. life with culture.\n㈜비이피씨탄젠트\n.\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -263,7 +384,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣\n.⁣\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7"
+		"text": "검증된 즐거움, 월디페!!!\n6월 최고의 경험을 준비하세요.\n\n예매처 : https://t.co/pFmo1AWpe0\n.\n문화를 더하다. life with culture.\n㈜비이피씨탄젠트\n.\n#6월엔월디페 #월디페 #비이피씨탄젠트 #올해도함께해요 #월디페는사랑입니다 #서울랜드 #seoulland https://t.co/wQ4EqDxlh7"
 	},
 	{
 		"created_at": "Sun May 05 04:11:49 +0000 2019",
