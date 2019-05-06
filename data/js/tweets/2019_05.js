@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 12:11:48 +0000 2019",
+		"id": 1125363828202414100,
+		"id_str": "1125372591882080256",
+		"full_text": "#올댓뮤직 #공개녹화\n190523 19:00 @춘천KBS공개홀\n\n여름인듯 봄 같은 5월의 막바지😎\n이름만 들어도 마음 따뜻한\n세 팀!과 함께 합니다☺\n(feat.힌트인듯 힌트 아닌...)\n\n지금 바로\n홈페이지에서 신청할 수 있습니다💃🕺\n(링크: https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC #190523 https://t.co/I9yCYULRl8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						174,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3ks2tr54w",
+					"expanded_url": "http://me2.do/5HFjlxDr",
+					"display_url": "me2.do/5HFjlxDr",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125363815997042700,
+					"id_str": "1125363815997042689",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D54YbZ-U8AEqGzh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54YbZ-U8AEqGzh.jpg",
+					"url": "https://t.co/I9yCYULRl8",
+					"display_url": "pic.twitter.com/I9yCYULRl8",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1125363828202414081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125363815997042700,
+					"id_str": "1125363815997042689",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D54YbZ-U8AEqGzh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54YbZ-U8AEqGzh.jpg",
+					"url": "https://t.co/I9yCYULRl8",
+					"display_url": "pic.twitter.com/I9yCYULRl8",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1125363828202414081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125363821873254400,
+					"id_str": "1125363821873254402",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D54Ybv3U0AIad8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54Ybv3U0AIad8r.jpg",
+					"url": "https://t.co/I9yCYULRl8",
+					"display_url": "pic.twitter.com/I9yCYULRl8",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1125363828202414081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3779,
+			"friends_count": 961,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7754,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190523 19:00 @춘천KBS공개홀\n\n여름인듯 봄 같은 5월의 막바지😎\n이름만 들어도 마음 따뜻한\n세 팀!과 함께 합니다☺\n(feat.힌트인듯 힌트 아닌...)\n\n지금 바로\n홈페이지에서 신청할 수 있습니다💃🕺\n(링크: https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC #190523 https://t.co/I9yCYULRl8"
+	},
+	{
 		"created_at": "Mon May 06 11:12:01 +0000 2019",
 		"id": 1125357394710618100,
 		"id_str": "1125357543671439362",
@@ -253,7 +502,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Mon May 06 11:11:51 +0000 2019",
 		"id": 1125356422005280800,
 		"id_str": "1125357504823726080",
-		"full_text": "5월 9일 목요일 8시 네스트 나다 #신재혁 #주효 #황인경 \"봄의 향기 NADA​\" https://t.co/kBC9FtUxZ0 https://t.co/BTLM2SCT3z",
+		"full_text": "5월 9일 목요일 8시 네스트 나다 #신재혁 #주효 #황인경 \"봄의 향기 NADA\" https://t.co/kBC9FtUxZ0 https://t.co/BTLM2SCT3z",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -496,7 +745,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "5월 9일 목요일 8시 네스트 나다 #신재혁 #주효 #황인경 \"봄의 향기 NADA​\" https://t.co/kBC9FtUxZ0 https://t.co/BTLM2SCT3z"
+		"text": "5월 9일 목요일 8시 네스트 나다 #신재혁 #주효 #황인경 \"봄의 향기 NADA\" https://t.co/kBC9FtUxZ0 https://t.co/BTLM2SCT3z"
 	},
 	{
 		"created_at": "Mon May 06 09:38:36 +0000 2019",
