@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 07:23:18 +0000 2019",
+		"id": 1125299985132683300,
+		"id_str": "1125299985132683265",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n05/06(월) ~ 05/12(일) 해피로봇 스케줄\nhttps://t.co/r7pc0CNFeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r7pc0CNFeo",
+					"expanded_url": "http://bit.ly/2J5yXSW",
+					"display_url": "bit.ly/2J5yXSW",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30267,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n05/06(월) ~ 05/12(일) 해피로봇 스케줄\nhttps://t.co/r7pc0CNFeo"
+	},
+	{
+		"created_at": "Mon May 06 07:19:56 +0000 2019",
+		"id": 1125295047946018800,
+		"id_str": "1125299140655767552",
+		"full_text": "어반 뮤직 페스티벌 2019 Artist.06\n\n귓가를 사로잡는 몽환적인 목소리와\n섬세한 감성이 돋보이는 아티스트, 오존\n\n더 이상 나만 아는 아티스트가 아닌\n유희열의 스케치북에서도 인정한 스타\n오존의 무대를 어반 뮤직 페스티벌에서 만나요 :)\n\n어반 뮤직 페스티벌 2019\n7월 6일(토) ~ 7일(일) https://t.co/KjDPH8KBZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125294975002894300,
+					"id_str": "1125294975002894337",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D53Z0VSUYAEQ-TJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D53Z0VSUYAEQ-TJ.jpg",
+					"url": "https://t.co/KjDPH8KBZM",
+					"display_url": "pic.twitter.com/KjDPH8KBZM",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1125295047946018816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1458,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125294975002894300,
+					"id_str": "1125294975002894337",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D53Z0VSUYAEQ-TJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D53Z0VSUYAEQ-TJ.jpg",
+					"url": "https://t.co/KjDPH8KBZM",
+					"display_url": "pic.twitter.com/KjDPH8KBZM",
+					"expanded_url": "https://twitter.com/urbanmusiccon/status/1125295047946018816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1458,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 918766987865550800,
+			"id_str": "918766987865550848",
+			"name": "어반 뮤직 콘서트 & 페스티벌",
+			"screen_name": "urbanmusiccon",
+			"location": "",
+			"description": "도시 그리고 당신의 음악, 어반 뮤직 콘서트 & 페스티벌 (문의는 페이스북 메세지로 부탁드립니다.)",
+			"url": "https://t.co/Lyin7L8h9u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lyin7L8h9u",
+							"expanded_url": "https://www.facebook.com/UrbanMusicConcert/",
+							"display_url": "facebook.com/UrbanMusicConc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 74,
+			"listed_count": 1,
+			"created_at": "Fri Oct 13 09:14:54 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116167928557101056/-AQ3Nmgs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/918766987865550848/1554950145",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어반 뮤직 페스티벌 2019 Artist.06\n\n귓가를 사로잡는 몽환적인 목소리와\n섬세한 감성이 돋보이는 아티스트, 오존\n\n더 이상 나만 아는 아티스트가 아닌\n유희열의 스케치북에서도 인정한 스타\n오존의 무대를 어반 뮤직 페스티벌에서 만나요 :)\n\n어반 뮤직 페스티벌 2019\n7월 6일(토) ~ 7일(일) https://t.co/KjDPH8KBZM"
+	},
+	{
+		"created_at": "Mon May 06 07:19:54 +0000 2019",
+		"id": 1125286763537358800,
+		"id_str": "1125299131793182722",
+		"full_text": "다시 생각해 봐도, 친구랑 노는게 제일 재밋음.\n일탈의 일상화, #월디페!!!\n지혜 하고싶은거 다해~\n.\n검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣ https://t.co/zallplyGAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월디페",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125286608830386200,
+					"id_str": "1125286608830386177",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125286608830386177/pu/img/9XJfnUFmjFubIxlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125286608830386177/pu/img/9XJfnUFmjFubIxlg.jpg",
+					"url": "https://t.co/zallplyGAJ",
+					"display_url": "pic.twitter.com/zallplyGAJ",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1125286763537358849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125286608830386200,
+					"id_str": "1125286608830386177",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125286608830386177/pu/img/9XJfnUFmjFubIxlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125286608830386177/pu/img/9XJfnUFmjFubIxlg.jpg",
+					"url": "https://t.co/zallplyGAJ",
+					"display_url": "pic.twitter.com/zallplyGAJ",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1125286763537358849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38272,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125286608830386177/pu/vid/720x720/RbelcAsYcr_YZnN2.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125286608830386177/pu/vid/480x480/YPgOJNLvbnVinAxH.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125286608830386177/pu/vid/320x320/_R2QK6at9SM4Gbxl.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1125286608830386177/pu/pl/fmu7l6_Ut236Y3oh.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3417,
+			"friends_count": 283,
+			"listed_count": 87,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2224,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931403977144467456/YloLL52m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1510898141",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다시 생각해 봐도, 친구랑 노는게 제일 재밋음.\n일탈의 일상화, #월디페!!!\n지혜 하고싶은거 다해~\n.\n검증된 즐거움, 월디페!!!⁣\n6월 최고의 경험을 준비하세요.⁣\n예매처 : https://t.co/pFmo1AWpe0⁣\n.⁣\n\n문화를 더하다. life with culture.⁣\n㈜비이피씨탄젠트⁣ https://t.co/zallplyGAJ"
+	},
+	{
 		"created_at": "Mon May 06 06:46:42 +0000 2019",
 		"id": 1125290776697671700,
 		"id_str": "1125290776697671680",
