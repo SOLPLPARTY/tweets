@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 06:11:47 +0000 2019",
+		"id": 1125633695698657300,
+		"id_str": "1125644378670866432",
+		"full_text": "고막이 잠시도 쉴 수 없게 몰아치는 환상적인 공연!\n\n모두들 기대하시고 신청 버튼 꾹 - 누르러 홈페이지로 가보실까용 💃🏼🖤\nㅤ\n#EBS공감 #스페이스공감 #아마도이자람밴드 #이자람 #Face #아니 #하나비 #신이나타나서물었다 #일레인 #ost신예 #백일몽 #falling #1to2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "이자람",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "Face",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "아니",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "하나비",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "신이나타나서물었다",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "일레인",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "ost신예",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "백일몽",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "falling",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "1to2",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125633693035352000,
+		"in_reply_to_status_id_str": "1125633693035352064",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280273,
+			"friends_count": 20782,
+			"listed_count": 855,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6580,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "고막이 잠시도 쉴 수 없게 몰아치는 환상적인 공연!\n\n모두들 기대하시고 신청 버튼 꾹 - 누르러 홈페이지로 가보실까용 💃🏼🖤\nㅤ\n#EBS공감 #스페이스공감 #아마도이자람밴드 #이자람 #Face #아니 #하나비 #신이나타나서물었다 #일레인 #ost신예 #백일몽 #falling #1to2"
+	},
+	{
+		"created_at": "Tue May 07 06:11:42 +0000 2019",
+		"id": 1125633693035352000,
+		"id_str": "1125644357250572288",
+		"full_text": "[EBS 스페이스 공감 공연 안내]\nㅤ\n&lt;EBS 스페이스 공감&gt;이 준비한\n선물🎁🛍🎊\n2019년 5월 셋째 주 공연 소식입니다 ! \nㅤㅤ\n공연안내 ▶ \n아마도이자람밴드 '파랑새의 꿈' X 일레인 '짙은 순간의 언어'\nㅤ\n공연일정 ▶ \n5월 16일 (목) 저녁 8시\nㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/KQa2ix39Wl\nㅤ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQa2ix39Wl",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4642",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280273,
+			"friends_count": 20782,
+			"listed_count": 855,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6580,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 공연 안내]\nㅤ\n&lt;EBS 스페이스 공감&gt;이 준비한\n선물🎁🛍🎊\n2019년 5월 셋째 주 공연 소식입니다 ! \nㅤㅤ\n공연안내 ▶ \n아마도이자람밴드 '파랑새의 꿈' X 일레인 '짙은 순간의 언어'\nㅤ\n공연일정 ▶ \n5월 16일 (목) 저녁 8시\nㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/KQa2ix39Wl\nㅤ"
+	},
+	{
+		"created_at": "Tue May 07 06:00:23 +0000 2019",
+		"id": 1125641509603291100,
+		"id_str": "1125641509603291136",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 탐쓴 (TOMSSON) - T.I.I (Feat. BORN-KIM)\nhttps://t.co/48igCOI5ko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48igCOI5ko",
+					"expanded_url": "https://youtu.be/6u2UTN1MXNQ",
+					"display_url": "youtu.be/6u2UTN1MXNQ",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30295,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 탐쓴 (TOMSSON) - T.I.I (Feat. BORN-KIM)\nhttps://t.co/48igCOI5ko"
+	},
+	{
 		"created_at": "Tue May 07 04:11:14 +0000 2019",
 		"id": 1125614037700464600,
 		"id_str": "1125614037700464640",
