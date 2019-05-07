@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 01:11:42 +0000 2019",
+		"id": 1125561563249643500,
+		"id_str": "1125568859698880513",
+		"full_text": "2019.6.1(토) pm6. 벨로주 홍대. 공중그늘+보수동쿨러+더 보울스.\n\n어디에도 없는 밴드 공중그늘, 지금 인디 씬에서 가장 새롭고 뜨거운 밴드 보수동쿨러, 대세 웰메이드 록 밴드 The Bowls.\n\n# 100명 한정 예매 1만 (1드링크 포함), 예매 백명 한정 이후 현매(2만) # 예매: https://t.co/GEbIC1Wwws https://t.co/bwruUp8NOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GEbIC1Wwws",
+					"expanded_url": "http://reurl.kr/1FB30366AF",
+					"display_url": "reurl.kr/1FB30366AF",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125561556446502900,
+					"id_str": "1125561556446502912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D57MRajUYAAeU6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57MRajUYAAeU6j.jpg",
+					"url": "https://t.co/bwruUp8NOW",
+					"display_url": "pic.twitter.com/bwruUp8NOW",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1125561563249643520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125561556446502900,
+					"id_str": "1125561556446502912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D57MRajUYAAeU6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D57MRajUYAAeU6j.jpg",
+					"url": "https://t.co/bwruUp8NOW",
+					"display_url": "pic.twitter.com/bwruUp8NOW",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1125561563249643520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9319,
+			"friends_count": 150,
+			"listed_count": 167,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1323,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019.6.1(토) pm6. 벨로주 홍대. 공중그늘+보수동쿨러+더 보울스.\n\n어디에도 없는 밴드 공중그늘, 지금 인디 씬에서 가장 새롭고 뜨거운 밴드 보수동쿨러, 대세 웰메이드 록 밴드 The Bowls.\n\n# 100명 한정 예매 1만 (1드링크 포함), 예매 백명 한정 이후 현매(2만) # 예매: https://t.co/GEbIC1Wwws https://t.co/bwruUp8NOW"
+	},
+	{
 		"created_at": "Mon May 06 21:18:16 +0000 2019",
 		"id": 1125501315944050700,
 		"id_str": "1125510113509376002",
