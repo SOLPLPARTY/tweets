@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 12:11:51 +0000 2019",
+		"id": 1126085664607481900,
+		"id_str": "1126097377042079744",
+		"full_text": "안방1열도 좋으시지요!!! https://t.co/gtVDsjGIeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gtVDsjGIeF",
+					"expanded_url": "https://twitter.com/nomad_612/status/1126048521377931265",
+					"display_url": "twitter.com/nomad_612/stat…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4479,
+			"friends_count": 3691,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7172,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126048521377931300,
+		"quoted_status_id_str": "1126048521377931265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gtVDsjGIeF",
+			"expanded": "https://twitter.com/nomad_612/status/1126048521377931265",
+			"display": "twitter.com/nomad_612/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 08:57:43 +0000 2019",
+			"id": 1126048521377931300,
+			"id_str": "1126048521377931265",
+			"full_text": "정말 가고 싶었지만 이거마저 가면 회사 짤릴거 같아서,\n그리고 짤려도 좋은데 혼자 8시간 운전할 자신이 없어서 포기했던 \n\n위아더나잇 난장 방송 full ver.\n\n뭐. 이렇게 안방 1열 하는거도 나쁘지 않...\n\nhttps://t.co/78WvYadxjX https://t.co/WwyehrrzJO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/78WvYadxjX",
+						"expanded_url": "https://youtu.be/YejXwAae9eY",
+						"display_url": "youtu.be/YejXwAae9eY",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126048260144033800,
+						"id_str": "1126048260144033793",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126048260144033793/pu/img/qEHV9xXHNfLe6p6X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126048260144033793/pu/img/qEHV9xXHNfLe6p6X.jpg",
+						"url": "https://t.co/WwyehrrzJO",
+						"display_url": "pic.twitter.com/WwyehrrzJO",
+						"expanded_url": "https://twitter.com/nomad_612/status/1126048521377931265/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126048260144033800,
+						"id_str": "1126048260144033793",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126048260144033793/pu/img/qEHV9xXHNfLe6p6X.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126048260144033793/pu/img/qEHV9xXHNfLe6p6X.jpg",
+						"url": "https://t.co/WwyehrrzJO",
+						"display_url": "pic.twitter.com/WwyehrrzJO",
+						"expanded_url": "https://twitter.com/nomad_612/status/1126048521377931265/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35466,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1126048260144033793/pu/vid/1280x720/LyBgt1KoI6RlHtea.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1126048260144033793/pu/vid/640x360/Y9a6CsjfqpDRX9UZ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1126048260144033793/pu/pl/-9oeCm0wmeJZbzZc.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1126048260144033793/pu/vid/480x270/LDjyt_DryI65Q_z3.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992295677798465500,
+				"id_str": "992295677798465536",
+				"name": "길날",
+				"screen_name": "nomad_612",
+				"location": "빛나는 그늘",
+				"description": "나는 한없이 바보같고 멍청하지만",
+				"url": "https://t.co/32oybYkQIt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/32oybYkQIt",
+								"expanded_url": "https://www.youtube.com/channel/UCUKBfjroZPKnfQ8on7S_31A",
+								"display_url": "youtube.com/channel/UCUKBf…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Fri May 04 06:51:40 +0000 2018",
+				"favourites_count": 11232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5504,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1119737885798744067/P-nnZlcX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119737885798744067/P-nnZlcX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992295677798465536/1555978756",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안방1열도 좋으시지요!!! https://t.co/gtVDsjGIeF"
+	},
+	{
 		"created_at": "Wed May 08 11:11:42 +0000 2019",
 		"id": 1126074508358475800,
 		"id_str": "1126082241963134977",
