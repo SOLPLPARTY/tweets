@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 00:11:42 +0000 2019",
+		"id": 1125908110520930300,
+		"id_str": "1125916147642195969",
+		"full_text": "2019.6.6(목) pm6. 벨로주 홍대.\n\n지금 가장 주목해야할 두 명의 싱어송라이터.\n김뜻돌 + 최정윤.\n\n예매 : https://t.co/NNUqKou5az (예매 2만, 백명 한정 / 매진 시 현매 불가) https://t.co/f9rSM2rgcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NNUqKou5az",
+					"expanded_url": "http://reurl.kr/1FC3086BTO",
+					"display_url": "reurl.kr/1FC3086BTO",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125908105085145100,
+					"id_str": "1125908105085145088",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D6AHdM1VUAAuNha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6AHdM1VUAAuNha.jpg",
+					"url": "https://t.co/f9rSM2rgcS",
+					"display_url": "pic.twitter.com/f9rSM2rgcS",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1125908110520930305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125908105085145100,
+					"id_str": "1125908105085145088",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D6AHdM1VUAAuNha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6AHdM1VUAAuNha.jpg",
+					"url": "https://t.co/f9rSM2rgcS",
+					"display_url": "pic.twitter.com/f9rSM2rgcS",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1125908110520930305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9321,
+			"friends_count": 150,
+			"listed_count": 167,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1324,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019.6.6(목) pm6. 벨로주 홍대.\n\n지금 가장 주목해야할 두 명의 싱어송라이터.\n김뜻돌 + 최정윤.\n\n예매 : https://t.co/NNUqKou5az (예매 2만, 백명 한정 / 매진 시 현매 불가) https://t.co/f9rSM2rgcS"
+	},
+	{
 		"created_at": "Tue May 07 22:18:16 +0000 2019",
 		"id": 1125877456261533700,
 		"id_str": "1125887601280462848",
