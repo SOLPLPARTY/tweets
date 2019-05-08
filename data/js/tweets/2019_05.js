@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 16:11:59 +0000 2019",
+		"id": 1126143807588786200,
+		"id_str": "1126157809001824257",
+		"full_text": "[방송안내]\nEOS '댄서블한 리듬의 축제' X 로큰롤라디오 '이토록 아름다운, 로큰롤'\nㅤㅤ\n[방송일시]\n5월 9일 (목) 밤 11시 55분 방송 \nㅤ\n#EBS공감 #스페이스공감 #EOS #야광고양이 #Skydive #잊혀진스파이로사는법 #SentimentalAirline #김형중 #로큰롤라디오 #비가오지않는밤에 #이대로 #TAKEMEHOME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "EOS",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "야광고양이",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "Skydive",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "잊혀진스파이로사는법",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "SentimentalAirline",
+					"indices": [
+						134,
+						153
+					]
+				},
+				{
+					"text": "김형중",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "로큰롤라디오",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "비가오지않는밤에",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "이대로",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "TAKEMEHOME",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126143801746006000,
+		"in_reply_to_status_id_str": "1126143801746006016",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280179,
+			"friends_count": 20777,
+			"listed_count": 853,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6587,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[방송안내]\nEOS '댄서블한 리듬의 축제' X 로큰롤라디오 '이토록 아름다운, 로큰롤'\nㅤㅤ\n[방송일시]\n5월 9일 (목) 밤 11시 55분 방송 \nㅤ\n#EBS공감 #스페이스공감 #EOS #야광고양이 #Skydive #잊혀진스파이로사는법 #SentimentalAirline #김형중 #로큰롤라디오 #비가오지않는밤에 #이대로 #TAKEMEHOME"
+	},
+	{
+		"created_at": "Wed May 08 16:11:51 +0000 2019",
+		"id": 1126143801746006000,
+		"id_str": "1126157774906437632",
+		"full_text": "ㅤ\n[EBS 스페이스 공감 방송 안내]\n\n오늘밤 11시 55분! EBS1에서\n\n여러분의 잠을 설치게 할 댄서블한 공연이 펼쳐집니다🕺🏽🎶\n\n잠시도 쉴 틈 없는 리듬의 향연〰️ 어깨춤이 절로 나는 뜨거운 현장 속으로 함께 가보실까요 🎤🤩 https://t.co/D538eQgzSi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126143790933086200,
+					"id_str": "1126143790933086210",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Ddz7CUEAI6-37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Ddz7CUEAI6-37.jpg",
+					"url": "https://t.co/D538eQgzSi",
+					"display_url": "pic.twitter.com/D538eQgzSi",
+					"expanded_url": "https://twitter.com/ebsspace/status/1126143801746006016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126143790933086200,
+					"id_str": "1126143790933086210",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Ddz7CUEAI6-37.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Ddz7CUEAI6-37.jpg",
+					"url": "https://t.co/D538eQgzSi",
+					"display_url": "pic.twitter.com/D538eQgzSi",
+					"expanded_url": "https://twitter.com/ebsspace/status/1126143801746006016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126143790962528300,
+					"id_str": "1126143790962528257",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Ddz7JVUAEUkEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Ddz7JVUAEUkEr.jpg",
+					"url": "https://t.co/D538eQgzSi",
+					"display_url": "pic.twitter.com/D538eQgzSi",
+					"expanded_url": "https://twitter.com/ebsspace/status/1126143801746006016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280179,
+			"friends_count": 20777,
+			"listed_count": 853,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6587,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅤ\n[EBS 스페이스 공감 방송 안내]\n\n오늘밤 11시 55분! EBS1에서\n\n여러분의 잠을 설치게 할 댄서블한 공연이 펼쳐집니다🕺🏽🎶\n\n잠시도 쉴 틈 없는 리듬의 향연〰️ 어깨춤이 절로 나는 뜨거운 현장 속으로 함께 가보실까요 🎤🤩 https://t.co/D538eQgzSi"
+	},
+	{
 		"created_at": "Wed May 08 15:11:52 +0000 2019",
 		"id": 1126129644195835900,
 		"id_str": "1126142679463624711",
