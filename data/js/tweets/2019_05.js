@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 00:11:43 +0000 2019",
+		"id": 1126274218205704200,
+		"id_str": "1126278536514420738",
+		"full_text": "&lt; 5월 14일(화) 난장 공연&gt;\n저녁 7시 30분 #광주MBC 공개홀\n아르헨티나에서 온 재즈 보컬리스트\n매력적이고 섹시한 저음의 #Karen Souza 카렌수자\n재즈의 매력에 포옥 빠져보세요☺️\n_\n신청하라✅\nhttps://t.co/cIJlrH52SX https://t.co/IMWJWOj5Nl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광주MBC",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "Karen",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cIJlrH52SX",
+					"expanded_url": "http://naver.me/G0C41Bpl",
+					"display_url": "naver.me/G0C41Bpl",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126274195514486800,
+					"id_str": "1126274195514486784",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FUad9UcAApi4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FUad9UcAApi4Y.jpg",
+					"url": "https://t.co/IMWJWOj5Nl",
+					"display_url": "pic.twitter.com/IMWJWOj5Nl",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1126274218205704194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126274195514486800,
+					"id_str": "1126274195514486784",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FUad9UcAApi4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FUad9UcAApi4Y.jpg",
+					"url": "https://t.co/IMWJWOj5Nl",
+					"display_url": "pic.twitter.com/IMWJWOj5Nl",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1126274218205704194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4478,
+			"friends_count": 3691,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7173,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; 5월 14일(화) 난장 공연&gt;\n저녁 7시 30분 #광주MBC 공개홀\n아르헨티나에서 온 재즈 보컬리스트\n매력적이고 섹시한 저음의 #Karen Souza 카렌수자\n재즈의 매력에 포옥 빠져보세요☺️\n_\n신청하라✅\nhttps://t.co/cIJlrH52SX https://t.co/IMWJWOj5Nl"
+	},
+	{
 		"created_at": "Wed May 08 18:18:16 +0000 2019",
 		"id": 1126179182680010800,
 		"id_str": "1126189591545950208",
