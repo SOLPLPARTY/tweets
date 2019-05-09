@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 16:11:42 +0000 2019",
+		"id": 1126515366635532300,
+		"id_str": "1126520126902276097",
+		"full_text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆‍♀️🙆‍♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "ChoiNakta",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "KimFeel",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126515347341828100,
+					"id_str": "1126515347341828102",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D6IvvWhV4AYJDuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6IvvWhV4AYJDuA.jpg",
+					"url": "https://t.co/wdCxoPo1B2",
+					"display_url": "pic.twitter.com/wdCxoPo1B2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1126515366635532288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126515347341828100,
+					"id_str": "1126515347341828102",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D6IvvWhV4AYJDuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6IvvWhV4AYJDuA.jpg",
+					"url": "https://t.co/wdCxoPo1B2",
+					"display_url": "pic.twitter.com/wdCxoPo1B2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1126515366635532288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126515358012043300,
+					"id_str": "1126515358012043264",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Ivv-RUcAAfcWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Ivv-RUcAAfcWH.jpg",
+					"url": "https://t.co/wdCxoPo1B2",
+					"display_url": "pic.twitter.com/wdCxoPo1B2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1126515366635532288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3775,
+			"friends_count": 961,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7764,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆‍♀️🙆‍♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2"
+	},
+	{
 		"created_at": "Thu May 09 15:11:02 +0000 2019",
 		"id": 1126504858159214600,
 		"id_str": "1126504858159214593",
