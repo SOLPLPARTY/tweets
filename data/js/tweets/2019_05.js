@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 11:19:54 +0000 2019",
+		"id": 1126436735578062800,
+		"id_str": "1126446693845745670",
+		"full_text": "승객 여러분! 손들어 주세요👋\n❗️첫 날 기준❗️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Dancing for a Borderless World 2019.6.5~6.9 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 31,
+			"listed_count": 3,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 220,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1557368934",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "승객 여러분! 손들어 주세요👋\n❗️첫 날 기준❗️"
+	},
+	{
+		"created_at": "Thu May 09 11:18:30 +0000 2019",
+		"id": 1126441910153822200,
+		"id_str": "1126446338013577216",
+		"full_text": "[스무살, 볼빨간사춘기, 스웨덴세탁소 - 2019 울산대공원 장미 축제]\n.\n향긋한 장미와 로맨틱한 무대 함께 즐겨요🌹\n.\n일시 : 5월 25일(토) 오후 8시\n장소 : 울산 대공원 장미원\n.\n#볼빨간사춘기 #스무살 #스웨덴세탁소 #울산대공원_장미축제 #BOL4 #20yearsofage #sweden_laundry https://t.co/NsXXlbZvTM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "스무살",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "울산대공원_장미축제",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "20yearsofage",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"text": "sweden_laundry",
+					"indices": [
+						161,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126441899273871400,
+					"id_str": "1126441899273871360",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Hs8HJV4AA1wGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Hs8HJV4AA1wGB.jpg",
+					"url": "https://t.co/NsXXlbZvTM",
+					"display_url": "pic.twitter.com/NsXXlbZvTM",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1126441910153822208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126441899273871400,
+					"id_str": "1126441899273871360",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Hs8HJV4AA1wGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Hs8HJV4AA1wGB.jpg",
+					"url": "https://t.co/NsXXlbZvTM",
+					"display_url": "pic.twitter.com/NsXXlbZvTM",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1126441910153822208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7261,
+			"friends_count": 11,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3795,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스무살, 볼빨간사춘기, 스웨덴세탁소 - 2019 울산대공원 장미 축제]\n.\n향긋한 장미와 로맨틱한 무대 함께 즐겨요🌹\n.\n일시 : 5월 25일(토) 오후 8시\n장소 : 울산 대공원 장미원\n.\n#볼빨간사춘기 #스무살 #스웨덴세탁소 #울산대공원_장미축제 #BOL4 #20yearsofage #sweden_laundry https://t.co/NsXXlbZvTM"
+	},
+	{
+		"created_at": "Thu May 09 11:18:21 +0000 2019",
+		"id": 1126437707679330300,
+		"id_str": "1126446304010428416",
+		"full_text": "아마도이자람밴드 [FACE] 발매 기념 단독 공연\n▶️일시 : 5월 12일(일) 낮 3시 30분 / 저녁 7시 30분\n▶️장소 : 웨스트브릿지 라이브홀\n▶️예매 : 멜론 티켓 &gt;&gt; https://t.co/yXxUG6jqbV\n-\n#아마도이자람밴드 #FACE #kindiechart",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "FACE",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "kindiechart",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yXxUG6jqbV",
+					"expanded_url": "http://bit.ly/2Vt8hhq",
+					"display_url": "bit.ly/2Vt8hhq",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126437685697007600,
+		"in_reply_to_status_id_str": "1126437685697007616",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1438,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3502,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마도이자람밴드 [FACE] 발매 기념 단독 공연\n▶️일시 : 5월 12일(일) 낮 3시 30분 / 저녁 7시 30분\n▶️장소 : 웨스트브릿지 라이브홀\n▶️예매 : 멜론 티켓 &gt;&gt; https://t.co/yXxUG6jqbV\n-\n#아마도이자람밴드 #FACE #kindiechart"
+	},
+	{
+		"created_at": "Thu May 09 11:18:16 +0000 2019",
+		"id": 1126437685697007600,
+		"id_str": "1126446282527080448",
+		"full_text": "[#아마도이자람밴드] 정규 2집 [FACE]가 K-indie차트 Top10에 랭크되었습니다👏🏻\n\n이번주 일요일 ‘아마도이자람밴드 [FACE] 발매 기념 단독 공연’에서 아마도이자람밴드를 만날 수 있어요✨ https://t.co/yw7UZ7HKL9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126437676683411500,
+					"id_str": "1126437676683411461",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D6HpGUxUwAU7soM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6HpGUxUwAU7soM.jpg",
+					"url": "https://t.co/yw7UZ7HKL9",
+					"display_url": "pic.twitter.com/yw7UZ7HKL9",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1126437685697007616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126437676683411500,
+					"id_str": "1126437676683411461",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/D6HpGUxUwAU7soM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6HpGUxUwAU7soM.jpg",
+					"url": "https://t.co/yw7UZ7HKL9",
+					"display_url": "pic.twitter.com/yw7UZ7HKL9",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1126437685697007616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1438,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3502,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아마도이자람밴드] 정규 2집 [FACE]가 K-indie차트 Top10에 랭크되었습니다👏🏻\n\n이번주 일요일 ‘아마도이자람밴드 [FACE] 발매 기념 단독 공연’에서 아마도이자람밴드를 만날 수 있어요✨ https://t.co/yw7UZ7HKL9"
+	},
+	{
 		"created_at": "Thu May 09 11:00:33 +0000 2019",
 		"id": 1126441822539132900,
 		"id_str": "1126441822539132928",
