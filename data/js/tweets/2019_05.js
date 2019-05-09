@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 14:11:52 +0000 2019",
+		"id": 1126486289815982100,
+		"id_str": "1126489967566491649",
+		"full_text": "오늘 방송될 #최낙타 #김필 편\n#올댓뮤직_본방사수\n해시태그와 함께 인증샷을 남겨주세요!\n추첨을 통해 최낙타님, 김필님의 싸인 즉석사진을 드립니다♥\n10분 늦게! 11시 50분에 만나요💕\n\n#올댓뮤직_비하인드\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel\n#MC와니 #육중완 #본방사수이벤트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "김필",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "올댓뮤직_비하인드",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "ChoiNakta",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "KimFeel",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1126485972646940700,
+		"in_reply_to_status_id_str": "1126485972646940672",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3776,
+			"friends_count": 961,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7763,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 방송될 #최낙타 #김필 편\n#올댓뮤직_본방사수\n해시태그와 함께 인증샷을 남겨주세요!\n추첨을 통해 최낙타님, 김필님의 싸인 즉석사진을 드립니다♥\n10분 늦게! 11시 50분에 만나요💕\n\n#올댓뮤직_비하인드\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel\n#MC와니 #육중완 #본방사수이벤트"
+	},
+	{
+		"created_at": "Thu May 09 14:11:42 +0000 2019",
+		"id": 1126485972646940700,
+		"id_str": "1126489929255669760",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시 50분 KBS1TV\n#최낙타 #김필\n\n오늘 녹화 함께 해주셔서 감사합니다😍❣\n이제 올댓뮤직 끝났으니 또 올댓뮤직!\n본방사수 준비되셨나요?!\n\n서윗한 김필님의 비하인드 영상 살짜쿵 놓고갑니다...💕\n갑작스러운 포토타임에도 흔쾌히 응해주신 김필님 감사합니다🙏 https://t.co/qe6b4KC7aP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "김필",
+					"indices": [
+						37,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126485787359400000,
+					"id_str": "1126485787359399942",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126485787359399942/pu/img/777aUAoWt1F69lir.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126485787359399942/pu/img/777aUAoWt1F69lir.jpg",
+					"url": "https://t.co/qe6b4KC7aP",
+					"display_url": "pic.twitter.com/qe6b4KC7aP",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1126485972646940672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126485787359400000,
+					"id_str": "1126485787359399942",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126485787359399942/pu/img/777aUAoWt1F69lir.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126485787359399942/pu/img/777aUAoWt1F69lir.jpg",
+					"url": "https://t.co/qe6b4KC7aP",
+					"display_url": "pic.twitter.com/qe6b4KC7aP",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1126485972646940672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44978,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126485787359399942/pu/vid/640x360/tIkcpSWOH0eB-nAH.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126485787359399942/pu/vid/1280x720/PeuC0rxJT54Itcu6.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126485787359399942/pu/vid/320x180/TAE5gTDzs4Wxtjfv.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1126485787359399942/pu/pl/S7-z5YGyhEPAvUKm.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3776,
+			"friends_count": 961,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7763,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시 50분 KBS1TV\n#최낙타 #김필\n\n오늘 녹화 함께 해주셔서 감사합니다😍❣\n이제 올댓뮤직 끝났으니 또 올댓뮤직!\n본방사수 준비되셨나요?!\n\n서윗한 김필님의 비하인드 영상 살짜쿵 놓고갑니다...💕\n갑작스러운 포토타임에도 흔쾌히 응해주신 김필님 감사합니다🙏 https://t.co/qe6b4KC7aP"
+	},
+	{
 		"created_at": "Thu May 09 12:51:50 +0000 2019",
 		"id": 1126469827940556800,
 		"id_str": "1126469827940556800",
