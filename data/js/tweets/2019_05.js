@@ -1,10 +1,254 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 22:18:16 +0000 2019",
+		"id": 1126599897967280100,
+		"id_str": "1126612377422708738",
+		"full_text": "#20190510\n#나인 #나인NINE9 #디어클라우드\n6월에 #마인드유(전:#어쿠루브) 님들과 \n#군포 에서 공연 합니다\n#티켓오픈이잠시후10시 #인터파크\n#군포문화예술회관 #dearcloud https://t.co/tLHPjRagMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "마인드유",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "어쿠루브",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "군포",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "티켓오픈이잠시후10시",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "군포문화예술회관",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "dearcloud",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126599880355377200,
+					"id_str": "1126599880355377153",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D6J8n0iUcAEbaj-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6J8n0iUcAEbaj-.jpg",
+					"url": "https://t.co/tLHPjRagMi",
+					"display_url": "pic.twitter.com/tLHPjRagMi",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1126599897967280128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126599880355377200,
+					"id_str": "1126599880355377153",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D6J8n0iUcAEbaj-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6J8n0iUcAEbaj-.jpg",
+					"url": "https://t.co/tLHPjRagMi",
+					"display_url": "pic.twitter.com/tLHPjRagMi",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1126599897967280128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2875,
+			"friends_count": 397,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 12667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190510\n#나인 #나인NINE9 #디어클라우드\n6월에 #마인드유(전:#어쿠루브) 님들과 \n#군포 에서 공연 합니다\n#티켓오픈이잠시후10시 #인터파크\n#군포문화예술회관 #dearcloud https://t.co/tLHPjRagMi"
+	},
+	{
 		"created_at": "Thu May 09 16:11:42 +0000 2019",
 		"id": 1126515366635532300,
 		"id_str": "1126520126902276097",
-		"full_text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆‍♀️🙆‍♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2",
+		"full_text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆♀️🙆♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -244,7 +488,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆‍♀️🙆‍♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2"
+		"text": "#올댓뮤직\n\n올댓뮤직 끝! 목요일도 끄읕!!!\n아쉽게도 방송으로 만나지 못한 곡들은\n곧!! 올댓뮤직 유튜브 채널로 만날 수 있습니다🙆♀️🙆♂️\n(방영분은 유튜브 KBS KPOP 채널을 통해\n다시 만나볼 수 있습니다😍)\n\n잘자요 여러부운🌃\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#ChoiNakta #KimFeel https://t.co/wdCxoPo1B2"
 	},
 	{
 		"created_at": "Thu May 09 15:11:02 +0000 2019",
