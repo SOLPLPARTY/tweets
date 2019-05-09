@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 07:11:50 +0000 2019",
+		"id": 1126384265598505000,
+		"id_str": "1126384265598504960",
+		"full_text": "【 #볼빨간사춘기 】 #BOL4\n강화 봄 콘서트 (2019.04.27 ~ 2019.04.27) at 강화공설운동장\n▶ https://t.co/kBsyKCU1Mv\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/ERS2YPZfwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBsyKCU1Mv",
+					"expanded_url": "http://bit.ly/2VpSB2A",
+					"display_url": "bit.ly/2VpSB2A",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126384264805744600,
+					"id_str": "1126384264805744640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6G4hWBWAAAIlL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6G4hWBWAAAIlL3.jpg",
+					"url": "https://t.co/ERS2YPZfwl",
+					"display_url": "pic.twitter.com/ERS2YPZfwl",
+					"expanded_url": "https://twitter.com/solplparty/status/1126384265598504960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126384264805744600,
+					"id_str": "1126384264805744640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6G4hWBWAAAIlL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6G4hWBWAAAIlL3.jpg",
+					"url": "https://t.co/ERS2YPZfwl",
+					"display_url": "pic.twitter.com/ERS2YPZfwl",
+					"expanded_url": "https://twitter.com/solplparty/status/1126384265598504960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #볼빨간사춘기 】 #BOL4\n강화 봄 콘서트 (2019.04.27 ~ 2019.04.27) at 강화공설운동장\n▶ https://t.co/kBsyKCU1Mv\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/ERS2YPZfwl"
+	},
+	{
+		"created_at": "Thu May 09 07:11:44 +0000 2019",
+		"id": 1126383740593233900,
+		"id_str": "1126384240365535238",
+		"full_text": "[알림]\n오늘 5시부터 9시까지 외근으로 인해 씬디티켓라운지의 문이 닫혀있을 예정입니다. 혹시 방문을 하시려 하는 분들은 참고해주시고 급하신 용무가 있는 분은 아래 전화번호로 연락 부탁드립니다. 감사합니다 :)\n📞 02-322-2218",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2399,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8339,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[알림]\n오늘 5시부터 9시까지 외근으로 인해 씬디티켓라운지의 문이 닫혀있을 예정입니다. 혹시 방문을 하시려 하는 분들은 참고해주시고 급하신 용무가 있는 분은 아래 전화번호로 연락 부탁드립니다. 감사합니다 :)\n📞 02-322-2218"
+	},
+	{
+		"created_at": "Thu May 09 07:11:42 +0000 2019",
+		"id": 1126375964215132200,
+		"id_str": "1126384231532384256",
+		"full_text": "&lt; I LUV SATURDAY Party&gt;\n🎈일시 : 5/11(토) 8PM\n🎈장소 : #고인물\n🎈라인업: 베란다스위트룸, 원버튼, 투 데이 올드 스니커즈\n🎈티켓가 : 10,000원 ( 예매 시 5,000원 드링크🥤 쿠폰 증정)\n▶️ 예매처 RSVP:  https://t.co/4bpsb27d4V https://t.co/q1mZR6yxq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4bpsb27d4V",
+					"expanded_url": "https://bit.ly/hippy10",
+					"display_url": "bit.ly/hippy10",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126374723221221400,
+					"id_str": "1126374723221221377",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Gv182UcAEXnsy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Gv182UcAEXnsy.jpg",
+					"url": "https://t.co/q1mZR6yxq8",
+					"display_url": "pic.twitter.com/q1mZR6yxq8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1126375964215132160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126374723221221400,
+					"id_str": "1126374723221221377",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Gv182UcAEXnsy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Gv182UcAEXnsy.jpg",
+					"url": "https://t.co/q1mZR6yxq8",
+					"display_url": "pic.twitter.com/q1mZR6yxq8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1126375964215132160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2399,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8339,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; I LUV SATURDAY Party&gt;\n🎈일시 : 5/11(토) 8PM\n🎈장소 : #고인물\n🎈라인업: 베란다스위트룸, 원버튼, 투 데이 올드 스니커즈\n🎈티켓가 : 10,000원 ( 예매 시 5,000원 드링크🥤 쿠폰 증정)\n▶️ 예매처 RSVP:  https://t.co/4bpsb27d4V https://t.co/q1mZR6yxq8"
+	},
+	{
+		"created_at": "Thu May 09 07:02:29 +0000 2019",
+		"id": 1126381911847387100,
+		"id_str": "1126381911847387136",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] Alone, after all - 방 (feat. 백경호 of BLOCS) / Room (feat. BEKK of BLOCS)\nhttps://t.co/jU3Tc8q9Pp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jU3Tc8q9Pp",
+					"expanded_url": "https://youtu.be/OYzWQdL9Kfk",
+					"display_url": "youtu.be/OYzWQdL9Kfk",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 304,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30534,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] Alone, after all - 방 (feat. 백경호 of BLOCS) / Room (feat. BEKK of BLOCS)\nhttps://t.co/jU3Tc8q9Pp"
+	},
+	{
 		"created_at": "Thu May 09 06:11:50 +0000 2019",
 		"id": 1126365031342305300,
 		"id_str": "1126369165969895425",
@@ -224,7 +873,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Thu May 09 06:11:42 +0000 2019",
 		"id": 1126354465961852900,
 		"id_str": "1126369131903750144",
-		"full_text": "#올댓뮤직 #공개녹화\n190509 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n올댓뮤직은 리허설 중🎤\n오늘 녹화 오시는 분들께\n선착순으로 야광봉을 나눠드립니다🙋‍♀️🙋‍♂️\n\n현장에 오지 못하는 분들은\n페이스북/MyK 생중계로 함께 해주세요✨\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#190509 #DAYBREAK #MONNI https://t.co/gi4onaOr8V",
+		"full_text": "#올댓뮤직 #공개녹화\n190509 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n올댓뮤직은 리허설 중🎤\n오늘 녹화 오시는 분들께\n선착순으로 야광봉을 나눠드립니다🙋♀️🙋♂️\n\n현장에 오지 못하는 분들은\n페이스북/MyK 생중계로 함께 해주세요✨\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#190509 #DAYBREAK #MONNI https://t.co/gi4onaOr8V",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -449,7 +1098,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화\n190509 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n올댓뮤직은 리허설 중🎤\n오늘 녹화 오시는 분들께\n선착순으로 야광봉을 나눠드립니다🙋‍♀️🙋‍♂️\n\n현장에 오지 못하는 분들은\n페이스북/MyK 생중계로 함께 해주세요✨\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#190509 #DAYBREAK #MONNI https://t.co/gi4onaOr8V"
+		"text": "#올댓뮤직 #공개녹화\n190509 19:00 @춘천KBS공개홀\n\n#몽니 #데이브레이크\n\n올댓뮤직은 리허설 중🎤\n오늘 녹화 오시는 분들께\n선착순으로 야광봉을 나눠드립니다🙋♀️🙋♂️\n\n현장에 오지 못하는 분들은\n페이스북/MyK 생중계로 함께 해주세요✨\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#190509 #DAYBREAK #MONNI https://t.co/gi4onaOr8V"
 	},
 	{
 		"created_at": "Thu May 09 05:36:30 +0000 2019",
