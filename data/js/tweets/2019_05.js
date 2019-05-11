@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 16:11:42 +0000 2019",
+		"id": 1127244573359595500,
+		"id_str": "1127244902935465984",
+		"full_text": "#단편상상극장\n첫 장편 &lt;김군&gt;으로 서울독립영화제 대상을 수상한 강상우 감독의 전작이 상영됩니다.\n❗️5/14(화) 상영 후 강상우 감독의 GV진행\n• 상영작 : &lt;어느 게이 소년의 죽음&gt; &lt;백서&gt; &lt;클린 미&gt; &lt;안마도&gt;&lt;우리는 없는 것처럼&gt;\n• 매주 화요일 저녁 8시\n• 상상마당 홍대 시네마 https://t.co/tdV6iFnoWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단편상상극장",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127244560973742100,
+					"id_str": "1127244560973742080",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TG9K_UwAALw5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TG9K_UwAALw5X.jpg",
+					"url": "https://t.co/tdV6iFnoWd",
+					"display_url": "pic.twitter.com/tdV6iFnoWd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1127244573359595520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127244560973742100,
+					"id_str": "1127244560973742080",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TG9K_UwAALw5X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TG9K_UwAALw5X.jpg",
+					"url": "https://t.co/tdV6iFnoWd",
+					"display_url": "pic.twitter.com/tdV6iFnoWd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1127244573359595520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127244560990490600,
+					"id_str": "1127244560990490624",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D6TG9LDUUAANkI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6TG9LDUUAANkI3.jpg",
+					"url": "https://t.co/tdV6iFnoWd",
+					"display_url": "pic.twitter.com/tdV6iFnoWd",
+					"expanded_url": "https://twitter.com/SSmadang/status/1127244573359595520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19689,
+			"friends_count": 2035,
+			"listed_count": 325,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9170,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#단편상상극장\n첫 장편 &lt;김군&gt;으로 서울독립영화제 대상을 수상한 강상우 감독의 전작이 상영됩니다.\n❗️5/14(화) 상영 후 강상우 감독의 GV진행\n• 상영작 : &lt;어느 게이 소년의 죽음&gt; &lt;백서&gt; &lt;클린 미&gt; &lt;안마도&gt;&lt;우리는 없는 것처럼&gt;\n• 매주 화요일 저녁 8시\n• 상상마당 홍대 시네마 https://t.co/tdV6iFnoWd"
+	},
+	{
 		"created_at": "Sat May 11 15:11:11 +0000 2019",
 		"id": 1127229671261855700,
 		"id_str": "1127229671261855744",
