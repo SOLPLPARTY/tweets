@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 01:18:19 +0000 2019",
+		"id": 1127009904219189200,
+		"id_str": "1127020076136267776",
+		"full_text": "✦ 민트스퀘어 / 인생 꿀팁 클래스\n15:00-15:30 정욱재(노리플라이) / 반려나무 분갈이 클래스\n17:00-17:30 LambC(램씨) / with ARTIST\n⠀\n#뷰티풀민트라이프 #뷰민라 #BML2019 #BML #beautifulmintlife\n#LambC #SURL #노리플라이 #데이브레이크 #램씨 #설 https://t.co/hxIFalFGvr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티풀민트라이프",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "뷰민라",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "BML2019",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "BML",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "beautifulmintlife",
+					"indices": [
+						125,
+						143
+					]
+				},
+				{
+					"text": "LambC",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "노리플라이",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "램씨",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						176,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127009868689199100,
+					"id_str": "1127009868689199104",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PxgSGUUAA35qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PxgSGUUAA35qq.jpg",
+					"url": "https://t.co/hxIFalFGvr",
+					"display_url": "pic.twitter.com/hxIFalFGvr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127009904219189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127009868689199100,
+					"id_str": "1127009868689199104",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PxgSGUUAA35qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PxgSGUUAA35qq.jpg",
+					"url": "https://t.co/hxIFalFGvr",
+					"display_url": "pic.twitter.com/hxIFalFGvr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127009904219189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127009878747172900,
+					"id_str": "1127009878747172864",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Pxg3kU0AAh9ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Pxg3kU0AAh9ky.jpg",
+					"url": "https://t.co/hxIFalFGvr",
+					"display_url": "pic.twitter.com/hxIFalFGvr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127009904219189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127009886884192300,
+					"id_str": "1127009886884192256",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PxhV4V4AAbv19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PxhV4V4AAbv19.jpg",
+					"url": "https://t.co/hxIFalFGvr",
+					"display_url": "pic.twitter.com/hxIFalFGvr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127009904219189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127009893729181700,
+					"id_str": "1127009893729181696",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D6PxhvYUIAAXIXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6PxhvYUIAAXIXY.jpg",
+					"url": "https://t.co/hxIFalFGvr",
+					"display_url": "pic.twitter.com/hxIFalFGvr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127009904219189248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127009863073058800,
+		"in_reply_to_status_id_str": "1127009863073058816",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13971,
+			"friends_count": 2816,
+			"listed_count": 307,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12643,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✦ 민트스퀘어 / 인생 꿀팁 클래스\n15:00-15:30 정욱재(노리플라이) / 반려나무 분갈이 클래스\n17:00-17:30 LambC(램씨) / with ARTIST\n⠀\n#뷰티풀민트라이프 #뷰민라 #BML2019 #BML #beautifulmintlife\n#LambC #SURL #노리플라이 #데이브레이크 #램씨 #설 https://t.co/hxIFalFGvr"
+	},
+	{
 		"created_at": "Sat May 11 00:53:29 +0000 2019",
 		"id": 1127013824769527800,
 		"id_str": "1127013824769527810",
