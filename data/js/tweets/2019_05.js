@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 11:11:46 +0000 2019",
+		"id": 1127156056763666400,
+		"id_str": "1127169423167692801",
+		"full_text": "[ROCK OUT vol.1]\n일시 : 5/19(일) 5PM \n장소 : 프리즘플러스 \n라인업 : 아레스, #어비스 ,미디안, #묘리 \n티켓가 : 예매 25,000 / 현매 : 35,000\n예매 링크 : https://t.co/Ybnx07E4xP https://t.co/aiLT2h00re",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어비스",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "묘리",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ybnx07E4xP",
+					"expanded_url": "https://iget.page.link/8s3v",
+					"display_url": "iget.page.link/8s3v",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1127154592016240600,
+					"id_str": "1127154592016240640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6R1ISgUEAAc46K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6R1ISgUEAAc46K.jpg",
+					"url": "https://t.co/aiLT2h00re",
+					"display_url": "pic.twitter.com/aiLT2h00re",
+					"expanded_url": "https://twitter.com/xindieticket/status/1127156056763666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127154592016240600,
+					"id_str": "1127154592016240640",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6R1ISgUEAAc46K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6R1ISgUEAAc46K.jpg",
+					"url": "https://t.co/aiLT2h00re",
+					"display_url": "pic.twitter.com/aiLT2h00re",
+					"expanded_url": "https://twitter.com/xindieticket/status/1127156056763666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127154592003739600,
+					"id_str": "1127154592003739649",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6R1ISdVUAEwB0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6R1ISdVUAEwB0l.jpg",
+					"url": "https://t.co/aiLT2h00re",
+					"display_url": "pic.twitter.com/aiLT2h00re",
+					"expanded_url": "https://twitter.com/xindieticket/status/1127156056763666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127154592012091400,
+					"id_str": "1127154592012091393",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6R1ISfUwAEZkOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6R1ISfUwAEZkOC.jpg",
+					"url": "https://t.co/aiLT2h00re",
+					"display_url": "pic.twitter.com/aiLT2h00re",
+					"expanded_url": "https://twitter.com/xindieticket/status/1127156056763666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127154649180467200,
+					"id_str": "1127154649180467200",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D6R1LndU8AA4YhE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6R1LndU8AA4YhE.jpg",
+					"url": "https://t.co/aiLT2h00re",
+					"display_url": "pic.twitter.com/aiLT2h00re",
+					"expanded_url": "https://twitter.com/xindieticket/status/1127156056763666432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1127156054469464000,
+		"in_reply_to_status_id_str": "1127156054469464065",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2629,
+			"friends_count": 2400,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8349,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ROCK OUT vol.1]\n일시 : 5/19(일) 5PM \n장소 : 프리즘플러스 \n라인업 : 아레스, #어비스 ,미디안, #묘리 \n티켓가 : 예매 25,000 / 현매 : 35,000\n예매 링크 : https://t.co/Ybnx07E4xP https://t.co/aiLT2h00re"
+	},
+	{
 		"created_at": "Sat May 11 10:11:44 +0000 2019",
 		"id": 1127149446087622700,
 		"id_str": "1127154315330772992",
