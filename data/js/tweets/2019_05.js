@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 09:18:16 +0000 2019",
+		"id": 1127501586815537200,
+		"id_str": "1127503247197917185",
+		"full_text": "LambC(램씨) EP &lt;Green is the new Black&gt; Preview\n\nTrack List\n1. Childish\n2. Fallin'\n3. 사랑해줄래 (Treat You Right)\n4. Four Seasons\n5. 밀당 (Push and Pull)\n6. Boston\n\n2019.05.17. FRI 12PM Release.\n\n#램씨 #LambC #GreenisthenewBlack #Childish #Fallin #사랑해줄래 https://t.co/wc1bhHNpxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "램씨",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "LambC",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "GreenisthenewBlack",
+					"indices": [
+						205,
+						224
+					]
+				},
+				{
+					"text": "Childish",
+					"indices": [
+						225,
+						234
+					]
+				},
+				{
+					"text": "Fallin",
+					"indices": [
+						235,
+						242
+					]
+				},
+				{
+					"text": "사랑해줄래",
+					"indices": [
+						243,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127501509845893100,
+					"id_str": "1127501509845893120",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127501509845893120/pu/img/bQEH3MrNpBNVI4Tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127501509845893120/pu/img/bQEH3MrNpBNVI4Tq.jpg",
+					"url": "https://t.co/wc1bhHNpxE",
+					"display_url": "pic.twitter.com/wc1bhHNpxE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127501586815537153/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127501509845893100,
+					"id_str": "1127501509845893120",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127501509845893120/pu/img/bQEH3MrNpBNVI4Tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127501509845893120/pu/img/bQEH3MrNpBNVI4Tq.jpg",
+					"url": "https://t.co/wc1bhHNpxE",
+					"display_url": "pic.twitter.com/wc1bhHNpxE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127501586815537153/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59542,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127501509845893120/pu/vid/480x480/LaOBZRw6fYAl-_QA.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127501509845893120/pu/vid/320x320/DBzXrL29bVOmhdoK.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1127501509845893120/pu/pl/Dmw-tpnrS2ESEM11.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13974,
+			"friends_count": 2816,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12646,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LambC(램씨) EP &lt;Green is the new Black&gt; Preview\n\nTrack List\n1. Childish\n2. Fallin'\n3. 사랑해줄래 (Treat You Right)\n4. Four Seasons\n5. 밀당 (Push and Pull)\n6. Boston\n\n2019.05.17. FRI 12PM Release.\n\n#램씨 #LambC #GreenisthenewBlack #Childish #Fallin #사랑해줄래 https://t.co/wc1bhHNpxE"
+	},
+	{
 		"created_at": "Sun May 12 09:04:15 +0000 2019",
 		"id": 1127499717892563000,
 		"id_str": "1127499717892562944",
