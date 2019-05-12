@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 12:11:42 +0000 2019",
+		"id": 1127546630633168900,
+		"id_str": "1127546894002135042",
+		"full_text": "[채용공고]\n10cm, 치즈 등 다양한 뮤지션과 함께하는 '매직스트로베리(주)'에서 인재를 모집한다고 합니다🎶✨\n5개 분야의 모집을 진행 중이니, 관심 있는 분들의 많은 지원 부탁드립니다!🙏\n\n📍 접수 기간 : ~5/31(금) 자정\n📍 모집 분야 : A&amp;R, 매니저, 디자이너, 마케터, 앱/웹 개발자 https://t.co/t64LboFoRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t64LboFoRr",
+					"expanded_url": "https://twitter.com/msbsound/status/1126793650426408966",
+					"display_url": "twitter.com/msbsound/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2631,
+			"friends_count": 2403,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8351,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126793650426409000,
+		"quoted_status_id_str": "1126793650426408966",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t64LboFoRr",
+			"expanded": "https://twitter.com/msbsound/status/1126793650426408966",
+			"display": "twitter.com/msbsound/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 10:18:35 +0000 2019",
+			"id": 1126793650426409000,
+			"id_str": "1126793650426408966",
+			"full_text": "🍓2019 매직스트로베리㈜ 채용 공고🍓\n⠀\n[접수 기간]\n2019.5.10 – 2019.5.31 자정까지\n⠀\n[지원 접수]\n-매직스트로베리 사운드 홈페이지 (https://t.co/sB8R7TOBV9)\n-매직스트로베리 사운드 블로그 (https://t.co/6bVePb2W9H)\n⠀\n[문의]\nworkwithmsb@gmail.com\n(DM 이나 전화로는 받지 않습니다.) https://t.co/ih00eB21tk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sB8R7TOBV9",
+						"expanded_url": "http://www.msbsound.com/news/",
+						"display_url": "msbsound.com/news/",
+						"indices": [
+							88,
+							111
+						]
+					},
+					{
+						"url": "https://t.co/6bVePb2W9H",
+						"expanded_url": "https://blog.naver.com/msbsound",
+						"display_url": "blog.naver.com/msbsound",
+						"indices": [
+							131,
+							154
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126793637558345700,
+						"id_str": "1126793637558345731",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ms1-XV4AMCgk8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ms1-XV4AMCgk8.jpg",
+						"url": "https://t.co/ih00eB21tk",
+						"display_url": "pic.twitter.com/ih00eB21tk",
+						"expanded_url": "https://twitter.com/msbsound/status/1126793650426408966/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126793637558345700,
+						"id_str": "1126793637558345731",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Ms1-XV4AMCgk8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Ms1-XV4AMCgk8.jpg",
+						"url": "https://t.co/ih00eB21tk",
+						"display_url": "pic.twitter.com/ih00eB21tk",
+						"expanded_url": "https://twitter.com/msbsound/status/1126793650426408966/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263751129,
+				"id_str": "263751129",
+				"name": "매스사 김딸기",
+				"screen_name": "msbsound",
+				"location": "Republic of Korea",
+				"description": "매직스트로베리사운드. Magicstrawberry Sound. Music label based in Korea. 🍓매스사 = 김딸기 / 아티스트 이름 소개할려고 쓰다가 너무 많아서 포기한 딸기",
+				"url": "https://t.co/0TB8b45bgt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0TB8b45bgt",
+								"expanded_url": "http://www.msbsound.com",
+								"display_url": "msbsound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8284,
+				"friends_count": 6935,
+				"listed_count": 109,
+				"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+				"favourites_count": 34,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5288,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972070044136910848/8YSk7BLS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972070044136910848/8YSk7BLS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1520599757",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[채용공고]\n10cm, 치즈 등 다양한 뮤지션과 함께하는 '매직스트로베리(주)'에서 인재를 모집한다고 합니다🎶✨\n5개 분야의 모집을 진행 중이니, 관심 있는 분들의 많은 지원 부탁드립니다!🙏\n\n📍 접수 기간 : ~5/31(금) 자정\n📍 모집 분야 : A&amp;R, 매니저, 디자이너, 마케터, 앱/웹 개발자 https://t.co/t64LboFoRr"
+	},
+	{
 		"created_at": "Sun May 12 10:19:54 +0000 2019",
 		"id": 1127509030191206400,
 		"id_str": "1127518757524508673",
