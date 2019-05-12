@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 10:19:54 +0000 2019",
+		"id": 1127509030191206400,
+		"id_str": "1127518757524508673",
+		"full_text": "위대한 사상가이자 철학가 석가의 탄신일을 기념해, FV 스탭들이 '누구나 열반(Nirvana)에 오를 수 있는 명상 음악'을 주제로 플레이리스트를 준비했다. 얼마 남지 않은 주말, 명상과 함께 마무리 해보는 건 어떨까.\nhttps://t.co/3nJnp4QLss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3nJnp4QLss",
+					"expanded_url": "https://www.fakevirgin.com/blog/meditation-2hrs-edition",
+					"display_url": "fakevirgin.com/blog/meditatio…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "7/27-7/28 HOLIDAY LAND FESTIVAL",
+			"url": "https://t.co/N8Zx2arwpy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2arwpy",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 60,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위대한 사상가이자 철학가 석가의 탄신일을 기념해, FV 스탭들이 '누구나 열반(Nirvana)에 오를 수 있는 명상 음악'을 주제로 플레이리스트를 준비했다. 얼마 남지 않은 주말, 명상과 함께 마무리 해보는 건 어떨까.\nhttps://t.co/3nJnp4QLss"
+	},
+	{
 		"created_at": "Sun May 12 09:18:16 +0000 2019",
 		"id": 1127501586815537200,
 		"id_str": "1127503247197917185",
