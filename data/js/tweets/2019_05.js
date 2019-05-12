@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 01:18:16 +0000 2019",
+		"id": 1127378448450588700,
+		"id_str": "1127382451347755008",
+		"full_text": "🔹BML2019 (일) 출연\n16:40-17:30 쏜애플 / CBH\n19:20-20:20 소란 / CBH\n\n#뷰티풀민트라이프 #뷰민라 #BML2019 #BML #beautifulmintlife\n#쏜애플 #소란 https://t.co/5rSdGqVus6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티풀민트라이프",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "뷰민라",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "BML2019",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "BML",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "beautifulmintlife",
+					"indices": [
+						89,
+						107
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127378419916759000,
+					"id_str": "1127378419916759040",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VAsyaUYAAFZ-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VAsyaUYAAFZ-B.jpg",
+					"url": "https://t.co/5rSdGqVus6",
+					"display_url": "pic.twitter.com/5rSdGqVus6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127378448450588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127378419916759000,
+					"id_str": "1127378419916759040",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VAsyaUYAAFZ-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VAsyaUYAAFZ-B.jpg",
+					"url": "https://t.co/5rSdGqVus6",
+					"display_url": "pic.twitter.com/5rSdGqVus6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127378448450588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127378433300807700,
+					"id_str": "1127378433300807680",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VAtkRUwAAmgFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VAtkRUwAAmgFI.jpg",
+					"url": "https://t.co/5rSdGqVus6",
+					"display_url": "pic.twitter.com/5rSdGqVus6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127378448450588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127378440938590200,
+					"id_str": "1127378440938590209",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VAuAuUEAEjnqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VAuAuUEAEjnqA.jpg",
+					"url": "https://t.co/5rSdGqVus6",
+					"display_url": "pic.twitter.com/5rSdGqVus6",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1127378448450588672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13971,
+			"friends_count": 2816,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12644,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔹BML2019 (일) 출연\n16:40-17:30 쏜애플 / CBH\n19:20-20:20 소란 / CBH\n\n#뷰티풀민트라이프 #뷰민라 #BML2019 #BML #beautifulmintlife\n#쏜애플 #소란 https://t.co/5rSdGqVus6"
+	},
+	{
 		"created_at": "Sat May 11 16:51:12 +0000 2019",
 		"id": 1127254840781025300,
 		"id_str": "1127254840781025287",
