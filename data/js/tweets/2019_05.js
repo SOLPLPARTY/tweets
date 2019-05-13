@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 08:11:58 +0000 2019",
+		"id": 1127844649509347300,
+		"id_str": "1127848948645924865",
+		"full_text": "아카시아꽃향기ㅡ가득한 봄~ #클럽빵 공연에서 만나요~ #라이브 #홍대앞 #인디 https://t.co/NkMTzIlyJJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "홍대앞",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						40,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127844637668827100,
+					"id_str": "1127844637668827137",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bouO4UYAE76qL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bouO4UYAE76qL.jpg",
+					"url": "https://t.co/NkMTzIlyJJ",
+					"display_url": "pic.twitter.com/NkMTzIlyJJ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1127844649509347328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127844637668827100,
+					"id_str": "1127844637668827137",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bouO4UYAE76qL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bouO4UYAE76qL.jpg",
+					"url": "https://t.co/NkMTzIlyJJ",
+					"display_url": "pic.twitter.com/NkMTzIlyJJ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1127844649509347328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127844637673050100,
+					"id_str": "1127844637673050112",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bouO5U0AAEz9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bouO5U0AAEz9H.jpg",
+					"url": "https://t.co/NkMTzIlyJJ",
+					"display_url": "pic.twitter.com/NkMTzIlyJJ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1127844649509347328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127844637668888600,
+					"id_str": "1127844637668888576",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bouO4VUAAJWmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bouO4VUAAJWmb.jpg",
+					"url": "https://t.co/NkMTzIlyJJ",
+					"display_url": "pic.twitter.com/NkMTzIlyJJ",
+					"expanded_url": "https://twitter.com/club_bbang/status/1127844649509347328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1104,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2676,
+			"friends_count": 942,
+			"listed_count": 51,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1764,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아카시아꽃향기ㅡ가득한 봄~ #클럽빵 공연에서 만나요~ #라이브 #홍대앞 #인디 https://t.co/NkMTzIlyJJ"
+	},
+	{
+		"created_at": "Mon May 13 08:11:50 +0000 2019",
+		"id": 1127839703086927900,
+		"id_str": "1127848917180264454",
+		"full_text": "✔신청 기간: 2019.05.06(월)~05.19(일) 밤 12시\n✔당첨 발표: 2019.05.20(월) 오후 2시\n✔신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n(프로필 하단에 링크 첨부)\n✔자세한 사항은 홈페이지 &lt;알립니다&gt; 게시판을 참고해주세요!\n\n#Nine9 #HelloGayoung #Broccoliyoutoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nine9",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "HelloGayoung",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "Broccoliyoutoo",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127839457153957900,
+		"in_reply_to_status_id_str": "1127839457153957891",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3770,
+			"friends_count": 961,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7767,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔신청 기간: 2019.05.06(월)~05.19(일) 밤 12시\n✔당첨 발표: 2019.05.20(월) 오후 2시\n✔신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n(프로필 하단에 링크 첨부)\n✔자세한 사항은 홈페이지 &lt;알립니다&gt; 게시판을 참고해주세요!\n\n#Nine9 #HelloGayoung #Broccoliyoutoo"
+	},
+	{
 		"created_at": "Mon May 13 06:39:17 +0000 2019",
 		"id": 1127825622749855700,
 		"id_str": "1127825622749855746",
