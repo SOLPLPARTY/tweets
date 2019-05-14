@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 05:11:42 +0000 2019",
+		"id": 1128158350410113000,
+		"id_str": "1128165972517576704",
+		"full_text": "🤩 5월, 제29회 #라이브클럽데이 1차 라인업이 오픈 되었습니다! 잠시 후 오후 2시부터 일반예매, 청소년 예매가 시작됩니다. 5월 31일 피크닉은 라클데로! \n● 일반예매 : https://t.co/SeSwe8ctKw\n● 청소년 예매 : https://t.co/oBryfKQZWt\n#liveishere #liveclubday #LCD #thismyvibe #뮤지션리그 https://t.co/1kFjtcRp4L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "liveishere",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "liveclubday",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "LCD",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "thismyvibe",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"text": "뮤지션리그",
+					"indices": [
+						201,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SeSwe8ctKw",
+					"expanded_url": "https://bit.ly/30kxQV0",
+					"display_url": "bit.ly/30kxQV0",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/oBryfKQZWt",
+					"expanded_url": "https://bit.ly/2YwxRn3",
+					"display_url": "bit.ly/2YwxRn3",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128157839157973000,
+					"id_str": "1128157839157972992",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gFk9WVUAAZwzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gFk9WVUAAZwzc.jpg",
+					"url": "https://t.co/1kFjtcRp4L",
+					"display_url": "pic.twitter.com/1kFjtcRp4L",
+					"expanded_url": "https://twitter.com/liveclubday/status/1128158350410113026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128157839157973000,
+					"id_str": "1128157839157972992",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gFk9WVUAAZwzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gFk9WVUAAZwzc.jpg",
+					"url": "https://t.co/1kFjtcRp4L",
+					"display_url": "pic.twitter.com/1kFjtcRp4L",
+					"expanded_url": "https://twitter.com/liveclubday/status/1128158350410113026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이! / 문의 사항은 페이스북 메세지만 확인 가능합니다. / Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/R5ENy6Gs2T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R5ENy6Gs2T",
+							"expanded_url": "https://bit.ly/2UrLkLc",
+							"display_url": "bit.ly/2UrLkLc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4063,
+			"friends_count": 687,
+			"listed_count": 34,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2258,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1557219342",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤩 5월, 제29회 #라이브클럽데이 1차 라인업이 오픈 되었습니다! 잠시 후 오후 2시부터 일반예매, 청소년 예매가 시작됩니다. 5월 31일 피크닉은 라클데로! \n● 일반예매 : https://t.co/SeSwe8ctKw\n● 청소년 예매 : https://t.co/oBryfKQZWt\n#liveishere #liveclubday #LCD #thismyvibe #뮤지션리그 https://t.co/1kFjtcRp4L"
+	},
+	{
 		"created_at": "Tue May 14 04:11:42 +0000 2019",
 		"id": 1128142125365903400,
 		"id_str": "1128150872809250817",
