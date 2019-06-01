@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 15:21:23 +0000 2019",
+		"id": 1134842384964096000,
+		"id_str": "1134842384964096001",
+		"full_text": "【 #두인디 】\n사이 @ 제비다방 at 제비다방 (2019/06/22 20:00)\n▶ https://t.co/a7uEeJdI79\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/v2nCZp9asG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "두인디",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "Doindie",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a7uEeJdI79",
+					"expanded_url": "http://bit.ly/2SjBsSV",
+					"display_url": "bit.ly/2SjBsSV",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134842383764529200,
+					"id_str": "1134842383764529152",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7_FIqhXoAAWk9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7_FIqhXoAAWk9u.jpg",
+					"url": "https://t.co/v2nCZp9asG",
+					"display_url": "pic.twitter.com/v2nCZp9asG",
+					"expanded_url": "https://twitter.com/solplparty/status/1134842384964096001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134842383764529200,
+					"id_str": "1134842383764529152",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7_FIqhXoAAWk9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7_FIqhXoAAWk9u.jpg",
+					"url": "https://t.co/v2nCZp9asG",
+					"display_url": "pic.twitter.com/v2nCZp9asG",
+					"expanded_url": "https://twitter.com/solplparty/status/1134842384964096001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #두인디 】\n사이 @ 제비다방 at 제비다방 (2019/06/22 20:00)\n▶ https://t.co/a7uEeJdI79\n　\n#Doindie #공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/v2nCZp9asG"
+	},
+	{
 		"created_at": "Sat Jun 01 15:11:44 +0000 2019",
 		"id": 1134835089118879700,
 		"id_str": "1134839958055849984",
@@ -110,7 +337,7 @@ Grailbird.data.tweets_2019_06 =
 		"created_at": "Sat Jun 01 15:11:42 +0000 2019",
 		"id": 1134832659098525700,
 		"id_str": "1134839948962672640",
-		"full_text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG",
+		"full_text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -328,7 +555,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG"
+		"text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆♀️🙆♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG"
 	},
 	{
 		"created_at": "Sat Jun 01 14:11:43 +0000 2019",
