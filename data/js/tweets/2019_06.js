@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 07:19:54 +0000 2019",
+		"id": 1134710503123513300,
+		"id_str": "1134721216604987398",
+		"full_text": "“Give it up!”🎵\n올 여름을 시원하게 날려버릴 강렬한 덥스텝의 최강자, @knifepartyinc \n춤을 도저히 멈출 수 없게 만드는 칼잔치, 그들이 돌아옵니다! \nAre you ready for Knife Party to bring their electrifying beats and explosive energy to Ultra Korea? https://t.co/DtULNTWO2b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "knifepartyinc",
+					"name": "Knife Party",
+					"id": 294636267,
+					"id_str": "294636267",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134709830994710500,
+					"id_str": "1134709830994710530",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134709830994710530/pu/img/ezvI59S1hzz65wU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134709830994710530/pu/img/ezvI59S1hzz65wU3.jpg",
+					"url": "https://t.co/DtULNTWO2b",
+					"display_url": "pic.twitter.com/DtULNTWO2b",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1134710503123513345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134709830994710500,
+					"id_str": "1134709830994710530",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134709830994710530/pu/img/ezvI59S1hzz65wU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134709830994710530/pu/img/ezvI59S1hzz65wU3.jpg",
+					"url": "https://t.co/DtULNTWO2b",
+					"display_url": "pic.twitter.com/DtULNTWO2b",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1134710503123513345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 27640,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134709830994710530/pu/pl/MSBRdBlImuoM-DGx.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134709830994710530/pu/vid/720x900/XaWx7vpmhvPacQOy.mp4?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134709830994710530/pu/vid/320x400/PAGHf_594B0TZXYK.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134709830994710530/pu/vid/360x450/Ixr7vGhKGaNWcxxW.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20256,
+			"friends_count": 24,
+			"listed_count": 123,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1557480241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“Give it up!”🎵\n올 여름을 시원하게 날려버릴 강렬한 덥스텝의 최강자, @knifepartyinc \n춤을 도저히 멈출 수 없게 만드는 칼잔치, 그들이 돌아옵니다! \nAre you ready for Knife Party to bring their electrifying beats and explosive energy to Ultra Korea? https://t.co/DtULNTWO2b"
+	},
+	{
 		"created_at": "Sat Jun 01 07:11:42 +0000 2019",
 		"id": 1134713955220279300,
 		"id_str": "1134719152701284353",
