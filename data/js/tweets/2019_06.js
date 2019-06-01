@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 14:11:43 +0000 2019",
+		"id": 1134815449391063000,
+		"id_str": "1134824850718101507",
+		"full_text": "#상상마당시네마 #배급작\n지난 5/21 &lt;#보희와녹양&gt; 기자간담회를 다녀왔습니다:)\n초여름 만큼이나 싱그러운 보희와 녹양이의\n캐미가 돋보이는 영화 &lt;보희와 녹양&gt;🌿\n-\n주말은! 친구와 함께 상상마당으로!\n예매는? 링크 go go!\nhttps://t.co/29p3igpAC6 https://t.co/H9xotGWYNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "배급작",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "보희와녹양",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29p3igpAC6",
+					"expanded_url": "https://bit.ly/2wsOGTR",
+					"display_url": "bit.ly/2wsOGTR",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134815278045442000,
+					"id_str": "1134815278045442049",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134815278045442049/pu/img/Tzz3smp3AQbuswX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134815278045442049/pu/img/Tzz3smp3AQbuswX4.jpg",
+					"url": "https://t.co/H9xotGWYNa",
+					"display_url": "pic.twitter.com/H9xotGWYNa",
+					"expanded_url": "https://twitter.com/SSmadang/status/1134815449391063040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134815278045442000,
+					"id_str": "1134815278045442049",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134815278045442049/pu/img/Tzz3smp3AQbuswX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134815278045442049/pu/img/Tzz3smp3AQbuswX4.jpg",
+					"url": "https://t.co/H9xotGWYNa",
+					"display_url": "pic.twitter.com/H9xotGWYNa",
+					"expanded_url": "https://twitter.com/SSmadang/status/1134815449391063040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60032,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134815278045442049/pu/vid/480x480/VhHpioPVwytdKzg7.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134815278045442049/pu/pl/OATuTm51AZXH6JS8.m3u8?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134815278045442049/pu/vid/320x320/6U5o5igTPTKiK0pj.mp4?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134815278045442049/pu/vid/720x720/anvr4YZMyJ8_bfQJ.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19604,
+			"friends_count": 2032,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당시네마 #배급작\n지난 5/21 &lt;#보희와녹양&gt; 기자간담회를 다녀왔습니다:)\n초여름 만큼이나 싱그러운 보희와 녹양이의\n캐미가 돋보이는 영화 &lt;보희와 녹양&gt;🌿\n-\n주말은! 친구와 함께 상상마당으로!\n예매는? 링크 go go!\nhttps://t.co/29p3igpAC6 https://t.co/H9xotGWYNa"
+	},
+	{
 		"created_at": "Sat Jun 01 12:19:55 +0000 2019",
 		"id": 1134792361765003300,
 		"id_str": "1134796715024945154",
