@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 11:11:42 +0000 2019",
+		"id": 1134776073269403600,
+		"id_str": "1134779550313963521",
+		"full_text": "[신규 입고]\n📎 옥탑방 부엉이 Owl's Rooftop엉이 6월 공연 포스터\n홍대 라이브 다이닝 펍 '옥탑방 부엉이'의 6월 공연 일정이 담긴 포스터가 입고되었습니다! \n씬디로 오셔서 읽어보시고 공연 보러 많이 찾아주세요~~!😊\n#옥탑방부엉이 https://t.co/jQyE2OzP4p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옥탑방부엉이",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134768884802678800,
+					"id_str": "1134768884802678789",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-CSdjUcAUzuKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-CSdjUcAUzuKh.jpg",
+					"url": "https://t.co/jQyE2OzP4p",
+					"display_url": "pic.twitter.com/jQyE2OzP4p",
+					"expanded_url": "https://twitter.com/xindieticket/status/1134776073269403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134768884802678800,
+					"id_str": "1134768884802678789",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-CSdjUcAUzuKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-CSdjUcAUzuKh.jpg",
+					"url": "https://t.co/jQyE2OzP4p",
+					"display_url": "pic.twitter.com/jQyE2OzP4p",
+					"expanded_url": "https://twitter.com/xindieticket/status/1134776073269403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1134768864279924700,
+					"id_str": "1134768864279924736",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-CRRGUEAA5Vtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-CRRGUEAA5Vtx.jpg",
+					"url": "https://t.co/jQyE2OzP4p",
+					"display_url": "pic.twitter.com/jQyE2OzP4p",
+					"expanded_url": "https://twitter.com/xindieticket/status/1134776073269403648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2644,
+			"friends_count": 2546,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n📎 옥탑방 부엉이 Owl's Rooftop엉이 6월 공연 포스터\n홍대 라이브 다이닝 펍 '옥탑방 부엉이'의 6월 공연 일정이 담긴 포스터가 입고되었습니다! \n씬디로 오셔서 읽어보시고 공연 보러 많이 찾아주세요~~!😊\n#옥탑방부엉이 https://t.co/jQyE2OzP4p"
+	},
+	{
 		"created_at": "Sat Jun 01 09:11:42 +0000 2019",
 		"id": 1134744979580936200,
 		"id_str": "1134749352801554432",
