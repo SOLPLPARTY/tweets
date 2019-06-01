@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 15:11:44 +0000 2019",
+		"id": 1134835089118879700,
+		"id_str": "1134839958055849984",
+		"full_text": "✔공모마감: 6.5(수) 밤 12시까지\n✔자세한 사항은 공모글 참고\n(https://t.co/hNt5LhBEbG)\n\n✔당선🍯TIP\n-다양한 장르의 음악을 아우르는 디자인\n-계절, 유행을 타지 않는 깔끔함\n(네온, 손글씨, 필기체, 레트로 느낌 지양)\n-상투적 오브제(음표, 마이크, 악기 등을 직접 표현한 아이콘) 사용 자제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hNt5LhBEbG",
+					"expanded_url": "http://me2.do/5CxRF8kS",
+					"display_url": "me2.do/5CxRF8kS",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1134832659098525700,
+		"in_reply_to_status_id_str": "1134832659098525696",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3754,
+			"friends_count": 964,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔공모마감: 6.5(수) 밤 12시까지\n✔자세한 사항은 공모글 참고\n(https://t.co/hNt5LhBEbG)\n\n✔당선🍯TIP\n-다양한 장르의 음악을 아우르는 디자인\n-계절, 유행을 타지 않는 깔끔함\n(네온, 손글씨, 필기체, 레트로 느낌 지양)\n-상투적 오브제(음표, 마이크, 악기 등을 직접 표현한 아이콘) 사용 자제"
+	},
+	{
+		"created_at": "Sat Jun 01 15:11:42 +0000 2019",
+		"id": 1134832659098525700,
+		"id_str": "1134839948962672640",
+		"full_text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "로고디자인",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "공모전",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "올댓뮤직_로고디자인_공모전",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"text": "함께해요",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "다들드루와요",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134832638194200600,
+					"id_str": "1134832638194200579",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-8RZcVsAMa57x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-8RZcVsAMa57x.jpg",
+					"url": "https://t.co/UuxN21ZlxG",
+					"display_url": "pic.twitter.com/UuxN21ZlxG",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1134832659098525696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 1238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134832638194200600,
+					"id_str": "1134832638194200579",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D7-8RZcVsAMa57x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7-8RZcVsAMa57x.jpg",
+					"url": "https://t.co/UuxN21ZlxG",
+					"display_url": "pic.twitter.com/UuxN21ZlxG",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1134832659098525696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 1238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3754,
+			"friends_count": 964,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #로고디자인 #공모전\n\n🎙올댓뮤직 로고디자인 공모전 연장안내🎙\n\n올댓뮤직 로고디자인 공모전을\n6월 5일 수요일까지 연장합니다!\n\n기존 작품들은 검토 중이며\n기회를 놓쳤던 분들의\n많은 참여 바랍니다🙆‍♀️🙆‍♂️\n\n#ALLTHATMUSIC #올댓뮤직_로고디자인_공모전\n#함께해요 #다들드루와요💕 https://t.co/UuxN21ZlxG"
+	},
+	{
 		"created_at": "Sat Jun 01 14:11:43 +0000 2019",
 		"id": 1134815449391063000,
 		"id_str": "1134824850718101507",
