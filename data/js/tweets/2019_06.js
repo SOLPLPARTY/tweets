@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 12:19:55 +0000 2019",
+		"id": 1134792361765003300,
+		"id_str": "1134796715024945154",
+		"full_text": "🇰🇷🚬🥀 https://t.co/c01wjWu8ih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c01wjWu8ih",
+					"expanded_url": "https://twitter.com/cigsaftersexx/status/1134775453980471296",
+					"display_url": "twitter.com/cigsaftersexx/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "7/27-7/28 HOLIDAY LAND FESTIVAL • 8/15 MAHALIA • 11/29 GUS DAPPERTON",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1466,
+			"friends_count": 59,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134775453980471300,
+		"quoted_status_id_str": "1134775453980471296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c01wjWu8ih",
+			"expanded": "https://twitter.com/cigsaftersexx/status/1134775453980471296",
+			"display": "twitter.com/cigsaftersexx/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 01 10:55:25 +0000 2019",
+			"id": 1134775453980471300,
+			"id_str": "1134775453980471296",
+			"full_text": "june &amp; july...\n\nhttps://t.co/GlxVDvLzqy https://t.co/Ewkgmr4OPb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GlxVDvLzqy",
+						"expanded_url": "http://www.cigarettesaftersex.com/shows",
+						"display_url": "cigarettesaftersex.com/shows",
+						"indices": [
+							20,
+							43
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1134775450645999600,
+						"id_str": "1134775450645999617",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D7-IQpOWsAE6M9B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7-IQpOWsAE6M9B.jpg",
+						"url": "https://t.co/Ewkgmr4OPb",
+						"display_url": "pic.twitter.com/Ewkgmr4OPb",
+						"expanded_url": "https://twitter.com/CigsAfterSexx/status/1134775453980471296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1089,
+								"h": 1089,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1089,
+								"h": 1089,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134775450645999600,
+						"id_str": "1134775450645999617",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D7-IQpOWsAE6M9B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7-IQpOWsAE6M9B.jpg",
+						"url": "https://t.co/Ewkgmr4OPb",
+						"display_url": "pic.twitter.com/Ewkgmr4OPb",
+						"expanded_url": "https://twitter.com/CigsAfterSexx/status/1134775453980471296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1089,
+								"h": 1089,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1089,
+								"h": 1089,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://gainapp.com\" rel=\"nofollow\">Gain App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3976108934,
+				"id_str": "3976108934",
+				"name": "Cigarettes After Sex",
+				"screen_name": "CigsAfterSexx",
+				"location": "Brooklyn, NY",
+				"description": "dreaming of you...",
+				"url": "https://t.co/8AOvyxv05b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8AOvyxv05b",
+								"expanded_url": "https://cas.lnk.to/neonmoon",
+								"display_url": "cas.lnk.to/neonmoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 192176,
+				"friends_count": 476,
+				"listed_count": 482,
+				"created_at": "Thu Oct 22 03:51:11 +0000 2015",
+				"favourites_count": 14872,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 721,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073626500409241608/qbWM3SPP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073626500409241608/qbWM3SPP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3976108934/1496973457",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 720,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🇰🇷🚬🥀 https://t.co/c01wjWu8ih"
+	},
+	{
 		"created_at": "Sat Jun 01 11:11:42 +0000 2019",
 		"id": 1134776073269403600,
 		"id_str": "1134779550313963521",
