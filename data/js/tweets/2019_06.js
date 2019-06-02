@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 08:11:48 +0000 2019",
+		"id": 1135085352715112400,
+		"id_str": "1135096662727299078",
+		"full_text": "2) 귀여운 피카츄 소년?!과 스티커를 가져다주신 분... 혹은 어느 아티스트의 스티커인지, 장소인지 아시는 분은 제보를 부탁드립니다... 😭🙏\n\n모쪼록 씬디를 방문하여 갖다 주신 분들께 감사드립니다~ 😍 https://t.co/UOBQMTHW2b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135085170980057100,
+					"id_str": "1135085170980057088",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ch8vYUcAAiZyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ch8vYUcAAiZyj.jpg",
+					"url": "https://t.co/UOBQMTHW2b",
+					"display_url": "pic.twitter.com/UOBQMTHW2b",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135085352715112448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135085170980057100,
+					"id_str": "1135085170980057088",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ch8vYUcAAiZyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ch8vYUcAAiZyj.jpg",
+					"url": "https://t.co/UOBQMTHW2b",
+					"display_url": "pic.twitter.com/UOBQMTHW2b",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135085352715112448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135085188982042600,
+					"id_str": "1135085188982042625",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Ch9ycU8AERmNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Ch9ycU8AERmNy.jpg",
+					"url": "https://t.co/UOBQMTHW2b",
+					"display_url": "pic.twitter.com/UOBQMTHW2b",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135085352715112448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135085347677790200,
+		"in_reply_to_status_id_str": "1135085347677790208",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2647,
+			"friends_count": 2551,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2) 귀여운 피카츄 소년?!과 스티커를 가져다주신 분... 혹은 어느 아티스트의 스티커인지, 장소인지 아시는 분은 제보를 부탁드립니다... 😭🙏\n\n모쪼록 씬디를 방문하여 갖다 주신 분들께 감사드립니다~ 😍 https://t.co/UOBQMTHW2b"
+	},
+	{
 		"created_at": "Sun Jun 02 07:11:42 +0000 2019",
 		"id": 1135066873957982200,
 		"id_str": "1135081540369682432",
