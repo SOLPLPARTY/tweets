@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 05:03:50 +0000 2019",
+		"id": 1135049362688630800,
+		"id_str": "1135049362688630784",
+		"full_text": "#민트페이퍼 #MINTPAPER\n조소정(Jo SoJeong) 'Sunshine' live with 권순관\nhttps://t.co/L4micK2P6X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L4micK2P6X",
+					"expanded_url": "https://youtu.be/4FL99H2Z3ZI",
+					"display_url": "youtu.be/4FL99H2Z3ZI",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n조소정(Jo SoJeong) 'Sunshine' live with 권순관\nhttps://t.co/L4micK2P6X"
+	},
+	{
+		"created_at": "Sun Jun 02 04:19:54 +0000 2019",
+		"id": 1135024589690396700,
+		"id_str": "1135038306163593216",
+		"full_text": "#철원가서_철업(CheerUp)! #Vol_3\n-\n구석구석 철원 페스티벌 현장 인증샷 이벤트❗️\n-\n✅ 이벤트 기간: 6.07(Fri)-6.09(Sun)\n✅ 인증샷 확인 및 피스 KIT 수령처 : 한국관광공사 이벤트 부스\n-\n해당 이벤트의 &lt;피스KIT&gt;는 한정수량으로 제작되어 조기마감될 수 있습니다. https://t.co/r3lqxQfvDC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "철원가서_철업",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Vol_3",
+					"indices": [
+						19,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135024581775749100,
+					"id_str": "1135024581775749121",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Bq1_AUcAEoZkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Bq1_AUcAEoZkf.jpg",
+					"url": "https://t.co/r3lqxQfvDC",
+					"display_url": "pic.twitter.com/r3lqxQfvDC",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1135024589690396672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135024581775749100,
+					"id_str": "1135024581775749121",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Bq1_AUcAEoZkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Bq1_AUcAEoZkf.jpg",
+					"url": "https://t.co/r3lqxQfvDC",
+					"display_url": "pic.twitter.com/r3lqxQfvDC",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1135024589690396672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135024581784232000,
+					"id_str": "1135024581784231936",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Bq1_CV4AADjvv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Bq1_CV4AADjvv.jpg",
+					"url": "https://t.co/r3lqxQfvDC",
+					"display_url": "pic.twitter.com/r3lqxQfvDC",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1135024589690396672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135024581784113200,
+					"id_str": "1135024581784113152",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Bq1_CUEAAEPqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8Bq1_CUEAAEPqf.jpg",
+					"url": "https://t.co/r3lqxQfvDC",
+					"display_url": "pic.twitter.com/r3lqxQfvDC",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1135024589690396672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 574,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 574,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Dancing for a Borderless World 2019.6.5~6.9 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 31,
+			"listed_count": 3,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1557368934",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#철원가서_철업(CheerUp)! #Vol_3\n-\n구석구석 철원 페스티벌 현장 인증샷 이벤트❗️\n-\n✅ 이벤트 기간: 6.07(Fri)-6.09(Sun)\n✅ 인증샷 확인 및 피스 KIT 수령처 : 한국관광공사 이벤트 부스\n-\n해당 이벤트의 &lt;피스KIT&gt;는 한정수량으로 제작되어 조기마감될 수 있습니다. https://t.co/r3lqxQfvDC"
+	},
+	{
 		"created_at": "Sun Jun 02 04:11:42 +0000 2019",
 		"id": 1135030567102103600,
 		"id_str": "1135036242142355456",
