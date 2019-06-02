@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 14:12:06 +0000 2019",
+		"id": 1135184249617768400,
+		"id_str": "1135187336382337025",
+		"full_text": "어제 엪엪에서 있었던 브리티쉬 뮤직 나잇 영상입니다. \n\n클럽FF 는 매주 금요일 토요일 에 공연이 끝난 뒤인 밤12시 이후에는 언제나 락 인디를 기반으로 한 디제잉 파티가 있습니다. https://t.co/M7elawPNZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135184150346920000,
+					"id_str": "1135184150346919936",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135184150346919936/pu/img/mXgNrI5nnAgdDDfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135184150346919936/pu/img/mXgNrI5nnAgdDDfz.jpg",
+					"url": "https://t.co/M7elawPNZa",
+					"display_url": "pic.twitter.com/M7elawPNZa",
+					"expanded_url": "https://twitter.com/clubFF_/status/1135184249617768451/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135184150346920000,
+					"id_str": "1135184150346919936",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135184150346919936/pu/img/mXgNrI5nnAgdDDfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135184150346919936/pu/img/mXgNrI5nnAgdDDfz.jpg",
+					"url": "https://t.co/M7elawPNZa",
+					"display_url": "pic.twitter.com/M7elawPNZa",
+					"expanded_url": "https://twitter.com/clubFF_/status/1135184249617768451/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1135184150346919936/pu/pl/vlGdsQ2dYJhOebSb.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135184150346919936/pu/vid/720x406/uHHNkiMNBE6mXrCs.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135184150346919936/pu/vid/318x180/gFQbUH-nzGkzRCed.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6856,
+			"friends_count": 7,
+			"listed_count": 102,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 엪엪에서 있었던 브리티쉬 뮤직 나잇 영상입니다. \n\n클럽FF 는 매주 금요일 토요일 에 공연이 끝난 뒤인 밤12시 이후에는 언제나 락 인디를 기반으로 한 디제잉 파티가 있습니다. https://t.co/M7elawPNZa"
+	},
+	{
+		"created_at": "Sun Jun 02 14:12:01 +0000 2019",
+		"id": 1135182189966946300,
+		"id_str": "1135187314307751936",
+		"full_text": "• 입도조 •\n다른 지역에서 제주도 섬에\n들어와 최초로 정착한 선조\n\n박정근 작가가 8년간 작업한 &lt;입도조&gt; \n시리즈 작품을 전시를 통해 선보입니다.\n\n▪️일정: 6/1(토)-6/24(월) 11:00-20:00\n▪️장소: 상상마당 갤러리 5층\n▪️관람료: 무료 https://t.co/KxQUZncmPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135182175706337300,
+					"id_str": "1135182175706337282",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D8D6LKJU0AItY-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8D6LKJU0AItY-2.jpg",
+					"url": "https://t.co/KxQUZncmPB",
+					"display_url": "pic.twitter.com/KxQUZncmPB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1135182189966946304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135182175706337300,
+					"id_str": "1135182175706337282",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D8D6LKJU0AItY-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8D6LKJU0AItY-2.jpg",
+					"url": "https://t.co/KxQUZncmPB",
+					"display_url": "pic.twitter.com/KxQUZncmPB",
+					"expanded_url": "https://twitter.com/SSmadang/status/1135182189966946304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19603,
+			"friends_count": 2033,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 입도조 •\n다른 지역에서 제주도 섬에\n들어와 최초로 정착한 선조\n\n박정근 작가가 8년간 작업한 &lt;입도조&gt; \n시리즈 작품을 전시를 통해 선보입니다.\n\n▪️일정: 6/1(토)-6/24(월) 11:00-20:00\n▪️장소: 상상마당 갤러리 5층\n▪️관람료: 무료 https://t.co/KxQUZncmPB"
+	},
+	{
+		"created_at": "Sun Jun 02 14:11:52 +0000 2019",
+		"id": 1135180266723405800,
+		"id_str": "1135187275971735557",
+		"full_text": "&lt;나의 첫 번째 콘서트 6월 선정 뮤지션&gt;\n내적 댄스를 유발하는 혼성 듀오 #취미 \n첫 단독 콘서트에 놀러오세요\n\n한층 신비스러워진 음악과 퍼포먼스가 함께 할 취미와 떠나는 우주여행 &lt;취미랑 놀자!&gt; \n\n6/30 SUN 18:00\nKT&amp;G 상상마당 라이브홀 \n예매는 멜론티켓 https://t.co/joh284FU0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "취미",
+					"indices": [
+						48,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135180249082187800,
+					"id_str": "1135180249082187776",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D8D4bA6VUAAFAeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8D4bA6VUAAFAeu.jpg",
+					"url": "https://t.co/joh284FU0A",
+					"display_url": "pic.twitter.com/joh284FU0A",
+					"expanded_url": "https://twitter.com/SSmadang/status/1135180266723405824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135180249082187800,
+					"id_str": "1135180249082187776",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D8D4bA6VUAAFAeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8D4bA6VUAAFAeu.jpg",
+					"url": "https://t.co/joh284FU0A",
+					"display_url": "pic.twitter.com/joh284FU0A",
+					"expanded_url": "https://twitter.com/SSmadang/status/1135180266723405824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1666,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19603,
+			"friends_count": 2033,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;나의 첫 번째 콘서트 6월 선정 뮤지션&gt;\n내적 댄스를 유발하는 혼성 듀오 #취미 \n첫 단독 콘서트에 놀러오세요\n\n한층 신비스러워진 음악과 퍼포먼스가 함께 할 취미와 떠나는 우주여행 &lt;취미랑 놀자!&gt; \n\n6/30 SUN 18:00\nKT&amp;G 상상마당 라이브홀 \n예매는 멜론티켓 https://t.co/joh284FU0A"
+	},
+	{
 		"created_at": "Sun Jun 02 13:01:07 +0000 2019",
 		"id": 1135169473399459800,
 		"id_str": "1135169473399459840",
