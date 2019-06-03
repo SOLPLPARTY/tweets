@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 13:12:03 +0000 2019",
+		"id": 1135534385963229200,
+		"id_str": "1135534612883607553",
+		"full_text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\n애리(AIRY) - ‘어젯밤' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/CmMAn3x1kO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CmMAn3x1kO",
+					"expanded_url": "https://youtu.be/lpjQBBV8NPM",
+					"display_url": "youtu.be/lpjQBBV8NPM",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5240,
+			"friends_count": 4744,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\n애리(AIRY) - ‘어젯밤' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/CmMAn3x1kO"
+	},
+	{
+		"created_at": "Mon Jun 03 13:11:58 +0000 2019",
+		"id": 1135533572415053800,
+		"id_str": "1135534590473461760",
+		"full_text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\n모노디즘 - ‘Dooms day' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/xtr4zQHrf8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xtr4zQHrf8",
+					"expanded_url": "https://youtu.be/mBDn_tdCdgE",
+					"display_url": "youtu.be/mBDn_tdCdgE",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5240,
+			"friends_count": 4744,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\n모노디즘 - ‘Dooms day' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/xtr4zQHrf8"
+	},
+	{
+		"created_at": "Mon Jun 03 13:11:50 +0000 2019",
+		"id": 1135528884990910500,
+		"id_str": "1135534556189270017",
+		"full_text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\nDAMYE(담예) - ‘TALENTED' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/Q2CX3QqLws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q2CX3QqLws",
+					"expanded_url": "https://youtu.be/g_GuBg4arkQ",
+					"display_url": "youtu.be/g_GuBg4arkQ",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5240,
+			"friends_count": 4744,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;HOT 영상 - 2019 상반기 헬로루키&gt; \n\n1차 음원 심사, 2차 현장 오디션을 거쳐 선정된\n'상반기 헬로루키'의 경연 영상을 공개합니다! 🎥🎞\n\nDAMYE(담예) - ‘TALENTED' ♪\n\n긴장과 설렘이 가득했던 루키들의 첫무대를 가장 먼저 만나보세요💕  \n\n6/13(목) 밤 11:55 방송\n\nhttps://t.co/Q2CX3QqLws"
+	},
+	{
 		"created_at": "Mon Jun 03 12:09:51 +0000 2019",
 		"id": 1135518957304209400,
 		"id_str": "1135518957304209408",
