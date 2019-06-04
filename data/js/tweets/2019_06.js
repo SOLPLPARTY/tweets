@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 13:11:51 +0000 2019",
+		"id": 1135883907671269400,
+		"id_str": "1135896948282744834",
+		"full_text": "🔥 6월 14일 채널 1969에서 진행하는 공연에서 그동안 준비한 신곡들 발표할 거라고 하니까 놓치지 말고 기대 많이 해주세요 🔥\n.\n[호랑이아들들 X 캡틴락 ]\n- 일시: 6월 14일 (금) 8시\n- 장소: 채널 1969\n.\n♬ BGM: 호랑이아들들 - 나의 기쁨 ♬\n\n🐯영상 보러 가기 :  https://t.co/okiGzhrmCR  🐯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/okiGzhrmCR",
+					"expanded_url": "https://youtu.be/KCPgICTefaE",
+					"display_url": "youtu.be/KCPgICTefaE",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135883905356030000,
+		"in_reply_to_status_id_str": "1135883905356029958",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2554,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥 6월 14일 채널 1969에서 진행하는 공연에서 그동안 준비한 신곡들 발표할 거라고 하니까 놓치지 말고 기대 많이 해주세요 🔥\n.\n[호랑이아들들 X 캡틴락 ]\n- 일시: 6월 14일 (금) 8시\n- 장소: 채널 1969\n.\n♬ BGM: 호랑이아들들 - 나의 기쁨 ♬\n\n🐯영상 보러 가기 :  https://t.co/okiGzhrmCR  🐯"
+	},
+	{
 		"created_at": "Tue Jun 04 12:11:43 +0000 2019",
 		"id": 1135877842309247000,
 		"id_str": "1135881815812714496",
