@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 12:11:43 +0000 2019",
+		"id": 1135877842309247000,
+		"id_str": "1135881815812714496",
+		"full_text": "[#씬디스케치 X 블랙쉽]\n이번 주 씬디스케치와 함께할 레이블은 바로 블랙쉽입니다 🙌\n지금 씬디 내부에서는 소속 뮤지션 ⭐️소낙별 ⭐️ 전시가 진행 중이니 구경하러 오세요 😉\n\n+) 6/8(토) 오후 3시에는 씬디 앞에서 소낙별의 버스킹이 진행될 예정이니 놓치지 마세요 💕 https://t.co/fJKgYp7YLa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디스케치",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135877643939618800,
+					"id_str": "1135877643939618816",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NysvNUIAAX6FP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NysvNUIAAX6FP.jpg",
+					"url": "https://t.co/fJKgYp7YLa",
+					"display_url": "pic.twitter.com/fJKgYp7YLa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135877842309246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135877643939618800,
+					"id_str": "1135877643939618816",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NysvNUIAAX6FP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NysvNUIAAX6FP.jpg",
+					"url": "https://t.co/fJKgYp7YLa",
+					"display_url": "pic.twitter.com/fJKgYp7YLa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135877842309246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135877652982558700,
+					"id_str": "1135877652982558721",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NytQ5UcAEEu6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NytQ5UcAEEu6C.jpg",
+					"url": "https://t.co/fJKgYp7YLa",
+					"display_url": "pic.twitter.com/fJKgYp7YLa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135877842309246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135877660003799000,
+					"id_str": "1135877660003799041",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8NytrDUEAEbVPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8NytrDUEAEbVPp.jpg",
+					"url": "https://t.co/fJKgYp7YLa",
+					"display_url": "pic.twitter.com/fJKgYp7YLa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1135877842309246976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 691,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2648,
+			"friends_count": 2554,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디스케치 X 블랙쉽]\n이번 주 씬디스케치와 함께할 레이블은 바로 블랙쉽입니다 🙌\n지금 씬디 내부에서는 소속 뮤지션 ⭐️소낙별 ⭐️ 전시가 진행 중이니 구경하러 오세요 😉\n\n+) 6/8(토) 오후 3시에는 씬디 앞에서 소낙별의 버스킹이 진행될 예정이니 놓치지 마세요 💕 https://t.co/fJKgYp7YLa"
+	},
+	{
 		"created_at": "Tue Jun 04 11:11:50 +0000 2019",
 		"id": 1135862511087935500,
 		"id_str": "1135866745389027328",
