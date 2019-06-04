@@ -1,6 +1,1118 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 03:33:24 +0000 2019",
+		"id": 1135751377651720200,
+		"id_str": "1135751377651720192",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.06.05(수) 준（JUNE）앨범 발매 기념 파티 ‘오늘밤은，’ 티켓 오픈 안내\n▶ https://t.co/FLe26vDApY\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/SZq683Opjz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLe26vDApY",
+					"expanded_url": "http://bit.ly/318i1B6",
+					"display_url": "bit.ly/318i1B6",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135751376385007600,
+					"id_str": "1135751376385007616",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L_2_6W4AAIdc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L_2_6W4AAIdc0.jpg",
+					"url": "https://t.co/SZq683Opjz",
+					"display_url": "pic.twitter.com/SZq683Opjz",
+					"expanded_url": "https://twitter.com/solplparty/status/1135751377651720192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135751376385007600,
+					"id_str": "1135751376385007616",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L_2_6W4AAIdc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L_2_6W4AAIdc0.jpg",
+					"url": "https://t.co/SZq683Opjz",
+					"display_url": "pic.twitter.com/SZq683Opjz",
+					"expanded_url": "https://twitter.com/solplparty/status/1135751377651720192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.06.05(수) 준（JUNE）앨범 발매 기념 파티 ‘오늘밤은，’ 티켓 오픈 안내\n▶ https://t.co/FLe26vDApY\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/SZq683Opjz"
+	},
+	{
+		"created_at": "Tue Jun 04 03:32:22 +0000 2019",
+		"id": 1135751117348986900,
+		"id_str": "1135751117348986880",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n6월 4일 | 스트릿건즈, 우티, 615, PLUS Chamber Group\nhttps://t.co/8mGO60A4a5\n#미러볼블로그 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "미러볼블로그",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8mGO60A4a5",
+					"expanded_url": "http://bit.ly/2MqvFw4",
+					"display_url": "bit.ly/2MqvFw4",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n6월 4일 | 스트릿건즈, 우티, 615, PLUS Chamber Group\nhttps://t.co/8mGO60A4a5\n#미러볼블로그 #유통사"
+	},
+	{
+		"created_at": "Tue Jun 04 03:19:55 +0000 2019",
+		"id": 1135743843238735900,
+		"id_str": "1135747983193071617",
+		"full_text": "17년전 오늘, Avril Lavigne ‘Let Go’ 발매\n2002.6.4\n#에이브릴라빈 https://t.co/fRPqVjkDPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에이브릴라빈",
+					"indices": [
+						44,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135743836678787100,
+					"id_str": "1135743836678787073",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L5AIUUEAEwU9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L5AIUUEAEwU9T.jpg",
+					"url": "https://t.co/fRPqVjkDPm",
+					"display_url": "pic.twitter.com/fRPqVjkDPm",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1135743843238735872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135743836678787100,
+					"id_str": "1135743836678787073",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L5AIUUEAEwU9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L5AIUUEAEwU9T.jpg",
+					"url": "https://t.co/fRPqVjkDPm",
+					"display_url": "pic.twitter.com/fRPqVjkDPm",
+					"expanded_url": "https://twitter.com/FakeVirginSeoul/status/1135743843238735872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "6/8 BASEMENT JAXX • 7/27-7/28 HOLIDAY LAND FESTIVAL • 8/15 MAHALIA • 11/29 GUS DAPPERTON",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1468,
+			"friends_count": 59,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "17년전 오늘, Avril Lavigne ‘Let Go’ 발매\n2002.6.4\n#에이브릴라빈 https://t.co/fRPqVjkDPm"
+	},
+	{
+		"created_at": "Tue Jun 04 03:18:33 +0000 2019",
+		"id": 1135745007439114200,
+		"id_str": "1135747641302822913",
+		"full_text": "'음악 심은 데 음악 난다'는 파랑새극장의 장기 프로젝트로 파랑새극장이 8-90년대 음악 공연장으로 운영되면 당시 많은 음악가들의 데뷔 무대가 되었던 것처럼 다시 이 공간에서 다양한 음악과 공연이 소개되고 지속되기를 바라는 마음을 담았습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135744860940464100,
+		"in_reply_to_status_id_str": "1135744860940464128",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3565,
+			"friends_count": 1356,
+			"listed_count": 121,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'음악 심은 데 음악 난다'는 파랑새극장의 장기 프로젝트로 파랑새극장이 8-90년대 음악 공연장으로 운영되면 당시 많은 음악가들의 데뷔 무대가 되었던 것처럼 다시 이 공간에서 다양한 음악과 공연이 소개되고 지속되기를 바라는 마음을 담았습니다."
+	},
+	{
+		"created_at": "Tue Jun 04 03:18:27 +0000 2019",
+		"id": 1135744860940464100,
+		"id_str": "1135747615486808290",
+		"full_text": "\"파랑새극장 기획공연 - 음악 심은 데 음악 난다\"\n김목인 콘서트\n\n2019년 6월 29일(토) 오후 7시\n대학로 파랑새극장\n\nhttps://t.co/XQxlNFyrmI https://t.co/Am7jbyFKeA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XQxlNFyrmI",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=203675",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135744791092719600,
+					"id_str": "1135744791092719616",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L53ryU8AA-yJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L53ryU8AA-yJB.jpg",
+					"url": "https://t.co/Am7jbyFKeA",
+					"display_url": "pic.twitter.com/Am7jbyFKeA",
+					"expanded_url": "https://twitter.com/electric_muse/status/1135744860940464128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135744791092719600,
+					"id_str": "1135744791092719616",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L53ryU8AA-yJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L53ryU8AA-yJB.jpg",
+					"url": "https://t.co/Am7jbyFKeA",
+					"display_url": "pic.twitter.com/Am7jbyFKeA",
+					"expanded_url": "https://twitter.com/electric_muse/status/1135744860940464128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3565,
+			"friends_count": 1356,
+			"listed_count": 121,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"파랑새극장 기획공연 - 음악 심은 데 음악 난다\"\n김목인 콘서트\n\n2019년 6월 29일(토) 오후 7시\n대학로 파랑새극장\n\nhttps://t.co/XQxlNFyrmI https://t.co/Am7jbyFKeA"
+	},
+	{
+		"created_at": "Tue Jun 04 03:18:25 +0000 2019",
+		"id": 1135743046010622000,
+		"id_str": "1135747606511083520",
+		"full_text": "[#MUE_ㅊㅋㅊㅋ🎊]\n\n#선미 #가시나 뮤직비디오 유튜브 1억뷰 돌파를 축하합니다🥳\n#SUNMI #GASHINA M/V HITS 100 MILLION VIEWS on YouTube🎉\n\n🔗 https://t.co/C7leSOU6ES\n\n#Thank_You_MIYANE🤟💜 https://t.co/7r9Rz7aJdY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUE_ㅊㅋㅊㅋ",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "가시나",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "GASHINA",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "Thank_You_MIYANE",
+					"indices": [
+						131,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7leSOU6ES",
+					"expanded_url": "https://youtu.be/ur0hCdne2-s",
+					"display_url": "youtu.be/ur0hCdne2-s",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135738114545135600,
+					"id_str": "1135738114545135616",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8LzzDtVsAAUUFc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8LzzDtVsAAUUFc.jpg",
+					"url": "https://t.co/7r9Rz7aJdY",
+					"display_url": "pic.twitter.com/7r9Rz7aJdY",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1135743046010621952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135738114545135600,
+					"id_str": "1135738114545135616",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8LzzDtVsAAUUFc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8LzzDtVsAAUUFc.jpg",
+					"url": "https://t.co/7r9Rz7aJdY",
+					"display_url": "pic.twitter.com/7r9Rz7aJdY",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1135743046010621952/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 646,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							575,
+							323
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D8LzzDtVsAAUUFc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "MAKEUS_Ent",
+			"screen_name": "MAKEUS_Ent",
+			"location": "",
+			"description": "MAKEUS Entertainment 공식 트위터 입니다. [https://t.co/rVAme5caJr] [https://t.co/UICLMo31bs] [https://t.co/KckpUWVrbi]",
+			"url": "https://t.co/cKAGkoYHot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cKAGkoYHot",
+							"expanded_url": "http://www.makeusent.com/",
+							"display_url": "makeusent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rVAme5caJr",
+							"expanded_url": "http://facebook.com/makeusent",
+							"display_url": "facebook.com/makeusent",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/UICLMo31bs",
+							"expanded_url": "http://Instagram.com/makeus_ent",
+							"display_url": "Instagram.com/makeus_ent",
+							"indices": [
+								60,
+								83
+							]
+						},
+						{
+							"url": "https://t.co/KckpUWVrbi",
+							"expanded_url": "http://youtube.com/c/MAKEUSEntertainment",
+							"display_url": "youtube.com/c/MAKEUSEntert…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7718,
+			"friends_count": 3,
+			"listed_count": 71,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1554110227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 828,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MUE_ㅊㅋㅊㅋ🎊]\n\n#선미 #가시나 뮤직비디오 유튜브 1억뷰 돌파를 축하합니다🥳\n#SUNMI #GASHINA M/V HITS 100 MILLION VIEWS on YouTube🎉\n\n🔗 https://t.co/C7leSOU6ES\n\n#Thank_You_MIYANE🤟💜 https://t.co/7r9Rz7aJdY"
+	},
+	{
 		"created_at": "Tue Jun 04 03:11:42 +0000 2019",
 		"id": 1135736151577321500,
 		"id_str": "1135745918999912448",
