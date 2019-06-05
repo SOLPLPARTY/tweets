@@ -1,6 +1,1492 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 07:14:14 +0000 2019",
+		"id": 1136169339038646300,
+		"id_str": "1136169339038646273",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n선우정아 / SWJA - 5. 'My Birthday Song' (Official Audio)\nhttps://t.co/vkCAWYHH7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkCAWYHH7n",
+					"expanded_url": "https://youtu.be/ceHeYmM2Ynw",
+					"display_url": "youtu.be/ceHeYmM2Ynw",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n선우정아 / SWJA - 5. 'My Birthday Song' (Official Audio)\nhttps://t.co/vkCAWYHH7n"
+	},
+	{
+		"created_at": "Wed Jun 05 07:11:58 +0000 2019",
+		"id": 1136155699551952900,
+		"id_str": "1136168769468997632",
+		"full_text": "&lt;선비들&gt; \n일시 : 6/9 (일) 6:30PM\n장소:  #고인물 \n라인업 : 공중분해, 품바 21, 밴드 꼭두각시\n티켓가 : 무료입장 자율페이 \n#hippytokki https://t.co/jI69AjlSwQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "hippytokki",
+					"indices": [
+						88,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136152254157738000,
+					"id_str": "1136152254157737989",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsdJ_U0AUu3QQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsdJ_U0AUu3QQ.jpg",
+					"url": "https://t.co/jI69AjlSwQ",
+					"display_url": "pic.twitter.com/jI69AjlSwQ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155699551952896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136152254157738000,
+					"id_str": "1136152254157737989",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsdJ_U0AUu3QQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsdJ_U0AUu3QQ.jpg",
+					"url": "https://t.co/jI69AjlSwQ",
+					"display_url": "pic.twitter.com/jI69AjlSwQ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155699551952896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136155696494391300,
+		"in_reply_to_status_id_str": "1136155696494391297",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2555,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;선비들&gt; \n일시 : 6/9 (일) 6:30PM\n장소:  #고인물 \n라인업 : 공중분해, 품바 21, 밴드 꼭두각시\n티켓가 : 무료입장 자율페이 \n#hippytokki https://t.co/jI69AjlSwQ"
+	},
+	{
+		"created_at": "Wed Jun 05 07:11:55 +0000 2019",
+		"id": 1136155696494391300,
+		"id_str": "1136168756336570374",
+		"full_text": "&lt;어항 속에서&gt;\n일시 : 6/7 (금) 8PM\n장소:  #고인물 \n라인업 : 코튼스틱, 투 데이 올드 스니커즈, 벨라루이스 앤 스미스 \n티켓가 : 예매 10,000 / 현매 15,000\n예매 링크 : https://t.co/NE4dLiu4WZ\n#hippytokki https://t.co/g6IAsVb74E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "hippytokki",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NE4dLiu4WZ",
+					"expanded_url": "https://bit.ly/tokki10",
+					"display_url": "bit.ly/tokki10",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136152120120373200,
+					"id_str": "1136152120120373248",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsVWqU8AAWwMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsVWqU8AAWwMF.jpg",
+					"url": "https://t.co/g6IAsVb74E",
+					"display_url": "pic.twitter.com/g6IAsVb74E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155696494391297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136152120120373200,
+					"id_str": "1136152120120373248",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsVWqU8AAWwMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsVWqU8AAWwMF.jpg",
+					"url": "https://t.co/g6IAsVb74E",
+					"display_url": "pic.twitter.com/g6IAsVb74E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155696494391297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136155694690840600,
+		"in_reply_to_status_id_str": "1136155694690840576",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2555,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;어항 속에서&gt;\n일시 : 6/7 (금) 8PM\n장소:  #고인물 \n라인업 : 코튼스틱, 투 데이 올드 스니커즈, 벨라루이스 앤 스미스 \n티켓가 : 예매 10,000 / 현매 15,000\n예매 링크 : https://t.co/NE4dLiu4WZ\n#hippytokki https://t.co/g6IAsVb74E"
+	},
+	{
+		"created_at": "Wed Jun 05 07:11:47 +0000 2019",
+		"id": 1136155694690840600,
+		"id_str": "1136168722241150976",
+		"full_text": "&lt;SCENE &amp; HERD Party&gt;\n일시 : 6/6 (목) 8PM\n장소:  #고인물 \n라인업 : 이준형, 밴드 허드\n티켓가 : 무료입장 자율페이 \n#hippytokki https://t.co/Kyt8AsSsUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "hippytokki",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136151876372639700,
+					"id_str": "1136151876372639744",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsHKoVsAAaJjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsHKoVsAAaJjr.jpg",
+					"url": "https://t.co/Kyt8AsSsUq",
+					"display_url": "pic.twitter.com/Kyt8AsSsUq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155694690840576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136151876372639700,
+					"id_str": "1136151876372639744",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsHKoVsAAaJjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsHKoVsAAaJjr.jpg",
+					"url": "https://t.co/Kyt8AsSsUq",
+					"display_url": "pic.twitter.com/Kyt8AsSsUq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155694690840576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1136155692459421700,
+		"in_reply_to_status_id_str": "1136155692459421696",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2555,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;SCENE &amp; HERD Party&gt;\n일시 : 6/6 (목) 8PM\n장소:  #고인물 \n라인업 : 이준형, 밴드 허드\n티켓가 : 무료입장 자율페이 \n#hippytokki https://t.co/Kyt8AsSsUq"
+	},
+	{
+		"created_at": "Wed Jun 05 07:11:42 +0000 2019",
+		"id": 1136155692459421700,
+		"id_str": "1136168704918654977",
+		"full_text": "[공연추천]\n오늘부터 토요일을 제외한 주말까지 진행되는 고인물의 공연을 씬디가 추천합니다!\n\n&lt;나무드리 소울 뮤직 콘서트&gt;\n일시 : 6/5 (수) 9PM\n장소:  #고인물 \n라인업 : 나무드리\n티켓가 : 예매 5,000 / 현매 8,000\n예매 링크 : https://t.co/bbKQ1p7SJR\n#hippytokki https://t.co/tvHNjYbh2i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고인물",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "hippytokki",
+					"indices": [
+						172,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bbKQ1p7SJR",
+					"expanded_url": "https://bit.ly/tokki5000",
+					"display_url": "bit.ly/tokki5000",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136151812971438100,
+					"id_str": "1136151812971438085",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsDecUIAUQzET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsDecUIAUQzET.jpg",
+					"url": "https://t.co/tvHNjYbh2i",
+					"display_url": "pic.twitter.com/tvHNjYbh2i",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155692459421696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136151812971438100,
+					"id_str": "1136151812971438085",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RsDecUIAUQzET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RsDecUIAUQzET.jpg",
+					"url": "https://t.co/tvHNjYbh2i",
+					"display_url": "pic.twitter.com/tvHNjYbh2i",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136155692459421696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2555,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n오늘부터 토요일을 제외한 주말까지 진행되는 고인물의 공연을 씬디가 추천합니다!\n\n&lt;나무드리 소울 뮤직 콘서트&gt;\n일시 : 6/5 (수) 9PM\n장소:  #고인물 \n라인업 : 나무드리\n티켓가 : 예매 5,000 / 현매 8,000\n예매 링크 : https://t.co/bbKQ1p7SJR\n#hippytokki https://t.co/tvHNjYbh2i"
+	},
+	{
+		"created_at": "Wed Jun 05 06:54:12 +0000 2019",
+		"id": 1136164298579824600,
+		"id_str": "1136164298579824640",
+		"full_text": "【 #인터파크티켓 】\n[클래식/오페라] 국립무용단〈색동〉 공연취소 안내 : 추후공지 24 콘서트 2019 슈가볼 음주 전국 투어 ＇취한밤들＇ - 부산 티켓오픈 안내 19.06.10(월) 19:00\n▶ https://t.co/MAFaokAFzv\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						164,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAFaokAFzv",
+					"expanded_url": "http://bit.ly/2XrHHGB",
+					"display_url": "bit.ly/2XrHHGB",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 302,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[클래식/오페라] 국립무용단〈색동〉 공연취소 안내 : 추후공지 24 콘서트 2019 슈가볼 음주 전국 투어 ＇취한밤들＇ - 부산 티켓오픈 안내 19.06.10(월) 19:00\n▶ https://t.co/MAFaokAFzv\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Wed Jun 05 06:18:32 +0000 2019",
+		"id": 1136146088597921800,
+		"id_str": "1136155323046252544",
+		"full_text": "[#윤현상] Schedule🗓\n\n공연 소식이 가득한 윤현상의\n라디오 출연 소식을 알려 드립니다📻\n\n바로 얼마 전에 발매한 #애이불비 의 원곡자!\n🌸양파의 음악정원\nKBS 2Radio 106.1MHz \n내일 낮 12시에 출연합니다❗\n\n윤현상과 #양파 가 함께하는 라디오\n기대 많이 해주세요🔥\n\n#YOONHYUNSANG #음악정원 https://t.co/oQEjrgS4wo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤현상",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "애이불비",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "양파",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "YOONHYUNSANG",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"text": "음악정원",
+					"indices": [
+						177,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136145845529612300,
+					"id_str": "1136145845529612289",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RmoH_UEAEcY8c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RmoH_UEAEcY8c.jpg",
+					"url": "https://t.co/oQEjrgS4wo",
+					"display_url": "pic.twitter.com/oQEjrgS4wo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1136146088597921792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136145845529612300,
+					"id_str": "1136145845529612289",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D8RmoH_UEAEcY8c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8RmoH_UEAEcY8c.jpg",
+					"url": "https://t.co/oQEjrgS4wo",
+					"display_url": "pic.twitter.com/oQEjrgS4wo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1136146088597921792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 854,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 6,
+			"listed_count": 8,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤현상] Schedule🗓\n\n공연 소식이 가득한 윤현상의\n라디오 출연 소식을 알려 드립니다📻\n\n바로 얼마 전에 발매한 #애이불비 의 원곡자!\n🌸양파의 음악정원\nKBS 2Radio 106.1MHz \n내일 낮 12시에 출연합니다❗\n\n윤현상과 #양파 가 함께하는 라디오\n기대 많이 해주세요🔥\n\n#YOONHYUNSANG #음악정원 https://t.co/oQEjrgS4wo"
+	},
+	{
+		"created_at": "Wed Jun 05 06:18:28 +0000 2019",
+		"id": 1136141422610923500,
+		"id_str": "1136155305690181638",
+		"full_text": "*바로 듣기 ▶️ https://t.co/HaWsXISUlW\n-\n#랄라스윗의이중생활 #랄라스윗 #벅스 #라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗의이중생활",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						57,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HaWsXISUlW",
+					"expanded_url": "http://bit.ly/2ESEY1v",
+					"display_url": "bit.ly/2ESEY1v",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136141392869068800,
+		"in_reply_to_status_id_str": "1136141392869068801",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*바로 듣기 ▶️ https://t.co/HaWsXISUlW\n-\n#랄라스윗의이중생활 #랄라스윗 #벅스 #라디오"
+	},
+	{
+		"created_at": "Wed Jun 05 06:18:23 +0000 2019",
+		"id": 1136141392869068800,
+		"id_str": "1136155284068544512",
+		"full_text": "매번 약속에 늦을 때마다 고통받으면서도 이 버릇이 고쳐지지가 않네요. \n여러분들도 지각하는 버릇이 있다면 고통 받지 마시고 어서 고치시길 바랍니다. 정신건강을 위해서요 🙂\"\n\n랄라스윗의 이중생활 이번화도 즐겁게 들어주시구요, 다음화에 더욱더 참신한 주제와 선곡으로 돌아오겠습니다 😉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136141331233890300,
+		"in_reply_to_status_id_str": "1136141331233890304",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매번 약속에 늦을 때마다 고통받으면서도 이 버릇이 고쳐지지가 않네요. \n여러분들도 지각하는 버릇이 있다면 고통 받지 마시고 어서 고치시길 바랍니다. 정신건강을 위해서요 🙂\"\n\n랄라스윗의 이중생활 이번화도 즐겁게 들어주시구요, 다음화에 더욱더 참신한 주제와 선곡으로 돌아오겠습니다 😉"
+	},
+	{
 		"created_at": "Wed Jun 05 06:11:51 +0000 2019",
 		"id": 1136149011814002700,
 		"id_str": "1136153639821729792",
