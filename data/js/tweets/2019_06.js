@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 08:11:47 +0000 2019",
+		"id": 1136536673053864000,
+		"id_str": "1136546209521422337",
+		"full_text": "ㅤ\n[방송일시] 6월 6일 (목) 밤 11시 55분 방송 \nㅤ\n비가 내리는 오늘 밤 ☔️ㅤ\n모두 어디가지말고 \nEBS에 채널 고정🔒\nㅤ\n#EBS공감 #스페이스공감 #아마도이자람밴드 #아니 #Goingto #신이나타나서물었다 #FACE #일레인 #죽어도좋아 #깜빡 #I_will #음악치트키 #만능소리꾼 #오스트장인 #폭풍라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "아니",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "Goingto",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "신이나타나서물었다",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "FACE",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "일레인",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "죽어도좋아",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "깜빡",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "I_will",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "음악치트키",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "만능소리꾼",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "오스트장인",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "폭풍라이브",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136536669182603300,
+		"in_reply_to_status_id_str": "1136536669182603265",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278809,
+			"friends_count": 20706,
+			"listed_count": 852,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "ㅤ\n[방송일시] 6월 6일 (목) 밤 11시 55분 방송 \nㅤ\n비가 내리는 오늘 밤 ☔️ㅤ\n모두 어디가지말고 \nEBS에 채널 고정🔒\nㅤ\n#EBS공감 #스페이스공감 #아마도이자람밴드 #아니 #Goingto #신이나타나서물었다 #FACE #일레인 #죽어도좋아 #깜빡 #I_will #음악치트키 #만능소리꾼 #오스트장인 #폭풍라이브"
+	},
+	{
 		"created_at": "Thu Jun 06 05:19:54 +0000 2019",
 		"id": 1136495446266851300,
 		"id_str": "1136502956818337792",
