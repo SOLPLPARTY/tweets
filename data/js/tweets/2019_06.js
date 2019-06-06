@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 05:19:54 +0000 2019",
+		"id": 1136495446266851300,
+		"id_str": "1136502956818337792",
+		"full_text": "☮️ 철원 내 무료 셔틀버스 안내\n\n안전하고 평화로운 피스트레인을 위해 철원 내 무료 셔틀버스(터미널↔️고석정) 이용 관련 안내사항을 꼼꼼히 확인해주세요! \n\n✔️ 고석정 행 막차는 23시, 터미널 행 막차는 23시 30분 입니다.\n✔️ 각 셔틀 버스 승차장에 셔틀 안내 스태프가 있습니다. https://t.co/ms2gkHBrkw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136495436775055400,
+					"id_str": "1136495436775055360",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WklA3UYAAjbkd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WklA3UYAAjbkd.jpg",
+					"url": "https://t.co/ms2gkHBrkw",
+					"display_url": "pic.twitter.com/ms2gkHBrkw",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136495446266851328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136495436775055400,
+					"id_str": "1136495436775055360",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WklA3UYAAjbkd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WklA3UYAAjbkd.jpg",
+					"url": "https://t.co/ms2gkHBrkw",
+					"display_url": "pic.twitter.com/ms2gkHBrkw",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136495446266851328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136495437345460200,
+					"id_str": "1136495437345460224",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WklC_UEAAkN7W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WklC_UEAAkN7W.jpg",
+					"url": "https://t.co/ms2gkHBrkw",
+					"display_url": "pic.twitter.com/ms2gkHBrkw",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136495446266851328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136495436779249700,
+					"id_str": "1136495436779249664",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WklA4UYAARIlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WklA4UYAARIlX.jpg",
+					"url": "https://t.co/ms2gkHBrkw",
+					"display_url": "pic.twitter.com/ms2gkHBrkw",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136495446266851328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136495436779286500,
+					"id_str": "1136495436779286528",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WklA4U8AA1qBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WklA4U8AA1qBZ.jpg",
+					"url": "https://t.co/ms2gkHBrkw",
+					"display_url": "pic.twitter.com/ms2gkHBrkw",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136495446266851328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Dancing for a Borderless World 2019.6.5~6.9 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 483,
+			"friends_count": 31,
+			"listed_count": 3,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1557368934",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮️ 철원 내 무료 셔틀버스 안내\n\n안전하고 평화로운 피스트레인을 위해 철원 내 무료 셔틀버스(터미널↔️고석정) 이용 관련 안내사항을 꼼꼼히 확인해주세요! \n\n✔️ 고석정 행 막차는 23시, 터미널 행 막차는 23시 30분 입니다.\n✔️ 각 셔틀 버스 승차장에 셔틀 안내 스태프가 있습니다. https://t.co/ms2gkHBrkw"
+	},
+	{
 		"created_at": "Thu Jun 06 04:19:54 +0000 2019",
 		"id": 1136483399969910800,
 		"id_str": "1136487857953169408",
