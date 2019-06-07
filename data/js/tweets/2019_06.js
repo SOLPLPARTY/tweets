@@ -1,6 +1,1019 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 05:37:33 +0000 2019",
+		"id": 1136869786858733600,
+		"id_str": "1136869786858733568",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.06.10(월) Beijo（베이쥬）＆Laura Glyda 조인콘서트 티켓 오픈 안내\n▶ https://t.co/ZqULg0lRp0\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Q8guRUe61O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						144,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZqULg0lRp0",
+					"expanded_url": "http://bit.ly/2wIagDU",
+					"display_url": "bit.ly/2wIagDU",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136869785696899100,
+					"id_str": "1136869785696899074",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b5C_RWkAIUUtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b5C_RWkAIUUtq.jpg",
+					"url": "https://t.co/Q8guRUe61O",
+					"display_url": "pic.twitter.com/Q8guRUe61O",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869786858733568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136869785696899100,
+					"id_str": "1136869785696899074",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b5C_RWkAIUUtq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b5C_RWkAIUUtq.jpg",
+					"url": "https://t.co/Q8guRUe61O",
+					"display_url": "pic.twitter.com/Q8guRUe61O",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869786858733568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.06.10(월) Beijo（베이쥬）＆Laura Glyda 조인콘서트 티켓 오픈 안내\n▶ https://t.co/ZqULg0lRp0\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Q8guRUe61O"
+	},
+	{
+		"created_at": "Fri Jun 07 05:37:26 +0000 2019",
+		"id": 1136869756038996000,
+		"id_str": "1136869756038995973",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.06.12(수) 서울숲재즈페스티벌 티켓 오픈 안내\n▶ https://t.co/g6nnRTzEWt\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/hdue4FRmVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g6nnRTzEWt",
+					"expanded_url": "http://bit.ly/2Xwu3C3",
+					"display_url": "bit.ly/2Xwu3C3",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136869754994614300,
+					"id_str": "1136869754994614273",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b5BM5W4AEQMrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b5BM5W4AEQMrU.jpg",
+					"url": "https://t.co/hdue4FRmVE",
+					"display_url": "pic.twitter.com/hdue4FRmVE",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869756038995973/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136869754994614300,
+					"id_str": "1136869754994614273",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b5BM5W4AEQMrU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b5BM5W4AEQMrU.jpg",
+					"url": "https://t.co/hdue4FRmVE",
+					"display_url": "pic.twitter.com/hdue4FRmVE",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869756038995973/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.06.12(수) 서울숲재즈페스티벌 티켓 오픈 안내\n▶ https://t.co/g6nnRTzEWt\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/hdue4FRmVE"
+	},
+	{
+		"created_at": "Fri Jun 07 05:37:18 +0000 2019",
+		"id": 1136869722786598900,
+		"id_str": "1136869722786598912",
+		"full_text": "【 #멜론티켓 】\n[오픈] 19.06.14(금) 몽니 한 여름 밤의 Dream pop 2019 티켓 오픈 안내\n▶ https://t.co/gMrDyMEdaa\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/V9b2g7pIV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						141,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gMrDyMEdaa",
+					"expanded_url": "http://bit.ly/2wEP8hX",
+					"display_url": "bit.ly/2wEP8hX",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136869721595400200,
+					"id_str": "1136869721595400192",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b4_QeXUAAGnNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b4_QeXUAAGnNZ.jpg",
+					"url": "https://t.co/V9b2g7pIV2",
+					"display_url": "pic.twitter.com/V9b2g7pIV2",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869722786598912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136869721595400200,
+					"id_str": "1136869721595400192",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b4_QeXUAAGnNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b4_QeXUAAGnNZ.jpg",
+					"url": "https://t.co/V9b2g7pIV2",
+					"display_url": "pic.twitter.com/V9b2g7pIV2",
+					"expanded_url": "https://twitter.com/solplparty/status/1136869722786598912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론티켓 】\n[오픈] 19.06.14(금) 몽니 한 여름 밤의 Dream pop 2019 티켓 오픈 안내\n▶ https://t.co/gMrDyMEdaa\n　\n#Melon #멜론\n#Melon_Ticket #티켓오픈소식\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/V9b2g7pIV2"
+	},
+	{
+		"created_at": "Fri Jun 07 05:19:54 +0000 2019",
+		"id": 1136864707392856000,
+		"id_str": "1136865344990187520",
+		"full_text": "[그린플러그드 동해 2019 - 참여 아티스트 소개]\n\n'그린플러그드 동해 2019'에서 뜨거운 여름을 함께할 아티스트를 소개합니다. 철썩이는 파도 소리와 어우러질 멋진 무대를 상상하니 벌써부터 두근두근하네요٩(๑❛ᴗ❛๑)۶ '그린플러그드 동해 2019'에서 만나요! https://t.co/zddjGColrO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136864653839986700,
+					"id_str": "1136864653839986689",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b0YRnUcAE1C7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b0YRnUcAE1C7t.jpg",
+					"url": "https://t.co/zddjGColrO",
+					"display_url": "pic.twitter.com/zddjGColrO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1136864707392856065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136864653839986700,
+					"id_str": "1136864653839986689",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b0YRnUcAE1C7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b0YRnUcAE1C7t.jpg",
+					"url": "https://t.co/zddjGColrO",
+					"display_url": "pic.twitter.com/zddjGColrO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1136864707392856065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136864653839986700,
+					"id_str": "1136864653839986688",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b0YRnUcAArTC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b0YRnUcAArTC9.jpg",
+					"url": "https://t.co/zddjGColrO",
+					"display_url": "pic.twitter.com/zddjGColrO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1136864707392856065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136864653835825200,
+					"id_str": "1136864653835825153",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b0YRmU8AElHpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b0YRmU8AElHpe.jpg",
+					"url": "https://t.co/zddjGColrO",
+					"display_url": "pic.twitter.com/zddjGColrO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1136864707392856065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136864665336549400,
+					"id_str": "1136864665336549382",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D8b0Y8cUEAYyjI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8b0Y8cUEAYyjI2.jpg",
+					"url": "https://t.co/zddjGColrO",
+					"display_url": "pic.twitter.com/zddjGColrO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1136864707392856065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12857,
+			"friends_count": 165,
+			"listed_count": 262,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 - 참여 아티스트 소개]\n\n'그린플러그드 동해 2019'에서 뜨거운 여름을 함께할 아티스트를 소개합니다. 철썩이는 파도 소리와 어우러질 멋진 무대를 상상하니 벌써부터 두근두근하네요٩(๑❛ᴗ❛๑)۶ '그린플러그드 동해 2019'에서 만나요! https://t.co/zddjGColrO"
+	},
+	{
 		"created_at": "Fri Jun 07 05:12:06 +0000 2019",
 		"id": 1136862938889801700,
 		"id_str": "1136863380218630144",
