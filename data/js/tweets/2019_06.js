@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 13:11:42 +0000 2019",
+		"id": 1136974045587492900,
+		"id_str": "1136984077226168321",
+		"full_text": "[#씬디매거진 6월호]\n\n이번 호의 주인공은 두번 째 정규앨범으로 돌아온 우효님이신데요! 다양한 소식들이 담겨있는 씬디매거진을 통해 만나보세요 💜\n\n아래 링크에서 원본 이미지 파일을 확인해보실 수 있습니다.🙂\n👉 https://t.co/vI3o1oWGAr 👈 https://t.co/rLOklRVLMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디매거진",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vI3o1oWGAr",
+					"expanded_url": "http://reurl.kr/25F36A52KM",
+					"display_url": "reurl.kr/25F36A52KM",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136972529237540900,
+					"id_str": "1136972529237540865",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dWfcyUwAEemLu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dWfcyUwAEemLu.jpg",
+					"url": "https://t.co/rLOklRVLMr",
+					"display_url": "pic.twitter.com/rLOklRVLMr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136974045587492864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 770,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136972529237540900,
+					"id_str": "1136972529237540865",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dWfcyUwAEemLu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dWfcyUwAEemLu.jpg",
+					"url": "https://t.co/rLOklRVLMr",
+					"display_url": "pic.twitter.com/rLOklRVLMr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136974045587492864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 770,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 770,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136972546748715000,
+					"id_str": "1136972546748715008",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dWgeBUEAACzEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dWgeBUEAACzEd.jpg",
+					"url": "https://t.co/rLOklRVLMr",
+					"display_url": "pic.twitter.com/rLOklRVLMr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136974045587492864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136972566352896000,
+					"id_str": "1136972566352896000",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dWhnDUIAA2fjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dWhnDUIAA2fjM.jpg",
+					"url": "https://t.co/rLOklRVLMr",
+					"display_url": "pic.twitter.com/rLOklRVLMr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136974045587492864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 755,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2645,
+			"friends_count": 2554,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디매거진 6월호]\n\n이번 호의 주인공은 두번 째 정규앨범으로 돌아온 우효님이신데요! 다양한 소식들이 담겨있는 씬디매거진을 통해 만나보세요 💜\n\n아래 링크에서 원본 이미지 파일을 확인해보실 수 있습니다.🙂\n👉 https://t.co/vI3o1oWGAr 👈 https://t.co/rLOklRVLMr"
+	},
+	{
+		"created_at": "Fri Jun 07 12:19:54 +0000 2019",
+		"id": 1136961683291664400,
+		"id_str": "1136971041232871426",
+		"full_text": "Welcome to Ultra Korea 2019 🇰🇷🇰🇷🇰🇷 https://t.co/iuGwphQHad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136961659979817000,
+					"id_str": "1136961659979816960",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dMmxpV4AAXq8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dMmxpV4AAXq8U.jpg",
+					"url": "https://t.co/iuGwphQHad",
+					"display_url": "pic.twitter.com/iuGwphQHad",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1136961683291664384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136961659979817000,
+					"id_str": "1136961659979816960",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dMmxpV4AAXq8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dMmxpV4AAXq8U.jpg",
+					"url": "https://t.co/iuGwphQHad",
+					"display_url": "pic.twitter.com/iuGwphQHad",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1136961683291664384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136961659971366900,
+					"id_str": "1136961659971366914",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dMmxnU8AICMXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dMmxnU8AICMXX.jpg",
+					"url": "https://t.co/iuGwphQHad",
+					"display_url": "pic.twitter.com/iuGwphQHad",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1136961683291664384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136961659963002900,
+					"id_str": "1136961659963002886",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dMmxlVUAYH1T9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dMmxlVUAYH1T9.jpg",
+					"url": "https://t.co/iuGwphQHad",
+					"display_url": "pic.twitter.com/iuGwphQHad",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1136961683291664384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136961659988111400,
+					"id_str": "1136961659988111360",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D8dMmxrUcAAv7Dn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8dMmxrUcAAv7Dn.jpg",
+					"url": "https://t.co/iuGwphQHad",
+					"display_url": "pic.twitter.com/iuGwphQHad",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1136961683291664384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20313,
+			"friends_count": 24,
+			"listed_count": 123,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1557480241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to Ultra Korea 2019 🇰🇷🇰🇷🇰🇷 https://t.co/iuGwphQHad"
+	},
+	{
+		"created_at": "Fri Jun 07 12:18:22 +0000 2019",
+		"id": 1136957818370609200,
+		"id_str": "1136970653188448259",
+		"full_text": "▶️별도의 주차 공간이 마련되어 있지 않으므로 가급적 대중교통을 이용해 주시기 바랍니다.\n-\n#우주히피 #우리의저녁2019 #단독공연 #웨스트브릿지라이브홀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "우리의저녁2019",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "웨스트브릿지라이브홀",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136957794647588900,
+		"in_reply_to_status_id_str": "1136957794647588864",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1475,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▶️별도의 주차 공간이 마련되어 있지 않으므로 가급적 대중교통을 이용해 주시기 바랍니다.\n-\n#우주히피 #우리의저녁2019 #단독공연 #웨스트브릿지라이브홀"
+	},
+	{
+		"created_at": "Fri Jun 07 12:18:20 +0000 2019",
+		"id": 1136957794647588900,
+		"id_str": "1136970644221022210",
+		"full_text": "(*티켓은 현장 수령만 가능합니다. 신분증이나 예매 확인 내역을 미리 준비해주세요.)\n▶️공연장 입장 : 공연 30분 전부터 가능\n-\n▶️본 공연은 전석 지정석 공연입니다.\n▶️ 공연장 로비에서 이벤트가 진행될 예정입니다.\n▶️공연장 내에 코인 락커가 마련되어 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136957751131758600,
+		"in_reply_to_status_id_str": "1136957751131758594",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1475,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(*티켓은 현장 수령만 가능합니다. 신분증이나 예매 확인 내역을 미리 준비해주세요.)\n▶️공연장 입장 : 공연 30분 전부터 가능\n-\n▶️본 공연은 전석 지정석 공연입니다.\n▶️ 공연장 로비에서 이벤트가 진행될 예정입니다.\n▶️공연장 내에 코인 락커가 마련되어 있습니다."
+	},
+	{
 		"created_at": "Fri Jun 07 12:11:42 +0000 2019",
 		"id": 1136963048848076800,
 		"id_str": "1136968977777905664",
