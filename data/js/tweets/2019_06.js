@@ -1,6 +1,1234 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 05:12:06 +0000 2019",
+		"id": 1136862938889801700,
+		"id_str": "1136863380218630144",
+		"full_text": "[신규입고]\n📎 Smoking Goose 앨범 커버 스티커 6종\n\n강렬한 펑크 리듬 속에 진중한 메시지를 담는 스모킹 구스가 6월 5일 발매된 'STRUGGLES' EP 발매를 기념하여 한국, 일본, 대만에서 발매 투어를 진행한다고 합니다 ~ 기대 많이 해주세요 💕\n\n직접 만들어서 가져다주신 팬분께 감사드립니다 😌 https://t.co/A3Lva5Eo0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136862508281548800,
+					"id_str": "1136862508281548800",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bybYyU0AA7M1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bybYyU0AA7M1j.jpg",
+					"url": "https://t.co/A3Lva5Eo0A",
+					"display_url": "pic.twitter.com/A3Lva5Eo0A",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136862938889801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 726,
+							"h": 945,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136862508281548800,
+					"id_str": "1136862508281548800",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bybYyU0AA7M1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bybYyU0AA7M1j.jpg",
+					"url": "https://t.co/A3Lva5Eo0A",
+					"display_url": "pic.twitter.com/A3Lva5Eo0A",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136862938889801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 726,
+							"h": 945,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136862514900131800,
+					"id_str": "1136862514900131840",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bybxcUYAA7hHX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bybxcUYAA7hHX.jpg",
+					"url": "https://t.co/A3Lva5Eo0A",
+					"display_url": "pic.twitter.com/A3Lva5Eo0A",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136862938889801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136862528632307700,
+					"id_str": "1136862528632307713",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D8byckmUwAEbJJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8byckmUwAEbJJR.jpg",
+					"url": "https://t.co/A3Lva5Eo0A",
+					"display_url": "pic.twitter.com/A3Lva5Eo0A",
+					"expanded_url": "https://twitter.com/xindieticket/status/1136862938889801728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 2553,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📎 Smoking Goose 앨범 커버 스티커 6종\n\n강렬한 펑크 리듬 속에 진중한 메시지를 담는 스모킹 구스가 6월 5일 발매된 'STRUGGLES' EP 발매를 기념하여 한국, 일본, 대만에서 발매 투어를 진행한다고 합니다 ~ 기대 많이 해주세요 💕\n\n직접 만들어서 가져다주신 팬분께 감사드립니다 😌 https://t.co/A3Lva5Eo0A"
+	},
+	{
+		"created_at": "Fri Jun 07 05:11:58 +0000 2019",
+		"id": 1136860597234962400,
+		"id_str": "1136863345003380738",
+		"full_text": "친절한 체리헤어 원장님〰️🍒\n&lt;#보희와녹양&gt;\n\n6/7 금요일 20:20\n6/8 토요일 20:20\n6/9 일요일 13:00 17:50\n\n예매는 상상마당 홈페이지!\nhttps://t.co/ZpTSIHl0ix https://t.co/tszT5X4G2i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보희와녹양",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZpTSIHl0ix",
+					"expanded_url": "http://bit.ly/2w8LRXM",
+					"display_url": "bit.ly/2w8LRXM",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136859341103853600,
+					"id_str": "1136859341103853568",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136859341103853568/pu/img/Jh5HobMoVR8LfV_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136859341103853568/pu/img/Jh5HobMoVR8LfV_5.jpg",
+					"url": "https://t.co/tszT5X4G2i",
+					"display_url": "pic.twitter.com/tszT5X4G2i",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136860597234962434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136859341103853600,
+					"id_str": "1136859341103853568",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136859341103853568/pu/img/Jh5HobMoVR8LfV_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136859341103853568/pu/img/Jh5HobMoVR8LfV_5.jpg",
+					"url": "https://t.co/tszT5X4G2i",
+					"display_url": "pic.twitter.com/tszT5X4G2i",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136860597234962434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23815,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136859341103853568/pu/vid/480x480/Ir3bzoZZbMilGKk1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1136859341103853568/pu/pl/S1IScUScsVCip5oM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136859341103853568/pu/vid/320x320/HvakyrJZFMDLMxrq.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136859341103853568/pu/vid/720x720/ixbtQrb9oexSL3r-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19591,
+			"friends_count": 2034,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친절한 체리헤어 원장님〰️🍒\n&lt;#보희와녹양&gt;\n\n6/7 금요일 20:20\n6/8 토요일 20:20\n6/9 일요일 13:00 17:50\n\n예매는 상상마당 홈페이지!\nhttps://t.co/ZpTSIHl0ix https://t.co/tszT5X4G2i"
+	},
+	{
+		"created_at": "Fri Jun 07 05:11:49 +0000 2019",
+		"id": 1136859265212149800,
+		"id_str": "1136863310677233665",
+		"full_text": "#상상마당라운지\n상상마당 홍대 라운지(3F)에서는\n&lt;보희와 녹양&gt; 포토존 인증샷 이벤트가 진행중이에요:)\n-\n라운지 음료 들고 포토존에서 찰칵!\n#보희와녹양 #상상마당라운지3F 태그와 함께\nSNS에 올려주시면 &lt;보희와 녹양&gt; 영화 관람권 증정!\n-\n음료도 마시고 영화도 보기😉\n| 이벤트 기간 : ~ 6/30 https://t.co/JcKcXQaUt8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당라운지",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "보희와녹양",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "상상마당라운지3F",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136859118616993800,
+					"id_str": "1136859118616993795",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bvWFTUYAM3WU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bvWFTUYAM3WU3.jpg",
+					"url": "https://t.co/JcKcXQaUt8",
+					"display_url": "pic.twitter.com/JcKcXQaUt8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136859265212149760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136859118616993800,
+					"id_str": "1136859118616993795",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bvWFTUYAM3WU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bvWFTUYAM3WU3.jpg",
+					"url": "https://t.co/JcKcXQaUt8",
+					"display_url": "pic.twitter.com/JcKcXQaUt8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136859265212149760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136859242206335000,
+					"id_str": "1136859242206334977",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bvdRtUEAEz-rk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bvdRtUEAEz-rk.jpg",
+					"url": "https://t.co/JcKcXQaUt8",
+					"display_url": "pic.twitter.com/JcKcXQaUt8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136859265212149760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136859247428243500,
+					"id_str": "1136859247428243462",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bvdlKUEAY2htu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bvdlKUEAY2htu.jpg",
+					"url": "https://t.co/JcKcXQaUt8",
+					"display_url": "pic.twitter.com/JcKcXQaUt8",
+					"expanded_url": "https://twitter.com/SSmadang/status/1136859265212149760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19591,
+			"friends_count": 2034,
+			"listed_count": 324,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당라운지\n상상마당 홍대 라운지(3F)에서는\n&lt;보희와 녹양&gt; 포토존 인증샷 이벤트가 진행중이에요:)\n-\n라운지 음료 들고 포토존에서 찰칵!\n#보희와녹양 #상상마당라운지3F 태그와 함께\nSNS에 올려주시면 &lt;보희와 녹양&gt; 영화 관람권 증정!\n-\n음료도 마시고 영화도 보기😉\n| 이벤트 기간 : ~ 6/30 https://t.co/JcKcXQaUt8"
+	},
+	{
+		"created_at": "Fri Jun 07 05:11:42 +0000 2019",
+		"id": 1136850949127852000,
+		"id_str": "1136863280721485824",
+		"full_text": "6/16(sun) [clubFF - Alive]\nABTB\n와우터 Wowter\n플라잉독 Flying dog\n과대불판사용금지 GBSG\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/gbB6EeNEad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136850939829137400,
+					"id_str": "1136850939829137411",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bn6A8VsAMO8Ad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bn6A8VsAMO8Ad.jpg",
+					"url": "https://t.co/gbB6EeNEad",
+					"display_url": "pic.twitter.com/gbB6EeNEad",
+					"expanded_url": "https://twitter.com/clubFF_/status/1136850949127852033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136850939829137400,
+					"id_str": "1136850939829137411",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bn6A8VsAMO8Ad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bn6A8VsAMO8Ad.jpg",
+					"url": "https://t.co/gbB6EeNEad",
+					"display_url": "pic.twitter.com/gbB6EeNEad",
+					"expanded_url": "https://twitter.com/clubFF_/status/1136850949127852033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136850939820662800,
+					"id_str": "1136850939820662784",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bn6A6UYAA0xHB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bn6A6UYAA0xHB.jpg",
+					"url": "https://t.co/gbB6EeNEad",
+					"display_url": "pic.twitter.com/gbB6EeNEad",
+					"expanded_url": "https://twitter.com/clubFF_/status/1136850949127852033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6849,
+			"friends_count": 7,
+			"listed_count": 102,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "6/16(sun) [clubFF - Alive]\nABTB\n와우터 Wowter\n플라잉독 Flying dog\n과대불판사용금지 GBSG\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/gbB6EeNEad"
+	},
+	{
+		"created_at": "Fri Jun 07 04:19:55 +0000 2019",
+		"id": 1136844335104659500,
+		"id_str": "1136850247643148288",
+		"full_text": "☮️ 철원 내 무료 셔틀버스 안내\n\n✔️고석정행 신철원시외버스터미널 노선 셔틀버스 탑승위치: 농협중앙회 앞\n✔️고석정행 동성시외버스터미널 노선 셔틀버스 탑승위치: 롯데리아 앞\n✔️고석정행 막차는 23시, 터미널 행 막차는 23시 30분입니다. https://t.co/rAcMGgkCLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136844325046825000,
+					"id_str": "1136844325046824960",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bh4-9VsAAK2RO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bh4-9VsAAK2RO.jpg",
+					"url": "https://t.co/rAcMGgkCLs",
+					"display_url": "pic.twitter.com/rAcMGgkCLs",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136844335104659456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136844325046825000,
+					"id_str": "1136844325046824960",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bh4-9VsAAK2RO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bh4-9VsAAK2RO.jpg",
+					"url": "https://t.co/rAcMGgkCLs",
+					"display_url": "pic.twitter.com/rAcMGgkCLs",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136844335104659456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136844325059358700,
+					"id_str": "1136844325059358720",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bh4_AU8AAlcBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bh4_AU8AAlcBW.jpg",
+					"url": "https://t.co/rAcMGgkCLs",
+					"display_url": "pic.twitter.com/rAcMGgkCLs",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136844335104659456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136844325042630700,
+					"id_str": "1136844325042630656",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bh4-8VsAAlKGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bh4-8VsAAlKGG.jpg",
+					"url": "https://t.co/rAcMGgkCLs",
+					"display_url": "pic.twitter.com/rAcMGgkCLs",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136844335104659456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136844325055127600,
+					"id_str": "1136844325055127553",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D8bh4-_UYAEg_xb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8bh4-_UYAEg_xb.jpg",
+					"url": "https://t.co/rAcMGgkCLs",
+					"display_url": "pic.twitter.com/rAcMGgkCLs",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1136844335104659456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 432,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Dancing for a Borderless World 2019.6.5~6.9 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1557368934",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮️ 철원 내 무료 셔틀버스 안내\n\n✔️고석정행 신철원시외버스터미널 노선 셔틀버스 탑승위치: 농협중앙회 앞\n✔️고석정행 동성시외버스터미널 노선 셔틀버스 탑승위치: 롯데리아 앞\n✔️고석정행 막차는 23시, 터미널 행 막차는 23시 30분입니다. https://t.co/rAcMGgkCLs"
+	},
+	{
 		"created_at": "Fri Jun 07 04:02:00 +0000 2019",
 		"id": 1136845738904674300,
 		"id_str": "1136845738904674304",
