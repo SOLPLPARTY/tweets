@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 10:18:16 +0000 2019",
+		"id": 1137290300093632500,
+		"id_str": "1137302819126599680",
+		"full_text": "Melon · https://t.co/srIPMYANtM\nGenie · https://t.co/Hd3Fd4Keli\nNaver music · https://t.co/1UYUXZebO0\nMnet · https://t.co/4D54hW0fOJ\nBugs · https://t.co/SrwohnaI45",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/srIPMYANtM",
+					"expanded_url": "https://bit.ly/2wSxF5P",
+					"display_url": "bit.ly/2wSxF5P",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/Hd3Fd4Keli",
+					"expanded_url": "https://bit.ly/2wKbtKZ",
+					"display_url": "bit.ly/2wKbtKZ",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/1UYUXZebO0",
+					"expanded_url": "https://bit.ly/2MwAgN7",
+					"display_url": "bit.ly/2MwAgN7",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/4D54hW0fOJ",
+					"expanded_url": "https://bit.ly/2Wl7WND",
+					"display_url": "bit.ly/2Wl7WND",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/SrwohnaI45",
+					"expanded_url": "https://bit.ly/2WwsN5g",
+					"display_url": "bit.ly/2WwsN5g",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137284415824863200,
+		"in_reply_to_status_id_str": "1137284415824863232",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35039,
+			"friends_count": 15032,
+			"listed_count": 417,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1559700244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Melon · https://t.co/srIPMYANtM\nGenie · https://t.co/Hd3Fd4Keli\nNaver music · https://t.co/1UYUXZebO0\nMnet · https://t.co/4D54hW0fOJ\nBugs · https://t.co/SrwohnaI45"
+	},
+	{
 		"created_at": "Sat Jun 08 09:39:24 +0000 2019",
 		"id": 1137293035258224600,
 		"id_str": "1137293035258224640",
