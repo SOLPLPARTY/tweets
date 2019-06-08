@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 13:18:16 +0000 2019",
+		"id": 1137336366658871300,
+		"id_str": "1137348117391642625",
+		"full_text": "[김사월x김해원] 금요일과 토요일 이틀간 김사월x김해원은 ‘DMZ 피스트레인 뮤직 페스티벌’과 함께했습니다.\n모두 행복한 시간 되었길 바랍니다❤️💙\n-\n#김사월x김해원 #dmzpeacetrainmusicfestival https://t.co/bvLkUVqoav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월x김해원",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "dmzpeacetrainmusicfestival",
+					"indices": [
+						94,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137336340075278300,
+					"id_str": "1137336340075278341",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ihYBxUcAUT4m6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ihYBxUcAUT4m6.jpg",
+					"url": "https://t.co/bvLkUVqoav",
+					"display_url": "pic.twitter.com/bvLkUVqoav",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1137336366658871298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137336340075278300,
+					"id_str": "1137336340075278341",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ihYBxUcAUT4m6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ihYBxUcAUT4m6.jpg",
+					"url": "https://t.co/bvLkUVqoav",
+					"display_url": "pic.twitter.com/bvLkUVqoav",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1137336366658871298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137336340071059500,
+					"id_str": "1137336340071059457",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ihYBwUEAEC6zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ihYBwUEAEC6zb.jpg",
+					"url": "https://t.co/bvLkUVqoav",
+					"display_url": "pic.twitter.com/bvLkUVqoav",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1137336366658871298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137336340083761200,
+					"id_str": "1137336340083761152",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ihYBzV4AApfKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ihYBzV4AApfKJ.jpg",
+					"url": "https://t.co/bvLkUVqoav",
+					"display_url": "pic.twitter.com/bvLkUVqoav",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1137336366658871298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137336340075257900,
+					"id_str": "1137336340075257856",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ihYBxUIAAB8ii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ihYBxUIAAB8ii.jpg",
+					"url": "https://t.co/bvLkUVqoav",
+					"display_url": "pic.twitter.com/bvLkUVqoav",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1137336366658871298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1475,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월x김해원] 금요일과 토요일 이틀간 김사월x김해원은 ‘DMZ 피스트레인 뮤직 페스티벌’과 함께했습니다.\n모두 행복한 시간 되었길 바랍니다❤️💙\n-\n#김사월x김해원 #dmzpeacetrainmusicfestival https://t.co/bvLkUVqoav"
+	},
+	{
 		"created_at": "Sat Jun 08 13:11:55 +0000 2019",
 		"id": 1137332464223834100,
 		"id_str": "1137346517935775745",
