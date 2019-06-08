@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 07:11:42 +0000 2019",
+		"id": 1137244061465661400,
+		"id_str": "1137255867529736192",
+		"full_text": "🔈6월 8일 (토) 난장 on air🔈\n토요일 오후 4시 50분\n광주MBC ON AIR!!\n아르헨티나 재즈 뮤지션 \n#KarenSouza 카렌수자\n스타일리시 싱어송라이터 \n#MYQ #마이큐\n편이 방송됩니다~\nhttps://t.co/K5iwNuO4bW 에서도 \n실시간 시청, \n방송 다시보기 가능합니다\n. https://t.co/bwBZQXDp6i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KarenSouza",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"text": "MYQ",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "마이큐",
+					"indices": [
+						101,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K5iwNuO4bW",
+					"expanded_url": "http://www.kjmbc.co.kr",
+					"display_url": "kjmbc.co.kr",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137244022450188300,
+					"id_str": "1137244022450188289",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D8hNab0UcAEvxD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8hNab0UcAEvxD3.jpg",
+					"url": "https://t.co/bwBZQXDp6i",
+					"display_url": "pic.twitter.com/bwBZQXDp6i",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1137244061465661441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137244022450188300,
+					"id_str": "1137244022450188289",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D8hNab0UcAEvxD3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8hNab0UcAEvxD3.jpg",
+					"url": "https://t.co/bwBZQXDp6i",
+					"display_url": "pic.twitter.com/bwBZQXDp6i",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1137244061465661441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137244036215914500,
+					"id_str": "1137244036215914496",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D8hNbPGUwAA7mUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8hNbPGUwAA7mUU.jpg",
+					"url": "https://t.co/bwBZQXDp6i",
+					"display_url": "pic.twitter.com/bwBZQXDp6i",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1137244061465661441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4458,
+			"friends_count": 3674,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈6월 8일 (토) 난장 on air🔈\n토요일 오후 4시 50분\n광주MBC ON AIR!!\n아르헨티나 재즈 뮤지션 \n#KarenSouza 카렌수자\n스타일리시 싱어송라이터 \n#MYQ #마이큐\n편이 방송됩니다~\nhttps://t.co/K5iwNuO4bW 에서도 \n실시간 시청, \n방송 다시보기 가능합니다\n. https://t.co/bwBZQXDp6i"
+	},
+	{
 		"created_at": "Sat Jun 08 06:11:42 +0000 2019",
 		"id": 1137231485595820000,
 		"id_str": "1137240768005988353",
