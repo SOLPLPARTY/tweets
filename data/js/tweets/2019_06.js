@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 14:18:16 +0000 2019",
+		"id": 1137362662809952300,
+		"id_str": "1137363216651214849",
+		"full_text": "#20190608\n#나인 #나인NINE9 #디어클라우드\n오랜만에 #대학로 에서\n#많은분들이와주셔서감사했습니다\n#긱인서울 #GIGinSeoul \n#7월싱글발매 #내가잠에들면깨우지마세요 https://t.co/ItInEWHA9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "대학로",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "많은분들이와주셔서감사했습니다",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"text": "긱인서울",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "GIGinSeoul",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "7월싱글발매",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "내가잠에들면깨우지마세요",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137362630815838200,
+					"id_str": "1137362630815838210",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D8i5SWaU8AI0t2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8i5SWaU8AI0t2F.jpg",
+					"url": "https://t.co/ItInEWHA9y",
+					"display_url": "pic.twitter.com/ItInEWHA9y",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1137362662809952257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137362630815838200,
+					"id_str": "1137362630815838210",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D8i5SWaU8AI0t2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8i5SWaU8AI0t2F.jpg",
+					"url": "https://t.co/ItInEWHA9y",
+					"display_url": "pic.twitter.com/ItInEWHA9y",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1137362662809952257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2868,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190608\n#나인 #나인NINE9 #디어클라우드\n오랜만에 #대학로 에서\n#많은분들이와주셔서감사했습니다\n#긱인서울 #GIGinSeoul \n#7월싱글발매 #내가잠에들면깨우지마세요 https://t.co/ItInEWHA9y"
+	},
+	{
 		"created_at": "Sat Jun 08 13:18:16 +0000 2019",
 		"id": 1137336366658871300,
 		"id_str": "1137348117391642625",
