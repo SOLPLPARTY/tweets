@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 04:11:42 +0000 2019",
+		"id": 1137558357638729700,
+		"id_str": "1137572957562298369",
+		"full_text": "네스트 나다의 음향을 맡고 있는 \n신기원 감독님의 어머님께서 별세하셨습니다.\n⠀⠀⠀\n고인의 명복을 빌어주시고, 슬픔에 잠긴 유가족분들에게 따뜻한 위로의 말씀을 전해주시기 바랍니다.\n⠀⠀⠀\n삼가 고인의 명복을 빕니다. https://t.co/ZENdVogPf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137558346855116800,
+					"id_str": "1137558346855116800",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D8lrSheUcAADQ_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8lrSheUcAADQ_Y.jpg",
+					"url": "https://t.co/ZENdVogPf3",
+					"display_url": "pic.twitter.com/ZENdVogPf3",
+					"expanded_url": "https://twitter.com/nestNADA/status/1137558357638729728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137558346855116800,
+					"id_str": "1137558346855116800",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/D8lrSheUcAADQ_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8lrSheUcAADQ_Y.jpg",
+					"url": "https://t.co/ZENdVogPf3",
+					"display_url": "pic.twitter.com/ZENdVogPf3",
+					"expanded_url": "https://twitter.com/nestNADA/status/1137558357638729728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 923,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네스트 나다의 음향을 맡고 있는 \n신기원 감독님의 어머님께서 별세하셨습니다.\n⠀⠀⠀\n고인의 명복을 빌어주시고, 슬픔에 잠긴 유가족분들에게 따뜻한 위로의 말씀을 전해주시기 바랍니다.\n⠀⠀⠀\n삼가 고인의 명복을 빕니다. https://t.co/ZENdVogPf3"
+	},
+	{
 		"created_at": "Sun Jun 09 03:11:42 +0000 2019",
 		"id": 1137555424838688800,
 		"id_str": "1137557857426169857",
