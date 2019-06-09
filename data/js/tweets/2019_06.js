@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 10:19:54 +0000 2019",
+		"id": 1137661065737723900,
+		"id_str": "1137665617736192000",
+		"full_text": "오늘 스웨디쉬 하우스 마피아 출연 취소로 인한 울트라 코리아 2019 공연 환불 관련해 공지드립니다. https://t.co/qs5FBY8QoX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137661061060997100,
+					"id_str": "1137661061060997120",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D8nItRtVsAAMuHi.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8nItRtVsAAMuHi.png",
+					"url": "https://t.co/qs5FBY8QoX",
+					"display_url": "pic.twitter.com/qs5FBY8QoX",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1137661065737723904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137661061060997100,
+					"id_str": "1137661061060997120",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D8nItRtVsAAMuHi.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8nItRtVsAAMuHi.png",
+					"url": "https://t.co/qs5FBY8QoX",
+					"display_url": "pic.twitter.com/qs5FBY8QoX",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1137661065737723904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137661060939419600,
+					"id_str": "1137661060939419648",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D8nItRQWkAAOvtb.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8nItRQWkAAOvtb.png",
+					"url": "https://t.co/qs5FBY8QoX",
+					"display_url": "pic.twitter.com/qs5FBY8QoX",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1137661065737723904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter for Ultra Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20360,
+			"friends_count": 24,
+			"listed_count": 123,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1557480241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 스웨디쉬 하우스 마피아 출연 취소로 인한 울트라 코리아 2019 공연 환불 관련해 공지드립니다. https://t.co/qs5FBY8QoX"
+	},
+	{
 		"created_at": "Sun Jun 09 09:09:04 +0000 2019",
 		"id": 1137647789574361100,
 		"id_str": "1137647789574361088",
