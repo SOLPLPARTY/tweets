@@ -1,6 +1,1762 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 09:12:01 +0000 2019",
+		"id": 1138005412253319200,
+		"id_str": "1138010920498675712",
+		"full_text": "📍현재 씬디티켓라운지 MD 모음\n\n현재 씬디에 있는 MD(부채, 물티슈, 풍선, 핀버튼 등) 사진들을 조금 더 자세히 찍어봤는데요 📸\n씬디티켓라운지에는 다양한 공연 정보와 각종 소식지, 스티커 등 자유롭게 이용하실 수 있으니 밖에서만 힐끔 👀구경하지 마시고 편하게 오셔서 이용하세요 🥰 https://t.co/2ebPTkuXJC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138005142953795600,
+					"id_str": "1138005142953795584",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBpepUIAA04E9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBpepUIAA04E9.jpg",
+					"url": "https://t.co/2ebPTkuXJC",
+					"display_url": "pic.twitter.com/2ebPTkuXJC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005412253319168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138005142953795600,
+					"id_str": "1138005142953795584",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBpepUIAA04E9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBpepUIAA04E9.jpg",
+					"url": "https://t.co/2ebPTkuXJC",
+					"display_url": "pic.twitter.com/2ebPTkuXJC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005412253319168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138005150860173300,
+					"id_str": "1138005150860173312",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBp8GV4AA0RjF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBp8GV4AA0RjF.jpg",
+					"url": "https://t.co/2ebPTkuXJC",
+					"display_url": "pic.twitter.com/2ebPTkuXJC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005412253319168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138005159525531600,
+					"id_str": "1138005159525531648",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBqcYUwAA3Ru-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBqcYUwAA3Ru-.jpg",
+					"url": "https://t.co/2ebPTkuXJC",
+					"display_url": "pic.twitter.com/2ebPTkuXJC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005412253319168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 706,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138005166924259300,
+					"id_str": "1138005166924259328",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBq38UYAAgsqQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBq38UYAAgsqQ.jpg",
+					"url": "https://t.co/2ebPTkuXJC",
+					"display_url": "pic.twitter.com/2ebPTkuXJC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005412253319168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1138005406066679800,
+		"in_reply_to_status_id_str": "1138005406066679809",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2653,
+			"friends_count": 2560,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍현재 씬디티켓라운지 MD 모음\n\n현재 씬디에 있는 MD(부채, 물티슈, 풍선, 핀버튼 등) 사진들을 조금 더 자세히 찍어봤는데요 📸\n씬디티켓라운지에는 다양한 공연 정보와 각종 소식지, 스티커 등 자유롭게 이용하실 수 있으니 밖에서만 힐끔 👀구경하지 마시고 편하게 오셔서 이용하세요 🥰 https://t.co/2ebPTkuXJC"
+	},
+	{
+		"created_at": "Mon Jun 10 09:11:59 +0000 2019",
+		"id": 1138005406066679800,
+		"id_str": "1138010911682306051",
+		"full_text": "[신규입고]\n📎소낙별 [Asteroid Cloud] CD &amp; 스티커 2종 \n\n지난주 토요일 씬디 앞에서 버스킹을 마치신 소낙별님의 CD와 소속 레이블 블랙쉽과 소낙별님의 로고가 담긴 스티커가 입고되었답니다 😉\n매력적인 목소리로 많은 관객분들이 공연을 관람해주셨는데요! 앞으로도 많은 관심 부탁드립니다 💞 https://t.co/iksHO4gfhF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138004711536177200,
+					"id_str": "1138004711536177152",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBQXfVsAA5TVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBQXfVsAA5TVi.jpg",
+					"url": "https://t.co/iksHO4gfhF",
+					"display_url": "pic.twitter.com/iksHO4gfhF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005406066679809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138004711536177200,
+					"id_str": "1138004711536177152",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBQXfVsAA5TVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBQXfVsAA5TVi.jpg",
+					"url": "https://t.co/iksHO4gfhF",
+					"display_url": "pic.twitter.com/iksHO4gfhF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1138005406066679809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2653,
+			"friends_count": 2560,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📎소낙별 [Asteroid Cloud] CD &amp; 스티커 2종 \n\n지난주 토요일 씬디 앞에서 버스킹을 마치신 소낙별님의 CD와 소속 레이블 블랙쉽과 소낙별님의 로고가 담긴 스티커가 입고되었답니다 😉\n매력적인 목소리로 많은 관객분들이 공연을 관람해주셨는데요! 앞으로도 많은 관심 부탁드립니다 💞 https://t.co/iksHO4gfhF"
+	},
+	{
+		"created_at": "Mon Jun 10 09:11:54 +0000 2019",
+		"id": 1138000770408693800,
+		"id_str": "1138010890249412609",
+		"full_text": "[#씬디라이브]\n\n사람을 이야기하는 밴드 OFF.E(오프이)의 씬디라이브 영상을 공개합니다 😆\nEP 앨범 [The day from the mirror]는 아침부터 새벽까지 일어나는 일들과 그 안에서 생각하는 한 사람의 이야기를 담아냈다고 하니 함께 감상해보세요 💙\n\n🎵OFF.E(오프이) - 아침 : https://t.co/IFmIhcvAUP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디라이브",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IFmIhcvAUP",
+					"expanded_url": "http://reurl.kr/26236F03EE",
+					"display_url": "reurl.kr/26236F03EE",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2653,
+			"friends_count": 2560,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디라이브]\n\n사람을 이야기하는 밴드 OFF.E(오프이)의 씬디라이브 영상을 공개합니다 😆\nEP 앨범 [The day from the mirror]는 아침부터 새벽까지 일어나는 일들과 그 안에서 생각하는 한 사람의 이야기를 담아냈다고 하니 함께 감상해보세요 💙\n\n🎵OFF.E(오프이) - 아침 : https://t.co/IFmIhcvAUP"
+	},
+	{
+		"created_at": "Mon Jun 10 09:11:47 +0000 2019",
+		"id": 1137999584632819700,
+		"id_str": "1138010864022413312",
+		"full_text": "새 앨범의 곡을 처음으로 들을 수 있는 공연!\n새 앨범 기념 굿즈 판매!\n회차별 변화된 셋리스트로 공연을 즐기실 수 있습니다. \n\n#전기뱀장어 #톤스튜디오 #LightsofYeonnam #헤드폰 https://t.co/LIMM0HLcWY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "톤스튜디오",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "LightsofYeonnam",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "헤드폰",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137998590058541000,
+					"id_str": "1137998590058541058",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r7sDNVsAIq-yU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r7sDNVsAIq-yU.jpg",
+					"url": "https://t.co/LIMM0HLcWY",
+					"display_url": "pic.twitter.com/LIMM0HLcWY",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999584632819712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137998590058541000,
+					"id_str": "1137998590058541058",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r7sDNVsAIq-yU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r7sDNVsAIq-yU.jpg",
+					"url": "https://t.co/LIMM0HLcWY",
+					"display_url": "pic.twitter.com/LIMM0HLcWY",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999584632819712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137998628025380900,
+					"id_str": "1137998628025380864",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r7uQpVsAA9AQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r7uQpVsAA9AQA.jpg",
+					"url": "https://t.co/LIMM0HLcWY",
+					"display_url": "pic.twitter.com/LIMM0HLcWY",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999584632819712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137998661806317600,
+					"id_str": "1137998661806317569",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r7wOfV4AE_sqK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r7wOfV4AE_sqK.jpg",
+					"url": "https://t.co/LIMM0HLcWY",
+					"display_url": "pic.twitter.com/LIMM0HLcWY",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999584632819712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137999062324539400,
+					"id_str": "1137999062324539392",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r8HiiU8AAYaOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r8HiiU8AAYaOP.jpg",
+					"url": "https://t.co/LIMM0HLcWY",
+					"display_url": "pic.twitter.com/LIMM0HLcWY",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999584632819712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1137999579029225500,
+		"in_reply_to_status_id_str": "1137999579029225472",
+		"in_reply_to_user_id": 948612782735290400,
+		"in_reply_to_user_id_str": "948612782735290368",
+		"in_reply_to_screen_name": "TONEStudio1",
+		"user": {
+			"id": 948612782735290400,
+			"id_str": "948612782735290368",
+			"name": "톤 스튜디오 라이브",
+			"screen_name": "TONEStudio1",
+			"location": "서울시 마포구 성미산로 64-5",
+			"description": "숨소리 하나까지 놓치지 않도록, 고품격 라이브 공연 TONE STUDIO LIVE. 톤 스튜디오 X 뮤지션 콜라보 라이브 공연 소식을 전하는 공식 계정입니다.",
+			"url": "https://t.co/n36vK38P0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n36vK38P0a",
+							"expanded_url": "http://www.tonestudio.co.kr",
+							"display_url": "tonestudio.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 31,
+			"listed_count": 1,
+			"created_at": "Wed Jan 03 17:51:26 +0000 2018",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948612782735290368/1539848647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 앨범의 곡을 처음으로 들을 수 있는 공연!\n새 앨범 기념 굿즈 판매!\n회차별 변화된 셋리스트로 공연을 즐기실 수 있습니다. \n\n#전기뱀장어 #톤스튜디오 #LightsofYeonnam #헤드폰 https://t.co/LIMM0HLcWY"
+	},
+	{
+		"created_at": "Mon Jun 10 09:11:42 +0000 2019",
+		"id": 1137999579029225500,
+		"id_str": "1138010842547535873",
+		"full_text": "⚡전기뱀장어의 싱글 'Lights of Yeon-nam' 발매 기념을 소개합니다.\n⠀\n전기뱀장어 스튜디오 라이브\n[Lights of Yeon-nam]\n⠀\n🔸날짜 : 2019.06.29 (토)\n🔸시간 : 오후 3시, 오후 7시 30분 (2회 공연)\n🔸장소 : 톤 스튜디오 (마포구 성미산로 64-5)\n🔸티켓 : 네이버 예약 ▶https://t.co/MvTPUK9sxU https://t.co/OF0YVlUNAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MvTPUK9sxU",
+					"expanded_url": "http://bit.ly/2Wk3CD2",
+					"display_url": "bit.ly/2Wk3CD2",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137998873551491100,
+					"id_str": "1137998873551491078",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r78jTU0AYoc19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r78jTU0AYoc19.jpg",
+					"url": "https://t.co/OF0YVlUNAM",
+					"display_url": "pic.twitter.com/OF0YVlUNAM",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999579029225472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137998873551491100,
+					"id_str": "1137998873551491078",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r78jTU0AYoc19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r78jTU0AYoc19.jpg",
+					"url": "https://t.co/OF0YVlUNAM",
+					"display_url": "pic.twitter.com/OF0YVlUNAM",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999579029225472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137998928886939600,
+					"id_str": "1137998928886939648",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r7_xcUwAAATG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r7_xcUwAAATG6.jpg",
+					"url": "https://t.co/OF0YVlUNAM",
+					"display_url": "pic.twitter.com/OF0YVlUNAM",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999579029225472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137998968992878600,
+					"id_str": "1137998968992878592",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r8CG2U0AA4rgO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r8CG2U0AA4rgO.jpg",
+					"url": "https://t.co/OF0YVlUNAM",
+					"display_url": "pic.twitter.com/OF0YVlUNAM",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999579029225472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137998996553646100,
+					"id_str": "1137998996553646082",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D8r8DthUwAIg-q4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8r8DthUwAIg-q4.jpg",
+					"url": "https://t.co/OF0YVlUNAM",
+					"display_url": "pic.twitter.com/OF0YVlUNAM",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1137999579029225472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948612782735290400,
+			"id_str": "948612782735290368",
+			"name": "톤 스튜디오 라이브",
+			"screen_name": "TONEStudio1",
+			"location": "서울시 마포구 성미산로 64-5",
+			"description": "숨소리 하나까지 놓치지 않도록, 고품격 라이브 공연 TONE STUDIO LIVE. 톤 스튜디오 X 뮤지션 콜라보 라이브 공연 소식을 전하는 공식 계정입니다.",
+			"url": "https://t.co/n36vK38P0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n36vK38P0a",
+							"expanded_url": "http://www.tonestudio.co.kr",
+							"display_url": "tonestudio.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 31,
+			"listed_count": 1,
+			"created_at": "Wed Jan 03 17:51:26 +0000 2018",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948612782735290368/1539848647",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡전기뱀장어의 싱글 'Lights of Yeon-nam' 발매 기념을 소개합니다.\n⠀\n전기뱀장어 스튜디오 라이브\n[Lights of Yeon-nam]\n⠀\n🔸날짜 : 2019.06.29 (토)\n🔸시간 : 오후 3시, 오후 7시 30분 (2회 공연)\n🔸장소 : 톤 스튜디오 (마포구 성미산로 64-5)\n🔸티켓 : 네이버 예약 ▶https://t.co/MvTPUK9sxU https://t.co/OF0YVlUNAM"
+	},
+	{
+		"created_at": "Mon Jun 10 09:04:23 +0000 2019",
+		"id": 1138009001134841900,
+		"id_str": "1138009001134841856",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 45 - it's you\nhttps://t.co/AT2zwxiLKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AT2zwxiLKr",
+					"expanded_url": "https://youtu.be/okwQ9JLHel4",
+					"display_url": "youtu.be/okwQ9JLHel4",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 45 - it's you\nhttps://t.co/AT2zwxiLKr"
+	},
+	{
+		"created_at": "Mon Jun 10 09:04:13 +0000 2019",
+		"id": 1138008958122246100,
+		"id_str": "1138008958122246144",
+		"full_text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n언텔(Untell)만의 음악 세계 'UNTAILAND'의 의미는? [새가요라디오]\nhttps://t.co/BjTxy84Kgx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjTxy84Kgx",
+					"expanded_url": "https://youtu.be/p34dJevelIA",
+					"display_url": "youtu.be/p34dJevelIA",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n언텔(Untell)만의 음악 세계 'UNTAILAND'의 의미는? [새가요라디오]\nhttps://t.co/BjTxy84Kgx"
+	},
+	{
+		"created_at": "Mon Jun 10 09:04:12 +0000 2019",
+		"id": 1138008954976526300,
+		"id_str": "1138008954976526336",
+		"full_text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n'Hardrally' 비하인드 스토리: \"진짜 언텔을 보여주는 곡이에요\" [새가요라디오]\nhttps://t.co/1R0GepJndf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1R0GepJndf",
+					"expanded_url": "https://youtu.be/ApTGkncv21U",
+					"display_url": "youtu.be/ApTGkncv21U",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n'Hardrally' 비하인드 스토리: \"진짜 언텔을 보여주는 곡이에요\" [새가요라디오]\nhttps://t.co/1R0GepJndf"
+	},
+	{
+		"created_at": "Mon Jun 10 08:47:35 +0000 2019",
+		"id": 1138004771955253200,
+		"id_str": "1138004771955253248",
+		"full_text": "【 #가온차트 】\n5월 리뷰 (2019)\n▶ https://t.co/MJ2Suntrfk\n　\n#GaonChart #가온 #Gaon #칼럼 https://t.co/t7IZdFy2qW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "가온",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						72,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJ2Suntrfk",
+					"expanded_url": "http://bit.ly/2KFq1Ui",
+					"display_url": "bit.ly/2KFq1Ui",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138004770768207900,
+					"id_str": "1138004770768207872",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBT0JWwAAg0w-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBT0JWwAAg0w-.png",
+					"url": "https://t.co/t7IZdFy2qW",
+					"display_url": "pic.twitter.com/t7IZdFy2qW",
+					"expanded_url": "https://twitter.com/solplparty/status/1138004771955253248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138004770768207900,
+					"id_str": "1138004770768207872",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sBT0JWwAAg0w-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8sBT0JWwAAg0w-.png",
+					"url": "https://t.co/t7IZdFy2qW",
+					"display_url": "pic.twitter.com/t7IZdFy2qW",
+					"expanded_url": "https://twitter.com/solplparty/status/1138004771955253248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #가온차트 】\n5월 리뷰 (2019)\n▶ https://t.co/MJ2Suntrfk\n　\n#GaonChart #가온 #Gaon #칼럼 https://t.co/t7IZdFy2qW"
+	},
+	{
 		"created_at": "Mon Jun 10 08:00:29 +0000 2019",
 		"id": 1137992917702852600,
 		"id_str": "1137992917702852609",
