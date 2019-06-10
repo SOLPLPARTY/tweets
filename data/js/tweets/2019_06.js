@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 11:18:24 +0000 2019",
+		"id": 1138041849518575600,
+		"id_str": "1138042725922746368",
+		"full_text": "#20190610\n#권영찬 #연주회 #앨범\n이번주 토요일(15일) 저녁6시\n5월에 진행된 콘서트 #라이브앨범 \n#음원 이 발매 됩니다\n마지막 트랙에 목소리를 담아주신 분들의 \n성함을 확인하시고 변경하고자 하시는 분들은 \n댓글로 적힌 이름 -&gt; 원하는 이름을 남겨주세요\n#닉네임 #영어 #한문 모두 가능합니다 https://t.co/WU48m8oYQB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권영찬",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "연주회",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "음원",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "닉네임",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "영어",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "한문",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138041836994408400,
+					"id_str": "1138041836994408449",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sjBWmVsAEcBUl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sjBWmVsAEcBUl.jpg",
+					"url": "https://t.co/WU48m8oYQB",
+					"display_url": "pic.twitter.com/WU48m8oYQB",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138041849518575618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138041836994408400,
+					"id_str": "1138041836994408449",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D8sjBWmVsAEcBUl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8sjBWmVsAEcBUl.jpg",
+					"url": "https://t.co/WU48m8oYQB",
+					"display_url": "pic.twitter.com/WU48m8oYQB",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138041849518575618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2869,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190610\n#권영찬 #연주회 #앨범\n이번주 토요일(15일) 저녁6시\n5월에 진행된 콘서트 #라이브앨범 \n#음원 이 발매 됩니다\n마지막 트랙에 목소리를 담아주신 분들의 \n성함을 확인하시고 변경하고자 하시는 분들은 \n댓글로 적힌 이름 -&gt; 원하는 이름을 남겨주세요\n#닉네임 #영어 #한문 모두 가능합니다 https://t.co/WU48m8oYQB"
+	},
+	{
+		"created_at": "Mon Jun 10 11:18:22 +0000 2019",
+		"id": 1138030912392712200,
+		"id_str": "1138042716984676352",
+		"full_text": "• 장소 : 청주문암생태공원\n• 입장료 : 무료\n• 문의 : 043-219-1026\n* 주차장이 협소하니 대중교통을 이용해주세요 (920번 문암생태공원 하차)\n-\n#로그인포레스트 #계피 #최낙타 #문화10만인페스타",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로그인포레스트",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "문화10만인페스타",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1138030766237950000,
+		"in_reply_to_status_id_str": "1138030766237949953",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1475,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 장소 : 청주문암생태공원\n• 입장료 : 무료\n• 문의 : 043-219-1026\n* 주차장이 협소하니 대중교통을 이용해주세요 (920번 문암생태공원 하차)\n-\n#로그인포레스트 #계피 #최낙타 #문화10만인페스타"
+	},
+	{
 		"created_at": "Mon Jun 10 11:11:48 +0000 2019",
 		"id": 1138028340462231600,
 		"id_str": "1138041064365932545",
