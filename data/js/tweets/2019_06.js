@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 12:18:26 +0000 2019",
+		"id": 1138048254841577500,
+		"id_str": "1138057832841056256",
+		"full_text": "2019 강화 문화재 야행 [강화의 달밤 콘서트]에 안예은이 함께 합니다!\n\n일시 : 6월 29일 저녁 9시\n장소 : 인천 강화도 용흥궁공원 메인무대\n\n※본 행사는 무료입장이 가능합니다. https://t.co/Qe1ocgXbh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138048241805582300,
+					"id_str": "1138048241805582336",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8so2KYUYAAo021.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8so2KYUYAAo021.jpg",
+					"url": "https://t.co/Qe1ocgXbh8",
+					"display_url": "pic.twitter.com/Qe1ocgXbh8",
+					"expanded_url": "https://twitter.com/pandawhaler/status/1138048254841577472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2015,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138048241805582300,
+					"id_str": "1138048241805582336",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D8so2KYUYAAo021.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8so2KYUYAAo021.jpg",
+					"url": "https://t.co/Qe1ocgXbh8",
+					"display_url": "pic.twitter.com/Qe1ocgXbh8",
+					"expanded_url": "https://twitter.com/pandawhaler/status/1138048254841577472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2015,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024196826,
+			"id_str": "1024196826",
+			"name": "팬더웨일(Pandawhale)",
+			"screen_name": "pandawhaler",
+			"location": "",
+			"description": "팬더웨일입니다. 대서양 태평양 인도양 북극해 남극해 Fling(플링) 안예은 SHUYA(슈야)",
+			"url": "https://t.co/We5XdGrw02",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/We5XdGrw02",
+							"expanded_url": "http://www.facebook.com/pandawhales",
+							"display_url": "facebook.com/pandawhales",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 1262,
+			"listed_count": 6,
+			"created_at": "Thu Dec 20 12:57:34 +0000 2012",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2998452563/dede211b8f48fc2ea291dd46d6f64abd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2998452563/dede211b8f48fc2ea291dd46d6f64abd_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 강화 문화재 야행 [강화의 달밤 콘서트]에 안예은이 함께 합니다!\n\n일시 : 6월 29일 저녁 9시\n장소 : 인천 강화도 용흥궁공원 메인무대\n\n※본 행사는 무료입장이 가능합니다. https://t.co/Qe1ocgXbh8"
+	},
+	{
 		"created_at": "Mon Jun 10 11:18:24 +0000 2019",
 		"id": 1138041849518575600,
 		"id_str": "1138042725922746368",
