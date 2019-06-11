@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 01:18:16 +0000 2019",
+		"id": 1138246258575863800,
+		"id_str": "1138254087563239425",
+		"full_text": "#20190611\n#나인NINE9 #나인 #디어클라우드\n6월 12일(수) 저녁8시30분\n#상암MBC #가든스튜디오\n#별밤여름악페스티벌 놀러오세요!\n#산들의별이빛나는밤에 #산들 #별밤\n#MBC라디오 #B1A4 #B1A4산들 #dearcloud https://t.co/bUAp1okL9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "상암MBC",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "가든스튜디오",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "별밤여름악페스티벌",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "산들의별이빛나는밤에",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"text": "산들",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "별밤",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "MBC라디오",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "B1A4",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "B1A4산들",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "dearcloud",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138246241995804700,
+					"id_str": "1138246241995804672",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/D8vc7SkVUAAFNCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8vc7SkVUAAFNCp.jpg",
+					"url": "https://t.co/bUAp1okL9o",
+					"display_url": "pic.twitter.com/bUAp1okL9o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138246258575863809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138246241995804700,
+					"id_str": "1138246241995804672",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/D8vc7SkVUAAFNCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8vc7SkVUAAFNCp.jpg",
+					"url": "https://t.co/bUAp1okL9o",
+					"display_url": "pic.twitter.com/bUAp1okL9o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138246258575863809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2869,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190611\n#나인NINE9 #나인 #디어클라우드\n6월 12일(수) 저녁8시30분\n#상암MBC #가든스튜디오\n#별밤여름악페스티벌 놀러오세요!\n#산들의별이빛나는밤에 #산들 #별밤\n#MBC라디오 #B1A4 #B1A4산들 #dearcloud https://t.co/bUAp1okL9o"
+	},
+	{
 		"created_at": "Tue Jun 11 01:10:07 +0000 2019",
 		"id": 1138252035676168200,
 		"id_str": "1138252035676168192",
