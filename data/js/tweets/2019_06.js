@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 13:11:44 +0000 2019",
+		"id": 1138427907766800400,
+		"id_str": "1138433637605675009",
+		"full_text": "※긴급공지※ 황인경님의 피치 못 할 사정으로 인해 조규현(에이치얼랏)-박윤식(크라잉넛) 순서로 각 팀당 50분씩 공연이 진행됩니다. 관객 여러분의 양해 부탁드립니다. :) ---6월 13일 목요일 8시 네스트 나다 #조규현(에이치얼랏) #박윤식(크라잉넛) \"때론 나홀로 나다\" https://t.co/ChNiP3ZNVF https://t.co/ByEoKZixLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조규현",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "박윤식",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChNiP3ZNVF",
+					"expanded_url": "https://nestnada.blog.me/221557455626",
+					"display_url": "nestnada.blog.me/221557455626",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138427832953008100,
+					"id_str": "1138427832953008128",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yCFRmU8AAhTBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yCFRmU8AAhTBo.jpg",
+					"url": "https://t.co/ByEoKZixLI",
+					"display_url": "pic.twitter.com/ByEoKZixLI",
+					"expanded_url": "https://twitter.com/nestNADA/status/1138427907766800384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 924,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138427832953008100,
+					"id_str": "1138427832953008128",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yCFRmU8AAhTBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yCFRmU8AAhTBo.jpg",
+					"url": "https://t.co/ByEoKZixLI",
+					"display_url": "pic.twitter.com/ByEoKZixLI",
+					"expanded_url": "https://twitter.com/nestNADA/status/1138427907766800384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 924,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 923,
+			"listed_count": 10,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "※긴급공지※ 황인경님의 피치 못 할 사정으로 인해 조규현(에이치얼랏)-박윤식(크라잉넛) 순서로 각 팀당 50분씩 공연이 진행됩니다. 관객 여러분의 양해 부탁드립니다. :) ---6월 13일 목요일 8시 네스트 나다 #조규현(에이치얼랏) #박윤식(크라잉넛) \"때론 나홀로 나다\" https://t.co/ChNiP3ZNVF https://t.co/ByEoKZixLI"
+	},
+	{
 		"created_at": "Tue Jun 11 11:56:40 +0000 2019",
 		"id": 1138414746196226000,
 		"id_str": "1138414746196226048",
