@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 15:18:16 +0000 2019",
+		"id": 1138826763084025900,
+		"id_str": "1138827868400771072",
+		"full_text": "#20190613\n#나인 #나인NINE9 #디어클라우드\n공개로 #가든스튜디오 라이브는 처음 해봤는데 \n생각보다 즐겁네요^^\n먼길 와주신 분들께 감사드려요\n#내일은공감다음주는군포에서\n#산들의별이빛나는밤에 #산들 #별밤\n#별밤여름음악페스티벌 https://t.co/SCuYfHVKX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "가든스튜디오",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "내일은공감다음주는군포에서",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "산들의별이빛나는밤에",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "산들",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "별밤",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "별밤여름음악페스티벌",
+					"indices": [
+						121,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138826716669915100,
+					"id_str": "1138826716669915138",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83s3XPVsAIN3An.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83s3XPVsAIN3An.jpg",
+					"url": "https://t.co/SCuYfHVKX3",
+					"display_url": "pic.twitter.com/SCuYfHVKX3",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138826763084025856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138826716669915100,
+					"id_str": "1138826716669915138",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83s3XPVsAIN3An.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83s3XPVsAIN3An.jpg",
+					"url": "https://t.co/SCuYfHVKX3",
+					"display_url": "pic.twitter.com/SCuYfHVKX3",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1138826763084025856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2871,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190613\n#나인 #나인NINE9 #디어클라우드\n공개로 #가든스튜디오 라이브는 처음 해봤는데 \n생각보다 즐겁네요^^\n먼길 와주신 분들께 감사드려요\n#내일은공감다음주는군포에서\n#산들의별이빛나는밤에 #산들 #별밤\n#별밤여름음악페스티벌 https://t.co/SCuYfHVKX3"
+	},
+	{
 		"created_at": "Wed Jun 12 13:54:24 +0000 2019",
 		"id": 1138806761136242700,
 		"id_str": "1138806761136242688",
