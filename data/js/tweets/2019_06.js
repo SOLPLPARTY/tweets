@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 04:11:43 +0000 2019",
+		"id": 1138652792355053600,
+		"id_str": "1138660122568404998",
+		"full_text": "제50회 #라이브클럽데이 1차 라인업이 공개 됐습니다. 6월 마지막 주 금요일도 #라클데 와 함께 하세요 :) #까데호 #로다운30 #애리 #오지은 #잭킹콩 #Halot #Room306\n∙ 일반 예매 : https://t.co/XGHY2nNFfo⠀⠀ ⠀⠀⠀ ⠀⠀\n∙ 청소년 예매 : https://t.co/kcyGhqKiyc https://t.co/96nEcmsNYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "라클데",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "까데호",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "로다운30",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "애리",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "잭킹콩",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Halot",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "Room306",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XGHY2nNFfo",
+					"expanded_url": "https://bit.ly/2Wy4Vym",
+					"display_url": "bit.ly/2Wy4Vym",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/kcyGhqKiyc",
+					"expanded_url": "https://bit.ly/2Wz26NC",
+					"display_url": "bit.ly/2Wz26NC",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138652664726581200,
+					"id_str": "1138652664726581248",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D81OkNOUcAAKI42.png",
+					"media_url_https": "https://pbs.twimg.com/media/D81OkNOUcAAKI42.png",
+					"url": "https://t.co/96nEcmsNYa",
+					"display_url": "pic.twitter.com/96nEcmsNYa",
+					"expanded_url": "https://twitter.com/liveclubday/status/1138652792355053568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138652664726581200,
+					"id_str": "1138652664726581248",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D81OkNOUcAAKI42.png",
+					"media_url_https": "https://pbs.twimg.com/media/D81OkNOUcAAKI42.png",
+					"url": "https://t.co/96nEcmsNYa",
+					"display_url": "pic.twitter.com/96nEcmsNYa",
+					"expanded_url": "https://twitter.com/liveclubday/status/1138652792355053568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/R5ENy6Gs2T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R5ENy6Gs2T",
+							"expanded_url": "https://bit.ly/2UrLkLc",
+							"display_url": "bit.ly/2UrLkLc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 687,
+			"listed_count": 34,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1560310785",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제50회 #라이브클럽데이 1차 라인업이 공개 됐습니다. 6월 마지막 주 금요일도 #라클데 와 함께 하세요 :) #까데호 #로다운30 #애리 #오지은 #잭킹콩 #Halot #Room306\n∙ 일반 예매 : https://t.co/XGHY2nNFfo⠀⠀ ⠀⠀⠀ ⠀⠀\n∙ 청소년 예매 : https://t.co/kcyGhqKiyc https://t.co/96nEcmsNYa"
+	},
+	{
+		"created_at": "Wed Jun 12 04:02:11 +0000 2019",
+		"id": 1138657723770462200,
+		"id_str": "1138657723770462211",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n6월 12일 | 태윤, 박구름, 서대현, 하승진\nhttps://t.co/BtxLcsHSRj\n#미러볼블로그 #유통사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "미러볼블로그",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BtxLcsHSRj",
+					"expanded_url": "http://bit.ly/2I988vj",
+					"display_url": "bit.ly/2I988vj",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n6월 12일 | 태윤, 박구름, 서대현, 하승진\nhttps://t.co/BtxLcsHSRj\n#미러볼블로그 #유통사"
+	},
+	{
 		"created_at": "Wed Jun 12 03:16:09 +0000 2019",
 		"id": 1138646142026166300,
 		"id_str": "1138646142026166272",
