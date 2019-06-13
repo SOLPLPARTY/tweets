@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 10:11:42 +0000 2019",
+		"id": 1139100505592909800,
+		"id_str": "1139113106066595840",
+		"full_text": "KT&amp;G 상상마당 춘천 X 벅스\n_아티스트 지원 프로젝트 &lt;상상커넥트&gt;\n엿섯 번째 주인공, '성리'의 프로포즈송 '별빛연가✨\n지금 공개! https://t.co/QSwUrsRnga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QSwUrsRnga",
+					"expanded_url": "http://bit.ly/2ZmMRUI",
+					"display_url": "bit.ly/2ZmMRUI",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19585,
+			"friends_count": 2033,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 춘천 X 벅스\n_아티스트 지원 프로젝트 &lt;상상커넥트&gt;\n엿섯 번째 주인공, '성리'의 프로포즈송 '별빛연가✨\n지금 공개! https://t.co/QSwUrsRnga"
+	},
+	{
+		"created_at": "Thu Jun 13 09:54:09 +0000 2019",
+		"id": 1139108689514827800,
+		"id_str": "1139108689514827777",
+		"full_text": "#쇼파르뮤직 #Shofar_Music\n[Letter flow(레터 플로우) - '오늘' LIVE CLIP]\nhttps://t.co/75z5Lhbc8v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Shofar_Music",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75z5Lhbc8v",
+					"expanded_url": "https://youtu.be/NPicMu6yEYs",
+					"display_url": "youtu.be/NPicMu6yEYs",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼파르뮤직 #Shofar_Music\n[Letter flow(레터 플로우) - '오늘' LIVE CLIP]\nhttps://t.co/75z5Lhbc8v"
+	},
+	{
+		"created_at": "Thu Jun 13 09:19:54 +0000 2019",
+		"id": 1139089514993897500,
+		"id_str": "1139100069746159617",
+		"full_text": "타일러 더 크리에이터의 수작 ‘Igor’ 부터, 비치포크 사상 첫 쓰레기통 이모지를 받은 모리세이의 ‘California Son’ 까지. 흥미로운 5월의 신보들과 까탈스런 페이크버진 에디터들의 리뷰\n#bitchfork💅🏻\nhttps://t.co/5p9eN9gGZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bitchfork",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5p9eN9gGZg",
+					"expanded_url": "https://bit.ly/2wPPaU3",
+					"display_url": "bit.ly/2wPPaU3",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600743430,
+			"id_str": "600743430",
+			"name": "FAKE VIRGIN",
+			"screen_name": "FakeVirginSeoul",
+			"location": "Seoul",
+			"description": "6/8 BASEMENT JAXX • 7/27-7/28 HOLIDAY LAND FESTIVAL • 8/15 MAHALIA • 8/20 FKJ • 11/29 GUS DAPPERTON",
+			"url": "https://t.co/N8Zx2a9V0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8Zx2a9V0Y",
+							"expanded_url": "https://www.fakevirgin.com",
+							"display_url": "fakevirgin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 59,
+			"listed_count": 15,
+			"created_at": "Wed Jun 06 04:05:59 +0000 2012",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878927755701739520/npNgM-fS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600743430/1476186993",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타일러 더 크리에이터의 수작 ‘Igor’ 부터, 비치포크 사상 첫 쓰레기통 이모지를 받은 모리세이의 ‘California Son’ 까지. 흥미로운 5월의 신보들과 까탈스런 페이크버진 에디터들의 리뷰\n#bitchfork💅🏻\nhttps://t.co/5p9eN9gGZg"
+	},
+	{
+		"created_at": "Thu Jun 13 09:18:31 +0000 2019",
+		"id": 1139097143791083500,
+		"id_str": "1139099720603881477",
+		"full_text": "[Letter flow(레터 플로우) - '오늘' LIVE CLIP]⠀⠀⠀\n⠀⠀⠀⠀⠀⠀\n레터 플로우만의 감성으로 채워진 신곡 '오늘'을 LIVE로 만나보세요🎤🎤\n⠀⠀⠀⠀⠀⠀\n#레터플로우 #letterflow #SingleAlbum #오늘 #Today \n\n🖇\nhttps://t.co/BZd9YdOXrs https://t.co/VKWJoaoM9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레터플로우",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "letterflow",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "SingleAlbum",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "오늘",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "Today",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BZd9YdOXrs",
+					"expanded_url": "https://youtu.be/NPicMu6yEYs",
+					"display_url": "youtu.be/NPicMu6yEYs",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139097135259869200,
+					"id_str": "1139097135259869185",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D87izy_UYAEsCFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D87izy_UYAEsCFM.jpg",
+					"url": "https://t.co/VKWJoaoM9K",
+					"display_url": "pic.twitter.com/VKWJoaoM9K",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1139097143791083520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139097135259869200,
+					"id_str": "1139097135259869185",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D87izy_UYAEsCFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D87izy_UYAEsCFM.jpg",
+					"url": "https://t.co/VKWJoaoM9K",
+					"display_url": "pic.twitter.com/VKWJoaoM9K",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1139097143791083520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7384,
+			"friends_count": 16,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Letter flow(레터 플로우) - '오늘' LIVE CLIP]⠀⠀⠀\n⠀⠀⠀⠀⠀⠀\n레터 플로우만의 감성으로 채워진 신곡 '오늘'을 LIVE로 만나보세요🎤🎤\n⠀⠀⠀⠀⠀⠀\n#레터플로우 #letterflow #SingleAlbum #오늘 #Today \n\n🖇\nhttps://t.co/BZd9YdOXrs https://t.co/VKWJoaoM9K"
+	},
+	{
+		"created_at": "Thu Jun 13 09:18:28 +0000 2019",
+		"id": 1139097065244352500,
+		"id_str": "1139099707370889216",
+		"full_text": "['오늘' 바로 듣기]\n멜론  https://t.co/meAPNFbHvI\n지니  https://t.co/zKY5KcOBea\n플로 https://t.co/tZPGQjLRor\n엠넷  https://t.co/280AR1Sx4a\n벅스  https://t.co/N8tLt6DZ0F\n올레  https://t.co/my2MIGjOd7\n네이버뮤직  https://t.co/Gzc1KekCvI\n소리바다  https://t.co/RY32gGWDCG\n\n#레터플로우",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레터플로우",
+					"indices": [
+						242,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/meAPNFbHvI",
+					"expanded_url": "https://bit.ly/2Kf8AdT",
+					"display_url": "bit.ly/2Kf8AdT",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/zKY5KcOBea",
+					"expanded_url": "https://bit.ly/2Rac2Hi",
+					"display_url": "bit.ly/2Rac2Hi",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/tZPGQjLRor",
+					"expanded_url": "https://bit.ly/2IeynRm",
+					"display_url": "bit.ly/2IeynRm",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/280AR1Sx4a",
+					"expanded_url": "https://bit.ly/2X7ZtBS",
+					"display_url": "bit.ly/2X7ZtBS",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/N8tLt6DZ0F",
+					"expanded_url": "https://bit.ly/31uZZZW",
+					"display_url": "bit.ly/31uZZZW",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/my2MIGjOd7",
+					"expanded_url": "https://bit.ly/31ttET8",
+					"display_url": "bit.ly/31ttET8",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/Gzc1KekCvI",
+					"expanded_url": "https://bit.ly/2X9uZiH",
+					"display_url": "bit.ly/2X9uZiH",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"url": "https://t.co/RY32gGWDCG",
+					"expanded_url": "https://bit.ly/2KhQS9q",
+					"display_url": "bit.ly/2KhQS9q",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1139097059024228400,
+		"in_reply_to_status_id_str": "1139097059024228352",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7384,
+			"friends_count": 16,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['오늘' 바로 듣기]\n멜론  https://t.co/meAPNFbHvI\n지니  https://t.co/zKY5KcOBea\n플로 https://t.co/tZPGQjLRor\n엠넷  https://t.co/280AR1Sx4a\n벅스  https://t.co/N8tLt6DZ0F\n올레  https://t.co/my2MIGjOd7\n네이버뮤직  https://t.co/Gzc1KekCvI\n소리바다  https://t.co/RY32gGWDCG\n\n#레터플로우"
+	},
+	{
+		"created_at": "Thu Jun 13 09:18:24 +0000 2019",
+		"id": 1139097059024228400,
+		"id_str": "1139099690102919168",
+		"full_text": "[Letter flow(레터 플로우) – Single Album ‘오늘’ 발매]\n\n레터 플로우의 싱글 앨범 ‘오늘’이 발매되었습니다. \n누구나 한 번쯤 겪는 이별의 순간을 노래하는 레터 플로우의 ‘오늘’로 공감과 위안이 되는 오늘이 되시길 바라요 🌃 https://t.co/BriZo495WK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139097036395929600,
+					"id_str": "1139097036395929600",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D87iuCsUYAARmRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D87iuCsUYAARmRm.jpg",
+					"url": "https://t.co/BriZo495WK",
+					"display_url": "pic.twitter.com/BriZo495WK",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1139097059024228352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139097036395929600,
+					"id_str": "1139097036395929600",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/D87iuCsUYAARmRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D87iuCsUYAARmRm.jpg",
+					"url": "https://t.co/BriZo495WK",
+					"display_url": "pic.twitter.com/BriZo495WK",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1139097059024228352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7384,
+			"friends_count": 16,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Letter flow(레터 플로우) – Single Album ‘오늘’ 발매]\n\n레터 플로우의 싱글 앨범 ‘오늘’이 발매되었습니다. \n누구나 한 번쯤 겪는 이별의 순간을 노래하는 레터 플로우의 ‘오늘’로 공감과 위안이 되는 오늘이 되시길 바라요 🌃 https://t.co/BriZo495WK"
+	},
+	{
+		"created_at": "Thu Jun 13 09:18:19 +0000 2019",
+		"id": 1139096842673709000,
+		"id_str": "1139099668334465024",
+		"full_text": "정재형 Jung Jae Hyung\n5th Album [Avec Piano]\n\nOfficial Audio clips are now updated on\nAntenna YouTube📍https://t.co/loWmVN9v0K\n\n#정재형 #JungJaeHyung #AvecPiano",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재형",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "AvecPiano",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/loWmVN9v0K",
+					"expanded_url": "https://bit.ly/2KgRdsZ",
+					"display_url": "bit.ly/2KgRdsZ",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35019,
+			"friends_count": 15019,
+			"listed_count": 415,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1559700244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "정재형 Jung Jae Hyung\n5th Album [Avec Piano]\n\nOfficial Audio clips are now updated on\nAntenna YouTube📍https://t.co/loWmVN9v0K\n\n#정재형 #JungJaeHyung #AvecPiano"
+	},
+	{
 		"created_at": "Thu Jun 13 09:11:48 +0000 2019",
 		"id": 1139090171742249000,
 		"id_str": "1139098028625805312",
