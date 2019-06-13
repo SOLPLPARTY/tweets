@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 05:11:42 +0000 2019",
+		"id": 1139032594366967800,
+		"id_str": "1139037608166731776",
+		"full_text": "[씬디블로그 : 이 주의 공연]\n\n씬디가 소개하는 추천공연 &lt;여름아! 안녕? 다 함께 심쿵&gt;이 네이버 메인에 소개되었습니다!\n여름밤을 수놓을 슈가레코드의 심쿵시리즈로 슈가슈가한 4팀이 선사하는 시원한 공연을 즐겨보세요 💙\n\n아래 링크에서 원문을 확인해보세요!\n▶️ https://t.co/zcyx6QxV0a https://t.co/7nCArfYCXa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zcyx6QxV0a",
+					"expanded_url": "http://reurl.kr/26537AE8OL",
+					"display_url": "reurl.kr/26537AE8OL",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139032183471988700,
+					"id_str": "1139032183471988737",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D86nvGuV4AEuKbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86nvGuV4AEuKbU.jpg",
+					"url": "https://t.co/7nCArfYCXa",
+					"display_url": "pic.twitter.com/7nCArfYCXa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139032594366967808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 897,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 897,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139032183471988700,
+					"id_str": "1139032183471988737",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D86nvGuV4AEuKbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86nvGuV4AEuKbU.jpg",
+					"url": "https://t.co/7nCArfYCXa",
+					"display_url": "pic.twitter.com/7nCArfYCXa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139032594366967808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 758,
+							"h": 897,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 897,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139032193068556300,
+					"id_str": "1139032193068556288",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D86nvqeV4AA1r18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86nvqeV4AA1r18.jpg",
+					"url": "https://t.co/7nCArfYCXa",
+					"display_url": "pic.twitter.com/7nCArfYCXa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139032594366967808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 467,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 467,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139032270868586500,
+					"id_str": "1139032270868586496",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D86n0MTUIAA5-02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86n0MTUIAA5-02.jpg",
+					"url": "https://t.co/7nCArfYCXa",
+					"display_url": "pic.twitter.com/7nCArfYCXa",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139032594366967808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1603,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2656,
+			"friends_count": 2557,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디블로그 : 이 주의 공연]\n\n씬디가 소개하는 추천공연 &lt;여름아! 안녕? 다 함께 심쿵&gt;이 네이버 메인에 소개되었습니다!\n여름밤을 수놓을 슈가레코드의 심쿵시리즈로 슈가슈가한 4팀이 선사하는 시원한 공연을 즐겨보세요 💙\n\n아래 링크에서 원문을 확인해보세요!\n▶️ https://t.co/zcyx6QxV0a https://t.co/7nCArfYCXa"
+	},
+	{
+		"created_at": "Thu Jun 13 04:18:23 +0000 2019",
+		"id": 1139011702714855400,
+		"id_str": "1139024190936363008",
+		"full_text": "네이버뮤직▶️ https://t.co/y29MNgvzgp\n멜론▶️ https://t.co/3Al3inNMWe\n벅스▶️ https://t.co/c96krpDqGc\n엠넷▶️ https://t.co/meYVD2tDvD\n지니▶️ https://t.co/RNS3QM7Iv9\n-\n#전기뱀장어 #싱글 #LightsofYeonnam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "LightsofYeonnam",
+					"indices": [
+						161,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y29MNgvzgp",
+					"expanded_url": "http://bit.ly/2KHX2PG",
+					"display_url": "bit.ly/2KHX2PG",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/3Al3inNMWe",
+					"expanded_url": "http://bit.ly/2IzstsQ",
+					"display_url": "bit.ly/2IzstsQ",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/c96krpDqGc",
+					"expanded_url": "http://bit.ly/2KKFVNi",
+					"display_url": "bit.ly/2KKFVNi",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/meYVD2tDvD",
+					"expanded_url": "http://bit.ly/2KRn4Qq",
+					"display_url": "bit.ly/2KRn4Qq",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/RNS3QM7Iv9",
+					"expanded_url": "http://bit.ly/2KIm5lP",
+					"display_url": "bit.ly/2KIm5lP",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139011684524126200,
+		"in_reply_to_status_id_str": "1139011684524126213",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1476,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버뮤직▶️ https://t.co/y29MNgvzgp\n멜론▶️ https://t.co/3Al3inNMWe\n벅스▶️ https://t.co/c96krpDqGc\n엠넷▶️ https://t.co/meYVD2tDvD\n지니▶️ https://t.co/RNS3QM7Iv9\n-\n#전기뱀장어 #싱글 #LightsofYeonnam"
+	},
+	{
 		"created_at": "Thu Jun 13 04:12:11 +0000 2019",
 		"id": 1139022629887729700,
 		"id_str": "1139022629887729664",
