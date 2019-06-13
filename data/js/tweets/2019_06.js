@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 13:11:57 +0000 2019",
+		"id": 1139143434113912800,
+		"id_str": "1139158464129904640",
+		"full_text": "&lt;WILD BOLD SOLID&gt;\n-일시 : 6/15 (토) 9 PM \n-라인업 : 물도둑, 다이얼라잇\n-티켓가 : 예매 15,000 / 현매 20,000\n-예매 링크 ▶️ https://t.co/NE4dLiu4WZ\n\n📌오시는 길 Venue\n고인물(Goinmool)\n마포구 와우산로 29길 66 지하 1층\nMapo-gu Wausan-ro 29gil 66 (Level B1) https://t.co/vOTZ7rQbvK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NE4dLiu4WZ",
+					"expanded_url": "https://bit.ly/tokki10",
+					"display_url": "bit.ly/tokki10",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139143089166012400,
+					"id_str": "1139143089166012417",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D88MmqoU0AEhEDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88MmqoU0AEhEDC.jpg",
+					"url": "https://t.co/vOTZ7rQbvK",
+					"display_url": "pic.twitter.com/vOTZ7rQbvK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139143434113912832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139143089166012400,
+					"id_str": "1139143089166012417",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D88MmqoU0AEhEDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88MmqoU0AEhEDC.jpg",
+					"url": "https://t.co/vOTZ7rQbvK",
+					"display_url": "pic.twitter.com/vOTZ7rQbvK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139143434113912832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1139143432020975600,
+		"in_reply_to_status_id_str": "1139143432020975618",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 2556,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;WILD BOLD SOLID&gt;\n-일시 : 6/15 (토) 9 PM \n-라인업 : 물도둑, 다이얼라잇\n-티켓가 : 예매 15,000 / 현매 20,000\n-예매 링크 ▶️ https://t.co/NE4dLiu4WZ\n\n📌오시는 길 Venue\n고인물(Goinmool)\n마포구 와우산로 29길 66 지하 1층\nMapo-gu Wausan-ro 29gil 66 (Level B1) https://t.co/vOTZ7rQbvK"
+	},
+	{
+		"created_at": "Thu Jun 13 13:11:48 +0000 2019",
+		"id": 1139143432020975600,
+		"id_str": "1139158429803667456",
+		"full_text": "[공연추천]\n바로 이번 주 금요일과 토요일!! \n홍대에 놀러 오신다면 화려한 포스터가 돋보이는 '고인물'에서 다양한 장르의 음악을 즐겨보세요🔥 \n\n&lt;SPICIER Party&gt;\n-일시 : 6/14 (금) 9 PM \n-라인업 : 후맴네, 얼룩, DJ 진저팝 \n-티켓가 : 무료입장 자율페이 FREE https://t.co/YRw5KvkNKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139142955749371900,
+					"id_str": "1139142955749371905",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D88Me5nUcAE83Uh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88Me5nUcAE83Uh.jpg",
+					"url": "https://t.co/YRw5KvkNKJ",
+					"display_url": "pic.twitter.com/YRw5KvkNKJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139143432020975618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139142955749371900,
+					"id_str": "1139142955749371905",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D88Me5nUcAE83Uh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88Me5nUcAE83Uh.jpg",
+					"url": "https://t.co/YRw5KvkNKJ",
+					"display_url": "pic.twitter.com/YRw5KvkNKJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139143432020975618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 2556,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n바로 이번 주 금요일과 토요일!! \n홍대에 놀러 오신다면 화려한 포스터가 돋보이는 '고인물'에서 다양한 장르의 음악을 즐겨보세요🔥 \n\n&lt;SPICIER Party&gt;\n-일시 : 6/14 (금) 9 PM \n-라인업 : 후맴네, 얼룩, DJ 진저팝 \n-티켓가 : 무료입장 자율페이 FREE https://t.co/YRw5KvkNKJ"
+	},
+	{
+		"created_at": "Thu Jun 13 13:11:42 +0000 2019",
+		"id": 1139143405315821600,
+		"id_str": "1139158404100964352",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n#금손포토 님의 사진이 도착했습니다📸\n다시 봐도 뜨거웠던 #몽니 의 무대🔥\n\n잠시 후 11시 40분,\n방송으로 확인할 수 있습니다!\n기대 많이 해주세요🌙\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#올댓뮤직_본방사수\n#MONNI #김신의 #이인경 #공태우 #정훈태 https://t.co/0F7FOjxNl2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "금손포토",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "몽니",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "MONNI",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "김신의",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "이인경",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "공태우",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "정훈태",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139143360860397600,
+					"id_str": "1139143360860397568",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D88M2exUIAAE-RE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88M2exUIAAE-RE.jpg",
+					"url": "https://t.co/0F7FOjxNl2",
+					"display_url": "pic.twitter.com/0F7FOjxNl2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139143405315821568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139143360860397600,
+					"id_str": "1139143360860397568",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D88M2exUIAAE-RE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88M2exUIAAE-RE.jpg",
+					"url": "https://t.co/0F7FOjxNl2",
+					"display_url": "pic.twitter.com/0F7FOjxNl2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139143405315821568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139143370763264000,
+					"id_str": "1139143370763264001",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D88M3DqV4AEiR5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88M3DqV4AEiR5s.jpg",
+					"url": "https://t.co/0F7FOjxNl2",
+					"display_url": "pic.twitter.com/0F7FOjxNl2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139143405315821568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139143379286052900,
+					"id_str": "1139143379286052864",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D88M3jaVUAAaXP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88M3jaVUAAaXP0.jpg",
+					"url": "https://t.co/0F7FOjxNl2",
+					"display_url": "pic.twitter.com/0F7FOjxNl2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139143405315821568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139143393353723900,
+					"id_str": "1139143393353723905",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D88M4X0U8AEWyr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D88M4X0U8AEWyr5.jpg",
+					"url": "https://t.co/0F7FOjxNl2",
+					"display_url": "pic.twitter.com/0F7FOjxNl2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139143405315821568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3744,
+			"friends_count": 965,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n#금손포토 님의 사진이 도착했습니다📸\n다시 봐도 뜨거웠던 #몽니 의 무대🔥\n\n잠시 후 11시 40분,\n방송으로 확인할 수 있습니다!\n기대 많이 해주세요🌙\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#올댓뮤직_본방사수\n#MONNI #김신의 #이인경 #공태우 #정훈태 https://t.co/0F7FOjxNl2"
+	},
+	{
+		"created_at": "Thu Jun 13 13:03:07 +0000 2019",
+		"id": 1139156244869128200,
+		"id_str": "1139156244869128192",
+		"full_text": "#포크라노스 #POCLANOS\n[Live] 체감온도 17도(17 Degrees) - 유럽 여행 꿀팁 / Live Video\nhttps://t.co/Y71BwpvGUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y71BwpvGUD",
+					"expanded_url": "https://youtu.be/lxAvDC-jj4M",
+					"display_url": "youtu.be/lxAvDC-jj4M",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Live] 체감온도 17도(17 Degrees) - 유럽 여행 꿀팁 / Live Video\nhttps://t.co/Y71BwpvGUD"
+	},
+	{
 		"created_at": "Thu Jun 13 12:04:50 +0000 2019",
 		"id": 1139141576633049100,
 		"id_str": "1139141576633049089",
