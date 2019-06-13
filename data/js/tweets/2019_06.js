@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 07:01:06 +0000 2019",
+		"id": 1139065140328980500,
+		"id_str": "1139065140328980481",
+		"full_text": "【 #인터파크티켓 】\n[아동/가족] NEW 뮤지컬 치링치링 시크릿쥬쥬 - 고양(앵콜공연) 티켓오픈 안내 : 19.06.18(화) 10:00\n▶ https://t.co/HyqqpJWVsH\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HyqqpJWVsH",
+					"expanded_url": "http://bit.ly/31vJX1O",
+					"display_url": "bit.ly/31vJX1O",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[아동/가족] NEW 뮤지컬 치링치링 시크릿쥬쥬 - 고양(앵콜공연) 티켓오픈 안내 : 19.06.18(화) 10:00\n▶ https://t.co/HyqqpJWVsH\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Thu Jun 13 06:19:54 +0000 2019",
+		"id": 1139052972103495700,
+		"id_str": "1139054771602710534",
+		"full_text": "☮ 분실물 안내\n　\n*6월 23일(일) 이후 신분증, 학생증은 우체국을 통해 전달할 예정이며, 찾아가시지 않은 물건들은 폐기할 예정이니 참고해주시기 바랍니다.\n\n분실물품 확인하기 ▶️ https://t.co/zOz2NF7bkF https://t.co/sYVzjJ5hXa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOz2NF7bkF",
+					"expanded_url": "http://bit.ly/31vG9h2",
+					"display_url": "bit.ly/31vG9h2",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139052961194111000,
+					"id_str": "1139052961194110978",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D866ohxU8AIFCNl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D866ohxU8AIFCNl.jpg",
+					"url": "https://t.co/sYVzjJ5hXa",
+					"display_url": "pic.twitter.com/sYVzjJ5hXa",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1139052972103495680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139052961194111000,
+					"id_str": "1139052961194110978",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D866ohxU8AIFCNl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D866ohxU8AIFCNl.jpg",
+					"url": "https://t.co/sYVzjJ5hXa",
+					"display_url": "pic.twitter.com/sYVzjJ5hXa",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1139052972103495680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139052961194111000,
+					"id_str": "1139052961194110977",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D866ohxU8AEmVCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D866ohxU8AEmVCv.jpg",
+					"url": "https://t.co/sYVzjJ5hXa",
+					"display_url": "pic.twitter.com/sYVzjJ5hXa",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1139052972103495680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139052961194172400,
+					"id_str": "1139052961194172416",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D866ohxV4AAiOP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D866ohxV4AAiOP0.jpg",
+					"url": "https://t.co/sYVzjJ5hXa",
+					"display_url": "pic.twitter.com/sYVzjJ5hXa",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1139052972103495680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "Dancing for a Borderless World 2019.6.5~6.9 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 30,
+			"listed_count": 5,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103221083514126336/UDMUGhl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1557368934",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮ 분실물 안내\n　\n*6월 23일(일) 이후 신분증, 학생증은 우체국을 통해 전달할 예정이며, 찾아가시지 않은 물건들은 폐기할 예정이니 참고해주시기 바랍니다.\n\n분실물품 확인하기 ▶️ https://t.co/zOz2NF7bkF https://t.co/sYVzjJ5hXa"
+	},
+	{
+		"created_at": "Thu Jun 13 06:18:26 +0000 2019",
+		"id": 1139042592312533000,
+		"id_str": "1139054399496626177",
+		"full_text": "#20190613\n#나인 #나인NINE9 #디어클라우드\n오늘은 #EBS스페이스공감\n#브로콜리너마저 님들과 함께\n#일산 #EBS #공감 #dearcloud https://t.co/OYMHzSkLyc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "브로콜리너마저",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "일산",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "dearcloud",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139042581784850400,
+					"id_str": "1139042581784850432",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D86xMXdUcAAh0rP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86xMXdUcAAh0rP.jpg",
+					"url": "https://t.co/OYMHzSkLyc",
+					"display_url": "pic.twitter.com/OYMHzSkLyc",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139042592312532992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139042581784850400,
+					"id_str": "1139042581784850432",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D86xMXdUcAAh0rP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D86xMXdUcAAh0rP.jpg",
+					"url": "https://t.co/OYMHzSkLyc",
+					"display_url": "pic.twitter.com/OYMHzSkLyc",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139042592312532992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2871,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190613\n#나인 #나인NINE9 #디어클라우드\n오늘은 #EBS스페이스공감\n#브로콜리너마저 님들과 함께\n#일산 #EBS #공감 #dearcloud https://t.co/OYMHzSkLyc"
+	},
+	{
 		"created_at": "Thu Jun 13 06:11:57 +0000 2019",
 		"id": 1139044036096827400,
 		"id_str": "1139052770852577280",
