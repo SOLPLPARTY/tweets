@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 16:11:47 +0000 2019",
+		"id": 1139196441405009900,
+		"id_str": "1139203720665870337",
+		"full_text": "#올댓뮤직\n\n오늘 밤도 함께 해주셔서 감사합니다😍\n\n방송에서 만나지 못한 #몽니 의 미방곡은\n올댓뮤직 공식 유튜브 채널에서\n지금 바로! 만나볼 수 있습니다!\n우리 다음주에 또 만나요🌙\n\n#ALLTHATMUSIC #MONNI\n#마지막에 #다음주예고보셨나요🔥\n#Hot뜨거운 #다음주목요일밤 \n#기대해주세요💕 https://t.co/AAssF6E5ms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "몽니",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "MONNI",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "마지막에",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "다음주예고보셨나요",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "Hot뜨거운",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "다음주목요일밤",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "기대해주세요",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139196312455266300,
+					"id_str": "1139196312455266304",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139196312455266304/pu/img/DJ8uDHQlpzkMAcmD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139196312455266304/pu/img/DJ8uDHQlpzkMAcmD.jpg",
+					"url": "https://t.co/AAssF6E5ms",
+					"display_url": "pic.twitter.com/AAssF6E5ms",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139196441405009920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139196312455266300,
+					"id_str": "1139196312455266304",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139196312455266304/pu/img/DJ8uDHQlpzkMAcmD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139196312455266304/pu/img/DJ8uDHQlpzkMAcmD.jpg",
+					"url": "https://t.co/AAssF6E5ms",
+					"display_url": "pic.twitter.com/AAssF6E5ms",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1139196441405009920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 59959,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139196312455266304/pu/vid/478x270/wJFqvy3kkUuyychO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139196312455266304/pu/vid/720x406/OIcfz9pQlTU1ZtxR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1139196312455266304/pu/pl/Al4_3W-xY7Cj1go8.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3745,
+			"friends_count": 965,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n오늘 밤도 함께 해주셔서 감사합니다😍\n\n방송에서 만나지 못한 #몽니 의 미방곡은\n올댓뮤직 공식 유튜브 채널에서\n지금 바로! 만나볼 수 있습니다!\n우리 다음주에 또 만나요🌙\n\n#ALLTHATMUSIC #MONNI\n#마지막에 #다음주예고보셨나요🔥\n#Hot뜨거운 #다음주목요일밤 \n#기대해주세요💕 https://t.co/AAssF6E5ms"
+	},
+	{
 		"created_at": "Thu Jun 13 15:05:35 +0000 2019",
 		"id": 1139187064744960000,
 		"id_str": "1139187064744960000",
