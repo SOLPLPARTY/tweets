@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 15:11:42 +0000 2019",
+		"id": 1139545186252406800,
+		"id_str": "1139550990892523520",
+		"full_text": "&lt;#그녀&gt; 특별상영 확정!\n테오도르 뱃지 패키지와 상영이 진행됩니다.\n-\n♦️일시: 6/21(금) 19:40\n♦️구성: 관람+&lt;그녀&gt; OS1 웰컴 키트 (테오도르 창가 뱃지, OS1 멤버십카드, 사용설명서)+her 엽서 3종세트\n♦️티켓가: 16,000원\n-\n•해당회차 1회만 특별상영됩니다.\n#상상마당 #상상마당시네마 https://t.co/ZWbwod5nvk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그녀",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139545177909948400,
+					"id_str": "1139545177909948418",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D9B6TT7U8AIO0LS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9B6TT7U8AIO0LS.jpg",
+					"url": "https://t.co/ZWbwod5nvk",
+					"display_url": "pic.twitter.com/ZWbwod5nvk",
+					"expanded_url": "https://twitter.com/SSmadang/status/1139545186252406784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139545177909948400,
+					"id_str": "1139545177909948418",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D9B6TT7U8AIO0LS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9B6TT7U8AIO0LS.jpg",
+					"url": "https://t.co/ZWbwod5nvk",
+					"display_url": "pic.twitter.com/ZWbwod5nvk",
+					"expanded_url": "https://twitter.com/SSmadang/status/1139545186252406784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 722,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19578,
+			"friends_count": 2031,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#그녀&gt; 특별상영 확정!\n테오도르 뱃지 패키지와 상영이 진행됩니다.\n-\n♦️일시: 6/21(금) 19:40\n♦️구성: 관람+&lt;그녀&gt; OS1 웰컴 키트 (테오도르 창가 뱃지, OS1 멤버십카드, 사용설명서)+her 엽서 3종세트\n♦️티켓가: 16,000원\n-\n•해당회차 1회만 특별상영됩니다.\n#상상마당 #상상마당시네마 https://t.co/ZWbwod5nvk"
+	},
+	{
 		"created_at": "Fri Jun 14 14:11:42 +0000 2019",
 		"id": 1139525435530731500,
 		"id_str": "1139535892228509696",
