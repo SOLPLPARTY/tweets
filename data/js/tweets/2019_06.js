@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 05:12:00 +0000 2019",
+		"id": 1139395786175742000,
+		"id_str": "1139400071034761216",
+		"full_text": "공연안내 ▶\n스페이스 공감 15주년 특별기획 &lt;시대와 공감&gt; 첫 번째 이야기 주현미, 전통가요 100년을 노래하다\nㅤ\n공연일정 ▶ \n7월 4일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/wQZromKNTR\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #15주년 #특집무대 #첫번째 #주현미 #비내리는영동교 #신사동그사람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "15주년",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "특집무대",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "첫번째",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "주현미",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "비내리는영동교",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "신사동그사람",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wQZromKNTR",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4658",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139395784342769700,
+		"in_reply_to_status_id_str": "1139395784342769670",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278623,
+			"friends_count": 20680,
+			"listed_count": 854,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연안내 ▶\n스페이스 공감 15주년 특별기획 &lt;시대와 공감&gt; 첫 번째 이야기 주현미, 전통가요 100년을 노래하다\nㅤ\n공연일정 ▶ \n7월 4일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/wQZromKNTR\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #15주년 #특집무대 #첫번째 #주현미 #비내리는영동교 #신사동그사람"
+	},
+	{
+		"created_at": "Fri Jun 14 05:11:54 +0000 2019",
+		"id": 1139395784342769700,
+		"id_str": "1139400045059461120",
+		"full_text": "목소리 하나로 모두의 마음을 울린 디바 중의 디바, 주현미\nㅤㅤ\n전통가요부터 대중가요까지❗️ㅤ\n언제 들어도 낯설지 않고, 누가 들어도 공감할 수 있는 \n레전드 '주현미'의 무대에 여러분을 초대합니다🖤\nㅤ\n부모님, 친구들 모두 손잡고 &lt;공감&gt;으로 놀러오세요💫ㅤ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139395781993984000,
+		"in_reply_to_status_id_str": "1139395781993984004",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278623,
+			"friends_count": 20680,
+			"listed_count": 854,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "목소리 하나로 모두의 마음을 울린 디바 중의 디바, 주현미\nㅤㅤ\n전통가요부터 대중가요까지❗️ㅤ\n언제 들어도 낯설지 않고, 누가 들어도 공감할 수 있는 \n레전드 '주현미'의 무대에 여러분을 초대합니다🖤\nㅤ\n부모님, 친구들 모두 손잡고 &lt;공감&gt;으로 놀러오세요💫ㅤ"
+	},
+	{
+		"created_at": "Fri Jun 14 05:11:52 +0000 2019",
+		"id": 1139395781993984000,
+		"id_str": "1139400035953602560",
+		"full_text": "ㅤㅤ\n[EBS 스페이스 공감 공연 안내]\nㅤ\n&lt;EBS 스페이스 공감&gt;이 준비한\n2019년 7월 첫째 주 공연 소식입니다\nㅤ\n스페이스 공감 15주년 특별기획 &lt;시대와 공감&gt; !\n그 첫 번째 페이지가 여러분에게 공개됩니다 🎼\nㅤ\n1980년대 대한민국 대중음악의 큰 획을 그었던 인기가수의 무대가 &lt;공감&gt;에 찾아옵니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278623,
+			"friends_count": 20680,
+			"listed_count": 854,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "ㅤㅤ\n[EBS 스페이스 공감 공연 안내]\nㅤ\n&lt;EBS 스페이스 공감&gt;이 준비한\n2019년 7월 첫째 주 공연 소식입니다\nㅤ\n스페이스 공감 15주년 특별기획 &lt;시대와 공감&gt; !\n그 첫 번째 페이지가 여러분에게 공개됩니다 🎼\nㅤ\n1980년대 대한민국 대중음악의 큰 획을 그었던 인기가수의 무대가 &lt;공감&gt;에 찾아옵니다"
+	},
+	{
+		"created_at": "Fri Jun 14 05:11:45 +0000 2019",
+		"id": 1139395142048088000,
+		"id_str": "1139400005708500994",
+		"full_text": "공연일정 ▶ \n7월 11일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/UokJ1J59el\n\n공감을 아끼고 사랑하는 분들의 많은 신청 바랍니다\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #리짓군즈 #LEGITGOONS #ROCKSTAR_GAMES #CAMBOYS #Credit_Roll #DOKKEBI_ANTHEM #루피&amp;나플라 #루피 #나플라 #얼음왕 #데리러와",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "리짓군즈",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "LEGITGOONS",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "ROCKSTAR_GAMES",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"text": "CAMBOYS",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "Credit_Roll",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "DOKKEBI_ANTHEM",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"text": "루피",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "루피",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "나플라",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "얼음왕",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "데리러와",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UokJ1J59el",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4659",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139395140349382700,
+		"in_reply_to_status_id_str": "1139395140349382656",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278623,
+			"friends_count": 20680,
+			"listed_count": 854,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연일정 ▶ \n7월 11일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/UokJ1J59el\n\n공감을 아끼고 사랑하는 분들의 많은 신청 바랍니다\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #리짓군즈 #LEGITGOONS #ROCKSTAR_GAMES #CAMBOYS #Credit_Roll #DOKKEBI_ANTHEM #루피&amp;나플라 #루피 #나플라 #얼음왕 #데리러와"
+	},
+	{
+		"created_at": "Fri Jun 14 05:11:42 +0000 2019",
+		"id": 1139395140349382700,
+		"id_str": "1139399996644581376",
+		"full_text": "하늘 위로 Jump Jump하고 맘껏 소리쳐도 좋아요 🙌🏻\n당신의 스트레스를 뻥 - 뚫어줄 마법같은 시간을 만들어줄게요 \nㅤ\n함께 즐기고 싶다면 모두 모두 신청하러 꼬우 꼬우 🙂\nㅤ\n공연안내 ▶ 리짓군즈(Legit Goons) '경계를 넘나드는 유희' X 루피&amp;나플라(Loopy&amp;nafla)'Adventure Begins'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139395135937007600,
+		"in_reply_to_status_id_str": "1139395135937007618",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278623,
+			"friends_count": 20680,
+			"listed_count": 854,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하늘 위로 Jump Jump하고 맘껏 소리쳐도 좋아요 🙌🏻\n당신의 스트레스를 뻥 - 뚫어줄 마법같은 시간을 만들어줄게요 \nㅤ\n함께 즐기고 싶다면 모두 모두 신청하러 꼬우 꼬우 🙂\nㅤ\n공연안내 ▶ 리짓군즈(Legit Goons) '경계를 넘나드는 유희' X 루피&amp;나플라(Loopy&amp;nafla)'Adventure Begins'"
+	},
+	{
+		"created_at": "Fri Jun 14 04:44:34 +0000 2019",
+		"id": 1139393167675969500,
+		"id_str": "1139393167675969536",
+		"full_text": "【 #인터파크티켓 】\n[아동/가족] 캐리와 친구들 〈빠라밤 유치원〉- 창원 티켓오픈 안내 : 19.06.18(화) 09:00\n▶ https://t.co/fvZLzWfjtu\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fvZLzWfjtu",
+					"expanded_url": "http://bit.ly/2wPI3uU",
+					"display_url": "bit.ly/2wPI3uU",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[아동/가족] 캐리와 친구들 〈빠라밤 유치원〉- 창원 티켓오픈 안내 : 19.06.18(화) 09:00\n▶ https://t.co/fvZLzWfjtu\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Fri Jun 14 04:44:33 +0000 2019",
+		"id": 1139393163305484300,
+		"id_str": "1139393163305484288",
+		"full_text": "【 #인터파크티켓 】\n[뮤지컬] 2019 푸에르자부르타 웨이라 인 서울［2019 FUERZA BRUTA WAYRA in S.. : 19.06.19(수) 14:00\n▶ https://t.co/EtLPE4JeWE\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtLPE4JeWE",
+					"expanded_url": "http://bit.ly/2XKwjpt",
+					"display_url": "bit.ly/2XKwjpt",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[뮤지컬] 2019 푸에르자부르타 웨이라 인 서울［2019 FUERZA BRUTA WAYRA in S.. : 19.06.19(수) 14:00\n▶ https://t.co/EtLPE4JeWE\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
 		"created_at": "Fri Jun 14 03:18:28 +0000 2019",
 		"id": 1139369539236290600,
 		"id_str": "1139371498760654848",
