@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 06:18:16 +0000 2019",
+		"id": 1139775059680096300,
+		"id_str": "1139779137000923136",
+		"full_text": "#20190615\n#권영찬 #새앨범 #연주회 #라이브앨범\n오늘 저녁6시 #음원 발매\n타이틀 곡은 #내게다시\n킬링트랙은 5번 #고마워너에게\n#연주곡 #피아노 #첼로 #연주음악 https://t.co/KSqjogylxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권영찬",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "연주회",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "음원",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "내게다시",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "고마워너에게",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "연주곡",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "피아노",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "첼로",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "연주음악",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139775043339079700,
+					"id_str": "1139775043339079680",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D9FLXPYU0AAObwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9FLXPYU0AAObwj.jpg",
+					"url": "https://t.co/KSqjogylxL",
+					"display_url": "pic.twitter.com/KSqjogylxL",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139775059680096256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139775043339079700,
+					"id_str": "1139775043339079680",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D9FLXPYU0AAObwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9FLXPYU0AAObwj.jpg",
+					"url": "https://t.co/KSqjogylxL",
+					"display_url": "pic.twitter.com/KSqjogylxL",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139775059680096256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2870,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190615\n#권영찬 #새앨범 #연주회 #라이브앨범\n오늘 저녁6시 #음원 발매\n타이틀 곡은 #내게다시\n킬링트랙은 5번 #고마워너에게\n#연주곡 #피아노 #첼로 #연주음악 https://t.co/KSqjogylxL"
+	},
+	{
 		"created_at": "Sat Jun 15 06:02:15 +0000 2019",
 		"id": 1139775104714518500,
 		"id_str": "1139775104714518528",
