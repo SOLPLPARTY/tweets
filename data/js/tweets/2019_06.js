@@ -1,6 +1,1022 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 09:15:43 +0000 2019",
+		"id": 1139823793302626300,
+		"id_str": "1139823793302626304",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n[Dance Cover] DJ Khaled - No Brainer by 독특크루(Dokteuk Crew)\nhttps://t.co/l2dGZNrZnO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l2dGZNrZnO",
+					"expanded_url": "https://youtu.be/6ft8BXVWFSQ",
+					"display_url": "youtu.be/6ft8BXVWFSQ",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n[Dance Cover] DJ Khaled - No Brainer by 독특크루(Dokteuk Crew)\nhttps://t.co/l2dGZNrZnO"
+	},
+	{
+		"created_at": "Sat Jun 15 09:11:51 +0000 2019",
+		"id": 1139820459673804800,
+		"id_str": "1139822817988501504",
+		"full_text": "#캐스퍼라디오 #주찬의홍설수설\n다음주 수요일부터 함께하는 주찬의 라디오! 프로그램 이름은 &lt;주찬의 홍설수설&gt;\n👉‘홍’주찬의 ‘설’레는 ‘수’요일 밤의 ‘설’(썰,이야기) 그 첫번째 시간을 함께할 ⚡️특급⚡️게스트는?\n#골든차일드 #주찬 #goldenchild https://t.co/nB5Xuklx5N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "주찬의홍설수설",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "주찬",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "goldenchild",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139820449573953500,
+					"id_str": "1139820449573953537",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D9F0qOyU4AEVHDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9F0qOyU4AEVHDT.jpg",
+					"url": "https://t.co/nB5Xuklx5N",
+					"display_url": "pic.twitter.com/nB5Xuklx5N",
+					"expanded_url": "https://twitter.com/casperradio_/status/1139820459673804801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139820449573953500,
+					"id_str": "1139820449573953537",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D9F0qOyU4AEVHDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9F0qOyU4AEVHDT.jpg",
+					"url": "https://t.co/nB5Xuklx5N",
+					"display_url": "pic.twitter.com/nB5Xuklx5N",
+					"expanded_url": "https://twitter.com/casperradio_/status/1139820459673804801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139820449561317400,
+					"id_str": "1139820449561317378",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/D9F0qOvUEAIQfiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9F0qOvUEAIQfiB.jpg",
+					"url": "https://t.co/nB5Xuklx5N",
+					"display_url": "pic.twitter.com/nB5Xuklx5N",
+					"expanded_url": "https://twitter.com/casperradio_/status/1139820459673804801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 옥상달빛의 옥탑라됴/ 권정열고영배의 십란한밤/ 손동운의 동니좋군/ 하박국의 박국박국해/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 5,
+			"listed_count": 1,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022767149469786114/-eQJ-U-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022767149469786114/-eQJ-U-O_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼라디오 #주찬의홍설수설\n다음주 수요일부터 함께하는 주찬의 라디오! 프로그램 이름은 &lt;주찬의 홍설수설&gt;\n👉‘홍’주찬의 ‘설’레는 ‘수’요일 밤의 ‘설’(썰,이야기) 그 첫번째 시간을 함께할 ⚡️특급⚡️게스트는?\n#골든차일드 #주찬 #goldenchild https://t.co/nB5Xuklx5N"
+	},
+	{
+		"created_at": "Sat Jun 15 09:11:48 +0000 2019",
+		"id": 1139819671652163600,
+		"id_str": "1139822804872790016",
+		"full_text": "@y_ddony @TheVANE053 저희가 더 감사하죠!!🙏🥰",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "y_ddony",
+					"name": "또니",
+					"id": 1132941103512973300,
+					"id_str": "1132941103512973313",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "TheVANE053",
+					"name": "[보훈의🌙]TheVANE official",
+					"id": 2932130826,
+					"id_str": "2932130826",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1139816592689156100,
+		"in_reply_to_status_id_str": "1139816592689156096",
+		"in_reply_to_user_id": 1132941103512973300,
+		"in_reply_to_user_id_str": "1132941103512973313",
+		"in_reply_to_screen_name": "y_ddony",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2654,
+			"friends_count": 2556,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@y_ddony @TheVANE053 저희가 더 감사하죠!!🙏🥰"
+	},
+	{
+		"created_at": "Sat Jun 15 09:11:43 +0000 2019",
+		"id": 1139815889426010100,
+		"id_str": "1139822783024680961",
+		"full_text": "[신규 입고]\n📎 '더베인' 스티커/손거울/부채\n\nJTBC &lt;슈퍼밴드&gt;에서 크게 활약한 ✨더베인✨의 귀욤뽀짝한 굿즈들이 입고되었어요🎉\n하트 부채가 너무 귀엽네요😍예쁜 MD를 가져다주신 팬 분께 감사드립니다🙏\n\n+) 네이버뮤지션리그에서 더베인의 데모 곡을 감상해보세요🎵\n📍 https://t.co/kRkBDPXwT0 https://t.co/YoMvgkfgOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRkBDPXwT0",
+					"expanded_url": "http://bit.ly/2IK7uni",
+					"display_url": "bit.ly/2IK7uni",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139815008970219500,
+					"id_str": "1139815008970219520",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Fvti9UIAAiKUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Fvti9UIAAiKUA.jpg",
+					"url": "https://t.co/YoMvgkfgOy",
+					"display_url": "pic.twitter.com/YoMvgkfgOy",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139815889426010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139815008970219500,
+					"id_str": "1139815008970219520",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Fvti9UIAAiKUA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Fvti9UIAAiKUA.jpg",
+					"url": "https://t.co/YoMvgkfgOy",
+					"display_url": "pic.twitter.com/YoMvgkfgOy",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139815889426010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139815024841510900,
+					"id_str": "1139815024841510912",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D9FvueFU0AA3cXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9FvueFU0AA3cXh.jpg",
+					"url": "https://t.co/YoMvgkfgOy",
+					"display_url": "pic.twitter.com/YoMvgkfgOy",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139815889426010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139815036182904800,
+					"id_str": "1139815036182904833",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D9FvvIVUwAEb7X-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9FvvIVUwAEb7X-.jpg",
+					"url": "https://t.co/YoMvgkfgOy",
+					"display_url": "pic.twitter.com/YoMvgkfgOy",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139815889426010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139815045683011600,
+					"id_str": "1139815045683011584",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D9FvvruU4AAtmoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9FvvruU4AAtmoq.jpg",
+					"url": "https://t.co/YoMvgkfgOy",
+					"display_url": "pic.twitter.com/YoMvgkfgOy",
+					"expanded_url": "https://twitter.com/xindieticket/status/1139815889426010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2654,
+			"friends_count": 2556,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n📎 '더베인' 스티커/손거울/부채\n\nJTBC &lt;슈퍼밴드&gt;에서 크게 활약한 ✨더베인✨의 귀욤뽀짝한 굿즈들이 입고되었어요🎉\n하트 부채가 너무 귀엽네요😍예쁜 MD를 가져다주신 팬 분께 감사드립니다🙏\n\n+) 네이버뮤지션리그에서 더베인의 데모 곡을 감상해보세요🎵\n📍 https://t.co/kRkBDPXwT0 https://t.co/YoMvgkfgOy"
+	},
+	{
+		"created_at": "Sat Jun 15 09:03:10 +0000 2019",
+		"id": 1139820633607553000,
+		"id_str": "1139820633607553024",
+		"full_text": "#포크라노스 #POCLANOS\n[Lyrics] 선우정아 (Sunwoo Jung-A) - 쌤쌤 (SAM SAM) l 가사\nhttps://t.co/1QzilcQR2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1QzilcQR2g",
+					"expanded_url": "https://youtu.be/uifvVAr2I0E",
+					"display_url": "youtu.be/uifvVAr2I0E",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Lyrics] 선우정아 (Sunwoo Jung-A) - 쌤쌤 (SAM SAM) l 가사\nhttps://t.co/1QzilcQR2g"
+	},
+	{
+		"created_at": "Sat Jun 15 09:02:03 +0000 2019",
+		"id": 1139820353323176000,
+		"id_str": "1139820353323175936",
+		"full_text": "#딩고뮤직 #dingo_music\n세로라이브 | 어반자카파 - 서울 밤 (feat. 빈지노)\nhttps://t.co/sSMOR4hYt8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sSMOR4hYt8",
+					"expanded_url": "https://youtu.be/cSRpiIgL14Y",
+					"display_url": "youtu.be/cSRpiIgL14Y",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n세로라이브 | 어반자카파 - 서울 밤 (feat. 빈지노)\nhttps://t.co/sSMOR4hYt8"
+	},
+	{
 		"created_at": "Sat Jun 15 08:11:42 +0000 2019",
 		"id": 1139802005340164100,
 		"id_str": "1139807682636984320",
