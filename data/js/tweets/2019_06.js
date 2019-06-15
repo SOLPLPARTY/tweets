@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 11:18:17 +0000 2019",
+		"id": 1139854289055047700,
+		"id_str": "1139854635013791745",
+		"full_text": "#20190615\n#나인 #나인NINE9 #디어클라우드\n잠시후 #수현의볼륨을높여요 에 출연합니다\n#KBS라디오 #악동뮤지션 #수현 #볼륨을높여요\n#에놉 #솔루션스 #박솔 님과 함께 https://t.co/N9EqSyiRJQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "수현의볼륨을높여요",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "KBS라디오",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "악동뮤지션",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "볼륨을높여요",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "에놉",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "박솔",
+					"indices": [
+						91,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139854274781798400,
+					"id_str": "1139854274781798400",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D9GTbHgUYAAISwm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9GTbHgUYAAISwm.jpg",
+					"url": "https://t.co/N9EqSyiRJQ",
+					"display_url": "pic.twitter.com/N9EqSyiRJQ",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139854289055047683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139854274781798400,
+					"id_str": "1139854274781798400",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D9GTbHgUYAAISwm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9GTbHgUYAAISwm.jpg",
+					"url": "https://t.co/N9EqSyiRJQ",
+					"display_url": "pic.twitter.com/N9EqSyiRJQ",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1139854289055047683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2869,
+			"friends_count": 387,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190615\n#나인 #나인NINE9 #디어클라우드\n잠시후 #수현의볼륨을높여요 에 출연합니다\n#KBS라디오 #악동뮤지션 #수현 #볼륨을높여요\n#에놉 #솔루션스 #박솔 님과 함께 https://t.co/N9EqSyiRJQ"
+	},
+	{
 		"created_at": "Sat Jun 15 09:18:16 +0000 2019",
 		"id": 1139822356510068700,
 		"id_str": "1139824434624303104",
