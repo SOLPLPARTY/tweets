@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 07:11:42 +0000 2019",
+		"id": 1140144946772447200,
+		"id_str": "1140154970819518466",
+		"full_text": "[공연추천]\n금요일만 불금이란 법이 있나요!! '고인물'에서 불타오르는🔥 화요일 저녁에 공연을 즐겨보는 건 어떨까요~?\n\n&lt;원더월드 Party 🎡&gt;\n*일시 : 6/18(화) 8PM (7:45PM 입장 시작)\n*라인업 : 윤새한, 예람, The Beamish Brothers, 쓰다, Kimin &amp; Tommy\n*티켓가 : 무료입장 자율페이 FREE https://t.co/7gMUcBJOVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140144502105002000,
+					"id_str": "1140144502105001984",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D9KbYkiVUAAMxz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9KbYkiVUAAMxz-.jpg",
+					"url": "https://t.co/7gMUcBJOVF",
+					"display_url": "pic.twitter.com/7gMUcBJOVF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1140144946772447233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140144502105002000,
+					"id_str": "1140144502105001984",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D9KbYkiVUAAMxz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9KbYkiVUAAMxz-.jpg",
+					"url": "https://t.co/7gMUcBJOVF",
+					"display_url": "pic.twitter.com/7gMUcBJOVF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1140144946772447233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 2557,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n금요일만 불금이란 법이 있나요!! '고인물'에서 불타오르는🔥 화요일 저녁에 공연을 즐겨보는 건 어떨까요~?\n\n&lt;원더월드 Party 🎡&gt;\n*일시 : 6/18(화) 8PM (7:45PM 입장 시작)\n*라인업 : 윤새한, 예람, The Beamish Brothers, 쓰다, Kimin &amp; Tommy\n*티켓가 : 무료입장 자율페이 FREE https://t.co/7gMUcBJOVF"
+	},
+	{
 		"created_at": "Sun Jun 16 06:02:15 +0000 2019",
 		"id": 1140137492575871000,
 		"id_str": "1140137492575870977",
