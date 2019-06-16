@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 03:18:16 +0000 2019",
+		"id": 1140082463915380700,
+		"id_str": "1140096225875771392",
+		"full_text": "[계피][최낙타] 어제 계피와 최낙타는 청주문암생태공원에서 진행된 &lt;로그인포레스트&gt;와 함께했습니다🌿 좋은 날씨와 함께 행복한 시간이었길 바랍니다 :) 다음에 또 만나요 💚\n-\n#계피 #최낙타 #로그인포레스트 https://t.co/CXvp4hwERW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "로그인포레스트",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140082448644001800,
+					"id_str": "1140082448644001797",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Ji8lYVUAUczfv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Ji8lYVUAUczfv.jpg",
+					"url": "https://t.co/CXvp4hwERW",
+					"display_url": "pic.twitter.com/CXvp4hwERW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1140082463915380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140082448644001800,
+					"id_str": "1140082448644001797",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Ji8lYVUAUczfv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Ji8lYVUAUczfv.jpg",
+					"url": "https://t.co/CXvp4hwERW",
+					"display_url": "pic.twitter.com/CXvp4hwERW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1140082463915380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140082448639750100,
+					"id_str": "1140082448639750144",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Ji8lXUcAA7Hd7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Ji8lXUcAA7Hd7.jpg",
+					"url": "https://t.co/CXvp4hwERW",
+					"display_url": "pic.twitter.com/CXvp4hwERW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1140082463915380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140082448631382000,
+					"id_str": "1140082448631382016",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Ji8lVUwAA5FsS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Ji8lVUwAA5FsS.jpg",
+					"url": "https://t.co/CXvp4hwERW",
+					"display_url": "pic.twitter.com/CXvp4hwERW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1140082463915380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140082448635580400,
+					"id_str": "1140082448635580416",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Ji8lWU0AArPg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Ji8lWU0AArPg8.jpg",
+					"url": "https://t.co/CXvp4hwERW",
+					"display_url": "pic.twitter.com/CXvp4hwERW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1140082463915380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1482,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[계피][최낙타] 어제 계피와 최낙타는 청주문암생태공원에서 진행된 &lt;로그인포레스트&gt;와 함께했습니다🌿 좋은 날씨와 함께 행복한 시간이었길 바랍니다 :) 다음에 또 만나요 💚\n-\n#계피 #최낙타 #로그인포레스트 https://t.co/CXvp4hwERW"
+	},
+	{
 		"created_at": "Sun Jun 16 03:13:21 +0000 2019",
 		"id": 1140094985368408000,
 		"id_str": "1140094985368408064",
