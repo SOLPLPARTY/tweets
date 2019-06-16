@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 05:11:42 +0000 2019",
+		"id": 1140116024357843000,
+		"id_str": "1140124772761821184",
+		"full_text": "[씬디 CDP 💽]\n\n씬디에서는 CD 플레이어로 다양한 앨범을 자유롭게 감상하실 수 있는데요 🎶 \n앨범이 많다 보니 찾는데 불편함을 겪으실 것 같아 좀 더 쉽게 찾을 수 있도록 라벨도 붙이고, 앨범 목록도 수정했으니 다양한 음악을 감상해보세요 💕\n\n앨범 목록 보기 ▶️ https://t.co/jYI89bcdTQ https://t.co/tGeI0ubWnb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jYI89bcdTQ",
+					"expanded_url": "http://reurl.kr/268384FFCL",
+					"display_url": "reurl.kr/268384FFCL",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140115944053719000,
+					"id_str": "1140115944053719041",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D9KBaRgUwAECv_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9KBaRgUwAECv_v.jpg",
+					"url": "https://t.co/tGeI0ubWnb",
+					"display_url": "pic.twitter.com/tGeI0ubWnb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1140116024357842949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140115944053719000,
+					"id_str": "1140115944053719041",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D9KBaRgUwAECv_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9KBaRgUwAECv_v.jpg",
+					"url": "https://t.co/tGeI0ubWnb",
+					"display_url": "pic.twitter.com/tGeI0ubWnb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1140116024357842949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140115952073232400,
+					"id_str": "1140115952073232386",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/D9KBavYU0AI1dSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9KBavYU0AI1dSM.jpg",
+					"url": "https://t.co/tGeI0ubWnb",
+					"display_url": "pic.twitter.com/tGeI0ubWnb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1140116024357842949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 717,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 717,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 2556,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디 CDP 💽]\n\n씬디에서는 CD 플레이어로 다양한 앨범을 자유롭게 감상하실 수 있는데요 🎶 \n앨범이 많다 보니 찾는데 불편함을 겪으실 것 같아 좀 더 쉽게 찾을 수 있도록 라벨도 붙이고, 앨범 목록도 수정했으니 다양한 음악을 감상해보세요 💕\n\n앨범 목록 보기 ▶️ https://t.co/jYI89bcdTQ https://t.co/tGeI0ubWnb"
+	},
+	{
+		"created_at": "Sun Jun 16 04:18:18 +0000 2019",
+		"id": 1140097382975041500,
+		"id_str": "1140111333242953729",
+		"full_text": "*더 많은 사진은 전기뱀장어 페이스북에서 확인하실 수 있습니다. \n\nPhoto by. iiieung\n-\n#전기뱀장어 #그린플러그드 #공연사진",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "그린플러그드",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "공연사진",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140096911317196800,
+		"in_reply_to_status_id_str": "1140096911317196801",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1482,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*더 많은 사진은 전기뱀장어 페이스북에서 확인하실 수 있습니다. \n\nPhoto by. iiieung\n-\n#전기뱀장어 #그린플러그드 #공연사진"
+	},
+	{
 		"created_at": "Sun Jun 16 03:18:16 +0000 2019",
 		"id": 1140082463915380700,
 		"id_str": "1140096225875771392",
