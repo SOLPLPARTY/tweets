@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 01 13:11:43 +0000 2019",
+		"id": 1145676156412108800,
+		"id_str": "1145681387686694912",
+		"full_text": "&lt;이민혁 소극장 장기 콘서트 - 소행성&gt;\n💫일시 : 7/18(목) ~ 7/21(일), 7/25(목) ~ 7/28(일)\n💫장소 : 폼텍 웍스홀\n💫티켓 : 전석 55,000원\n💫예매 : https://t.co/fBBiYgYb0P (멜론티켓) https://t.co/Qqn6brSIBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fBBiYgYb0P",
+					"expanded_url": "http://bit.ly/2I1lZUA",
+					"display_url": "bit.ly/2I1lZUA",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145675805365690400,
+					"id_str": "1145675805365690368",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ZCEy6U4AAL49q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ZCEy6U4AAL49q.jpg",
+					"url": "https://t.co/Qqn6brSIBI",
+					"display_url": "pic.twitter.com/Qqn6brSIBI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145676156412108803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145675805365690400,
+					"id_str": "1145675805365690368",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ZCEy6U4AAL49q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ZCEy6U4AAL49q.jpg",
+					"url": "https://t.co/Qqn6brSIBI",
+					"display_url": "pic.twitter.com/Qqn6brSIBI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145676156412108803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145657044206145500,
+		"in_reply_to_status_id_str": "1145657044206145536",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이민혁 소극장 장기 콘서트 - 소행성&gt;\n💫일시 : 7/18(목) ~ 7/21(일), 7/25(목) ~ 7/28(일)\n💫장소 : 폼텍 웍스홀\n💫티켓 : 전석 55,000원\n💫예매 : https://t.co/fBBiYgYb0P (멜론티켓) https://t.co/Qqn6brSIBI"
+	},
+	{
+		"created_at": "Mon Jul 01 12:37:17 +0000 2019",
+		"id": 1145672722904748000,
+		"id_str": "1145672722904748032",
+		"full_text": "【 #상상마당 】\n[콘서트] 플래그 EP［4EVER YOUTH］SHOWCASE (2019.07.28~2019.07.28) at 라이브홀\n▶ https://t.co/MbIDBrwb0t\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/7K0tqfcP3c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "상상마당홍대",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "LIVE_HALL",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MbIDBrwb0t",
+					"expanded_url": "http://bit.ly/2ZWgpJ2",
+					"display_url": "bit.ly/2ZWgpJ2",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145672721982005200,
+					"id_str": "1145672721982005248",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y_RUaXoAAJ2td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y_RUaXoAAJ2td.jpg",
+					"url": "https://t.co/7K0tqfcP3c",
+					"display_url": "pic.twitter.com/7K0tqfcP3c",
+					"expanded_url": "https://twitter.com/solplparty/status/1145672722904748032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145672721982005200,
+					"id_str": "1145672721982005248",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y_RUaXoAAJ2td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y_RUaXoAAJ2td.jpg",
+					"url": "https://t.co/7K0tqfcP3c",
+					"display_url": "pic.twitter.com/7K0tqfcP3c",
+					"expanded_url": "https://twitter.com/solplparty/status/1145672722904748032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #상상마당 】\n[콘서트] 플래그 EP［4EVER YOUTH］SHOWCASE (2019.07.28~2019.07.28) at 라이브홀\n▶ https://t.co/MbIDBrwb0t\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/7K0tqfcP3c"
+	},
+	{
 		"created_at": "Mon Jul 01 12:11:47 +0000 2019",
 		"id": 1145657046689185800,
 		"id_str": "1145666304680087552",
