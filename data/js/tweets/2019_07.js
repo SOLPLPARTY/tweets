@@ -1,6 +1,830 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 01 12:11:47 +0000 2019",
+		"id": 1145657046689185800,
+		"id_str": "1145666304680087552",
+		"full_text": "&lt;이민혁 소극장 장기 콘서트 - 소행성&gt;\n💫일시 : 7/18(목) ~ 7/21(일), 7/25(목) ~ 7/28(일)\n💫장소 : 폼텍윅스홀\n💫티켓 : 전석 55,000원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145657044206145500,
+		"in_reply_to_status_id_str": "1145657044206145536",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;이민혁 소극장 장기 콘서트 - 소행성&gt;\n💫일시 : 7/18(목) ~ 7/21(일), 7/25(목) ~ 7/28(일)\n💫장소 : 폼텍윅스홀\n💫티켓 : 전석 55,000원"
+	},
+	{
+		"created_at": "Mon Jul 01 12:11:42 +0000 2019",
+		"id": 1145657044206145500,
+		"id_str": "1145666287135272960",
+		"full_text": "[신규입고]\n📎 이민혁님 부채\n\n첫사랑을 떠올리게 만드는 음색을 가진 이민혁님이 첫 번째 소극장 장기 공연으로 여러분께 좀 더 가까이 다가가는 시간을 가진다고 합니다 😍\n\n이번 공연에서 여름밤과 잘 어울리는 신곡도 발표한다고 하니까 많은 기대와 관심 부탁드립니다 ❣️ https://t.co/qez2Ef9XpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145656529187508200,
+					"id_str": "1145656529187508225",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YwixjUEAEt_dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YwixjUEAEt_dm.jpg",
+					"url": "https://t.co/qez2Ef9XpK",
+					"display_url": "pic.twitter.com/qez2Ef9XpK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145657044206145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145656529187508200,
+					"id_str": "1145656529187508225",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YwixjUEAEt_dm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YwixjUEAEt_dm.jpg",
+					"url": "https://t.co/qez2Ef9XpK",
+					"display_url": "pic.twitter.com/qez2Ef9XpK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145657044206145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145656546728169500,
+					"id_str": "1145656546728169472",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Ywjy5VUAA0YcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Ywjy5VUAA0YcF.jpg",
+					"url": "https://t.co/qez2Ef9XpK",
+					"display_url": "pic.twitter.com/qez2Ef9XpK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145657044206145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 701,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 701,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📎 이민혁님 부채\n\n첫사랑을 떠올리게 만드는 음색을 가진 이민혁님이 첫 번째 소극장 장기 공연으로 여러분께 좀 더 가까이 다가가는 시간을 가진다고 합니다 😍\n\n이번 공연에서 여름밤과 잘 어울리는 신곡도 발표한다고 하니까 많은 기대와 관심 부탁드립니다 ❣️ https://t.co/qez2Ef9XpK"
+	},
+	{
+		"created_at": "Mon Jul 01 12:04:15 +0000 2019",
+		"id": 1145664410968608800,
+		"id_str": "1145664410968608768",
+		"full_text": "#딩고뮤직 #dingo_music\n[ENG SUB] 소미가 딩고 촬영을 거부한 이유는?!ㅣ소미의 나홀로여행 편! (여행 브이로그) | FOLLOW SOMI | SOMI_DAILY | dingo music\nhttps://t.co/B766ioUChy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B766ioUChy",
+					"expanded_url": "https://youtu.be/jXNZAKBaDjc",
+					"display_url": "youtu.be/jXNZAKBaDjc",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[ENG SUB] 소미가 딩고 촬영을 거부한 이유는?!ㅣ소미의 나홀로여행 편! (여행 브이로그) | FOLLOW SOMI | SOMI_DAILY | dingo music\nhttps://t.co/B766ioUChy"
+	},
+	{
+		"created_at": "Mon Jul 01 11:58:54 +0000 2019",
+		"id": 1145663065683365900,
+		"id_str": "1145663065683365889",
+		"full_text": "【 #멜론 】 #멜론매거진\n인간 복숭아가 전하는 진심 어린 이야기♥\nhttps://t.co/vnyfNs4DRG https://t.co/XDtEk8N8KP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vnyfNs4DRG",
+					"expanded_url": "http://bit.ly/2XNfttq",
+					"display_url": "bit.ly/2XNfttq",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145663064391540700,
+					"id_str": "1145663064391540736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y2fLFX4AAtfhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y2fLFX4AAtfhh.jpg",
+					"url": "https://t.co/XDtEk8N8KP",
+					"display_url": "pic.twitter.com/XDtEk8N8KP",
+					"expanded_url": "https://twitter.com/solplparty/status/1145663065683365889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145663064391540700,
+					"id_str": "1145663064391540736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y2fLFX4AAtfhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y2fLFX4AAtfhh.jpg",
+					"url": "https://t.co/XDtEk8N8KP",
+					"display_url": "pic.twitter.com/XDtEk8N8KP",
+					"expanded_url": "https://twitter.com/solplparty/status/1145663065683365889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론 】 #멜론매거진\n인간 복숭아가 전하는 진심 어린 이야기♥\nhttps://t.co/vnyfNs4DRG https://t.co/XDtEk8N8KP"
+	},
+	{
+		"created_at": "Mon Jul 01 11:58:47 +0000 2019",
+		"id": 1145663032611299300,
+		"id_str": "1145663032611299332",
+		"full_text": "【 #멜론 】 #멜론매거진\n한층 성장한 모습으로 돌아온 여자친구 (GFRIEND) [FEVER SEASON]\nhttps://t.co/y64ha8uo6q https://t.co/FOvkAnWRdf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y64ha8uo6q",
+					"expanded_url": "http://bit.ly/304xjVV",
+					"display_url": "bit.ly/304xjVV",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1145663031340404700,
+					"id_str": "1145663031340404736",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y2dP9XkAAbCoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y2dP9XkAAbCoY.jpg",
+					"url": "https://t.co/FOvkAnWRdf",
+					"display_url": "pic.twitter.com/FOvkAnWRdf",
+					"expanded_url": "https://twitter.com/solplparty/status/1145663032611299332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145663031340404700,
+					"id_str": "1145663031340404736",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Y2dP9XkAAbCoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Y2dP9XkAAbCoY.jpg",
+					"url": "https://t.co/FOvkAnWRdf",
+					"display_url": "pic.twitter.com/FOvkAnWRdf",
+					"expanded_url": "https://twitter.com/solplparty/status/1145663032611299332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론 】 #멜론매거진\n한층 성장한 모습으로 돌아온 여자친구 (GFRIEND) [FEVER SEASON]\nhttps://t.co/y64ha8uo6q https://t.co/FOvkAnWRdf"
+	},
+	{
 		"created_at": "Mon Jul 01 11:11:59 +0000 2019",
 		"id": 1145645454891163600,
 		"id_str": "1145651256653942785",
@@ -440,7 +1264,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Mon Jul 01 11:11:42 +0000 2019",
 		"id": 1145645443809890300,
 		"id_str": "1145651187619893249",
-		"full_text": "['어서오세요, 연남에 뮤직페스타'​ 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz",
+		"full_text": "['어서오세요, 연남에 뮤직페스타' 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -680,7 +1504,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "['어서오세요, 연남에 뮤직페스타'​ 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz"
+		"text": "['어서오세요, 연남에 뮤직페스타' 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz"
 	},
 	{
 		"created_at": "Mon Jul 01 10:04:32 +0000 2019",
