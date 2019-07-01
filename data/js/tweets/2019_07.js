@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 01 11:11:59 +0000 2019",
+		"id": 1145645454891163600,
+		"id_str": "1145651256653942785",
+		"full_text": "&lt;어서오세요 연남에 뮤직페스타&gt; \n🎪일시: 7/27(토) 2~11PM\n🎪장소: 채널1969, 칠펍, 카페 와이코너\n🎪라인업\n밴드 - 에고펑션에러, 레이브릭스, 다브다, TSUSHIMAMIRE, Mass of the Fermenting Dregs, 애리 외 4팀\nDJ - DJ BABBY CHUNG(FROM 줄리아 하트), DJ BIG MIMI(FROM 미미시스터즈)외 3팀 https://t.co/3G26k7Fm93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145644451521388500,
+					"id_str": "1145644451521388544",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YljwvUYAAMGkk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YljwvUYAAMGkk.jpg",
+					"url": "https://t.co/3G26k7Fm93",
+					"display_url": "pic.twitter.com/3G26k7Fm93",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645454891163648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145644451521388500,
+					"id_str": "1145644451521388544",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YljwvUYAAMGkk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YljwvUYAAMGkk.jpg",
+					"url": "https://t.co/3G26k7Fm93",
+					"display_url": "pic.twitter.com/3G26k7Fm93",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645454891163648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 677,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145644469787619300,
+					"id_str": "1145644469787619328",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Ylk0yU8AAKFUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Ylk0yU8AAKFUe.jpg",
+					"url": "https://t.co/3G26k7Fm93",
+					"display_url": "pic.twitter.com/3G26k7Fm93",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645454891163648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 650,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145644483343601700,
+					"id_str": "1145644483343601664",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YllnSU0AA-LOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YllnSU0AA-LOQ.jpg",
+					"url": "https://t.co/3G26k7Fm93",
+					"display_url": "pic.twitter.com/3G26k7Fm93",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645454891163648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 667,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 667,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145645453360287700,
+		"in_reply_to_status_id_str": "1145645453360287744",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;어서오세요 연남에 뮤직페스타&gt; \n🎪일시: 7/27(토) 2~11PM\n🎪장소: 채널1969, 칠펍, 카페 와이코너\n🎪라인업\n밴드 - 에고펑션에러, 레이브릭스, 다브다, TSUSHIMAMIRE, Mass of the Fermenting Dregs, 애리 외 4팀\nDJ - DJ BABBY CHUNG(FROM 줄리아 하트), DJ BIG MIMI(FROM 미미시스터즈)외 3팀 https://t.co/3G26k7Fm93"
+	},
+	{
+		"created_at": "Mon Jul 01 11:11:54 +0000 2019",
+		"id": 1145645453360287700,
+		"id_str": "1145651234742964225",
+		"full_text": "🖤예매기한 : 7/1 ~ 7/26 (금) 6PM\n🖤티켓가 : 예매 35,000원 / 현매 45,000원 \n🖤결제방법 : 현금, 카드 모두 가능\n\n😎 티켓예매는 예매수수료가 없는 씬디 티켓라운지에서 😎",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145645451825168400,
+		"in_reply_to_status_id_str": "1145645451825168385",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🖤예매기한 : 7/1 ~ 7/26 (금) 6PM\n🖤티켓가 : 예매 35,000원 / 현매 45,000원 \n🖤결제방법 : 현금, 카드 모두 가능\n\n😎 티켓예매는 예매수수료가 없는 씬디 티켓라운지에서 😎"
+	},
+	{
+		"created_at": "Mon Jul 01 11:11:51 +0000 2019",
+		"id": 1145645451825168400,
+		"id_str": "1145651221711249408",
+		"full_text": "일본에서 압도적인 라이브와 펑크한 팝 악기 사운드를 믹스하는 'TSUSHIMAMIRE'와 얼터너티브 록 기반의 밴드 'Mass of the Fermenting Dregs' 가 내한하여 더욱 기대감을 높이고 있습니다 💙🖤\n\n밴드 공연과 디제잉 공연을 함께 만나볼 수 있는 &lt;어서오세요, 연남에 뮤직페스타&gt; 놓치지 마세요‼️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1145645443809890300,
+		"in_reply_to_status_id_str": "1145645443809890304",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본에서 압도적인 라이브와 펑크한 팝 악기 사운드를 믹스하는 'TSUSHIMAMIRE'와 얼터너티브 록 기반의 밴드 'Mass of the Fermenting Dregs' 가 내한하여 더욱 기대감을 높이고 있습니다 💙🖤\n\n밴드 공연과 디제잉 공연을 함께 만나볼 수 있는 &lt;어서오세요, 연남에 뮤직페스타&gt; 놓치지 마세요‼️"
+	},
+	{
+		"created_at": "Mon Jul 01 11:11:42 +0000 2019",
+		"id": 1145645443809890300,
+		"id_str": "1145651187619893249",
+		"full_text": "['어서오세요, 연남에 뮤직페스타'​ 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145644387973550100,
+					"id_str": "1145644387973550081",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YlgEAVUAEY0bd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YlgEAVUAEY0bd.jpg",
+					"url": "https://t.co/DyF228BoKz",
+					"display_url": "pic.twitter.com/DyF228BoKz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645443809890304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1697,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145644387973550100,
+					"id_str": "1145644387973550081",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YlgEAVUAEY0bd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YlgEAVUAEY0bd.jpg",
+					"url": "https://t.co/DyF228BoKz",
+					"display_url": "pic.twitter.com/DyF228BoKz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645443809890304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1697,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145644401244299300,
+					"id_str": "1145644401244299264",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Ylg1cU4AAR79j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Ylg1cU4AAR79j.jpg",
+					"url": "https://t.co/DyF228BoKz",
+					"display_url": "pic.twitter.com/DyF228BoKz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645443809890304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 697,
+							"h": 521,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 697,
+							"h": 521,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1145644416041812000,
+					"id_str": "1145644416041811969",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D-YlhskVAAEZIs5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-YlhskVAAEZIs5.jpg",
+					"url": "https://t.co/DyF228BoKz",
+					"display_url": "pic.twitter.com/DyF228BoKz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1145645443809890304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 689,
+							"h": 654,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)  \n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3lr9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3lr9R",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 2561,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['어서오세요, 연남에 뮤직페스타'​ 티켓 판매]\n\n홍대 인근에서 즐길 수 있는 소규모 타운 '어서오세요, 연남에 뮤직페스타' 오프라인 티켓을 ⭐️오늘부터 씬디 티켓라운지에서⭐️ 판매합니다 👏🏻\n\n특히 이번 페스티벌은 '에고펑션 에러'의 보컬 김민정님이 제작 및 총괄하는 공연이라 기대가 되는데요!-! https://t.co/DyF228BoKz"
+	},
+	{
 		"created_at": "Mon Jul 01 10:04:32 +0000 2019",
 		"id": 1145634282997727200,
 		"id_str": "1145634282997727232",
