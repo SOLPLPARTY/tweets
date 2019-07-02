@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 13:18:16 +0000 2019",
+		"id": 1146036796725198800,
+		"id_str": "1146045427025874945",
+		"full_text": "[#계피] '어라운드 66호'에서 계피를 만날 수 있어요✨\n\n'영화'를 주제로한 어라운드 66호✍️\n동요집 '빛과 바람의 유영'에 얽힌 계피의 어린시절 이야기와 계피가 좋아하는 영화에 대한 폭 넓은 이야기까지, 어라운드 매거진으로 만나보세요! \n-\n#계피 #어라운드 #AROUND #빛과바람의유영 https://t.co/kHeJ80Ra14",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "어라운드",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "AROUND",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "빛과바람의유영",
+					"indices": [
+						157,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146036785471823900,
+					"id_str": "1146036785471823873",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eKYmmUIAEsesl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eKYmmUIAEsesl.jpg",
+					"url": "https://t.co/kHeJ80Ra14",
+					"display_url": "pic.twitter.com/kHeJ80Ra14",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146036796725198848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146036785471823900,
+					"id_str": "1146036785471823873",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eKYmmUIAEsesl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eKYmmUIAEsesl.jpg",
+					"url": "https://t.co/kHeJ80Ra14",
+					"display_url": "pic.twitter.com/kHeJ80Ra14",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146036796725198848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146036785476075500,
+					"id_str": "1146036785476075522",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eKYmnVAAIc2IV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eKYmnVAAIc2IV.jpg",
+					"url": "https://t.co/kHeJ80Ra14",
+					"display_url": "pic.twitter.com/kHeJ80Ra14",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146036796725198848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146036785480257500,
+					"id_str": "1146036785480257538",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eKYmoU0AIoNj3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eKYmoU0AIoNj3.jpg",
+					"url": "https://t.co/kHeJ80Ra14",
+					"display_url": "pic.twitter.com/kHeJ80Ra14",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146036796725198848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1505,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#계피] '어라운드 66호'에서 계피를 만날 수 있어요✨\n\n'영화'를 주제로한 어라운드 66호✍️\n동요집 '빛과 바람의 유영'에 얽힌 계피의 어린시절 이야기와 계피가 좋아하는 영화에 대한 폭 넓은 이야기까지, 어라운드 매거진으로 만나보세요! \n-\n#계피 #어라운드 #AROUND #빛과바람의유영 https://t.co/kHeJ80Ra14"
+	},
+	{
 		"created_at": "Tue Jul 02 12:55:00 +0000 2019",
 		"id": 1146039567981645800,
 		"id_str": "1146039567981645829",
