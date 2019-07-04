@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 15:11:43 +0000 2019",
+		"id": 1146788070911463400,
+		"id_str": "1146798752981803009",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋‍♀️🙋‍♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "안녕하신가영",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "Nine9",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "HelloGayoung",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146788043560407000,
+					"id_str": "1146788043560407041",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-o1plEVUAEnsmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-o1plEVUAEnsmB.jpg",
+					"url": "https://t.co/G0FwT6SD9a",
+					"display_url": "pic.twitter.com/G0FwT6SD9a",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1146788070911463424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146788043560407000,
+					"id_str": "1146788043560407041",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-o1plEVUAEnsmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-o1plEVUAEnsmB.jpg",
+					"url": "https://t.co/G0FwT6SD9a",
+					"display_url": "pic.twitter.com/G0FwT6SD9a",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1146788070911463424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146788058643095600,
+					"id_str": "1146788058643095552",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-o1qdQU4AAZ-Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-o1qdQU4AAZ-Kl.jpg",
+					"url": "https://t.co/G0FwT6SD9a",
+					"display_url": "pic.twitter.com/G0FwT6SD9a",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1146788070911463424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3740,
+			"friends_count": 962,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋‍♀️🙋‍♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a"
+	},
+	{
+		"created_at": "Thu Jul 04 15:04:35 +0000 2019",
+		"id": 1146796957219852300,
+		"id_str": "1146796957219852288",
+		"full_text": "【 #멜론 】 #멜론매거진\n차곡차곡 쌓아온 이야기, 쏜애플 (THORNAPPLE) [계몽]\nhttps://t.co/Nip4bqYDwE https://t.co/6CjrDAQjt3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nip4bqYDwE",
+					"expanded_url": "http://bit.ly/2xsR2m2",
+					"display_url": "bit.ly/2xsR2m2",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146796956011966500,
+					"id_str": "1146796956011966465",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-o9wWiXsAE1Xaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-o9wWiXsAE1Xaf.jpg",
+					"url": "https://t.co/6CjrDAQjt3",
+					"display_url": "pic.twitter.com/6CjrDAQjt3",
+					"expanded_url": "https://twitter.com/solplparty/status/1146796957219852288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146796956011966500,
+					"id_str": "1146796956011966465",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-o9wWiXsAE1Xaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-o9wWiXsAE1Xaf.jpg",
+					"url": "https://t.co/6CjrDAQjt3",
+					"display_url": "pic.twitter.com/6CjrDAQjt3",
+					"expanded_url": "https://twitter.com/solplparty/status/1146796957219852288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론 】 #멜론매거진\n차곡차곡 쌓아온 이야기, 쏜애플 (THORNAPPLE) [계몽]\nhttps://t.co/Nip4bqYDwE https://t.co/6CjrDAQjt3"
+	},
+	{
 		"created_at": "Thu Jul 04 13:18:16 +0000 2019",
 		"id": 1146765932749967400,
 		"id_str": "1146770202534825984",
