@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 13:18:16 +0000 2019",
+		"id": 1146765932749967400,
+		"id_str": "1146770202534825984",
+		"full_text": "Sam Kim 2019 EU TOUR - The Last Day in Berlin 😎🇩🇪 https://t.co/mqNMYUtCSB #샘김 #SamKim @leegititssam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mqNMYUtCSB",
+					"expanded_url": "https://youtu.be/L5b5Gtczc7U",
+					"display_url": "youtu.be/L5b5Gtczc7U",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34993,
+			"friends_count": 14953,
+			"listed_count": 414,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1560762336",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sam Kim 2019 EU TOUR - The Last Day in Berlin 😎🇩🇪 https://t.co/mqNMYUtCSB #샘김 #SamKim @leegititssam"
+	},
+	{
 		"created_at": "Thu Jul 04 13:11:42 +0000 2019",
 		"id": 1146759057241305100,
 		"id_str": "1146768549760966656",
