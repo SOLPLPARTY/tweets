@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 13:11:42 +0000 2019",
+		"id": 1146759057241305100,
+		"id_str": "1146768549760966656",
+		"full_text": "#올댓뮤직 #공개녹화\n190704 19:00 @춘천KBS공개홀\n#제이레빗 #짙은 #소수빈\n\n흐헝어엉헝 상콤달콤귀욤🐰🐰\n보기만 해도 행복해지는\n제이레빗의 무대 시작했습니다!\n\n지금 바로\n페이스북 / MyK 라이브로 함께 해주세요!\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC #190704\n#Jrabbit #Zitten #SOSOOBIN https://t.co/I8WDQZJrMk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "제이레빗",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "짙은",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "소수빈",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "Jrabbit",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "Zitten",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "SOSOOBIN",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146759048986914800,
+					"id_str": "1146759048986914816",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D-obR33UcAAN3cM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-obR33UcAAN3cM.jpg",
+					"url": "https://t.co/I8WDQZJrMk",
+					"display_url": "pic.twitter.com/I8WDQZJrMk",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1146759057241305096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 541,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 541,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146759048986914800,
+					"id_str": "1146759048986914816",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/D-obR33UcAAN3cM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-obR33UcAAN3cM.jpg",
+					"url": "https://t.co/I8WDQZJrMk",
+					"display_url": "pic.twitter.com/I8WDQZJrMk",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1146759057241305096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 541,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 541,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3740,
+			"friends_count": 962,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190704 19:00 @춘천KBS공개홀\n#제이레빗 #짙은 #소수빈\n\n흐헝어엉헝 상콤달콤귀욤🐰🐰\n보기만 해도 행복해지는\n제이레빗의 무대 시작했습니다!\n\n지금 바로\n페이스북 / MyK 라이브로 함께 해주세요!\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC #190704\n#Jrabbit #Zitten #SOSOOBIN https://t.co/I8WDQZJrMk"
+	},
+	{
+		"created_at": "Thu Jul 04 12:58:17 +0000 2019",
+		"id": 1146765172595449900,
+		"id_str": "1146765172595449868",
+		"full_text": "【 #PlayDB 】 #상상마당\n민트페스타 vol.64 (2019.08.18 ~ 2019.08.18) at KT&amp;G 상상마당 라이브홀\n▶ https://t.co/pwi2nDunBu\n　\n#플레이DB #플레이디비\n#상상마당 #라이브홀\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/kCMUGkCC8E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwi2nDunBu",
+					"expanded_url": "http://bit.ly/2xsrlSF",
+					"display_url": "bit.ly/2xsrlSF",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146765171567861800,
+					"id_str": "1146765171567861760",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D-og2QQXoAAX4Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-og2QQXoAAX4Gz.jpg",
+					"url": "https://t.co/kCMUGkCC8E",
+					"display_url": "pic.twitter.com/kCMUGkCC8E",
+					"expanded_url": "https://twitter.com/solplparty/status/1146765172595449868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146765171567861800,
+					"id_str": "1146765171567861760",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D-og2QQXoAAX4Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-og2QQXoAAX4Gz.jpg",
+					"url": "https://t.co/kCMUGkCC8E",
+					"display_url": "pic.twitter.com/kCMUGkCC8E",
+					"expanded_url": "https://twitter.com/solplparty/status/1146765172595449868/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #상상마당\n민트페스타 vol.64 (2019.08.18 ~ 2019.08.18) at KT&amp;G 상상마당 라이브홀\n▶ https://t.co/pwi2nDunBu\n　\n#플레이DB #플레이디비\n#상상마당 #라이브홀\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/kCMUGkCC8E"
+	},
+	{
+		"created_at": "Thu Jul 04 12:18:18 +0000 2019",
+		"id": 1146754181543288800,
+		"id_str": "1146755111676448768",
+		"full_text": "[최낙타] 낙타TV 시즌1 - #1 작업실 뒷이야기 공개 🐪🎬\n\n낙타와 이우가 이야기하는 tvN &lt;작업실&gt; 미공개 스토리\n유튜브 '최낙타' 채널에서 만나보세요!\n\n*풀영상 링크 👉 https://t.co/QPyFXmaFfe\n\n#최낙타 #낙타TV #브이로그 #이우 #작업실 #비하인드 https://t.co/4c06AOzK5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "낙타TV",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "이우",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "작업실",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPyFXmaFfe",
+					"expanded_url": "http://youtu.be/Pb9273jWin8",
+					"display_url": "youtu.be/Pb9273jWin8",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146754053679923200,
+					"id_str": "1146754053679923200",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146754053679923200/pu/img/EAs7By1gByUuS_Mz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146754053679923200/pu/img/EAs7By1gByUuS_Mz.jpg",
+					"url": "https://t.co/4c06AOzK5g",
+					"display_url": "pic.twitter.com/4c06AOzK5g",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146754181543288832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146754053679923200,
+					"id_str": "1146754053679923200",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146754053679923200/pu/img/EAs7By1gByUuS_Mz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146754053679923200/pu/img/EAs7By1gByUuS_Mz.jpg",
+					"url": "https://t.co/4c06AOzK5g",
+					"display_url": "pic.twitter.com/4c06AOzK5g",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1146754181543288832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 45003,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146754053679923200/pu/vid/478x270/VUHDAU9vwlFm-p5s.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1146754053679923200/pu/pl/fTaHXdF1PdQ8xqnX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1146754053679923200/pu/vid/720x406/g20nFHEBi-ZaZFXh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1506,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최낙타] 낙타TV 시즌1 - #1 작업실 뒷이야기 공개 🐪🎬\n\n낙타와 이우가 이야기하는 tvN &lt;작업실&gt; 미공개 스토리\n유튜브 '최낙타' 채널에서 만나보세요!\n\n*풀영상 링크 👉 https://t.co/QPyFXmaFfe\n\n#최낙타 #낙타TV #브이로그 #이우 #작업실 #비하인드 https://t.co/4c06AOzK5g"
+	},
+	{
 		"created_at": "Thu Jul 04 12:11:42 +0000 2019",
 		"id": 1146745498943930400,
 		"id_str": "1146753450170097671",
