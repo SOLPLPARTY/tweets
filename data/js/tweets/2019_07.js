@@ -1,10 +1,477 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 16:18:24 +0000 2019",
+		"id": 1146812364307570700,
+		"id_str": "1146815531250569217",
+		"full_text": "#20190705\n#나인 #나인NINE9 #디어클라우드\n#실시간검색어 #네이버7위 #다음3위 #멜론1위\n#올댓뮤직 #공감 감사합니다ㅎ https://t.co/kMmLrp3Fq5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "실시간검색어",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "네이버7위",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "다음3위",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "멜론1위",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						64,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146812353301737500,
+					"id_str": "1146812353301737472",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-pLwl6UcAAZ6fo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-pLwl6UcAAZ6fo.jpg",
+					"url": "https://t.co/kMmLrp3Fq5",
+					"display_url": "pic.twitter.com/kMmLrp3Fq5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1146812364307570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1508,
+							"h": 1243,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146812353301737500,
+					"id_str": "1146812353301737472",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-pLwl6UcAAZ6fo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-pLwl6UcAAZ6fo.jpg",
+					"url": "https://t.co/kMmLrp3Fq5",
+					"display_url": "pic.twitter.com/kMmLrp3Fq5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1146812364307570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 989,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1508,
+							"h": 1243,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146812353331122200,
+					"id_str": "1146812353331122176",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-pLwmBU0AA_wAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-pLwmBU0AA_wAE.jpg",
+					"url": "https://t.co/kMmLrp3Fq5",
+					"display_url": "pic.twitter.com/kMmLrp3Fq5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1146812364307570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1135,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146812353314299900,
+					"id_str": "1146812353314299905",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/D-pLwl9UIAEG4gO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-pLwl9UIAEG4gO.jpg",
+					"url": "https://t.co/kMmLrp3Fq5",
+					"display_url": "pic.twitter.com/kMmLrp3Fq5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1146812364307570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857,
+			"friends_count": 376,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190705\n#나인 #나인NINE9 #디어클라우드\n#실시간검색어 #네이버7위 #다음3위 #멜론1위\n#올댓뮤직 #공감 감사합니다ㅎ https://t.co/kMmLrp3Fq5"
+	},
+	{
+		"created_at": "Thu Jul 04 16:18:20 +0000 2019",
+		"id": 1146811938757722100,
+		"id_str": "1146815518109773827",
+		"full_text": "#20190705\n#나인 #나인NINE9 #디어클라우드\n#실시간검색어 #네이버7위 #다음3위 #멜론1위\n#올댓뮤직 #공감 감사합니다ㅎ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "실시간검색어",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "네이버7위",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "다음3위",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "멜론1위",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						64,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2857,
+			"friends_count": 376,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#20190705\n#나인 #나인NINE9 #디어클라우드\n#실시간검색어 #네이버7위 #다음3위 #멜론1위\n#올댓뮤직 #공감 감사합니다ㅎ"
+	},
+	{
 		"created_at": "Thu Jul 04 15:11:43 +0000 2019",
 		"id": 1146788070911463400,
 		"id_str": "1146798752981803009",
-		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋‍♀️🙋‍♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋♀️🙋♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -293,7 +760,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋‍♀️🙋‍♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a"
+		"text": "#올댓뮤직 #본방사수\n오늘 밤 11시40분 KBS1 TV\n\n오늘도 행복하게 녹화 끄읕💕\n이제 곧!!\n#나인 #안녕하신가영 편이 방송됩니다!\n본방사수 이벤트도 잊지 마세요🙋♀️🙋♂️\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#육중완 #MC와니 #올댓뮤직_본방사수\n#본방사수이벤트\n#Nine9 #HelloGayoung https://t.co/G0FwT6SD9a"
 	},
 	{
 		"created_at": "Thu Jul 04 15:04:35 +0000 2019",
