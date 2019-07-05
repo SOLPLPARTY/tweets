@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 10:11:42 +0000 2019",
+		"id": 1147070955665031200,
+		"id_str": "1147085639046840320",
+		"full_text": "7/13(sat) [clubFF - Rock this town]\n아디오스오디오 Adios audio\n코인클래식 Coin classic\n스트릿건즈 Street guns\n\nstart 10:00pm\n*공연 순서는 추후 공개됩니다. \n\n*Happy Hours* \n11pm-12:30am : UNLIMITED FREE COCKTAIL TIME\n\n12am-06am : DJ Eddie's Super-Fun Dance Party https://t.co/t4dqZyHbTO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147070949826519000,
+					"id_str": "1147070949826519040",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s285CUYAAxkCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s285CUYAAxkCb.jpg",
+					"url": "https://t.co/t4dqZyHbTO",
+					"display_url": "pic.twitter.com/t4dqZyHbTO",
+					"expanded_url": "https://twitter.com/clubFF_/status/1147070955665031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147070949826519000,
+					"id_str": "1147070949826519040",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s285CUYAAxkCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s285CUYAAxkCb.jpg",
+					"url": "https://t.co/t4dqZyHbTO",
+					"display_url": "pic.twitter.com/t4dqZyHbTO",
+					"expanded_url": "https://twitter.com/clubFF_/status/1147070955665031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147070949818134500,
+					"id_str": "1147070949818134528",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s285AUcAAjzKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s285AUcAAjzKY.jpg",
+					"url": "https://t.co/t4dqZyHbTO",
+					"display_url": "pic.twitter.com/t4dqZyHbTO",
+					"expanded_url": "https://twitter.com/clubFF_/status/1147070955665031168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6837,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7/13(sat) [clubFF - Rock this town]\n아디오스오디오 Adios audio\n코인클래식 Coin classic\n스트릿건즈 Street guns\n\nstart 10:00pm\n*공연 순서는 추후 공개됩니다. \n\n*Happy Hours* \n11pm-12:30am : UNLIMITED FREE COCKTAIL TIME\n\n12am-06am : DJ Eddie's Super-Fun Dance Party https://t.co/t4dqZyHbTO"
+	},
+	{
+		"created_at": "Fri Jul 05 09:51:37 +0000 2019",
+		"id": 1147080583920652300,
+		"id_str": "1147080583920652288",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n[한글자막영상] 미치 제임스에 대한 21가지!\nhttps://t.co/mbHIJdrqbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mbHIJdrqbN",
+					"expanded_url": "https://youtu.be/KhBSFdMUonk",
+					"display_url": "youtu.be/KhBSFdMUonk",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n[한글자막영상] 미치 제임스에 대한 21가지!\nhttps://t.co/mbHIJdrqbN"
+	},
+	{
+		"created_at": "Fri Jul 05 09:18:28 +0000 2019",
+		"id": 1147069597838786600,
+		"id_str": "1147072240783151104",
+		"full_text": "-예매처 링크\n멜론 : https://t.co/VCthxuoZ5z\n롯데콘서트홀 : https://t.co/QImpLYggwN\n인터파크 : https://t.co/Mg8O5yjIlD\n옥션 : https://t.co/USfXli8tw5\n예스24 : https://t.co/UvJU0ZKuJB https://t.co/0N0Hf00Eib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VCthxuoZ5z",
+					"expanded_url": "https://bit.ly/2FTO5iV",
+					"display_url": "bit.ly/2FTO5iV",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/QImpLYggwN",
+					"expanded_url": "https://bit.ly/2JaQ9oO",
+					"display_url": "bit.ly/2JaQ9oO",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/Mg8O5yjIlD",
+					"expanded_url": "https://bit.ly/2JolYtf",
+					"display_url": "bit.ly/2JolYtf",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/USfXli8tw5",
+					"expanded_url": "https://bit.ly/2YzavNU",
+					"display_url": "bit.ly/2YzavNU",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/UvJU0ZKuJB",
+					"expanded_url": "https://bit.ly/306iQJk",
+					"display_url": "bit.ly/306iQJk",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147069588552577000,
+					"id_str": "1147069588552577024",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s1tp5UcAA6pE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s1tp5UcAA6pE2.jpg",
+					"url": "https://t.co/0N0Hf00Eib",
+					"display_url": "pic.twitter.com/0N0Hf00Eib",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1147069597838786560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 30,
+							"h": 30,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147069588552577000,
+					"id_str": "1147069588552577024",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s1tp5UcAA6pE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s1tp5UcAA6pE2.jpg",
+					"url": "https://t.co/0N0Hf00Eib",
+					"display_url": "pic.twitter.com/0N0Hf00Eib",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1147069597838786560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 30,
+							"h": 30,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 30,
+							"h": 30,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1147068076447412200,
+		"in_reply_to_status_id_str": "1147068076447412230",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3536,
+			"friends_count": 5,
+			"listed_count": 92,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "-예매처 링크\n멜론 : https://t.co/VCthxuoZ5z\n롯데콘서트홀 : https://t.co/QImpLYggwN\n인터파크 : https://t.co/Mg8O5yjIlD\n옥션 : https://t.co/USfXli8tw5\n예스24 : https://t.co/UvJU0ZKuJB https://t.co/0N0Hf00Eib"
+	},
+	{
+		"created_at": "Fri Jul 05 09:18:24 +0000 2019",
+		"id": 1147068076447412200,
+		"id_str": "1147072223494254598",
+		"full_text": "7월 8일 월요일 오후 4시에\n인터파크, 예스24, 멜론, 롯데콘서트홀, 옥션 예몌 페이지에서\n2019 SUMMER HOLIC Concert 카더가든 예매가 시작됩니다!\n\n각 예매처별로 오픈되는 좌석이 다르니 참고하여 주세요. https://t.co/9p7uVvYfbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147068039013122000,
+					"id_str": "1147068039013122048",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s0TdaUwAApEJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s0TdaUwAApEJU.jpg",
+					"url": "https://t.co/9p7uVvYfbp",
+					"display_url": "pic.twitter.com/9p7uVvYfbp",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1147068076447412230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147068039013122000,
+					"id_str": "1147068039013122048",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D-s0TdaUwAApEJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-s0TdaUwAApEJU.jpg",
+					"url": "https://t.co/9p7uVvYfbp",
+					"display_url": "pic.twitter.com/9p7uVvYfbp",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1147068076447412230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3536,
+			"friends_count": 5,
+			"listed_count": 92,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월 8일 월요일 오후 4시에\n인터파크, 예스24, 멜론, 롯데콘서트홀, 옥션 예몌 페이지에서\n2019 SUMMER HOLIC Concert 카더가든 예매가 시작됩니다!\n\n각 예매처별로 오픈되는 좌석이 다르니 참고하여 주세요. https://t.co/9p7uVvYfbp"
+	},
+	{
 		"created_at": "Fri Jul 05 09:10:14 +0000 2019",
 		"id": 1147070167459029000,
 		"id_str": "1147070167459028992",
