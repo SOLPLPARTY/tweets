@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 13:18:16 +0000 2019",
+		"id": 1147480114411663400,
+		"id_str": "1147494977360080901",
+		"full_text": "[#김사월] 오늘 김사월 단독 공연 ‘현대카드 Curated 56 김사월 : 누구라도 상관없어 당신이 좋겠어’ 즐거우셨나요? ❤️💎\n\n춤출듯 말듯 신나는 편곡, 감동적인 앵콜 무대로 마무리된 오늘 공연🎤 함께해주신 모든 분들 감사합니다!\n편안한 토요일 밤 되세요 :)\n\n#누구라도상관없어당신이좋겠어 https://t.co/U84bBkJUB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "누구라도상관없어당신이좋겠어",
+					"indices": [
+						151,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147480089002557400,
+					"id_str": "1147480089002557440",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-yrD7PUwAAz9Ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-yrD7PUwAAz9Ag.jpg",
+					"url": "https://t.co/U84bBkJUB0",
+					"display_url": "pic.twitter.com/U84bBkJUB0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1147480114411663360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147480089002557400,
+					"id_str": "1147480089002557440",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-yrD7PUwAAz9Ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-yrD7PUwAAz9Ag.jpg",
+					"url": "https://t.co/U84bBkJUB0",
+					"display_url": "pic.twitter.com/U84bBkJUB0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1147480114411663360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147480089019347000,
+					"id_str": "1147480089019346945",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-yrD7TU8AEKrta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-yrD7TU8AEKrta.jpg",
+					"url": "https://t.co/U84bBkJUB0",
+					"display_url": "pic.twitter.com/U84bBkJUB0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1147480114411663360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147480088998318100,
+					"id_str": "1147480088998318080",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-yrD7OUEAAefBc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-yrD7OUEAAefBc.jpg",
+					"url": "https://t.co/U84bBkJUB0",
+					"display_url": "pic.twitter.com/U84bBkJUB0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1147480114411663360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1513,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] 오늘 김사월 단독 공연 ‘현대카드 Curated 56 김사월 : 누구라도 상관없어 당신이 좋겠어’ 즐거우셨나요? ❤️💎\n\n춤출듯 말듯 신나는 편곡, 감동적인 앵콜 무대로 마무리된 오늘 공연🎤 함께해주신 모든 분들 감사합니다!\n편안한 토요일 밤 되세요 :)\n\n#누구라도상관없어당신이좋겠어 https://t.co/U84bBkJUB0"
+	},
+	{
 		"created_at": "Sat Jul 06 12:06:13 +0000 2019",
 		"id": 1147476844725358600,
 		"id_str": "1147476844725358592",
