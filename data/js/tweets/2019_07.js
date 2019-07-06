@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 07:11:50 +0000 2019",
+		"id": 1147400138572193800,
+		"id_str": "1147402762319224833",
+		"full_text": "++) 신해경님은 롤링홀에서의 '무더위를 날려버릴 여름밤의 뮤직 페스티벌' 그 첫 번째 공연에도 함께하는데요!\n월요일에 티켓이 오픈되니 놓치지마세요✨\n\n&lt;ROLLING HOT SUMMER MUSIC PARTY #1&gt;\n🔥일시: 8/4(일) 5pm\n🔥장소: 롤링홀\n🔥출연: 신해경, 밴드 설\n🔥예매: 7/8(월) 8pm 티켓오픈 (멜론티켓) https://t.co/pX24NmZuz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147399860410146800,
+					"id_str": "1147399860410146816",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xiGAcUYAAJ43M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xiGAcUYAAJ43M.jpg",
+					"url": "https://t.co/pX24NmZuz3",
+					"display_url": "pic.twitter.com/pX24NmZuz3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400138572193792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147399860410146800,
+					"id_str": "1147399860410146816",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xiGAcUYAAJ43M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xiGAcUYAAJ43M.jpg",
+					"url": "https://t.co/pX24NmZuz3",
+					"display_url": "pic.twitter.com/pX24NmZuz3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400138572193792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1147400130049368000,
+		"in_reply_to_status_id_str": "1147400130049368064",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2667,
+			"friends_count": 2567,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "++) 신해경님은 롤링홀에서의 '무더위를 날려버릴 여름밤의 뮤직 페스티벌' 그 첫 번째 공연에도 함께하는데요!\n월요일에 티켓이 오픈되니 놓치지마세요✨\n\n&lt;ROLLING HOT SUMMER MUSIC PARTY #1&gt;\n🔥일시: 8/4(일) 5pm\n🔥장소: 롤링홀\n🔥출연: 신해경, 밴드 설\n🔥예매: 7/8(월) 8pm 티켓오픈 (멜론티켓) https://t.co/pX24NmZuz3"
+	},
+	{
+		"created_at": "Sat Jul 06 07:11:46 +0000 2019",
+		"id": 1147400130049368000,
+		"id_str": "1147402744942268416",
+		"full_text": "[신규 입고]\n📎 #신해경 님의 부채\n\n지난 해 입고되었던 신해경님 EP [나의 가역반응] 커버 이미지의 부채가 재입고 되었습니다🙌\n마지막 재고라고 하니 서둘러주세요! 🙏\n\n+) 더운 날씨에 직접 예쁜 부채를 가져다주신 팬 분께 감사드립니다🍧 https://t.co/iEKyXNlHAE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신해경",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147399748325785600,
+					"id_str": "1147399748325785600",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xh_e5UwAAvBOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xh_e5UwAAvBOx.jpg",
+					"url": "https://t.co/iEKyXNlHAE",
+					"display_url": "pic.twitter.com/iEKyXNlHAE",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400130049368064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147399748325785600,
+					"id_str": "1147399748325785600",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xh_e5UwAAvBOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xh_e5UwAAvBOx.jpg",
+					"url": "https://t.co/iEKyXNlHAE",
+					"display_url": "pic.twitter.com/iEKyXNlHAE",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400130049368064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147399771843223600,
+					"id_str": "1147399771843223554",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xiA2gUYAI0Myb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xiA2gUYAI0Myb.jpg",
+					"url": "https://t.co/iEKyXNlHAE",
+					"display_url": "pic.twitter.com/iEKyXNlHAE",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400130049368064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147399794039484400,
+					"id_str": "1147399794039484416",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xiCJMUcAAhlj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xiCJMUcAAhlj0.jpg",
+					"url": "https://t.co/iEKyXNlHAE",
+					"display_url": "pic.twitter.com/iEKyXNlHAE",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400130049368064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147399813157154800,
+					"id_str": "1147399813157154816",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D-xiDQaU8AAuHpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-xiDQaU8AAuHpa.jpg",
+					"url": "https://t.co/iEKyXNlHAE",
+					"display_url": "pic.twitter.com/iEKyXNlHAE",
+					"expanded_url": "https://twitter.com/xindieticket/status/1147400130049368064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2667,
+			"friends_count": 2567,
+			"listed_count": 18,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n📎 #신해경 님의 부채\n\n지난 해 입고되었던 신해경님 EP [나의 가역반응] 커버 이미지의 부채가 재입고 되었습니다🙌\n마지막 재고라고 하니 서둘러주세요! 🙏\n\n+) 더운 날씨에 직접 예쁜 부채를 가져다주신 팬 분께 감사드립니다🍧 https://t.co/iEKyXNlHAE"
+	},
+	{
 		"created_at": "Sat Jul 06 06:01:57 +0000 2019",
 		"id": 1147385174369415200,
 		"id_str": "1147385174369415169",
