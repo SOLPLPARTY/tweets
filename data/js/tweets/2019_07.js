@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 09:18:34 +0000 2019",
+		"id": 1147795057681977300,
+		"id_str": "1147797040262520832",
+		"full_text": "[WH3N – ‘무엇이 그토록 그대를’ Live Clip]\nㅤ\nWH3N ‘무엇이 그토록 그대를’ Live Clip 공개📻 혼자 남겨진 아픔이 절절하게 느껴지는 ‘무엇이 그토록 그대를’ Live Clip를 감상해보세요.\nㅤ\n풀버젼 https://t.co/qtjm0KEsxH\nㅤ\n#WH3N #웬 #무엇이그토록그대를 #쇼파르뮤직 #shofarmusic #liveclip https://t.co/V2XmECmyef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						160,
+						162
+					]
+				},
+				{
+					"text": "무엇이그토록그대를",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "shofarmusic",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"text": "liveclip",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qtjm0KEsxH",
+					"expanded_url": "https://youtu.be/kStOKMF3wjQ",
+					"display_url": "youtu.be/kStOKMF3wjQ",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147795011682984000,
+					"id_str": "1147795011682983936",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147795011682983936/pu/img/lM724JxLLiq4-yNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147795011682983936/pu/img/lM724JxLLiq4-yNW.jpg",
+					"url": "https://t.co/V2XmECmyef",
+					"display_url": "pic.twitter.com/V2XmECmyef",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1147795057681977344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147795011682984000,
+					"id_str": "1147795011682983936",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147795011682983936/pu/img/lM724JxLLiq4-yNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147795011682983936/pu/img/lM724JxLLiq4-yNW.jpg",
+					"url": "https://t.co/V2XmECmyef",
+					"display_url": "pic.twitter.com/V2XmECmyef",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1147795057681977344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							173,
+							240
+						],
+						"duration_millis": 60268,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1147795011682983936/pu/vid/346x480/2tCV6-9m2OwtqA9p.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1147795011682983936/pu/pl/P9JKmBIMw1H6EbGv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1147795011682983936/pu/vid/320x442/_go2iOZBvEaIVHif.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7411,
+			"friends_count": 10,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[WH3N – ‘무엇이 그토록 그대를’ Live Clip]\nㅤ\nWH3N ‘무엇이 그토록 그대를’ Live Clip 공개📻 혼자 남겨진 아픔이 절절하게 느껴지는 ‘무엇이 그토록 그대를’ Live Clip를 감상해보세요.\nㅤ\n풀버젼 https://t.co/qtjm0KEsxH\nㅤ\n#WH3N #웬 #무엇이그토록그대를 #쇼파르뮤직 #shofarmusic #liveclip https://t.co/V2XmECmyef"
+	},
+	{
+		"created_at": "Sun Jul 07 09:18:30 +0000 2019",
+		"id": 1147794627405045800,
+		"id_str": "1147797027235008512",
+		"full_text": "['무엇이 그토록 그대를' 바로 듣기]\n멜론 https://t.co/8CXWsNEySB\n지니 https://t.co/RnomsSuw5x\n플로 https://t.co/bIUMVlD010\n엠넷 https://t.co/WOQUuGxDsq\n벅스 https://t.co/PHIKL1UHlt\n올레 https://t.co/okM8cwlRxT\n네이버뮤직 https://t.co/qKLXIAA3ox\n소리바다 https://t.co/KtqybHmJ5r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8CXWsNEySB",
+					"expanded_url": "http://bitly.kr/6KKzw7",
+					"display_url": "bitly.kr/6KKzw7",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/RnomsSuw5x",
+					"expanded_url": "http://bitly.kr/Ur52U2",
+					"display_url": "bitly.kr/Ur52U2",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/bIUMVlD010",
+					"expanded_url": "http://flomuz.io/s/cao1",
+					"display_url": "flomuz.io/s/cao1",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/WOQUuGxDsq",
+					"expanded_url": "http://bitly.kr/cBg73z",
+					"display_url": "bitly.kr/cBg73z",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/PHIKL1UHlt",
+					"expanded_url": "http://bitly.kr/DNVS3E",
+					"display_url": "bitly.kr/DNVS3E",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/okM8cwlRxT",
+					"expanded_url": "http://bitly.kr/W4kUdi",
+					"display_url": "bitly.kr/W4kUdi",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/qKLXIAA3ox",
+					"expanded_url": "http://bitly.kr/llelRE",
+					"display_url": "bitly.kr/llelRE",
+					"indices": [
+						190,
+						213
+					]
+				},
+				{
+					"url": "https://t.co/KtqybHmJ5r",
+					"expanded_url": "http://bitly.kr/I18Not",
+					"display_url": "bitly.kr/I18Not",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1147794486388375600,
+		"in_reply_to_status_id_str": "1147794486388375552",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7411,
+			"friends_count": 10,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['무엇이 그토록 그대를' 바로 듣기]\n멜론 https://t.co/8CXWsNEySB\n지니 https://t.co/RnomsSuw5x\n플로 https://t.co/bIUMVlD010\n엠넷 https://t.co/WOQUuGxDsq\n벅스 https://t.co/PHIKL1UHlt\n올레 https://t.co/okM8cwlRxT\n네이버뮤직 https://t.co/qKLXIAA3ox\n소리바다 https://t.co/KtqybHmJ5r"
+	},
+	{
+		"created_at": "Sun Jul 07 09:18:24 +0000 2019",
+		"id": 1147794486388375600,
+		"id_str": "1147797001523924993",
+		"full_text": "[WH3N – ‘무엇이 그토록 그대를’ 발매]\nㅤ\nWH3N의 새 싱글 ‘무엇이 그토록 그대를’이 발매되었습니다. 헤어진 연인에게 전하고 싶었던 마지막 노래, ‘무엇이 그토록 그대를’을 음원사이트를 통해 감상해보세요. \nㅤ\n#WH3N #웬 #무엇이그토록그대를 #190707_6pm #쇼파르뮤직 #shofarmusic https://t.co/WOzZBzud2a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						130,
+						132
+					]
+				},
+				{
+					"text": "무엇이그토록그대를",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "190707_6pm",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "shofarmusic",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147794478201106400,
+					"id_str": "1147794478201106432",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D-3I_yRU8AA9RTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-3I_yRU8AA9RTu.jpg",
+					"url": "https://t.co/WOzZBzud2a",
+					"display_url": "pic.twitter.com/WOzZBzud2a",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1147794486388375552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 347,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147794478201106400,
+					"id_str": "1147794478201106432",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D-3I_yRU8AA9RTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-3I_yRU8AA9RTu.jpg",
+					"url": "https://t.co/WOzZBzud2a",
+					"display_url": "pic.twitter.com/WOzZBzud2a",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1147794486388375552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 347,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 1619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7411,
+			"friends_count": 10,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[WH3N – ‘무엇이 그토록 그대를’ 발매]\nㅤ\nWH3N의 새 싱글 ‘무엇이 그토록 그대를’이 발매되었습니다. 헤어진 연인에게 전하고 싶었던 마지막 노래, ‘무엇이 그토록 그대를’을 음원사이트를 통해 감상해보세요. \nㅤ\n#WH3N #웬 #무엇이그토록그대를 #190707_6pm #쇼파르뮤직 #shofarmusic https://t.co/WOzZBzud2a"
+	},
+	{
 		"created_at": "Sun Jul 07 09:08:21 +0000 2019",
 		"id": 1147794469783318500,
 		"id_str": "1147794469783318528",
