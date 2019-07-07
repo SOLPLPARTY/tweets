@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 08:11:42 +0000 2019",
+		"id": 1147765836045672400,
+		"id_str": "1147780215726321664",
+		"full_text": "라이브의 끝판왕들과 함께 펑크 음악을 즐겨보세요 🎶\n\n&lt;WHAT THE FUNK!&gt;\n♦️일시 : 7/13 (토) 6PM\n♦️장소 : 프리즘플러스\n♦️라인업 : 사랑과 평화, 얼스, 와러써커스, 업댓브라운, 상명대실용음악과밴드 \n♦️티켓가 : 전석 40,000원\n👉티켓예매 : https://t.co/100NBXODSA 👈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/100NBXODSA",
+					"expanded_url": "http://reurl.kr/2C33D656AQ",
+					"display_url": "reurl.kr/2C33D656AQ",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1147765832451153900,
+		"in_reply_to_status_id_str": "1147765832451153921",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2667,
+			"friends_count": 2566,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라이브의 끝판왕들과 함께 펑크 음악을 즐겨보세요 🎶\n\n&lt;WHAT THE FUNK!&gt;\n♦️일시 : 7/13 (토) 6PM\n♦️장소 : 프리즘플러스\n♦️라인업 : 사랑과 평화, 얼스, 와러써커스, 업댓브라운, 상명대실용음악과밴드 \n♦️티켓가 : 전석 40,000원\n👉티켓예매 : https://t.co/100NBXODSA 👈"
+	},
+	{
 		"created_at": "Sun Jul 07 06:18:26 +0000 2019",
 		"id": 1147745731744112600,
 		"id_str": "1147751708195545089",
