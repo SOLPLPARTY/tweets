@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 04:11:51 +0000 2019",
+		"id": 1147715635784273900,
+		"id_str": "1147719855833063426",
+		"full_text": "[月刊 헬로루키] 2019, 7월 소식 🗓\n\n따끈따끈한 헬로루키 소식! 💌📮\n\n아이스아메리카노도 식히지 못할\n단 하나의 감성 라이브 영상\n상반기 [네모공감] 최.초.공.개. 📺🔊\n\n그 외 루키들의 공연 소식을\n월간 헬로루키에서 가장 먼저 만나보세요~ 💙\n\nhttps://t.co/CDmFix0q4o https://t.co/gFBLPFu8vJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CDmFix0q4o",
+					"expanded_url": "http://bitly.kr/ReUBBS",
+					"display_url": "bitly.kr/ReUBBS",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147714993137180700,
+					"id_str": "1147714993137180673",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2AtJVU4AEzE_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2AtJVU4AEzE_T.jpg",
+					"url": "https://t.co/gFBLPFu8vJ",
+					"display_url": "pic.twitter.com/gFBLPFu8vJ",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1147715635784273920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147714993137180700,
+					"id_str": "1147714993137180673",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D-2AtJVU4AEzE_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-2AtJVU4AEzE_T.jpg",
+					"url": "https://t.co/gFBLPFu8vJ",
+					"display_url": "pic.twitter.com/gFBLPFu8vJ",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1147715635784273920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5220,
+			"friends_count": 4731,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[月刊 헬로루키] 2019, 7월 소식 🗓\n\n따끈따끈한 헬로루키 소식! 💌📮\n\n아이스아메리카노도 식히지 못할\n단 하나의 감성 라이브 영상\n상반기 [네모공감] 최.초.공.개. 📺🔊\n\n그 외 루키들의 공연 소식을\n월간 헬로루키에서 가장 먼저 만나보세요~ 💙\n\nhttps://t.co/CDmFix0q4o https://t.co/gFBLPFu8vJ"
+	},
+	{
+		"created_at": "Sun Jul 07 04:11:42 +0000 2019",
+		"id": 1147705533744345100,
+		"id_str": "1147719817492860928",
+		"full_text": "[7/7 공연 안내]\n-\n&lt;GeeGu 데뷔 첫 단독 콘서트&gt;\n-\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 지구(GeeGu)\n-\n#지구 #GeeGu #단독콘서트 #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/3KCoKrg9LB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지구",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "GeeGu",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147705523292131300,
+					"id_str": "1147705523292131328",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D-14F7aU0AAlGc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-14F7aU0AAlGc2.jpg",
+					"url": "https://t.co/3KCoKrg9LB",
+					"display_url": "pic.twitter.com/3KCoKrg9LB",
+					"expanded_url": "https://twitter.com/rollinghall/status/1147705533744345090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147705523292131300,
+					"id_str": "1147705523292131328",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D-14F7aU0AAlGc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-14F7aU0AAlGc2.jpg",
+					"url": "https://t.co/3KCoKrg9LB",
+					"display_url": "pic.twitter.com/3KCoKrg9LB",
+					"expanded_url": "https://twitter.com/rollinghall/status/1147705533744345090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 793,
+			"listed_count": 39,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[7/7 공연 안내]\n-\n&lt;GeeGu 데뷔 첫 단독 콘서트&gt;\n-\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 지구(GeeGu)\n-\n#지구 #GeeGu #단독콘서트 #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/3KCoKrg9LB"
+	},
+	{
 		"created_at": "Sun Jul 07 03:04:22 +0000 2019",
 		"id": 1147702870910877700,
 		"id_str": "1147702870910877696",
