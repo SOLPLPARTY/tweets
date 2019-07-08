@@ -1,6 +1,710 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 10:11:42 +0000 2019",
+		"id": 1148162396390740000,
+		"id_str": "1148172802480058369",
+		"full_text": "뜨거운 7월을 시원하게 보낼 수 있는 소식 (!!!)\n제51회 #라이브클럽데이 7월의 1차 라인업입니다.\n트레봉봉 ABTB\n✖️반스 뮤지션 원티드 스테이지 웨터 뮤지션원티드 TOP5\n✖️포크라노스 스테이지 데이먼스이어 은종 한희정\n일반 예매 : https://t.co/FkVQjOxYOC\n청소년 예매 : https://t.co/8PwBR7h8Xt https://t.co/5EEp6iMw3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FkVQjOxYOC",
+					"expanded_url": "https://bit.ly/2XwM1Dy",
+					"display_url": "bit.ly/2XwM1Dy",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/8PwBR7h8Xt",
+					"expanded_url": "https://bit.ly/2L9Sm6i",
+					"display_url": "bit.ly/2L9Sm6i",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148161807153913900,
+					"id_str": "1148161807153913856",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8XFJQUYAAVUUS.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-8XFJQUYAAVUUS.png",
+					"url": "https://t.co/5EEp6iMw3l",
+					"display_url": "pic.twitter.com/5EEp6iMw3l",
+					"expanded_url": "https://twitter.com/liveclubday/status/1148162396390739969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148161807153913900,
+					"id_str": "1148161807153913856",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8XFJQUYAAVUUS.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-8XFJQUYAAVUUS.png",
+					"url": "https://t.co/5EEp6iMw3l",
+					"display_url": "pic.twitter.com/5EEp6iMw3l",
+					"expanded_url": "https://twitter.com/liveclubday/status/1148162396390739969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/R5ENy6Gs2T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R5ENy6Gs2T",
+							"expanded_url": "https://bit.ly/2UrLkLc",
+							"display_url": "bit.ly/2UrLkLc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4072,
+			"friends_count": 683,
+			"listed_count": 37,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1562576677",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뜨거운 7월을 시원하게 보낼 수 있는 소식 (!!!)\n제51회 #라이브클럽데이 7월의 1차 라인업입니다.\n트레봉봉 ABTB\n✖️반스 뮤지션 원티드 스테이지 웨터 뮤지션원티드 TOP5\n✖️포크라노스 스테이지 데이먼스이어 은종 한희정\n일반 예매 : https://t.co/FkVQjOxYOC\n청소년 예매 : https://t.co/8PwBR7h8Xt https://t.co/5EEp6iMw3l"
+	},
+	{
+		"created_at": "Mon Jul 08 09:32:35 +0000 2019",
+		"id": 1148162956447899600,
+		"id_str": "1148162956447899648",
+		"full_text": "【 #PlayDB 】 #내한공연\n세카이노 오와리 내한공연 (2019.11.02 ~ 2019.11.02) at 올림픽공원 올림픽홀\n▶ https://t.co/ALrzmIPhMT\n　\n#플레이DB #플레이디비\n#내한 #내한콘서트\n#공연일정 #티켓공지 https://t.co/VGJXirEBUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "내한콘서트",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ALrzmIPhMT",
+					"expanded_url": "http://bit.ly/2S1MmwM",
+					"display_url": "bit.ly/2S1MmwM",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148162955592314900,
+					"id_str": "1148162955592314881",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8YH_hXsAEkzFU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8YH_hXsAEkzFU.jpg",
+					"url": "https://t.co/VGJXirEBUU",
+					"display_url": "pic.twitter.com/VGJXirEBUU",
+					"expanded_url": "https://twitter.com/solplparty/status/1148162956447899648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148162955592314900,
+					"id_str": "1148162955592314881",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8YH_hXsAEkzFU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8YH_hXsAEkzFU.jpg",
+					"url": "https://t.co/VGJXirEBUU",
+					"display_url": "pic.twitter.com/VGJXirEBUU",
+					"expanded_url": "https://twitter.com/solplparty/status/1148162956447899648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #내한공연\n세카이노 오와리 내한공연 (2019.11.02 ~ 2019.11.02) at 올림픽공원 올림픽홀\n▶ https://t.co/ALrzmIPhMT\n　\n#플레이DB #플레이디비\n#내한 #내한콘서트\n#공연일정 #티켓공지 https://t.co/VGJXirEBUU"
+	},
+	{
+		"created_at": "Mon Jul 08 09:19:54 +0000 2019",
+		"id": 1148159341293264900,
+		"id_str": "1148159766490943488",
+		"full_text": "[그린플러그드 경주 2019 - 아티스트 소개]\n⠀\n몽니, 새소년, 웨터가 '그린플러그드 경주 2019'와 함께합니다!\n이들의 화려한 공연을 함께 즐기고 싶다면? \n👉 '그린플러그드 경주 2019'에서 만나요!\n⠀⠀⠀\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX https://t.co/BoQ0iReKGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lS3DiCijKf",
+					"expanded_url": "http://bitly.kr/qx6IEX",
+					"display_url": "bitly.kr/qx6IEX",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/FCE6D9iioX",
+					"expanded_url": "http://bitly.kr/Ai64fO",
+					"display_url": "bitly.kr/Ai64fO",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148158325554466800,
+					"id_str": "1148158325554466816",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8T6fSU0AA6i0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8T6fSU0AA6i0E.jpg",
+					"url": "https://t.co/BoQ0iReKGo",
+					"display_url": "pic.twitter.com/BoQ0iReKGo",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148159341293264899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148158325554466800,
+					"id_str": "1148158325554466816",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8T6fSU0AA6i0E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8T6fSU0AA6i0E.jpg",
+					"url": "https://t.co/BoQ0iReKGo",
+					"display_url": "pic.twitter.com/BoQ0iReKGo",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148159341293264899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148158325554462700,
+					"id_str": "1148158325554462720",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8T6fSUwAAgtgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8T6fSUwAAgtgq.jpg",
+					"url": "https://t.co/BoQ0iReKGo",
+					"display_url": "pic.twitter.com/BoQ0iReKGo",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148159341293264899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148158325567000600,
+					"id_str": "1148158325567000576",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8T6fVUEAA_vnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8T6fVUEAA_vnH.jpg",
+					"url": "https://t.co/BoQ0iReKGo",
+					"display_url": "pic.twitter.com/BoQ0iReKGo",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148159341293264899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12799,
+			"friends_count": 165,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 경주 2019 - 아티스트 소개]\n⠀\n몽니, 새소년, 웨터가 '그린플러그드 경주 2019'와 함께합니다!\n이들의 화려한 공연을 함께 즐기고 싶다면? \n👉 '그린플러그드 경주 2019'에서 만나요!\n⠀⠀⠀\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX https://t.co/BoQ0iReKGo"
+	},
+	{
 		"created_at": "Mon Jul 08 09:05:26 +0000 2019",
 		"id": 1148156125252116500,
 		"id_str": "1148156125252116481",
