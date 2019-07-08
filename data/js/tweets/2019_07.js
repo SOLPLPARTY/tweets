@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 13:11:43 +0000 2019",
+		"id": 1148205075145220100,
+		"id_str": "1148218102544556032",
+		"full_text": "#올댓뮤직 #공개녹화\n190718 19:00 @춘천KBS공개홀\n\n7월 중순\n더위를 훅! 날려줄 세번째 뮤지션\n#육중완밴드 입니다🎙\n\n지금 바로\n홈페이지에서 신청 가능합니다!\n(https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#서사무엘 #samuelseo\n#플라네타리움레코드 #PLT\n#6band #육중완 #강준우 https://t.co/oqJJFN3OdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "육중완밴드",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "서사무엘",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "samuelseo",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "플라네타리움레코드",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "PLT",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "6band",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "강준우",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3ks2tr54w",
+					"expanded_url": "http://me2.do/5HFjlxDr",
+					"display_url": "me2.do/5HFjlxDr",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148205058921656300,
+					"id_str": "1148205058921656321",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8-aupU8AEkak7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8-aupU8AEkak7.jpg",
+					"url": "https://t.co/oqJJFN3OdA",
+					"display_url": "pic.twitter.com/oqJJFN3OdA",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1148205075145220096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148205058921656300,
+					"id_str": "1148205058921656321",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D-8-aupU8AEkak7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-8-aupU8AEkak7.jpg",
+					"url": "https://t.co/oqJJFN3OdA",
+					"display_url": "pic.twitter.com/oqJJFN3OdA",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1148205075145220096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3739,
+			"friends_count": 962,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190718 19:00 @춘천KBS공개홀\n\n7월 중순\n더위를 훅! 날려줄 세번째 뮤지션\n#육중완밴드 입니다🎙\n\n지금 바로\n홈페이지에서 신청 가능합니다!\n(https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#서사무엘 #samuelseo\n#플라네타리움레코드 #PLT\n#6band #육중완 #강준우 https://t.co/oqJJFN3OdA"
+	},
+	{
 		"created_at": "Mon Jul 08 11:20:48 +0000 2019",
 		"id": 1148190191464656900,
 		"id_str": "1148190191464656896",
