@@ -1,6 +1,1458 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 08:11:42 +0000 2019",
+		"id": 1148141707843625000,
+		"id_str": "1148142603583574017",
+		"full_text": "[made by 난장]\n광주FINA세계수영선수권대회 전야제\n평화의 물결 속으로\n7/11(목) 저녁 7:10\n#광주518 민주광장 특설무대 \n홍보대사 #성훈\n아나운서 #김귀빈 #정다희 의 \n진행으로\n#위너 #WINNER\n#이하이\n#러블리즈\n#매드클라운\n#w24\n#달수빈\n#코요태 \n#로맨틱펀치 \n#김연자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광주518",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "성훈",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "김귀빈",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "정다희",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "WINNER",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "이하이",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "매드클라운",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "w24",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "달수빈",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "코요태",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "김연자",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4447,
+			"friends_count": 3659,
+			"listed_count": 113,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[made by 난장]\n광주FINA세계수영선수권대회 전야제\n평화의 물결 속으로\n7/11(목) 저녁 7:10\n#광주518 민주광장 특설무대 \n홍보대사 #성훈\n아나운서 #김귀빈 #정다희 의 \n진행으로\n#위너 #WINNER\n#이하이\n#러블리즈\n#매드클라운\n#w24\n#달수빈\n#코요태 \n#로맨틱펀치 \n#김연자"
+	},
+	{
+		"created_at": "Mon Jul 08 07:36:05 +0000 2019",
+		"id": 1148133640397828100,
+		"id_str": "1148133640397828096",
+		"full_text": "【 #인터파크티켓 】\n[아동/가족] NEW 신비아파트 뮤지컬 시즌3 - 여수 티켓오픈 안내 : 19.07.11(목) 11:00\n▶ https://t.co/QearF1nx7r\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QearF1nx7r",
+					"expanded_url": "http://bit.ly/2YDgmS9",
+					"display_url": "bit.ly/2YDgmS9",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[아동/가족] NEW 신비아파트 뮤지컬 시즌3 - 여수 티켓오픈 안내 : 19.07.11(목) 11:00\n▶ https://t.co/QearF1nx7r\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Mon Jul 08 07:36:04 +0000 2019",
+		"id": 1148133635117211600,
+		"id_str": "1148133635117211648",
+		"full_text": "【 #인터파크티켓 】\n[아동/가족] 가족뮤지컬〈우리 아빠가 최고야〉- 포항 티켓오픈 안내 : 19.07.12(금) 11:00\n▶ https://t.co/3wfkKjo87a\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3wfkKjo87a",
+					"expanded_url": "http://bit.ly/2G0tOrY",
+					"display_url": "bit.ly/2G0tOrY",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #인터파크티켓 】\n[아동/가족] 가족뮤지컬〈우리 아빠가 최고야〉- 포항 티켓오픈 안내 : 19.07.12(금) 11:00\n▶ https://t.co/3wfkKjo87a\n　\n#인터파크 #티켓오픈공지 #티켓공지\n#솔플파티 #solplparty"
+	},
+	{
+		"created_at": "Mon Jul 08 07:18:26 +0000 2019",
+		"id": 1148121002355773400,
+		"id_str": "1148129197979840512",
+		"full_text": "• 7/12(금) 오후 9시\n[#최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt; 방송\n@ KBS COOL FM\n\n• 7/12(금) 토요일로 넘어가는 새벽 1시\n[#김사월] MBC FM4U &lt;음악의 숲 정승환입니다&gt; 방송\n@ MBC FM4U https://t.co/tyZoodsMBJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148120998266298400,
+					"id_str": "1148120998266298368",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7x9wTUYAApARf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7x9wTUYAApARf.jpg",
+					"url": "https://t.co/tyZoodsMBJ",
+					"display_url": "pic.twitter.com/tyZoodsMBJ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148121002355773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148120998266298400,
+					"id_str": "1148120998266298368",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7x9wTUYAApARf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7x9wTUYAApARf.jpg",
+					"url": "https://t.co/tyZoodsMBJ",
+					"display_url": "pic.twitter.com/tyZoodsMBJ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148121002355773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148120998257893400,
+					"id_str": "1148120998257893376",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7x9wRUIAAMmXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7x9wRUIAAMmXJ.jpg",
+					"url": "https://t.co/tyZoodsMBJ",
+					"display_url": "pic.twitter.com/tyZoodsMBJ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148121002355773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148120826501197800,
+		"in_reply_to_status_id_str": "1148120826501197825",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1515,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 7/12(금) 오후 9시\n[#최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt; 방송\n@ KBS COOL FM\n\n• 7/12(금) 토요일로 넘어가는 새벽 1시\n[#김사월] MBC FM4U &lt;음악의 숲 정승환입니다&gt; 방송\n@ MBC FM4U https://t.co/tyZoodsMBJ"
+	},
+	{
+		"created_at": "Mon Jul 08 07:18:22 +0000 2019",
+		"id": 1148120826501197800,
+		"id_str": "1148129178421727232",
+		"full_text": "• 7/12(금) 오후 6시 30분\n[#아마도이자람밴드] &lt;스테핑 스톤 페스티벌&gt; 공연\n@제주 함덕 해수욕장\n\n• 7/12(금) 오후 8시 40분\n[#홍이삭] JTBC &lt;슈퍼밴드&gt; 생방송 \n@채널 JTBC https://t.co/kOjVD4XD8U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "홍이삭",
+					"indices": [
+						89,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148120821870710800,
+					"id_str": "1148120821870710787",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xzfLVUAMgFUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xzfLVUAMgFUQ.jpg",
+					"url": "https://t.co/kOjVD4XD8U",
+					"display_url": "pic.twitter.com/kOjVD4XD8U",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120826501197825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148120821870710800,
+					"id_str": "1148120821870710787",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xzfLVUAMgFUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xzfLVUAMgFUQ.jpg",
+					"url": "https://t.co/kOjVD4XD8U",
+					"display_url": "pic.twitter.com/kOjVD4XD8U",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120826501197825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148120821870673900,
+					"id_str": "1148120821870673922",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xzfLUwAIkfRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xzfLUwAIkfRl.jpg",
+					"url": "https://t.co/kOjVD4XD8U",
+					"display_url": "pic.twitter.com/kOjVD4XD8U",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120826501197825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148120711539519500,
+		"in_reply_to_status_id_str": "1148120711539519488",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1515,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 7/12(금) 오후 6시 30분\n[#아마도이자람밴드] &lt;스테핑 스톤 페스티벌&gt; 공연\n@제주 함덕 해수욕장\n\n• 7/12(금) 오후 8시 40분\n[#홍이삭] JTBC &lt;슈퍼밴드&gt; 생방송 \n@채널 JTBC https://t.co/kOjVD4XD8U"
+	},
+	{
+		"created_at": "Mon Jul 08 07:18:16 +0000 2019",
+		"id": 1148120711539519500,
+		"id_str": "1148129156284260352",
+		"full_text": "[#유어썸머] 7월 2주 스케줄 🗓\n\n• 7/10(수) 오후 12시 30분\n[#랄라스윗] &lt;랄라스윗의 이중생활&gt; 131화 @벅스라디오\n\n• 7/10(수) 오후 7시\n[#오지은] &lt;생활의 발견 인터넷&gt; 공연 \n@대한민국역사박물관 3층 기획전시실 앞 \n\n• 7/12(금) 오후 12시\n[#랄라스윗] 싱글 '여름에게' 발매 https://t.co/yrow5xvHoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148120706942566400,
+					"id_str": "1148120706942566400",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xszCVAAAyGxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xszCVAAAyGxP.jpg",
+					"url": "https://t.co/yrow5xvHoC",
+					"display_url": "pic.twitter.com/yrow5xvHoC",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120711539519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148120706942566400,
+					"id_str": "1148120706942566400",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xszCVAAAyGxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xszCVAAAyGxP.jpg",
+					"url": "https://t.co/yrow5xvHoC",
+					"display_url": "pic.twitter.com/yrow5xvHoC",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120711539519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148120706925772800,
+					"id_str": "1148120706925772800",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xsy-UwAAVxn8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xsy-UwAAVxn8.jpg",
+					"url": "https://t.co/yrow5xvHoC",
+					"display_url": "pic.twitter.com/yrow5xvHoC",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120711539519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148120706925781000,
+					"id_str": "1148120706925780992",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xsy-U4AAiTjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xsy-U4AAiTjO.jpg",
+					"url": "https://t.co/yrow5xvHoC",
+					"display_url": "pic.twitter.com/yrow5xvHoC",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120711539519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148120706929971200,
+					"id_str": "1148120706929971200",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D-7xsy_U0AAlg7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-7xsy_U0AAlg7_.jpg",
+					"url": "https://t.co/yrow5xvHoC",
+					"display_url": "pic.twitter.com/yrow5xvHoC",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1148120711539519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 501,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1515,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#유어썸머] 7월 2주 스케줄 🗓\n\n• 7/10(수) 오후 12시 30분\n[#랄라스윗] &lt;랄라스윗의 이중생활&gt; 131화 @벅스라디오\n\n• 7/10(수) 오후 7시\n[#오지은] &lt;생활의 발견 인터넷&gt; 공연 \n@대한민국역사박물관 3층 기획전시실 앞 \n\n• 7/12(금) 오후 12시\n[#랄라스윗] 싱글 '여름에게' 발매 https://t.co/yrow5xvHoC"
+	},
+	{
+		"created_at": "Mon Jul 08 07:17:46 +0000 2019",
+		"id": 1148129028479627300,
+		"id_str": "1148129028479627264",
+		"full_text": "【 #멜론 】 #멜론매거진\n아데우스, 싱요르 보사노바: Joao Gilberto (1931~2019) - (1회)\nhttps://t.co/Ym1d6sCTai https://t.co/OwzBt9uSeZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ym1d6sCTai",
+					"expanded_url": "http://bit.ly/30hHYwL",
+					"display_url": "bit.ly/30hHYwL",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148129027540099100,
+					"id_str": "1148129027540099073",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D-75RHrXoAErqmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-75RHrXoAErqmn.jpg",
+					"url": "https://t.co/OwzBt9uSeZ",
+					"display_url": "pic.twitter.com/OwzBt9uSeZ",
+					"expanded_url": "https://twitter.com/solplparty/status/1148129028479627264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148129027540099100,
+					"id_str": "1148129027540099073",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D-75RHrXoAErqmn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-75RHrXoAErqmn.jpg",
+					"url": "https://t.co/OwzBt9uSeZ",
+					"display_url": "pic.twitter.com/OwzBt9uSeZ",
+					"expanded_url": "https://twitter.com/solplparty/status/1148129028479627264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #멜론 】 #멜론매거진\n아데우스, 싱요르 보사노바: Joao Gilberto (1931~2019) - (1회)\nhttps://t.co/Ym1d6sCTai https://t.co/OwzBt9uSeZ"
+	},
+	{
 		"created_at": "Mon Jul 08 07:17:29 +0000 2019",
 		"id": 1148128960137584600,
 		"id_str": "1148128960137584645",
