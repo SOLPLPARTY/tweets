@@ -1,6 +1,889 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 10:11:50 +0000 2019",
+		"id": 1148524161679020000,
+		"id_str": "1148535220729196544",
+		"full_text": "[네모공감]\n\n'모노디즘 특보' \n너무 뜨거워서 데일 수 있으니 🔥🔥\n손풍기, 아이스 팩 등 각종 \n냉방 용품을 준비해주세요. \n\n사운드가 폭발하는 게 뭔지 보여주는\n모노디즘의 '반전' 라이브 영상을 감상해보세요! \n(※끝까지 관람 요망)👊🥋\n\n모노디즘 - ‘Gloom’ ♪\n\nhttps://t.co/9kpz3MhSBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9kpz3MhSBI",
+					"expanded_url": "https://youtu.be/wczagM22e9Y",
+					"display_url": "youtu.be/wczagM22e9Y",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5221,
+			"friends_count": 4731,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[네모공감]\n\n'모노디즘 특보' \n너무 뜨거워서 데일 수 있으니 🔥🔥\n손풍기, 아이스 팩 등 각종 \n냉방 용품을 준비해주세요. \n\n사운드가 폭발하는 게 뭔지 보여주는\n모노디즘의 '반전' 라이브 영상을 감상해보세요! \n(※끝까지 관람 요망)👊🥋\n\n모노디즘 - ‘Gloom’ ♪\n\nhttps://t.co/9kpz3MhSBI"
+	},
+	{
+		"created_at": "Tue Jul 09 10:11:42 +0000 2019",
+		"id": 1148520929363763200,
+		"id_str": "1148535190731579392",
+		"full_text": "#올댓뮤직 #공개녹화\n190718 19:00 춘천KBS공개홀\n\n7월의 더위를 훅! 날려줄 마지막 뮤지션\n#이바다 님 입니다🎙\n\n지금 바로\n홈페이지에서 신청 가능합니다!\n(https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#서사무엘 #samuelseo\n#플라네타리움레코드 #PLT\n#육중완밴드 #6band\n#LEEBADA https://t.co/LkqKj0pf9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "이바다",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "서사무엘",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "samuelseo",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "플라네타리움레코드",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "PLT",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "육중완밴드",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "6band",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "LEEBADA",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3ks2tr54w",
+					"expanded_url": "http://me2.do/5HFjlxDr",
+					"display_url": "me2.do/5HFjlxDr",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148520918085357600,
+					"id_str": "1148520918085357569",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BdsJuVUAEdC3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BdsJuVUAEdC3j.jpg",
+					"url": "https://t.co/LkqKj0pf9t",
+					"display_url": "pic.twitter.com/LkqKj0pf9t",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1148520929363763201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148520918085357600,
+					"id_str": "1148520918085357569",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BdsJuVUAEdC3j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BdsJuVUAEdC3j.jpg",
+					"url": "https://t.co/LkqKj0pf9t",
+					"display_url": "pic.twitter.com/LkqKj0pf9t",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1148520929363763201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3738,
+			"friends_count": 962,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190718 19:00 춘천KBS공개홀\n\n7월의 더위를 훅! 날려줄 마지막 뮤지션\n#이바다 님 입니다🎙\n\n지금 바로\n홈페이지에서 신청 가능합니다!\n(https://t.co/t3ks2tr54w)\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#서사무엘 #samuelseo\n#플라네타리움레코드 #PLT\n#육중완밴드 #6band\n#LEEBADA https://t.co/LkqKj0pf9t"
+	},
+	{
+		"created_at": "Tue Jul 09 10:04:25 +0000 2019",
+		"id": 1148533354549121000,
+		"id_str": "1148533354549121025",
+		"full_text": "#딩고뮤직 #dingo_music\n💌(여자)아이들의 비글파티에 당신을 초대합니다🎉 슈화 메인랩퍼로 포지션 변경??? 수진 다리 길이 3미터 설???? | 딩고뮤직 | 딩톡방 | G(i)_dle\nhttps://t.co/Ng1ZOjlASX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ng1ZOjlASX",
+					"expanded_url": "https://youtu.be/zn_kPnx7i5w",
+					"display_url": "youtu.be/zn_kPnx7i5w",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 303,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n💌(여자)아이들의 비글파티에 당신을 초대합니다🎉 슈화 메인랩퍼로 포지션 변경??? 수진 다리 길이 3미터 설???? | 딩고뮤직 | 딩톡방 | G(i)_dle\nhttps://t.co/Ng1ZOjlASX"
+	},
+	{
+		"created_at": "Tue Jul 09 09:19:54 +0000 2019",
+		"id": 1148519269065347100,
+		"id_str": "1148522153756823552",
+		"full_text": "[그린플러그드 경주 2019 - 아티스트 소개]\n⠀\n'더 팬'에서의 활약 이후 바쁜 활동을 이어가고 있는 카더가든, 용주, 비비의 감미로운 공연을 함께 즐기고 싶다면?\n👉 '그린플러그드 경주 2019'에서 만나요!\n⠀⠀⠀\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX https://t.co/PkdexKmyHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lS3DiCijKf",
+					"expanded_url": "http://bitly.kr/qx6IEX",
+					"display_url": "bitly.kr/qx6IEX",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/FCE6D9iioX",
+					"expanded_url": "http://bitly.kr/Ai64fO",
+					"display_url": "bitly.kr/Ai64fO",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148519205269958700,
+					"id_str": "1148519205269958656",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BcIc_UcAAHzcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BcIc_UcAAHzcK.jpg",
+					"url": "https://t.co/PkdexKmyHa",
+					"display_url": "pic.twitter.com/PkdexKmyHa",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148519269065347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148519205269958700,
+					"id_str": "1148519205269958656",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BcIc_UcAAHzcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BcIc_UcAAHzcK.jpg",
+					"url": "https://t.co/PkdexKmyHa",
+					"display_url": "pic.twitter.com/PkdexKmyHa",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148519269065347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148519216422637600,
+					"id_str": "1148519216422637569",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BcJGiU0AElqQ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BcJGiU0AElqQ6.jpg",
+					"url": "https://t.co/PkdexKmyHa",
+					"display_url": "pic.twitter.com/PkdexKmyHa",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148519269065347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148519228678344700,
+					"id_str": "1148519228678344707",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D_BcJ0MUEAMl1_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_BcJ0MUEAMl1_3.jpg",
+					"url": "https://t.co/PkdexKmyHa",
+					"display_url": "pic.twitter.com/PkdexKmyHa",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1148519269065347072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12796,
+			"friends_count": 165,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 경주 2019 - 아티스트 소개]\n⠀\n'더 팬'에서의 활약 이후 바쁜 활동을 이어가고 있는 카더가든, 용주, 비비의 감미로운 공연을 함께 즐기고 싶다면?\n👉 '그린플러그드 경주 2019'에서 만나요!\n⠀⠀⠀\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX https://t.co/PkdexKmyHa"
+	},
+	{
+		"created_at": "Tue Jul 09 09:18:23 +0000 2019",
+		"id": 1148517662827241500,
+		"id_str": "1148521770141605889",
+		"full_text": "[MUNHWAIN PLAYLIST]설레고 싶은 날에 듣기 좋은 음악 추천#15\n\n나들이와 데이트하기 딱 좋은 요즘!\n설레고 싶은 그 날!\n함께 들으면 좋은 음악으로 준비했습니다.\n\n🎧 https://t.co/PaYbF1Zi3G\n\n#문화인 #플레이리스트 #PLAYLIST #MUNHWAIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "MUNHWAIN",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaYbF1Zi3G",
+					"expanded_url": "https://youtu.be/X-AhpGelf7A",
+					"display_url": "youtu.be/X-AhpGelf7A",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 5,
+			"listed_count": 9,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MUNHWAIN PLAYLIST]설레고 싶은 날에 듣기 좋은 음악 추천#15\n\n나들이와 데이트하기 딱 좋은 요즘!\n설레고 싶은 그 날!\n함께 들으면 좋은 음악으로 준비했습니다.\n\n🎧 https://t.co/PaYbF1Zi3G\n\n#문화인 #플레이리스트 #PLAYLIST #MUNHWAIN"
+	},
+	{
 		"created_at": "Tue Jul 09 09:11:48 +0000 2019",
 		"id": 1148510504391827500,
 		"id_str": "1148520116386226176",
