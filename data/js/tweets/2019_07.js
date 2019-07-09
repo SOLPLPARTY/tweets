@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 12:05:06 +0000 2019",
+		"id": 1148563728012664800,
+		"id_str": "1148563728012664833",
+		"full_text": "【 #벅스 】 #뮤직포스트\n[공연/페스티벌] 벅스 커넥트 라이브 - GIG in Seoul Vol.9 예서, 룸306, 소피야, 애쉬뮤트\nhttps://t.co/5al0N61i5e https://t.co/gT2UO6eP1N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5al0N61i5e",
+					"expanded_url": "http://bit.ly/2NFGQBC",
+					"display_url": "bit.ly/2NFGQBC",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148563726922113000,
+					"id_str": "1148563726922113024",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_CEn9EXYAAdvv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_CEn9EXYAAdvv8.jpg",
+					"url": "https://t.co/gT2UO6eP1N",
+					"display_url": "pic.twitter.com/gT2UO6eP1N",
+					"expanded_url": "https://twitter.com/solplparty/status/1148563728012664833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148563726922113000,
+					"id_str": "1148563726922113024",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_CEn9EXYAAdvv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_CEn9EXYAAdvv8.jpg",
+					"url": "https://t.co/gT2UO6eP1N",
+					"display_url": "pic.twitter.com/gT2UO6eP1N",
+					"expanded_url": "https://twitter.com/solplparty/status/1148563728012664833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 303,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #벅스 】 #뮤직포스트\n[공연/페스티벌] 벅스 커넥트 라이브 - GIG in Seoul Vol.9 예서, 룸306, 소피야, 애쉬뮤트\nhttps://t.co/5al0N61i5e https://t.co/gT2UO6eP1N"
+	},
+	{
 		"created_at": "Tue Jul 09 11:03:23 +0000 2019",
 		"id": 1148548197624819700,
 		"id_str": "1148548197624819713",
@@ -246,7 +445,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Tue Jul 09 10:18:46 +0000 2019",
 		"id": 1148536087049936900,
 		"id_str": "1148536966662803461",
-		"full_text": "2019 #썸데이페스티벌\n✅ #샘김 LINE UP\n⠀\n2019. 9. 1 (일) @난지한강공원\n​⠀\n- 공식예매처 및 상세 안내\n인터파크 &gt; https://t.co/NHK1e3TWxj\n하나티켓 &gt; https://t.co/QV9vWEARH0\n네이버예약 &gt; https://t.co/cpp3OYcWqJ\n티켓링크 &gt; https://t.co/jkyPW085qc\n\n#SamKim #Somedayfestival https://t.co/J69zId1Lci",
+		"full_text": "2019 #썸데이페스티벌\n✅ #샘김 LINE UP\n⠀\n2019. 9. 1 (일) @난지한강공원\n⠀\n- 공식예매처 및 상세 안내\n인터파크 &gt; https://t.co/NHK1e3TWxj\n하나티켓 &gt; https://t.co/QV9vWEARH0\n네이버예약 &gt; https://t.co/cpp3OYcWqJ\n티켓링크 &gt; https://t.co/jkyPW085qc\n\n#SamKim #Somedayfestival https://t.co/J69zId1Lci",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -516,13 +715,13 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "2019 #썸데이페스티벌\n✅ #샘김 LINE UP\n⠀\n2019. 9. 1 (일) @난지한강공원\n​⠀\n- 공식예매처 및 상세 안내\n인터파크 &gt; https://t.co/NHK1e3TWxj\n하나티켓 &gt; https://t.co/QV9vWEARH0\n네이버예약 &gt; https://t.co/cpp3OYcWqJ\n티켓링크 &gt; https://t.co/jkyPW085qc\n\n#SamKim #Somedayfestival https://t.co/J69zId1Lci"
+		"text": "2019 #썸데이페스티벌\n✅ #샘김 LINE UP\n⠀\n2019. 9. 1 (일) @난지한강공원\n⠀\n- 공식예매처 및 상세 안내\n인터파크 &gt; https://t.co/NHK1e3TWxj\n하나티켓 &gt; https://t.co/QV9vWEARH0\n네이버예약 &gt; https://t.co/cpp3OYcWqJ\n티켓링크 &gt; https://t.co/jkyPW085qc\n\n#SamKim #Somedayfestival https://t.co/J69zId1Lci"
 	},
 	{
 		"created_at": "Tue Jul 09 10:18:41 +0000 2019",
 		"id": 1148534219448057900,
 		"id_str": "1148536945246650368",
-		"full_text": "제13회 #칠포재즈페스티벌 2019\n✅ #페퍼톤스 #정승환 #샘김 LINE UP\n⠀\n2019. 9. 7 (토) 정승환/샘김\n2019. 9. 8 (일) 페퍼톤스 \n​​@ 칠포해수욕장 상설무대\n⠀\n예매처 - 인터파크 티켓\n티켓 오픈 및 상세 안내 - 주최 측 추후 공지\nhttps://t.co/QpMDeQkqaK https://t.co/UCZRa0EErA",
+		"full_text": "제13회 #칠포재즈페스티벌 2019\n✅ #페퍼톤스 #정승환 #샘김 LINE UP\n⠀\n2019. 9. 7 (토) 정승환/샘김\n2019. 9. 8 (일) 페퍼톤스 \n@ 칠포해수욕장 상설무대\n⠀\n예매처 - 인터파크 티켓\n티켓 오픈 및 상세 안내 - 주최 측 추후 공지\nhttps://t.co/QpMDeQkqaK https://t.co/UCZRa0EErA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -729,7 +928,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "제13회 #칠포재즈페스티벌 2019\n✅ #페퍼톤스 #정승환 #샘김 LINE UP\n⠀\n2019. 9. 7 (토) 정승환/샘김\n2019. 9. 8 (일) 페퍼톤스 \n​​@ 칠포해수욕장 상설무대\n⠀\n예매처 - 인터파크 티켓\n티켓 오픈 및 상세 안내 - 주최 측 추후 공지\nhttps://t.co/QpMDeQkqaK https://t.co/UCZRa0EErA"
+		"text": "제13회 #칠포재즈페스티벌 2019\n✅ #페퍼톤스 #정승환 #샘김 LINE UP\n⠀\n2019. 9. 7 (토) 정승환/샘김\n2019. 9. 8 (일) 페퍼톤스 \n@ 칠포해수욕장 상설무대\n⠀\n예매처 - 인터파크 티켓\n티켓 오픈 및 상세 안내 - 주최 측 추후 공지\nhttps://t.co/QpMDeQkqaK https://t.co/UCZRa0EErA"
 	},
 	{
 		"created_at": "Tue Jul 09 10:18:32 +0000 2019",
