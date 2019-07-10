@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 15:12:01 +0000 2019",
+		"id": 1148967872317628400,
+		"id_str": "1148973153391173632",
+		"full_text": "#캐스퍼라디오 #홍설수설 #골든차일드\n우리 쥬디쥬디 캐스퍼라디오 온지 벌써 한달되었어요🥰 날로 느는 진행실력과 댓글 코멘트👏🏻정말 들으면 들을수록 감동 또 감동 ! 다음주에도 쥬디와 함께 설레는 수요일 되세요🥺🧡\n\nhttps://t.co/qRGE6mcy5r https://t.co/QDJdZKblLb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "홍설수설",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRGE6mcy5r",
+					"expanded_url": "https://instagram.com/p/BzvW4jVFbyP/",
+					"display_url": "instagram.com/p/BzvW4jVFbyP/",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148967697956294700,
+					"id_str": "1148967697956294664",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_H0CKcVUAg39o4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_H0CKcVUAg39o4.jpg",
+					"url": "https://t.co/QDJdZKblLb",
+					"display_url": "pic.twitter.com/QDJdZKblLb",
+					"expanded_url": "https://twitter.com/casperradio_/status/1148967872317628416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148967697956294700,
+					"id_str": "1148967697956294664",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D_H0CKcVUAg39o4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_H0CKcVUAg39o4.jpg",
+					"url": "https://t.co/QDJdZKblLb",
+					"display_url": "pic.twitter.com/QDJdZKblLb",
+					"expanded_url": "https://twitter.com/casperradio_/status/1148967872317628416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 7,
+			"listed_count": 1,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼라디오 #홍설수설 #골든차일드\n우리 쥬디쥬디 캐스퍼라디오 온지 벌써 한달되었어요🥰 날로 느는 진행실력과 댓글 코멘트👏🏻정말 들으면 들을수록 감동 또 감동 ! 다음주에도 쥬디와 함께 설레는 수요일 되세요🥺🧡\n\nhttps://t.co/qRGE6mcy5r https://t.co/QDJdZKblLb"
+	},
+	{
+		"created_at": "Wed Jul 10 15:11:52 +0000 2019",
+		"id": 1148960873458700300,
+		"id_str": "1148973114585468928",
+		"full_text": "공감에서 함께 \"공감\"하고 싶은 분들의 많은 신청 기다릴게요 🖤\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #구남과여라이딩스텔라 #조웅 #망한나라 #지워진자국 #우리는끝없이흐른다 #물불 #모래내판타지 #4집 #새로운시작",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS공감",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "구남과여라이딩스텔라",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "조웅",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "망한나라",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "지워진자국",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "우리는끝없이흐른다",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "물불",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "모래내판타지",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "4집",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "새로운시작",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148960871650959400,
+		"in_reply_to_status_id_str": "1148960871650959361",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277562,
+			"friends_count": 20591,
+			"listed_count": 841,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "공감에서 함께 \"공감\"하고 싶은 분들의 많은 신청 기다릴게요 🖤\nㅤㅤㅤ\n#EBS공감 #스페이스공감 #구남과여라이딩스텔라 #조웅 #망한나라 #지워진자국 #우리는끝없이흐른다 #물불 #모래내판타지 #4집 #새로운시작"
+	},
+	{
+		"created_at": "Wed Jul 10 15:11:45 +0000 2019",
+		"id": 1148960871650959400,
+		"id_str": "1148973088803041281",
+		"full_text": "구남의 솔직한 이야기를 함께 만나고 싶다면\n모두 홈페이지로 신청하러 🚀\nㅤ\n공연안내 ▶ \n구남과여라이딩스텔라 '사라져가는 것들을 위한 찬가'\nㅤ\n공연일정 ▶ \n8월 1일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/exFhPY9eYf\nㅤ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/exFhPY9eYf",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4668",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148960866328547300,
+		"in_reply_to_status_id_str": "1148960866328547330",
+		"in_reply_to_user_id": 128619707,
+		"in_reply_to_user_id_str": "128619707",
+		"in_reply_to_screen_name": "ebsspace",
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 277562,
+			"friends_count": 20591,
+			"listed_count": 841,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구남의 솔직한 이야기를 함께 만나고 싶다면\n모두 홈페이지로 신청하러 🚀\nㅤ\n공연안내 ▶ \n구남과여라이딩스텔라 '사라져가는 것들을 위한 찬가'\nㅤ\n공연일정 ▶ \n8월 1일 (목) 저녁 8시\nㅤㅤ\n공연신청 ▶ ㅤ\nhttps://t.co/exFhPY9eYf\nㅤ"
+	},
+	{
 		"created_at": "Wed Jul 10 13:18:02 +0000 2019",
 		"id": 1148944467291967500,
 		"id_str": "1148944467291967488",
