@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 00:11:42 +0000 2019",
+		"id": 1148746493911695400,
+		"id_str": "1148746583430840320",
+		"full_text": "[2019 EBS 상반기 헬로루키 with KOCCA] - [네모공감] 소식\n\nDAMYE(담예)의 특별한 작업실로 초대합니다~ \n🐻💻🌿\n\n기타치고 랩하고 노래하고 피처링까지 혼자 다 하는!\nDAMYE(담예)의 'DUSSA(Feat. DAMYE(담예))’!\n곧! 여러분의 귀👂로 찾아갑니다~ \n찰지게 콕 박혀도 놀라지 마세요~ 🤭🎧\n\n#DAMYE https://t.co/JR8Q7ZWgb5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DAMYE",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148746434625192000,
+					"id_str": "1148746434625191937",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Eqy8TUwAE4Wh6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Eqy8TUwAE4Wh6.jpg",
+					"url": "https://t.co/JR8Q7ZWgb5",
+					"display_url": "pic.twitter.com/JR8Q7ZWgb5",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1148746493911695360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148746434625192000,
+					"id_str": "1148746434625191937",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Eqy8TUwAE4Wh6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Eqy8TUwAE4Wh6.jpg",
+					"url": "https://t.co/JR8Q7ZWgb5",
+					"display_url": "pic.twitter.com/JR8Q7ZWgb5",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1148746493911695360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 722,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 722,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148746468905246700,
+					"id_str": "1148746468905246720",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Eq08AU4AAgfPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Eq08AU4AAgfPf.jpg",
+					"url": "https://t.co/JR8Q7ZWgb5",
+					"display_url": "pic.twitter.com/JR8Q7ZWgb5",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1148746493911695360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5222,
+			"friends_count": 4731,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 상반기 헬로루키 with KOCCA] - [네모공감] 소식\n\nDAMYE(담예)의 특별한 작업실로 초대합니다~ \n🐻💻🌿\n\n기타치고 랩하고 노래하고 피처링까지 혼자 다 하는!\nDAMYE(담예)의 'DUSSA(Feat. DAMYE(담예))’!\n곧! 여러분의 귀👂로 찾아갑니다~ \n찰지게 콕 박혀도 놀라지 마세요~ 🤭🎧\n\n#DAMYE https://t.co/JR8Q7ZWgb5"
+	},
+	{
 		"created_at": "Tue Jul 09 22:56:25 +0000 2019",
 		"id": 1142100056813649900,
 		"id_str": "1148727635012227072",
