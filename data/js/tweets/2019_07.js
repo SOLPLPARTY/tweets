@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 07:11:50 +0000 2019",
+		"id": 1149209831909150700,
+		"id_str": "1149214701743738881",
+		"full_text": "📎 소낙별 CD [Asteroid Cloud]\n 6월 씬디스케치에 참여한 소낙별님의 싱글 [Asteroid Cloud] 입고되었습니다. 씬디 CDP를 이용하여 발랄한 소낙별님의 음악을 감상해보세요 🎵\n\n📎 천용성 CD [김일성이 죽던 해]\n천용성님의 앨범 발매 기념으로 쇼케이스를 개최한다고 하니 많은 관심 부탁드립니다❣️ https://t.co/dtHbrl50sP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149208979202924500,
+					"id_str": "1149208979202924544",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPelIUYAAHiop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPelIUYAAHiop.jpg",
+					"url": "https://t.co/dtHbrl50sP",
+					"display_url": "pic.twitter.com/dtHbrl50sP",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209831909150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 909,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149208979202924500,
+					"id_str": "1149208979202924544",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPelIUYAAHiop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPelIUYAAHiop.jpg",
+					"url": "https://t.co/dtHbrl50sP",
+					"display_url": "pic.twitter.com/dtHbrl50sP",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209831909150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 909,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149208994558304300,
+					"id_str": "1149208994558304256",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPfeVU4AAIssn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPfeVU4AAIssn.jpg",
+					"url": "https://t.co/dtHbrl50sP",
+					"display_url": "pic.twitter.com/dtHbrl50sP",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209831909150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 890,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 890,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149209284850229200,
+					"id_str": "1149209284850229248",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPwXwUIAAKv8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPwXwUIAAKv8y.jpg",
+					"url": "https://t.co/dtHbrl50sP",
+					"display_url": "pic.twitter.com/dtHbrl50sP",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209831909150720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1149209829719679000,
+		"in_reply_to_status_id_str": "1149209829719678978",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2669,
+			"friends_count": 2569,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📎 소낙별 CD [Asteroid Cloud]\n 6월 씬디스케치에 참여한 소낙별님의 싱글 [Asteroid Cloud] 입고되었습니다. 씬디 CDP를 이용하여 발랄한 소낙별님의 음악을 감상해보세요 🎵\n\n📎 천용성 CD [김일성이 죽던 해]\n천용성님의 앨범 발매 기념으로 쇼케이스를 개최한다고 하니 많은 관심 부탁드립니다❣️ https://t.co/dtHbrl50sP"
+	},
+	{
+		"created_at": "Thu Jul 11 07:11:42 +0000 2019",
+		"id": 1149209829719679000,
+		"id_str": "1149214667673415681",
+		"full_text": "[신규입고]\n📎 The Three Fakes 스티커 3종 \n얼마 전 펜타 유스스타 TOP 30에 선정된 The Three Fakes의 스티커가 입고되었는데요 ~ 또한 이번에 반스 뮤지션 원티드에 Alive로 참가하게 되어서 현재 2차 온라인 투표를 진행중이라고 하니까 많은 관심 부탁드립니다 💛\n\n▶️ https://t.co/zpZx96hRGa https://t.co/yOzaZrrMff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zpZx96hRGa",
+					"expanded_url": "http://reurl.kr/2C73E72DBV",
+					"display_url": "reurl.kr/2C73E72DBV",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149208437986693100,
+					"id_str": "1149208437986693120",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LO_E8UEAAZgXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LO_E8UEAAZgXE.jpg",
+					"url": "https://t.co/yOzaZrrMff",
+					"display_url": "pic.twitter.com/yOzaZrrMff",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209829719678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149208437986693100,
+					"id_str": "1149208437986693120",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LO_E8UEAAZgXE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LO_E8UEAAZgXE.jpg",
+					"url": "https://t.co/yOzaZrrMff",
+					"display_url": "pic.twitter.com/yOzaZrrMff",
+					"expanded_url": "https://twitter.com/xindieticket/status/1149209829719678978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온&오프라인 티켓 판매처\n(운영시간 : 1PM - 9PM, 저녁시간 6PM - 7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2669,
+			"friends_count": 2569,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📎 The Three Fakes 스티커 3종 \n얼마 전 펜타 유스스타 TOP 30에 선정된 The Three Fakes의 스티커가 입고되었는데요 ~ 또한 이번에 반스 뮤지션 원티드에 Alive로 참가하게 되어서 현재 2차 온라인 투표를 진행중이라고 하니까 많은 관심 부탁드립니다 💛\n\n▶️ https://t.co/zpZx96hRGa https://t.co/yOzaZrrMff"
+	},
+	{
+		"created_at": "Thu Jul 11 07:09:16 +0000 2019",
+		"id": 1149214055200174100,
+		"id_str": "1149214055200174081",
+		"full_text": "【 #벅스 】 #뮤직포스트\n[숨은 아티스트] Let's Eat Grandma(렛츠 잇 그랜마) - 감각적인 십대들의 아트팝\nhttps://t.co/M76bcyZsiT https://t.co/llQuRrsE8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M76bcyZsiT",
+					"expanded_url": "http://bit.ly/2Jz04nc",
+					"display_url": "bit.ly/2Jz04nc",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149214054361325600,
+					"id_str": "1149214054361325568",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LUF_kX4AA160B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LUF_kX4AA160B.jpg",
+					"url": "https://t.co/llQuRrsE8K",
+					"display_url": "pic.twitter.com/llQuRrsE8K",
+					"expanded_url": "https://twitter.com/solplparty/status/1149214055200174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149214054361325600,
+					"id_str": "1149214054361325568",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LUF_kX4AA160B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LUF_kX4AA160B.jpg",
+					"url": "https://t.co/llQuRrsE8K",
+					"display_url": "pic.twitter.com/llQuRrsE8K",
+					"expanded_url": "https://twitter.com/solplparty/status/1149214055200174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 308,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #벅스 】 #뮤직포스트\n[숨은 아티스트] Let's Eat Grandma(렛츠 잇 그랜마) - 감각적인 십대들의 아트팝\nhttps://t.co/M76bcyZsiT https://t.co/llQuRrsE8K"
+	},
+	{
 		"created_at": "Thu Jul 11 06:04:08 +0000 2019",
 		"id": 1149197662874480600,
 		"id_str": "1149197662874480640",
