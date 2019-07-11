@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 13:11:51 +0000 2019",
+		"id": 1149299729672495100,
+		"id_str": "1149305299767111680",
+		"full_text": "@han820725 혜원여신님 공연 때는 제가 늘 이런 모드라 부끄럽지만...❤️..❤️ 담에 뵈면 꼭 인사해요 우리🥰😍🌸🙈 https://t.co/uyQXDUBkMb",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "han820725",
+					"name": "jj🌌",
+					"id": 972845600457736200,
+					"id_str": "972845600457736192",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149299722793787400,
+					"id_str": "1149299722793787392",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D_MiAjWUIAAJPQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_MiAjWUIAAJPQy.jpg",
+					"url": "https://t.co/uyQXDUBkMb",
+					"display_url": "pic.twitter.com/uyQXDUBkMb",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149299729672495104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149299722793787400,
+					"id_str": "1149299722793787392",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D_MiAjWUIAAJPQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_MiAjWUIAAJPQy.jpg",
+					"url": "https://t.co/uyQXDUBkMb",
+					"display_url": "pic.twitter.com/uyQXDUBkMb",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149299729672495104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 397,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149269989557280800,
+		"in_reply_to_status_id_str": "1149269989557280770",
+		"in_reply_to_user_id": 972845600457736200,
+		"in_reply_to_user_id_str": "972845600457736192",
+		"in_reply_to_screen_name": "han820725",
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 936,
+			"listed_count": 9,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@han820725 혜원여신님 공연 때는 제가 늘 이런 모드라 부끄럽지만...❤️..❤️ 담에 뵈면 꼭 인사해요 우리🥰😍🌸🙈 https://t.co/uyQXDUBkMb"
+	},
+	{
+		"created_at": "Thu Jul 11 13:11:42 +0000 2019",
+		"id": 1149295230786555900,
+		"id_str": "1149305265226956800",
+		"full_text": "[2019 EBS 상반기 헬로루키 with KOCCA]  [네모공감] 소식\n\n어디든 갑자기 분위기 러블리💕로 만들어 버리는\n김성화 그룹의 네모공감 촬영장 비하인드컷을 공개합니다~ 🎞🌻\n\n어느새 막바지를 향해 달려가고 있는 네모공감 촬영!\n매주 한편씩! 공개되는 #네모공감 놓치지 마세요~📺🎶\n\n#김성화그룹 https://t.co/94WgC0pwQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네모공감",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "김성화그룹",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149295186842796000,
+					"id_str": "1149295186842796032",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Md4hnUwAAc1bT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Md4hnUwAAc1bT.jpg",
+					"url": "https://t.co/94WgC0pwQK",
+					"display_url": "pic.twitter.com/94WgC0pwQK",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1149295230786555904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149295186842796000,
+					"id_str": "1149295186842796032",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Md4hnUwAAc1bT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Md4hnUwAAc1bT.jpg",
+					"url": "https://t.co/94WgC0pwQK",
+					"display_url": "pic.twitter.com/94WgC0pwQK",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1149295230786555904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1496,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149295213937979400,
+					"id_str": "1149295213937979392",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Md6GjUcAAY_84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Md6GjUcAAY_84.jpg",
+					"url": "https://t.co/94WgC0pwQK",
+					"display_url": "pic.twitter.com/94WgC0pwQK",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1149295230786555904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5223,
+			"friends_count": 4730,
+			"listed_count": 69,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 상반기 헬로루키 with KOCCA]  [네모공감] 소식\n\n어디든 갑자기 분위기 러블리💕로 만들어 버리는\n김성화 그룹의 네모공감 촬영장 비하인드컷을 공개합니다~ 🎞🌻\n\n어느새 막바지를 향해 달려가고 있는 네모공감 촬영!\n매주 한편씩! 공개되는 #네모공감 놓치지 마세요~📺🎶\n\n#김성화그룹 https://t.co/94WgC0pwQK"
+	},
+	{
 		"created_at": "Thu Jul 11 12:11:46 +0000 2019",
 		"id": 1149290093368098800,
 		"id_str": "1149290178730741760",
