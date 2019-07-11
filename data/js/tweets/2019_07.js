@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 12:11:46 +0000 2019",
+		"id": 1149290093368098800,
+		"id_str": "1149290178730741760",
+		"full_text": "웬즈데이 프로젝트 Vol.8 윤현상 ‘LOVER’\n4번의 공연 중 마지막 공연인\n7/17 #4 Finale, Outro에 여러분을 초대합니다.\n\n초대 이벤트는 상상마당 인스타그램 대표계정에서!\nhttps://t.co/T59SsxcDw5 https://t.co/Dnlnbb3Nc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T59SsxcDw5",
+					"expanded_url": "http://bit.ly/2XCsAhz",
+					"display_url": "bit.ly/2XCsAhz",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149288545070153700,
+					"id_str": "1149288545070153728",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149288545070153728/pu/img/MZUXXdwJN_olVqjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149288545070153728/pu/img/MZUXXdwJN_olVqjY.jpg",
+					"url": "https://t.co/Dnlnbb3Nc4",
+					"display_url": "pic.twitter.com/Dnlnbb3Nc4",
+					"expanded_url": "https://twitter.com/SSmadang/status/1149290093368098821/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149288545070153700,
+					"id_str": "1149288545070153728",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149288545070153728/pu/img/MZUXXdwJN_olVqjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149288545070153728/pu/img/MZUXXdwJN_olVqjY.jpg",
+					"url": "https://t.co/Dnlnbb3Nc4",
+					"display_url": "pic.twitter.com/Dnlnbb3Nc4",
+					"expanded_url": "https://twitter.com/SSmadang/status/1149290093368098821/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 49030,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149288545070153728/pu/vid/320x320/aEhc2nO8fcON3SbE.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149288545070153728/pu/vid/480x480/3c6qsdRcUhdritj8.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149288545070153728/pu/vid/720x720/1SLTMCUfYVxvveMz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149288545070153728/pu/pl/E5kroXqQG0YmWw-T.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19532,
+			"friends_count": 2029,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웬즈데이 프로젝트 Vol.8 윤현상 ‘LOVER’\n4번의 공연 중 마지막 공연인\n7/17 #4 Finale, Outro에 여러분을 초대합니다.\n\n초대 이벤트는 상상마당 인스타그램 대표계정에서!\nhttps://t.co/T59SsxcDw5 https://t.co/Dnlnbb3Nc4"
+	},
+	{
+		"created_at": "Thu Jul 11 12:11:42 +0000 2019",
+		"id": 1149277165684289500,
+		"id_str": "1149290165556404226",
+		"full_text": "7/10(fri) [clubFF - Live Bands]\nPart1. Heaven's on fire : Indie rock\n영웅. 나상현씨밴드. 더 폴스. 828\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다.\n\nPart2. Orgasm addict : Punk rock\n초록불꽃소년단. 하이틴팝스. 더 사운드\n\nstart 10:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/6rVbIfZmzI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149277154552635400,
+					"id_str": "1149277154552635392",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D_MNe6GU4AAioRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_MNe6GU4AAioRZ.jpg",
+					"url": "https://t.co/6rVbIfZmzI",
+					"display_url": "pic.twitter.com/6rVbIfZmzI",
+					"expanded_url": "https://twitter.com/clubFF_/status/1149277165684289536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149277154552635400,
+					"id_str": "1149277154552635392",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D_MNe6GU4AAioRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_MNe6GU4AAioRZ.jpg",
+					"url": "https://t.co/6rVbIfZmzI",
+					"display_url": "pic.twitter.com/6rVbIfZmzI",
+					"expanded_url": "https://twitter.com/clubFF_/status/1149277165684289536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149277154561024000,
+					"id_str": "1149277154561024000",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D_MNe6IU4AAMqMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_MNe6IU4AAMqMb.jpg",
+					"url": "https://t.co/6rVbIfZmzI",
+					"display_url": "pic.twitter.com/6rVbIfZmzI",
+					"expanded_url": "https://twitter.com/clubFF_/status/1149277165684289536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6829,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7/10(fri) [clubFF - Live Bands]\nPart1. Heaven's on fire : Indie rock\n영웅. 나상현씨밴드. 더 폴스. 828\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다.\n\nPart2. Orgasm addict : Punk rock\n초록불꽃소년단. 하이틴팝스. 더 사운드\n\nstart 10:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/6rVbIfZmzI"
+	},
+	{
 		"created_at": "Thu Jul 11 11:02:14 +0000 2019",
 		"id": 1149272681763790800,
 		"id_str": "1149272681763790848",
