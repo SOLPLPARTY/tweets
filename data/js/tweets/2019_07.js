@@ -1,10 +1,131 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 11:02:14 +0000 2019",
+		"id": 1149272681763790800,
+		"id_str": "1149272681763790848",
+		"full_text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n[Video] 권정열&amp;고영배 - 나가 (십란한밤 로고송)\nhttps://t.co/Mdt7QccJfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CASPER_MUSIC_TV",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mdt7QccJfS",
+					"expanded_url": "https://youtu.be/3OYwl7ohk6o",
+					"display_url": "youtu.be/3OYwl7ohk6o",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 308,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼뮤직 #CASPER_MUSIC_TV\n[Video] 권정열&amp;고영배 - 나가 (십란한밤 로고송)\nhttps://t.co/Mdt7QccJfS"
+	},
+	{
 		"created_at": "Thu Jul 11 09:11:43 +0000 2019",
 		"id": 1149231249262645200,
 		"id_str": "1149244867928891393",
-		"full_text": "#상상마당라이브홀\n플래그 쇼케이스 티켓이 오픈되었습니다🎉🎉🎉\n많이 기대해주시고 오셔서 즐겁게 놀아요🤩\n\n&lt;플래그 EP［4EVER YOUTH］SHOWCASE&gt;\n*일시 : 2019년 7월 28일 오후 5시 (일)\n*장소 : KT&amp;G 상상마당 홍대 라이브홀 B2\n\n다들 7월 28일에 만나요🙋🏻‍♂️\n예매는 https://t.co/9t0rqI2kr9 https://t.co/9qcqBUz2wG",
+		"full_text": "#상상마당라이브홀\n플래그 쇼케이스 티켓이 오픈되었습니다🎉🎉🎉\n많이 기대해주시고 오셔서 즐겁게 놀아요🤩\n\n&lt;플래그 EP［4EVER YOUTH］SHOWCASE&gt;\n*일시 : 2019년 7월 28일 오후 5시 (일)\n*장소 : KT&amp;G 상상마당 홍대 라이브홀 B2\n\n다들 7월 28일에 만나요🙋🏻♂️\n예매는 https://t.co/9t0rqI2kr9 https://t.co/9qcqBUz2wG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -221,7 +342,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#상상마당라이브홀\n플래그 쇼케이스 티켓이 오픈되었습니다🎉🎉🎉\n많이 기대해주시고 오셔서 즐겁게 놀아요🤩\n\n&lt;플래그 EP［4EVER YOUTH］SHOWCASE&gt;\n*일시 : 2019년 7월 28일 오후 5시 (일)\n*장소 : KT&amp;G 상상마당 홍대 라이브홀 B2\n\n다들 7월 28일에 만나요🙋🏻‍♂️\n예매는 https://t.co/9t0rqI2kr9 https://t.co/9qcqBUz2wG"
+		"text": "#상상마당라이브홀\n플래그 쇼케이스 티켓이 오픈되었습니다🎉🎉🎉\n많이 기대해주시고 오셔서 즐겁게 놀아요🤩\n\n&lt;플래그 EP［4EVER YOUTH］SHOWCASE&gt;\n*일시 : 2019년 7월 28일 오후 5시 (일)\n*장소 : KT&amp;G 상상마당 홍대 라이브홀 B2\n\n다들 7월 28일에 만나요🙋🏻♂️\n예매는 https://t.co/9t0rqI2kr9 https://t.co/9qcqBUz2wG"
 	},
 	{
 		"created_at": "Thu Jul 11 09:11:35 +0000 2019",
@@ -1625,7 +1746,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Thu Jul 11 08:19:54 +0000 2019",
 		"id": 1149226936679489500,
 		"id_str": "1149231831344123904",
-		"full_text": "검증된 즐거움, 월디페!!!⁠\n#큐댄스\n.⁠⠀\n사진&amp;영상 제보 받아요!!!⠀⁠⠀\n참여해 주시는 분들에게는 추첨을 통해서 하반기 진행이벤트 초대와 에어팟2를 드립니다.\n.⠀⁠⠀\n+++신청방법1⠀⁠⠀\n이메일보내기 : info@bepc.co.kr⠀⁠⠀\n내용에 성함, 핸드폰번호 작성해서 보내기⠀⁠⠀ https://t.co/MypJ7tN9zp",
+		"full_text": "검증된 즐거움, 월디페!!!\n#큐댄스\n.⠀\n사진&amp;영상 제보 받아요!!!⠀⠀\n참여해 주시는 분들에게는 추첨을 통해서 하반기 진행이벤트 초대와 에어팟2를 드립니다.\n.⠀⠀\n+++신청방법1⠀⠀\n이메일보내기 : info@bepc.co.kr⠀⠀\n내용에 성함, 핸드폰번호 작성해서 보내기⠀⠀ https://t.co/MypJ7tN9zp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1801,7 +1922,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "검증된 즐거움, 월디페!!!⁠\n#큐댄스\n.⁠⠀\n사진&amp;영상 제보 받아요!!!⠀⁠⠀\n참여해 주시는 분들에게는 추첨을 통해서 하반기 진행이벤트 초대와 에어팟2를 드립니다.\n.⠀⁠⠀\n+++신청방법1⠀⁠⠀\n이메일보내기 : info@bepc.co.kr⠀⁠⠀\n내용에 성함, 핸드폰번호 작성해서 보내기⠀⁠⠀ https://t.co/MypJ7tN9zp"
+		"text": "검증된 즐거움, 월디페!!!\n#큐댄스\n.⠀\n사진&amp;영상 제보 받아요!!!⠀⠀\n참여해 주시는 분들에게는 추첨을 통해서 하반기 진행이벤트 초대와 에어팟2를 드립니다.\n.⠀⠀\n+++신청방법1⠀⠀\n이메일보내기 : info@bepc.co.kr⠀⠀\n내용에 성함, 핸드폰번호 작성해서 보내기⠀⠀ https://t.co/MypJ7tN9zp"
 	},
 	{
 		"created_at": "Thu Jul 11 08:18:18 +0000 2019",
