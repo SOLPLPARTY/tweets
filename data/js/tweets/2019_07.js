@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 16:11:43 +0000 2019",
+		"id": 1149347868899041300,
+		"id_str": "1149350564569997312",
+		"full_text": "#올댓뮤직\n\n오늘 밤도 올댓뮤직과 함께 마무리🌙\n오늘 만나지 못한\n#김현철 님의 미방곡은 지금 바로!\n올댓뮤직 유튜브 채널에서 만날 수 있습니다🙊\n\n다음주 목요일에도 역시!\n올댓뮤직으로 만나요💕\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#KimHyunChul\n#클랑의특별앵콜곡도 #내일유튜브로만나요🥰 https://t.co/UC4wZTMudH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "김현철",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "KimHyunChul",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "클랑의특별앵콜곡도",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "내일유튜브로만나요",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149347654456901600,
+					"id_str": "1149347654456901633",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149347654456901633/pu/img/w_A0VKKG4z0KY5jh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149347654456901633/pu/img/w_A0VKKG4z0KY5jh.jpg",
+					"url": "https://t.co/UC4wZTMudH",
+					"display_url": "pic.twitter.com/UC4wZTMudH",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1149347868899041281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149347654456901600,
+					"id_str": "1149347654456901633",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149347654456901633/pu/img/w_A0VKKG4z0KY5jh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149347654456901633/pu/img/w_A0VKKG4z0KY5jh.jpg",
+					"url": "https://t.co/UC4wZTMudH",
+					"display_url": "pic.twitter.com/UC4wZTMudH",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1149347868899041281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60427,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149347654456901633/pu/vid/1280x720/i-wBjiTJ3BOcKJ8N.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149347654456901633/pu/vid/640x360/c1-8nMoYzjep_IHm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149347654456901633/pu/pl/V2Qj5ow8I77CFnYX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149347654456901633/pu/vid/480x270/7naiW1ZLF9_3s8CJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3739,
+			"friends_count": 962,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n오늘 밤도 올댓뮤직과 함께 마무리🌙\n오늘 만나지 못한\n#김현철 님의 미방곡은 지금 바로!\n올댓뮤직 유튜브 채널에서 만날 수 있습니다🙊\n\n다음주 목요일에도 역시!\n올댓뮤직으로 만나요💕\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직\n#KimHyunChul\n#클랑의특별앵콜곡도 #내일유튜브로만나요🥰 https://t.co/UC4wZTMudH"
+	},
+	{
 		"created_at": "Thu Jul 11 14:40:40 +0000 2019",
 		"id": 1149327652798500900,
 		"id_str": "1149327652798500864",
