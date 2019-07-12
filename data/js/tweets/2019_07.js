@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 11:05:22 +0000 2019",
+		"id": 1149635857785057300,
+		"id_str": "1149635857785057281",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n20190712 LISTENSTAGE 시원\nhttps://t.co/XJKolpz8ul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XJKolpz8ul",
+					"expanded_url": "https://youtu.be/C9VYrFx3pYM",
+					"display_url": "youtu.be/C9VYrFx3pYM",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n20190712 LISTENSTAGE 시원\nhttps://t.co/XJKolpz8ul"
+	},
+	{
+		"created_at": "Fri Jul 12 10:18:33 +0000 2019",
+		"id": 1149618743913222100,
+		"id_str": "1149624077100806144",
+		"full_text": "[홍이삭] 오늘 저녁 8시 40분, JTBC &lt;슈퍼밴드&gt; 마지막 생방송 무대가 펼쳐집니다 ✨\n\n사전 온라인 투표와 생방송 문자 투표로 결정되는 최종 결과!\n실시간으로 문자 투표에 참여해보세요 📩\n\n🔥오늘 저녁 8시 40분 본방사수!🔥\n\n#홍이삭 #JTBC #슈퍼밴드 #모네 \n#오늘저녁_8시40분 #파이널생방송 https://t.co/tdfgwgJmgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "슈퍼밴드",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "모네",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "오늘저녁_8시40분",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"text": "파이널생방송",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149618704893632500,
+					"id_str": "1149618704893632513",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149618704893632513/pu/img/LpUnspf1wjSI_EdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149618704893632513/pu/img/LpUnspf1wjSI_EdE.jpg",
+					"url": "https://t.co/tdfgwgJmgF",
+					"display_url": "pic.twitter.com/tdfgwgJmgF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1149618743913222152/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149618704893632500,
+					"id_str": "1149618704893632513",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1149618704893632513/pu/img/LpUnspf1wjSI_EdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1149618704893632513/pu/img/LpUnspf1wjSI_EdE.jpg",
+					"url": "https://t.co/tdfgwgJmgF",
+					"display_url": "pic.twitter.com/tdfgwgJmgF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1149618743913222152/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33159,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149618704893632513/pu/vid/320x320/nTzoeg-AkR34XANC.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1149618704893632513/pu/vid/480x480/LW-Dm273h3r22deK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1149618704893632513/pu/pl/L7TAoB6HLJv8iind.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1517,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[홍이삭] 오늘 저녁 8시 40분, JTBC &lt;슈퍼밴드&gt; 마지막 생방송 무대가 펼쳐집니다 ✨\n\n사전 온라인 투표와 생방송 문자 투표로 결정되는 최종 결과!\n실시간으로 문자 투표에 참여해보세요 📩\n\n🔥오늘 저녁 8시 40분 본방사수!🔥\n\n#홍이삭 #JTBC #슈퍼밴드 #모네 \n#오늘저녁_8시40분 #파이널생방송 https://t.co/tdfgwgJmgF"
+	},
+	{
+		"created_at": "Fri Jul 12 10:18:24 +0000 2019",
+		"id": 1149612621856776200,
+		"id_str": "1149624037921787904",
+		"full_text": "[공연안내] 권순관 소극장 콘서트 ‘변하지 않는 것들’\n셋째 주 공연의 시작이네요! 공연장에서 만나요☺️\n\n티켓 교환 / 민트샵 19:00\n공연장 입장 19:30\n공연 시작 20:00 https://t.co/xYKuPYELog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149612614529347600,
+					"id_str": "1149612614529347584",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Q-lP5UcAA0TIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Q-lP5UcAA0TIA.jpg",
+					"url": "https://t.co/xYKuPYELog",
+					"display_url": "pic.twitter.com/xYKuPYELog",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1149612621856776192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149612614529347600,
+					"id_str": "1149612614529347584",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Q-lP5UcAA0TIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Q-lP5UcAA0TIA.jpg",
+					"url": "https://t.co/xYKuPYELog",
+					"display_url": "pic.twitter.com/xYKuPYELog",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1149612621856776192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13851,
+			"friends_count": 2519,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내] 권순관 소극장 콘서트 ‘변하지 않는 것들’\n셋째 주 공연의 시작이네요! 공연장에서 만나요☺️\n\n티켓 교환 / 민트샵 19:00\n공연장 입장 19:30\n공연 시작 20:00 https://t.co/xYKuPYELog"
+	},
+	{
 		"created_at": "Fri Jul 12 10:11:49 +0000 2019",
 		"id": 1149618492376674300,
 		"id_str": "1149622380525846529",
