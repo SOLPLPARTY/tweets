@@ -1,10 +1,926 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 06:11:57 +0000 2019",
+		"id": 1149913694895132700,
+		"id_str": "1149924404392013824",
+		"full_text": "7월 27일 토요일 7시 네스트 나다 \"Tropical Night\" ​#바투 #카프 #브로큰발렌타인​ https://t.co/bzKWB6xf8Q https://t.co/rG9WP2Vl5n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바투",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "카프",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "브로큰발렌타인",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzKWB6xf8Q",
+					"expanded_url": "https://nestnada.blog.me/221584699701",
+					"display_url": "nestnada.blog.me/221584699701",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149913683167834100,
+					"id_str": "1149913683167834112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VQZv-UcAAUYkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VQZv-UcAAUYkA.jpg",
+					"url": "https://t.co/rG9WP2Vl5n",
+					"display_url": "pic.twitter.com/rG9WP2Vl5n",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149913694895132672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149913683167834100,
+					"id_str": "1149913683167834112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VQZv-UcAAUYkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VQZv-UcAAUYkA.jpg",
+					"url": "https://t.co/rG9WP2Vl5n",
+					"display_url": "pic.twitter.com/rG9WP2Vl5n",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149913694895132672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 935,
+			"listed_count": 9,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월 27일 토요일 7시 네스트 나다 \"Tropical Night\" ​#바투 #카프 #브로큰발렌타인​ https://t.co/bzKWB6xf8Q https://t.co/rG9WP2Vl5n"
+	},
+	{
+		"created_at": "Sat Jul 13 06:11:50 +0000 2019",
+		"id": 1149909988300603400,
+		"id_str": "1149924374553812992",
+		"full_text": "@han820725 앗! 이렇게 아름다운 사진이 알림이 안 오다니... 트위터는 바보에요...&lt;-응?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "han820725",
+					"name": "jj🌌",
+					"id": 972845600457736200,
+					"id_str": "972845600457736192",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1149322931492679700,
+		"in_reply_to_status_id_str": "1149322931492679680",
+		"in_reply_to_user_id": 972845600457736200,
+		"in_reply_to_user_id_str": "972845600457736192",
+		"in_reply_to_screen_name": "han820725",
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 935,
+			"listed_count": 9,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@han820725 앗! 이렇게 아름다운 사진이 알림이 안 오다니... 트위터는 바보에요...&lt;-응?"
+	},
+	{
+		"created_at": "Sat Jul 13 06:11:42 +0000 2019",
+		"id": 1149909602068123600,
+		"id_str": "1149924344677785600",
+		"full_text": "7월 26일 금요일 8시 네스트 나다 \"Summer Dreams\" #옵스 #본디 #라쿠나 https://t.co/Rsr6KlElkA https://t.co/3WHnO28307",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옵스",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "본디",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "라쿠나",
+					"indices": [
+						45,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rsr6KlElkA",
+					"expanded_url": "https://nestnada.blog.me/221584691826",
+					"display_url": "nestnada.blog.me/221584691826",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149909590290550800,
+					"id_str": "1149909590290550785",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMrg0VUAEXk5b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMrg0VUAEXk5b.jpg",
+					"url": "https://t.co/3WHnO28307",
+					"display_url": "pic.twitter.com/3WHnO28307",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149909602068123648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149909590290550800,
+					"id_str": "1149909590290550785",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMrg0VUAEXk5b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMrg0VUAEXk5b.jpg",
+					"url": "https://t.co/3WHnO28307",
+					"display_url": "pic.twitter.com/3WHnO28307",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149909602068123648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 935,
+			"listed_count": 9,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월 26일 금요일 8시 네스트 나다 \"Summer Dreams\" #옵스 #본디 #라쿠나 https://t.co/Rsr6KlElkA https://t.co/3WHnO28307"
+	},
+	{
+		"created_at": "Sat Jul 13 05:19:54 +0000 2019",
+		"id": 1149909350149836800,
+		"id_str": "1149911308239814657",
+		"full_text": "[그린플러그드 동해 2019 최종라인업]\n\n슈퍼밴드 최종우승팀 '호피폴라', 준우승팀 '루시'까지 합류한 그린플러그드 동해 2019의 최종라인업을 소개합니다!\n\n글로벌 슈퍼밴드 호피폴라와 루시를 그린플러그드 동해 2019에서 만나보세요💙\n\n호피폴라 21일(일) / 루시 20일(토)\n공연 및 사인회 예정 https://t.co/7DiYVFLcTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149909290016075800,
+					"id_str": "1149909290016075777",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMaCNUcAEY41t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMaCNUcAEY41t.jpg",
+					"url": "https://t.co/7DiYVFLcTd",
+					"display_url": "pic.twitter.com/7DiYVFLcTd",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1149909350149836801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149909290016075800,
+					"id_str": "1149909290016075777",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMaCNUcAEY41t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMaCNUcAEY41t.jpg",
+					"url": "https://t.co/7DiYVFLcTd",
+					"display_url": "pic.twitter.com/7DiYVFLcTd",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1149909350149836801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149909289982545900,
+					"id_str": "1149909289982545921",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMaCFU0AEEBQo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMaCFU0AEEBQo.jpg",
+					"url": "https://t.co/7DiYVFLcTd",
+					"display_url": "pic.twitter.com/7DiYVFLcTd",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1149909350149836801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149909289995124700,
+					"id_str": "1149909289995124736",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMaCIUwAAAqu8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMaCIUwAAAqu8.jpg",
+					"url": "https://t.co/7DiYVFLcTd",
+					"display_url": "pic.twitter.com/7DiYVFLcTd",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1149909350149836801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1301,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149909289999274000,
+					"id_str": "1149909289999273985",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VMaCJUEAExrr1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VMaCJUEAExrr1.jpg",
+					"url": "https://t.co/7DiYVFLcTd",
+					"display_url": "pic.twitter.com/7DiYVFLcTd",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1149909350149836801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1301,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12790,
+			"friends_count": 165,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 최종라인업]\n\n슈퍼밴드 최종우승팀 '호피폴라', 준우승팀 '루시'까지 합류한 그린플러그드 동해 2019의 최종라인업을 소개합니다!\n\n글로벌 슈퍼밴드 호피폴라와 루시를 그린플러그드 동해 2019에서 만나보세요💙\n\n호피폴라 21일(일) / 루시 20일(토)\n공연 및 사인회 예정 https://t.co/7DiYVFLcTd"
+	},
+	{
 		"created_at": "Sat Jul 13 05:11:50 +0000 2019",
 		"id": 1149908232057475100,
 		"id_str": "1149909278121189377",
-		"full_text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚‍♂️ https://t.co/DpdfIFgDON",
+		"full_text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚♂️ https://t.co/DpdfIFgDON",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +1196,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚‍♂️ https://t.co/DpdfIFgDON"
+		"text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚♂️ https://t.co/DpdfIFgDON"
 	},
 	{
 		"created_at": "Sat Jul 13 05:11:42 +0000 2019",
