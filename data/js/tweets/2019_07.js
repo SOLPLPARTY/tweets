@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 05:11:50 +0000 2019",
+		"id": 1149908232057475100,
+		"id_str": "1149909278121189377",
+		"full_text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚‍♂️ https://t.co/DpdfIFgDON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149908135651377200,
+					"id_str": "1149908135651377152",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VLW13VAAAl5zA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VLW13VAAAl5zA.jpg",
+					"url": "https://t.co/DpdfIFgDON",
+					"display_url": "pic.twitter.com/DpdfIFgDON",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1149908232057475073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149908135651377200,
+					"id_str": "1149908135651377152",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VLW13VAAAl5zA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VLW13VAAAl5zA.jpg",
+					"url": "https://t.co/DpdfIFgDON",
+					"display_url": "pic.twitter.com/DpdfIFgDON",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1149908232057475073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149908135659728900,
+					"id_str": "1149908135659728896",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VLW15UcAA4Arc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VLW15UcAA4Arc.jpg",
+					"url": "https://t.co/DpdfIFgDON",
+					"display_url": "pic.twitter.com/DpdfIFgDON",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1149908232057475073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149908135651360800,
+					"id_str": "1149908135651360770",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VLW13UwAIl-77.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VLW13UwAIl-77.jpg",
+					"url": "https://t.co/DpdfIFgDON",
+					"display_url": "pic.twitter.com/DpdfIFgDON",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1149908232057475073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149908135655567400,
+					"id_str": "1149908135655567360",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VLW14U8AAQGxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VLW14U8AAQGxG.jpg",
+					"url": "https://t.co/DpdfIFgDON",
+					"display_url": "pic.twitter.com/DpdfIFgDON",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1149908232057475073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149566070933471200,
+		"in_reply_to_status_id_str": "1149566070933471233",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8073,
+			"friends_count": 614,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소 7월 팝업숍 [변영근: 정리의 마법] 둘째 날 오픈했습니다!\n\n변영근 작가의 원화를 가까이에서 감상하고 구입할 수 있는 절호의 기회! \n오늘은 어제와 또 다른 작품들이 디스플레이되어 있습니다.\n\n오늘(7.13) 저녁 7시까지 열려있습니다. 오셔서 원화 정리 마법사가 되어주세요🧚‍♂️ https://t.co/DpdfIFgDON"
+	},
+	{
+		"created_at": "Sat Jul 13 05:11:42 +0000 2019",
+		"id": 1149903733255311400,
+		"id_str": "1149909244113764353",
+		"full_text": "7월 25일 목요일 8시 네스트 나다 \"때론 나홀로 나다\" #에디전 (뷰티핸섬) #김경희 (에이프릴세컨드) #수수깡 (고수영+강규현 of 마리슈) https://t.co/ha4haTEAyt https://t.co/jlKehgZpBA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에디전",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "김경희",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "수수깡",
+					"indices": [
+						60,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ha4haTEAyt",
+					"expanded_url": "https://nestnada.blog.me/221584679583",
+					"display_url": "nestnada.blog.me/221584679583",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1149903706814419000,
+					"id_str": "1149903706814418949",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VHVDKUEAUwiy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VHVDKUEAUwiy2.jpg",
+					"url": "https://t.co/jlKehgZpBA",
+					"display_url": "pic.twitter.com/jlKehgZpBA",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149903733255311360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149903706814419000,
+					"id_str": "1149903706814418949",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D_VHVDKUEAUwiy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_VHVDKUEAUwiy2.jpg",
+					"url": "https://t.co/jlKehgZpBA",
+					"display_url": "pic.twitter.com/jlKehgZpBA",
+					"expanded_url": "https://twitter.com/nestNADA/status/1149903733255311360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 814959722,
+			"id_str": "814959722",
+			"name": "nestNADA",
+			"screen_name": "nestNADA",
+			"location": "",
+			"description": ":-D 마포구 서교동 336-5 2F https://t.co/noTrR8ZHHW",
+			"url": "https://t.co/6RRQpgKeAY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6RRQpgKeAY",
+							"expanded_url": "https://www.facebook.com/nadafest00",
+							"display_url": "facebook.com/nadafest00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/noTrR8ZHHW",
+							"expanded_url": "http://nestnada.blog.me/",
+							"display_url": "nestnada.blog.me",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 547,
+			"friends_count": 935,
+			"listed_count": 9,
+			"created_at": "Mon Sep 10 10:43:14 +0000 2012",
+			"favourites_count": 4304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004280376678739969/Vh6l4hNx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/814959722/1528273585",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "중구",
+			"full_name": "대한민국 중구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월 25일 목요일 8시 네스트 나다 \"때론 나홀로 나다\" #에디전 (뷰티핸섬) #김경희 (에이프릴세컨드) #수수깡 (고수영+강규현 of 마리슈) https://t.co/ha4haTEAyt https://t.co/jlKehgZpBA"
+	},
+	{
+		"created_at": "Sat Jul 13 04:18:23 +0000 2019",
+		"id": 1149887669679226900,
+		"id_str": "1149895827214819328",
+		"full_text": "1. [self cover] 불꽃놀이 👉 https://t.co/V6GXnvvsEI\n2. [self cover] 밤의 노래 👉 https://t.co/77tgSrFkEl\n3. [self cover] 마음 정원 👉 https://t.co/71uskYtPG3\n\n#랄라스윗 #셀프커버 #파란달이뜨는날에",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "셀프커버",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "파란달이뜨는날에",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V6GXnvvsEI",
+					"expanded_url": "https://youtu.be/hDz2o85jnd4",
+					"display_url": "youtu.be/hDz2o85jnd4",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/77tgSrFkEl",
+					"expanded_url": "https://youtu.be/M4N3z5kA1Aw",
+					"display_url": "youtu.be/M4N3z5kA1Aw",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/71uskYtPG3",
+					"expanded_url": "https://youtu.be/CEMUTALDDEY",
+					"display_url": "youtu.be/CEMUTALDDEY",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149887565056503800,
+		"in_reply_to_status_id_str": "1149887565056503808",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1. [self cover] 불꽃놀이 👉 https://t.co/V6GXnvvsEI\n2. [self cover] 밤의 노래 👉 https://t.co/77tgSrFkEl\n3. [self cover] 마음 정원 👉 https://t.co/71uskYtPG3\n\n#랄라스윗 #셀프커버 #파란달이뜨는날에"
+	},
+	{
 		"created_at": "Sat Jul 13 03:43:36 +0000 2019",
 		"id": 1149887071529689100,
 		"id_str": "1149887071529689088",
