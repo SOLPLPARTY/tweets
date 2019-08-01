@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 01 23:10:58 +0000 2019",
+		"id": 1152078058112745500,
+		"id_str": "1157066217338728448",
+		"full_text": "\"저와 같은 동양 여성들이 자기 의견을 세상에 당당하게 낼 기회를 만드는 게 제 목적이죠.\"\n림킴(김예림)은 은퇴하지 않았고, 꼭 하고 싶은 음악이 생겼습니다. \n\n림킴의 독특한 신곡 발표 방법 ▶ https://t.co/zy9PIQFua3 https://t.co/ug5AR6AhtB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zy9PIQFua3",
+					"expanded_url": "http://bitly.kr/Mt6TBd",
+					"display_url": "bitly.kr/Mt6TBd",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1152077752335388700,
+					"id_str": "1152077752335388673",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152077752335388673/pu/img/Am_jfn9bo23-Nqld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152077752335388673/pu/img/Am_jfn9bo23-Nqld.jpg",
+					"url": "https://t.co/ug5AR6AhtB",
+					"display_url": "pic.twitter.com/ug5AR6AhtB",
+					"expanded_url": "https://twitter.com/tumblbug/status/1152078058112745473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152077752335388700,
+					"id_str": "1152077752335388673",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152077752335388673/pu/img/Am_jfn9bo23-Nqld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152077752335388673/pu/img/Am_jfn9bo23-Nqld.jpg",
+					"url": "https://t.co/ug5AR6AhtB",
+					"display_url": "pic.twitter.com/ug5AR6AhtB",
+					"expanded_url": "https://twitter.com/tumblbug/status/1152078058112745473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							95,
+							52
+						],
+						"duration_millis": 139967,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152077752335388673/pu/vid/656x360/SvVnDfTJmVi3EfQg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152077752335388673/pu/vid/1314x720/fCDeSt1S8EzLZXP7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152077752335388673/pu/pl/HGlHMmOdchiBheDl.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152077752335388673/pu/vid/492x270/N6tCgPCTgWzT1Stv.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 241848832,
+			"id_str": "241848832",
+			"name": "텀블벅",
+			"screen_name": "tumblbug",
+			"location": "Seoul, Korea",
+			"description": "창조적인 시도를 위한 크라우드펀딩 플랫폼 텀블벅",
+			"url": "http://t.co/4aHI66GlaE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4aHI66GlaE",
+							"expanded_url": "http://tumblbug.com",
+							"display_url": "tumblbug.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 202279,
+			"friends_count": 127,
+			"listed_count": 213,
+			"created_at": "Sun Jan 23 08:34:44 +0000 2011",
+			"favourites_count": 2350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBE9CA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154639471117127680/os-lc2AG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154639471117127680/os-lc2AG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/241848832/1564122478",
+			"profile_link_color": "FA6462",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1260,
+		"favorite_count": 822,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"저와 같은 동양 여성들이 자기 의견을 세상에 당당하게 낼 기회를 만드는 게 제 목적이죠.\"\n림킴(김예림)은 은퇴하지 않았고, 꼭 하고 싶은 음악이 생겼습니다. \n\n림킴의 독특한 신곡 발표 방법 ▶ https://t.co/zy9PIQFua3 https://t.co/ug5AR6AhtB"
+	},
+	{
 		"created_at": "Thu Aug 01 19:36:25 +0000 2019",
 		"id": 1157012227142164500,
 		"id_str": "1157012227142164480",
