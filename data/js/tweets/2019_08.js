@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 01 16:18:16 +0000 2019",
+		"id": 1156959475099558000,
+		"id_str": "1156962361456152578",
+		"full_text": "#20190801\n#정준일 #연말콘서트\n11월 8,9,10/15,16,17 (총6회)\n#이화여대삼성홀\n#내일엠와이뮤직블로그에서\n#정준일 #나인 #디어클라우드 \n#낭만유랑악단 #권영찬 #위아영\n#하반기소식업로드예정\n#엠와이뮤직 #엠와이뉴스 https://t.co/5ZL6dyPNbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "연말콘서트",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "이화여대삼성홀",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "내일엠와이뮤직블로그에서",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"text": "정준일",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "낭만유랑악단",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "권영찬",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "위아영",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "하반기소식업로드예정",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "엠와이뮤직",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "엠와이뉴스",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156959459052146700,
+					"id_str": "1156959459052146689",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EA5Yf4hU0AEdLGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA5Yf4hU0AEdLGH.jpg",
+					"url": "https://t.co/5ZL6dyPNbr",
+					"display_url": "pic.twitter.com/5ZL6dyPNbr",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1156959475099557893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156959459052146700,
+					"id_str": "1156959459052146689",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EA5Yf4hU0AEdLGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA5Yf4hU0AEdLGH.jpg",
+					"url": "https://t.co/5ZL6dyPNbr",
+					"display_url": "pic.twitter.com/5ZL6dyPNbr",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1156959475099557893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2852,
+			"friends_count": 376,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20190801\n#정준일 #연말콘서트\n11월 8,9,10/15,16,17 (총6회)\n#이화여대삼성홀\n#내일엠와이뮤직블로그에서\n#정준일 #나인 #디어클라우드 \n#낭만유랑악단 #권영찬 #위아영\n#하반기소식업로드예정\n#엠와이뮤직 #엠와이뉴스 https://t.co/5ZL6dyPNbr"
+	},
+	{
 		"created_at": "Thu Aug 01 15:29:40 +0000 2019",
 		"id": 1156950128613298200,
 		"id_str": "1156950128613298176",
