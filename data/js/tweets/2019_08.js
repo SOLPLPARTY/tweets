@@ -1,10 +1,326 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 01 13:13:28 +0000 2019",
+		"id": 1156902572600332300,
+		"id_str": "1156915851523764226",
+		"full_text": "[재미공작소 8월 강독회 : 김겨울(@wintersoundbook) 작가와의 작고 가까운 테이블] 2019.8.23(금) PM 8. 8월 2일(금) 오후 1시 참가 신청 예약 링크 오픈 https://t.co/Boz3NTPJDn https://t.co/XBvpIQe0QO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wintersoundbook",
+					"name": "김겨울",
+					"id": 2576647922,
+					"id_str": "2576647922",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Boz3NTPJDn",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221602382860",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156902560650780700,
+					"id_str": "1156902560650780673",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4kv9dUYAEvTgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4kv9dUYAEvTgL.jpg",
+					"url": "https://t.co/XBvpIQe0QO",
+					"display_url": "pic.twitter.com/XBvpIQe0QO",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1156902572600332289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156902560650780700,
+					"id_str": "1156902560650780673",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4kv9dUYAEvTgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4kv9dUYAEvTgL.jpg",
+					"url": "https://t.co/XBvpIQe0QO",
+					"display_url": "pic.twitter.com/XBvpIQe0QO",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1156902572600332289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8076,
+			"friends_count": 613,
+			"listed_count": 113,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재미공작소 8월 강독회 : 김겨울(@wintersoundbook) 작가와의 작고 가까운 테이블] 2019.8.23(금) PM 8. 8월 2일(금) 오후 1시 참가 신청 예약 링크 오픈 https://t.co/Boz3NTPJDn https://t.co/XBvpIQe0QO"
+	},
+	{
+		"created_at": "Thu Aug 01 13:09:55 +0000 2019",
+		"id": 1156914959131062300,
+		"id_str": "1156914959131062275",
+		"full_text": "#포크라노스 #POCLANOS\n[Live] 덕호씨 (Deokhossi) - 꽃잎 (Petal) / Live Video\nhttps://t.co/Q90TtF2qZx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q90TtF2qZx",
+					"expanded_url": "https://youtu.be/r056jVd2X88",
+					"display_url": "youtu.be/r056jVd2X88",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Live] 덕호씨 (Deokhossi) - 꽃잎 (Petal) / Live Video\nhttps://t.co/Q90TtF2qZx"
+	},
+	{
 		"created_at": "Thu Aug 01 11:13:28 +0000 2019",
 		"id": 1156875287935606800,
 		"id_str": "1156885652950147073",
-		"full_text": "&lt;2019 EBS 헬로루키 with KOCCA&gt; 하반기 참가팀\n\n참가팀 9. 천용성\n\n하반기 현장 오디션 무대를 진득하게 적실 \n#순도1000%퓨어인디포크🧖‍♂️✨\n\n싱어송라이터 천용성이 노래하는 불편하지만 익숙한 우리의 삶 속으로 여러분을 초대합니다!🛤🚃\n\n하반기오디션 방청권 당첨자가 바로 내일 공개됩니다~💕 https://t.co/aPdScphvWo",
+		"full_text": "&lt;2019 EBS 헬로루키 with KOCCA&gt; 하반기 참가팀\n\n참가팀 9. 천용성\n\n하반기 현장 오디션 무대를 진득하게 적실 \n#순도1000%퓨어인디포크🧖♂️✨\n\n싱어송라이터 천용성이 노래하는 불편하지만 익숙한 우리의 삶 속으로 여러분을 초대합니다!🛤🚃\n\n하반기오디션 방청권 당첨자가 바로 내일 공개됩니다~💕 https://t.co/aPdScphvWo",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -211,7 +527,7 @@ Grailbird.data.tweets_2019_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "&lt;2019 EBS 헬로루키 with KOCCA&gt; 하반기 참가팀\n\n참가팀 9. 천용성\n\n하반기 현장 오디션 무대를 진득하게 적실 \n#순도1000%퓨어인디포크🧖‍♂️✨\n\n싱어송라이터 천용성이 노래하는 불편하지만 익숙한 우리의 삶 속으로 여러분을 초대합니다!🛤🚃\n\n하반기오디션 방청권 당첨자가 바로 내일 공개됩니다~💕 https://t.co/aPdScphvWo"
+		"text": "&lt;2019 EBS 헬로루키 with KOCCA&gt; 하반기 참가팀\n\n참가팀 9. 천용성\n\n하반기 현장 오디션 무대를 진득하게 적실 \n#순도1000%퓨어인디포크🧖♂️✨\n\n싱어송라이터 천용성이 노래하는 불편하지만 익숙한 우리의 삶 속으로 여러분을 초대합니다!🛤🚃\n\n하반기오디션 방청권 당첨자가 바로 내일 공개됩니다~💕 https://t.co/aPdScphvWo"
 	},
 	{
 		"created_at": "Thu Aug 01 10:43:29 +0000 2019",
