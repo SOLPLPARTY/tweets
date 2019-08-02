@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 02 03:44:09 +0000 2019",
+		"id": 1157134966376943600,
+		"id_str": "1157134966376943618",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n8월 2일 | 박소은, 연희다방, 타미즈&amp;개미친구\nhttps://t.co/0QqDfRPmD7\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						97,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QqDfRPmD7",
+					"expanded_url": "http://bit.ly/2Yll3Ef",
+					"display_url": "bit.ly/2Yll3Ef",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n8월 2일 | 박소은, 연희다방, 타미즈&amp;개미친구\nhttps://t.co/0QqDfRPmD7\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Fri Aug 02 03:26:24 +0000 2019",
+		"id": 1157130502874251300,
+		"id_str": "1157130502874251264",
+		"full_text": "#SMTOWN\nRaiden 레이든 'The Only (Feat. 아이린 of Red Velvet)' Recording Film\nhttps://t.co/qmDBDXFdU7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qmDBDXFdU7",
+					"expanded_url": "https://youtu.be/cSzlKRwvzu4",
+					"display_url": "youtu.be/cSzlKRwvzu4",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nRaiden 레이든 'The Only (Feat. 아이린 of Red Velvet)' Recording Film\nhttps://t.co/qmDBDXFdU7"
+	},
+	{
+		"created_at": "Fri Aug 02 03:19:56 +0000 2019",
+		"id": 1157123120274165800,
+		"id_str": "1157128874599358465",
+		"full_text": "Midi-mapped Kitten drumming https://t.co/at5OBjYxLu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157123084979073000,
+					"id_str": "1157123084979073024",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157123084979073024/pu/img/qpNooUeryFB3V7Dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157123084979073024/pu/img/qpNooUeryFB3V7Dt.jpg",
+					"url": "https://t.co/at5OBjYxLu",
+					"display_url": "pic.twitter.com/at5OBjYxLu",
+					"expanded_url": "https://twitter.com/SuperColorSuper/status/1157123120274165760/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157123084979073000,
+					"id_str": "1157123084979073024",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157123084979073024/pu/img/qpNooUeryFB3V7Dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157123084979073024/pu/img/qpNooUeryFB3V7Dt.jpg",
+					"url": "https://t.co/at5OBjYxLu",
+					"display_url": "pic.twitter.com/at5OBjYxLu",
+					"expanded_url": "https://twitter.com/SuperColorSuper/status/1157123120274165760/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 416,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							104,
+							105
+						],
+						"duration_millis": 18667,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157123084979073024/pu/vid/416x420/Jw_ukAb8Yb-xdN0n.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1157123084979073024/pu/pl/IvbRhLkVimXQFcsa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157123084979073024/pu/vid/320x322/yDAsnCHvMPENECcT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69635279,
+			"id_str": "69635279",
+			"name": "SUPER COLOR SUPER",
+			"screen_name": "SuperColorSuper",
+			"location": "South Korea",
+			"description": "",
+			"url": "https://t.co/OgZdHfNF4x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OgZdHfNF4x",
+							"expanded_url": "http://supercolorsuper.com",
+							"display_url": "supercolorsuper.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4721,
+			"friends_count": 132,
+			"listed_count": 175,
+			"created_at": "Fri Aug 28 16:52:57 +0000 2009",
+			"favourites_count": 2949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4F4A4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2274322223/5k8o9alz5qjs7kxirc6r_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2274322223/5k8o9alz5qjs7kxirc6r_normal.jpeg",
+			"profile_link_color": "5C0F94",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0F0F0F",
+			"profile_text_color": "6F736E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Midi-mapped Kitten drumming https://t.co/at5OBjYxLu"
+	},
+	{
+		"created_at": "Fri Aug 02 03:19:54 +0000 2019",
+		"id": 1157116727139827700,
+		"id_str": "1157128865678090240",
+		"full_text": "[그린플러그드 동해 2019 현장사진]\n\n'그린플러그드 동해 2019' 현장스케치 사진을 공개합니다. 함께했던 그 날의 추억을 사진으로 만나보세요!\n\n더 많은 사진은 그린플러그드 동해 공식 홈페이지-GALLERY에서 확인하실 수 있습니다💙\n\n사진 보러가기\n→ https://t.co/NwMQ8BuXvI https://t.co/cq7xnNB2fe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NwMQ8BuXvI",
+					"expanded_url": "http://gpdfestival.com/gallery",
+					"display_url": "gpdfestival.com/gallery",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157116716490485800,
+					"id_str": "1157116716490485760",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7nheIU8AAaEWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7nheIU8AAaEWu.jpg",
+					"url": "https://t.co/cq7xnNB2fe",
+					"display_url": "pic.twitter.com/cq7xnNB2fe",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1157116727139827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157116716490485800,
+					"id_str": "1157116716490485760",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7nheIU8AAaEWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7nheIU8AAaEWu.jpg",
+					"url": "https://t.co/cq7xnNB2fe",
+					"display_url": "pic.twitter.com/cq7xnNB2fe",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1157116727139827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157116716486316000,
+					"id_str": "1157116716486316033",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7nheHVUAEA_mO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7nheHVUAEA_mO.jpg",
+					"url": "https://t.co/cq7xnNB2fe",
+					"display_url": "pic.twitter.com/cq7xnNB2fe",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1157116727139827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157116716490432500,
+					"id_str": "1157116716490432512",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7nheIUIAAnqqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7nheIUIAAnqqc.jpg",
+					"url": "https://t.co/cq7xnNB2fe",
+					"display_url": "pic.twitter.com/cq7xnNB2fe",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1157116727139827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157116716486279200,
+					"id_str": "1157116716486279169",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7nheHUwAElOMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7nheHUwAElOMk.jpg",
+					"url": "https://t.co/cq7xnNB2fe",
+					"display_url": "pic.twitter.com/cq7xnNB2fe",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1157116727139827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12737,
+			"friends_count": 165,
+			"listed_count": 263,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1564114079",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 현장사진]\n\n'그린플러그드 동해 2019' 현장스케치 사진을 공개합니다. 함께했던 그 날의 추억을 사진으로 만나보세요!\n\n더 많은 사진은 그린플러그드 동해 공식 홈페이지-GALLERY에서 확인하실 수 있습니다💙\n\n사진 보러가기\n→ https://t.co/NwMQ8BuXvI https://t.co/cq7xnNB2fe"
+	},
+	{
 		"created_at": "Fri Aug 02 03:11:19 +0000 2019",
 		"id": 1157126703371706400,
 		"id_str": "1157126703371706369",
