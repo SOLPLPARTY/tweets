@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 02 15:49:35 +0000 2019",
+		"id": 1156573348605890600,
+		"id_str": "1157317529825452032",
+		"full_text": "예지가 씨피카에게, 씨피카가 예지에게 물었다. https://t.co/WoOCdGemu0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WoOCdGemu0",
+					"expanded_url": "https://hypebeast.kr/2019/7/yaeji-cifika-double-interview-raingurl-passionfruit-dooroogo-momom?utm_term=Autofeed&utm_medium=social&utm_campagin=twitter_post&utm_source=Twitter#Echobox=1564581165",
+					"display_url": "hypebeast.kr/2019/7/yaeji-c…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3098656206,
+			"id_str": "3098656206",
+			"name": "HYPEBEAST KR",
+			"screen_name": "hypebeastkr",
+			"location": "",
+			"description": "최신 패션, 음악 그리고 컬처 뉴스를 받아보세요.\n인스타그램: @hypebeastkr",
+			"url": "https://t.co/CJK98ip61t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJK98ip61t",
+							"expanded_url": "https://hypebeast.kr/",
+							"display_url": "hypebeast.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 47,
+			"listed_count": 5,
+			"created_at": "Fri Mar 20 03:37:37 +0000 2015",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990844951561879552/9mQQRgIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990844951561879552/9mQQRgIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3098656206/1555905637",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예지가 씨피카에게, 씨피카가 예지에게 물었다. https://t.co/WoOCdGemu0"
+	},
+	{
+		"created_at": "Fri Aug 02 15:48:48 +0000 2019",
+		"id": 1156414181572305000,
+		"id_str": "1157317331883659264",
+		"full_text": "나는 종종 누군가의 마음 속에 놓여진 작은 방을 떠올리곤 한다. ‘Lim Kim’의 방은 얼마나 많은 상념이 머물다 갈까. 알 수 없다. 다만, 분명한 것은 우리는 그 방으로부터 촘촘히 연결될 것이다.\n\n&lt;뮤지션 김예림: 당신의 새로운 이름&gt;\nhttps://t.co/kl9TYY8u1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kl9TYY8u1Z",
+					"expanded_url": "http://bit.ly/2yvFY85",
+					"display_url": "bit.ly/2yvFY85",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720861580598988800,
+			"id_str": "720861580598988801",
+			"name": "핀치 Pinch",
+			"screen_name": "thepin_ch",
+			"location": "더 많은 여성의 말, 더 나은 여성의 삶",
+			"description": "여성 생활 미디어, 핀치 Pinch",
+			"url": "https://t.co/OIyjhlQ1dI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OIyjhlQ1dI",
+							"expanded_url": "https://thepin.ch",
+							"display_url": "thepin.ch",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13553,
+			"friends_count": 1,
+			"listed_count": 79,
+			"created_at": "Fri Apr 15 06:29:28 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115904825496145926/vEu5kOen_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115904825496145926/vEu5kOen_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720861580598988801/1554864918",
+			"profile_link_color": "273100",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 종종 누군가의 마음 속에 놓여진 작은 방을 떠올리곤 한다. ‘Lim Kim’의 방은 얼마나 많은 상념이 머물다 갈까. 알 수 없다. 다만, 분명한 것은 우리는 그 방으로부터 촘촘히 연결될 것이다.\n\n&lt;뮤지션 김예림: 당신의 새로운 이름&gt;\nhttps://t.co/kl9TYY8u1Z"
+	},
+	{
 		"created_at": "Fri Aug 02 15:16:05 +0000 2019",
 		"id": 1157309097991164000,
 		"id_str": "1157309097991163909",
