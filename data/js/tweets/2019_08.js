@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 11:13:32 +0000 2019",
+		"id": 1157604647214833700,
+		"id_str": "1157610444841988097",
+		"full_text": "#캐스퍼라디오 #월드뮤직 \n다음주 월요일 &lt;월드뮤직@Kr&gt; 에는 박준우셰프님과 함께 🇫🇷샹송 음악🇫🇷에 대해 이야기를 나누어 봅니다😊 \n8월 5일 6:30PM! 함께해주세요👏🏻\n⠀\n#생각의여름 #송현민 #박준우 #샹송 #프랑스음악 #캐스퍼라디오 #casperradio https://t.co/Xeu5KfQHTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "월드뮤직",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "생각의여름",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "송현민",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "박준우",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "샹송",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "프랑스음악",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "casperradio",
+					"indices": [
+						143,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KR",
+					"name": "kr",
+					"id": 3078001,
+					"id_str": "3078001",
+					"indices": [
+						31,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157604642009653200,
+					"id_str": "1157604642009653248",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCjSeVUIAAnk7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCjSeVUIAAnk7_.jpg",
+					"url": "https://t.co/Xeu5KfQHTe",
+					"display_url": "pic.twitter.com/Xeu5KfQHTe",
+					"expanded_url": "https://twitter.com/casperradio_/status/1157604647214833666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157604642009653200,
+					"id_str": "1157604642009653248",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCjSeVUIAAnk7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCjSeVUIAAnk7_.jpg",
+					"url": "https://t.co/Xeu5KfQHTe",
+					"display_url": "pic.twitter.com/Xeu5KfQHTe",
+					"expanded_url": "https://twitter.com/casperradio_/status/1157604647214833666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 951,
+			"friends_count": 7,
+			"listed_count": 1,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼라디오 #월드뮤직 \n다음주 월요일 &lt;월드뮤직@Kr&gt; 에는 박준우셰프님과 함께 🇫🇷샹송 음악🇫🇷에 대해 이야기를 나누어 봅니다😊 \n8월 5일 6:30PM! 함께해주세요👏🏻\n⠀\n#생각의여름 #송현민 #박준우 #샹송 #프랑스음악 #캐스퍼라디오 #casperradio https://t.co/Xeu5KfQHTe"
+	},
+	{
 		"created_at": "Sat Aug 03 09:13:27 +0000 2019",
 		"id": 1157575622589182000,
 		"id_str": "1157580227603775488",
