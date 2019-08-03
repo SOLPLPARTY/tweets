@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 05:13:35 +0000 2019",
+		"id": 1157513094425219000,
+		"id_str": "1157519860638912512",
+		"full_text": "&lt;모사세（모트의 여름방학 1편／2편）&gt;\n📍 일시 : 8/09(금)~8/10(토) \n📍 장소 : 홍대 벨로주\n📍 티켓가 : 예매 55,000/ 현매 60,000\n📍 예매 링크 : https://t.co/Od0Orn8M6m https://t.co/CvaVXENHAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Od0Orn8M6m",
+					"expanded_url": "https://c11.kr/92ed",
+					"display_url": "c11.kr/92ed",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157513089564020700,
+					"id_str": "1157513089564020736",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EBBQBa5UEAA4aUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBBQBa5UEAA4aUj.jpg",
+					"url": "https://t.co/CvaVXENHAV",
+					"display_url": "pic.twitter.com/CvaVXENHAV",
+					"expanded_url": "https://twitter.com/xindieticket/status/1157513094425219072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 528,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 528,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157513089564020700,
+					"id_str": "1157513089564020736",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EBBQBa5UEAA4aUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBBQBa5UEAA4aUj.jpg",
+					"url": "https://t.co/CvaVXENHAV",
+					"display_url": "pic.twitter.com/CvaVXENHAV",
+					"expanded_url": "https://twitter.com/xindieticket/status/1157513094425219072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 528,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 528,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1157513080881873000,
+		"in_reply_to_status_id_str": "1157513080881872896",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2677,
+			"friends_count": 2575,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;모사세（모트의 여름방학 1편／2편）&gt;\n📍 일시 : 8/09(금)~8/10(토) \n📍 장소 : 홍대 벨로주\n📍 티켓가 : 예매 55,000/ 현매 60,000\n📍 예매 링크 : https://t.co/Od0Orn8M6m https://t.co/CvaVXENHAV"
+	},
+	{
 		"created_at": "Sat Aug 03 03:18:26 +0000 2019",
 		"id": 1157489802066841600,
 		"id_str": "1157490882997825536",
