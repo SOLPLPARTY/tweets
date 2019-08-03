@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 13:13:29 +0000 2019",
+		"id": 1157634482553274400,
+		"id_str": "1157640635106701313",
+		"full_text": "늦기 전에 서둘러 주세요❗️\n\n#공중그늘 #새소년 #설 #위아더나잇 \n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수\n#SESONEON #황소윤 #유수 #박현진\n#SURL #설호승 #이한빈 #오명석\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공중그늘",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "새소년",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						28,
+						30
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "GONGJOONGGEUNEUL",
+					"indices": [
+						64,
+						81
+					]
+				},
+				{
+					"text": "경성수",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이장오",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이철민",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이해인",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "동수",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "황소윤",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "유수",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "박현진",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "설호승",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이한빈",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "오명석",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "WEARETHENIGHT",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "함병선",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "함필립",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "황성수",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "정원중",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "김보람",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157634374927470600,
+		"in_reply_to_status_id_str": "1157634374927470593",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3726,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "늦기 전에 서둘러 주세요❗️\n\n#공중그늘 #새소년 #설 #위아더나잇 \n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수\n#SESONEON #황소윤 #유수 #박현진\n#SURL #설호승 #이한빈 #오명석\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람"
+	},
+	{
 		"created_at": "Sat Aug 03 12:10:29 +0000 2019",
 		"id": 1157624780239048700,
 		"id_str": "1157624780239048705",
