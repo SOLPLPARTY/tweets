@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 04:13:31 +0000 2019",
+		"id": 1157854364242833400,
+		"id_str": "1157867135584145408",
+		"full_text": "AMAZING AUGUST 🚀\n💜8월의 라이브홀 주요일정 췤 !l\n\n#사운드풀페스타\n#위위\n#검정치마\n#뮤직앤시티페스티벌\n#민트페스타\n#라이브클럽데이 https://t.co/5aDM452yqF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드풀페스타",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "검정치마",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "뮤직앤시티페스티벌",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "민트페스타",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157854355266998300,
+					"id_str": "1157854355266998272",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGGZstUEAAe9Gw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGGZstUEAAe9Gw.jpg",
+					"url": "https://t.co/5aDM452yqF",
+					"display_url": "pic.twitter.com/5aDM452yqF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157854364242833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157854355266998300,
+					"id_str": "1157854355266998272",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGGZstUEAAe9Gw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGGZstUEAAe9Gw.jpg",
+					"url": "https://t.co/5aDM452yqF",
+					"display_url": "pic.twitter.com/5aDM452yqF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157854364242833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157854355271213000,
+					"id_str": "1157854355271213056",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGGZsuUYAAY7Mb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGGZsuUYAAY7Mb.jpg",
+					"url": "https://t.co/5aDM452yqF",
+					"display_url": "pic.twitter.com/5aDM452yqF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157854364242833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157854355271237600,
+					"id_str": "1157854355271237632",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGGZsuUwAA8Awy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGGZsuUwAA8Awy.jpg",
+					"url": "https://t.co/5aDM452yqF",
+					"display_url": "pic.twitter.com/5aDM452yqF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157854364242833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157854355271196700,
+					"id_str": "1157854355271196674",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGGZsuUIAIEicr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGGZsuUIAIEicr.jpg",
+					"url": "https://t.co/5aDM452yqF",
+					"display_url": "pic.twitter.com/5aDM452yqF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157854364242833408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19463,
+			"friends_count": 2020,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AMAZING AUGUST 🚀\n💜8월의 라이브홀 주요일정 췤 !l\n\n#사운드풀페스타\n#위위\n#검정치마\n#뮤직앤시티페스티벌\n#민트페스타\n#라이브클럽데이 https://t.co/5aDM452yqF"
+	},
+	{
+		"created_at": "Sun Aug 04 04:13:27 +0000 2019",
+		"id": 1157853145730412500,
+		"id_str": "1157867118328786944",
+		"full_text": "#OuiOui 1st Concert 'HANA'\n위위 첫 번째 단독 콘서트 '하나' \n.\n💟 2019년 8월 25일 일요일 오후 6시\n💟 홍대 KT&amp;G 상상마당 라이브홀에서.\n💟 예매는 8월 1일 오후 8시부터 멜론티켓에서 진행됩니다. .\n💟 위위의 전곡 라이브 및 미발표곡 감상 공연 후 특별한 \"만남\" 또한 예정되어 있습니다. https://t.co/grbqDtxhTn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157853103330222000,
+					"id_str": "1157853103330222080",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157853103330222080/pu/img/hTX0aSa6kxZw2xNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157853103330222080/pu/img/hTX0aSa6kxZw2xNH.jpg",
+					"url": "https://t.co/grbqDtxhTn",
+					"display_url": "pic.twitter.com/grbqDtxhTn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157853145730412546/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157853103330222000,
+					"id_str": "1157853103330222080",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157853103330222080/pu/img/hTX0aSa6kxZw2xNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157853103330222080/pu/img/hTX0aSa6kxZw2xNH.jpg",
+					"url": "https://t.co/grbqDtxhTn",
+					"display_url": "pic.twitter.com/grbqDtxhTn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1157853145730412546/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 17524,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157853103330222080/pu/vid/720x900/aZbQ2sdVnCg9p0_Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157853103330222080/pu/vid/320x400/WXyqcxP_QVzBuCeP.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157853103330222080/pu/vid/360x450/O0ZS9z2blwFiIrBy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1157853103330222080/pu/pl/j96pAWd45TiBklZU.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19463,
+			"friends_count": 2020,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OuiOui 1st Concert 'HANA'\n위위 첫 번째 단독 콘서트 '하나' \n.\n💟 2019년 8월 25일 일요일 오후 6시\n💟 홍대 KT&amp;G 상상마당 라이브홀에서.\n💟 예매는 8월 1일 오후 8시부터 멜론티켓에서 진행됩니다. .\n💟 위위의 전곡 라이브 및 미발표곡 감상 공연 후 특별한 \"만남\" 또한 예정되어 있습니다. https://t.co/grbqDtxhTn"
+	},
+	{
 		"created_at": "Sun Aug 04 03:13:27 +0000 2019",
 		"id": 1157848706030289000,
 		"id_str": "1157852019484483584",
