@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 12:18:16 +0000 2019",
+		"id": 1158342590065864700,
+		"id_str": "1158351514345312257",
+		"full_text": "#나인NINE9 #디어클라우드\n다음주 #인디뮤직페스타 #올림픽공원뮤즈라이브홀\n무료 공연이지만 멜론티켓에서 예매 필수!!\n#8월7일저녁7시티켓오픈\n16일 #램씨 #준 #용주 #소란\n17일 #나인 #모트 #스텔라장 #치즈\n#한국콘텐츠진흥원 #국민체육진흥공단 https://t.co/dRHQHMmACE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "인디뮤직페스타",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "올림픽공원뮤즈라이브홀",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "8월7일저녁7시티켓오픈",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "램씨",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "준",
+					"indices": [
+						89,
+						91
+					]
+				},
+				{
+					"text": "용주",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "국민체육진흥공단",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158342582327398400,
+					"id_str": "1158342582327398401",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNCcQPVUAEwAXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNCcQPVUAEwAXU.jpg",
+					"url": "https://t.co/dRHQHMmACE",
+					"display_url": "pic.twitter.com/dRHQHMmACE",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1158342590065864705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158342582327398400,
+					"id_str": "1158342582327398401",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNCcQPVUAEwAXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNCcQPVUAEwAXU.jpg",
+					"url": "https://t.co/dRHQHMmACE",
+					"display_url": "pic.twitter.com/dRHQHMmACE",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1158342590065864705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2851,
+			"friends_count": 376,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 13693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나인NINE9 #디어클라우드\n다음주 #인디뮤직페스타 #올림픽공원뮤즈라이브홀\n무료 공연이지만 멜론티켓에서 예매 필수!!\n#8월7일저녁7시티켓오픈\n16일 #램씨 #준 #용주 #소란\n17일 #나인 #모트 #스텔라장 #치즈\n#한국콘텐츠진흥원 #국민체육진흥공단 https://t.co/dRHQHMmACE"
+	},
+	{
 		"created_at": "Mon Aug 05 12:13:27 +0000 2019",
 		"id": 1158346206268944400,
 		"id_str": "1158350302699040770",
