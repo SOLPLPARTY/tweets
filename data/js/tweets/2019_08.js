@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 01:19:54 +0000 2019",
+		"id": 1158543397432582100,
+		"id_str": "1158548218478825472",
+		"full_text": "🌈추가 좌석 예매 오픈 안내🌈\nU2 첫 내한공연 – The Joshua Tree Tour 2019 \n✔예매 오픈: 8월 13일 (화) 낮 12시~ \n✔예매처: 예스24 \n✔추가 좌석 정보\n:1층 플로어 VIP석 330,000원 (VAT 별도)\n:단차를 둔 계단형 스탠드로 제작\n✔공연 일시: 2019년 12월 8일 (일) 7PM\n✔공연 장소: 고척스카이돔 https://t.co/09OplkHUTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158543395155042300,
+					"id_str": "1158543395155042304",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EBP5FGUXYAA4dop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBP5FGUXYAA4dop.jpg",
+					"url": "https://t.co/09OplkHUTo",
+					"display_url": "pic.twitter.com/09OplkHUTo",
+					"expanded_url": "https://twitter.com/livenationkr/status/1158543397432582146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158543395155042300,
+					"id_str": "1158543395155042304",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EBP5FGUXYAA4dop.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBP5FGUXYAA4dop.jpg",
+					"url": "https://t.co/09OplkHUTo",
+					"display_url": "pic.twitter.com/09OplkHUTo",
+					"expanded_url": "https://twitter.com/livenationkr/status/1158543397432582146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Metallica, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6350,
+			"friends_count": 232,
+			"listed_count": 26,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌈추가 좌석 예매 오픈 안내🌈\nU2 첫 내한공연 – The Joshua Tree Tour 2019 \n✔예매 오픈: 8월 13일 (화) 낮 12시~ \n✔예매처: 예스24 \n✔추가 좌석 정보\n:1층 플로어 VIP석 330,000원 (VAT 별도)\n:단차를 둔 계단형 스탠드로 제작\n✔공연 일시: 2019년 12월 8일 (일) 7PM\n✔공연 장소: 고척스카이돔 https://t.co/09OplkHUTo"
+	},
+	{
 		"created_at": "Mon Aug 05 14:59:35 +0000 2019",
 		"id": 1158392108002218000,
 		"id_str": "1158392108002217984",
