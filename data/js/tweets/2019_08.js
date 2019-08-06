@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 17:13:35 +0000 2019",
+		"id": 1158785359443943400,
+		"id_str": "1158788218076180485",
+		"full_text": "🥳🎊\n‘하반기 헬로루키’ 5팀의 &lt;EBS 스페이스 공감&gt; 공연은 8월 29일 EBS 스페이스홀에서 만나보실 수 있습니다.\n⠀⠀⠀\n오늘 오디션에서 치열한 경연을 치른 뮤지션 11팀 모두 고생하셨습니다! 헬로루키가 계속 응원하겠습니다!!! 🎈⭐️\n⠀⠀⠀\n⠀\n⠀⠀⠀\n⠀⠀⠀\n#헬로루키 #하반기오디션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헬로루키",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "하반기오디션",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5204,
+			"friends_count": 4708,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🥳🎊\n‘하반기 헬로루키’ 5팀의 &lt;EBS 스페이스 공감&gt; 공연은 8월 29일 EBS 스페이스홀에서 만나보실 수 있습니다.\n⠀⠀⠀\n오늘 오디션에서 치열한 경연을 치른 뮤지션 11팀 모두 고생하셨습니다! 헬로루키가 계속 응원하겠습니다!!! 🎈⭐️\n⠀⠀⠀\n⠀\n⠀⠀⠀\n⠀⠀⠀\n#헬로루키 #하반기오디션"
+	},
+	{
 		"created_at": "Tue Aug 06 15:19:54 +0000 2019",
 		"id": 1158754974379192300,
 		"id_str": "1158759611828191233",
