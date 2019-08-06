@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 12:13:27 +0000 2019",
+		"id": 1158709419070247000,
+		"id_str": "1158712690791079941",
+		"full_text": "* 선착순으로 티켓을 배부합니다 (열광석 → 일반석)\n* 티켓 교환 시 신분증을 지참해주세요.\n\n#ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수\n#SESONEON #황소윤 #유수 #박현진\n#SURL #설호승 #이한빈 #오명석\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "GONGJOONGGEUNEUL",
+					"indices": [
+						68,
+						85
+					]
+				},
+				{
+					"text": "경성수",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이장오",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "이철민",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "이해인",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "동수",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "황소윤",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "유수",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "박현진",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "설호승",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "이한빈",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "오명석",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "WEARETHENIGHT",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "함병선",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "함필립",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "황성수",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "정원중",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "김보람",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158709093265072000,
+		"in_reply_to_status_id_str": "1158709093265072128",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3727,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 선착순으로 티켓을 배부합니다 (열광석 → 일반석)\n* 티켓 교환 시 신분증을 지참해주세요.\n\n#ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수\n#SESONEON #황소윤 #유수 #박현진\n#SURL #설호승 #이한빈 #오명석\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람"
+	},
+	{
+		"created_at": "Tue Aug 06 11:34:17 +0000 2019",
+		"id": 1158702831232327700,
+		"id_str": "1158702831232327680",
+		"full_text": "#디지페디 #DIGIPEDI\nX1X - 이달의 소녀 (LOONA)\nhttps://t.co/ROKiJjC705",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디지페디",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "DIGIPEDI",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROKiJjC705",
+					"expanded_url": "http://bit.ly/2Kx83BC",
+					"display_url": "bit.ly/2Kx83BC",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#디지페디 #DIGIPEDI\nX1X - 이달의 소녀 (LOONA)\nhttps://t.co/ROKiJjC705"
+	},
+	{
 		"created_at": "Tue Aug 06 11:17:13 +0000 2019",
 		"id": 1158698538534166500,
 		"id_str": "1158698538534166528",
