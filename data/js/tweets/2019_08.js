@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 16:13:27 +0000 2019",
+		"id": 1159120723677339600,
+		"id_str": "1159135475812184070",
+		"full_text": "우비쓴 주찬이 보고싶은사람\nhttps://t.co/tUrq7Sp9Pe\n\n#골든차일드 #주찬 #홍설수설 #goldenchild https://t.co/i4bemmVGY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "주찬",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "홍설수설",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "goldenchild",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tUrq7Sp9Pe",
+					"expanded_url": "https://www.instagram.com/p/B03geKQlGr0/?igshid=enlkxevi26if",
+					"display_url": "instagram.com/p/B03geKQlGr0/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159120716282749000,
+					"id_str": "1159120716282748928",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EBYGJnHUYAAYi44.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBYGJnHUYAAYi44.jpg",
+					"url": "https://t.co/i4bemmVGY0",
+					"display_url": "pic.twitter.com/i4bemmVGY0",
+					"expanded_url": "https://twitter.com/casperradio_/status/1159120723677339648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159120716282749000,
+					"id_str": "1159120716282748928",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EBYGJnHUYAAYi44.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBYGJnHUYAAYi44.jpg",
+					"url": "https://t.co/i4bemmVGY0",
+					"display_url": "pic.twitter.com/i4bemmVGY0",
+					"expanded_url": "https://twitter.com/casperradio_/status/1159120723677339648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981,
+			"friends_count": 7,
+			"listed_count": 1,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우비쓴 주찬이 보고싶은사람\nhttps://t.co/tUrq7Sp9Pe\n\n#골든차일드 #주찬 #홍설수설 #goldenchild https://t.co/i4bemmVGY0"
+	},
+	{
 		"created_at": "Wed Aug 07 14:17:15 +0000 2019",
 		"id": 1159106232503931000,
 		"id_str": "1159106232503930880",
