@@ -1,6 +1,755 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 19:16:03 +0000 2019",
+		"id": 1157121563927335000,
+		"id_str": "1159181429432958976",
+		"full_text": "\"빈들에 마른 풀 같다 해도 꽃으로 다시 태어날 거예요.\"\n영화 김복동 OST '꽃'의 첫 소절입니다. 가수 윤미래 씨가 재능기부로 이 노래를 불러주었는데요. 한 번 들으면 머릿 속에서 무한 재생되는 '꽃', 여러분께 선보입니다.\n\n📽영화 공식사이트: https://t.co/8qsvkgXp1R https://t.co/YRq2jwjUk3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8qsvkgXp1R",
+					"expanded_url": "https://film.newstapa.org/kimbokdong",
+					"display_url": "film.newstapa.org/kimbokdong",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157119918099144700,
+					"id_str": "1157119918099144705",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7rr-hUEAA022N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7rr-hUEAA022N.jpg",
+					"url": "https://t.co/YRq2jwjUk3",
+					"display_url": "pic.twitter.com/YRq2jwjUk3",
+					"expanded_url": "https://twitter.com/newstapa/status/1157121563927334913/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157119918099144700,
+					"id_str": "1157119918099144705",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EA7rr-hUEAA022N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA7rr-hUEAA022N.jpg",
+					"url": "https://t.co/YRq2jwjUk3",
+					"display_url": "pic.twitter.com/YRq2jwjUk3",
+					"expanded_url": "https://twitter.com/newstapa/status/1157121563927334913/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 187312,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157119918099144705/vid/480x270/HkpyPvwZHWWzi3Tp.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157119918099144705/vid/1280x720/xE4ja_iMW9oAKU57.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1157119918099144705/pl/Wlw4aJubti0jm4kF.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157119918099144705/vid/640x360/s9UwrnIco3KC1VdB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455462137,
+			"id_str": "455462137",
+			"name": "뉴스타파(Newstapa)-KCIJ",
+			"screen_name": "newstapa",
+			"location": "Seoul, South Korea",
+			"description": "뉴스타파 공식 트위터 | 한국탐사저널리즘센터 (Korea Center for Investigative Journalism) | 유튜브 https://t.co/zjWJscllf1 | 후원 : https://t.co/9m363UnVkl",
+			"url": "https://t.co/NlPdtlmDst",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NlPdtlmDst",
+							"expanded_url": "http://newstapa.org",
+							"display_url": "newstapa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zjWJscllf1",
+							"expanded_url": "http://www.youtube.com/newstapa",
+							"display_url": "youtube.com/newstapa",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/9m363UnVkl",
+							"expanded_url": "https://newstapa.org/donate",
+							"display_url": "newstapa.org/donate",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 608868,
+			"friends_count": 1988,
+			"listed_count": 3561,
+			"created_at": "Thu Jan 05 04:14:47 +0000 2012",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672243320316293121/2PeFhwrC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672243320316293121/2PeFhwrC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/455462137/1564382097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D1D1D1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"빈들에 마른 풀 같다 해도 꽃으로 다시 태어날 거예요.\"\n영화 김복동 OST '꽃'의 첫 소절입니다. 가수 윤미래 씨가 재능기부로 이 노래를 불러주었는데요. 한 번 들으면 머릿 속에서 무한 재생되는 '꽃', 여러분께 선보입니다.\n\n📽영화 공식사이트: https://t.co/8qsvkgXp1R https://t.co/YRq2jwjUk3"
+	},
+	{
+		"created_at": "Wed Aug 07 19:15:52 +0000 2019",
+		"id": 1157818433473581000,
+		"id_str": "1159181379935932417",
+		"full_text": "드라마 도깨비, 태양의후예 OST를 만든 로코베리가 영화 김복동의 OST '꽃'을 프로듀싱했는데요. 김복동의 마음에 참여하는 마음으로 만든 '꽃'. 쓸쓸하지만 희망찬 이 노래는 도대체 어떻게 만든 걸까요?\n\n📽 영화 공식 홈페이지 : https://t.co/8qsvkhf0qr https://t.co/4zhSfN5gIi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8qsvkhf0qr",
+					"expanded_url": "https://film.newstapa.org/kimbokdong",
+					"display_url": "film.newstapa.org/kimbokdong",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157275682851836000,
+					"id_str": "1157275682851835904",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EA948A8UcAIzX6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA948A8UcAIzX6X.jpg",
+					"url": "https://t.co/4zhSfN5gIi",
+					"display_url": "pic.twitter.com/4zhSfN5gIi",
+					"expanded_url": "https://twitter.com/newstapa/status/1157818433473581056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157275682851836000,
+					"id_str": "1157275682851835904",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EA948A8UcAIzX6X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA948A8UcAIzX6X.jpg",
+					"url": "https://t.co/4zhSfN5gIi",
+					"display_url": "pic.twitter.com/4zhSfN5gIi",
+					"expanded_url": "https://twitter.com/newstapa/status/1157818433473581056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 205272,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1157275682851835904/pl/YQM8Ex4DTwftVSta.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157275682851835904/vid/480x270/ORwyDaJCV5VWEVpc.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157275682851835904/vid/1280x720/-0hWrYI_XYOi3kRz.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157275682851835904/vid/640x360/0E2DtlpaAn6L_UjF.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455462137,
+			"id_str": "455462137",
+			"name": "뉴스타파(Newstapa)-KCIJ",
+			"screen_name": "newstapa",
+			"location": "Seoul, South Korea",
+			"description": "뉴스타파 공식 트위터 | 한국탐사저널리즘센터 (Korea Center for Investigative Journalism) | 유튜브 https://t.co/zjWJscllf1 | 후원 : https://t.co/9m363UnVkl",
+			"url": "https://t.co/NlPdtlmDst",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NlPdtlmDst",
+							"expanded_url": "http://newstapa.org",
+							"display_url": "newstapa.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zjWJscllf1",
+							"expanded_url": "http://www.youtube.com/newstapa",
+							"display_url": "youtube.com/newstapa",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/9m363UnVkl",
+							"expanded_url": "https://newstapa.org/donate",
+							"display_url": "newstapa.org/donate",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 608868,
+			"friends_count": 1988,
+			"listed_count": 3561,
+			"created_at": "Thu Jan 05 04:14:47 +0000 2012",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFCFCF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672243320316293121/2PeFhwrC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672243320316293121/2PeFhwrC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/455462137/1564382097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D1D1D1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 도깨비, 태양의후예 OST를 만든 로코베리가 영화 김복동의 OST '꽃'을 프로듀싱했는데요. 김복동의 마음에 참여하는 마음으로 만든 '꽃'. 쓸쓸하지만 희망찬 이 노래는 도대체 어떻게 만든 걸까요?\n\n📽 영화 공식 홈페이지 : https://t.co/8qsvkhf0qr https://t.co/4zhSfN5gIi"
+	},
+	{
+		"created_at": "Wed Aug 07 19:14:12 +0000 2019",
+		"id": 1158548553108639700,
+		"id_str": "1159180963114450944",
+		"full_text": "국내 음원싸이트 \n\n멜론 : https://t.co/Iv4W7Bsr8j\n네이버뮤직 : https://t.co/RIMEx1NNOU\n벅스 : https://t.co/NjzEcfxaE7\n엠넷 : https://t.co/kOydJK2c6O\n소리바다 : https://t.co/XWZ1SdxdRW\n지니뮤직 : https://t.co/ettBcGzmNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iv4W7Bsr8j",
+					"expanded_url": "https://bit.ly/319jfLv",
+					"display_url": "bit.ly/319jfLv",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/RIMEx1NNOU",
+					"expanded_url": "https://bit.ly/2K7TEgb",
+					"display_url": "bit.ly/2K7TEgb",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/NjzEcfxaE7",
+					"expanded_url": "https://bit.ly/2K95FC0",
+					"display_url": "bit.ly/2K95FC0",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/kOydJK2c6O",
+					"expanded_url": "https://bit.ly/2yrahga",
+					"display_url": "bit.ly/2yrahga",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/XWZ1SdxdRW",
+					"expanded_url": "https://bit.ly/2MyxaXp",
+					"display_url": "bit.ly/2MyxaXp",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/ettBcGzmNx",
+					"expanded_url": "https://bit.ly/2STtl0e",
+					"display_url": "bit.ly/2STtl0e",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158548525166166000,
+		"in_reply_to_status_id_str": "1158548525166166016",
+		"in_reply_to_user_id": 4174482134,
+		"in_reply_to_user_id_str": "4174482134",
+		"in_reply_to_screen_name": "bandsecondmoon",
+		"user": {
+			"id": 4174482134,
+			"id_str": "4174482134",
+			"name": "두번째달",
+			"screen_name": "bandsecondmoon",
+			"location": "",
+			"description": "밴드 두번째달의 공식 트위터 입니다. 문의는 82-10-9468-0209 / band2ndmoon@hanmail.net",
+			"url": "https://t.co/x4g4NqirRT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4g4NqirRT",
+							"expanded_url": "https://m.facebook.com/BANDsecondMOON",
+							"display_url": "m.facebook.com/BANDsecondMOON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Mon Nov 09 02:19:53 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153271255639838721/uDgZdB8-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153271255639838721/uDgZdB8-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4174482134/1447067357",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 음원싸이트 \n\n멜론 : https://t.co/Iv4W7Bsr8j\n네이버뮤직 : https://t.co/RIMEx1NNOU\n벅스 : https://t.co/NjzEcfxaE7\n엠넷 : https://t.co/kOydJK2c6O\n소리바다 : https://t.co/XWZ1SdxdRW\n지니뮤직 : https://t.co/ettBcGzmNx"
+	},
+	{
+		"created_at": "Wed Aug 07 19:14:08 +0000 2019",
+		"id": 1158548525166166000,
+		"id_str": "1159180945728999424",
+		"full_text": "국내 음반판매▶\n알라딘 https://t.co/C6k3hyoB7c\n인터파크 https://t.co/75XCvF5nhz\nYes24 https://t.co/BzyvZ93Ipp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C6k3hyoB7c",
+					"expanded_url": "https://bit.ly/2SOXe1t",
+					"display_url": "bit.ly/2SOXe1t",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/75XCvF5nhz",
+					"expanded_url": "https://bit.ly/2K4YhYx",
+					"display_url": "bit.ly/2K4YhYx",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/BzyvZ93Ipp",
+					"expanded_url": "https://bit.ly/2YAblgo",
+					"display_url": "bit.ly/2YAblgo",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158548323835322400,
+		"in_reply_to_status_id_str": "1158548323835322369",
+		"in_reply_to_user_id": 4174482134,
+		"in_reply_to_user_id_str": "4174482134",
+		"in_reply_to_screen_name": "bandsecondmoon",
+		"user": {
+			"id": 4174482134,
+			"id_str": "4174482134",
+			"name": "두번째달",
+			"screen_name": "bandsecondmoon",
+			"location": "",
+			"description": "밴드 두번째달의 공식 트위터 입니다. 문의는 82-10-9468-0209 / band2ndmoon@hanmail.net",
+			"url": "https://t.co/x4g4NqirRT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4g4NqirRT",
+							"expanded_url": "https://m.facebook.com/BANDsecondMOON",
+							"display_url": "m.facebook.com/BANDsecondMOON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Mon Nov 09 02:19:53 +0000 2015",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153271255639838721/uDgZdB8-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153271255639838721/uDgZdB8-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4174482134/1447067357",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국내 음반판매▶\n알라딘 https://t.co/C6k3hyoB7c\n인터파크 https://t.co/75XCvF5nhz\nYes24 https://t.co/BzyvZ93Ipp"
+	},
+	{
 		"created_at": "Wed Aug 07 17:16:23 +0000 2019",
 		"id": 1159151312849817600,
 		"id_str": "1159151312849817600",
