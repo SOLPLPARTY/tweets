@@ -1,6 +1,1649 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 19:32:37 +0000 2019",
+		"id": 1159185597174624300,
+		"id_str": "1159185597174624256",
+		"full_text": "【 #Songkick 】 WOW Hall\nBig Freedia, Low Cut Connie\nBig Freedia and Low Cut Connie at WOW Hall (November 16, 2019) in Eugene, OR, US\n(November 17, 2019 at 02:00PM)\nhttps://t.co/vj79qP0bjI\n　\n#V홀 #내한공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "V홀",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						193,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vj79qP0bjI",
+					"expanded_url": "http://bit.ly/2OKBwgL",
+					"display_url": "bit.ly/2OKBwgL",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #Songkick 】 WOW Hall\nBig Freedia, Low Cut Connie\nBig Freedia and Low Cut Connie at WOW Hall (November 16, 2019) in Eugene, OR, US\n(November 17, 2019 at 02:00PM)\nhttps://t.co/vj79qP0bjI\n　\n#V홀 #내한공연"
+	},
+	{
+		"created_at": "Wed Aug 07 19:32:37 +0000 2019",
+		"id": 1158632153036365800,
+		"id_str": "1159185596998275072",
+		"full_text": "슬픔의케이팝파티 \n2019 펜타포트락페스티벌 기념티셔츠\n\n* 색상 : 검정\n* 가격 : 30,000원\n* 사이즈 : 일괄 L (100) 총장 71\n* 수량 : 한정 50장\n* 사은품 : 스티커 및 포토카드\n* 구매기간 : 8월 6일~8월 14일 수요일 자정\n* 배송 : 8월 15일 목요일부터 순차 배송\n\n▶️ https://t.co/1mcOnrqdHu https://t.co/dIt4XwMwAc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1mcOnrqdHu",
+					"expanded_url": "https://m.smartstore.naver.com/seulpeumkpop/products/4624537330",
+					"display_url": "m.smartstore.naver.com/seulpeumkpop/p…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158632146312949800,
+					"id_str": "1158632146312949761",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRJzGJU8AEcQtb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRJzGJU8AEcQtb.jpg",
+					"url": "https://t.co/dIt4XwMwAc",
+					"display_url": "pic.twitter.com/dIt4XwMwAc",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1158632153036365824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158632146312949800,
+					"id_str": "1158632146312949761",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRJzGJU8AEcQtb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRJzGJU8AEcQtb.jpg",
+					"url": "https://t.co/dIt4XwMwAc",
+					"display_url": "pic.twitter.com/dIt4XwMwAc",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1158632153036365824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158632146308698000,
+					"id_str": "1158632146308698113",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRJzGIUEAEdJD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRJzGIUEAEdJD5.jpg",
+					"url": "https://t.co/dIt4XwMwAc",
+					"display_url": "pic.twitter.com/dIt4XwMwAc",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1158632153036365824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "NEXT l 2019.08.10.SAT l 인천 펜타포트",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8292,
+			"friends_count": 0,
+			"listed_count": 38,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1562245859",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 \n2019 펜타포트락페스티벌 기념티셔츠\n\n* 색상 : 검정\n* 가격 : 30,000원\n* 사이즈 : 일괄 L (100) 총장 71\n* 수량 : 한정 50장\n* 사은품 : 스티커 및 포토카드\n* 구매기간 : 8월 6일~8월 14일 수요일 자정\n* 배송 : 8월 15일 목요일부터 순차 배송\n\n▶️ https://t.co/1mcOnrqdHu https://t.co/dIt4XwMwAc"
+	},
+	{
+		"created_at": "Wed Aug 07 19:31:55 +0000 2019",
+		"id": 1156870701829124000,
+		"id_str": "1159185421642846208",
+		"full_text": "2019잔다리페스타와 함께하게 된 황보령=SMACKSOFT 💜 \n자세한 날짜와 장소는 추후에 공지하겠습니다!\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\nEARLY BIRD TICKET OPEN \n8.01(Thu) 14:00\n예매링크 : https://t.co/c633gzbS35\n잔다리페스타 2019\nZANDARI FESTA 2019.19.9.26.(Thu)-9.29(Sun) https://t.co/ywpqxkxV5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c633gzbS35",
+					"expanded_url": "https://m.booking.naver.com/booking/12/bizes/256477/items/3141431?area=bni",
+					"display_url": "m.booking.naver.com/booking/12/biz…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156870640353202200,
+					"id_str": "1156870640353202177",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4Ht9FU0AEuWw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4Ht9FU0AEuWw9.jpg",
+					"url": "https://t.co/ywpqxkxV5F",
+					"display_url": "pic.twitter.com/ywpqxkxV5F",
+					"expanded_url": "https://twitter.com/SmackSoft/status/1156870701829124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156870640353202200,
+					"id_str": "1156870640353202177",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4Ht9FU0AEuWw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4Ht9FU0AEuWw9.jpg",
+					"url": "https://t.co/ywpqxkxV5F",
+					"display_url": "pic.twitter.com/ywpqxkxV5F",
+					"expanded_url": "https://twitter.com/SmackSoft/status/1156870701829124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156870654416715800,
+					"id_str": "1156870654416715777",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4HuxeVAAEewNb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4HuxeVAAEewNb.jpg",
+					"url": "https://t.co/ywpqxkxV5F",
+					"display_url": "pic.twitter.com/ywpqxkxV5F",
+					"expanded_url": "https://twitter.com/SmackSoft/status/1156870701829124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156870671676276700,
+					"id_str": "1156870671676276736",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4HvxxVAAAV7hv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4HvxxVAAAV7hv.jpg",
+					"url": "https://t.co/ywpqxkxV5F",
+					"display_url": "pic.twitter.com/ywpqxkxV5F",
+					"expanded_url": "https://twitter.com/SmackSoft/status/1156870701829124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156870689632075800,
+					"id_str": "1156870689632075782",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EA4Hw0qUwAYqLi5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA4Hw0qUwAYqLi5.jpg",
+					"url": "https://t.co/ywpqxkxV5F",
+					"display_url": "pic.twitter.com/ywpqxkxV5F",
+					"expanded_url": "https://twitter.com/SmackSoft/status/1156870701829124096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95896431,
+			"id_str": "95896431",
+			"name": "SMACKSOFT",
+			"screen_name": "SmackSoft",
+			"location": "Seoul, Korea",
+			"description": "The official 황보령=SMACKSOFT twitter page. Post Punk band.",
+			"url": "http://t.co/9wifZISn5o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9wifZISn5o",
+							"expanded_url": "http://www.facebook.com/smacksoft",
+							"display_url": "facebook.com/smacksoft",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 856,
+			"friends_count": 515,
+			"listed_count": 57,
+			"created_at": "Thu Dec 10 13:03:32 +0000 2009",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "381157",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2164314786/SMACKSOFT_logo_web_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2164314786/SMACKSOFT_logo_web_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95896431/1387019729",
+			"profile_link_color": "6A6570",
+			"profile_sidebar_border_color": "516994",
+			"profile_sidebar_fill_color": "E3DEF7",
+			"profile_text_color": "171417",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019잔다리페스타와 함께하게 된 황보령=SMACKSOFT 💜 \n자세한 날짜와 장소는 추후에 공지하겠습니다!\nLISTEN TO MUSIC\nDRINK BEER\nMAKE FRIENDS\nEARLY BIRD TICKET OPEN \n8.01(Thu) 14:00\n예매링크 : https://t.co/c633gzbS35\n잔다리페스타 2019\nZANDARI FESTA 2019.19.9.26.(Thu)-9.29(Sun) https://t.co/ywpqxkxV5F"
+	},
+	{
+		"created_at": "Wed Aug 07 19:31:51 +0000 2019",
+		"id": 1156851795022381000,
+		"id_str": "1159185402588094470",
+		"full_text": "이게 얼마만입니까😭🤪🤯🥰🤩 잔다리페스타 2019에 애리가 출격합니다🦄\n\n잔다리페스타 2019\nZANDARI FESTA 2019\n\n💙 1st LINE UP ANNOUNCEMENTS 💙\n🧡 EARLY BIRD TICKET OPEN 🧡\n🎟 예매 | https://t.co/z3nRQ6g5RO\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/GXXzWxgoUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z3nRQ6g5RO",
+					"expanded_url": "http://bit.ly/2LS5Jbx",
+					"display_url": "bit.ly/2LS5Jbx",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156851758347382800,
+					"id_str": "1156851758347382786",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EA32i4IU8AIiqeH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA32i4IU8AIiqeH.jpg",
+					"url": "https://t.co/GXXzWxgoUD",
+					"display_url": "pic.twitter.com/GXXzWxgoUD",
+					"expanded_url": "https://twitter.com/arlynmon/status/1156851795022381056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156851758347382800,
+					"id_str": "1156851758347382786",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EA32i4IU8AIiqeH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA32i4IU8AIiqeH.jpg",
+					"url": "https://t.co/GXXzWxgoUD",
+					"display_url": "pic.twitter.com/GXXzWxgoUD",
+					"expanded_url": "https://twitter.com/arlynmon/status/1156851795022381056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156851767616737300,
+					"id_str": "1156851767616737280",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EA32jaqUEAAhvUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA32jaqUEAAhvUx.jpg",
+					"url": "https://t.co/GXXzWxgoUD",
+					"display_url": "pic.twitter.com/GXXzWxgoUD",
+					"expanded_url": "https://twitter.com/arlynmon/status/1156851795022381056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156851776051527700,
+					"id_str": "1156851776051527681",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EA32j6FUwAE3gJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA32j6FUwAE3gJB.jpg",
+					"url": "https://t.co/GXXzWxgoUD",
+					"display_url": "pic.twitter.com/GXXzWxgoUD",
+					"expanded_url": "https://twitter.com/arlynmon/status/1156851795022381056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156851785962676200,
+					"id_str": "1156851785962676224",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EA32kfAU4AAE9cN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA32kfAU4AAE9cN.jpg",
+					"url": "https://t.co/GXXzWxgoUD",
+					"display_url": "pic.twitter.com/GXXzWxgoUD",
+					"expanded_url": "https://twitter.com/arlynmon/status/1156851795022381056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153865745,
+			"id_str": "153865745",
+			"name": "애리 (AIRY)",
+			"screen_name": "arlynmon",
+			"location": "대한민국 서울",
+			"description": "겨울앨",
+			"url": "https://t.co/gI63R3fXYM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gI63R3fXYM",
+							"expanded_url": "https://instagram.com/airysore",
+							"display_url": "instagram.com/airysore",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 177,
+			"listed_count": 6,
+			"created_at": "Wed Jun 09 19:03:41 +0000 2010",
+			"favourites_count": 3260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628295757968207872/XlYrxJSN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628295757968207872/XlYrxJSN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153865745/1538118343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 얼마만입니까😭🤪🤯🥰🤩 잔다리페스타 2019에 애리가 출격합니다🦄\n\n잔다리페스타 2019\nZANDARI FESTA 2019\n\n💙 1st LINE UP ANNOUNCEMENTS 💙\n🧡 EARLY BIRD TICKET OPEN 🧡\n🎟 예매 | https://t.co/z3nRQ6g5RO\nㅤㅤ\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/GXXzWxgoUD"
+	},
+	{
+		"created_at": "Wed Aug 07 19:31:19 +0000 2019",
+		"id": 1158623340401062000,
+		"id_str": "1159185269729325057",
+		"full_text": "🧡 ZANDARI TICKET TYPES 🧡\n\n홍대 일대가 축제의 장이 되는 아시아 최대 마켓형 쇼케이스 잔다리페스타! \n\n🐣 얼리버드 티켓 절찬판매중 (~8.15) 🐣 \n121,000won ▶ 88,000won\n🎟 예매하기 | https://t.co/WY98FjGP1m\n\n잔다리페스타 2019\nZANDARI FESTA 2019\n\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/GKGclpf5Aq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hongdae",
+					"name": "김현옥 봇",
+					"id": 1328262589,
+					"id_str": "1328262589",
+					"indices": [
+						209,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WY98FjGP1m",
+					"expanded_url": "http://bit.ly/2LS5Jbx",
+					"display_url": "bit.ly/2LS5Jbx",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158623332104720400,
+					"id_str": "1158623332104720385",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRByCqU0AEAlDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRByCqU0AEAlDh.jpg",
+					"url": "https://t.co/GKGclpf5Aq",
+					"display_url": "pic.twitter.com/GKGclpf5Aq",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1158623340401061888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158623332104720400,
+					"id_str": "1158623332104720385",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRByCqU0AEAlDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRByCqU0AEAlDh.jpg",
+					"url": "https://t.co/GKGclpf5Aq",
+					"display_url": "pic.twitter.com/GKGclpf5Aq",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1158623340401061888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158623332113084400,
+					"id_str": "1158623332113084416",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EBRByCsUcAAxxWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBRByCsUcAAxxWh.jpg",
+					"url": "https://t.co/GKGclpf5Aq",
+					"display_url": "pic.twitter.com/GKGclpf5Aq",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1158623340401061888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣSeptember 26th - 29th 2019 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 1865,
+			"listed_count": 47,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156021610555424770/AOUbampI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1564452007",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡 ZANDARI TICKET TYPES 🧡\n\n홍대 일대가 축제의 장이 되는 아시아 최대 마켓형 쇼케이스 잔다리페스타! \n\n🐣 얼리버드 티켓 절찬판매중 (~8.15) 🐣 \n121,000won ▶ 88,000won\n🎟 예매하기 | https://t.co/WY98FjGP1m\n\n잔다리페스타 2019\nZANDARI FESTA 2019\n\n19.9.26.(Thu)-9.29(Sun) @Hongdae Area https://t.co/GKGclpf5Aq"
+	},
+	{
+		"created_at": "Wed Aug 07 19:25:37 +0000 2019",
+		"id": 1158568912113377300,
+		"id_str": "1159183836443369472",
+		"full_text": "세상에.. 😱 아직 점심밥도 안먹었는데 2019 #서울인기 매진이라니.. 밥안먹어도 배불러 여러분 사랑 먹어서.. 사랑에 빚진자..잇츠미 나에요예매 안한 사람들도 💙2019.8.10💙에 현장구매 가능하니까요🎊 오후 세시부터 구매할 수 있답니다😉 https://t.co/h4GVCur5Tn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인기",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158568812045672400,
+					"id_str": "1158568812045672448",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158568812045672448/pu/img/GCOWxkGT6RgmUclh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158568812045672448/pu/img/GCOWxkGT6RgmUclh.jpg",
+					"url": "https://t.co/h4GVCur5Tn",
+					"display_url": "pic.twitter.com/h4GVCur5Tn",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158568912113377281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158568812045672400,
+					"id_str": "1158568812045672448",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158568812045672448/pu/img/GCOWxkGT6RgmUclh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158568812045672448/pu/img/GCOWxkGT6RgmUclh.jpg",
+					"url": "https://t.co/h4GVCur5Tn",
+					"display_url": "pic.twitter.com/h4GVCur5Tn",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158568912113377281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 40998,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1158568812045672448/pu/vid/720x406/umvvwSNgjQZbk-hW.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1158568812045672448/pu/vid/478x270/U8XIG9cungEtAlH3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1158568812045672448/pu/pl/_8Z7Ggw3ggkakNHV.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "난지한강공원 중앙잔디광장",
+			"description": "2019.8.10 일반예매 매진! 꼭나만예매했길 온리미 저슷미 현장판매를 노려노려",
+			"url": "https://t.co/fwQgF435E1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fwQgF435E1",
+							"expanded_url": "http://instragram.com/seoulsoldout",
+							"display_url": "instragram.com/seoulsoldout",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 1269,
+			"listed_count": 7,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에.. 😱 아직 점심밥도 안먹었는데 2019 #서울인기 매진이라니.. 밥안먹어도 배불러 여러분 사랑 먹어서.. 사랑에 빚진자..잇츠미 나에요예매 안한 사람들도 💙2019.8.10💙에 현장구매 가능하니까요🎊 오후 세시부터 구매할 수 있답니다😉 https://t.co/h4GVCur5Tn"
+	},
+	{
+		"created_at": "Wed Aug 07 19:25:31 +0000 2019",
+		"id": 1158587933730865200,
+		"id_str": "1159183808484134912",
+		"full_text": "💙🔈2019 #서울인기 QnA📢💙를 알립니다! 그래도 이거 진짜 궁금하다 못참겠다 하는 분들 댓글댓글미😄 팔로팔로미😌 소통소통미😉 #트래쉬버스터즈 의 사용방법은 내일 업로드 됩니다💙 https://t.co/pWVZu76PMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인기",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "트래쉬버스터즈",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158587904672727000,
+					"id_str": "1158587904672727040",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQhj5MVAAAJ4sF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQhj5MVAAAJ4sF.jpg",
+					"url": "https://t.co/pWVZu76PMY",
+					"display_url": "pic.twitter.com/pWVZu76PMY",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158587933730865153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158587904672727000,
+					"id_str": "1158587904672727040",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQhj5MVAAAJ4sF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQhj5MVAAAJ4sF.jpg",
+					"url": "https://t.co/pWVZu76PMY",
+					"display_url": "pic.twitter.com/pWVZu76PMY",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158587933730865153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158587904668553200,
+					"id_str": "1158587904668553216",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQhj5LVUAA8w-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQhj5LVUAA8w-o.jpg",
+					"url": "https://t.co/pWVZu76PMY",
+					"display_url": "pic.twitter.com/pWVZu76PMY",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158587933730865153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158587904676921300,
+					"id_str": "1158587904676921344",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQhj5NVAAAyKFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQhj5NVAAAyKFg.jpg",
+					"url": "https://t.co/pWVZu76PMY",
+					"display_url": "pic.twitter.com/pWVZu76PMY",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1158587933730865153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "난지한강공원 중앙잔디광장",
+			"description": "2019.8.10 일반예매 매진! 꼭나만예매했길 온리미 저슷미 현장판매를 노려노려",
+			"url": "https://t.co/fwQgF435E1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fwQgF435E1",
+							"expanded_url": "http://instragram.com/seoulsoldout",
+							"display_url": "instragram.com/seoulsoldout",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 1269,
+			"listed_count": 7,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💙🔈2019 #서울인기 QnA📢💙를 알립니다! 그래도 이거 진짜 궁금하다 못참겠다 하는 분들 댓글댓글미😄 팔로팔로미😌 소통소통미😉 #트래쉬버스터즈 의 사용방법은 내일 업로드 됩니다💙 https://t.co/pWVZu76PMY"
+	},
+	{
 		"created_at": "Wed Aug 07 19:16:03 +0000 2019",
 		"id": 1157121563927335000,
 		"id_str": "1159181429432958976",
