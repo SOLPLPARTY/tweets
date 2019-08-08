@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 05:13:27 +0000 2019",
+		"id": 1159328846111363000,
+		"id_str": "1159331769444945921",
+		"full_text": "&lt;제13회 대단한 단편영화제&gt; '대단한 디자인 프로젝트'\n🔸디자이너를 찾습니다!🔸\n🔸오늘 모집 마감!🔸\n\n분야와 장르에 상관없이 \n영화 포스터 제작에 관심있으신 분이라면 \n누구나 지원이 가능합니다.\n\n자세한 내용 아래 링크 참고 \nhttps://t.co/9SDRdNvsQf https://t.co/bHmW1LyI6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9SDRdNvsQf",
+					"expanded_url": "http://bit.ly/2YY3km0",
+					"display_url": "bit.ly/2YY3km0",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159328837643038700,
+					"id_str": "1159328837643038720",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EBbDb3mUcAAe49D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBbDb3mUcAAe49D.jpg",
+					"url": "https://t.co/bHmW1LyI6L",
+					"display_url": "pic.twitter.com/bHmW1LyI6L",
+					"expanded_url": "https://twitter.com/SSmadang/status/1159328846111363072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1317,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159328837643038700,
+					"id_str": "1159328837643038720",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EBbDb3mUcAAe49D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBbDb3mUcAAe49D.jpg",
+					"url": "https://t.co/bHmW1LyI6L",
+					"display_url": "pic.twitter.com/bHmW1LyI6L",
+					"expanded_url": "https://twitter.com/SSmadang/status/1159328846111363072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1317,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19464,
+			"friends_count": 2021,
+			"listed_count": 323,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;제13회 대단한 단편영화제&gt; '대단한 디자인 프로젝트'\n🔸디자이너를 찾습니다!🔸\n🔸오늘 모집 마감!🔸\n\n분야와 장르에 상관없이 \n영화 포스터 제작에 관심있으신 분이라면 \n누구나 지원이 가능합니다.\n\n자세한 내용 아래 링크 참고 \nhttps://t.co/9SDRdNvsQf https://t.co/bHmW1LyI6L"
+	},
+	{
 		"created_at": "Thu Aug 08 03:42:37 +0000 2019",
 		"id": 1159308910232264700,
 		"id_str": "1159308910232264704",
