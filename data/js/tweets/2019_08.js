@@ -1,6 +1,996 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 11:13:49 +0000 2019",
+		"id": 1159417686356455400,
+		"id_str": "1159422457360658434",
+		"full_text": "#올댓뮤직 #공개녹화\n190808 19:00 @춘천KBS공개홀\n#공중그늘 #새소년 #설 #위아더나잇\n\n#목요일은_올댓데이\n서정적인 멜로디가 가득한\n공중그늘의 무대 시작했습니다💙\n\n지금 바로\n페이스북 / MyK로 함께 해주세요🙌\n\n#ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수 https://t.co/Ak9X16VaYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "공중그늘",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "새소년",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "목요일은_올댓데이",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "GONGJOONGGEUNEUL",
+					"indices": [
+						142,
+						159
+					]
+				},
+				{
+					"text": "경성수",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "이장오",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "이철민",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "이해인",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "동수",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159417678550818800,
+					"id_str": "1159417678550818816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcUPFxUYAADrWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcUPFxUYAADrWA.jpg",
+					"url": "https://t.co/Ak9X16VaYV",
+					"display_url": "pic.twitter.com/Ak9X16VaYV",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159417686356455425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159417678550818800,
+					"id_str": "1159417678550818816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcUPFxUYAADrWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcUPFxUYAADrWA.jpg",
+					"url": "https://t.co/Ak9X16VaYV",
+					"display_url": "pic.twitter.com/Ak9X16VaYV",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159417686356455425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190808 19:00 @춘천KBS공개홀\n#공중그늘 #새소년 #설 #위아더나잇\n\n#목요일은_올댓데이\n서정적인 멜로디가 가득한\n공중그늘의 무대 시작했습니다💙\n\n지금 바로\n페이스북 / MyK로 함께 해주세요🙌\n\n#ALLTHATMUSIC\n#GONGJOONGGEUNEUL\n#경성수 #이장오 #이철민 #이해인 #동수 https://t.co/Ak9X16VaYV"
+	},
+	{
+		"created_at": "Thu Aug 08 11:13:35 +0000 2019",
+		"id": 1159410166103568400,
+		"id_str": "1159422400313905153",
+		"full_text": "8/16(fri) [clubFF - Rollin']\n허니페퍼 Honey pepper\n플라잉독 Flying dog\n티어드랍 Teardrop\n뉴클리어이디엇츠 Nuclear idiots \n바이올렛트리 Violet tree\n러블레스 Lubless\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/ekCtLCEm9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159410151926800400,
+					"id_str": "1159410151926800384",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcNY-6UIAAn5rI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcNY-6UIAAn5rI.jpg",
+					"url": "https://t.co/ekCtLCEm9U",
+					"display_url": "pic.twitter.com/ekCtLCEm9U",
+					"expanded_url": "https://twitter.com/clubFF_/status/1159410166103568384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159410151926800400,
+					"id_str": "1159410151926800384",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcNY-6UIAAn5rI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcNY-6UIAAn5rI.jpg",
+					"url": "https://t.co/ekCtLCEm9U",
+					"display_url": "pic.twitter.com/ekCtLCEm9U",
+					"expanded_url": "https://twitter.com/clubFF_/status/1159410166103568384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1159410151985569800,
+					"id_str": "1159410151985569792",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcNY_IU4AAF6WM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcNY_IU4AAF6WM.jpg",
+					"url": "https://t.co/ekCtLCEm9U",
+					"display_url": "pic.twitter.com/ekCtLCEm9U",
+					"expanded_url": "https://twitter.com/clubFF_/status/1159410166103568384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6818,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8/16(fri) [clubFF - Rollin']\n허니페퍼 Honey pepper\n플라잉독 Flying dog\n티어드랍 Teardrop\n뉴클리어이디엇츠 Nuclear idiots \n바이올렛트리 Violet tree\n러블레스 Lubless\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/ekCtLCEm9U"
+	},
+	{
+		"created_at": "Thu Aug 08 11:13:27 +0000 2019",
+		"id": 1159408309025136600,
+		"id_str": "1159422366218424322",
+		"full_text": "#올댓뮤직 #공개녹화\n190808 19:00 @춘천KBS공개홀\n#공중그늘 #새소년 #설 #위아더나잇\n\n청춘을 위로하는 다섯 남자\n위아더나잇의 무대로 오늘 녹화 시작했습니다🌙\n\n지금 바로\n페이스북 / MyK로 함께 해주세요🙌\n\n#ALLTHATMUSIC\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람 https://t.co/m1cM1gKAMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "공중그늘",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "새소년",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"text": "WEARETHENIGHT",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "함병선",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "함필립",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "황성수",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "정원중",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "김보람",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159408298807791600,
+					"id_str": "1159408298807791616",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcLtHgUEAAN_ea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcLtHgUEAAN_ea.jpg",
+					"url": "https://t.co/m1cM1gKAMO",
+					"display_url": "pic.twitter.com/m1cM1gKAMO",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159408309025136642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159408298807791600,
+					"id_str": "1159408298807791616",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EBcLtHgUEAAN_ea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBcLtHgUEAAN_ea.jpg",
+					"url": "https://t.co/m1cM1gKAMO",
+					"display_url": "pic.twitter.com/m1cM1gKAMO",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159408309025136642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190808 19:00 @춘천KBS공개홀\n#공중그늘 #새소년 #설 #위아더나잇\n\n청춘을 위로하는 다섯 남자\n위아더나잇의 무대로 오늘 녹화 시작했습니다🌙\n\n지금 바로\n페이스북 / MyK로 함께 해주세요🙌\n\n#ALLTHATMUSIC\n#WEARETHENIGHT\n#함병선 #함필립 #황성수 #정원중 #김보람 https://t.co/m1cM1gKAMO"
+	},
+	{
+		"created_at": "Thu Aug 08 11:07:13 +0000 2019",
+		"id": 1159420794616893400,
+		"id_str": "1159420794616893441",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n조연호\nhttps://t.co/8Cwmw7iFtB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Cwmw7iFtB",
+					"expanded_url": "https://youtu.be/RhYKYQKvdR8",
+					"display_url": "youtu.be/RhYKYQKvdR8",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n조연호\nhttps://t.co/8Cwmw7iFtB"
+	},
+	{
+		"created_at": "Thu Aug 08 11:02:16 +0000 2019",
+		"id": 1159419551446118400,
+		"id_str": "1159419551446118401",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n2019 멜로디 포레스트 캠프 라인업(9월 7-8일 @자라섬)｜장필순\nhttps://t.co/UlMLX0mrJ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UlMLX0mrJ2",
+					"expanded_url": "https://youtu.be/27Oj4RuzApg",
+					"display_url": "youtu.be/27Oj4RuzApg",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n2019 멜로디 포레스트 캠프 라인업(9월 7-8일 @자라섬)｜장필순\nhttps://t.co/UlMLX0mrJ2"
+	},
+	{
 		"created_at": "Thu Aug 08 10:01:32 +0000 2019",
 		"id": 1159404266232135700,
 		"id_str": "1159404266232135681",
