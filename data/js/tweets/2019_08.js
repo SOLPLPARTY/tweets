@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 14:13:37 +0000 2019",
+		"id": 1159459148599189500,
+		"id_str": "1159467703519850496",
+		"full_text": "#ALLTHATMUSIC #목요일밤엔올댓뮤직 #육중완 #MC와니 #올댓뮤직_본방사수 #본방사수이벤트 #6band #육중완 #강준우 #PlanetariumRecords #PLT #가호 #준 #빌런 #정진우 #모티 #Gaho #JUNE #Moti #Villain #옥수수 #oksusu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "6band",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "강준우",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "PlanetariumRecords",
+					"indices": [
+						73,
+						92
+					]
+				},
+				{
+					"text": "PLT",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "가호",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "준",
+					"indices": [
+						102,
+						104
+					]
+				},
+				{
+					"text": "빌런",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "정진우",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "모티",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "Gaho",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "JUNE",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "Moti",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "Villain",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "옥수수",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "oksusu",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1159458995200880600,
+		"in_reply_to_status_id_str": "1159458995200880643",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#ALLTHATMUSIC #목요일밤엔올댓뮤직 #육중완 #MC와니 #올댓뮤직_본방사수 #본방사수이벤트 #6band #육중완 #강준우 #PlanetariumRecords #PLT #가호 #준 #빌런 #정진우 #모티 #Gaho #JUNE #Moti #Villain #옥수수 #oksusu"
+	},
+	{
+		"created_at": "Thu Aug 08 14:13:27 +0000 2019",
+		"id": 1159458995200880600,
+		"id_str": "1159467665053966337",
+		"full_text": "#올댓뮤직 #본방사수\n8월 8일 목요일 밤 11시 40분 KBS1 TV\n\n이제 곧 \n#육중완밴드 #플라네타리움레코드 편이 방송됩니다 !\n\n그리고 오늘 밤 12시\n#SKT옥수수앱 을 통해 즐기는\n#뮤직멀티뷰서비스 🙌\n\n멀티뷰와 세션뷰를 통해 \n현장감 넘치는 사운드와\n멤버별 직캠서비스를 만나보세요 ❗️ https://t.co/fn5X0YBgM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "육중완밴드",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "플라네타리움레코드",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "SKT옥수수앱",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159458981607116800,
+					"id_str": "1159458981607116800",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EBc5zPpUEAAHY5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBc5zPpUEAAHY5C.jpg",
+					"url": "https://t.co/fn5X0YBgM2",
+					"display_url": "pic.twitter.com/fn5X0YBgM2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159458995200880643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159458981607116800,
+					"id_str": "1159458981607116800",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EBc5zPpUEAAHY5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBc5zPpUEAAHY5C.jpg",
+					"url": "https://t.co/fn5X0YBgM2",
+					"display_url": "pic.twitter.com/fn5X0YBgM2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1159458995200880643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n8월 8일 목요일 밤 11시 40분 KBS1 TV\n\n이제 곧 \n#육중완밴드 #플라네타리움레코드 편이 방송됩니다 !\n\n그리고 오늘 밤 12시\n#SKT옥수수앱 을 통해 즐기는\n#뮤직멀티뷰서비스 🙌\n\n멀티뷰와 세션뷰를 통해 \n현장감 넘치는 사운드와\n멤버별 직캠서비스를 만나보세요 ❗️ https://t.co/fn5X0YBgM2"
+	},
+	{
+		"created_at": "Thu Aug 08 14:02:56 +0000 2019",
+		"id": 1159465018171285500,
+		"id_str": "1159465018171285505",
+		"full_text": "#브이유이엔티 #VU_ENT\nThe Final Countdown 2018 애프터무비\nhttps://t.co/JGbArMjKjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브이유이엔티",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "VU_ENT",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGbArMjKjR",
+					"expanded_url": "https://youtu.be/Oku1_x0RRJ0",
+					"display_url": "youtu.be/Oku1_x0RRJ0",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 314,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#브이유이엔티 #VU_ENT\nThe Final Countdown 2018 애프터무비\nhttps://t.co/JGbArMjKjR"
+	},
+	{
+		"created_at": "Thu Aug 08 13:18:25 +0000 2019",
+		"id": 1159448813741981700,
+		"id_str": "1159453815827042309",
+		"full_text": "생각의 여름 연속기획\n“생각의 계절 01 – 셰프의 음악, 음악가의 디저트”\n• 일시 : 8월 24일(토) 오후 4시\n• 장소 : 플라스틱파크\n• 출연진 : 생각의 여름, 윤덕원, 박준우\n⠀\n• 티켓가격 : 예매 45,000원 / 현매 50,000원\n• 예매처 : 멜론티켓 (https://t.co/D4JF37I8U2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D4JF37I8U2",
+					"expanded_url": "https://bit.ly/2yo08RH",
+					"display_url": "bit.ly/2yo08RH",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1159448808469618700,
+		"in_reply_to_status_id_str": "1159448808469618688",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10617,
+			"friends_count": 5019,
+			"listed_count": 309,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생각의 여름 연속기획\n“생각의 계절 01 – 셰프의 음악, 음악가의 디저트”\n• 일시 : 8월 24일(토) 오후 4시\n• 장소 : 플라스틱파크\n• 출연진 : 생각의 여름, 윤덕원, 박준우\n⠀\n• 티켓가격 : 예매 45,000원 / 현매 50,000원\n• 예매처 : 멜론티켓 (https://t.co/D4JF37I8U2)"
+	},
+	{
 		"created_at": "Thu Aug 08 13:16:10 +0000 2019",
 		"id": 1159453247305855000,
 		"id_str": "1159453247305854981",
