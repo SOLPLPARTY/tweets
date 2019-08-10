@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 09:18:41 +0000 2019",
+		"id": 1160115279805812700,
+		"id_str": "1160118257451487232",
+		"full_text": "Melon · https://t.co/xj4JjkiZkm\nGenie · https://t.co/OQLp8988hI\nNaver music · https://t.co/ekY8dD6tkR\nMnet · https://t.co/AKadcwT9Ev\nBugs · https://t.co/GniPefI5l3\nㅤ\n#권진아 #위로 #멜로가체질 #KwonJinAh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "위로",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "멜로가체질",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xj4JjkiZkm",
+					"expanded_url": "https://bit.ly/33oIsDJ",
+					"display_url": "bit.ly/33oIsDJ",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/OQLp8988hI",
+					"expanded_url": "https://bit.ly/2YYawdI",
+					"display_url": "bit.ly/2YYawdI",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/ekY8dD6tkR",
+					"expanded_url": "https://bit.ly/2yO0scr",
+					"display_url": "bit.ly/2yO0scr",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/AKadcwT9Ev",
+					"expanded_url": "https://bit.ly/33qin76",
+					"display_url": "bit.ly/33qin76",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/GniPefI5l3",
+					"expanded_url": "https://bit.ly/33rANVh",
+					"display_url": "bit.ly/33rANVh",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160114172106924000,
+		"in_reply_to_status_id_str": "1160114172106924032",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34926,
+			"friends_count": 3730,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1560762336",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "Melon · https://t.co/xj4JjkiZkm\nGenie · https://t.co/OQLp8988hI\nNaver music · https://t.co/ekY8dD6tkR\nMnet · https://t.co/AKadcwT9Ev\nBugs · https://t.co/GniPefI5l3\nㅤ\n#권진아 #위로 #멜로가체질 #KwonJinAh"
+	},
+	{
+		"created_at": "Sat Aug 10 09:18:33 +0000 2019",
+		"id": 1160114172106924000,
+		"id_str": "1160118223427297280",
+		"full_text": "#Release\n권진아 - ‘위로’\nJTBC 드라마 [멜로가 체질] OST\nㅤ\n지금 전 온라인 음원사이트에서 감상해보세요!\nㅤ\nLyrics by 헨\nComposed by 헨\nArranged by 헨\n\n#권진아 #위로 #멜로가체질 #KwonJinAh https://t.co/BX8wkAyfri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "위로",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "멜로가체질",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160114160492937200,
+					"id_str": "1160114160492937217",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EBmNrrMVAAEinia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBmNrrMVAAEinia.jpg",
+					"url": "https://t.co/BX8wkAyfri",
+					"display_url": "pic.twitter.com/BX8wkAyfri",
+					"expanded_url": "https://twitter.com/antennamusic/status/1160114172106924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160114160492937200,
+					"id_str": "1160114160492937217",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EBmNrrMVAAEinia.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBmNrrMVAAEinia.jpg",
+					"url": "https://t.co/BX8wkAyfri",
+					"display_url": "pic.twitter.com/BX8wkAyfri",
+					"expanded_url": "https://twitter.com/antennamusic/status/1160114172106924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, Chai, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34926,
+			"friends_count": 3730,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1560762336",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Release\n권진아 - ‘위로’\nJTBC 드라마 [멜로가 체질] OST\nㅤ\n지금 전 온라인 음원사이트에서 감상해보세요!\nㅤ\nLyrics by 헨\nComposed by 헨\nArranged by 헨\n\n#권진아 #위로 #멜로가체질 #KwonJinAh https://t.co/BX8wkAyfri"
+	},
+	{
+		"created_at": "Sat Aug 10 09:18:25 +0000 2019",
+		"id": 1160108487591907300,
+		"id_str": "1160118193651892224",
+		"full_text": "데이브레이크 ‘SUMMER MADNESS 2019 : ESCAPE’\n▪일시: 2019년 8월 17일(토), 18일(일) 오후 7시\n▪장소: 서울 노들섬 잔디마당\n▪티켓: 전석 99,000원\n▪예매: https://t.co/CAL4IGvWES\n.\n.\n#데이브레이크\n#SUMMERMADNESS2019 #ESCAPE #썸머매드니스2019 #SUMMERMADNESS #썸머매드니스 #완성형밴드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데이브레이크",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "SUMMERMADNESS2019",
+					"indices": [
+						147,
+						165
+					]
+				},
+				{
+					"text": "ESCAPE",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "썸머매드니스2019",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "SUMMERMADNESS",
+					"indices": [
+						186,
+						200
+					]
+				},
+				{
+					"text": "썸머매드니스",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "완성형밴드",
+					"indices": [
+						209,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CAL4IGvWES",
+					"expanded_url": "https://bit.ly/311ZTI5",
+					"display_url": "bit.ly/311ZTI5",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160108483913478100,
+		"in_reply_to_status_id_str": "1160108483913478145",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13819,
+			"friends_count": 2507,
+			"listed_count": 303,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "데이브레이크 ‘SUMMER MADNESS 2019 : ESCAPE’\n▪일시: 2019년 8월 17일(토), 18일(일) 오후 7시\n▪장소: 서울 노들섬 잔디마당\n▪티켓: 전석 99,000원\n▪예매: https://t.co/CAL4IGvWES\n.\n.\n#데이브레이크\n#SUMMERMADNESS2019 #ESCAPE #썸머매드니스2019 #SUMMERMADNESS #썸머매드니스 #완성형밴드"
+	},
+	{
 		"created_at": "Sat Aug 10 09:13:27 +0000 2019",
 		"id": 1160112309336809500,
 		"id_str": "1160116943246045185",
