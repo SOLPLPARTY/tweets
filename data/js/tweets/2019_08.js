@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 05:13:39 +0000 2019",
+		"id": 1160409855821136000,
+		"id_str": "1160418980194131968",
+		"full_text": "&lt;다시 오월 ; 서울에서&gt;\n‼️ 일시 : 9/7 (토) 6PM ~ 9:30PM\n‼️ 장소 : 복합문화공간 에무, B1\n‼️ 라인업 : 보엠, 버둥, 폰디체리, 시나 쓰는 앨리스\n‼️ 티켓가 : 얼리버드 20,000원 / 현매 : 35,000원 \n✔️예매링크 : https://t.co/zQhQ5EFOJU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQhQ5EFOJU",
+					"expanded_url": "http://bitly.kr/lYqiqQ",
+					"display_url": "bitly.kr/lYqiqQ",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160409852746727400,
+		"in_reply_to_status_id_str": "1160409852746727424",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2683,
+			"friends_count": 2574,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;다시 오월 ; 서울에서&gt;\n‼️ 일시 : 9/7 (토) 6PM ~ 9:30PM\n‼️ 장소 : 복합문화공간 에무, B1\n‼️ 라인업 : 보엠, 버둥, 폰디체리, 시나 쓰는 앨리스\n‼️ 티켓가 : 얼리버드 20,000원 / 현매 : 35,000원 \n✔️예매링크 : https://t.co/zQhQ5EFOJU"
+	},
+	{
+		"created_at": "Sun Aug 11 05:13:32 +0000 2019",
+		"id": 1160409852746727400,
+		"id_str": "1160418954436907008",
+		"full_text": "[공연추천]\n광주 518민주광장에서 열린 제9회 전국 오월창작가요제의 본선 수상팀들의 무대가 서울에서 펼쳐진다고 합니다!✨오늘부터 내일✨단 이틀만 얼리버드 티켓을 판매한다고 하는데요!! 이런 좋은 기회를 놓칠 수 없겠죠?!\n\n복합문화공간 에무에서 뜻깊은 공연도 보고 주말 나들이 어떠세요~?🎈 https://t.co/fTVAu3ERlU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160409844878213000,
+					"id_str": "1160409844878213120",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqamxXVAAAV2jG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqamxXVAAAV2jG.jpg",
+					"url": "https://t.co/fTVAu3ERlU",
+					"display_url": "pic.twitter.com/fTVAu3ERlU",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160409852746727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160409844878213000,
+					"id_str": "1160409844878213120",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqamxXVAAAV2jG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqamxXVAAAV2jG.jpg",
+					"url": "https://t.co/fTVAu3ERlU",
+					"display_url": "pic.twitter.com/fTVAu3ERlU",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160409852746727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160409844886597600,
+					"id_str": "1160409844886597632",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqamxZU8AAWp1b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqamxZU8AAWp1b.jpg",
+					"url": "https://t.co/fTVAu3ERlU",
+					"display_url": "pic.twitter.com/fTVAu3ERlU",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160409852746727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160409844882350000,
+					"id_str": "1160409844882350082",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqamxYUIAIQXUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqamxYUIAIQXUU.jpg",
+					"url": "https://t.co/fTVAu3ERlU",
+					"display_url": "pic.twitter.com/fTVAu3ERlU",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160409852746727424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2683,
+			"friends_count": 2574,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n광주 518민주광장에서 열린 제9회 전국 오월창작가요제의 본선 수상팀들의 무대가 서울에서 펼쳐진다고 합니다!✨오늘부터 내일✨단 이틀만 얼리버드 티켓을 판매한다고 하는데요!! 이런 좋은 기회를 놓칠 수 없겠죠?!\n\n복합문화공간 에무에서 뜻깊은 공연도 보고 주말 나들이 어떠세요~?🎈 https://t.co/fTVAu3ERlU"
+	},
+	{
 		"created_at": "Sun Aug 11 03:52:19 +0000 2019",
 		"id": 1160398515522216000,
 		"id_str": "1160398515522215942",
