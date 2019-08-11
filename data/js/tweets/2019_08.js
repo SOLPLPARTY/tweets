@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 11:13:35 +0000 2019",
+		"id": 1160498334001270800,
+		"id_str": "1160509563323523072",
+		"full_text": "📎 플래그 스티커 \n지난 28일 EP [4EVER YOUTH] 발매 쇼케이스를 마치며 활발한 활동을 이어가고 있는 플래그의 오색찬란한 스티커가 입고되었습니다-! 불완전한 청춘에게 괜찮다는 메시지를 담은 [4EVER YOUTH]와 플래그의 활동에도 많은 관심 부탁드립니다 💘 https://t.co/rQlxIUlsSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160498326191476700,
+					"id_str": "1160498326191476736",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrrFD8UEAASKAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrrFD8UEAASKAC.jpg",
+					"url": "https://t.co/rQlxIUlsSN",
+					"display_url": "pic.twitter.com/rQlxIUlsSN",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160498334001270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 874,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160498326191476700,
+					"id_str": "1160498326191476736",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrrFD8UEAASKAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrrFD8UEAASKAC.jpg",
+					"url": "https://t.co/rQlxIUlsSN",
+					"display_url": "pic.twitter.com/rQlxIUlsSN",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160498334001270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 874,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160498326288007200,
+					"id_str": "1160498326288007169",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrrFETVAAECQ7v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrrFETVAAECQ7v.jpg",
+					"url": "https://t.co/rQlxIUlsSN",
+					"display_url": "pic.twitter.com/rQlxIUlsSN",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160498334001270784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 913,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160498323351953400,
+		"in_reply_to_status_id_str": "1160498323351953409",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2682,
+			"friends_count": 2574,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📎 플래그 스티커 \n지난 28일 EP [4EVER YOUTH] 발매 쇼케이스를 마치며 활발한 활동을 이어가고 있는 플래그의 오색찬란한 스티커가 입고되었습니다-! 불완전한 청춘에게 괜찮다는 메시지를 담은 [4EVER YOUTH]와 플래그의 활동에도 많은 관심 부탁드립니다 💘 https://t.co/rQlxIUlsSN"
+	},
+	{
+		"created_at": "Sun Aug 11 11:13:27 +0000 2019",
+		"id": 1160498323351953400,
+		"id_str": "1160509529332887553",
+		"full_text": "[신규입고]\n📎 더베인 풍선🎈&amp; 슬로건\n'슈퍼밴드'를 통해 팬분들께 받은 사랑을 좋은 음악으로 보답하고자 개최한 더베인의 단독 콘서트가 5초 만에 매진되면서 슈퍼히어로급🎖인기를 증명하셨는데요! 소진되었던 풍선과 슬로건이 입고되었으니 씬디에 오셔서 자유롭게 가져가세요🤩 https://t.co/i6wwrj0YEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160498313755410400,
+					"id_str": "1160498313755410432",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrrEVnUwAAX0r5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrrEVnUwAAX0r5.jpg",
+					"url": "https://t.co/i6wwrj0YEj",
+					"display_url": "pic.twitter.com/i6wwrj0YEj",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160498323351953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160498313755410400,
+					"id_str": "1160498313755410432",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrrEVnUwAAX0r5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrrEVnUwAAX0r5.jpg",
+					"url": "https://t.co/i6wwrj0YEj",
+					"display_url": "pic.twitter.com/i6wwrj0YEj",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160498323351953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2682,
+			"friends_count": 2574,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📎 더베인 풍선🎈&amp; 슬로건\n'슈퍼밴드'를 통해 팬분들께 받은 사랑을 좋은 음악으로 보답하고자 개최한 더베인의 단독 콘서트가 5초 만에 매진되면서 슈퍼히어로급🎖인기를 증명하셨는데요! 소진되었던 풍선과 슬로건이 입고되었으니 씬디에 오셔서 자유롭게 가져가세요🤩 https://t.co/i6wwrj0YEj"
+	},
+	{
 		"created_at": "Sun Aug 11 09:33:29 +0000 2019",
 		"id": 1160484372388155400,
 		"id_str": "1160484372388155392",
