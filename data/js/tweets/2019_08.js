@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 14:13:27 +0000 2019",
+		"id": 1160540478116208600,
+		"id_str": "1160554827681808389",
+		"full_text": "#올댓뮤직\n\n📣 #짙은 편 #금손포토 님의 현장사진이 도착했습니다 !\n\n일요일 밤 #짙은 님의\n감미로운 목소리로\n마무리 하는 건 어떨까요?🍯\n\n미처 다 공개하지 못한 사진들은\n곧! 올댓뮤직 공식 블로그에\n업로드될 예정이니 \n기대 많이 해주세요😍\n\n#ALLTHATMUSIC\n#올댓뮤직하드털이 https://t.co/w6tylb5j8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "짙은",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "금손포토",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "짙은",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "올댓뮤직하드털이",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160540468775547000,
+					"id_str": "1160540468775546880",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBsRaFTU8AAR22J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBsRaFTU8AAR22J.jpg",
+					"url": "https://t.co/w6tylb5j8M",
+					"display_url": "pic.twitter.com/w6tylb5j8M",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1160540478116208641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160540468775547000,
+					"id_str": "1160540468775546880",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBsRaFTU8AAR22J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBsRaFTU8AAR22J.jpg",
+					"url": "https://t.co/w6tylb5j8M",
+					"display_url": "pic.twitter.com/w6tylb5j8M",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1160540478116208641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160540468771295200,
+					"id_str": "1160540468771295232",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBsRaFSUEAAIwnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBsRaFSUEAAIwnC.jpg",
+					"url": "https://t.co/w6tylb5j8M",
+					"display_url": "pic.twitter.com/w6tylb5j8M",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1160540478116208641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160540468771356700,
+					"id_str": "1160540468771356674",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBsRaFSVAAITfI8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBsRaFSVAAITfI8.jpg",
+					"url": "https://t.co/w6tylb5j8M",
+					"display_url": "pic.twitter.com/w6tylb5j8M",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1160540478116208641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160540468771295200,
+					"id_str": "1160540468771295234",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBsRaFSUEAIsjbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBsRaFSUEAIsjbj.jpg",
+					"url": "https://t.co/w6tylb5j8M",
+					"display_url": "pic.twitter.com/w6tylb5j8M",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1160540478116208641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」 Explore K-band world! will show you the unique works of hottest Korean band🎸 MC육중완과 함께 떠나는 음악여행♬ 매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3735,
+			"friends_count": 959,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n📣 #짙은 편 #금손포토 님의 현장사진이 도착했습니다 !\n\n일요일 밤 #짙은 님의\n감미로운 목소리로\n마무리 하는 건 어떨까요?🍯\n\n미처 다 공개하지 못한 사진들은\n곧! 올댓뮤직 공식 블로그에\n업로드될 예정이니 \n기대 많이 해주세요😍\n\n#ALLTHATMUSIC\n#올댓뮤직하드털이 https://t.co/w6tylb5j8M"
+	},
+	{
 		"created_at": "Sun Aug 11 12:49:34 +0000 2019",
 		"id": 1160533718953603000,
 		"id_str": "1160533718953603072",
