@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 11:18:16 +0000 2019",
+		"id": 1160504838397939700,
+		"id_str": "1160510741428023296",
+		"full_text": "[펜타포트락페스티벌]\n불나방스타쏘세지클럽과 함께해주셔서 감사합니다🔥\n-\n#붕가붕가레코드 #펜타포트락페스티벌 #불나방스타쏘세지클럽 #k재즈밴드 https://t.co/gGpcjWVlYf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "붕가붕가레코드",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "불나방스타쏘세지클럽",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"text": "k재즈밴드",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160504807729201200,
+					"id_str": "1160504807729201152",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrw-VjVAAAY3yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrw-VjVAAAY3yS.jpg",
+					"url": "https://t.co/gGpcjWVlYf",
+					"display_url": "pic.twitter.com/gGpcjWVlYf",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1160504838397939712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160504807729201200,
+					"id_str": "1160504807729201152",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EBrw-VjVAAAY3yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBrw-VjVAAAY3yS.jpg",
+					"url": "https://t.co/gGpcjWVlYf",
+					"display_url": "pic.twitter.com/gGpcjWVlYf",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1160504838397939712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10613,
+			"friends_count": 5018,
+			"listed_count": 309,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펜타포트락페스티벌]\n불나방스타쏘세지클럽과 함께해주셔서 감사합니다🔥\n-\n#붕가붕가레코드 #펜타포트락페스티벌 #불나방스타쏘세지클럽 #k재즈밴드 https://t.co/gGpcjWVlYf"
+	},
+	{
 		"created_at": "Sun Aug 11 11:13:35 +0000 2019",
 		"id": 1160498334001270800,
 		"id_str": "1160509563323523072",
