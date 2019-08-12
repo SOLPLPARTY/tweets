@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 07:33:34 +0000 2019",
+		"id": 1160816579854119000,
+		"id_str": "1160816579854118912",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n비오는 날 듣기 좋은 노래, 소수빈 (SO SOO BIN) - 너는 없어 (Without You) Unofficial Lyrics Video\nhttps://t.co/FkevDSBhfu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FkevDSBhfu",
+					"expanded_url": "https://youtu.be/dQipKcVywV4",
+					"display_url": "youtu.be/dQipKcVywV4",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n비오는 날 듣기 좋은 노래, 소수빈 (SO SOO BIN) - 너는 없어 (Without You) Unofficial Lyrics Video\nhttps://t.co/FkevDSBhfu"
+	},
+	{
+		"created_at": "Mon Aug 12 07:18:35 +0000 2019",
+		"id": 1160810373676540000,
+		"id_str": "1160812809342656512",
+		"full_text": "[스케줄 안내] 해피로봇 레코드 8월 3째주 스케줄 🔍\n\n모바일 ☞ https://t.co/SdS2idw49S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SdS2idw49S",
+					"expanded_url": "http://bitly.kr/ii4tmk",
+					"display_url": "bitly.kr/ii4tmk",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 라이프 앤 타임(Life and Time), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13814,
+			"friends_count": 2507,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 해피로봇 레코드 8월 3째주 스케줄 🔍\n\n모바일 ☞ https://t.co/SdS2idw49S"
+	},
+	{
+		"created_at": "Mon Aug 12 07:18:28 +0000 2019",
+		"id": 1160803253975580700,
+		"id_str": "1160812778946539520",
+		"full_text": "• 8/16(금) 오후 9시\n[#최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt; 방송\n@ ‘오늘은 왠지 하림과 낙타’ 코너\n\n• 8/17(토) 오후 2시\n[#최낙타] KBS COOL FM &lt;문희준의 뮤직쇼&gt; 방송\n@ KBS 라디오\n\n• 8/17(토) 오후 7시\n[#우주히피] 단독 공연 &lt;우리의 저녁 2019 vol.2&gt;\n@ 당신의 여름 https://t.co/Xhubf5DyY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160803249189879800,
+					"id_str": "1160803249189879808",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwAZ6oVAAA_Gm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwAZ6oVAAA_Gm3.jpg",
+					"url": "https://t.co/Xhubf5DyY3",
+					"display_url": "pic.twitter.com/Xhubf5DyY3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803253975580672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160803249189879800,
+					"id_str": "1160803249189879808",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwAZ6oVAAA_Gm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwAZ6oVAAA_Gm3.jpg",
+					"url": "https://t.co/Xhubf5DyY3",
+					"display_url": "pic.twitter.com/Xhubf5DyY3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803253975580672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160803249194057700,
+					"id_str": "1160803249194057730",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwAZ6pUwAI6Sgo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwAZ6pUwAI6Sgo.jpg",
+					"url": "https://t.co/Xhubf5DyY3",
+					"display_url": "pic.twitter.com/Xhubf5DyY3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803253975580672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160803249198268400,
+					"id_str": "1160803249198268416",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwAZ6qVAAASqwL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwAZ6qVAAASqwL.jpg",
+					"url": "https://t.co/Xhubf5DyY3",
+					"display_url": "pic.twitter.com/Xhubf5DyY3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803253975580672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160803036630900700,
+		"in_reply_to_status_id_str": "1160803036630900736",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 8/16(금) 오후 9시\n[#최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt; 방송\n@ ‘오늘은 왠지 하림과 낙타’ 코너\n\n• 8/17(토) 오후 2시\n[#최낙타] KBS COOL FM &lt;문희준의 뮤직쇼&gt; 방송\n@ KBS 라디오\n\n• 8/17(토) 오후 7시\n[#우주히피] 단독 공연 &lt;우리의 저녁 2019 vol.2&gt;\n@ 당신의 여름 https://t.co/Xhubf5DyY3"
+	},
+	{
+		"created_at": "Mon Aug 12 07:18:25 +0000 2019",
+		"id": 1160803036630900700,
+		"id_str": "1160812770071326720",
+		"full_text": "• 8/14(수) 오후 7시\n[#아마도이자람밴드,#우주왕복선싸이드미러,#최낙타] &lt;콘서트 + 뮤지엄나이트 - 여름 이야기&gt;\n@서울시립미술관\n\n• 8/14(수) 오후 11시40분\n[#이지형]KBS&lt;콘서트 문화창고&gt;\n@ KBS1TV\n\n• 8/15(목) 오후4시~6시 사이\n[#오지은]EBS&lt;오지은의 이런 나라도 떠나고 싶다&gt; \n@ EBS라디오 https://t.co/XzjT6orvPy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160803031786504200,
+					"id_str": "1160803031786504194",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwANQvUwAIpKzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwANQvUwAIpKzp.jpg",
+					"url": "https://t.co/XzjT6orvPy",
+					"display_url": "pic.twitter.com/XzjT6orvPy",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803036630900736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160803031786504200,
+					"id_str": "1160803031786504194",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwANQvUwAIpKzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwANQvUwAIpKzp.jpg",
+					"url": "https://t.co/XzjT6orvPy",
+					"display_url": "pic.twitter.com/XzjT6orvPy",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803036630900736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160803031786508300,
+					"id_str": "1160803031786508288",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwANQvU0AAYauj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwANQvU0AAYauj.jpg",
+					"url": "https://t.co/XzjT6orvPy",
+					"display_url": "pic.twitter.com/XzjT6orvPy",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803036630900736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160803031790653400,
+					"id_str": "1160803031790653440",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwANQwUEAAkTfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwANQwUEAAkTfz.jpg",
+					"url": "https://t.co/XzjT6orvPy",
+					"display_url": "pic.twitter.com/XzjT6orvPy",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1160803036630900736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160802596577087500,
+		"in_reply_to_status_id_str": "1160802596577087491",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1589,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 8/14(수) 오후 7시\n[#아마도이자람밴드,#우주왕복선싸이드미러,#최낙타] &lt;콘서트 + 뮤지엄나이트 - 여름 이야기&gt;\n@서울시립미술관\n\n• 8/14(수) 오후 11시40분\n[#이지형]KBS&lt;콘서트 문화창고&gt;\n@ KBS1TV\n\n• 8/15(목) 오후4시~6시 사이\n[#오지은]EBS&lt;오지은의 이런 나라도 떠나고 싶다&gt; \n@ EBS라디오 https://t.co/XzjT6orvPy"
+	},
+	{
 		"created_at": "Mon Aug 12 06:59:09 +0000 2019",
 		"id": 1160807920243794000,
 		"id_str": "1160807920243793920",
