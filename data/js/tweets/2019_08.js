@@ -1,6 +1,2600 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 05:14:18 +0000 2019",
+		"id": 1160781531952156700,
+		"id_str": "1160781531952156672",
+		"full_text": "#날씨알리미\nRain Shower : 마포구에 비가 오고 있습니다. ☔\nhttps://t.co/HB2mmwvQJg\n#마포구 #날씨 #비",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "날씨알리미",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "마포구",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "날씨",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "비",
+					"indices": [
+						73,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HB2mmwvQJg",
+					"expanded_url": "https://youtu.be/nCzHni0UaOo",
+					"display_url": "youtu.be/nCzHni0UaOo",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#날씨알리미\nRain Shower : 마포구에 비가 오고 있습니다. ☔\nhttps://t.co/HB2mmwvQJg\n#마포구 #날씨 #비"
+	},
+	{
+		"created_at": "Mon Aug 12 05:13:47 +0000 2019",
+		"id": 1160770828675383300,
+		"id_str": "1160781402788507648",
+		"full_text": "#골든차일드 #골든차일드 #골든차일드 #goldenchild !!!!!!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "goldenchild",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160768446663016400,
+		"in_reply_to_status_id_str": "1160768446663016449",
+		"in_reply_to_user_id": 1022765899126730800,
+		"in_reply_to_user_id_str": "1022765899126730752",
+		"in_reply_to_screen_name": "casperradio_",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#골든차일드 #골든차일드 #골든차일드 #goldenchild !!!!!!!!!!"
+	},
+	{
+		"created_at": "Mon Aug 12 05:13:43 +0000 2019",
+		"id": 1160770681098784800,
+		"id_str": "1160781385218609152",
+		"full_text": "@GNCD_jjihu 😱😱😱😱😱😱😱😱😱#골든차일드 ...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GNCD_jjihu",
+					"name": "찧! (🌷나는야 쏘세지 팬클럽 일반회원 3🌷)",
+					"id": 1115559471336415200,
+					"id_str": "1115559471336415232",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160769745366315000,
+		"in_reply_to_status_id_str": "1160769745366315008",
+		"in_reply_to_user_id": 1115559471336415200,
+		"in_reply_to_user_id_str": "1115559471336415232",
+		"in_reply_to_screen_name": "GNCD_jjihu",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@GNCD_jjihu 😱😱😱😱😱😱😱😱😱#골든차일드 ..."
+	},
+	{
+		"created_at": "Mon Aug 12 05:13:39 +0000 2019",
+		"id": 1160768952022077400,
+		"id_str": "1160781368051294209",
+		"full_text": "&lt; ROLLING HOT SUMMER MUSIC PARTY #6&gt;\n🍒일시 : 8/17 (토) 6PM\n🍒장소 : 롤링홀(Rolling hall)\n🍒라인업 : ADOY, Jclef\n🍒티켓가 : 예매 48,000원 \n👉예매링크 ▶️ https://t.co/1ya6h4NN1W 👈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ya6h4NN1W",
+					"expanded_url": "https://hoy.kr/uD5cq",
+					"display_url": "hoy.kr/uD5cq",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160768945860669400,
+		"in_reply_to_status_id_str": "1160768945860669440",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2688,
+			"friends_count": 2573,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; ROLLING HOT SUMMER MUSIC PARTY #6&gt;\n🍒일시 : 8/17 (토) 6PM\n🍒장소 : 롤링홀(Rolling hall)\n🍒라인업 : ADOY, Jclef\n🍒티켓가 : 예매 48,000원 \n👉예매링크 ▶️ https://t.co/1ya6h4NN1W 👈"
+	},
+	{
+		"created_at": "Mon Aug 12 05:13:32 +0000 2019",
+		"id": 1160768945860669400,
+		"id_str": "1160781342432514049",
+		"full_text": "[공연추천]\n낭만적인 신스팝으로 청춘의 감성을 대변하는 밴드 아도이와 특유의 몽환적인 느낌으로 자신만의 이야기를 담아 들려주는 Jclef가 함께하는 공연인데요🎵\n\n최고의 조합으로 무더위를 날려줄 시원한 '롤링 핫썸머 뮤직파티'를 롤링홀에서 즐기면서 올여름 추억으로 남겨보아요💞 https://t.co/ZJiSKw1g81",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160768928982810600,
+					"id_str": "1160768928982810625",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvhMN5UwAECKc4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvhMN5UwAECKc4.jpg",
+					"url": "https://t.co/ZJiSKw1g81",
+					"display_url": "pic.twitter.com/ZJiSKw1g81",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160768945860669440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160768928982810600,
+					"id_str": "1160768928982810625",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvhMN5UwAECKc4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvhMN5UwAECKc4.jpg",
+					"url": "https://t.co/ZJiSKw1g81",
+					"display_url": "pic.twitter.com/ZJiSKw1g81",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160768945860669440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160768928991158300,
+					"id_str": "1160768928991158272",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvhMN7UIAAoyww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvhMN7UIAAoyww.jpg",
+					"url": "https://t.co/ZJiSKw1g81",
+					"display_url": "pic.twitter.com/ZJiSKw1g81",
+					"expanded_url": "https://twitter.com/xindieticket/status/1160768945860669440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 587,
+							"h": 779,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 587,
+							"h": 779,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온오프라인 티켓 판매처\n(운영시간 : 1-9PM, 저녁시간 : 6-7PM)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2688,
+			"friends_count": 2573,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n낭만적인 신스팝으로 청춘의 감성을 대변하는 밴드 아도이와 특유의 몽환적인 느낌으로 자신만의 이야기를 담아 들려주는 Jclef가 함께하는 공연인데요🎵\n\n최고의 조합으로 무더위를 날려줄 시원한 '롤링 핫썸머 뮤직파티'를 롤링홀에서 즐기면서 올여름 추억으로 남겨보아요💞 https://t.co/ZJiSKw1g81"
+	},
+	{
+		"created_at": "Mon Aug 12 05:13:27 +0000 2019",
+		"id": 1160768446663016400,
+		"id_str": "1160781321020551168",
+		"full_text": "이번주 편성표~❤️\n#서사무엘 #권정열 #고영배 #주찬 #골듴차일드 #김간지 #베뉴팝 https://t.co/08pVg6mjPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서사무엘",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "주찬",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "골듴차일드",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "김간지",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "베뉴팝",
+					"indices": [
+						43,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160768438257635300,
+					"id_str": "1160768438257635328",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvgvpzU0AAFFDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvgvpzU0AAFFDU.jpg",
+					"url": "https://t.co/08pVg6mjPF",
+					"display_url": "pic.twitter.com/08pVg6mjPF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1160768446663016449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160768438257635300,
+					"id_str": "1160768438257635328",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvgvpzU0AAFFDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvgvpzU0AAFFDU.jpg",
+					"url": "https://t.co/08pVg6mjPF",
+					"display_url": "pic.twitter.com/08pVg6mjPF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1160768446663016449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 편성표~❤️\n#서사무엘 #권정열 #고영배 #주찬 #골듴차일드 #김간지 #베뉴팝 https://t.co/08pVg6mjPF"
+	},
+	{
+		"created_at": "Mon Aug 12 05:05:23 +0000 2019",
+		"id": 1158619524100268000,
+		"id_str": "1160779290574639105",
+		"full_text": "[그린플러그드 동해 2019 하이라이트]\n\n'그린플러그드 동해 2019' 하이라이트 영상을 공개합니다.\n그린플러그드 동해와 함께해주신 모든 분들께 감사드립니다!\n\n오는 9월, 그린플러그드 경주에서도 즐거운 추억 함께 만들어가요💙\n\nYouTube에서 전체보기\n→https://t.co/bcoLK0aPVd https://t.co/k7d3IUnizx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bcoLK0aPVd",
+					"expanded_url": "https://youtu.be/slvC2HWoT-w",
+					"display_url": "youtu.be/slvC2HWoT-w",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158619150563938300,
+					"id_str": "1158619150563938304",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158619150563938304/pu/img/HZKLe9vkzR5imOfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158619150563938304/pu/img/HZKLe9vkzR5imOfl.jpg",
+					"url": "https://t.co/k7d3IUnizx",
+					"display_url": "pic.twitter.com/k7d3IUnizx",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1158619524100268033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1130,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158619150563938300,
+					"id_str": "1158619150563938304",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158619150563938304/pu/img/HZKLe9vkzR5imOfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158619150563938304/pu/img/HZKLe9vkzR5imOfl.jpg",
+					"url": "https://t.co/k7d3IUnizx",
+					"display_url": "pic.twitter.com/k7d3IUnizx",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1158619524100268033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1130,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1130,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							113,
+							48
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1158619150563938304/pu/vid/846x360/dK21gIPXmq0c2VJ9.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1158619150563938304/pu/vid/1130x480/3ziGCNW8tz8-rsS8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1158619150563938304/pu/vid/634x270/gYschcpPDU5PXB9-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1158619150563938304/pu/pl/Hu0W8ZAIUr54skD6.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12708,
+			"friends_count": 165,
+			"listed_count": 262,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1564114079",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 하이라이트]\n\n'그린플러그드 동해 2019' 하이라이트 영상을 공개합니다.\n그린플러그드 동해와 함께해주신 모든 분들께 감사드립니다!\n\n오는 9월, 그린플러그드 경주에서도 즐거운 추억 함께 만들어가요💙\n\nYouTube에서 전체보기\n→https://t.co/bcoLK0aPVd https://t.co/k7d3IUnizx"
+	},
+	{
+		"created_at": "Mon Aug 12 05:05:18 +0000 2019",
+		"id": 1160778234406924300,
+		"id_str": "1160779269779288066",
+		"full_text": "⚡티켓부스 및 게이트 오픈\n금요일 - 티켓부스 13:00 / 게이트 14:00\n토,일요일 - 티켓부스 11:00 / 게이트 12:00\n\n⚡교통, 주차, 캠핑존 및 운영 관련 내용도 순차적으로 안내 예정입니다. 추후 강원 락 페스티벌 공식 SNS를 통해 확인해주세요 https://t.co/0CH7cV4Mzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160778227788312600,
+					"id_str": "1160778227788312577",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvppepUcAEmAKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvppepUcAEmAKV.jpg",
+					"url": "https://t.co/0CH7cV4Mzq",
+					"display_url": "pic.twitter.com/0CH7cV4Mzq",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778234406924288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160778227788312600,
+					"id_str": "1160778227788312577",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvppepUcAEmAKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvppepUcAEmAKV.jpg",
+					"url": "https://t.co/0CH7cV4Mzq",
+					"display_url": "pic.twitter.com/0CH7cV4Mzq",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778234406924288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160778227926724600,
+					"id_str": "1160778227926724609",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvppfKUcAEl6JP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvppfKUcAEl6JP.jpg",
+					"url": "https://t.co/0CH7cV4Mzq",
+					"display_url": "pic.twitter.com/0CH7cV4Mzq",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778234406924288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160778228140662800,
+					"id_str": "1160778228140662784",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvppf9U4AAqzuY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvppf9U4AAqzuY.jpg",
+					"url": "https://t.co/0CH7cV4Mzq",
+					"display_url": "pic.twitter.com/0CH7cV4Mzq",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778234406924288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160778043167608800,
+		"in_reply_to_status_id_str": "1160778043167608833",
+		"in_reply_to_user_id": 1136889837737238500,
+		"in_reply_to_user_id_str": "1136889837737238529",
+		"in_reply_to_screen_name": "gangwonrockfest",
+		"user": {
+			"id": 1136889837737238500,
+			"id_str": "1136889837737238529",
+			"name": "강원락페스티벌 / GANGWON ROCK FESTIVAL",
+			"screen_name": "gangwonrockfest",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Fri Jun 07 06:57:14 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136891635487322112/RAFk59FZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136891635487322112/RAFk59FZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136889837737238529/1559896069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡티켓부스 및 게이트 오픈\n금요일 - 티켓부스 13:00 / 게이트 14:00\n토,일요일 - 티켓부스 11:00 / 게이트 12:00\n\n⚡교통, 주차, 캠핑존 및 운영 관련 내용도 순차적으로 안내 예정입니다. 추후 강원 락 페스티벌 공식 SNS를 통해 확인해주세요 https://t.co/0CH7cV4Mzq"
+	},
+	{
+		"created_at": "Mon Aug 12 05:05:07 +0000 2019",
+		"id": 1160778043167608800,
+		"id_str": "1160779220932386817",
+		"full_text": "[강원 락 페스티벌 2019 티켓&amp;입장 안내]\n\n'강원 락 페스티벌 2019' 티켓 교환과 현장구매, 입장에 대한 주요 공지사항과 자주 묻는 질문에 대한 내용 안내드립니다.\n페스티벌에 오기 전 반드시 확인해주세요! https://t.co/V4XcO0u1Z1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160778034296676400,
+					"id_str": "1160778034296676353",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvpeN1UYAEYzQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvpeN1UYAEYzQW.jpg",
+					"url": "https://t.co/V4XcO0u1Z1",
+					"display_url": "pic.twitter.com/V4XcO0u1Z1",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778043167608833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160778034296676400,
+					"id_str": "1160778034296676353",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvpeN1UYAEYzQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvpeN1UYAEYzQW.jpg",
+					"url": "https://t.co/V4XcO0u1Z1",
+					"display_url": "pic.twitter.com/V4XcO0u1Z1",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778043167608833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160778034296713200,
+					"id_str": "1160778034296713216",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvpeN1U8AA0WOp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvpeN1U8AA0WOp.jpg",
+					"url": "https://t.co/V4XcO0u1Z1",
+					"display_url": "pic.twitter.com/V4XcO0u1Z1",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778043167608833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160778034300932000,
+					"id_str": "1160778034300932097",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvpeN2VUAETgMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvpeN2VUAETgMa.jpg",
+					"url": "https://t.co/V4XcO0u1Z1",
+					"display_url": "pic.twitter.com/V4XcO0u1Z1",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778043167608833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160778034296676400,
+					"id_str": "1160778034296676352",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvpeN1UYAAZrXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvpeN1UYAAZrXd.jpg",
+					"url": "https://t.co/V4XcO0u1Z1",
+					"display_url": "pic.twitter.com/V4XcO0u1Z1",
+					"expanded_url": "https://twitter.com/gangwonrockfest/status/1160778043167608833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136889837737238500,
+			"id_str": "1136889837737238529",
+			"name": "강원락페스티벌 / GANGWON ROCK FESTIVAL",
+			"screen_name": "gangwonrockfest",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Fri Jun 07 06:57:14 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136891635487322112/RAFk59FZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136891635487322112/RAFk59FZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136889837737238529/1559896069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[강원 락 페스티벌 2019 티켓&amp;입장 안내]\n\n'강원 락 페스티벌 2019' 티켓 교환과 현장구매, 입장에 대한 주요 공지사항과 자주 묻는 질문에 대한 내용 안내드립니다.\n페스티벌에 오기 전 반드시 확인해주세요! https://t.co/V4XcO0u1Z1"
+	},
+	{
+		"created_at": "Mon Aug 12 05:03:09 +0000 2019",
+		"id": 1160753027143221200,
+		"id_str": "1160778726860152832",
+		"full_text": "2019년 9월 5일 연남장에서\n'하나되는 아시아 음악시장' '지금 가장 주목해야할 해외 마케팅 전략' 그리고 '경기도의 음악 산업의 비젼' 이라는 3개의 Session으로 컨퍼런스가 진행 됩니다!\n\n아시아의 핵심 음악 비즈니스 전문가와 당신의 뮤직 비즈니스를 이야기 하세요~!\n신청기간: 2019. 7.30~8.25 https://t.co/MuCurFxJRR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160753002166157300,
+					"id_str": "1160753002166157312",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvStJ4VAAAOtbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvStJ4VAAAOtbt.jpg",
+					"url": "https://t.co/MuCurFxJRR",
+					"display_url": "pic.twitter.com/MuCurFxJRR",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160753027143221251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160753002166157300,
+					"id_str": "1160753002166157312",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvStJ4VAAAOtbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvStJ4VAAAOtbt.jpg",
+					"url": "https://t.co/MuCurFxJRR",
+					"display_url": "pic.twitter.com/MuCurFxJRR",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160753027143221251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160753002271035400,
+					"id_str": "1160753002271035394",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvStKRVUAI2UUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvStKRVUAI2UUg.jpg",
+					"url": "https://t.co/MuCurFxJRR",
+					"display_url": "pic.twitter.com/MuCurFxJRR",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160753027143221251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160753002380058600,
+					"id_str": "1160753002380058624",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvStKrU4AAOTDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvStKrU4AAOTDd.jpg",
+					"url": "https://t.co/MuCurFxJRR",
+					"display_url": "pic.twitter.com/MuCurFxJRR",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160753027143221251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160752996566782000,
+		"in_reply_to_status_id_str": "1160752996566781953",
+		"in_reply_to_user_id": 1133965736597057500,
+		"in_reply_to_user_id_str": "1133965736597057536",
+		"in_reply_to_screen_name": "gggmtown",
+		"user": {
+			"id": 1133965736597057500,
+			"id_str": "1133965736597057536",
+			"name": "gggmtown",
+			"screen_name": "gggmtown",
+			"location": "",
+			"description": "경기뮤직플랫폼\n2019년 9월 5일 6일 경기뮤직컨퍼런스 'Hands with Asia' 공식 계정입니다.  5일: 글로벌 컨퍼런스 (연남장), 6일: 해외진출을 위한 쇼케이스 (홍대 웨스트브릿지) 많은 신청 부탁드립니다!",
+			"url": "https://t.co/422jRGZdin",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/422jRGZdin",
+							"expanded_url": "https://www.facebook.com/ggmtown/",
+							"display_url": "facebook.com/ggmtown/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu May 30 05:17:54 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153896209016168448/JeyPSYav_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153896209016168448/JeyPSYav_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133965736597057536/1563945271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 9월 5일 연남장에서\n'하나되는 아시아 음악시장' '지금 가장 주목해야할 해외 마케팅 전략' 그리고 '경기도의 음악 산업의 비젼' 이라는 3개의 Session으로 컨퍼런스가 진행 됩니다!\n\n아시아의 핵심 음악 비즈니스 전문가와 당신의 뮤직 비즈니스를 이야기 하세요~!\n신청기간: 2019. 7.30~8.25 https://t.co/MuCurFxJRR"
+	},
+	{
+		"created_at": "Mon Aug 12 05:03:06 +0000 2019",
+		"id": 1160752996566782000,
+		"id_str": "1160778713950064640",
+		"full_text": "경기뮤직 컨퍼런스 'Hands with Asia'\n\n2019년 9월 5일(목) 컨퍼런스가 진행될 연남장은 문화와 다양한 콘텐츠가 공존하는 공간입니다. \n델리게이트신청링크: https://t.co/fhXBEp9POy\n\n#경기뮤직컨퍼런스 #핸즈위드아시아 #새로운경기공정한세상 #판타지아부천 #케이인디협회 #경인TV #인디스땅스 https://t.co/wTsl5oQdEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "경기뮤직컨퍼런스",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "핸즈위드아시아",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "새로운경기공정한세상",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "판타지아부천",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "케이인디협회",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "경인TV",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "인디스땅스",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fhXBEp9POy",
+					"expanded_url": "https://linktr.ee/gggmtown",
+					"display_url": "linktr.ee/gggmtown",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1160752965184921600,
+					"id_str": "1160752965184921600",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvSrAHUIAArsFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvSrAHUIAArsFQ.jpg",
+					"url": "https://t.co/wTsl5oQdEy",
+					"display_url": "pic.twitter.com/wTsl5oQdEy",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160752996566781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160752965184921600,
+					"id_str": "1160752965184921600",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvSrAHUIAArsFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvSrAHUIAArsFQ.jpg",
+					"url": "https://t.co/wTsl5oQdEy",
+					"display_url": "pic.twitter.com/wTsl5oQdEy",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160752996566781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160752965184979000,
+					"id_str": "1160752965184978944",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvSrAHVAAAV6XG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvSrAHVAAAV6XG.jpg",
+					"url": "https://t.co/wTsl5oQdEy",
+					"display_url": "pic.twitter.com/wTsl5oQdEy",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160752996566781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160752965180743700,
+					"id_str": "1160752965180743680",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvSrAGUYAARmbS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvSrAGUYAARmbS.jpg",
+					"url": "https://t.co/wTsl5oQdEy",
+					"display_url": "pic.twitter.com/wTsl5oQdEy",
+					"expanded_url": "https://twitter.com/gggmtown/status/1160752996566781953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1193,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1133965736597057500,
+			"id_str": "1133965736597057536",
+			"name": "gggmtown",
+			"screen_name": "gggmtown",
+			"location": "",
+			"description": "경기뮤직플랫폼\n2019년 9월 5일 6일 경기뮤직컨퍼런스 'Hands with Asia' 공식 계정입니다.  5일: 글로벌 컨퍼런스 (연남장), 6일: 해외진출을 위한 쇼케이스 (홍대 웨스트브릿지) 많은 신청 부탁드립니다!",
+			"url": "https://t.co/422jRGZdin",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/422jRGZdin",
+							"expanded_url": "https://www.facebook.com/ggmtown/",
+							"display_url": "facebook.com/ggmtown/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu May 30 05:17:54 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153896209016168448/JeyPSYav_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153896209016168448/JeyPSYav_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1133965736597057536/1563945271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경기뮤직 컨퍼런스 'Hands with Asia'\n\n2019년 9월 5일(목) 컨퍼런스가 진행될 연남장은 문화와 다양한 콘텐츠가 공존하는 공간입니다. \n델리게이트신청링크: https://t.co/fhXBEp9POy\n\n#경기뮤직컨퍼런스 #핸즈위드아시아 #새로운경기공정한세상 #판타지아부천 #케이인디협회 #경인TV #인디스땅스 https://t.co/wTsl5oQdEy"
+	},
+	{
+		"created_at": "Mon Aug 12 04:18:21 +0000 2019",
+		"id": 1160764014571315200,
+		"id_str": "1160767451208065025",
+		"full_text": "장소. 구름아래 소극장\n티켓: 예매: 66,000원 현매 77,000원 \n예매: 인터파크 (링크 추후 공지) \n예매 시작: 2019년 8월 14일 \nPART2 : 12시(정오) 시작, PART 3: 저녁6시 시작\n\n8월14일은 공연 예매 하시고 [[[ 서울시 여러분 PART2]]]의 음원을 들을 수 있는 빅데이!\n\n#서울시여러분 https://t.co/POWizp26Ng",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울시여러분",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160764006585393200,
+					"id_str": "1160764006585393153",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvctsiU4AEAS0c.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBvctsiU4AEAS0c.png",
+					"url": "https://t.co/POWizp26Ng",
+					"display_url": "pic.twitter.com/POWizp26Ng",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764014571315200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160764006585393200,
+					"id_str": "1160764006585393153",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvctsiU4AEAS0c.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBvctsiU4AEAS0c.png",
+					"url": "https://t.co/POWizp26Ng",
+					"display_url": "pic.twitter.com/POWizp26Ng",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764014571315200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1160764006715424800,
+					"id_str": "1160764006715424768",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvcttBVAAAbSb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvcttBVAAAbSb2.jpg",
+					"url": "https://t.co/POWizp26Ng",
+					"display_url": "pic.twitter.com/POWizp26Ng",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764014571315200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1160764002848276500,
+		"in_reply_to_status_id_str": "1160764002848276480",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 344,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1556769004",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장소. 구름아래 소극장\n티켓: 예매: 66,000원 현매 77,000원 \n예매: 인터파크 (링크 추후 공지) \n예매 시작: 2019년 8월 14일 \nPART2 : 12시(정오) 시작, PART 3: 저녁6시 시작\n\n8월14일은 공연 예매 하시고 [[[ 서울시 여러분 PART2]]]의 음원을 들을 수 있는 빅데이!\n\n#서울시여러분 https://t.co/POWizp26Ng"
+	},
+	{
+		"created_at": "Mon Aug 12 04:18:18 +0000 2019",
+		"id": 1160764002848276500,
+		"id_str": "1160767442295111680",
+		"full_text": "9와 숫자들 [[[ 서울시 여러분 ]]] 발매 기념 콘서트 PART 2 &amp; 3 예매 안내\n\nPART 2 \"찰나의 어제와 억겁의 내일\" : 2019년 8월 31일(토) 저녁7시 \nPART 3 \"고된 청춘의 수레바퀴\" : 2019년 10월 6일(일) 저녁 7시 https://t.co/GBIZgU5DQW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160763994715484200,
+					"id_str": "1160763994715484160",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvctAUUcAAncCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBvctAUUcAAncCI.png",
+					"url": "https://t.co/GBIZgU5DQW",
+					"display_url": "pic.twitter.com/GBIZgU5DQW",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764002848276480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160763994715484200,
+					"id_str": "1160763994715484160",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvctAUUcAAncCI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBvctAUUcAAncCI.png",
+					"url": "https://t.co/GBIZgU5DQW",
+					"display_url": "pic.twitter.com/GBIZgU5DQW",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764002848276480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1160763994698739700,
+					"id_str": "1160763994698739713",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBvctAQU8AEj3Z-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBvctAQU8AEj3Z-.jpg",
+					"url": "https://t.co/GBIZgU5DQW",
+					"display_url": "pic.twitter.com/GBIZgU5DQW",
+					"expanded_url": "https://twitter.com/orm_ent/status/1160764002848276480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 344,
+			"listed_count": 11,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1556769004",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들 [[[ 서울시 여러분 ]]] 발매 기념 콘서트 PART 2 &amp; 3 예매 안내\n\nPART 2 \"찰나의 어제와 억겁의 내일\" : 2019년 8월 31일(토) 저녁7시 \nPART 3 \"고된 청춘의 수레바퀴\" : 2019년 10월 6일(일) 저녁 7시 https://t.co/GBIZgU5DQW"
+	},
+	{
 		"created_at": "Mon Aug 12 04:13:33 +0000 2019",
 		"id": 1160757172403236900,
 		"id_str": "1160766247233052672",
