@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 10:13:27 +0000 2019",
+		"id": 1160854805524312000,
+		"id_str": "1160856817993506816",
+		"full_text": "[2019 EBS 하반기 헬로루키 with KOCCA] \n\n🖤겨울에서봄🖤\n추운 겨울에서 따듯한 봄, 여름, 가을, 겨울 ☃️🌸\n그리고 다시 봄이 올 동안 세 멤버가 군대에서 함께한\n시간만큼, 보다 더 끈끈한 연주🎹🥁\n\n'겨울에서봄'과 함께하는 진득한 여름밤\n8월 29일 스페이스 공감에서 만나보세요🌿\n\n#겨울에서봄 https://t.co/Iyh4R75POq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "겨울에서봄",
+					"indices": [
+						169,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160853886082547700,
+					"id_str": "1160853886082547712",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160853886082547712/pu/img/1blzMP-doFhX4QvN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160853886082547712/pu/img/1blzMP-doFhX4QvN.jpg",
+					"url": "https://t.co/Iyh4R75POq",
+					"display_url": "pic.twitter.com/Iyh4R75POq",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1160854805524312064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160853886082547700,
+					"id_str": "1160853886082547712",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160853886082547712/pu/img/1blzMP-doFhX4QvN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160853886082547712/pu/img/1blzMP-doFhX4QvN.jpg",
+					"url": "https://t.co/Iyh4R75POq",
+					"display_url": "pic.twitter.com/Iyh4R75POq",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1160854805524312064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60794,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160853886082547712/pu/vid/640x360/DBhq1OyTehVQRwPt.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160853886082547712/pu/vid/480x270/JdkGJeZVVAY0Nds9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160853886082547712/pu/pl/IGYUhzvCbQRkuzyw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160853886082547712/pu/vid/1280x720/sQ_5riyDhx-wDijh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5206,
+			"friends_count": 4707,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 하반기 헬로루키 with KOCCA] \n\n🖤겨울에서봄🖤\n추운 겨울에서 따듯한 봄, 여름, 가을, 겨울 ☃️🌸\n그리고 다시 봄이 올 동안 세 멤버가 군대에서 함께한\n시간만큼, 보다 더 끈끈한 연주🎹🥁\n\n'겨울에서봄'과 함께하는 진득한 여름밤\n8월 29일 스페이스 공감에서 만나보세요🌿\n\n#겨울에서봄 https://t.co/Iyh4R75POq"
+	},
+	{
+		"created_at": "Mon Aug 12 09:33:13 +0000 2019",
+		"id": 1160846692557774800,
+		"id_str": "1160846692557774848",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n08/12(월) ~ 08/18(일) 해피로봇 스케줄\nhttps://t.co/LgX2FTwMA4\n#레이블 #기획사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LgX2FTwMA4",
+					"expanded_url": "http://bit.ly/2KEpyAa",
+					"display_url": "bit.ly/2KEpyAa",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n08/12(월) ~ 08/18(일) 해피로봇 스케줄\nhttps://t.co/LgX2FTwMA4\n#레이블 #기획사"
+	},
+	{
+		"created_at": "Mon Aug 12 09:19:54 +0000 2019",
+		"id": 1160842299649056800,
+		"id_str": "1160843342206373888",
+		"full_text": "[GPG2019 - 아티스트 소개]\n\n잔나비, 에이프릴세컨드와 행복한 추억을 가득 만들고 싶다면?👉'그린플러그드 경주 2019'에서 만나요!\n\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX\n예스24 https://t.co/oT8JRRxE9R\n멜론티켓 https://t.co/oSRlTyzuqj https://t.co/8zQ8jMmRdr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lS3DiCijKf",
+					"expanded_url": "http://bitly.kr/qx6IEX",
+					"display_url": "bitly.kr/qx6IEX",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/FCE6D9iioX",
+					"expanded_url": "http://bitly.kr/Ai64fO",
+					"display_url": "bitly.kr/Ai64fO",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/oT8JRRxE9R",
+					"expanded_url": "https://hoy.kr/FZ0wB",
+					"display_url": "hoy.kr/FZ0wB",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/oSRlTyzuqj",
+					"expanded_url": "https://hoy.kr/Er1w5",
+					"display_url": "hoy.kr/Er1w5",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1160842292300660700,
+					"id_str": "1160842292300660736",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwj6hjUwAA1MZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwj6hjUwAA1MZw.jpg",
+					"url": "https://t.co/8zQ8jMmRdr",
+					"display_url": "pic.twitter.com/8zQ8jMmRdr",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1160842299649056769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160842292300660700,
+					"id_str": "1160842292300660736",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwj6hjUwAA1MZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwj6hjUwAA1MZw.jpg",
+					"url": "https://t.co/8zQ8jMmRdr",
+					"display_url": "pic.twitter.com/8zQ8jMmRdr",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1160842299649056769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160842292300697600,
+					"id_str": "1160842292300697600",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EBwj6hjVUAAneTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBwj6hjVUAAneTh.jpg",
+					"url": "https://t.co/8zQ8jMmRdr",
+					"display_url": "pic.twitter.com/8zQ8jMmRdr",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1160842299649056769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12707,
+			"friends_count": 165,
+			"listed_count": 262,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1564114079",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GPG2019 - 아티스트 소개]\n\n잔나비, 에이프릴세컨드와 행복한 추억을 가득 만들고 싶다면?👉'그린플러그드 경주 2019'에서 만나요!\n\n🍂예매\n하나티켓 https://t.co/lS3DiCijKf\n네이버예약 https://t.co/FCE6D9iioX\n예스24 https://t.co/oT8JRRxE9R\n멜론티켓 https://t.co/oSRlTyzuqj https://t.co/8zQ8jMmRdr"
+	},
+	{
 		"created_at": "Mon Aug 12 09:13:27 +0000 2019",
 		"id": 1160841124178608000,
 		"id_str": "1160841718461341696",
