@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 03:01:49 +0000 2019",
+		"id": 1161110581711188000,
+		"id_str": "1161110581711187968",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 이루리 (Lulileela) - 소나기 (Flashback)\nhttps://t.co/9cJE3oqQzd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9cJE3oqQzd",
+					"expanded_url": "https://youtu.be/O9_CRXC-n_Q",
+					"display_url": "youtu.be/O9_CRXC-n_Q",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 이루리 (Lulileela) - 소나기 (Flashback)\nhttps://t.co/9cJE3oqQzd"
+	},
+	{
+		"created_at": "Tue Aug 13 02:26:29 +0000 2019",
+		"id": 1161101687043580000,
+		"id_str": "1161101687043579906",
+		"full_text": "#Private_Curve #프라이빗커브\n[티켓오픈] 제레미 주커(JEREMY ZUCKER) 첫 단독 내한공연 추가티켓\nhttps://t.co/Teub8UKfSF\n#블로그 #공연기획사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Private_Curve",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Teub8UKfSF",
+					"expanded_url": "http://bit.ly/2N8UPyb",
+					"display_url": "bit.ly/2N8UPyb",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Private_Curve #프라이빗커브\n[티켓오픈] 제레미 주커(JEREMY ZUCKER) 첫 단독 내한공연 추가티켓\nhttps://t.co/Teub8UKfSF\n#블로그 #공연기획사"
+	},
+	{
+		"created_at": "Tue Aug 13 02:20:02 +0000 2019",
+		"id": 1161096616834564000,
+		"id_str": "1161100067165614081",
+		"full_text": "[티켓오픈] 제레미 주커(JEREMY ZUCKER) 첫 단독 내한공연\n\n잠시 후 한 시간 뒤, 낮 12시!\n제레미 주커 추가공연 티켓이 오픈됩니다.\n.\n※ 본 공연은 불법거래 방지를 위하여 '인증예매', '무통장 입금 결제 당일 마감'이 진행됩니다\n※ 무통장 입금 예매 마감 기한은, 예매 당일 23시 59분까지입니다 https://t.co/P6XXpH7iJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161096607355396000,
+					"id_str": "1161096607355396096",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0LNm9UYAAiBJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0LNm9UYAAiBJ_.jpg",
+					"url": "https://t.co/P6XXpH7iJq",
+					"display_url": "pic.twitter.com/P6XXpH7iJq",
+					"expanded_url": "https://twitter.com/privatecurve/status/1161096616834564096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161096607355396000,
+					"id_str": "1161096607355396096",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0LNm9UYAAiBJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0LNm9UYAAiBJ_.jpg",
+					"url": "https://t.co/P6XXpH7iJq",
+					"display_url": "pic.twitter.com/P6XXpH7iJq",
+					"expanded_url": "https://twitter.com/privatecurve/status/1161096616834564096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116748623,
+			"id_str": "116748623",
+			"name": "PRIVATE CURVE",
+			"screen_name": "privatecurve",
+			"location": "seoul, korea",
+			"description": "The Beautiful Singer-Songwriter Series / Seoul Jazz Festival / The Artiste etc. | Entertainment",
+			"url": "http://t.co/R4SwAE3Ull",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/R4SwAE3Ull",
+							"expanded_url": "http://www.privatecurve.com",
+							"display_url": "privatecurve.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2922,
+			"friends_count": 76,
+			"listed_count": 96,
+			"created_at": "Tue Feb 23 13:14:51 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E011C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116748623/1565056195",
+			"profile_link_color": "180133",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0E2F5",
+			"profile_text_color": "0D031F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티켓오픈] 제레미 주커(JEREMY ZUCKER) 첫 단독 내한공연\n\n잠시 후 한 시간 뒤, 낮 12시!\n제레미 주커 추가공연 티켓이 오픈됩니다.\n.\n※ 본 공연은 불법거래 방지를 위하여 '인증예매', '무통장 입금 결제 당일 마감'이 진행됩니다\n※ 무통장 입금 예매 마감 기한은, 예매 당일 23시 59분까지입니다 https://t.co/P6XXpH7iJq"
+	},
+	{
+		"created_at": "Tue Aug 13 02:19:54 +0000 2019",
+		"id": 1161084888570716200,
+		"id_str": "1161100033116319744",
+		"full_text": "[공연 안내] \n션 멘데스 Shawn Mendes\n2019 아시아 투어의 시작을 여는\n첫 내한공연 확정!\n\nShawn Mendes : The Tour\n션 멘데스 내한공연\n\n🌹일시: 2019.9.25(수) 오후 8시\n🌹장소: 올림픽공원 체조경기장\n🌹예매: 인터파크, 예스24 https://t.co/Z6MU3gf5Ow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161084871957082000,
+					"id_str": "1161084871957082112",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0AihMU8AAumyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0AihMU8AAumyn.jpg",
+					"url": "https://t.co/Z6MU3gf5Ow",
+					"display_url": "pic.twitter.com/Z6MU3gf5Ow",
+					"expanded_url": "https://twitter.com/aim_concert/status/1161084888570716160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161084871957082000,
+					"id_str": "1161084871957082112",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0AihMU8AAumyn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0AihMU8AAumyn.jpg",
+					"url": "https://t.co/Z6MU3gf5Ow",
+					"display_url": "pic.twitter.com/Z6MU3gf5Ow",
+					"expanded_url": "https://twitter.com/aim_concert/status/1161084888570716160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142197815,
+			"id_str": "142197815",
+			"name": "에이아이엠 A.I.M",
+			"screen_name": "aim_concert",
+			"location": "Seoul, Korea",
+			"description": "공연기획사 에이아이엠 트위터",
+			"url": "https://t.co/TJceRYzTFZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJceRYzTFZ",
+							"expanded_url": "https://www.facebook.com/aimconcert",
+							"display_url": "facebook.com/aimconcert",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1558,
+			"friends_count": 43,
+			"listed_count": 66,
+			"created_at": "Mon May 10 07:01:33 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A0A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879275781741924352/5gFOCj_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879275781741924352/5gFOCj_d_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연 안내] \n션 멘데스 Shawn Mendes\n2019 아시아 투어의 시작을 여는\n첫 내한공연 확정!\n\nShawn Mendes : The Tour\n션 멘데스 내한공연\n\n🌹일시: 2019.9.25(수) 오후 8시\n🌹장소: 올림픽공원 체조경기장\n🌹예매: 인터파크, 예스24 https://t.co/Z6MU3gf5Ow"
+	},
+	{
+		"created_at": "Tue Aug 13 02:18:26 +0000 2019",
+		"id": 1161091105389072400,
+		"id_str": "1161099663602331648",
+		"full_text": "호란의 피아노 프로젝트 두 번째 싱글 \"Baby Million Miles (with Pianist 이수빈) - The Piano Project no.2\"가 공개되었습니다! 🙂\n(link: https://t.co/V3HU1wp6vR) https://t.co/pLBwGu5Vpd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V3HU1wp6vR",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10316893",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161091088192426000,
+					"id_str": "1161091088192425984",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0GMWeU0AAPRHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0GMWeU0AAPRHY.jpg",
+					"url": "https://t.co/pLBwGu5Vpd",
+					"display_url": "pic.twitter.com/pLBwGu5Vpd",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1161091105389072385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161091088192426000,
+					"id_str": "1161091088192425984",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EB0GMWeU0AAPRHY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB0GMWeU0AAPRHY.jpg",
+					"url": "https://t.co/pLBwGu5Vpd",
+					"display_url": "pic.twitter.com/pLBwGu5Vpd",
+					"expanded_url": "https://twitter.com/FLUXUSMUSIC/status/1161091105389072385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "플럭서스 뮤직",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "FLUXUS MUSIC/ 🎧 WHERE GOOD MUSIC LIVES 🎤",
+			"url": "https://t.co/nvQV1FbqAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nvQV1FbqAZ",
+							"expanded_url": "https://www.fluxus.co.kr/",
+							"display_url": "fluxus.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14590,
+			"friends_count": 14077,
+			"listed_count": 258,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069827211757142017/QnobT7cJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069827211757142017/QnobT7cJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1543901507",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호란의 피아노 프로젝트 두 번째 싱글 \"Baby Million Miles (with Pianist 이수빈) - The Piano Project no.2\"가 공개되었습니다! 🙂\n(link: https://t.co/V3HU1wp6vR) https://t.co/pLBwGu5Vpd"
+	},
+	{
 		"created_at": "Tue Aug 13 01:50:21 +0000 2019",
 		"id": 1161092596430545000,
 		"id_str": "1161092596430544896",
