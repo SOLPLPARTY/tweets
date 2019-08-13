@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 07:13:32 +0000 2019",
+		"id": 1161173296949280800,
+		"id_str": "1161173925390405632",
+		"full_text": "[2019 EBS 하반기 헬로루키 with KOCCA] \n\n🖤김뜻돌🖤\n생각을 넘어선 욕망, 본능적 본능의\n달달하고 날카로운 유혹! 😘💎\n\n#빠져들게하는 #무한매력 🌟🌈\n사랑에 빠질 준비 되셨나요?\n5월 23일 &lt;스페이스 공감&gt;에서 함께하세요 💕\n\nhttps://t.co/j8MM5JsLbZ\n\n#김뜻돌 #빌리빈뮤직 #8월29일 https://t.co/OJjM92xp0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빠져들게하는",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "무한매력",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "김뜻돌",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "빌리빈뮤직",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "8월29일",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8MM5JsLbZ",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4676",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161172285983735800,
+					"id_str": "1161172285983735814",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161172285983735814/pu/img/aExQ9UAAo_HtbgG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161172285983735814/pu/img/aExQ9UAAo_HtbgG7.jpg",
+					"url": "https://t.co/OJjM92xp0L",
+					"display_url": "pic.twitter.com/OJjM92xp0L",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1161173296949280768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161172285983735800,
+					"id_str": "1161172285983735814",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161172285983735814/pu/img/aExQ9UAAo_HtbgG7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161172285983735814/pu/img/aExQ9UAAo_HtbgG7.jpg",
+					"url": "https://t.co/OJjM92xp0L",
+					"display_url": "pic.twitter.com/OJjM92xp0L",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1161173296949280768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 67868,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161172285983735814/pu/vid/1280x720/UjY4bNEC9xeFSm9h.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1161172285983735814/pu/pl/JJyIKahKNMaNO7ZF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161172285983735814/pu/vid/640x360/DTRXflAoN9qOakQI.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161172285983735814/pu/vid/480x270/QHKiCgPms-SCS6za.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5206,
+			"friends_count": 4707,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 하반기 헬로루키 with KOCCA] \n\n🖤김뜻돌🖤\n생각을 넘어선 욕망, 본능적 본능의\n달달하고 날카로운 유혹! 😘💎\n\n#빠져들게하는 #무한매력 🌟🌈\n사랑에 빠질 준비 되셨나요?\n5월 23일 &lt;스페이스 공감&gt;에서 함께하세요 💕\n\nhttps://t.co/j8MM5JsLbZ\n\n#김뜻돌 #빌리빈뮤직 #8월29일 https://t.co/OJjM92xp0L"
+	},
+	{
+		"created_at": "Tue Aug 13 07:13:27 +0000 2019",
+		"id": 1161165899593703400,
+		"id_str": "1161173908046979072",
+		"full_text": "에프킬라 증정 이벤트 결과 나왔어요💙 #에프킬라권정열\n👇 \nhttps://t.co/24uDKnmmXf\n#10cm #방에모기가있어 https://t.co/5K6RwGbS18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에프킬라권정열",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "10cm",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "방에모기가있어",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24uDKnmmXf",
+					"expanded_url": "https://www.instagram.com/p/B1GCxA4FeBs/?igshid=6am5q3tbgmc6",
+					"display_url": "instagram.com/p/B1GCxA4FeBs/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161165891939135500,
+					"id_str": "1161165891939135489",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1KOgJU8AEFIbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1KOgJU8AEFIbQ.jpg",
+					"url": "https://t.co/5K6RwGbS18",
+					"display_url": "pic.twitter.com/5K6RwGbS18",
+					"expanded_url": "https://twitter.com/casperradio_/status/1161165899593703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161165891939135500,
+					"id_str": "1161165891939135489",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1KOgJU8AEFIbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1KOgJU8AEFIbQ.jpg",
+					"url": "https://t.co/5K6RwGbS18",
+					"display_url": "pic.twitter.com/5K6RwGbS18",
+					"expanded_url": "https://twitter.com/casperradio_/status/1161165899593703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에프킬라 증정 이벤트 결과 나왔어요💙 #에프킬라권정열\n👇 \nhttps://t.co/24uDKnmmXf\n#10cm #방에모기가있어 https://t.co/5K6RwGbS18"
+	},
+	{
+		"created_at": "Tue Aug 13 07:06:21 +0000 2019",
+		"id": 1161172120212246500,
+		"id_str": "1161172120212246528",
+		"full_text": "【 #PlayDB 】 #올림픽공원\n션 멘데스 내한공연 (2019.09.25 ~ 2019.09.25) at 올림픽공원 체조경기장 (KSPO DOME)\n▶ https://t.co/x8NldxhlxL\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/oAQiKjdfe7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "올림픽공원",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8NldxhlxL",
+					"expanded_url": "http://bit.ly/2ZWteUr",
+					"display_url": "bit.ly/2ZWteUr",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161172119331516400,
+					"id_str": "1161172119331516416",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1P4-_XsAAk2Z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1P4-_XsAAk2Z8.jpg",
+					"url": "https://t.co/oAQiKjdfe7",
+					"display_url": "pic.twitter.com/oAQiKjdfe7",
+					"expanded_url": "https://twitter.com/solplparty/status/1161172120212246528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161172119331516400,
+					"id_str": "1161172119331516416",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1P4-_XsAAk2Z8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1P4-_XsAAk2Z8.jpg",
+					"url": "https://t.co/oAQiKjdfe7",
+					"display_url": "pic.twitter.com/oAQiKjdfe7",
+					"expanded_url": "https://twitter.com/solplparty/status/1161172120212246528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #올림픽공원\n션 멘데스 내한공연 (2019.09.25 ~ 2019.09.25) at 올림픽공원 체조경기장 (KSPO DOME)\n▶ https://t.co/x8NldxhlxL\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/oAQiKjdfe7"
+	},
+	{
 		"created_at": "Tue Aug 13 06:10:38 +0000 2019",
 		"id": 1161158099262161000,
 		"id_str": "1161158099262160896",
