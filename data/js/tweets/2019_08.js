@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 13:13:27 +0000 2019",
+		"id": 1161250491482796000,
+		"id_str": "1161264505072029697",
+		"full_text": "십란한밤 보러 오세요❤️\nhttps://t.co/lZAmasgL02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lZAmasgL02",
+					"expanded_url": "https://www.vlive.tv/video/144093",
+					"display_url": "vlive.tv/video/144093",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "십란한밤 보러 오세요❤️\nhttps://t.co/lZAmasgL02"
+	},
+	{
+		"created_at": "Tue Aug 13 13:01:54 +0000 2019",
+		"id": 1161261596552962000,
+		"id_str": "1161261596552962048",
+		"full_text": "#포크라노스 #POCLANOS\n[MV] 호아(HOA) - FANTASY / Official Music Video\nhttps://t.co/tjY4cC7DMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tjY4cC7DMw",
+					"expanded_url": "https://youtu.be/_BPvxDw_dZU",
+					"display_url": "youtu.be/_BPvxDw_dZU",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[MV] 호아(HOA) - FANTASY / Official Music Video\nhttps://t.co/tjY4cC7DMw"
+	},
+	{
 		"created_at": "Tue Aug 13 12:13:39 +0000 2019",
 		"id": 1161244981173993500,
 		"id_str": "1161249452369371137",
