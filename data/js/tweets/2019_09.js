@@ -1,6 +1,1059 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 09:13:47 +0000 2019",
+		"id": 1168450115205382100,
+		"id_str": "1168451945989910528",
+		"full_text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"text": "강원도",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "춘천",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "KBS춘천",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "춘천가족음악축제",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "Lake",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "Music",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "Again",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "가요톱텐",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "가요",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "TOP10",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "춘천축제",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "가을축제",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "음악축제",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "공지천",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "의암공원",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "이상은",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "leetzsche",
+					"indices": [
+						185,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1168450025602478000,
+		"in_reply_to_status_id_str": "1168450025602478081",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3759,
+			"friends_count": 956,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche"
+	},
+	{
+		"created_at": "Mon Sep 02 09:13:41 +0000 2019",
+		"id": 1168450025602478000,
+		"id_str": "1168451920270417920",
+		"full_text": "#올댓뮤직\n#레이크뮤직페스티벌\n\n📣레이크뮤직페스티벌 X 올댓뮤직\n📣9월 22일 일요일 라인업\n@leesangeun.official 의 인사영상이 도착했습니다 !\n\n1년에 단 한 번뿐인 음악축제\n#Lakemusicfestival 🎶\n\n호수의 물결을 타고 흐르는 \n낭만 가득한 음악을 느껴보세요 ! https://t.co/dnGxQPsAnp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "레이크뮤직페스티벌",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "Lakemusicfestival",
+					"indices": [
+						108,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leesangeun",
+					"name": "Shelynn",
+					"id": 43079339,
+					"id_str": "43079339",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168449968664805400,
+					"id_str": "1168449968664805376",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168449968664805376/pu/img/x6CrflXG4FDupFqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168449968664805376/pu/img/x6CrflXG4FDupFqO.jpg",
+					"url": "https://t.co/dnGxQPsAnp",
+					"display_url": "pic.twitter.com/dnGxQPsAnp",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1168450025602478081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168449968664805400,
+					"id_str": "1168449968664805376",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168449968664805376/pu/img/x6CrflXG4FDupFqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168449968664805376/pu/img/x6CrflXG4FDupFqO.jpg",
+					"url": "https://t.co/dnGxQPsAnp",
+					"display_url": "pic.twitter.com/dnGxQPsAnp",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1168450025602478081/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 20333,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168449968664805376/pu/vid/720x406/snwEDNK_sIgMPOCe.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168449968664805376/pu/vid/478x270/QDID46xbmEo0TNXA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168449968664805376/pu/pl/HtDwdYTmNgBC5Sgp.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3759,
+			"friends_count": 956,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n#레이크뮤직페스티벌\n\n📣레이크뮤직페스티벌 X 올댓뮤직\n📣9월 22일 일요일 라인업\n@leesangeun.official 의 인사영상이 도착했습니다 !\n\n1년에 단 한 번뿐인 음악축제\n#Lakemusicfestival 🎶\n\n호수의 물결을 타고 흐르는 \n낭만 가득한 음악을 느껴보세요 ! https://t.co/dnGxQPsAnp"
+	},
+	{
+		"created_at": "Mon Sep 02 09:13:36 +0000 2019",
+		"id": 1168441469033533400,
+		"id_str": "1168451898803982336",
+		"full_text": "멤버분들이 담긴 쿠션, 맨투맨, 후드티, 머그컵, 그립톤 등등..정말 다양한 MD상품들이 전시되어 있으니 직접 오셔서 구경하시고 많은 관심 부탁드립니다💕\n\n+) 9/7(토) 오후 2시 30분부터 씬디 앞에서✨포엔과 SIS의 버스킹✨이 진행될 예정이니 놓치지 마세요 &gt;,&lt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1168441465996861400,
+		"in_reply_to_status_id_str": "1168441465996861440",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2717,
+			"friends_count": 2592,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "멤버분들이 담긴 쿠션, 맨투맨, 후드티, 머그컵, 그립톤 등등..정말 다양한 MD상품들이 전시되어 있으니 직접 오셔서 구경하시고 많은 관심 부탁드립니다💕\n\n+) 9/7(토) 오후 2시 30분부터 씬디 앞에서✨포엔과 SIS의 버스킹✨이 진행될 예정이니 놓치지 마세요 &gt;,&lt;"
+	},
+	{
+		"created_at": "Mon Sep 02 09:13:27 +0000 2019",
+		"id": 1168441465996861400,
+		"id_str": "1168451864704294912",
+		"full_text": "[#씬디스케치 X 더블엑스엔터테인먼트]\n선선한 날씨와 함께 하반기 씬디스케치가 돌아왔씁니다😎 \n이번 주 씬디스케치와 함께할 레이블을 바로💫더블엑스엔터테인먼트💫입니다~~!!\n\n지금 씬디 내부에는 더블엑스엔터테인먼트 소속 뮤지션 S.I.S, 열두달, 포엔, 안예은님의 전시가 진행 중인데요!! https://t.co/l3eV3EwwQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디스케치",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168441456077336600,
+					"id_str": "1168441456077336577",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcjUEpUcAE0iih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcjUEpUcAE0iih.jpg",
+					"url": "https://t.co/l3eV3EwwQO",
+					"display_url": "pic.twitter.com/l3eV3EwwQO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168441465996861440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 924,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168441456077336600,
+					"id_str": "1168441456077336577",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcjUEpUcAE0iih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcjUEpUcAE0iih.jpg",
+					"url": "https://t.co/l3eV3EwwQO",
+					"display_url": "pic.twitter.com/l3eV3EwwQO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168441465996861440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 924,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168441456089940000,
+					"id_str": "1168441456089939968",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcjUEsUwAAfE8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcjUEsUwAAfE8C.jpg",
+					"url": "https://t.co/l3eV3EwwQO",
+					"display_url": "pic.twitter.com/l3eV3EwwQO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168441465996861440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168441456089952300,
+					"id_str": "1168441456089952256",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcjUEsU8AAdhNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcjUEsU8AAdhNv.jpg",
+					"url": "https://t.co/l3eV3EwwQO",
+					"display_url": "pic.twitter.com/l3eV3EwwQO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168441465996861440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 609,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2717,
+			"friends_count": 2592,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디스케치 X 더블엑스엔터테인먼트]\n선선한 날씨와 함께 하반기 씬디스케치가 돌아왔씁니다😎 \n이번 주 씬디스케치와 함께할 레이블을 바로💫더블엑스엔터테인먼트💫입니다~~!!\n\n지금 씬디 내부에는 더블엑스엔터테인먼트 소속 뮤지션 S.I.S, 열두달, 포엔, 안예은님의 전시가 진행 중인데요!! https://t.co/l3eV3EwwQO"
+	},
+	{
+		"created_at": "Mon Sep 02 08:30:52 +0000 2019",
+		"id": 1168441146412064800,
+		"id_str": "1168441146412064768",
+		"full_text": "#민트페이퍼 #MINTPAPER\nGMF에서만 만날 수 있는 어덕행덕 with 소란\nhttps://t.co/mlsIUorIaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mlsIUorIaa",
+					"expanded_url": "https://youtu.be/cAMqL7uCTdY",
+					"display_url": "youtu.be/cAMqL7uCTdY",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\nGMF에서만 만날 수 있는 어덕행덕 with 소란\nhttps://t.co/mlsIUorIaa"
+	},
+	{
+		"created_at": "Mon Sep 02 08:21:16 +0000 2019",
+		"id": 1168438730832732200,
+		"id_str": "1168438730832732160",
+		"full_text": "#상상마당 #ssmadang\nKT&amp;G 글로벌 CSR 베트남 해외 봉사\nhttps://t.co/iMFrikPtSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ssmadang",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iMFrikPtSU",
+					"expanded_url": "https://youtu.be/9mucPUZAlpo",
+					"display_url": "youtu.be/9mucPUZAlpo",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #ssmadang\nKT&amp;G 글로벌 CSR 베트남 해외 봉사\nhttps://t.co/iMFrikPtSU"
+	},
+	{
 		"created_at": "Mon Sep 02 07:51:24 +0000 2019",
 		"id": 1168431212471443500,
 		"id_str": "1168431212471443456",
