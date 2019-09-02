@@ -1,10 +1,1593 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 10:13:42 +0000 2019",
+		"id": 1168466799190401000,
+		"id_str": "1168467023946555392",
+		"full_text": "❣️이벤트 기간❣️\n💿기간: 9월 2일 (월) ~ 9월 8일 (일)\n💿발표: 9월 9일 (월) 오후 6시\n\n많은 참여와 관심 부탁드립니다😍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1168466796313071600,
+		"in_reply_to_status_id_str": "1168466796313071616",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2716,
+			"friends_count": 2591,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❣️이벤트 기간❣️\n💿기간: 9월 2일 (월) ~ 9월 8일 (일)\n💿발표: 9월 9일 (월) 오후 6시\n\n많은 참여와 관심 부탁드립니다😍"
+	},
+	{
+		"created_at": "Mon Sep 02 10:13:33 +0000 2019",
+		"id": 1168466796313071600,
+		"id_str": "1168466985694519296",
+		"full_text": "[씬디스케치 X 더블엑스엔터테인먼트 앨범증정 이벤트]\n\n9월과 함께 돌아온 씬디 스케치는 더블엑스엔터테인먼트와 함께 할 예정인데요!!\n\n지금부터 더블엑스엔터테인먼트 소속 아티스트 열두달의 [일초하루] 앨범 증정 이벤트를 시작합니다📣\n\n✔️참여하기 https://t.co/eWJ0YOSNv9 https://t.co/is9UOIqWqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWJ0YOSNv9",
+					"expanded_url": "http://reurl.kr/3864945CDI",
+					"display_url": "reurl.kr/3864945CDI",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168466791552536600,
+					"id_str": "1168466791552536576",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDc6WypUUAAhpxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDc6WypUUAAhpxg.jpg",
+					"url": "https://t.co/is9UOIqWqL",
+					"display_url": "pic.twitter.com/is9UOIqWqL",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168466796313071616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168466791552536600,
+					"id_str": "1168466791552536576",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EDc6WypUUAAhpxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDc6WypUUAAhpxg.jpg",
+					"url": "https://t.co/is9UOIqWqL",
+					"display_url": "pic.twitter.com/is9UOIqWqL",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168466796313071616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2716,
+			"friends_count": 2591,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디스케치 X 더블엑스엔터테인먼트 앨범증정 이벤트]\n\n9월과 함께 돌아온 씬디 스케치는 더블엑스엔터테인먼트와 함께 할 예정인데요!!\n\n지금부터 더블엑스엔터테인먼트 소속 아티스트 열두달의 [일초하루] 앨범 증정 이벤트를 시작합니다📣\n\n✔️참여하기 https://t.co/eWJ0YOSNv9 https://t.co/is9UOIqWqL"
+	},
+	{
+		"created_at": "Mon Sep 02 10:13:27 +0000 2019",
+		"id": 1168465181006954500,
+		"id_str": "1168466964160942081",
+		"full_text": "싱어송라이터 안예은님과 보컬듀오 열두달의 굿즈 상세컷입니다📸\n\n‼️ MD상품들은 전시용으로 판매하지 않습니다 ㅜ.ㅜ 참고해주세요 ‼️ https://t.co/xRZqdJvMj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168465172186288000,
+					"id_str": "1168465172186288128",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EDc44iCUUAAyUcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDc44iCUUAAyUcO.jpg",
+					"url": "https://t.co/xRZqdJvMj4",
+					"display_url": "pic.twitter.com/xRZqdJvMj4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168465181006954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168465172186288000,
+					"id_str": "1168465172186288128",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EDc44iCUUAAyUcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDc44iCUUAAyUcO.jpg",
+					"url": "https://t.co/xRZqdJvMj4",
+					"display_url": "pic.twitter.com/xRZqdJvMj4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168465181006954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168465172186296300,
+					"id_str": "1168465172186296320",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EDc44iCUcAAQB4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDc44iCUcAAQB4W.jpg",
+					"url": "https://t.co/xRZqdJvMj4",
+					"display_url": "pic.twitter.com/xRZqdJvMj4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1168465181006954496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 652,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 921,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1168441469033533400,
+		"in_reply_to_status_id_str": "1168441469033533440",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2716,
+			"friends_count": 2591,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싱어송라이터 안예은님과 보컬듀오 열두달의 굿즈 상세컷입니다📸\n\n‼️ MD상품들은 전시용으로 판매하지 않습니다 ㅜ.ㅜ 참고해주세요 ‼️ https://t.co/xRZqdJvMj4"
+	},
+	{
+		"created_at": "Mon Sep 02 10:06:26 +0000 2019",
+		"id": 1168465194454081500,
+		"id_str": "1168465194454081536",
+		"full_text": "#딩고뮤직 #dingo_music\n[4K] 역대급 끈적한? 음향사고 찍어버린 CIX | MOVIE STAR [ROLLER COASTER DANCE]\nhttps://t.co/0SssqFOn70",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0SssqFOn70",
+					"expanded_url": "https://youtu.be/u_KY_WHU4RE",
+					"display_url": "youtu.be/u_KY_WHU4RE",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[4K] 역대급 끈적한? 음향사고 찍어버린 CIX | MOVIE STAR [ROLLER COASTER DANCE]\nhttps://t.co/0SssqFOn70"
+	},
+	{
+		"created_at": "Mon Sep 02 09:46:16 +0000 2019",
+		"id": 1168460122269597700,
+		"id_str": "1168460122269597696",
+		"full_text": "#플럭서스뮤직 #Fluxus_Music\n[MV] CLAZZIQUAI PROJECT (클래지콰이 프로젝트) - What if (feat. Suyoung Kim)\nhttps://t.co/AhNQ1kUNfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플럭서스뮤직",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Fluxus_Music",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AhNQ1kUNfv",
+					"expanded_url": "https://youtu.be/Z1_E0ZIP4nk",
+					"display_url": "youtu.be/Z1_E0ZIP4nk",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#플럭서스뮤직 #Fluxus_Music\n[MV] CLAZZIQUAI PROJECT (클래지콰이 프로젝트) - What if (feat. Suyoung Kim)\nhttps://t.co/AhNQ1kUNfv"
+	},
+	{
+		"created_at": "Mon Sep 02 09:23:55 +0000 2019",
+		"id": 1168454495950573600,
+		"id_str": "1168454495950573568",
+		"full_text": "#벅스 #뮤직포스트\n[뮤직포커스] 월간 팝 뉴스 - 오바마 플레이리스트 공개, MTV VMA 2019 소식\nhttps://t.co/oW7DQ8BNZj https://t.co/RecUypd3BA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oW7DQ8BNZj",
+					"expanded_url": "http://bit.ly/2jYpbqS",
+					"display_url": "bit.ly/2jYpbqS",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168454495061381000,
+					"id_str": "1168454495061381120",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcvLCpXkAA9sBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcvLCpXkAA9sBO.jpg",
+					"url": "https://t.co/RecUypd3BA",
+					"display_url": "pic.twitter.com/RecUypd3BA",
+					"expanded_url": "https://twitter.com/solplparty/status/1168454495950573568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168454495061381000,
+					"id_str": "1168454495061381120",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcvLCpXkAA9sBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcvLCpXkAA9sBO.jpg",
+					"url": "https://t.co/RecUypd3BA",
+					"display_url": "pic.twitter.com/RecUypd3BA",
+					"expanded_url": "https://twitter.com/solplparty/status/1168454495950573568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#벅스 #뮤직포스트\n[뮤직포커스] 월간 팝 뉴스 - 오바마 플레이리스트 공개, MTV VMA 2019 소식\nhttps://t.co/oW7DQ8BNZj https://t.co/RecUypd3BA"
+	},
+	{
+		"created_at": "Mon Sep 02 09:23:49 +0000 2019",
+		"id": 1168454470235230200,
+		"id_str": "1168454470235230208",
+		"full_text": "#벅스 #뮤직포스트\n[공연/페스티벌] Pieter Wispelwey(피터 비스펠베이) - 가을을 타는 당신을 위한 슈베르트 선율\nhttps://t.co/HckK6YbU0s https://t.co/D4AwqfWyDL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HckK6YbU0s",
+					"expanded_url": "http://bit.ly/2jYp1zM",
+					"display_url": "bit.ly/2jYp1zM",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168454469253812200,
+					"id_str": "1168454469253812227",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcvJigXUAMzAvw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcvJigXUAMzAvw.jpg",
+					"url": "https://t.co/D4AwqfWyDL",
+					"display_url": "pic.twitter.com/D4AwqfWyDL",
+					"expanded_url": "https://twitter.com/solplparty/status/1168454470235230208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168454469253812200,
+					"id_str": "1168454469253812227",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcvJigXUAMzAvw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcvJigXUAMzAvw.jpg",
+					"url": "https://t.co/D4AwqfWyDL",
+					"display_url": "pic.twitter.com/D4AwqfWyDL",
+					"expanded_url": "https://twitter.com/solplparty/status/1168454470235230208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#벅스 #뮤직포스트\n[공연/페스티벌] Pieter Wispelwey(피터 비스펠베이) - 가을을 타는 당신을 위한 슈베르트 선율\nhttps://t.co/HckK6YbU0s https://t.co/D4AwqfWyDL"
+	},
+	{
+		"created_at": "Mon Sep 02 09:19:53 +0000 2019",
+		"id": 1168453482690547700,
+		"id_str": "1168453482690547712",
+		"full_text": "【 #PlayDB 】 #올림픽공원\n보아 콘서트 (2019.10.26 ~ 2019.10.27) at 올림픽공원 올림픽홀\n▶ https://t.co/7Nelk40llq\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/fCWFeNLBEi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "올림픽공원",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Nelk40llq",
+					"expanded_url": "http://bit.ly/2jPCGJc",
+					"display_url": "bit.ly/2jPCGJc",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168453481755218000,
+					"id_str": "1168453481755217920",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcuQDyWkAA-69-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcuQDyWkAA-69-.jpg",
+					"url": "https://t.co/fCWFeNLBEi",
+					"display_url": "pic.twitter.com/fCWFeNLBEi",
+					"expanded_url": "https://twitter.com/solplparty/status/1168453482690547712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168453481755218000,
+					"id_str": "1168453481755217920",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EDcuQDyWkAA-69-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDcuQDyWkAA-69-.jpg",
+					"url": "https://t.co/fCWFeNLBEi",
+					"display_url": "pic.twitter.com/fCWFeNLBEi",
+					"expanded_url": "https://twitter.com/solplparty/status/1168453482690547712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #올림픽공원\n보아 콘서트 (2019.10.26 ~ 2019.10.27) at 올림픽공원 올림픽홀\n▶ https://t.co/7Nelk40llq\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/fCWFeNLBEi"
+	},
+	{
+		"created_at": "Mon Sep 02 09:18:24 +0000 2019",
+		"id": 1168452777342689300,
+		"id_str": "1168453110437732352",
+		"full_text": "클래지콰이 프로젝트 (Clazziquai Project) 새 싱글 \"What if\"가 공개 되었습니다! 매직스트로베리사운드의 싱어송라이터 김수영님이 피쳐링으로 참여해주셨어요!\nhttps://t.co/ZyF9hKU7DX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZyF9hKU7DX",
+					"expanded_url": "https://bit.ly/2lqU5IQ",
+					"display_url": "bit.ly/2lqU5IQ",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174146592,
+			"id_str": "174146592",
+			"name": "플럭서스 뮤직",
+			"screen_name": "FLUXUSMUSIC",
+			"location": "Seoul, South Korea",
+			"description": "FLUXUS MUSIC/ 🎧 WHERE GOOD MUSIC LIVES 🎤",
+			"url": "https://t.co/nvQV1FbqAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nvQV1FbqAZ",
+							"expanded_url": "https://www.fluxus.co.kr/",
+							"display_url": "fluxus.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14573,
+			"friends_count": 14059,
+			"listed_count": 259,
+			"created_at": "Tue Aug 03 06:11:07 +0000 2010",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069827211757142017/QnobT7cJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069827211757142017/QnobT7cJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174146592/1543901507",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클래지콰이 프로젝트 (Clazziquai Project) 새 싱글 \"What if\"가 공개 되었습니다! 매직스트로베리사운드의 싱어송라이터 김수영님이 피쳐링으로 참여해주셨어요!\nhttps://t.co/ZyF9hKU7DX"
+	},
+	{
+		"created_at": "Mon Sep 02 09:18:20 +0000 2019",
+		"id": 1168451707161870300,
+		"id_str": "1168453093241085953",
+		"full_text": "[#에피톤프로젝트] 싱글 ‘사랑, 그 숨 막히던 순간’ 발매됐습니다❣️\n\n미련하게도\n여전히 난 너를\n아직도 난 너를\n\n#사랑그숨막히던순간\n\nhttps://t.co/vAeHYNGLSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에피톤프로젝트",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "사랑그숨막히던순간",
+					"indices": [
+						66,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vAeHYNGLSH",
+					"expanded_url": "https://youtu.be/XPGxClO3Mfc",
+					"display_url": "youtu.be/XPGxClO3Mfc",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 12,
+			"listed_count": 2,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#에피톤프로젝트] 싱글 ‘사랑, 그 숨 막히던 순간’ 발매됐습니다❣️\n\n미련하게도\n여전히 난 너를\n아직도 난 너를\n\n#사랑그숨막히던순간\n\nhttps://t.co/vAeHYNGLSH"
+	},
+	{
 		"created_at": "Mon Sep 02 09:13:47 +0000 2019",
 		"id": 1168450115205382100,
 		"id_str": "1168451945989910528",
-		"full_text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche",
+		"full_text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇♂️🙇♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -227,7 +1810,7 @@ Grailbird.data.tweets_2019_09 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche"
+		"text": "📣현재 입장권 온/오프라인 사전 신청 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇♂️🙇♀️\n\n#ALLTHATMUSIC #강원도 #춘천 #KBS춘천 #춘천가족음악축제 #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #이상은 #leetzsche"
 	},
 	{
 		"created_at": "Mon Sep 02 09:13:41 +0000 2019",
