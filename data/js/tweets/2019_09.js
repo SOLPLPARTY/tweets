@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 02 00:13:27 +0000 2019",
+		"id": 1168315246764683300,
+		"id_str": "1168315967992139776",
+		"full_text": "오늘 #먼데이서울 이 다시 시작됩니다. 함께 문을 열어주실래요? \n\n&lt;소리로 지은 시, 노래로 엮은 이야기&gt; \n전기뱀장어 \n\n오늘 8시 30분 \n복합문화공간 더숲 \n\n*예매 https://t.co/WDeg8bk7tT (회원가입 필요) 혹은 더숲 카운터\n*현매 입장도 가능합니다 https://t.co/DX5qCNFfXC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이서울",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WDeg8bk7tT",
+					"expanded_url": "http://linktr.ee/theforest6",
+					"display_url": "linktr.ee/theforest6",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168315225524727800,
+					"id_str": "1168315225524727808",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EDawgfMU8AAa_OF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDawgfMU8AAa_OF.jpg",
+					"url": "https://t.co/DX5qCNFfXC",
+					"display_url": "pic.twitter.com/DX5qCNFfXC",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1168315246764683264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168315225524727800,
+					"id_str": "1168315225524727808",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EDawgfMU8AAa_OF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDawgfMU8AAa_OF.jpg",
+					"url": "https://t.co/DX5qCNFfXC",
+					"display_url": "pic.twitter.com/DX5qCNFfXC",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1168315246764683264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168315225524723700,
+					"id_str": "1168315225524723712",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EDawgfMU4AAbLdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDawgfMU4AAbLdi.jpg",
+					"url": "https://t.co/DX5qCNFfXC",
+					"display_url": "pic.twitter.com/DX5qCNFfXC",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1168315246764683264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168315225625333800,
+					"id_str": "1168315225625333761",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EDawgfkUEAEfBZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDawgfkUEAEfBZI.jpg",
+					"url": "https://t.co/DX5qCNFfXC",
+					"display_url": "pic.twitter.com/DX5qCNFfXC",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1168315246764683264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168315225625350100,
+					"id_str": "1168315225625350144",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EDawgfkUUAAIvvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDawgfkUUAAIvvn.jpg",
+					"url": "https://t.co/DX5qCNFfXC",
+					"display_url": "pic.twitter.com/DX5qCNFfXC",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1168315246764683264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 507,
+			"friends_count": 225,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1567060802",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 #먼데이서울 이 다시 시작됩니다. 함께 문을 열어주실래요? \n\n&lt;소리로 지은 시, 노래로 엮은 이야기&gt; \n전기뱀장어 \n\n오늘 8시 30분 \n복합문화공간 더숲 \n\n*예매 https://t.co/WDeg8bk7tT (회원가입 필요) 혹은 더숲 카운터\n*현매 입장도 가능합니다 https://t.co/DX5qCNFfXC"
+	},
+	{
 		"created_at": "Sun Sep 01 19:50:20 +0000 2019",
 		"id": 1168249751483142100,
 		"id_str": "1168249751483142146",
