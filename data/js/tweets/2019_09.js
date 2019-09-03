@@ -1,6 +1,1113 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 08:13:38 +0000 2019",
+		"id": 1168795312774766600,
+		"id_str": "1168799195643428865",
+		"full_text": "🆕 New Release September 3\n-\n💿 인마이포켓 [In My Pocket]\n\n주머니 속에 넣고 싶은 밴드 ‘인마이포켓’의 첫 싱글이 발매되었습니다.\n\n힘든 현실도 지나고 나면 아무 일도 아니게 되는 것처럼 미래의 내가 과거의 나에게 건네주는 밝은 위로!\n\n✚ 앨범 자세히 보기: https://t.co/c7bOF4NNfc https://t.co/O9EKrT0HU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c7bOF4NNfc",
+					"expanded_url": "https://bit.ly/2LeGcHY",
+					"display_url": "bit.ly/2LeGcHY",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168795082109014000,
+					"id_str": "1168795082109014016",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168795082109014016/pu/img/2zVfaGkfsmdvlzcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168795082109014016/pu/img/2zVfaGkfsmdvlzcR.jpg",
+					"url": "https://t.co/O9EKrT0HU8",
+					"display_url": "pic.twitter.com/O9EKrT0HU8",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1168795312774766593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168795082109014000,
+					"id_str": "1168795082109014016",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168795082109014016/pu/img/2zVfaGkfsmdvlzcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168795082109014016/pu/img/2zVfaGkfsmdvlzcR.jpg",
+					"url": "https://t.co/O9EKrT0HU8",
+					"display_url": "pic.twitter.com/O9EKrT0HU8",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1168795312774766593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168795082109014016/pu/vid/320x320/fNZbh1d1o3_m_mUp.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168795082109014016/pu/vid/480x480/UmXBcGimft-kd45W.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168795082109014016/pu/pl/5x2Oh2MHG2wpVVR1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168795082109014016/pu/vid/720x720/SHw1omuxspmp5Vn-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9859,
+			"friends_count": 3072,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release September 3\n-\n💿 인마이포켓 [In My Pocket]\n\n주머니 속에 넣고 싶은 밴드 ‘인마이포켓’의 첫 싱글이 발매되었습니다.\n\n힘든 현실도 지나고 나면 아무 일도 아니게 되는 것처럼 미래의 내가 과거의 나에게 건네주는 밝은 위로!\n\n✚ 앨범 자세히 보기: https://t.co/c7bOF4NNfc https://t.co/O9EKrT0HU8"
+	},
+	{
+		"created_at": "Tue Sep 03 08:13:36 +0000 2019",
+		"id": 1168794558194278400,
+		"id_str": "1168799186860617728",
+		"full_text": "🆕 New Release September 3\n-\n💿 Otis Lim - Blue Pinwale\n[Airbag]\n\n\"무엇이 버려지고, 무엇을 취하는가\n또 그것은 정당한가, 합당한가\n자신만의 기준과 방법을 찾아 행동할 것을 의문하고 촉구한다.\"\n\n✚ 앨범 자세히 보기: https://t.co/QPjuL7rS01 https://t.co/zxyOkSeRg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPjuL7rS01",
+					"expanded_url": "https://bit.ly/2Li41ic",
+					"display_url": "bit.ly/2Li41ic",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168794420453359600,
+					"id_str": "1168794420453359616",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168794420453359616/pu/img/Zb7yBPI24Qx8pxEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168794420453359616/pu/img/Zb7yBPI24Qx8pxEs.jpg",
+					"url": "https://t.co/zxyOkSeRg6",
+					"display_url": "pic.twitter.com/zxyOkSeRg6",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1168794558194278401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168794420453359600,
+					"id_str": "1168794420453359616",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168794420453359616/pu/img/Zb7yBPI24Qx8pxEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168794420453359616/pu/img/Zb7yBPI24Qx8pxEs.jpg",
+					"url": "https://t.co/zxyOkSeRg6",
+					"display_url": "pic.twitter.com/zxyOkSeRg6",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1168794558194278401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168794420453359616/pu/vid/720x720/ref9mvjS9C0ac9O-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168794420453359616/pu/pl/01A0v5OrDtPsycTt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168794420453359616/pu/vid/480x480/Tf2LmV3XOn8HHxSn.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168794420453359616/pu/vid/320x320/I3d4t1_oAWKul1cV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9859,
+			"friends_count": 3072,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release September 3\n-\n💿 Otis Lim - Blue Pinwale\n[Airbag]\n\n\"무엇이 버려지고, 무엇을 취하는가\n또 그것은 정당한가, 합당한가\n자신만의 기준과 방법을 찾아 행동할 것을 의문하고 촉구한다.\"\n\n✚ 앨범 자세히 보기: https://t.co/QPjuL7rS01 https://t.co/zxyOkSeRg6"
+	},
+	{
+		"created_at": "Tue Sep 03 08:13:33 +0000 2019",
+		"id": 1168791706138898400,
+		"id_str": "1168799178023145472",
+		"full_text": "2019 EBS 하반기 헬로루키 with KOCCA - [네모공감] 소식\n\n하반기 [네모공감]의 첫 주자! 여러분의 다음 세대,\n차세대의 [네모공감] 미리 보기를 공개합니다~\n\n가을장마라더니 반짝반짝 ✨💫\n하늘 맛집으로 만들어버린 날씨요정들🧚‍♀️🧞‍♂️🌈\n\n차세대가 선보일 곡은??🤩🧐\n두구두구🥁많이 기대해주세요🙏 https://t.co/PBssYAaGe2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168791689424556000,
+					"id_str": "1168791689424556033",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhh2ViUUAELsoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhh2ViUUAELsoS.jpg",
+					"url": "https://t.co/PBssYAaGe2",
+					"display_url": "pic.twitter.com/PBssYAaGe2",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1168791706138898433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168791689424556000,
+					"id_str": "1168791689424556033",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhh2ViUUAELsoS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhh2ViUUAELsoS.jpg",
+					"url": "https://t.co/PBssYAaGe2",
+					"display_url": "pic.twitter.com/PBssYAaGe2",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1168791706138898433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168791689441378300,
+					"id_str": "1168791689441378304",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhh2VmVAAAnTDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhh2VmVAAAnTDf.jpg",
+					"url": "https://t.co/PBssYAaGe2",
+					"display_url": "pic.twitter.com/PBssYAaGe2",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1168791706138898433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 925,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 925,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1168791689428779000,
+					"id_str": "1168791689428779008",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhh2VjUwAAcRGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhh2VjUwAAcRGO.jpg",
+					"url": "https://t.co/PBssYAaGe2",
+					"display_url": "pic.twitter.com/PBssYAaGe2",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1168791706138898433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5194,
+			"friends_count": 4696,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 EBS 하반기 헬로루키 with KOCCA - [네모공감] 소식\n\n하반기 [네모공감]의 첫 주자! 여러분의 다음 세대,\n차세대의 [네모공감] 미리 보기를 공개합니다~\n\n가을장마라더니 반짝반짝 ✨💫\n하늘 맛집으로 만들어버린 날씨요정들🧚‍♀️🧞‍♂️🌈\n\n차세대가 선보일 곡은??🤩🧐\n두구두구🥁많이 기대해주세요🙏 https://t.co/PBssYAaGe2"
+	},
+	{
+		"created_at": "Tue Sep 03 08:13:30 +0000 2019",
+		"id": 1168789474907586600,
+		"id_str": "1168799164941111296",
+		"full_text": "언플러그드에서 10월 오픈마이크 뮤지션을 모집합니다. 신청 기간 19.09.03-09.25 https://t.co/q8CnUScnb9 https://t.co/xadghMIbYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q8CnUScnb9",
+					"expanded_url": "http://Bit.ly/openmic1910",
+					"display_url": "Bit.ly/openmic1910",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168789465365545000,
+					"id_str": "1168789465365544960",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhf04RVAAATcf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhf04RVAAATcf2.jpg",
+					"url": "https://t.co/xadghMIbYe",
+					"display_url": "pic.twitter.com/xadghMIbYe",
+					"expanded_url": "https://twitter.com/cafe_unplugged/status/1168789474907586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168789465365545000,
+					"id_str": "1168789465365544960",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EDhf04RVAAATcf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDhf04RVAAATcf2.jpg",
+					"url": "https://t.co/xadghMIbYe",
+					"display_url": "pic.twitter.com/xadghMIbYe",
+					"expanded_url": "https://twitter.com/cafe_unplugged/status/1168789474907586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295474993,
+			"id_str": "295474993",
+			"name": "카페 언플러그드",
+			"screen_name": "cafe_unplugged",
+			"location": "서울시 마포구 서교동 326-18 1층, 지하 1층",
+			"description": "070-4200-9251",
+			"url": "https://t.co/9lPmySTRmo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lPmySTRmo",
+							"expanded_url": "http://cafe.naver.com/cafeunplugged",
+							"display_url": "cafe.naver.com/cafeunplugged",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 1146,
+			"listed_count": 48,
+			"created_at": "Mon May 09 03:05:19 +0000 2011",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295474993/1525645770",
+			"profile_link_color": "FF2450",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "언플러그드에서 10월 오픈마이크 뮤지션을 모집합니다. 신청 기간 19.09.03-09.25 https://t.co/q8CnUScnb9 https://t.co/xadghMIbYe"
+	},
+	{
+		"created_at": "Tue Sep 03 08:13:27 +0000 2019",
+		"id": 1168788240624574500,
+		"id_str": "1168799151938834433",
+		"full_text": "&lt;무대륙 기획 공연&gt;\n💚 일시: 9/8 (일) 7PM\n💚 장소 : 무대륙 Mu\n💚 라인업 : 셀린셀리셀리느, Tierpark, 장명선, CCTB(Vjing)\n💚 티켓가 : 예매 18,000원 / 현매 23,000원       \n➡️ 예매 링크 : https://t.co/yfvq4GuRwQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfvq4GuRwQ",
+					"expanded_url": "https://c11.kr/9v6h",
+					"display_url": "c11.kr/9v6h",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1168788237621420000,
+		"in_reply_to_status_id_str": "1168788237621420032",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2717,
+			"friends_count": 2591,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;무대륙 기획 공연&gt;\n💚 일시: 9/8 (일) 7PM\n💚 장소 : 무대륙 Mu\n💚 라인업 : 셀린셀리셀리느, Tierpark, 장명선, CCTB(Vjing)\n💚 티켓가 : 예매 18,000원 / 현매 23,000원       \n➡️ 예매 링크 : https://t.co/yfvq4GuRwQ"
+	},
+	{
+		"created_at": "Tue Sep 03 08:11:20 +0000 2019",
+		"id": 1168798617613820000,
+		"id_str": "1168798617613819904",
+		"full_text": "#Private_Curve #프라이빗커브\nNEW HOPE CLUB LIVE IN SEOUL: PAYCHECK\nhttps://t.co/SIcsB75foA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Private_Curve",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SIcsB75foA",
+					"expanded_url": "https://youtu.be/H3jxucWST-E",
+					"display_url": "youtu.be/H3jxucWST-E",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Private_Curve #프라이빗커브\nNEW HOPE CLUB LIVE IN SEOUL: PAYCHECK\nhttps://t.co/SIcsB75foA"
+	},
+	{
 		"created_at": "Tue Sep 03 07:13:29 +0000 2019",
 		"id": 1168776503049408500,
 		"id_str": "1168784061483147264",
