@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 12:13:33 +0000 2019",
+		"id": 1168849424509915100,
+		"id_str": "1168859573731635202",
+		"full_text": "열광석에 앉은 분들은 끝까지 녹화 함께 해주세요!\n* 티켓 교환 시 당첨자의 신분증을 지참해주세요.\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#구원찬 #kuonechan\n#솔루션스 #박솔 #권오경 #나루 #박한솔\n#신현희 #seenhyunhee #오왠 #owhen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "구원찬",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "kuonechan",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "박솔",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "권오경",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "나루",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "박한솔",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "신현희",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "seenhyunhee",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "오왠",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "owhen",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1168849352871137300,
+		"in_reply_to_status_id_str": "1168849352871137281",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3757,
+			"friends_count": 956,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "열광석에 앉은 분들은 끝까지 녹화 함께 해주세요!\n* 티켓 교환 시 당첨자의 신분증을 지참해주세요.\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#구원찬 #kuonechan\n#솔루션스 #박솔 #권오경 #나루 #박한솔\n#신현희 #seenhyunhee #오왠 #owhen"
+	},
+	{
+		"created_at": "Tue Sep 03 12:13:28 +0000 2019",
+		"id": 1168849352871137300,
+		"id_str": "1168859551975772160",
+		"full_text": "#올댓뮤직 #공개녹화\n190905 19:00 @춘천KBS공개홀\n\n@o.when 의\n인사영상이 도착했습니다💌\n이번 녹화 현장 입장 가능합니다👏\n\n* 티켓교환: 저녁 6시10분~ (선착순)\n* 입장시간: 저녁 6시30분~ (현장입장: 6시50분~)\n* 선착순으로 티켓을 배부합니다 (열광석 → 일반석) https://t.co/DoZOVaqTS4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "O",
+					"name": "O",
+					"id": 1141414200,
+					"id_str": "1141414200",
+					"indices": [
+						36,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168849287725273000,
+					"id_str": "1168849287725273093",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168849287725273093/pu/img/RADV5pSSCo20mxUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168849287725273093/pu/img/RADV5pSSCo20mxUt.jpg",
+					"url": "https://t.co/DoZOVaqTS4",
+					"display_url": "pic.twitter.com/DoZOVaqTS4",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1168849352871137281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168849287725273000,
+					"id_str": "1168849287725273093",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1168849287725273093/pu/img/RADV5pSSCo20mxUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1168849287725273093/pu/img/RADV5pSSCo20mxUt.jpg",
+					"url": "https://t.co/DoZOVaqTS4",
+					"display_url": "pic.twitter.com/DoZOVaqTS4",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1168849352871137281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20953,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168849287725273093/pu/vid/1280x720/cOuQ4B3rXoQwM17j.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168849287725273093/pu/vid/640x360/pgmUGMi9D3ugwzWa.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1168849287725273093/pu/pl/QFWBKRk5moWQDors.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1168849287725273093/pu/vid/480x270/lw1_fDyQQiQFY1Qx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3757,
+			"friends_count": 956,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n190905 19:00 @춘천KBS공개홀\n\n@o.when 의\n인사영상이 도착했습니다💌\n이번 녹화 현장 입장 가능합니다👏\n\n* 티켓교환: 저녁 6시10분~ (선착순)\n* 입장시간: 저녁 6시30분~ (현장입장: 6시50분~)\n* 선착순으로 티켓을 배부합니다 (열광석 → 일반석) https://t.co/DoZOVaqTS4"
+	},
+	{
+		"created_at": "Tue Sep 03 11:48:34 +0000 2019",
+		"id": 1168853284892938200,
+		"id_str": "1168853284892938241",
+		"full_text": "#CJ아지트\n뮤지컬 '오, 박씨!' : 웰메이드 창작뮤지컬 '날아라 박씨!' 재탄생! (2019.08.23 ~ 2019.09.08) at CJ아지트 대학로\n▶ https://t.co/s1PP4rrmSX\n　\n#CJ문화재단 #공연일정 #티켓공지 https://t.co/PyBoO2nz6I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CJ아지트",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "CJ문화재단",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s1PP4rrmSX",
+					"expanded_url": "http://bit.ly/2LrLq1R",
+					"display_url": "bit.ly/2LrLq1R",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1168853283869474800,
+					"id_str": "1168853283869474826",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDiZ3muWwAoX2aM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDiZ3muWwAoX2aM.jpg",
+					"url": "https://t.co/PyBoO2nz6I",
+					"display_url": "pic.twitter.com/PyBoO2nz6I",
+					"expanded_url": "https://twitter.com/solplparty/status/1168853284892938241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168853283869474800,
+					"id_str": "1168853283869474826",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDiZ3muWwAoX2aM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDiZ3muWwAoX2aM.jpg",
+					"url": "https://t.co/PyBoO2nz6I",
+					"display_url": "pic.twitter.com/PyBoO2nz6I",
+					"expanded_url": "https://twitter.com/solplparty/status/1168853284892938241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CJ아지트\n뮤지컬 '오, 박씨!' : 웰메이드 창작뮤지컬 '날아라 박씨!' 재탄생! (2019.08.23 ~ 2019.09.08) at CJ아지트 대학로\n▶ https://t.co/s1PP4rrmSX\n　\n#CJ문화재단 #공연일정 #티켓공지 https://t.co/PyBoO2nz6I"
+	},
+	{
 		"created_at": "Tue Sep 03 10:50:52 +0000 2019",
 		"id": 1168838766146084900,
 		"id_str": "1168838766146084865",
