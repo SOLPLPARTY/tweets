@@ -1,6 +1,1070 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 04 05:13:29 +0000 2019",
+		"id": 1169113015813148700,
+		"id_str": "1169116250569621505",
+		"full_text": "&lt;HOT 영상 - 2019 하반기 오디션 참가팀&gt; 플랫폼 스테레오(Platform Stereo)\n\n2019 하반기 헬로루키 현장 오디션 무대에 올랐던\n11팀의 HOT영상을 공개합니다~ 😉🤲\n\n뜨거웠던 그 날의 열기를 다시 한번 함께해요 🎤💕\n\n플랫폼 스테레오(Platform Stereo) - ‘2049’♪\n\nhttps://t.co/KnWUa7ehQf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KnWUa7ehQf",
+					"expanded_url": "https://youtu.be/u3Jl6t5JH1o",
+					"display_url": "youtu.be/u3Jl6t5JH1o",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5196,
+			"friends_count": 4696,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;HOT 영상 - 2019 하반기 오디션 참가팀&gt; 플랫폼 스테레오(Platform Stereo)\n\n2019 하반기 헬로루키 현장 오디션 무대에 올랐던\n11팀의 HOT영상을 공개합니다~ 😉🤲\n\n뜨거웠던 그 날의 열기를 다시 한번 함께해요 🎤💕\n\n플랫폼 스테레오(Platform Stereo) - ‘2049’♪\n\nhttps://t.co/KnWUa7ehQf"
+	},
+	{
+		"created_at": "Wed Sep 04 05:13:27 +0000 2019",
+		"id": 1169110453420580900,
+		"id_str": "1169116241673564160",
+		"full_text": "&lt;HOT 영상 - 2019 하반기 오디션 참가팀&gt; 천용성\n\n2019 하반기 헬로루키 총 355팀 지원! 🕺🏻💃🏻\n1차 음원 심사를 통과하고 현장 오디션 무대에 올랐던\n11팀의 HOT영상을 공개합니다~ 😉🤲\n\n뜨거웠던 그 날의 열기를 다시 한번 함께해요 🎤💕\n\n천용성 - ‘대설주의보’♪\n\nhttps://t.co/MoquVZpaop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MoquVZpaop",
+					"expanded_url": "https://youtu.be/YAtTvSKPc5k",
+					"display_url": "youtu.be/YAtTvSKPc5k",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5196,
+			"friends_count": 4696,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;HOT 영상 - 2019 하반기 오디션 참가팀&gt; 천용성\n\n2019 하반기 헬로루키 총 355팀 지원! 🕺🏻💃🏻\n1차 음원 심사를 통과하고 현장 오디션 무대에 올랐던\n11팀의 HOT영상을 공개합니다~ 😉🤲\n\n뜨거웠던 그 날의 열기를 다시 한번 함께해요 🎤💕\n\n천용성 - ‘대설주의보’♪\n\nhttps://t.co/MoquVZpaop"
+	},
+	{
+		"created_at": "Wed Sep 04 05:10:55 +0000 2019",
+		"id": 1169115604919423000,
+		"id_str": "1169115604919422978",
+		"full_text": "#예스24공연\n생쥐와 인간 2차 오픈 : 9월9일(월) 2시\n▶ https://t.co/eEBLwFWhZy\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/tZSAnzG5ah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEBLwFWhZy",
+					"expanded_url": "http://bit.ly/2PGiMj9",
+					"display_url": "bit.ly/2PGiMj9",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169115603979952000,
+					"id_str": "1169115603979952129",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIcpSXYAECeN9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIcpSXYAECeN9.png",
+					"url": "https://t.co/tZSAnzG5ah",
+					"display_url": "pic.twitter.com/tZSAnzG5ah",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115604919422978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 33,
+							"h": 33,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169115603979952000,
+					"id_str": "1169115603979952129",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIcpSXYAECeN9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIcpSXYAECeN9.png",
+					"url": "https://t.co/tZSAnzG5ah",
+					"display_url": "pic.twitter.com/tZSAnzG5ah",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115604919422978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 33,
+							"h": 33,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n생쥐와 인간 2차 오픈 : 9월9일(월) 2시\n▶ https://t.co/eEBLwFWhZy\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/tZSAnzG5ah"
+	},
+	{
+		"created_at": "Wed Sep 04 05:10:52 +0000 2019",
+		"id": 1169115591703224300,
+		"id_str": "1169115591703224320",
+		"full_text": "#예스24공연\n머더러 1차 오픈 : 9월6일(금) 2시\n▶ https://t.co/Z5tnz3BSb7\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/m29MZSvezm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5tnz3BSb7",
+					"expanded_url": "http://bit.ly/2zS7E7O",
+					"display_url": "bit.ly/2zS7E7O",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169115590788878300,
+					"id_str": "1169115590788878337",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIb4JXkAEhOwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIb4JXkAEhOwW.jpg",
+					"url": "https://t.co/m29MZSvezm",
+					"display_url": "pic.twitter.com/m29MZSvezm",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115591703224320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169115590788878300,
+					"id_str": "1169115590788878337",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIb4JXkAEhOwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIb4JXkAEhOwW.jpg",
+					"url": "https://t.co/m29MZSvezm",
+					"display_url": "pic.twitter.com/m29MZSvezm",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115591703224320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n머더러 1차 오픈 : 9월6일(금) 2시\n▶ https://t.co/Z5tnz3BSb7\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/m29MZSvezm"
+	},
+	{
+		"created_at": "Wed Sep 04 05:10:42 +0000 2019",
+		"id": 1169115546304073700,
+		"id_str": "1169115546304073728",
+		"full_text": "#예스24공연\n슈퍼주니어 콘서트 일반예매 오픈 : 9월5일(목) 8시\n▶ https://t.co/k0xYK9YnDN\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/0j7m7iFTd0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k0xYK9YnDN",
+					"expanded_url": "http://bit.ly/2PE9iEY",
+					"display_url": "bit.ly/2PE9iEY",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169115545138028500,
+					"id_str": "1169115545138028544",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIZOFW4AAtg69.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIZOFW4AAtg69.png",
+					"url": "https://t.co/0j7m7iFTd0",
+					"display_url": "pic.twitter.com/0j7m7iFTd0",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115546304073728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 33,
+							"h": 33,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169115545138028500,
+					"id_str": "1169115545138028544",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIZOFW4AAtg69.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIZOFW4AAtg69.png",
+					"url": "https://t.co/0j7m7iFTd0",
+					"display_url": "pic.twitter.com/0j7m7iFTd0",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115546304073728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 33,
+							"h": 33,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 33,
+							"h": 36,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n슈퍼주니어 콘서트 일반예매 오픈 : 9월5일(목) 8시\n▶ https://t.co/k0xYK9YnDN\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/0j7m7iFTd0"
+	},
+	{
+		"created_at": "Wed Sep 04 05:10:37 +0000 2019",
+		"id": 1169115528620904400,
+		"id_str": "1169115528620904448",
+		"full_text": "#예스24공연\n왕복서간 1차 오픈 : 9월5일(목) 11시\n▶ https://t.co/T6x6GvRATs\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/AmPyTNmfSQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						76,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T6x6GvRATs",
+					"expanded_url": "http://bit.ly/2zPdHKI",
+					"display_url": "bit.ly/2zPdHKI",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169115527324807200,
+					"id_str": "1169115527324807168",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIYLuWsAAm7t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIYLuWsAAm7t1.jpg",
+					"url": "https://t.co/AmPyTNmfSQ",
+					"display_url": "pic.twitter.com/AmPyTNmfSQ",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115528620904448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169115527324807200,
+					"id_str": "1169115527324807168",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EDmIYLuWsAAm7t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDmIYLuWsAAm7t1.jpg",
+					"url": "https://t.co/AmPyTNmfSQ",
+					"display_url": "pic.twitter.com/AmPyTNmfSQ",
+					"expanded_url": "https://twitter.com/solplparty/status/1169115528620904448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n왕복서간 1차 오픈 : 9월5일(목) 11시\n▶ https://t.co/T6x6GvRATs\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/AmPyTNmfSQ"
+	},
+	{
 		"created_at": "Wed Sep 04 04:13:47 +0000 2019",
 		"id": 1169090981116801000,
 		"id_str": "1169101223779340288",
