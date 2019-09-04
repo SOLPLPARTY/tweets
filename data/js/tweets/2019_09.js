@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 04 00:18:16 +0000 2019",
+		"id": 1169040366919512000,
+		"id_str": "1169041956481224704",
+		"full_text": "이번 주말 서울과 광주에서 김목인의 공연이 열립니다\n\n[김목인과 수첩과 여름귤] \n2019.9.6(금) PM 8 재미공작소\nhttps://t.co/oTjjA3ZbER\n\n[기억하는 그 순간 with 김목인]\n2019.9.7(토) 5시 지음책방 https://t.co/JYYnf8lCcx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oTjjA3ZbER",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221623503162",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169040357331390500,
+					"id_str": "1169040357331390464",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDlEAtrVUAAMne7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDlEAtrVUAAMne7.jpg",
+					"url": "https://t.co/JYYnf8lCcx",
+					"display_url": "pic.twitter.com/JYYnf8lCcx",
+					"expanded_url": "https://twitter.com/electric_muse/status/1169040366919512064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169040357331390500,
+					"id_str": "1169040357331390464",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDlEAtrVUAAMne7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDlEAtrVUAAMne7.jpg",
+					"url": "https://t.co/JYYnf8lCcx",
+					"display_url": "pic.twitter.com/JYYnf8lCcx",
+					"expanded_url": "https://twitter.com/electric_muse/status/1169040366919512064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169040357327134700,
+					"id_str": "1169040357327134720",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EDlEAtqUYAAZLU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDlEAtqUYAAZLU_.jpg",
+					"url": "https://t.co/JYYnf8lCcx",
+					"display_url": "pic.twitter.com/JYYnf8lCcx",
+					"expanded_url": "https://twitter.com/electric_muse/status/1169040366919512064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3538,
+			"friends_count": 1349,
+			"listed_count": 121,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주말 서울과 광주에서 김목인의 공연이 열립니다\n\n[김목인과 수첩과 여름귤] \n2019.9.6(금) PM 8 재미공작소\nhttps://t.co/oTjjA3ZbER\n\n[기억하는 그 순간 with 김목인]\n2019.9.7(토) 5시 지음책방 https://t.co/JYYnf8lCcx"
+	},
+	{
 		"created_at": "Tue Sep 03 21:46:45 +0000 2019",
 		"id": 1169003826227101700,
 		"id_str": "1169003826227101697",
