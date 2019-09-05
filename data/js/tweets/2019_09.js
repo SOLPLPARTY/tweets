@@ -1,6 +1,1334 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 10:13:40 +0000 2019",
+		"id": 1169545524455731200,
+		"id_str": "1169554179041484800",
+		"full_text": "@Little_soraner 오잉 무슨 썸네일 말씀하시는고지,,, 저거 말고 딴거 말씀하시는건가염?🤔 저희는 매 방송 끝나고 방송 화면으로 썸네일 바꿔놓는데...!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Little_soraner",
+					"name": "🌱새싹소라너",
+					"id": 1100776947771002900,
+					"id_str": "1100776947771002880",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169543940871049200,
+		"in_reply_to_status_id_str": "1169543940871049218",
+		"in_reply_to_user_id": 1100776947771002900,
+		"in_reply_to_user_id_str": "1100776947771002880",
+		"in_reply_to_screen_name": "Little_soraner",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1144,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Little_soraner 오잉 무슨 썸네일 말씀하시는고지,,, 저거 말고 딴거 말씀하시는건가염?🤔 저희는 매 방송 끝나고 방송 화면으로 썸네일 바꿔놓는데...!"
+	},
+	{
+		"created_at": "Thu Sep 05 10:13:34 +0000 2019",
+		"id": 1169543913226457000,
+		"id_str": "1169554153330360321",
+		"full_text": "#박현준 첫 정규 앨범 발매 홍보를 위한 미니 인터뷰, 5분 풀 버전을 공개합니다!  \n아울러 첫 정규 앨범 [More Lovers Than Haters] 제작 발매를 위한 텀블벅 크라우드 펀딩에도 지속적인 관심을 부탁드립니다!\n\ntumblbug ▶ https://t.co/5O4ailXalP\n\nhttps://t.co/1jNE5Jd5r1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박현준",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5O4ailXalP",
+					"expanded_url": "https://www.tumblbug.com/hyunjunparklovers",
+					"display_url": "tumblbug.com/hyunjunparklov…",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/1jNE5Jd5r1",
+					"expanded_url": "https://youtu.be/nfuKBHH_MSs",
+					"display_url": "youtu.be/nfuKBHH_MSs",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9857,
+			"friends_count": 3019,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#박현준 첫 정규 앨범 발매 홍보를 위한 미니 인터뷰, 5분 풀 버전을 공개합니다!  \n아울러 첫 정규 앨범 [More Lovers Than Haters] 제작 발매를 위한 텀블벅 크라우드 펀딩에도 지속적인 관심을 부탁드립니다!\n\ntumblbug ▶ https://t.co/5O4ailXalP\n\nhttps://t.co/1jNE5Jd5r1"
+	},
+	{
+		"created_at": "Thu Sep 05 10:13:27 +0000 2019",
+		"id": 1169543598787846100,
+		"id_str": "1169554127552163841",
+		"full_text": "@Little_soraner 썸네일 안잃었어염 ㅠㅠㅠ 브이앱 가시면 썸네일 잘나옴 ㅠㅠㅠㅠ 트위터 나빠",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Little_soraner",
+					"name": "🌱새싹소라너",
+					"id": 1100776947771002900,
+					"id_str": "1100776947771002880",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169543123963269000,
+		"in_reply_to_status_id_str": "1169543123963269120",
+		"in_reply_to_user_id": 1100776947771002900,
+		"in_reply_to_user_id_str": "1100776947771002880",
+		"in_reply_to_screen_name": "Little_soraner",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1144,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Little_soraner 썸네일 안잃었어염 ㅠㅠㅠ 브이앱 가시면 썸네일 잘나옴 ㅠㅠㅠㅠ 트위터 나빠"
+	},
+	{
+		"created_at": "Thu Sep 05 10:08:38 +0000 2019",
+		"id": 1169552913783492600,
+		"id_str": "1169552913783492608",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n선우정아 / SWJA - INTERVIEW 선우정아 - EP 2/3 [Stunning]\nhttps://t.co/HAsWJPPB5t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HAsWJPPB5t",
+					"expanded_url": "https://youtu.be/OWYDj8AimIw",
+					"display_url": "youtu.be/OWYDj8AimIw",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n선우정아 / SWJA - INTERVIEW 선우정아 - EP 2/3 [Stunning]\nhttps://t.co/HAsWJPPB5t"
+	},
+	{
+		"created_at": "Thu Sep 05 09:51:09 +0000 2019",
+		"id": 1169548515028193300,
+		"id_str": "1169548515028193280",
+		"full_text": "#상상마당 #ssmadang\n[더비 TV] KT&amp;G 상상마당 서포터즈 THE B 이야기가 궁금해?\nhttps://t.co/2GQdpym3sA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ssmadang",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2GQdpym3sA",
+					"expanded_url": "https://youtu.be/3VTTHrJQqi4",
+					"display_url": "youtu.be/3VTTHrJQqi4",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #ssmadang\n[더비 TV] KT&amp;G 상상마당 서포터즈 THE B 이야기가 궁금해?\nhttps://t.co/2GQdpym3sA"
+	},
+	{
+		"created_at": "Thu Sep 05 09:47:07 +0000 2019",
+		"id": 1169547499171963000,
+		"id_str": "1169547499171962880",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n박현준의 첫 정규 앨범 [More Lovers Than Haters] 제작 발매를 위한 텀블벅 크라우드 펀딩!\nhttps://t.co/VXWookDkMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VXWookDkMX",
+					"expanded_url": "https://youtu.be/nfuKBHH_MSs",
+					"display_url": "youtu.be/nfuKBHH_MSs",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n박현준의 첫 정규 앨범 [More Lovers Than Haters] 제작 발매를 위한 텀블벅 크라우드 펀딩!\nhttps://t.co/VXWookDkMX"
+	},
+	{
+		"created_at": "Thu Sep 05 09:28:30 +0000 2019",
+		"id": 1169542814578987000,
+		"id_str": "1169542814578987008",
+		"full_text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.09.10(화) MU：CON 2019 쇼케이스 1차 티켓 오픈 안내\n▶ https://t.co/FvnERvs6Tx\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/JMOiZKCv9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FvnERvs6Tx",
+					"expanded_url": "http://bit.ly/2NQvTf1",
+					"display_url": "bit.ly/2NQvTf1",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169542813551341600,
+					"id_str": "1169542813551341569",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EDsM_g9WsAE_G49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDsM_g9WsAE_G49.jpg",
+					"url": "https://t.co/JMOiZKCv9R",
+					"display_url": "pic.twitter.com/JMOiZKCv9R",
+					"expanded_url": "https://twitter.com/solplparty/status/1169542814578987008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169542813551341600,
+					"id_str": "1169542813551341569",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EDsM_g9WsAE_G49.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDsM_g9WsAE_G49.jpg",
+					"url": "https://t.co/JMOiZKCv9R",
+					"display_url": "pic.twitter.com/JMOiZKCv9R",
+					"expanded_url": "https://twitter.com/solplparty/status/1169542814578987008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.09.10(화) MU：CON 2019 쇼케이스 1차 티켓 오픈 안내\n▶ https://t.co/FvnERvs6Tx\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/JMOiZKCv9R"
+	},
+	{
+		"created_at": "Thu Sep 05 09:18:31 +0000 2019",
+		"id": 1169527712911777800,
+		"id_str": "1169540303235309568",
+		"full_text": "[RELEASE]\n2019/09/05\nFFRD &lt;현대음악 Contemporary&gt;\n‘반드시 춤 추시오’\n_\nMelon ▶ https://t.co/FwArVrVzdq\nGenie ▶ https://t.co/9AROEiScLE\nBugs ▶ https://t.co/vxnGAQdPqY\nFLO ▶ https://t.co/MDKe2VugdS\nVIBE ▶ https://t.co/O7IUnYbTw0\nBandcamp ▶ https://t.co/1iM1mpAjCH https://t.co/RwHFmX334e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FwArVrVzdq",
+					"expanded_url": "https://bit.ly/2jZsTAn",
+					"display_url": "bit.ly/2jZsTAn",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/9AROEiScLE",
+					"expanded_url": "https://bit.ly/2lyowwE",
+					"display_url": "bit.ly/2lyowwE",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/vxnGAQdPqY",
+					"expanded_url": "https://bit.ly/2ksxN9l",
+					"display_url": "bit.ly/2ksxN9l",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/MDKe2VugdS",
+					"expanded_url": "https://bit.ly/2lTl3ZF",
+					"display_url": "bit.ly/2lTl3ZF",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/O7IUnYbTw0",
+					"expanded_url": "https://bit.ly/2lEEW6w",
+					"display_url": "bit.ly/2lEEW6w",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"url": "https://t.co/1iM1mpAjCH",
+					"expanded_url": "https://younggiftedwack.bandcamp.com/album/contemporary",
+					"display_url": "younggiftedwack.bandcamp.com/album/contempo…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169527509739696000,
+					"id_str": "1169527509739696128",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169527509739696128/pu/img/EQoHeKhwKbLCzvSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169527509739696128/pu/img/EQoHeKhwKbLCzvSR.jpg",
+					"url": "https://t.co/RwHFmX334e",
+					"display_url": "pic.twitter.com/RwHFmX334e",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1169527712911777793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169527509739696000,
+					"id_str": "1169527509739696128",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169527509739696128/pu/img/EQoHeKhwKbLCzvSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169527509739696128/pu/img/EQoHeKhwKbLCzvSR.jpg",
+					"url": "https://t.co/RwHFmX334e",
+					"display_url": "pic.twitter.com/RwHFmX334e",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1169527712911777793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46422,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169527509739696128/pu/vid/720x720/02m6PQ1UaA5I9kE8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169527509739696128/pu/pl/OYCfeUGWJp-nvMtS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169527509739696128/pu/vid/320x320/T3JXGOaYKhdV-0Ch.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169527509739696128/pu/vid/480x480/kCk4dszOK8R6ANLz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3765,
+			"friends_count": 1301,
+			"listed_count": 62,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1524995797",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RELEASE]\n2019/09/05\nFFRD &lt;현대음악 Contemporary&gt;\n‘반드시 춤 추시오’\n_\nMelon ▶ https://t.co/FwArVrVzdq\nGenie ▶ https://t.co/9AROEiScLE\nBugs ▶ https://t.co/vxnGAQdPqY\nFLO ▶ https://t.co/MDKe2VugdS\nVIBE ▶ https://t.co/O7IUnYbTw0\nBandcamp ▶ https://t.co/1iM1mpAjCH https://t.co/RwHFmX334e"
+	},
+	{
+		"created_at": "Thu Sep 05 09:18:25 +0000 2019",
+		"id": 1169527282567745500,
+		"id_str": "1169540277649981441",
+		"full_text": "▶인터넷 신청안내\nKBS대구방송총국 홈페이지에서 가능(https://t.co/Sp7t9bjc1m)\n⠀⠀⠀⠀⠀⠀⠀\n🔺좌석은 신청하신 순서대로 제작진이 지정합니다.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n🔺현장석은 녹화당일 상황에 따라 유동적입니다.\n-\n#랄라스윗 #콘서트문화창고 #방청신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랄라스윗",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "콘서트문화창고",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "방청신청",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sp7t9bjc1m",
+					"expanded_url": "https://tuney.kr/ipRsIZ",
+					"display_url": "tuney.kr/ipRsIZ",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169527256516939800,
+		"in_reply_to_status_id_str": "1169527256516939777",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1643,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▶인터넷 신청안내\nKBS대구방송총국 홈페이지에서 가능(https://t.co/Sp7t9bjc1m)\n⠀⠀⠀⠀⠀⠀⠀\n🔺좌석은 신청하신 순서대로 제작진이 지정합니다.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n🔺현장석은 녹화당일 상황에 따라 유동적입니다.\n-\n#랄라스윗 #콘서트문화창고 #방청신청"
+	},
+	{
 		"created_at": "Thu Sep 05 09:14:09 +0000 2019",
 		"id": 1169539201165156400,
 		"id_str": "1169539201165156352",
