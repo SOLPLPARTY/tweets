@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 18:13:27 +0000 2019",
+		"id": 1169662787292762000,
+		"id_str": "1169674923285123072",
+		"full_text": "#올댓뮤직\n\n방에 모기말고 🧚‍♂️🧚‍♂️ #10cm 🧚‍♂️🧚‍♀️로\n가득했던 50분 어떠셨나요?\n\n너무 빨리 지나가서 아쉬웠다면\n지금 바로 올댓뮤직 유튜브 채널에서\n#미방곡 #죽겠네 를 만나보세요!\n\n#고댓뮤직 #엠씨 #올영배 와 함께하는\n#본방사수이벤트 도 놓치지 마세요!\n\n#ALLTHATMUSIC #고영배 #MC영배 #권정열 https://t.co/juSkSoOhG2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "10cm",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "미방곡",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "죽겠네",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "엠씨",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169662699841572900,
+					"id_str": "1169662699841572864",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169662699841572864/pu/img/ZRAXTubzGbwy6KeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169662699841572864/pu/img/ZRAXTubzGbwy6KeC.jpg",
+					"url": "https://t.co/juSkSoOhG2",
+					"display_url": "pic.twitter.com/juSkSoOhG2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169662787292762112/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169662699841572900,
+					"id_str": "1169662699841572864",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169662699841572864/pu/img/ZRAXTubzGbwy6KeC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169662699841572864/pu/img/ZRAXTubzGbwy6KeC.jpg",
+					"url": "https://t.co/juSkSoOhG2",
+					"display_url": "pic.twitter.com/juSkSoOhG2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169662787292762112/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169662699841572864/pu/pl/ijExUt7aA7V4Y-_J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169662699841572864/pu/vid/478x270/E5B1bHyJd7q8e-Hu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169662699841572864/pu/vid/720x406/4H8NzUXLwJFKnUTS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3765,
+			"friends_count": 955,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n방에 모기말고 🧚‍♂️🧚‍♂️ #10cm 🧚‍♂️🧚‍♀️로\n가득했던 50분 어떠셨나요?\n\n너무 빨리 지나가서 아쉬웠다면\n지금 바로 올댓뮤직 유튜브 채널에서\n#미방곡 #죽겠네 를 만나보세요!\n\n#고댓뮤직 #엠씨 #올영배 와 함께하는\n#본방사수이벤트 도 놓치지 마세요!\n\n#ALLTHATMUSIC #고영배 #MC영배 #권정열 https://t.co/juSkSoOhG2"
+	},
+	{
 		"created_at": "Thu Sep 05 15:29:41 +0000 2019",
 		"id": 1169633707369619500,
 		"id_str": "1169633707369619461",
