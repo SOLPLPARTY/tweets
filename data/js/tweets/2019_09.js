@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 14:13:37 +0000 2019",
+		"id": 1169605351999598600,
+		"id_str": "1169614564192849920",
+		"full_text": "📍긴급 편성으로 인해 9월 5일 방송은 평소보다 20분 늦은 밤 12시에 방송됩니다.\n⠀\n그리고 밤 12시부터 SKT모바일앱 #옥수수 #oksusu 앱을 통해 #뮤직멀티뷰서비스 를 이용할 수 있습니다.\n⠀\n#ALLTHATMUSIC #올댓뮤직본방사수이벤트 #고영배 #MC영배 #권정열",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옥수수",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "oksusu",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "올댓뮤직본방사수이벤트",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						153,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169605258265292800,
+		"in_reply_to_status_id_str": "1169605258265292802",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 955,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍긴급 편성으로 인해 9월 5일 방송은 평소보다 20분 늦은 밤 12시에 방송됩니다.\n⠀\n그리고 밤 12시부터 SKT모바일앱 #옥수수 #oksusu 앱을 통해 #뮤직멀티뷰서비스 를 이용할 수 있습니다.\n⠀\n#ALLTHATMUSIC #올댓뮤직본방사수이벤트 #고영배 #MC영배 #권정열"
+	},
+	{
+		"created_at": "Thu Sep 05 14:13:27 +0000 2019",
+		"id": 1169605258265292800,
+		"id_str": "1169614525659865088",
+		"full_text": "#올댓뮤직 #본방사수\n9월 5일 목요일 밤 12시 KBS1 TV\n\n오늘 녹화 끝까지 함께해주셔서 감사합니다🙇‍♀️🙇‍♂️ 이제 곧 준비된 MC #고영배 의 첫 방송 국가대표급 인디계 요정 #10CM 편이 방송됩니다. 50분 가득 채운 #요정열 의 매력 기대 많이해주세요! https://t.co/fHWLRG6kDr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "요정열",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169605243207741400,
+					"id_str": "1169605243207741440",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EDtFxZjU8AAJSry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDtFxZjU8AAJSry.jpg",
+					"url": "https://t.co/fHWLRG6kDr",
+					"display_url": "pic.twitter.com/fHWLRG6kDr",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169605258265292802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169605243207741400,
+					"id_str": "1169605243207741440",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EDtFxZjU8AAJSry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDtFxZjU8AAJSry.jpg",
+					"url": "https://t.co/fHWLRG6kDr",
+					"display_url": "pic.twitter.com/fHWLRG6kDr",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169605258265292802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 955,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n9월 5일 목요일 밤 12시 KBS1 TV\n\n오늘 녹화 끝까지 함께해주셔서 감사합니다🙇‍♀️🙇‍♂️ 이제 곧 준비된 MC #고영배 의 첫 방송 국가대표급 인디계 요정 #10CM 편이 방송됩니다. 50분 가득 채운 #요정열 의 매력 기대 많이해주세요! https://t.co/fHWLRG6kDr"
+	},
+	{
 		"created_at": "Thu Sep 05 13:13:32 +0000 2019",
 		"id": 1169591561589424000,
 		"id_str": "1169599443450126336",
