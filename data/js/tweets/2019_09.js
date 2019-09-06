@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 12:13:43 +0000 2019",
+		"id": 1169937380796559400,
+		"id_str": "1169946778692653057",
+		"full_text": "9/7(sat) [clubFF - Going underground]\nLive part1.indie (6pm - 9:15pm)\n원버튼. 필로우톡. 영웅. 너드커넥션. 플래그 \n\nLive part2. Punk (9:15pm - 12:30am)\n투데이올드스니커즈. 더 사운드. 초록불꽃소년단. 더 바이퍼스. Foreign Object https://t.co/kjiagsRXDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169937368339472400,
+					"id_str": "1169937368339472385",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxz1oFUYAESI3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxz1oFUYAESI3I.jpg",
+					"url": "https://t.co/kjiagsRXDu",
+					"display_url": "pic.twitter.com/kjiagsRXDu",
+					"expanded_url": "https://twitter.com/clubFF_/status/1169937380796559360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169937368339472400,
+					"id_str": "1169937368339472385",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxz1oFUYAESI3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxz1oFUYAESI3I.jpg",
+					"url": "https://t.co/kjiagsRXDu",
+					"display_url": "pic.twitter.com/kjiagsRXDu",
+					"expanded_url": "https://twitter.com/clubFF_/status/1169937380796559360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169937368352092200,
+					"id_str": "1169937368352092160",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxz1oIU8AAtteT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxz1oIU8AAtteT.jpg",
+					"url": "https://t.co/kjiagsRXDu",
+					"display_url": "pic.twitter.com/kjiagsRXDu",
+					"expanded_url": "https://twitter.com/clubFF_/status/1169937380796559360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169937368343695400,
+					"id_str": "1169937368343695360",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxz1oGU0AAJ3q3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxz1oGU0AAJ3q3.jpg",
+					"url": "https://t.co/kjiagsRXDu",
+					"display_url": "pic.twitter.com/kjiagsRXDu",
+					"expanded_url": "https://twitter.com/clubFF_/status/1169937380796559360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6733,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9/7(sat) [clubFF - Going underground]\nLive part1.indie (6pm - 9:15pm)\n원버튼. 필로우톡. 영웅. 너드커넥션. 플래그 \n\nLive part2. Punk (9:15pm - 12:30am)\n투데이올드스니커즈. 더 사운드. 초록불꽃소년단. 더 바이퍼스. Foreign Object https://t.co/kjiagsRXDu"
+	},
+	{
+		"created_at": "Fri Sep 06 12:13:36 +0000 2019",
+		"id": 1169932591857725400,
+		"id_str": "1169946748460109832",
+		"full_text": "🔸스트리트H (Street H)\n매거진 스트리트 H 123호가 입고되었습니다! \n홍대에 숨겨진 명소와 문화 이야기가 담겨있는 무료 잡지인데요!! 이번 호는 어떤 이야기가 담겨 있을지 씬디에 오셔서 확인해보세요😎 https://t.co/TLZkTOOI4Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169932584442155000,
+					"id_str": "1169932584442155008",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxvfKrUUAA2n_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxvfKrUUAA2n_M.jpg",
+					"url": "https://t.co/TLZkTOOI4Z",
+					"display_url": "pic.twitter.com/TLZkTOOI4Z",
+					"expanded_url": "https://twitter.com/xindieticket/status/1169932591857725440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 841,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169932584442155000,
+					"id_str": "1169932584442155008",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxvfKrUUAA2n_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxvfKrUUAA2n_M.jpg",
+					"url": "https://t.co/TLZkTOOI4Z",
+					"display_url": "pic.twitter.com/TLZkTOOI4Z",
+					"expanded_url": "https://twitter.com/xindieticket/status/1169932591857725440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 841,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169932584446394400,
+					"id_str": "1169932584446394369",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EDxvfKsVAAERb30.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDxvfKsVAAERb30.jpg",
+					"url": "https://t.co/TLZkTOOI4Z",
+					"display_url": "pic.twitter.com/TLZkTOOI4Z",
+					"expanded_url": "https://twitter.com/xindieticket/status/1169932591857725440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1169932578733752300,
+		"in_reply_to_status_id_str": "1169932578733752322",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2717,
+			"friends_count": 2591,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔸스트리트H (Street H)\n매거진 스트리트 H 123호가 입고되었습니다! \n홍대에 숨겨진 명소와 문화 이야기가 담겨있는 무료 잡지인데요!! 이번 호는 어떤 이야기가 담겨 있을지 씬디에 오셔서 확인해보세요😎 https://t.co/TLZkTOOI4Z"
+	},
+	{
 		"created_at": "Fri Sep 06 11:13:27 +0000 2019",
 		"id": 1169928053885026300,
 		"id_str": "1169931614337609733",
