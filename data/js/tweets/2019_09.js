@@ -1,10 +1,279 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 14:13:28 +0000 2019",
+		"id": 1169970483007082500,
+		"id_str": "1169976914238476293",
+		"full_text": "#올댓뮤직\n\n지난 방송 #MC영배 의 첫방송을 축하하기 위해\n깜짝 등장했던 손님들의 정체는⁉️\n\n보고 또 봐도 보고싶은\n귀엽고 유쾌했던 축하 영상을 대공개합니다!\n\n앞으로 올댓뮤직과 함께 성장해나갈\n#고영배 #MC영배 많이 응원해주세요💜\n\n#ALLTHATMUSIC\n#고댓뮤직 #올영배 #소란 #SORAN https://t.co/Uw9fP9b6Cg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "SORAN",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169969858219409400,
+					"id_str": "1169969858219409414",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169969858219409414/pu/img/gAT_3XRFzQ6jthwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169969858219409414/pu/img/gAT_3XRFzQ6jthwD.jpg",
+					"url": "https://t.co/Uw9fP9b6Cg",
+					"display_url": "pic.twitter.com/Uw9fP9b6Cg",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169970483007082496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169969858219409400,
+					"id_str": "1169969858219409414",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1169969858219409414/pu/img/gAT_3XRFzQ6jthwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1169969858219409414/pu/img/gAT_3XRFzQ6jthwD.jpg",
+					"url": "https://t.co/Uw9fP9b6Cg",
+					"display_url": "pic.twitter.com/Uw9fP9b6Cg",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1169970483007082496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 119286,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1169969858219409414/pu/pl/Ne80kF4lrUQZBpG5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169969858219409414/pu/vid/480x270/3PLWkw7_W2tu1tzM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169969858219409414/pu/vid/640x360/-sEfAQxvqCKX-rI0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1169969858219409414/pu/vid/1280x720/sV7qvSesYydm-HO7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 955,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7973,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n지난 방송 #MC영배 의 첫방송을 축하하기 위해\n깜짝 등장했던 손님들의 정체는⁉️\n\n보고 또 봐도 보고싶은\n귀엽고 유쾌했던 축하 영상을 대공개합니다!\n\n앞으로 올댓뮤직과 함께 성장해나갈\n#고영배 #MC영배 많이 응원해주세요💜\n\n#ALLTHATMUSIC\n#고댓뮤직 #올영배 #소란 #SORAN https://t.co/Uw9fP9b6Cg"
+	},
+	{
 		"created_at": "Fri Sep 06 12:24:32 +0000 2019",
 		"id": 1169949501035032600,
 		"id_str": "1169949501035032576",
-		"full_text": "#딩고뮤직 #dingo_music\n치즈,치원이 팬이면 이리온🙋🏻‍♀️🙋🏻‍♂️ | CHEEZE &amp; pH-1-Blue Champagne (블루샴페인) LIVE | 깜짝음감회 | dingomusic | 딩고뮤직\nhttps://t.co/xeV7PDEvke",
+		"full_text": "#딩고뮤직 #dingo_music\n치즈,치원이 팬이면 이리온🙋🏻♀️🙋🏻♂️ | CHEEZE &amp; pH-1-Blue Champagne (블루샴페인) LIVE | 깜짝음감회 | dingomusic | 딩고뮤직\nhttps://t.co/xeV7PDEvke",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -119,7 +388,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n치즈,치원이 팬이면 이리온🙋🏻‍♀️🙋🏻‍♂️ | CHEEZE &amp; pH-1-Blue Champagne (블루샴페인) LIVE | 깜짝음감회 | dingomusic | 딩고뮤직\nhttps://t.co/xeV7PDEvke"
+		"text": "#딩고뮤직 #dingo_music\n치즈,치원이 팬이면 이리온🙋🏻♀️🙋🏻♂️ | CHEEZE &amp; pH-1-Blue Champagne (블루샴페인) LIVE | 깜짝음감회 | dingomusic | 딩고뮤직\nhttps://t.co/xeV7PDEvke"
 	},
 	{
 		"created_at": "Fri Sep 06 12:13:43 +0000 2019",
