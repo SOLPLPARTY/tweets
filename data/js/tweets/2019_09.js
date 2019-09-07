@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 08:13:27 +0000 2019",
+		"id": 1170234571666808800,
+		"id_str": "1170248703648698370",
+		"full_text": "태풍이 와도 지선X톤스튜디오 라이브는 진행합니다. \n한창 리허설 중이신 지선님~!\n소량의 현매가 남아 있으니 문의는\n010-4258-6020으로 해주세요. ^^\n티켓부스 오픈: 6시\n입장: 6시30분 \n입니다. https://t.co/2tDizZakC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170234559176134700,
+					"id_str": "1170234559176134656",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ED2CIaOUUAATUXZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED2CIaOUUAATUXZ.jpg",
+					"url": "https://t.co/2tDizZakC8",
+					"display_url": "pic.twitter.com/2tDizZakC8",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1170234571666808833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170234559176134700,
+					"id_str": "1170234559176134656",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ED2CIaOUUAATUXZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED2CIaOUUAATUXZ.jpg",
+					"url": "https://t.co/2tDizZakC8",
+					"display_url": "pic.twitter.com/2tDizZakC8",
+					"expanded_url": "https://twitter.com/TONEStudio1/status/1170234571666808833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948612782735290400,
+			"id_str": "948612782735290368",
+			"name": "톤 스튜디오 라이브",
+			"screen_name": "TONEStudio1",
+			"location": "서울시 마포구 성미산로 64-5",
+			"description": "숨소리 하나까지 놓치지 않도록, 고품격 라이브 공연 TONE STUDIO LIVE. 톤 스튜디오 X 뮤지션 콜라보 라이브 공연 소식을 전하는 공식 계정입니다.",
+			"url": "https://t.co/n36vK38P0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n36vK38P0a",
+							"expanded_url": "http://www.tonestudio.co.kr",
+							"display_url": "tonestudio.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 33,
+			"listed_count": 1,
+			"created_at": "Wed Jan 03 17:51:26 +0000 2018",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948614074073464833/8xCTncTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948612782735290368/1565949913",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태풍이 와도 지선X톤스튜디오 라이브는 진행합니다. \n한창 리허설 중이신 지선님~!\n소량의 현매가 남아 있으니 문의는\n010-4258-6020으로 해주세요. ^^\n티켓부스 오픈: 6시\n입장: 6시30분 \n입니다. https://t.co/2tDizZakC8"
+	},
+	{
 		"created_at": "Sat Sep 07 07:05:43 +0000 2019",
 		"id": 1170231656969592800,
 		"id_str": "1170231656969592832",
@@ -390,7 +564,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Sat Sep 07 06:18:16 +0000 2019",
 		"id": 1170212946686857200,
 		"id_str": "1170219717346435072",
-		"full_text": "9⃣9⃣Day Event🥳\n\n9⃣와 숫자들 게릴라콘서트 \n9⃣9⃣9⃣9⃣Show💃🏻🕺🏼\n\n2019⃣년 9⃣월 9⃣일 밤 9⃣시부터\n9⃣9⃣분간 \n논스톱 생음악 리퀘스트쇼🚴🏽‍♂⛹🏻‍♀🎷🎻 https://t.co/G3DjIRPvjW",
+		"full_text": "9⃣9⃣Day Event🥳\n\n9⃣와 숫자들 게릴라콘서트 \n9⃣9⃣9⃣9⃣Show💃🏻🕺🏼\n\n2019⃣년 9⃣월 9⃣일 밤 9⃣시부터\n9⃣9⃣분간 \n논스톱 생음악 리퀘스트쇼🚴🏽♂⛹🏻♀🎷🎻 https://t.co/G3DjIRPvjW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -558,7 +732,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "9⃣9⃣Day Event🥳\n\n9⃣와 숫자들 게릴라콘서트 \n9⃣9⃣9⃣9⃣Show💃🏻🕺🏼\n\n2019⃣년 9⃣월 9⃣일 밤 9⃣시부터\n9⃣9⃣분간 \n논스톱 생음악 리퀘스트쇼🚴🏽‍♂⛹🏻‍♀🎷🎻 https://t.co/G3DjIRPvjW"
+		"text": "9⃣9⃣Day Event🥳\n\n9⃣와 숫자들 게릴라콘서트 \n9⃣9⃣9⃣9⃣Show💃🏻🕺🏼\n\n2019⃣년 9⃣월 9⃣일 밤 9⃣시부터\n9⃣9⃣분간 \n논스톱 생음악 리퀘스트쇼🚴🏽♂⛹🏻♀🎷🎻 https://t.co/G3DjIRPvjW"
 	},
 	{
 		"created_at": "Sat Sep 07 06:13:27 +0000 2019",
