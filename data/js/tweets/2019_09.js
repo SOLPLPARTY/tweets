@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 12:13:35 +0000 2019",
+		"id": 1170664868812181500,
+		"id_str": "1170671523956502530",
+		"full_text": "🖐️대한민국 대표 모던록밴드 안녕바다의 보컬 나무님의 솔로 프로젝트인 [밤비행] 첫 공연이 오늘 제비다방에서 열렸는데요!! 앞으로 긴 여정이 될 수 있도록 많은 관심 부탁드립니다❤️ https://t.co/edLqw7SpWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170664863955161000,
+					"id_str": "1170664863955161088",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8JfccUEAAfjx5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8JfccUEAAfjx5.jpg",
+					"url": "https://t.co/edLqw7SpWH",
+					"display_url": "pic.twitter.com/edLqw7SpWH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1170664868812181509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170664863955161000,
+					"id_str": "1170664863955161088",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8JfccUEAAfjx5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8JfccUEAAfjx5.jpg",
+					"url": "https://t.co/edLqw7SpWH",
+					"display_url": "pic.twitter.com/edLqw7SpWH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1170664868812181509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 515,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1170664860452970500,
+		"in_reply_to_status_id_str": "1170664860452970496",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2719,
+			"friends_count": 2592,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖐️대한민국 대표 모던록밴드 안녕바다의 보컬 나무님의 솔로 프로젝트인 [밤비행] 첫 공연이 오늘 제비다방에서 열렸는데요!! 앞으로 긴 여정이 될 수 있도록 많은 관심 부탁드립니다❤️ https://t.co/edLqw7SpWH"
+	},
+	{
+		"created_at": "Sun Sep 08 12:13:27 +0000 2019",
+		"id": 1170664860452970500,
+		"id_str": "1170671489898733568",
+		"full_text": "[신규입고]\n📍 2018 음악산업디렉토리북 \n서울특별시가 음악산업 진흥을 위해 발행한 책으로 다양한 정보들이 담겨있는 책인데요! 다양한 기획 제작사부터 공연, 교육, 학교, 기관 등등!! 음악과 관련된 모든 정보들이 담겨있는 음악산업디렉토리북을 씬디에 오셔서 자유롭게 이용해보세요🥰 https://t.co/Qk0TXIijVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170664852844474400,
+					"id_str": "1170664852844474369",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8JezDUcAEAz5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8JezDUcAEAz5P.jpg",
+					"url": "https://t.co/Qk0TXIijVO",
+					"display_url": "pic.twitter.com/Qk0TXIijVO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1170664860452970496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 655,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 655,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170664852844474400,
+					"id_str": "1170664852844474369",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8JezDUcAEAz5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8JezDUcAEAz5P.jpg",
+					"url": "https://t.co/Qk0TXIijVO",
+					"display_url": "pic.twitter.com/Qk0TXIijVO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1170664860452970496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 655,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 655,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170664852844494800,
+					"id_str": "1170664852844494848",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8JezDUwAAKjMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8JezDUwAAKjMx.jpg",
+					"url": "https://t.co/Qk0TXIijVO",
+					"display_url": "pic.twitter.com/Qk0TXIijVO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1170664860452970496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2719,
+			"friends_count": 2592,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📍 2018 음악산업디렉토리북 \n서울특별시가 음악산업 진흥을 위해 발행한 책으로 다양한 정보들이 담겨있는 책인데요! 다양한 기획 제작사부터 공연, 교육, 학교, 기관 등등!! 음악과 관련된 모든 정보들이 담겨있는 음악산업디렉토리북을 씬디에 오셔서 자유롭게 이용해보세요🥰 https://t.co/Qk0TXIijVO"
+	},
+	{
 		"created_at": "Sun Sep 08 11:13:56 +0000 2019",
 		"id": 1170651716523421700,
 		"id_str": "1170656509782568961",
