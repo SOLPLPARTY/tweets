@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 07:18:20 +0000 2019",
+		"id": 1170596071447257000,
+		"id_str": "1170597221252747266",
+		"full_text": "* 9월 11일 첫 뉴스레터로 새 싱글 ‘오늘도 꿈에서 그대가’의 가사비디오를 발송해드릴 예정입니다.\n\n• 홈페이지 바로가기 ▶️ https://t.co/oZrjTvzvSW\n• 뉴스레터 구독 신청 바로가기 ▶️ https://t.co/Dvjb4nchg2\n\n#홍이삭 #홈페이지 #뉴스레터",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "홈페이지",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oZrjTvzvSW",
+					"expanded_url": "http://isachng.com",
+					"display_url": "isachng.com",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/Dvjb4nchg2",
+					"expanded_url": "http://isachng.com/newsletter",
+					"display_url": "isachng.com/newsletter",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170596020129915000,
+		"in_reply_to_status_id_str": "1170596020129914881",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1658,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* 9월 11일 첫 뉴스레터로 새 싱글 ‘오늘도 꿈에서 그대가’의 가사비디오를 발송해드릴 예정입니다.\n\n• 홈페이지 바로가기 ▶️ https://t.co/oZrjTvzvSW\n• 뉴스레터 구독 신청 바로가기 ▶️ https://t.co/Dvjb4nchg2\n\n#홍이삭 #홈페이지 #뉴스레터"
+	},
+	{
 		"created_at": "Sun Sep 08 04:13:38 +0000 2019",
 		"id": 1170543576167538700,
 		"id_str": "1170550740517101568",
@@ -261,7 +398,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Sun Sep 08 04:13:33 +0000 2019",
 		"id": 1170537069652795400,
 		"id_str": "1170550719130349568",
-		"full_text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람",
+		"full_text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇♂️🙇♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -484,7 +621,7 @@ Grailbird.data.tweets_2019_09 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람"
+		"text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇♂️🙇♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람"
 	},
 	{
 		"created_at": "Sun Sep 08 03:12:31 +0000 2019",
