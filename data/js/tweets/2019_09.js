@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 04:13:38 +0000 2019",
+		"id": 1170543576167538700,
+		"id_str": "1170550740517101568",
+		"full_text": "&lt;이찬솔 &amp; 지범 : My Song For You VOL.11&gt;\n-\n• 일시 : 2019년 9월 27일 (금) 오후 8시 \n• 장소 : 롤링홀\n• 출연 : 이찬솔, 지범(ZEEBOMB)\n• 예매 : 멜론티켓 2019년 9월 11일 (수) 오후 8시 예매오픈\n-\n#이찬솔 #지범 #ZEEBOMB #MYSONGFORYOU #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/v5fBy4gO0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이찬솔",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "지범",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "ZEEBOMB",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "MYSONGFORYOU",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						205,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170543566898098200,
+					"id_str": "1170543566898098177",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6bLBsUcAEce05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6bLBsUcAEce05.jpg",
+					"url": "https://t.co/v5fBy4gO0H",
+					"display_url": "pic.twitter.com/v5fBy4gO0H",
+					"expanded_url": "https://twitter.com/rollinghall/status/1170543576167538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170543566898098200,
+					"id_str": "1170543566898098177",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ED6bLBsUcAEce05.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED6bLBsUcAEce05.jpg",
+					"url": "https://t.co/v5fBy4gO0H",
+					"display_url": "pic.twitter.com/v5fBy4gO0H",
+					"expanded_url": "https://twitter.com/rollinghall/status/1170543576167538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3215,
+			"friends_count": 792,
+			"listed_count": 38,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이찬솔 &amp; 지범 : My Song For You VOL.11&gt;\n-\n• 일시 : 2019년 9월 27일 (금) 오후 8시 \n• 장소 : 롤링홀\n• 출연 : 이찬솔, 지범(ZEEBOMB)\n• 예매 : 멜론티켓 2019년 9월 11일 (수) 오후 8시 예매오픈\n-\n#이찬솔 #지범 #ZEEBOMB #MYSONGFORYOU #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/v5fBy4gO0H"
+	},
+	{
+		"created_at": "Sun Sep 08 04:13:33 +0000 2019",
+		"id": 1170537069652795400,
+		"id_str": "1170550719130349568",
+		"full_text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"text": "Lake",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "Music",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "Again",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "가요톱텐",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "가요",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "TOP10",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "춘천축제",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "가을축제",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "음악축제",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "공지천",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "의암공원",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "dickpunks",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "딕펑스",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "김태현",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "김현우",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "김재흥",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "박가람",
+					"indices": [
+						183,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170536968549068800,
+		"in_reply_to_status_id_str": "1170536968549068800",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3773,
+			"friends_count": 955,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣현재 입장권 온라인 사전 신청만 가능합니다 !\n📣많은 기대와 관심 그리고 신청 부탁드립니다 🙇‍♂️🙇‍♀️\n\n#ALLTHATMUSIC #Lake #Music #Festival #Again #가요톱텐 #가요 #TOP10 #춘천축제 #가을축제 #음악축제 #공지천 #의암공원 #dickpunks #딕펑스 #김태현 #김현우 #김재흥 #박가람"
+	},
+	{
 		"created_at": "Sun Sep 08 03:12:31 +0000 2019",
 		"id": 1170535356615331800,
 		"id_str": "1170535356615331840",
