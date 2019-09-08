@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 09:18:16 +0000 2019",
+		"id": 1170624385851347000,
+		"id_str": "1170627403707801601",
+		"full_text": "[보라미유 - 식혀줘 Live Clip (노래방 Ver.)]\n\n보라미유의 '식혀줘' Live Clip (노래방 Ver.)을 공개합니다:)\n풀버전은 프로필 링크를 통해 확인하실 수 있습니다 👆👆\n\n#보라미유 #Boramiyu #식혀줘 #쇼파르뮤직\n\n🖇\nhttps://t.co/h7Q4k2tqMp https://t.co/YVZvcCE4RX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "식혀줘",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h7Q4k2tqMp",
+					"expanded_url": "https://youtu.be/54ynmFjJDT4",
+					"display_url": "youtu.be/54ynmFjJDT4",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170624382424600600,
+					"id_str": "1170624382424600576",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7krG_UUAAatWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7krG_UUAAatWl.jpg",
+					"url": "https://t.co/YVZvcCE4RX",
+					"display_url": "pic.twitter.com/YVZvcCE4RX",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1170624385851346947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170624382424600600,
+					"id_str": "1170624382424600576",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7krG_UUAAatWl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED7krG_UUAAatWl.jpg",
+					"url": "https://t.co/YVZvcCE4RX",
+					"display_url": "pic.twitter.com/YVZvcCE4RX",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1170624385851346947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/fVv0Xe3JW1",
+			"url": "https://t.co/dzP2nle0oi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dzP2nle0oi",
+							"expanded_url": "https://www.youtube.com/user/TheShofarMusic",
+							"display_url": "youtube.com/user/TheShofar…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVv0Xe3JW1",
+							"expanded_url": "http://www.shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7420,
+			"friends_count": 10,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[보라미유 - 식혀줘 Live Clip (노래방 Ver.)]\n\n보라미유의 '식혀줘' Live Clip (노래방 Ver.)을 공개합니다:)\n풀버전은 프로필 링크를 통해 확인하실 수 있습니다 👆👆\n\n#보라미유 #Boramiyu #식혀줘 #쇼파르뮤직\n\n🖇\nhttps://t.co/h7Q4k2tqMp https://t.co/YVZvcCE4RX"
+	},
+	{
 		"created_at": "Sun Sep 08 07:18:20 +0000 2019",
 		"id": 1170596071447257000,
 		"id_str": "1170597221252747266",
