@@ -1,6 +1,625 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 13:48:42 +0000 2019",
+		"id": 1171782621669597200,
+		"id_str": "1171782621669597186",
+		"full_text": "#EBS스페이스공감\n[EBS 스페이스 공감] 선공개 영상 솔루션스(The Solutions) - In My City\nhttps://t.co/CbmwmS38GH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CbmwmS38GH",
+					"expanded_url": "https://youtu.be/LTRny5LHCiE",
+					"display_url": "youtu.be/LTRny5LHCiE",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감\n[EBS 스페이스 공감] 선공개 영상 솔루션스(The Solutions) - In My City\nhttps://t.co/CbmwmS38GH"
+	},
+	{
+		"created_at": "Wed Sep 11 13:48:41 +0000 2019",
+		"id": 1171782618888716300,
+		"id_str": "1171782618888716288",
+		"full_text": "#EBS스페이스공감\n[EBS 스페이스 공감] 미공개 영상 솔루션스(The Solutions) - Jungle In Your Mind\nhttps://t.co/LLLxy3WHxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LLLxy3WHxL",
+					"expanded_url": "https://youtu.be/I7mChdiehyI",
+					"display_url": "youtu.be/I7mChdiehyI",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감\n[EBS 스페이스 공감] 미공개 영상 솔루션스(The Solutions) - Jungle In Your Mind\nhttps://t.co/LLLxy3WHxL"
+	},
+	{
+		"created_at": "Wed Sep 11 13:48:32 +0000 2019",
+		"id": 1171782580791849000,
+		"id_str": "1171782580791848960",
+		"full_text": "#Songkick #송킥\nLivingstone at Zandari Festa (September 29, 2019)\n▶ https://t.co/XauGNA5jCz\n　\n#내한 #내한공연 #내한콘서트 #공연안내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "송킥",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "내한콘서트",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XauGNA5jCz",
+					"expanded_url": "http://bit.ly/2A8h6En",
+					"display_url": "bit.ly/2A8h6En",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "#Songkick #송킥\nLivingstone at Zandari Festa (September 29, 2019)\n▶ https://t.co/XauGNA5jCz\n　\n#내한 #내한공연 #내한콘서트 #공연안내"
+	},
+	{
+		"created_at": "Wed Sep 11 13:13:34 +0000 2019",
+		"id": 1171767355019423700,
+		"id_str": "1171773782320697345",
+		"full_text": "인간 사이다 청량보스 #솔루션스🍾\n음원으로 들어도 좋고\n라이브로 들으면 더 좋은 이번 앨범...♥️\n\n멤버들의 완벽한 라이브+ 관객 여러분들의 신나는 떼창으로 행복 영상 완성💕\n\n[선공개 영상] 솔루션스(The Solutions)  - In My City https://t.co/cQ08i9VIAQ - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔루션스",
+					"indices": [
+						12,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cQ08i9VIAQ",
+					"expanded_url": "https://youtu.be/LTRny5LHCiE",
+					"display_url": "youtu.be/LTRny5LHCiE",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275585,
+			"friends_count": 20427,
+			"listed_count": 835,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간 사이다 청량보스 #솔루션스🍾\n음원으로 들어도 좋고\n라이브로 들으면 더 좋은 이번 앨범...♥️\n\n멤버들의 완벽한 라이브+ 관객 여러분들의 신나는 떼창으로 행복 영상 완성💕\n\n[선공개 영상] 솔루션스(The Solutions)  - In My City https://t.co/cQ08i9VIAQ - @YouTube"
+	},
+	{
+		"created_at": "Wed Sep 11 13:13:27 +0000 2019",
+		"id": 1171760274535092200,
+		"id_str": "1171773752306274305",
+		"full_text": "스페이스 공감이 여러분들을 위한 추석 선물로 솔루션스의 에너지 넘치는 무대를 준비했답니다😘 흥겨운 탬버린 소리를 듣고 있으면 정글이 될 고속도로도 두렵지 않아...🚗🚙\n\n[미공개 영상] 솔루션스(The Solutions)  - Jungle In Your Mind https://t.co/OgyzjagVJs - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OgyzjagVJs",
+					"expanded_url": "https://youtu.be/I7mChdiehyI",
+					"display_url": "youtu.be/I7mChdiehyI",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275585,
+			"friends_count": 20427,
+			"listed_count": 835,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스페이스 공감이 여러분들을 위한 추석 선물로 솔루션스의 에너지 넘치는 무대를 준비했답니다😘 흥겨운 탬버린 소리를 듣고 있으면 정글이 될 고속도로도 두렵지 않아...🚗🚙\n\n[미공개 영상] 솔루션스(The Solutions)  - Jungle In Your Mind https://t.co/OgyzjagVJs - @YouTube"
+	},
+	{
 		"created_at": "Wed Sep 11 12:13:27 +0000 2019",
 		"id": 1171758566723571700,
 		"id_str": "1171758653172584448",
