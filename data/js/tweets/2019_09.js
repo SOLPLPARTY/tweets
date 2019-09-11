@@ -1,6 +1,1303 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 11:13:37 +0000 2019",
+		"id": 1171743013460037600,
+		"id_str": "1171743592341286912",
+		"full_text": "책은 10월 중 출간 예정입니다. 자세한 소식은 곧 또 전하겠습니다.\n\n#재미공작소 #씬의아이들 #전자양 #연진 #라이너스의담요 #몬구 #몽구스 #하박국 #기술인간 #김윤하대중음악평론가 #2019MEET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "씬의아이들",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "전자양",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "연진",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "라이너스의담요",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "몬구",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "몽구스",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "하박국",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "기술인간",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "김윤하대중음악평론가",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "2019MEET",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171742832660320300,
+		"in_reply_to_status_id_str": "1171742832660320256",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8098,
+			"friends_count": 615,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "책은 10월 중 출간 예정입니다. 자세한 소식은 곧 또 전하겠습니다.\n\n#재미공작소 #씬의아이들 #전자양 #연진 #라이너스의담요 #몬구 #몽구스 #하박국 #기술인간 #김윤하대중음악평론가 #2019MEET"
+	},
+	{
+		"created_at": "Wed Sep 11 11:13:34 +0000 2019",
+		"id": 1171742202159960000,
+		"id_str": "1171743583453536259",
+		"full_text": "2019년 재미공작소 신간 제목은 &lt;씬의 아이들&gt;입니다. 우리가 알고 있는 바로 그 ‘씬’을 보고 꿈을 키운 ‘아이들’-\n전자양(전자양), \n연진(라이너스의 담요), \n몬구(몽구스), \n하박국, \n김윤하\n-이 씬 안에서 성장하고 머무른 이야기를 인터뷰와 에세이로 담은 책입니다. https://t.co/k955qg3XXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171742185969963000,
+					"id_str": "1171742185969963008",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EELdT1sUUAAymPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELdT1sUUAAymPj.jpg",
+					"url": "https://t.co/k955qg3XXQ",
+					"display_url": "pic.twitter.com/k955qg3XXQ",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1171742202159960064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1186,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1361,
+							"h": 1377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171742185969963000,
+					"id_str": "1171742185969963008",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EELdT1sUUAAymPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELdT1sUUAAymPj.jpg",
+					"url": "https://t.co/k955qg3XXQ",
+					"display_url": "pic.twitter.com/k955qg3XXQ",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1171742202159960064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1186,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1361,
+							"h": 1377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171740238995083300,
+		"in_reply_to_status_id_str": "1171740238995083268",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8098,
+			"friends_count": 615,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 재미공작소 신간 제목은 &lt;씬의 아이들&gt;입니다. 우리가 알고 있는 바로 그 ‘씬’을 보고 꿈을 키운 ‘아이들’-\n전자양(전자양), \n연진(라이너스의 담요), \n몬구(몽구스), \n하박국, \n김윤하\n-이 씬 안에서 성장하고 머무른 이야기를 인터뷰와 에세이로 담은 책입니다. https://t.co/k955qg3XXQ"
+	},
+	{
+		"created_at": "Wed Sep 11 11:13:27 +0000 2019",
+		"id": 1171740238995083300,
+		"id_str": "1171743553577455623",
+		"full_text": "재미공작소는 문화예술공간이자 매해 1~2권의 단행본을 출간하고 있는 출판사입니다. 저희의 모든 책이 저희에게는 소중하지만 이번 책은 좀 더 특별한 느낌인데요, 오래전부터 꿈꾸던 기획이 결과물로 나오기 때문이기도 하고, 긴 시간의 이야기를 들려주는 책이기 때문이기도 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8098,
+			"friends_count": 615,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "재미공작소는 문화예술공간이자 매해 1~2권의 단행본을 출간하고 있는 출판사입니다. 저희의 모든 책이 저희에게는 소중하지만 이번 책은 좀 더 특별한 느낌인데요, 오래전부터 꿈꾸던 기획이 결과물로 나오기 때문이기도 하고, 긴 시간의 이야기를 들려주는 책이기 때문이기도 합니다."
+	},
+	{
+		"created_at": "Wed Sep 11 11:03:49 +0000 2019",
+		"id": 1171741126983868400,
+		"id_str": "1171741126983868418",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n명절 귀경길! 장거리 운전의 졸음을 쫓는 팝 모음 | 소니테잎\nhttps://t.co/XZpldsLlKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZpldsLlKT",
+					"expanded_url": "https://youtu.be/WtwNB0WnSto",
+					"display_url": "youtu.be/WtwNB0WnSto",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n명절 귀경길! 장거리 운전의 졸음을 쫓는 팝 모음 | 소니테잎\nhttps://t.co/XZpldsLlKT"
+	},
+	{
+		"created_at": "Wed Sep 11 11:02:02 +0000 2019",
+		"id": 1171740679996924000,
+		"id_str": "1171740679996923906",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n구원찬의 매스사 일일 고모님 체험 [마딸소] EP.01\nhttps://t.co/xdovxCyaaF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xdovxCyaaF",
+					"expanded_url": "https://youtu.be/OBfa4UKEyMI",
+					"display_url": "youtu.be/OBfa4UKEyMI",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n구원찬의 매스사 일일 고모님 체험 [마딸소] EP.01\nhttps://t.co/xdovxCyaaF"
+	},
+	{
+		"created_at": "Wed Sep 11 10:50:55 +0000 2019",
+		"id": 1171737883536871400,
+		"id_str": "1171737883536871425",
+		"full_text": "#아지트라이브 #azit_live\n블루파프리카 Bluepaprika - 나도 모르게 unconsciously [아지트라이브 Azit Live #50]\nhttps://t.co/RpfT1WmM9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아지트라이브",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "azit_live",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RpfT1WmM9P",
+					"expanded_url": "https://youtu.be/BTGtRCRvEkY",
+					"display_url": "youtu.be/BTGtRCRvEkY",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아지트라이브 #azit_live\n블루파프리카 Bluepaprika - 나도 모르게 unconsciously [아지트라이브 Azit Live #50]\nhttps://t.co/RpfT1WmM9P"
+	},
+	{
+		"created_at": "Wed Sep 11 10:33:32 +0000 2019",
+		"id": 1171733508278149000,
+		"id_str": "1171733508278149121",
+		"full_text": "#민트페이퍼 #MINTPAPER\nGMF villain Story 두 번째\nhttps://t.co/ObV2Be9XAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObV2Be9XAM",
+					"expanded_url": "https://youtu.be/8i-XJPAswd0",
+					"display_url": "youtu.be/8i-XJPAswd0",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 312,
+			"listed_count": 1,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\nGMF villain Story 두 번째\nhttps://t.co/ObV2Be9XAM"
+	},
+	{
+		"created_at": "Wed Sep 11 10:18:27 +0000 2019",
+		"id": 1171724692131987500,
+		"id_str": "1171729709773856768",
+		"full_text": "✨일시 : 9/11(수), 9/25(수), 10/9(수) 19:00 ~ 22:00\n✨장소 : 서울시립미술관 서소문 본관 2층, 3층 전시장\n👉대상 : 미술관 방문객 누구나(별도의 신청없이 참여가능합니다.)\n🎵뮤직디렉터 : 계피\n⠀\n**문의 : 02.2124.8929/8918, etwas@seoul.go.kr\n-\n#서울시립미술관 #SeMA #뮤지엄나이트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울시립미술관",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "SeMA",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "뮤지엄나이트",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171724641863229400,
+		"in_reply_to_status_id_str": "1171724641863229440",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1680,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✨일시 : 9/11(수), 9/25(수), 10/9(수) 19:00 ~ 22:00\n✨장소 : 서울시립미술관 서소문 본관 2층, 3층 전시장\n👉대상 : 미술관 방문객 누구나(별도의 신청없이 참여가능합니다.)\n🎵뮤직디렉터 : 계피\n⠀\n**문의 : 02.2124.8929/8918, etwas@seoul.go.kr\n-\n#서울시립미술관 #SeMA #뮤지엄나이트"
+	},
+	{
+		"created_at": "Wed Sep 11 10:18:22 +0000 2019",
+		"id": 1171724641863229400,
+		"id_str": "1171729688319942656",
+		"full_text": "#계피 가 뮤직 디렉터로 함께하는 서울시립미술관 9월의 ‘뮤직+뮤지엄나이트’ &lt;에이징 월드- Will you still love me tomorrow?&gt;展💛 오늘 저녁 10시까지 감상하실 수 있어요 🙂 계피가 선정한 음악을 오디오 가이드 대여 또는 서울시립미술관 앱을 통해 함께 즐겨보세요. https://t.co/wj7oi0rtbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171724614973550600,
+					"id_str": "1171724614973550593",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EELNVEoUcAEPmUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELNVEoUcAEPmUV.jpg",
+					"url": "https://t.co/wj7oi0rtbw",
+					"display_url": "pic.twitter.com/wj7oi0rtbw",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1171724641863229440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171724614973550600,
+					"id_str": "1171724614973550593",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EELNVEoUcAEPmUV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELNVEoUcAEPmUV.jpg",
+					"url": "https://t.co/wj7oi0rtbw",
+					"display_url": "pic.twitter.com/wj7oi0rtbw",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1171724641863229440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171724614902247400,
+					"id_str": "1171724614902247424",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EELNVEXUcAA5XGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELNVEXUcAA5XGv.jpg",
+					"url": "https://t.co/wj7oi0rtbw",
+					"display_url": "pic.twitter.com/wj7oi0rtbw",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1171724641863229440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171724614906417200,
+					"id_str": "1171724614906417152",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EELNVEYUEAA7qBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EELNVEYUEAA7qBn.jpg",
+					"url": "https://t.co/wj7oi0rtbw",
+					"display_url": "pic.twitter.com/wj7oi0rtbw",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1171724641863229440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1680,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#계피 가 뮤직 디렉터로 함께하는 서울시립미술관 9월의 ‘뮤직+뮤지엄나이트’ &lt;에이징 월드- Will you still love me tomorrow?&gt;展💛 오늘 저녁 10시까지 감상하실 수 있어요 🙂 계피가 선정한 음악을 오디오 가이드 대여 또는 서울시립미술관 앱을 통해 함께 즐겨보세요. https://t.co/wj7oi0rtbw"
+	},
+	{
 		"created_at": "Wed Sep 11 10:13:35 +0000 2019",
 		"id": 1171727432816021500,
 		"id_str": "1171728485775237120",
