@@ -1,10 +1,409 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 11:13:34 +0000 2019",
+		"id": 1172104660645105700,
+		"id_str": "1172105968299253761",
+		"full_text": "#상상마당 #추석인사\n여러분👐🏼\n몸과 마음이 행복한 추석 보내세요😊💕\n상상마당 공간별 추석연휴 운영시간은\n게시물을 확인해주세요! https://t.co/rvoYiHBIkI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "추석인사",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172104652633956400,
+					"id_str": "1172104652633956352",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQm-LPUYAAOWh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQm-LPUYAAOWh1.jpg",
+					"url": "https://t.co/rvoYiHBIkI",
+					"display_url": "pic.twitter.com/rvoYiHBIkI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1172104660645105665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172104652633956400,
+					"id_str": "1172104652633956352",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQm-LPUYAAOWh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQm-LPUYAAOWh1.jpg",
+					"url": "https://t.co/rvoYiHBIkI",
+					"display_url": "pic.twitter.com/rvoYiHBIkI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1172104660645105665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19392,
+			"friends_count": 2013,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #추석인사\n여러분👐🏼\n몸과 마음이 행복한 추석 보내세요😊💕\n상상마당 공간별 추석연휴 운영시간은\n게시물을 확인해주세요! https://t.co/rvoYiHBIkI"
+	},
+	{
+		"created_at": "Thu Sep 12 11:13:28 +0000 2019",
+		"id": 1172091708093288400,
+		"id_str": "1172105942634237953",
+		"full_text": "[신규입고]\n📍 아디오스오디오 부채\n\n밴드 아디오스오디오의 부채가 신규입고되었습니다! \n비를 뚫고 방문해주신 팬분께 진심으로 감사 드립니다😆\n비가 그치면 다시 낮더위가 찾아온다고 하는데요! 씬디에 오셔서 귀여운 부채를 자유롭게 이용해보세요🥰 https://t.co/qTfDPH1M9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172091694587629600,
+					"id_str": "1172091694587629569",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQbL6wU0AEmcMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQbL6wU0AEmcMJ.jpg",
+					"url": "https://t.co/qTfDPH1M9X",
+					"display_url": "pic.twitter.com/qTfDPH1M9X",
+					"expanded_url": "https://twitter.com/xindieticket/status/1172091708093288450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172091694587629600,
+					"id_str": "1172091694587629569",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQbL6wU0AEmcMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQbL6wU0AEmcMJ.jpg",
+					"url": "https://t.co/qTfDPH1M9X",
+					"display_url": "pic.twitter.com/qTfDPH1M9X",
+					"expanded_url": "https://twitter.com/xindieticket/status/1172091708093288450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172091694579216400,
+					"id_str": "1172091694579216384",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQbL6uUcAAG428.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQbL6uUcAAG428.jpg",
+					"url": "https://t.co/qTfDPH1M9X",
+					"display_url": "pic.twitter.com/qTfDPH1M9X",
+					"expanded_url": "https://twitter.com/xindieticket/status/1172091708093288450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2727,
+			"friends_count": 2595,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n📍 아디오스오디오 부채\n\n밴드 아디오스오디오의 부채가 신규입고되었습니다! \n비를 뚫고 방문해주신 팬분께 진심으로 감사 드립니다😆\n비가 그치면 다시 낮더위가 찾아온다고 하는데요! 씬디에 오셔서 귀여운 부채를 자유롭게 이용해보세요🥰 https://t.co/qTfDPH1M9X"
+	},
+	{
 		"created_at": "Thu Sep 12 10:13:27 +0000 2019",
 		"id": 1172084158471913500,
 		"id_str": "1172090842883997696",
-		"full_text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨‍👩‍👦‍👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c",
+		"full_text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨👩👦👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -244,7 +643,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨‍👩‍👦‍👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c"
+		"text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨👩👦👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c"
 	},
 	{
 		"created_at": "Thu Sep 12 08:02:07 +0000 2019",
