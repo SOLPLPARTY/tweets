@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 16:13:28 +0000 2019",
+		"id": 1172169807237529600,
+		"id_str": "1172181440584462338",
+		"full_text": "#올댓뮤직\n\n강렬한 무대매너와 함께한 명곡 퍼레이드\n#부활 편 재밌게 보셨나요 ?\n\n아쉽게도 오늘 방송에서 만나지 못한\n#미방곡 #비와당신의이야기 는\n지금 바로 올댓뮤직 유튜브 채널에서 만날 수 있습니다 !\n\n올댓뮤직 시청자 여러분\n모두 모두 행복한 추석 연휴 보내세요💜\n\n#ALLTHATMUSIC #MC영배 https://t.co/SqAW9eawZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "부활",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "미방곡",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "비와당신의이야기",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172169679575478300,
+					"id_str": "1172169679575478272",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172169679575478272/pu/img/uXbjLZTQWWtVUbSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172169679575478272/pu/img/uXbjLZTQWWtVUbSg.jpg",
+					"url": "https://t.co/SqAW9eawZC",
+					"display_url": "pic.twitter.com/SqAW9eawZC",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1172169807237529602/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172169679575478300,
+					"id_str": "1172169679575478272",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172169679575478272/pu/img/uXbjLZTQWWtVUbSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172169679575478272/pu/img/uXbjLZTQWWtVUbSg.jpg",
+					"url": "https://t.co/SqAW9eawZC",
+					"display_url": "pic.twitter.com/SqAW9eawZC",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1172169807237529602/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42309,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172169679575478272/pu/vid/480x270/6hvfqjNnMMBks_11.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172169679575478272/pu/vid/640x360/30tMZssgBpJi2YpU.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172169679575478272/pu/vid/1280x720/peDpmMiaBHRK5228.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172169679575478272/pu/pl/foRJBY6wkES8iOwB.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3773,
+			"friends_count": 954,
+			"listed_count": 95,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n강렬한 무대매너와 함께한 명곡 퍼레이드\n#부활 편 재밌게 보셨나요 ?\n\n아쉽게도 오늘 방송에서 만나지 못한\n#미방곡 #비와당신의이야기 는\n지금 바로 올댓뮤직 유튜브 채널에서 만날 수 있습니다 !\n\n올댓뮤직 시청자 여러분\n모두 모두 행복한 추석 연휴 보내세요💜\n\n#ALLTHATMUSIC #MC영배 https://t.co/SqAW9eawZC"
+	},
+	{
+		"created_at": "Thu Sep 12 15:18:23 +0000 2019",
+		"id": 1172163431945752600,
+		"id_str": "1172167578023845891",
+		"full_text": "[VIDEO]\n　\n선미의 2019 추석 인사가 도착했습니다 🙇🏻‍♀\n행복하고 풍요로운 한가위 되세요 🌕\n　\n#선미 #SUNMI https://t.co/1MBmP9LaHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						64,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172163309585322000,
+					"id_str": "1172163309585321984",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172163309585321984/pu/img/PDFRb7SSjoZorQ1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172163309585321984/pu/img/PDFRb7SSjoZorQ1O.jpg",
+					"url": "https://t.co/1MBmP9LaHw",
+					"display_url": "pic.twitter.com/1MBmP9LaHw",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1172163431945752577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172163309585322000,
+					"id_str": "1172163309585321984",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172163309585321984/pu/img/PDFRb7SSjoZorQ1O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172163309585321984/pu/img/PDFRb7SSjoZorQ1O.jpg",
+					"url": "https://t.co/1MBmP9LaHw",
+					"display_url": "pic.twitter.com/1MBmP9LaHw",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1172163431945752577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38917,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172163309585321984/pu/vid/640x360/MHMxPI0fQVcuKI_C.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172163309585321984/pu/pl/xqjUz73TcSpf1_if.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172163309585321984/pu/vid/480x270/nKOvruqDrqDzdJXH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172163309585321984/pu/vid/1280x720/JBHpEUSPRO1J1XU6.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "MAKEUS_Ent",
+			"screen_name": "MAKEUS_Ent",
+			"location": "",
+			"description": "MAKEUS Entertainment 공식 트위터 입니다. [https://t.co/rVAme5caJr] [https://t.co/UICLMo31bs] [https://t.co/KckpUWVrbi]",
+			"url": "https://t.co/cKAGkoYHot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cKAGkoYHot",
+							"expanded_url": "http://www.makeusent.com/",
+							"display_url": "makeusent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rVAme5caJr",
+							"expanded_url": "http://facebook.com/makeusent",
+							"display_url": "facebook.com/makeusent",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/UICLMo31bs",
+							"expanded_url": "http://Instagram.com/makeus_ent",
+							"display_url": "Instagram.com/makeus_ent",
+							"indices": [
+								60,
+								83
+							]
+						},
+						{
+							"url": "https://t.co/KckpUWVrbi",
+							"expanded_url": "http://youtube.com/c/MAKEUSEntertainment",
+							"display_url": "youtube.com/c/MAKEUSEntert…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9056,
+			"friends_count": 3,
+			"listed_count": 78,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1554110227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 1728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO]\n　\n선미의 2019 추석 인사가 도착했습니다 🙇🏻‍♀\n행복하고 풍요로운 한가위 되세요 🌕\n　\n#선미 #SUNMI https://t.co/1MBmP9LaHw"
+	},
+	{
 		"created_at": "Thu Sep 12 15:05:07 +0000 2019",
 		"id": 1172164239424929800,
 		"id_str": "1172164239424929793",
