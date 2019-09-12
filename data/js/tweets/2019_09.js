@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 10:13:27 +0000 2019",
+		"id": 1172084158471913500,
+		"id_str": "1172090842883997696",
+		"full_text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨‍👩‍👦‍👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172084145591242800,
+					"id_str": "1172084145591242752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQUUgjVUAAiOez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQUUgjVUAAiOez.jpg",
+					"url": "https://t.co/3nnXOSxh0c",
+					"display_url": "pic.twitter.com/3nnXOSxh0c",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1172084158471913472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 866,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172084145591242800,
+					"id_str": "1172084145591242752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQUUgjVUAAiOez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQUUgjVUAAiOez.jpg",
+					"url": "https://t.co/3nnXOSxh0c",
+					"display_url": "pic.twitter.com/3nnXOSxh0c",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1172084158471913472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 866,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172084145591214000,
+					"id_str": "1172084145591214080",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQUUgjU4AAEkNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQUUgjU4AAEkNF.jpg",
+					"url": "https://t.co/3nnXOSxh0c",
+					"display_url": "pic.twitter.com/3nnXOSxh0c",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1172084158471913472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172084145591222300,
+					"id_str": "1172084145591222272",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EEQUUgjVAAAqhiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEQUUgjVAAAqhiH.jpg",
+					"url": "https://t.co/3nnXOSxh0c",
+					"display_url": "pic.twitter.com/3nnXOSxh0c",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1172084158471913472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5198,
+			"friends_count": 4689,
+			"listed_count": 67,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 하반기 헬로루키 with KOCCA] - [네모공감] 소식\n\n가을 장마와 함께하고 있는 네모공감 소식🌧🍂\n\n집중 호우를 뚫어내는 집중력 있는 호소력, ⚡️🗣 서늘하고 날카로운 연주로 잠시 장마가 소강상태를 보이는 날씨를 흠뻑 적셔준 버둥 군단의 든든한 지원까지!🌦👨‍👩‍👦‍👦\n\n많이 기대해주세요💖😗 https://t.co/3nnXOSxh0c"
+	},
+	{
 		"created_at": "Thu Sep 12 08:02:07 +0000 2019",
 		"id": 1172057791126823000,
 		"id_str": "1172057791126822912",
