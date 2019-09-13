@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 05:13:28 +0000 2019",
+		"id": 1172377466683289600,
+		"id_str": "1172377733499777026",
+		"full_text": "여러분 즐거운 한가위 되세요!(Feat. 롤링홀 기획팀) \n맛있는 거 많이 먹고 건강하게 보내시고, 2019 하반기 롤링홀 공연들도 많은 관심 부탁드립니다-!🙏🏻❤️ https://t.co/CqiqqjWs1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172377345887330300,
+					"id_str": "1172377345887330306",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172377345887330306/pu/img/razoa8HMHFm7rl3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172377345887330306/pu/img/razoa8HMHFm7rl3m.jpg",
+					"url": "https://t.co/CqiqqjWs1x",
+					"display_url": "pic.twitter.com/CqiqqjWs1x",
+					"expanded_url": "https://twitter.com/rollinghall/status/1172377466683289600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172377345887330300,
+					"id_str": "1172377345887330306",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172377345887330306/pu/img/razoa8HMHFm7rl3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172377345887330306/pu/img/razoa8HMHFm7rl3m.jpg",
+					"url": "https://t.co/CqiqqjWs1x",
+					"display_url": "pic.twitter.com/CqiqqjWs1x",
+					"expanded_url": "https://twitter.com/rollinghall/status/1172377466683289600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50350,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172377345887330306/pu/vid/720x720/lUuGNH2LuoTd-LOM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172377345887330306/pu/vid/480x480/FiGIcrEpP1XAL5vD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172377345887330306/pu/pl/pHZAq0vGL1NWQbms.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172377345887330306/pu/vid/320x320/NJZQFFgUu7rqy50E.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 792,
+			"listed_count": 38,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 즐거운 한가위 되세요!(Feat. 롤링홀 기획팀) \n맛있는 거 많이 먹고 건강하게 보내시고, 2019 하반기 롤링홀 공연들도 많은 관심 부탁드립니다-!🙏🏻❤️ https://t.co/CqiqqjWs1x"
+	},
+	{
 		"created_at": "Fri Sep 13 03:52:21 +0000 2019",
 		"id": 1172357321827246000,
 		"id_str": "1172357321827246080",
