@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 04:19:54 +0000 2019",
+		"id": 1172715024915128300,
+		"id_str": "1172726644236308480",
+		"full_text": "Don’t miss a minute of the action during #ULTRALIVE’s broadcast from the 6th edition of @UltraJapan !\n\nView the full lineup of artists streaming in Tokyo this weekend and tune in beginning tomorrow at https://t.co/mBqPSvbmBB https://t.co/rlzxg4aMpr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ULTRALIVE",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UltraJapan",
+					"name": "Ultra Japan",
+					"id": 868722679,
+					"id_str": "868722679",
+					"indices": [
+						88,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mBqPSvbmBB",
+					"expanded_url": "http://UltraJapan.com",
+					"display_url": "UltraJapan.com",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172715012281864200,
+					"id_str": "1172715012281864192",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZSFyHUEAA4M1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZSFyHUEAA4M1_.jpg",
+					"url": "https://t.co/rlzxg4aMpr",
+					"display_url": "pic.twitter.com/rlzxg4aMpr",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1172715024915128320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172715012281864200,
+					"id_str": "1172715012281864192",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EEZSFyHUEAA4M1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEZSFyHUEAA4M1_.jpg",
+					"url": "https://t.co/rlzxg4aMpr",
+					"display_url": "pic.twitter.com/rlzxg4aMpr",
+					"expanded_url": "https://twitter.com/UMFKorea/status/1172715024915128320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1008,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279948669,
+			"id_str": "279948669",
+			"name": "Ultra Korea",
+			"screen_name": "UMFKorea",
+			"location": "Seoul, Korea",
+			"description": "the OFFICIAL Twitter account for Ultra Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20278,
+			"friends_count": 23,
+			"listed_count": 124,
+			"created_at": "Sun Apr 10 10:03:04 +0000 2011",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057091149008011266/x_jnAL8B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279948669/1561068729",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss a minute of the action during #ULTRALIVE’s broadcast from the 6th edition of @UltraJapan !\n\nView the full lineup of artists streaming in Tokyo this weekend and tune in beginning tomorrow at https://t.co/mBqPSvbmBB https://t.co/rlzxg4aMpr"
+	},
+	{
 		"created_at": "Sat Sep 14 03:27:23 +0000 2019",
 		"id": 1172713425262305300,
 		"id_str": "1172713425262305287",
