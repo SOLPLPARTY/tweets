@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 15:13:27 +0000 2019",
+		"id": 1172885483300409300,
+		"id_str": "1172891115936202752",
+		"full_text": "#상상마당공연 #초대이벤트\n추석 연휴 잘 보내고 계시지요?\n베이빌론이 전하는 추석 인사🙇🏻‍♂️\n\n상상마당 인스타그램 계정에서 진행되는\n베이빌론 공연 초대이벤트도 참여해주세요!\n이벤트 링크 : https://t.co/YPLZoJ34AY\n\n그럼 9/22 17시 라이브홀에서 만나요👋🏼 https://t.co/PlJPAplw5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "초대이벤트",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YPLZoJ34AY",
+					"expanded_url": "https://bit.ly/2mivmqF",
+					"display_url": "bit.ly/2mivmqF",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172885180073173000,
+					"id_str": "1172885180073172997",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172885180073172997/pu/img/exITUZHcJv3OhPVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172885180073172997/pu/img/exITUZHcJv3OhPVg.jpg",
+					"url": "https://t.co/PlJPAplw5S",
+					"display_url": "pic.twitter.com/PlJPAplw5S",
+					"expanded_url": "https://twitter.com/SSmadang/status/1172885483300409344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172885180073173000,
+					"id_str": "1172885180073172997",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172885180073172997/pu/img/exITUZHcJv3OhPVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172885180073172997/pu/img/exITUZHcJv3OhPVg.jpg",
+					"url": "https://t.co/PlJPAplw5S",
+					"display_url": "pic.twitter.com/PlJPAplw5S",
+					"expanded_url": "https://twitter.com/SSmadang/status/1172885483300409344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172885180073172997/pu/vid/720x720/GoT1ANxGbeDsH1kW.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172885180073172997/pu/vid/320x320/fCJB90iRO2RLXzLQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1172885180073172997/pu/pl/u7ddlBqRy_PmGuV8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1172885180073172997/pu/vid/480x480/kx0diz0vLTRHsNWv.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19386,
+			"friends_count": 2014,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당공연 #초대이벤트\n추석 연휴 잘 보내고 계시지요?\n베이빌론이 전하는 추석 인사🙇🏻‍♂️\n\n상상마당 인스타그램 계정에서 진행되는\n베이빌론 공연 초대이벤트도 참여해주세요!\n이벤트 링크 : https://t.co/YPLZoJ34AY\n\n그럼 9/22 17시 라이브홀에서 만나요👋🏼 https://t.co/PlJPAplw5S"
+	},
+	{
 		"created_at": "Sat Sep 14 12:13:27 +0000 2019",
 		"id": 1172837371139821600,
 		"id_str": "1172845817243324417",
