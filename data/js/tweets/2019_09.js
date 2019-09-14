@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 08:13:27 +0000 2019",
+		"id": 1172774646065897500,
+		"id_str": "1172785419139932160",
+		"full_text": "&lt; 9월27일(금) 공연녹화&gt;\n9/27 저녁7시 광주MBC 공개홀\n\n2020년 4월\n난장이 기획 제작하는\n글로벌 밴드서바이벌 프로젝트\n#아시안탑밴드 특별 쇼케이스!\n\n아시아 10개국 방송관계자들에게\n k-밴드의 저력을 선보이는\n스페셜 스테이지\n\n현재 남미 투어중인\n#w24 \n\n신청하라\nhttps://t.co/sTk0zj7R4E https://t.co/Vdwagpoxcn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아시안탑밴드",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "w24",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTk0zj7R4E",
+					"expanded_url": "http://naver.me/FiroiF6d",
+					"display_url": "naver.me/FiroiF6d",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172774579812651000,
+					"id_str": "1172774579812651008",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EEaIREdXUAAeHkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEaIREdXUAAeHkS.jpg",
+					"url": "https://t.co/Vdwagpoxcn",
+					"display_url": "pic.twitter.com/Vdwagpoxcn",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1172774646065897472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172774579812651000,
+					"id_str": "1172774579812651008",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EEaIREdXUAAeHkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEaIREdXUAAeHkS.jpg",
+					"url": "https://t.co/Vdwagpoxcn",
+					"display_url": "pic.twitter.com/Vdwagpoxcn",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1172774646065897472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 3635,
+			"listed_count": 112,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; 9월27일(금) 공연녹화&gt;\n9/27 저녁7시 광주MBC 공개홀\n\n2020년 4월\n난장이 기획 제작하는\n글로벌 밴드서바이벌 프로젝트\n#아시안탑밴드 특별 쇼케이스!\n\n아시아 10개국 방송관계자들에게\n k-밴드의 저력을 선보이는\n스페셜 스테이지\n\n현재 남미 투어중인\n#w24 \n\n신청하라\nhttps://t.co/sTk0zj7R4E https://t.co/Vdwagpoxcn"
+	},
+	{
 		"created_at": "Sat Sep 14 07:13:36 +0000 2019",
 		"id": 1172756842583187500,
 		"id_str": "1172770353774583808",
