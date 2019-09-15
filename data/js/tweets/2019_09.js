@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 09:13:29 +0000 2019",
+		"id": 1173151684047949800,
+		"id_str": "1173162914578087936",
+		"full_text": "#상상마당시네마\n#틴스피릿 개봉 9/11\n더 이상 망설일 수 없어\n진짜 나를 보여줄게! \n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀\n&lt;상영 시간표&gt;\n9/15 일요일 15:30\n9/16 월요일 15:40\n9/18 수요일 18:00\n9/19 목요일 12:50\n9/21 토요일 15:40\n\n예매 링크 https://t.co/UkyoAwHDLP https://t.co/qZQHsZsACU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "틴스피릿",
+					"indices": [
+						9,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UkyoAwHDLP",
+					"expanded_url": "http://bit.ly/33uNn6a",
+					"display_url": "bit.ly/33uNn6a",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173151485799981000,
+					"id_str": "1173151485799981057",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173151485799981057/pu/img/CJe-0nHMbJ97nOY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173151485799981057/pu/img/CJe-0nHMbJ97nOY-.jpg",
+					"url": "https://t.co/qZQHsZsACU",
+					"display_url": "pic.twitter.com/qZQHsZsACU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1173151684047949824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173151485799981000,
+					"id_str": "1173151485799981057",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1173151485799981057/pu/img/CJe-0nHMbJ97nOY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1173151485799981057/pu/img/CJe-0nHMbJ97nOY-.jpg",
+					"url": "https://t.co/qZQHsZsACU",
+					"display_url": "pic.twitter.com/qZQHsZsACU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1173151684047949824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12975,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1173151485799981057/pu/pl/g9Ob1WydYlk3E2nW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173151485799981057/pu/vid/720x720/ODKjtL4U1EVWY49j.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173151485799981057/pu/vid/320x320/67HiufUEgB6L1o13.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1173151485799981057/pu/vid/480x480/mManyteBan78ORJq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19386,
+			"friends_count": 2014,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당시네마\n#틴스피릿 개봉 9/11\n더 이상 망설일 수 없어\n진짜 나를 보여줄게! \n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀\n&lt;상영 시간표&gt;\n9/15 일요일 15:30\n9/16 월요일 15:40\n9/18 수요일 18:00\n9/19 목요일 12:50\n9/21 토요일 15:40\n\n예매 링크 https://t.co/UkyoAwHDLP https://t.co/qZQHsZsACU"
+	},
+	{
 		"created_at": "Sun Sep 15 08:01:22 +0000 2019",
 		"id": 1173144765875007500,
 		"id_str": "1173144765875007488",
