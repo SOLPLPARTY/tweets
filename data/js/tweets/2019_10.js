@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 13:13:39 +0000 2019",
+		"id": 1179018244058796000,
+		"id_str": "1179021558498693120",
+		"full_text": "[2020 캘린더 갤러리] 참가 신청 접수 안내 https://t.co/Hm9Nki0wcW 달력 제작하시는 많은 창작자들의 관심과 참여 기다리고 있겠습니다! https://t.co/m8xXGiYODz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hm9Nki0wcW",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221664880653",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179018211506835500,
+					"id_str": "1179018211506835456",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EFy20RCU0AAMjJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFy20RCU0AAMjJC.jpg",
+					"url": "https://t.co/m8xXGiYODz",
+					"display_url": "pic.twitter.com/m8xXGiYODz",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1179018244058796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179018211506835500,
+					"id_str": "1179018211506835456",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EFy20RCU0AAMjJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFy20RCU0AAMjJC.jpg",
+					"url": "https://t.co/m8xXGiYODz",
+					"display_url": "pic.twitter.com/m8xXGiYODz",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1179018244058796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8121,
+			"friends_count": 604,
+			"listed_count": 114,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 캘린더 갤러리] 참가 신청 접수 안내 https://t.co/Hm9Nki0wcW 달력 제작하시는 많은 창작자들의 관심과 참여 기다리고 있겠습니다! https://t.co/m8xXGiYODz"
+	},
+	{
+		"created_at": "Tue Oct 01 13:13:34 +0000 2019",
+		"id": 1179017007045304300,
+		"id_str": "1179021537019678720",
+		"full_text": "#먼데이서울 \n&lt;소리로 지은 시, 노래로 엮은 이야기&gt; 6 \n\n눈뜨고코베인 \n\n10/7(월) 8시 30분 \n상계동 복합문화공간 더숲 \n\n예매 https://t.co/K2zjkD72Xs https://t.co/NaRUHjnCpz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이서울",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2zjkD72Xs",
+					"expanded_url": "http://www.forest6.co.kr/home/board_QnKN67/20232",
+					"display_url": "forest6.co.kr/home/board_QnK…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179016981439082500,
+					"id_str": "1179016981439082496",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EFy1sqrUcAAYW9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFy1sqrUcAAYW9o.jpg",
+					"url": "https://t.co/NaRUHjnCpz",
+					"display_url": "pic.twitter.com/NaRUHjnCpz",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1179017007045304321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179016981439082500,
+					"id_str": "1179016981439082496",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EFy1sqrUcAAYW9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFy1sqrUcAAYW9o.jpg",
+					"url": "https://t.co/NaRUHjnCpz",
+					"display_url": "pic.twitter.com/NaRUHjnCpz",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1179017007045304321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 225,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1569934513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#먼데이서울 \n&lt;소리로 지은 시, 노래로 엮은 이야기&gt; 6 \n\n눈뜨고코베인 \n\n10/7(월) 8시 30분 \n상계동 복합문화공간 더숲 \n\n예매 https://t.co/K2zjkD72Xs https://t.co/NaRUHjnCpz"
+	},
+	{
+		"created_at": "Tue Oct 01 13:13:31 +0000 2019",
+		"id": 1179006385138176000,
+		"id_str": "1179021523497160705",
+		"full_text": "🍁9월 업데이트 앨범🍁\n* 밴드 티치(Band Tiech) - [Out of Control]\n* 오드(ode) - [to youth]\n* cotoba(코토바) - [언어의 형태]\n\n▶️ 보유앨범 전체보기 : https://t.co/dQif8ng6LZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dQif8ng6LZ",
+					"expanded_url": "http://reurl.kr/3E94EBE2KC",
+					"display_url": "reurl.kr/3E94EBE2KC",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179006382239973400,
+		"in_reply_to_status_id_str": "1179006382239973376",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2758,
+			"friends_count": 2654,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍁9월 업데이트 앨범🍁\n* 밴드 티치(Band Tiech) - [Out of Control]\n* 오드(ode) - [to youth]\n* cotoba(코토바) - [언어의 형태]\n\n▶️ 보유앨범 전체보기 : https://t.co/dQif8ng6LZ"
+	},
+	{
+		"created_at": "Tue Oct 01 13:13:27 +0000 2019",
+		"id": 1179006382239973400,
+		"id_str": "1179021510381637638",
+		"full_text": "[씬디의 9월 CDP💽]\n씬디가 보유하고 있는 업데이트 앨범 목록입니다🐾\n\n기분 좋은 날씨, 홍대에 놀러 오신다면 씬디에 들르셔서 CDP를 이용해 다양한 앨범을 자유롭게 감상해보세요 🎧 https://t.co/u5RdnPaKkg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179006373704552400,
+					"id_str": "1179006373704552448",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EFysDNyU0AAvbls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFysDNyU0AAvbls.jpg",
+					"url": "https://t.co/u5RdnPaKkg",
+					"display_url": "pic.twitter.com/u5RdnPaKkg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179006382239973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 926,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179006373704552400,
+					"id_str": "1179006373704552448",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EFysDNyU0AAvbls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFysDNyU0AAvbls.jpg",
+					"url": "https://t.co/u5RdnPaKkg",
+					"display_url": "pic.twitter.com/u5RdnPaKkg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179006382239973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 926,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179006373704548400,
+					"id_str": "1179006373704548355",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EFysDNyUwAMEu5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFysDNyUwAMEu5g.jpg",
+					"url": "https://t.co/u5RdnPaKkg",
+					"display_url": "pic.twitter.com/u5RdnPaKkg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179006382239973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 830,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179006373704556500,
+					"id_str": "1179006373704556549",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EFysDNyU4AUvKQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFysDNyU4AUvKQX.jpg",
+					"url": "https://t.co/u5RdnPaKkg",
+					"display_url": "pic.twitter.com/u5RdnPaKkg",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179006382239973376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2758,
+			"friends_count": 2654,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디의 9월 CDP💽]\n씬디가 보유하고 있는 업데이트 앨범 목록입니다🐾\n\n기분 좋은 날씨, 홍대에 놀러 오신다면 씬디에 들르셔서 CDP를 이용해 다양한 앨범을 자유롭게 감상해보세요 🎧 https://t.co/u5RdnPaKkg"
+	},
+	{
 		"created_at": "Tue Oct 01 12:03:23 +0000 2019",
 		"id": 1179003877267521500,
 		"id_str": "1179003877267521541",
