@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 13:13:34 +0000 2019",
+		"id": 1179382158974165000,
+		"id_str": "1179383924432224256",
+		"full_text": "10/6(sun) [Sunday Vibes]\n오프이 Offe\n캄포 Campo\n영웅 Youngwoong\n데이글로우 D_glow\n일곱시반 Band730\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/2J88GIVpCt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179382147079196700,
+					"id_str": "1179382147079196672",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EF4B0GsX0AAkggy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF4B0GsX0AAkggy.jpg",
+					"url": "https://t.co/2J88GIVpCt",
+					"display_url": "pic.twitter.com/2J88GIVpCt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1179382158974164993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179382147079196700,
+					"id_str": "1179382147079196672",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EF4B0GsX0AAkggy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF4B0GsX0AAkggy.jpg",
+					"url": "https://t.co/2J88GIVpCt",
+					"display_url": "pic.twitter.com/2J88GIVpCt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1179382158974164993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179382147146244000,
+					"id_str": "1179382147146244097",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EF4B0G8W4AEVydx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF4B0G8W4AEVydx.jpg",
+					"url": "https://t.co/2J88GIVpCt",
+					"display_url": "pic.twitter.com/2J88GIVpCt",
+					"expanded_url": "https://twitter.com/clubFF_/status/1179382158974164993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6710,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/6(sun) [Sunday Vibes]\n오프이 Offe\n캄포 Campo\n영웅 Youngwoong\n데이글로우 D_glow\n일곱시반 Band730\n\nstart 6:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/2J88GIVpCt"
+	},
+	{
+		"created_at": "Wed Oct 02 13:13:30 +0000 2019",
+		"id": 1179374445728878600,
+		"id_str": "1179383907101351938",
+		"full_text": "&lt;귀여움이 세계를 지배한다&gt;\n👶일시:10/5(토)7PM \n(5PM입장번호표 배부,6:45PM번호표순입장시작)\n👶장소:컨벤트\n👶라인업:쟈니스파크,드링킹소년소녀합창단,코토바\n👶티켓가:예매 20,000원/현매 25,000원\n👶예매방법:카카오뱅크 3333 0958 50405ㄱㅇㅅ 입금 후\n010-3032-6033으로 입금자명 문자보내기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179374442226573300,
+		"in_reply_to_status_id_str": "1179374442226573314",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2760,
+			"friends_count": 2656,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;귀여움이 세계를 지배한다&gt;\n👶일시:10/5(토)7PM \n(5PM입장번호표 배부,6:45PM번호표순입장시작)\n👶장소:컨벤트\n👶라인업:쟈니스파크,드링킹소년소녀합창단,코토바\n👶티켓가:예매 20,000원/현매 25,000원\n👶예매방법:카카오뱅크 3333 0958 50405ㄱㅇㅅ 입금 후\n010-3032-6033으로 입금자명 문자보내기"
+	},
+	{
+		"created_at": "Wed Oct 02 13:13:27 +0000 2019",
+		"id": 1179374442226573300,
+		"id_str": "1179383898154901505",
+		"full_text": "[공연 추천]\n제목과 포스터만 봐도 귀여움과 깜찍함이 느껴지는 공연을 추천합니다💜\n귀여운 애니송과 각 팀들이 준비한 귀여운 안무💃\n그리고 어떤 팀이 제일 귀여운지 스티커 투표도 한다고 하는데요🗳️\n이번 주 토요일! \n귀여움이 가득한 공연장에 힐링하러 가보시는 건 어떨까용🥰 https://t.co/B6so81dDFV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179374431979880400,
+					"id_str": "1179374431979880448",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EF36zBtWwAARxAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF36zBtWwAARxAg.jpg",
+					"url": "https://t.co/B6so81dDFV",
+					"display_url": "pic.twitter.com/B6so81dDFV",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179374442226573314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179374431979880400,
+					"id_str": "1179374431979880448",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EF36zBtWwAARxAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF36zBtWwAARxAg.jpg",
+					"url": "https://t.co/B6so81dDFV",
+					"display_url": "pic.twitter.com/B6so81dDFV",
+					"expanded_url": "https://twitter.com/xindieticket/status/1179374442226573314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2760,
+			"friends_count": 2656,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연 추천]\n제목과 포스터만 봐도 귀여움과 깜찍함이 느껴지는 공연을 추천합니다💜\n귀여운 애니송과 각 팀들이 준비한 귀여운 안무💃\n그리고 어떤 팀이 제일 귀여운지 스티커 투표도 한다고 하는데요🗳️\n이번 주 토요일! \n귀여움이 가득한 공연장에 힐링하러 가보시는 건 어떨까용🥰 https://t.co/B6so81dDFV"
+	},
+	{
 		"created_at": "Wed Oct 02 12:13:28 +0000 2019",
 		"id": 1179364388664483800,
 		"id_str": "1179368799348383748",
