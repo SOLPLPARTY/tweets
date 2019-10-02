@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 04:13:31 +0000 2019",
+		"id": 1179243037609926700,
+		"id_str": "1179248019662876672",
+		"full_text": "🆕 New Release October 2\n-\n💿 손짓\n[Flowers] '지친 너에게'\n\n두 동갑내기 싱어송라이터 소은과 지수가 만난 ‘손짓’의 첫 싱글!\n자신들만의 감성으로 따뜻함과 위로를 전하는 노래가 담겨있습니다.\n\n✚ 앨범 자세히 보기: https://t.co/kY44hkWoav https://t.co/ggbnjRESq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kY44hkWoav",
+					"expanded_url": "https://bit.ly/2pa7g2x",
+					"display_url": "bit.ly/2pa7g2x",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179243020232863700,
+					"id_str": "1179243020232863751",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EF2DR2zWsAce_f8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF2DR2zWsAce_f8.jpg",
+					"url": "https://t.co/ggbnjRESq9",
+					"display_url": "pic.twitter.com/ggbnjRESq9",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1179243037609926656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179243020232863700,
+					"id_str": "1179243020232863751",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EF2DR2zWsAce_f8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF2DR2zWsAce_f8.jpg",
+					"url": "https://t.co/ggbnjRESq9",
+					"display_url": "pic.twitter.com/ggbnjRESq9",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1179243037609926656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9840,
+			"friends_count": 3006,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release October 2\n-\n💿 손짓\n[Flowers] '지친 너에게'\n\n두 동갑내기 싱어송라이터 소은과 지수가 만난 ‘손짓’의 첫 싱글!\n자신들만의 감성으로 따뜻함과 위로를 전하는 노래가 담겨있습니다.\n\n✚ 앨범 자세히 보기: https://t.co/kY44hkWoav https://t.co/ggbnjRESq9"
+	},
+	{
+		"created_at": "Wed Oct 02 04:13:27 +0000 2019",
+		"id": 1179234029364793300,
+		"id_str": "1179248002285871110",
+		"full_text": "2018 올해의 헬로루키 '공중그늘'에게 의미 있는 공간인\n'공중캠프'가 10월을 마지막으로 문을 닫게 되었습니다. 🙋‍♂️\n\n공중캠프에서는 공중그늘이 직접 기획한 공연 '공중파'가 \n매번 진행되었는데요.🎪🎼\n\n이번에 마지막 '공중파 vol.8'을 준비하고 있다고 합니다!\n많은 관심과 예매 부탁드려요~~ 💕 https://t.co/TJRATsVx4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJRATsVx4X",
+					"expanded_url": "https://twitter.com/gjgn2017/status/1174911156013502464",
+					"display_url": "twitter.com/gjgn2017/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5194,
+			"friends_count": 4681,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174911156013502500,
+		"quoted_status_id_str": "1174911156013502464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TJRATsVx4X",
+			"expanded": "https://twitter.com/gjgn2017/status/1174911156013502464",
+			"display": "twitter.com/gjgn2017/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 20 05:00:23 +0000 2019",
+			"id": 1174911156013502500,
+			"id_str": "1174911156013502464",
+			"full_text": "🔥: 공중캠프 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐬 : 𝐂𝐀𝐌𝐏 𝐅𝐈𝐑𝐄 𝐯𝐨𝐥.6🔥: 공중파 vol.8\n\n* 일시 : 2019년 10월 12일(토), 13일(일) door open 18:20 / start 19:00\n* 장소 : 공중캠프\n* 라인업 : 12일 - 공중그늘, 보수동쿨러, 사뮈, 위댄스 / 13일 - 공중그늘, DTSQ, 애리, 유기농맥주 https://t.co/2W3cSVSLkN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1174911123562225700,
+						"id_str": "1174911123562225664",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EE4fcSKU4AAq26n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE4fcSKU4AAq26n.jpg",
+						"url": "https://t.co/2W3cSVSLkN",
+						"display_url": "pic.twitter.com/2W3cSVSLkN",
+						"expanded_url": "https://twitter.com/gjgn2017/status/1174911156013502464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1434,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174911123562225700,
+						"id_str": "1174911123562225664",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EE4fcSKU4AAq26n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE4fcSKU4AAq26n.jpg",
+						"url": "https://t.co/2W3cSVSLkN",
+						"display_url": "pic.twitter.com/2W3cSVSLkN",
+						"expanded_url": "https://twitter.com/gjgn2017/status/1174911156013502464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1434,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 840,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 476,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 861513258020126700,
+				"id_str": "861513258020126720",
+				"name": "공중그늘",
+				"screen_name": "gjgn2017",
+				"location": "대한민국 서울",
+				"description": "‘파수꾼’ [MV] https://t.co/GjQtEUqkG7 /⠀ ⠀⠀⠀⠀⠀ ⠀'산책' [MV] https://t.co/2Aj7bydTtJ / ⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Contact : gjgn2017@gmail.com /",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GjQtEUqkG7",
+								"expanded_url": "https://youtu.be/DycNbzhAJRQ",
+								"display_url": "youtu.be/DycNbzhAJRQ",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/2Aj7bydTtJ",
+								"expanded_url": "https://youtu.be/f7ZKvlW-4fw",
+								"display_url": "youtu.be/f7ZKvlW-4fw",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 262,
+				"friends_count": 110,
+				"listed_count": 1,
+				"created_at": "Mon May 08 09:29:01 +0000 2017",
+				"favourites_count": 37,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998188846037716993/2CJMe6aj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998188846037716993/2CJMe6aj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/861513258020126720/1541916841",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2018 올해의 헬로루키 '공중그늘'에게 의미 있는 공간인\n'공중캠프'가 10월을 마지막으로 문을 닫게 되었습니다. 🙋‍♂️\n\n공중캠프에서는 공중그늘이 직접 기획한 공연 '공중파'가 \n매번 진행되었는데요.🎪🎼\n\n이번에 마지막 '공중파 vol.8'을 준비하고 있다고 합니다!\n많은 관심과 예매 부탁드려요~~ 💕 https://t.co/TJRATsVx4X"
+	},
+	{
+		"created_at": "Wed Oct 02 03:56:10 +0000 2019",
+		"id": 1179243652180304000,
+		"id_str": "1179243652180303873",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Lee Songmi (이송미) - Jayang-Dong Crossroads (자양동 네거리)\nhttps://t.co/Xiq0LtaOfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xiq0LtaOfq",
+					"expanded_url": "https://youtu.be/j4k6vCKxeUE",
+					"display_url": "youtu.be/j4k6vCKxeUE",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Lee Songmi (이송미) - Jayang-Dong Crossroads (자양동 네거리)\nhttps://t.co/Xiq0LtaOfq"
+	},
+	{
+		"created_at": "Wed Oct 02 03:32:14 +0000 2019",
+		"id": 1179237629004521500,
+		"id_str": "1179237629004521472",
+		"full_text": "#하나티켓\n[블라인드 티켓] [단독판매] WATERBOMB SEOUL 2020 : 10월 7일(월) 오후 5시\n▶ https://t.co/oPEEGXNnEE\n　\n#하나투어 #hanatour #티켓공지 https://t.co/cXlJZ6i4cm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하나티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "하나투어",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "hanatour",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oPEEGXNnEE",
+					"expanded_url": "http://bit.ly/2ooBHl4",
+					"display_url": "bit.ly/2ooBHl4",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179237627993702400,
+					"id_str": "1179237627993702408",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1-X_JWwAgo4J8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1-X_JWwAgo4J8.jpg",
+					"url": "https://t.co/cXlJZ6i4cm",
+					"display_url": "pic.twitter.com/cXlJZ6i4cm",
+					"expanded_url": "https://twitter.com/solplparty/status/1179237629004521472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179237627993702400,
+					"id_str": "1179237627993702408",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1-X_JWwAgo4J8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1-X_JWwAgo4J8.jpg",
+					"url": "https://t.co/cXlJZ6i4cm",
+					"display_url": "pic.twitter.com/cXlJZ6i4cm",
+					"expanded_url": "https://twitter.com/solplparty/status/1179237629004521472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 190,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#하나티켓\n[블라인드 티켓] [단독판매] WATERBOMB SEOUL 2020 : 10월 7일(월) 오후 5시\n▶ https://t.co/oPEEGXNnEE\n　\n#하나투어 #hanatour #티켓공지 https://t.co/cXlJZ6i4cm"
+	},
+	{
 		"created_at": "Wed Oct 02 03:14:18 +0000 2019",
 		"id": 1179233117141422000,
 		"id_str": "1179233117141422086",
