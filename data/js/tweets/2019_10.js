@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 05:18:32 +0000 2019",
+		"id": 1179622968424464400,
+		"id_str": "1179626767516086273",
+		"full_text": "• 10/5(토) 오후 9시 30분, 10/6(일) 오후 8시 30분\n[홍이삭] &lt;유동큰잔치&gt; 공연\n@살롱문보우\n\n• 10/6(일) 오후 12시\n[홍이삭] 경인방송 &lt;박현준의 라디오가가&gt; 방송\n@경인방송 라디오 https://t.co/mO47q2l9Iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179622956550328300,
+					"id_str": "1179622956550328320",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7c1D4UEAA3k74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7c1D4UEAA3k74.jpg",
+					"url": "https://t.co/mO47q2l9Iz",
+					"display_url": "pic.twitter.com/mO47q2l9Iz",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622968424464384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179622956550328300,
+					"id_str": "1179622956550328320",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7c1D4UEAA3k74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7c1D4UEAA3k74.jpg",
+					"url": "https://t.co/mO47q2l9Iz",
+					"display_url": "pic.twitter.com/mO47q2l9Iz",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622968424464384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179622957271797800,
+					"id_str": "1179622957271797760",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7c1GkU0AAd1G7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7c1GkU0AAd1G7.jpg",
+					"url": "https://t.co/mO47q2l9Iz",
+					"display_url": "pic.twitter.com/mO47q2l9Iz",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622968424464384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1179622902485811200,
+		"in_reply_to_status_id_str": "1179622902485811202",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 10/5(토) 오후 9시 30분, 10/6(일) 오후 8시 30분\n[홍이삭] &lt;유동큰잔치&gt; 공연\n@살롱문보우\n\n• 10/6(일) 오후 12시\n[홍이삭] 경인방송 &lt;박현준의 라디오가가&gt; 방송\n@경인방송 라디오 https://t.co/mO47q2l9Iz"
+	},
+	{
+		"created_at": "Thu Oct 03 05:18:26 +0000 2019",
+		"id": 1179622902485811200,
+		"id_str": "1179626740890636288",
+		"full_text": "• 10/4(금) 오후 8시\n[아마도이자람밴드] &lt;어쿠스틱 루프탑 콘서트&gt;\n@구리아트홀 야외 빛의 마루\n\n• 10/4(금) 오후 9시\n[최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt;\n@‘오늘은 왠지 하림과 낙타’ 코너\n\n• 10/5(토) 오후 7시\n[우주히피] &lt;우리의 저녁 2019 Vol.3&gt;\n@당신의 여름 https://t.co/DK7ZdtwZU2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179622792167186400,
+					"id_str": "1179622792167186432",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7crfgUYAA_PPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7crfgUYAA_PPZ.jpg",
+					"url": "https://t.co/DK7ZdtwZU2",
+					"display_url": "pic.twitter.com/DK7ZdtwZU2",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622902485811202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179622792167186400,
+					"id_str": "1179622792167186432",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7crfgUYAA_PPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7crfgUYAA_PPZ.jpg",
+					"url": "https://t.co/DK7ZdtwZU2",
+					"display_url": "pic.twitter.com/DK7ZdtwZU2",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622902485811202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179622793178013700,
+					"id_str": "1179622793178013696",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7crjRUYAAu1tB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7crjRUYAAu1tB.jpg",
+					"url": "https://t.co/DK7ZdtwZU2",
+					"display_url": "pic.twitter.com/DK7ZdtwZU2",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622902485811202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179622793643643000,
+					"id_str": "1179622793643642882",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7crlAVUAIA_Dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7crlAVUAIA_Dz.jpg",
+					"url": "https://t.co/DK7ZdtwZU2",
+					"display_url": "pic.twitter.com/DK7ZdtwZU2",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1179622902485811202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1179622552722821000,
+		"in_reply_to_status_id_str": "1179622552722821121",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1707,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 10/4(금) 오후 8시\n[아마도이자람밴드] &lt;어쿠스틱 루프탑 콘서트&gt;\n@구리아트홀 야외 빛의 마루\n\n• 10/4(금) 오후 9시\n[최낙타] KBS COOL FM &lt;악동뮤지션 수현의 볼륨을 높여요&gt;\n@‘오늘은 왠지 하림과 낙타’ 코너\n\n• 10/5(토) 오후 7시\n[우주히피] &lt;우리의 저녁 2019 Vol.3&gt;\n@당신의 여름 https://t.co/DK7ZdtwZU2"
+	},
+	{
 		"created_at": "Thu Oct 03 03:18:20 +0000 2019",
 		"id": 1179586193240907800,
 		"id_str": "1179596516379504641",
@@ -349,7 +805,7 @@ Grailbird.data.tweets_2019_10 =
 				"name": "네이버 나우.",
 				"screen_name": "kr_now",
 				"location": "",
-				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 				"url": null,
 				"entities": {
 					"description": {
