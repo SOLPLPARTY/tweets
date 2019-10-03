@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 12:13:35 +0000 2019",
+		"id": 1179728658321170400,
+		"id_str": "1179731217115209728",
+		"full_text": "쓸쓸하다고 느껴질 때,  마음이 고요해지고 자신의 내면을 들여다볼 수 있는 바로 그 순간이 진정 행복한 순간이라는 메시지를 담은 노래 👉 노인의 마음을 담은 노래지만 사실 우리 모두 공감할 수 있을 것 같아요🍂♥️\n\n선공개 영상 김도향과 스윗피플 - 쓸쓸해서 행복하다 https://t.co/nHH13MpuWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nHH13MpuWp",
+					"expanded_url": "https://youtu.be/p6EpmgH0MtQ",
+					"display_url": "youtu.be/p6EpmgH0MtQ",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274934,
+			"friends_count": 20370,
+			"listed_count": 832,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쓸쓸하다고 느껴질 때,  마음이 고요해지고 자신의 내면을 들여다볼 수 있는 바로 그 순간이 진정 행복한 순간이라는 메시지를 담은 노래 👉 노인의 마음을 담은 노래지만 사실 우리 모두 공감할 수 있을 것 같아요🍂♥️\n\n선공개 영상 김도향과 스윗피플 - 쓸쓸해서 행복하다 https://t.co/nHH13MpuWp"
+	},
+	{
+		"created_at": "Thu Oct 03 12:13:27 +0000 2019",
+		"id": 1179727940893823000,
+		"id_str": "1179731186345754624",
+		"full_text": "\"사과 맛🍏 딸기 맛🍓 좋아 좋아🍦\"\n배배 꼬인 바로 그 아이스크림 광고에서 흘러나오던 CM송 다들 기억하시죠?\nCM송의 넘.버.원🔝김도향 선생님이 추억의 CM송들을 메들리로 엮어 오셨대요👍함께 들어요\n\n미공개 영상 김도향과 스윗피플 - CM송 메들리 https://t.co/40RLGulfIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40RLGulfIP",
+					"expanded_url": "https://youtu.be/9fGt7aSdVwk",
+					"display_url": "youtu.be/9fGt7aSdVwk",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274934,
+			"friends_count": 20370,
+			"listed_count": 832,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"사과 맛🍏 딸기 맛🍓 좋아 좋아🍦\"\n배배 꼬인 바로 그 아이스크림 광고에서 흘러나오던 CM송 다들 기억하시죠?\nCM송의 넘.버.원🔝김도향 선생님이 추억의 CM송들을 메들리로 엮어 오셨대요👍함께 들어요\n\n미공개 영상 김도향과 스윗피플 - CM송 메들리 https://t.co/40RLGulfIP"
+	},
+	{
+		"created_at": "Thu Oct 03 12:09:43 +0000 2019",
+		"id": 1179730246796488700,
+		"id_str": "1179730246796488704",
+		"full_text": "#SLOW_LIFE_SLOW_LIVE #슬라슬라\n[슬라슬라2019 D-2: YES OR NO]\nhttps://t.co/hMi3pToeJw\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SLOW_LIFE_SLOW_LIVE",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "슬라슬라",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hMi3pToeJw",
+					"expanded_url": "http://bit.ly/2nYMV09",
+					"display_url": "bit.ly/2nYMV09",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SLOW_LIFE_SLOW_LIVE #슬라슬라\n[슬라슬라2019 D-2: YES OR NO]\nhttps://t.co/hMi3pToeJw\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Thu Oct 03 11:18:25 +0000 2019",
+		"id": 1179708111688331300,
+		"id_str": "1179717334380011521",
+		"full_text": "#20191003\n#서울인디뮤직페스타 #서울와우북페스티벌\n이번주 금요일부터 일요일까지\n#홍대 #씬디티켓라운지 #상상마당 앞에서\n#레이블마켓 #북콘서트 #공연 이 진행 됩니다\n관람은 모두 무료이니 근처에 오시면 놀러오세요 https://t.co/ACJiGxXl0w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "서울와우북페스티벌",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "씬디티켓라운지",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "레이블마켓",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "북콘서트",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179708063269314600,
+					"id_str": "1179708063269314560",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8qO7HU4AAqfRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8qO7HU4AAqfRH.jpg",
+					"url": "https://t.co/ACJiGxXl0w",
+					"display_url": "pic.twitter.com/ACJiGxXl0w",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1179708111688331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179708063269314600,
+					"id_str": "1179708063269314560",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8qO7HU4AAqfRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8qO7HU4AAqfRH.jpg",
+					"url": "https://t.co/ACJiGxXl0w",
+					"display_url": "pic.twitter.com/ACJiGxXl0w",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1179708111688331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179708077999677400,
+					"id_str": "1179708077999677441",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8qPx_UYAEs99p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8qPx_UYAEs99p.jpg",
+					"url": "https://t.co/ACJiGxXl0w",
+					"display_url": "pic.twitter.com/ACJiGxXl0w",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1179708111688331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1190,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179708087432708000,
+					"id_str": "1179708087432708096",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8qQVIVAAA-kMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8qQVIVAAA-kMV.jpg",
+					"url": "https://t.co/ACJiGxXl0w",
+					"display_url": "pic.twitter.com/ACJiGxXl0w",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1179708111688331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1190,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179708100808282000,
+					"id_str": "1179708100808282114",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EF8qRG9UEAIJqCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF8qRG9UEAIJqCW.jpg",
+					"url": "https://t.co/ACJiGxXl0w",
+					"display_url": "pic.twitter.com/ACJiGxXl0w",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1179708111688331264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1020,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1190,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2838,
+			"friends_count": 371,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 14953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20191003\n#서울인디뮤직페스타 #서울와우북페스티벌\n이번주 금요일부터 일요일까지\n#홍대 #씬디티켓라운지 #상상마당 앞에서\n#레이블마켓 #북콘서트 #공연 이 진행 됩니다\n관람은 모두 무료이니 근처에 오시면 놀러오세요 https://t.co/ACJiGxXl0w"
+	},
+	{
 		"created_at": "Thu Oct 03 10:07:11 +0000 2019",
 		"id": 1179699409778614300,
 		"id_str": "1179699409778614272",
