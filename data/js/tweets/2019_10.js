@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 03:13:27 +0000 2019",
+		"id": 1179595055985639400,
+		"id_str": "1179595290946478082",
+		"full_text": "[10/3 공연 안내]\n-\n&lt;해리빅버튼(HarryBigButton) 단독 콘서트&gt;\n-\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 해리빅버튼\n-\n#해리빅버튼 #HarryBigButton #하드록 #Hardrock #롤링홀 #홍대 #공연 #멜론티켓 https://t.co/btVRoWkb6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해리빅버튼",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "HarryBigButton",
+					"indices": [
+						128,
+						143
+					]
+				},
+				{
+					"text": "하드록",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Hardrock",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179595045046931500,
+					"id_str": "1179595045046931456",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7DcZbVUAA676W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7DcZbVUAA676W.jpg",
+					"url": "https://t.co/btVRoWkb6z",
+					"display_url": "pic.twitter.com/btVRoWkb6z",
+					"expanded_url": "https://twitter.com/rollinghall/status/1179595055985639425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179595045046931500,
+					"id_str": "1179595045046931456",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7DcZbVUAA676W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7DcZbVUAA676W.jpg",
+					"url": "https://t.co/btVRoWkb6z",
+					"display_url": "pic.twitter.com/btVRoWkb6z",
+					"expanded_url": "https://twitter.com/rollinghall/status/1179595055985639425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 792,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[10/3 공연 안내]\n-\n&lt;해리빅버튼(HarryBigButton) 단독 콘서트&gt;\n-\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 해리빅버튼\n-\n#해리빅버튼 #HarryBigButton #하드록 #Hardrock #롤링홀 #홍대 #공연 #멜론티켓 https://t.co/btVRoWkb6z"
+	},
+	{
 		"created_at": "Thu Oct 03 00:18:16 +0000 2019",
 		"id": 1179540163233321000,
 		"id_str": "1179551205271359489",
