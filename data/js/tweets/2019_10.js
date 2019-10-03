@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 03:18:20 +0000 2019",
+		"id": 1179586193240907800,
+		"id_str": "1179596516379504641",
+		"full_text": "오늘 밤 9시 🔜🔜🔜\n#들려주고싶어서 #권진아 #네이버나우 https://t.co/QfenOSX5fK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QfenOSX5fK",
+					"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024",
+					"display_url": "twitter.com/kr_now/status/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34985,
+			"friends_count": 3178,
+			"listed_count": 408,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1568887216",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178927331806593000,
+		"quoted_status_id_str": "1178927331806593024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QfenOSX5fK",
+			"expanded": "https://twitter.com/kr_now/status/1178927331806593024",
+			"display": "twitter.com/kr_now/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 06:59:13 +0000 2019",
+			"id": 1178927331806593000,
+			"id_str": "1178927331806593024",
+			"full_text": "#NOW온에어 금주의 타임테이블 https://t.co/z3JF1ykyFD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NOW온에어",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1178927317701120000,
+						"id_str": "1178927317701120000",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EFxkJjOUUAAZclQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFxkJjOUUAAZclQ.jpg",
+						"url": "https://t.co/z3JF1ykyFD",
+						"display_url": "pic.twitter.com/z3JF1ykyFD",
+						"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178927317701120000,
+						"id_str": "1178927317701120000",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EFxkJjOUUAAZclQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFxkJjOUUAAZclQ.jpg",
+						"url": "https://t.co/z3JF1ykyFD",
+						"display_url": "pic.twitter.com/z3JF1ykyFD",
+						"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1178927317722128400,
+						"id_str": "1178927317722128384",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EFxkJjTU4AAVATf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFxkJjTU4AAVATf.jpg",
+						"url": "https://t.co/z3JF1ykyFD",
+						"display_url": "pic.twitter.com/z3JF1ykyFD",
+						"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1178927317717905400,
+						"id_str": "1178927317717905408",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EFxkJjSUcAAPWLf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFxkJjSUcAAPWLf.jpg",
+						"url": "https://t.co/z3JF1ykyFD",
+						"display_url": "pic.twitter.com/z3JF1ykyFD",
+						"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1178927317705298000,
+						"id_str": "1178927317705297921",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EFxkJjPUEAEdnhq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFxkJjPUEAEdnhq.jpg",
+						"url": "https://t.co/z3JF1ykyFD",
+						"display_url": "pic.twitter.com/z3JF1ykyFD",
+						"expanded_url": "https://twitter.com/kr_now/status/1178927331806593024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1159646410414817300,
+				"id_str": "1159646410414817281",
+				"name": "네이버 나우.",
+				"screen_name": "kr_now",
+				"location": "",
+				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11640,
+				"friends_count": 0,
+				"listed_count": 20,
+				"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 688,
+			"favorite_count": 1045,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 9시 🔜🔜🔜\n#들려주고싶어서 #권진아 #네이버나우 https://t.co/QfenOSX5fK"
+	},
+	{
 		"created_at": "Thu Oct 03 03:13:27 +0000 2019",
 		"id": 1179595055985639400,
 		"id_str": "1179595290946478082",
