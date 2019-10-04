@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 04 12:18:22 +0000 2019",
+		"id": 1180082053099880400,
+		"id_str": "1180094808376975360",
+		"full_text": "끝나지 않은 ≪계몽≫\n쏜애플 (Thornapple) ‘로마네스크’ MV\n\nRelease on 2019. 10. 7\n⠀\n#THORNAPPLE #쏜애플 #계몽 #로마네스크 https://t.co/Umvnbna7Jz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THORNAPPLE",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "계몽",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "로마네스크",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180081985688981500,
+					"id_str": "1180081985688981504",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180081985688981504/pu/img/fSooObn8BeumMSSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180081985688981504/pu/img/fSooObn8BeumMSSd.jpg",
+					"url": "https://t.co/Umvnbna7Jz",
+					"display_url": "pic.twitter.com/Umvnbna7Jz",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1180082053099880449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180081985688981500,
+					"id_str": "1180081985688981504",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180081985688981504/pu/img/fSooObn8BeumMSSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180081985688981504/pu/img/fSooObn8BeumMSSd.jpg",
+					"url": "https://t.co/Umvnbna7Jz",
+					"display_url": "pic.twitter.com/Umvnbna7Jz",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1180082053099880449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 25834,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1180081985688981504/pu/pl/LBQxNhEg_HYD2kLL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180081985688981504/pu/vid/480x270/gQrCGgrb2dJs_ncB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180081985688981504/pu/vid/640x360/qib7W6RpEV8ncb6k.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180081985688981504/pu/vid/854x480/cvOO6DvsjVWiHBrc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13767,
+			"friends_count": 2493,
+			"listed_count": 299,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "끝나지 않은 ≪계몽≫\n쏜애플 (Thornapple) ‘로마네스크’ MV\n\nRelease on 2019. 10. 7\n⠀\n#THORNAPPLE #쏜애플 #계몽 #로마네스크 https://t.co/Umvnbna7Jz"
+	},
+	{
 		"created_at": "Fri Oct 04 12:17:21 +0000 2019",
 		"id": 1180094556043452400,
 		"id_str": "1180094556043452417",
