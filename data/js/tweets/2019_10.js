@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 07:13:28 +0000 2019",
+		"id": 1180372265369653200,
+		"id_str": "1180380466039414784",
+		"full_text": "이제 구글 캘린더를 통해 카페 언플러그드 이벤트 일정을 실시간으로 체크해보세요! 이벤트를 누르면 티켓 예약 링크 및 공연 세부 내용까지 한번에 확인해보실 수 있습니다.\n\nlink : https://t.co/Lhb1DiYusY https://t.co/FyQ37EIWm3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lhb1DiYusY",
+					"expanded_url": "http://bit.ly/unplugged_calendar",
+					"display_url": "bit.ly/unplugged_cale…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1180372255697563600,
+					"id_str": "1180372255697563649",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EGGGUAuUcAEjH4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGGGUAuUcAEjH4D.jpg",
+					"url": "https://t.co/FyQ37EIWm3",
+					"display_url": "pic.twitter.com/FyQ37EIWm3",
+					"expanded_url": "https://twitter.com/cafe_unplugged/status/1180372265369653248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180372255697563600,
+					"id_str": "1180372255697563649",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EGGGUAuUcAEjH4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGGGUAuUcAEjH4D.jpg",
+					"url": "https://t.co/FyQ37EIWm3",
+					"display_url": "pic.twitter.com/FyQ37EIWm3",
+					"expanded_url": "https://twitter.com/cafe_unplugged/status/1180372265369653248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295474993,
+			"id_str": "295474993",
+			"name": "카페 언플러그드",
+			"screen_name": "cafe_unplugged",
+			"location": "서울시 마포구 서교동 326-18 1층, 지하 1층",
+			"description": "070-4200-9251",
+			"url": "https://t.co/9lPmySTRmo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lPmySTRmo",
+							"expanded_url": "http://cafe.naver.com/cafeunplugged",
+							"display_url": "cafe.naver.com/cafeunplugged",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 1143,
+			"listed_count": 48,
+			"created_at": "Mon May 09 03:05:19 +0000 2011",
+			"favourites_count": 233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295474993/1525645770",
+			"profile_link_color": "FF2450",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 구글 캘린더를 통해 카페 언플러그드 이벤트 일정을 실시간으로 체크해보세요! 이벤트를 누르면 티켓 예약 링크 및 공연 세부 내용까지 한번에 확인해보실 수 있습니다.\n\nlink : https://t.co/Lhb1DiYusY https://t.co/FyQ37EIWm3"
+	},
+	{
 		"created_at": "Sat Oct 05 05:22:21 +0000 2019",
 		"id": 1180352503063498800,
 		"id_str": "1180352503063498752",
