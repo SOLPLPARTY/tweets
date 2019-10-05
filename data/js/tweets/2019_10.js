@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 13:13:27 +0000 2019",
+		"id": 1180456035489706000,
+		"id_str": "1180471061885919243",
+		"full_text": "#상상마당시네마\n&lt;#메기&gt; 현장 이벤트🙌🏻\n&lt;메기&gt; 발권 관객에게 A3 사이즈 메인포스터를 선물로 드립니다.(소진시까지 전원 증정)\n-\n10/5  토 10:20\n10/6  일 17:40\n10/7  월 20:00\n10/8  화 16:20\n10/9  수 10:30 16:40\n10/10 목 15:00\n10/11 금 15:30 https://t.co/GGKAFbokWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "메기",
+					"indices": [
+						13,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180455988563808300,
+					"id_str": "1180455988563808256",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180455988563808256/pu/img/F4IhJmn0j0cE2Eoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180455988563808256/pu/img/F4IhJmn0j0cE2Eoz.jpg",
+					"url": "https://t.co/GGKAFbokWk",
+					"display_url": "pic.twitter.com/GGKAFbokWk",
+					"expanded_url": "https://twitter.com/SSmadang/status/1180456035489705984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180455988563808300,
+					"id_str": "1180455988563808256",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1180455988563808256/pu/img/F4IhJmn0j0cE2Eoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1180455988563808256/pu/img/F4IhJmn0j0cE2Eoz.jpg",
+					"url": "https://t.co/GGKAFbokWk",
+					"display_url": "pic.twitter.com/GGKAFbokWk",
+					"expanded_url": "https://twitter.com/SSmadang/status/1180456035489705984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12012,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180455988563808256/pu/vid/720x720/soOcNVKXerARrPis.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180455988563808256/pu/vid/480x480/x-MO5UfyUD23kmBj.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1180455988563808256/pu/vid/320x320/IMSOnCo36GessMHi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1180455988563808256/pu/pl/xG9M7BRXJ3zk3Gnm.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19344,
+			"friends_count": 2009,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당시네마\n&lt;#메기&gt; 현장 이벤트🙌🏻\n&lt;메기&gt; 발권 관객에게 A3 사이즈 메인포스터를 선물로 드립니다.(소진시까지 전원 증정)\n-\n10/5  토 10:20\n10/6  일 17:40\n10/7  월 20:00\n10/8  화 16:20\n10/9  수 10:30 16:40\n10/10 목 15:00\n10/11 금 15:30 https://t.co/GGKAFbokWk"
+	},
+	{
 		"created_at": "Sat Oct 05 10:59:38 +0000 2019",
 		"id": 1180437382908317700,
 		"id_str": "1180437382908317698",
