@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 09:18:24 +0000 2019",
+		"id": 1180766932439650300,
+		"id_str": "1180774294575550464",
+		"full_text": "• 알라딘 ▶︎https://t.co/kfWJmIZe90\n• 예스24 ▶︎https://t.co/sUYnhELfrO\n• 인터파크 ▶︎https://t.co/tHsbi2Ti5y\n• 향뮤직 ▶︎https://t.co/Q2SfaIj2Gf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kfWJmIZe90",
+					"expanded_url": "http://bit.ly/334n7hE",
+					"display_url": "bit.ly/334n7hE",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/sUYnhELfrO",
+					"expanded_url": "http://bit.ly/2LLjxU7",
+					"display_url": "bit.ly/2LLjxU7",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/tHsbi2Ti5y",
+					"expanded_url": "http://bit.ly/2LHTEEx",
+					"display_url": "bit.ly/2LHTEEx",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/Q2SfaIj2Gf",
+					"expanded_url": "http://bit.ly/2LOEPjI",
+					"display_url": "bit.ly/2LOEPjI",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180766913225322500,
+		"in_reply_to_status_id_str": "1180766913225322496",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1711,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "• 알라딘 ▶︎https://t.co/kfWJmIZe90\n• 예스24 ▶︎https://t.co/sUYnhELfrO\n• 인터파크 ▶︎https://t.co/tHsbi2Ti5y\n• 향뮤직 ▶︎https://t.co/Q2SfaIj2Gf"
+	},
+	{
+		"created_at": "Sun Oct 06 09:18:22 +0000 2019",
+		"id": 1180766913225322500,
+		"id_str": "1180774285540872192",
+		"full_text": "EP [고민은 배송을 늦출 뿐] 피지컬 앨범 예약판매 시작 💿 각종 온라인 판매처에서 예약 구매 가능합니다. \n\n• 교보문고핫트랙스 ▶︎https://t.co/aakT6Qblyq\n• 비스킷 사운드 홈페이지 ▶︎https://t.co/CSlnTDkw9X\n• 신나라레코드 ▶︎https://t.co/Ydc0UkZAqC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aakT6Qblyq",
+					"expanded_url": "http://bit.ly/2OsQQ03",
+					"display_url": "bit.ly/2OsQQ03",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/CSlnTDkw9X",
+					"expanded_url": "http://bit.ly/31LTC45",
+					"display_url": "bit.ly/31LTC45",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/Ydc0UkZAqC",
+					"expanded_url": "http://bit.ly/2oNy2h2",
+					"display_url": "bit.ly/2oNy2h2",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180766858321883100,
+		"in_reply_to_status_id_str": "1180766858321883138",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1711,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EP [고민은 배송을 늦출 뿐] 피지컬 앨범 예약판매 시작 💿 각종 온라인 판매처에서 예약 구매 가능합니다. \n\n• 교보문고핫트랙스 ▶︎https://t.co/aakT6Qblyq\n• 비스킷 사운드 홈페이지 ▶︎https://t.co/CSlnTDkw9X\n• 신나라레코드 ▶︎https://t.co/Ydc0UkZAqC"
+	},
+	{
 		"created_at": "Sun Oct 06 07:18:21 +0000 2019",
 		"id": 1180738889750704000,
 		"id_str": "1180744085805641729",
