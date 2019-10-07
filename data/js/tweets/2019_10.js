@@ -1,10 +1,315 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 12:17:05 +0000 2019",
+		"id": 1181181651214372900,
+		"id_str": "1181181651214372865",
+		"full_text": "#상상마당 #ssmadang\n2019 #상상실현페스티벌_#잔나비 인사 영상\nhttps://t.co/0Aw2LdYSqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ssmadang",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Aw2LdYSqa",
+					"expanded_url": "https://youtu.be/Cne9tUkQvGQ",
+					"display_url": "youtu.be/Cne9tUkQvGQ",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #ssmadang\n2019 #상상실현페스티벌_#잔나비 인사 영상\nhttps://t.co/0Aw2LdYSqa"
+	},
+	{
+		"created_at": "Mon Oct 07 12:13:27 +0000 2019",
+		"id": 1181175500590350300,
+		"id_str": "1181180737883709441",
+		"full_text": "[씬디스케치 X 모던보이엔터테인먼트 앨범증정이벤트]\n이번 주 씬디스케치와 함께할 모던보이엔터테인먼트의 앨범 증정이벤트를 시작합니다👏\n\n🎩이벤트 기간🎩\n👨‍🦰기간 : 10/07(월)~10/13(일)\n👨‍🦰발표 : 10/14(월) 6PM\n\n🔽 자세한 내용은 아래 주소에서 확인해주세요!\n▶️ https://t.co/G9CBOnYcrU https://t.co/7tMRrU8lyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G9CBOnYcrU",
+					"expanded_url": "http://bitly.kr/v6RyDEG",
+					"display_url": "bitly.kr/v6RyDEG",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181175491429929000,
+					"id_str": "1181175491429928960",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EGRg2fAUEAAl4qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGRg2fAUEAAl4qX.jpg",
+					"url": "https://t.co/7tMRrU8lyX",
+					"display_url": "pic.twitter.com/7tMRrU8lyX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1181175500590350337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181175491429929000,
+					"id_str": "1181175491429928960",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EGRg2fAUEAAl4qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGRg2fAUEAAl4qX.jpg",
+					"url": "https://t.co/7tMRrU8lyX",
+					"display_url": "pic.twitter.com/7tMRrU8lyX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1181175500590350337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2783,
+			"friends_count": 2668,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디스케치 X 모던보이엔터테인먼트 앨범증정이벤트]\n이번 주 씬디스케치와 함께할 모던보이엔터테인먼트의 앨범 증정이벤트를 시작합니다👏\n\n🎩이벤트 기간🎩\n👨‍🦰기간 : 10/07(월)~10/13(일)\n👨‍🦰발표 : 10/14(월) 6PM\n\n🔽 자세한 내용은 아래 주소에서 확인해주세요!\n▶️ https://t.co/G9CBOnYcrU https://t.co/7tMRrU8lyX"
+	},
+	{
 		"created_at": "Mon Oct 07 11:13:39 +0000 2019",
 		"id": 1181159610805178400,
 		"id_str": "1181165686208507904",
-		"full_text": "그리고 오는 12일 토요일, ⏰오후 3시⏰ 씬디 티켓라운지 앞에서 모던보이엔터테인먼트 뮤지션 빨간의자​의 버스킹도 예정되어 있으니 많이많이 보러 와주세요❤️",
+		"full_text": "그리고 오는 12일 토요일, ⏰오후 3시⏰ 씬디 티켓라운지 앞에서 모던보이엔터테인먼트 뮤지션 빨간의자의 버스킹도 예정되어 있으니 많이많이 보러 와주세요❤️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -93,13 +398,13 @@ Grailbird.data.tweets_2019_10 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "그리고 오는 12일 토요일, ⏰오후 3시⏰ 씬디 티켓라운지 앞에서 모던보이엔터테인먼트 뮤지션 빨간의자​의 버스킹도 예정되어 있으니 많이많이 보러 와주세요❤️"
+		"text": "그리고 오는 12일 토요일, ⏰오후 3시⏰ 씬디 티켓라운지 앞에서 모던보이엔터테인먼트 뮤지션 빨간의자의 버스킹도 예정되어 있으니 많이많이 보러 와주세요❤️"
 	},
 	{
 		"created_at": "Mon Oct 07 11:13:35 +0000 2019",
 		"id": 1181159605058977800,
 		"id_str": "1181165668919644160",
-		"full_text": "[#씬디스케치 X 모던보이엔터테인먼트​]\n이번 주 씬디스케치와 함께할 레이블은🎩모던보이엔터테인먼트🎩입니다! 모던보이엔터테인먼트의 뮤지션분들이 담긴 예쁜 색감의 포스터들과 소개 글로 가득 채워진 씬디인데요 +ㅁ+ 많은 관심과 방문 부탁드립니다😀 https://t.co/liKP8fu42M",
+		"full_text": "[#씬디스케치 X 모던보이엔터테인먼트]\n이번 주 씬디스케치와 함께할 레이블은🎩모던보이엔터테인먼트🎩입니다! 모던보이엔터테인먼트의 뮤지션분들이 담긴 예쁜 색감의 포스터들과 소개 글로 가득 채워진 씬디인데요 +ㅁ+ 많은 관심과 방문 부탁드립니다😀 https://t.co/liKP8fu42M",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -347,7 +652,7 @@ Grailbird.data.tweets_2019_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#씬디스케치 X 모던보이엔터테인먼트​]\n이번 주 씬디스케치와 함께할 레이블은🎩모던보이엔터테인먼트🎩입니다! 모던보이엔터테인먼트의 뮤지션분들이 담긴 예쁜 색감의 포스터들과 소개 글로 가득 채워진 씬디인데요 +ㅁ+ 많은 관심과 방문 부탁드립니다😀 https://t.co/liKP8fu42M"
+		"text": "[#씬디스케치 X 모던보이엔터테인먼트]\n이번 주 씬디스케치와 함께할 레이블은🎩모던보이엔터테인먼트🎩입니다! 모던보이엔터테인먼트의 뮤지션분들이 담긴 예쁜 색감의 포스터들과 소개 글로 가득 채워진 씬디인데요 +ㅁ+ 많은 관심과 방문 부탁드립니다😀 https://t.co/liKP8fu42M"
 	},
 	{
 		"created_at": "Mon Oct 07 11:13:28 +0000 2019",
