@@ -1,6 +1,738 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 01:13:52 +0000 2019",
+		"id": 1181009367253962800,
+		"id_str": "1181014745668816901",
+		"full_text": "10/31(목) 강태환 트리오 'Recording Session'\n\n벨로주 망원에서 지난 여덟 번의 공연으로 '꼭 한 번은 봐야 할 공연'으로 알려진 강태환 트리오의 공연. 이번 공연은 벨로주 홍대로 옮겨 진행이 되며 실황 앨범으로 녹음이 되는 역사적인 순간이 될 예정.\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/2F2L0e7uJL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aq1LqMcWiF",
+					"expanded_url": "http://www.veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181009351563071500,
+					"id_str": "1181009351563071488",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPJv3xU0AAYTxE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPJv3xU0AAYTxE.jpg",
+					"url": "https://t.co/2F2L0e7uJL",
+					"display_url": "pic.twitter.com/2F2L0e7uJL",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181009367253962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181009351563071500,
+					"id_str": "1181009351563071488",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPJv3xU0AAYTxE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPJv3xU0AAYTxE.jpg",
+					"url": "https://t.co/2F2L0e7uJL",
+					"display_url": "pic.twitter.com/2F2L0e7uJL",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181009367253962752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9144,
+			"friends_count": 151,
+			"listed_count": 164,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/31(목) 강태환 트리오 'Recording Session'\n\n벨로주 망원에서 지난 여덟 번의 공연으로 '꼭 한 번은 봐야 할 공연'으로 알려진 강태환 트리오의 공연. 이번 공연은 벨로주 홍대로 옮겨 진행이 되며 실황 앨범으로 녹음이 되는 역사적인 순간이 될 예정.\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/2F2L0e7uJL"
+	},
+	{
+		"created_at": "Mon Oct 07 01:13:48 +0000 2019",
+		"id": 1181009226098806800,
+		"id_str": "1181014728438669312",
+		"full_text": "11/2(토)  '드러머 서수진'.\n\n지금 한국 재즈 씬에서 가장 활발하게 그리고 가장 뛰어난 활동을 하고 있는 드러머 서수진의 다양한 음악 세계(서수진&amp;남메아리 duo, 서수진 Coloris Trio, 서수진 Chordless Quartet)를 한자리에서 만날 수 있는 공연. 60명 한정 : https://t.co/aq1LqMcWiF https://t.co/odLqFzLWNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aq1LqMcWiF",
+					"expanded_url": "http://www.veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181009214681927700,
+					"id_str": "1181009214681927681",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPJn52UUAEI3p9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPJn52UUAEI3p9.jpg",
+					"url": "https://t.co/odLqFzLWNx",
+					"display_url": "pic.twitter.com/odLqFzLWNx",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181009226098806784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181009214681927700,
+					"id_str": "1181009214681927681",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPJn52UUAEI3p9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPJn52UUAEI3p9.jpg",
+					"url": "https://t.co/odLqFzLWNx",
+					"display_url": "pic.twitter.com/odLqFzLWNx",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181009226098806784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9144,
+			"friends_count": 151,
+			"listed_count": 164,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/2(토)  '드러머 서수진'.\n\n지금 한국 재즈 씬에서 가장 활발하게 그리고 가장 뛰어난 활동을 하고 있는 드러머 서수진의 다양한 음악 세계(서수진&amp;남메아리 duo, 서수진 Coloris Trio, 서수진 Chordless Quartet)를 한자리에서 만날 수 있는 공연. 60명 한정 : https://t.co/aq1LqMcWiF https://t.co/odLqFzLWNx"
+	},
+	{
+		"created_at": "Mon Oct 07 01:13:41 +0000 2019",
+		"id": 1181008250977652700,
+		"id_str": "1181014702782140417",
+		"full_text": "11/7(목) 버둥 + 구만 + 데이먼스이어\n\n지금 가장 주목해야 할 세 명의 싱어송라이터이자 EBS 헬로루키, 유희열의 스케치북, 신한카드 루키 등 공인된 무대에서 지금 가장 주목받고 있는 새로운 목소리들. 지금 이 조합을 다시 보시기 어려울 겁니다.\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/ZKNTNsNoXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aq1LqMcWiF",
+					"expanded_url": "http://www.veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181008240647127000,
+					"id_str": "1181008240647127042",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPIvNSUwAIKpUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPIvNSUwAIKpUB.jpg",
+					"url": "https://t.co/ZKNTNsNoXu",
+					"display_url": "pic.twitter.com/ZKNTNsNoXu",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181008250977652736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181008240647127000,
+					"id_str": "1181008240647127042",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPIvNSUwAIKpUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPIvNSUwAIKpUB.jpg",
+					"url": "https://t.co/ZKNTNsNoXu",
+					"display_url": "pic.twitter.com/ZKNTNsNoXu",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181008250977652736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9144,
+			"friends_count": 151,
+			"listed_count": 164,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/7(목) 버둥 + 구만 + 데이먼스이어\n\n지금 가장 주목해야 할 세 명의 싱어송라이터이자 EBS 헬로루키, 유희열의 스케치북, 신한카드 루키 등 공인된 무대에서 지금 가장 주목받고 있는 새로운 목소리들. 지금 이 조합을 다시 보시기 어려울 겁니다.\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/ZKNTNsNoXu"
+	},
+	{
+		"created_at": "Mon Oct 07 01:13:32 +0000 2019",
+		"id": 1181008157004288000,
+		"id_str": "1181014664546852865",
+		"full_text": "11.8(금) artist in artist '베이시스트 정수민'\n\n이 땅의 소외되고 억압받는 현장에서 자신의 연주를 들려주는 탁월한 베이시스트 정수민의 세 가지 얼굴. 정수민 &amp; 피아니스트 이선지, 정수민 &amp; 색소포니스트 김오키, 정수민 &amp; 싱어송라이터 황푸하\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/63r6Mzy1Tp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aq1LqMcWiF",
+					"expanded_url": "http://www.veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181008135877619700,
+					"id_str": "1181008135877619712",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPIpG_U8AAD8kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPIpG_U8AAD8kO.jpg",
+					"url": "https://t.co/63r6Mzy1Tp",
+					"display_url": "pic.twitter.com/63r6Mzy1Tp",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181008157004288001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181008135877619700,
+					"id_str": "1181008135877619712",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EGPIpG_U8AAD8kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGPIpG_U8AAD8kO.jpg",
+					"url": "https://t.co/63r6Mzy1Tp",
+					"display_url": "pic.twitter.com/63r6Mzy1Tp",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1181008157004288001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1343,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9144,
+			"friends_count": 151,
+			"listed_count": 164,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11.8(금) artist in artist '베이시스트 정수민'\n\n이 땅의 소외되고 억압받는 현장에서 자신의 연주를 들려주는 탁월한 베이시스트 정수민의 세 가지 얼굴. 정수민 &amp; 피아니스트 이선지, 정수민 &amp; 색소포니스트 김오키, 정수민 &amp; 싱어송라이터 황푸하\n\n60명 한정 예매 : https://t.co/aq1LqMcWiF https://t.co/63r6Mzy1Tp"
+	},
+	{
 		"created_at": "Sun Oct 06 18:06:09 +0000 2019",
 		"id": 1180907108658798600,
 		"id_str": "1180907108658798593",
