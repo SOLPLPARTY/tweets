@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 07:18:20 +0000 2019",
+		"id": 1181830334507188200,
+		"id_str": "1181831241546522624",
+		"full_text": "✨장소 : 서울시립미술관 서소문 본관 2층, 3층 전시장\n👉대상 : 미술관 방문객 누구나(별도의 신청없이 참여가능합니다.)\n🎵뮤직디렉터 : 계피\n⠀\n**문의 : 02.2124.8929/8918, etwas@seoul.go.kr\n-\n#서울시립미술관 #SeMA #뮤지엄나이트 #뮤직뮤지엄나이트 #계피 #에이징월드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울시립미술관",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "SeMA",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "뮤지엄나이트",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "뮤직뮤지엄나이트",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "에이징월드",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181830314873671700,
+		"in_reply_to_status_id_str": "1181830314873671681",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1713,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✨장소 : 서울시립미술관 서소문 본관 2층, 3층 전시장\n👉대상 : 미술관 방문객 누구나(별도의 신청없이 참여가능합니다.)\n🎵뮤직디렉터 : 계피\n⠀\n**문의 : 02.2124.8929/8918, etwas@seoul.go.kr\n-\n#서울시립미술관 #SeMA #뮤지엄나이트 #뮤직뮤지엄나이트 #계피 #에이징월드"
+	},
+	{
 		"created_at": "Wed Oct 09 07:13:27 +0000 2019",
 		"id": 1181816985778176000,
 		"id_str": "1181830016524603392",
