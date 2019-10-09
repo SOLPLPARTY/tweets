@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 05:18:26 +0000 2019",
+		"id": 1181797448341045200,
+		"id_str": "1181801068675645441",
+		"full_text": "#20191009\n#정준일 #유희열의스케치북\n어제 녹화 무사히 마첬습니다!! 방송은 18일!\n리메이크 곡 #잊지말아요(#백지영) 는 \n19일(토) 발매 됩니다\n#플라이투더스카이 #폴킴 #정준일 #빈첸\n#유희열 #MC딩동 #스케치북 https://t.co/JI7MhIxx8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "잊지말아요",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "백지영",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "플라이투더스카이",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "폴킴",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "정준일",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "빈첸",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "MC딩동",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "스케치북",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181797431056289800,
+					"id_str": "1181797431056289792",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EGaWgIqUUAACfhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGaWgIqUUAACfhV.jpg",
+					"url": "https://t.co/JI7MhIxx8O",
+					"display_url": "pic.twitter.com/JI7MhIxx8O",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1181797448341045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1860,
+							"h": 1884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1185,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181797431056289800,
+					"id_str": "1181797431056289792",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EGaWgIqUUAACfhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGaWgIqUUAACfhV.jpg",
+					"url": "https://t.co/JI7MhIxx8O",
+					"display_url": "pic.twitter.com/JI7MhIxx8O",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1181797448341045250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1860,
+							"h": 1884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1185,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2834,
+			"friends_count": 370,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 15003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20191009\n#정준일 #유희열의스케치북\n어제 녹화 무사히 마첬습니다!! 방송은 18일!\n리메이크 곡 #잊지말아요(#백지영) 는 \n19일(토) 발매 됩니다\n#플라이투더스카이 #폴킴 #정준일 #빈첸\n#유희열 #MC딩동 #스케치북 https://t.co/JI7MhIxx8O"
+	},
+	{
+		"created_at": "Wed Oct 09 05:18:22 +0000 2019",
+		"id": 1181791244566970400,
+		"id_str": "1181801051437125633",
+		"full_text": "💿댓글 이벤트도 함께 진행중입니다.\n• 참여 기간 : 10/15까지\n• 당첨 선물 : 최낙타 너드 증명사진 4종 (3명)\n• 당첨 발표 : 10/16\n-\n#최낙타 #싱글 #NERD #너드 #네이버포스트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "NERD",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "너드",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181791223851282400,
+		"in_reply_to_status_id_str": "1181791223851282435",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1713,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💿댓글 이벤트도 함께 진행중입니다.\n• 참여 기간 : 10/15까지\n• 당첨 선물 : 최낙타 너드 증명사진 4종 (3명)\n• 당첨 발표 : 10/16\n-\n#최낙타 #싱글 #NERD #너드 #네이버포스트"
+	},
+	{
 		"created_at": "Wed Oct 09 05:13:27 +0000 2019",
 		"id": 1181798348430303200,
 		"id_str": "1181799817024069633",
