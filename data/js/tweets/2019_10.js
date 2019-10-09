@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 15:13:35 +0000 2019",
+		"id": 1181941918046904300,
+		"id_str": "1181950844805222401",
+		"full_text": "@inspirit_ness 다시봐도 재밌고 힐링되는 홍!설!수!설!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inspirit_ness",
+					"name": "꺙쵹(봉봉)🍓-첼봄단, 뚜뚜듕 회장, 뮹뮹단 부회장",
+					"id": 1136572948871929900,
+					"id_str": "1136572948871929856",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181935647616991200,
+		"in_reply_to_status_id_str": "1181935647616991233",
+		"in_reply_to_user_id": 1136572948871929900,
+		"in_reply_to_user_id_str": "1136572948871929856",
+		"in_reply_to_screen_name": "inspirit_ness",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@inspirit_ness 다시봐도 재밌고 힐링되는 홍!설!수!설!"
+	},
+	{
+		"created_at": "Wed Oct 09 15:13:33 +0000 2019",
+		"id": 1181941704158400500,
+		"id_str": "1181950835875618823",
+		"full_text": "@1ofMyHeart 환영합니다... 제보 환영...!!!!❤️🙊",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1ofMyHeart",
+					"name": "🧀 ╰☆☆ ⒸⒽⒺⒺⓈⒺ ☆☆╮",
+					"id": 1039510835993792500,
+					"id_str": "1039510835993792513",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181941108789563400,
+		"in_reply_to_status_id_str": "1181941108789563392",
+		"in_reply_to_user_id": 1039510835993792500,
+		"in_reply_to_user_id_str": "1039510835993792513",
+		"in_reply_to_screen_name": "1ofMyHeart",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@1ofMyHeart 환영합니다... 제보 환영...!!!!❤️🙊"
+	},
+	{
+		"created_at": "Wed Oct 09 15:13:28 +0000 2019",
+		"id": 1181940224529555500,
+		"id_str": "1181950814023294976",
+		"full_text": "그리고 오늘 홍센스 답ㅋㅋㅋㅋㅋ (방송본분들은 아시죠?) 점점 어려워지는 홍센스 퀴즈 그만큼 제작진들의 머리도 아파와요... 😇\n\n사진 출처: 골든차일드 오피셜 인스타그램\n\n#홍설수설 #주찬 #쥬디 #골든차일드 #goldenchild https://t.co/i2tlW48GXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍설수설",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "주찬",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "쥬디",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "goldenchild",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181940214123520000,
+					"id_str": "1181940214123520000",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EGcYXNCU4AAIXAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGcYXNCU4AAIXAF.jpg",
+					"url": "https://t.co/i2tlW48GXu",
+					"display_url": "pic.twitter.com/i2tlW48GXu",
+					"expanded_url": "https://twitter.com/casperradio_/status/1181940224529555457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 896,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181940214123520000,
+					"id_str": "1181940214123520000",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EGcYXNCU4AAIXAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGcYXNCU4AAIXAF.jpg",
+					"url": "https://t.co/i2tlW48GXu",
+					"display_url": "pic.twitter.com/i2tlW48GXu",
+					"expanded_url": "https://twitter.com/casperradio_/status/1181940224529555457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 896,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고 오늘 홍센스 답ㅋㅋㅋㅋㅋ (방송본분들은 아시죠?) 점점 어려워지는 홍센스 퀴즈 그만큼 제작진들의 머리도 아파와요... 😇\n\n사진 출처: 골든차일드 오피셜 인스타그램\n\n#홍설수설 #주찬 #쥬디 #골든차일드 #goldenchild https://t.co/i2tlW48GXu"
+	},
+	{
 		"created_at": "Wed Oct 09 14:13:28 +0000 2019",
 		"id": 1181935018995634200,
 		"id_str": "1181935713660608513",
