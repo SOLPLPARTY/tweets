@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 03:18:21 +0000 2019",
+		"id": 1182494254725156900,
+		"id_str": "1182495623888719872",
+		"full_text": "#우주왕복선싸이드미러 EP [고민은 배송을 늦출 뿐] 발매 🚀\n⠀\n멀리 있는 사람에게 전하는 마음\n지금 음원사이트에서 감상해보세요 📦\n-\nVIBE ▶ https://t.co/73pEGGsonW\n멜론 ▶ https://t.co/yDVpF3inU2\n벅스 ▶ https://t.co/zSkQmP7bWY\n지니 ▶ https://t.co/X5VUaETWwu https://t.co/hVNdI8NziK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/73pEGGsonW",
+					"expanded_url": "http://bit.ly/2OEhDGw",
+					"display_url": "bit.ly/2OEhDGw",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/yDVpF3inU2",
+					"expanded_url": "http://bit.ly/2MvlLpB",
+					"display_url": "bit.ly/2MvlLpB",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/zSkQmP7bWY",
+					"expanded_url": "http://bit.ly/33kLXdu",
+					"display_url": "bit.ly/33kLXdu",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/X5VUaETWwu",
+					"expanded_url": "http://bit.ly/33pfkvl",
+					"display_url": "bit.ly/33pfkvl",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182494187213578200,
+					"id_str": "1182494187213578240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182494187213578240/pu/img/5uf_YPBhIlLy-tAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182494187213578240/pu/img/5uf_YPBhIlLy-tAv.jpg",
+					"url": "https://t.co/hVNdI8NziK",
+					"display_url": "pic.twitter.com/hVNdI8NziK",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1182494254725156864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182494187213578200,
+					"id_str": "1182494187213578240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182494187213578240/pu/img/5uf_YPBhIlLy-tAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182494187213578240/pu/img/5uf_YPBhIlLy-tAv.jpg",
+					"url": "https://t.co/hVNdI8NziK",
+					"display_url": "pic.twitter.com/hVNdI8NziK",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1182494254725156864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1182494187213578240/pu/pl/nuQW55cAaaZx9Ogn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182494187213578240/pu/vid/720x720/YmylSJ_3vAEU3er-.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182494187213578240/pu/vid/320x320/zvRsJrzJ0iAMUBnl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182494187213578240/pu/vid/480x480/88sr0M6ZIiw7qGFL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1710,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우주왕복선싸이드미러 EP [고민은 배송을 늦출 뿐] 발매 🚀\n⠀\n멀리 있는 사람에게 전하는 마음\n지금 음원사이트에서 감상해보세요 📦\n-\nVIBE ▶ https://t.co/73pEGGsonW\n멜론 ▶ https://t.co/yDVpF3inU2\n벅스 ▶ https://t.co/zSkQmP7bWY\n지니 ▶ https://t.co/X5VUaETWwu https://t.co/hVNdI8NziK"
+	},
+	{
 		"created_at": "Fri Oct 11 03:12:20 +0000 2019",
 		"id": 1182494110105641000,
 		"id_str": "1182494110105640960",
