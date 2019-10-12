@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 01:13:27 +0000 2019",
+		"id": 1182816473833562000,
+		"id_str": "1182826582861402112",
+		"full_text": "#상상마당춘천\n춘천에 잘 오고계시나요~?\n#상상실현페스티벌 궁금한 내용 확인하기! https://t.co/SW5AWO4ech",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당춘천",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "상상실현페스티벌",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182816464002175000,
+					"id_str": "1182816464002174978",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EGo1TqNVUAI5cVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGo1TqNVUAI5cVI.jpg",
+					"url": "https://t.co/SW5AWO4ech",
+					"display_url": "pic.twitter.com/SW5AWO4ech",
+					"expanded_url": "https://twitter.com/SSmadang/status/1182816473833562112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182816464002175000,
+					"id_str": "1182816464002174978",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EGo1TqNVUAI5cVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGo1TqNVUAI5cVI.jpg",
+					"url": "https://t.co/SW5AWO4ech",
+					"display_url": "pic.twitter.com/SW5AWO4ech",
+					"expanded_url": "https://twitter.com/SSmadang/status/1182816473833562112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182816464010535000,
+					"id_str": "1182816464010534912",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EGo1TqPU4AAx4-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGo1TqPU4AAx4-A.jpg",
+					"url": "https://t.co/SW5AWO4ech",
+					"display_url": "pic.twitter.com/SW5AWO4ech",
+					"expanded_url": "https://twitter.com/SSmadang/status/1182816473833562112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182816464006287400,
+					"id_str": "1182816464006287360",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EGo1TqOUEAAIJz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGo1TqOUEAAIJz0.jpg",
+					"url": "https://t.co/SW5AWO4ech",
+					"display_url": "pic.twitter.com/SW5AWO4ech",
+					"expanded_url": "https://twitter.com/SSmadang/status/1182816473833562112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182816464035704800,
+					"id_str": "1182816464035704832",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EGo1TqVU8AAt3-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGo1TqVU8AAt3-K.jpg",
+					"url": "https://t.co/SW5AWO4ech",
+					"display_url": "pic.twitter.com/SW5AWO4ech",
+					"expanded_url": "https://twitter.com/SSmadang/status/1182816473833562112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19326,
+			"friends_count": 2009,
+			"listed_count": 322,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당춘천\n춘천에 잘 오고계시나요~?\n#상상실현페스티벌 궁금한 내용 확인하기! https://t.co/SW5AWO4ech"
+	},
+	{
 		"created_at": "Fri Oct 11 20:41:31 +0000 2019",
 		"id": 1182758145191563300,
 		"id_str": "1182758145191563266",
