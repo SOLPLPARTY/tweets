@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 06:13:36 +0000 2019",
+		"id": 1182900830271197200,
+		"id_str": "1182902118392455169",
+		"full_text": "📣🐈[재미공작소 10월 팝업숍: 예술가의 고양이]\n오늘 저녁 7시까지 열려있습니다.\n_\n#재미공작소 #재미공작소팝업숍 #예술가의고양이 https://t.co/1BRqo4pGLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "재미공작소팝업숍",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "예술가의고양이",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182900595948056600,
+					"id_str": "1182900595948056576",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182900595948056576/pu/img/sbi94pRT8arhonLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182900595948056576/pu/img/sbi94pRT8arhonLi.jpg",
+					"url": "https://t.co/1BRqo4pGLc",
+					"display_url": "pic.twitter.com/1BRqo4pGLc",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1182900830271197188/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182900595948056600,
+					"id_str": "1182900595948056576",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182900595948056576/pu/img/sbi94pRT8arhonLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182900595948056576/pu/img/sbi94pRT8arhonLi.jpg",
+					"url": "https://t.co/1BRqo4pGLc",
+					"display_url": "pic.twitter.com/1BRqo4pGLc",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1182900830271197188/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 13967,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182900595948056576/pu/vid/720x406/GKR0yKEdZVDZ9hvH.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182900595948056576/pu/vid/478x270/qtL-YcH5F0cZPV2Q.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1182900595948056576/pu/pl/51h3wASUjXUJZuAx.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1175983544281124900,
+		"in_reply_to_status_id_str": "1175983544281124864",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8132,
+			"friends_count": 602,
+			"listed_count": 114,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣🐈[재미공작소 10월 팝업숍: 예술가의 고양이]\n오늘 저녁 7시까지 열려있습니다.\n_\n#재미공작소 #재미공작소팝업숍 #예술가의고양이 https://t.co/1BRqo4pGLc"
+	},
+	{
+		"created_at": "Sat Oct 12 06:13:27 +0000 2019",
+		"id": 1182894655056138200,
+		"id_str": "1182902080090054656",
+		"full_text": "[#씬디스케치 X 모던보이엔터테인먼트]\n씬디스케치와 함께 오후 3시에 예정되어있던 빨간의자의 버스킹 공연이 씬디 내부 사정으로 인해 취소되었습니다😢 아쉽지만 다음 번에 더 준비하여 좋은 모습으로 찾아뵙겠습니다. 너른 양해를 부탁드립니다🙏 감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디스케치",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 2675,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#씬디스케치 X 모던보이엔터테인먼트]\n씬디스케치와 함께 오후 3시에 예정되어있던 빨간의자의 버스킹 공연이 씬디 내부 사정으로 인해 취소되었습니다😢 아쉽지만 다음 번에 더 준비하여 좋은 모습으로 찾아뵙겠습니다. 너른 양해를 부탁드립니다🙏 감사합니다."
+	},
+	{
+		"created_at": "Sat Oct 12 05:38:28 +0000 2019",
+		"id": 1182893276908736500,
+		"id_str": "1182893276908736512",
+		"full_text": "#멜론 #멜론매거진\n솔로 프로젝트의 마지막 작품, 플래시 플러드 달링스 &amp; 이 주의 히든트랙들!\nhttps://t.co/cDJVLljz3f https://t.co/UCuGR05aFs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDJVLljz3f",
+					"expanded_url": "http://bit.ly/2MCwyOL",
+					"display_url": "bit.ly/2MCwyOL",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182893275876855800,
+					"id_str": "1182893275876855809",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EGp7KsvWkAE3JlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGp7KsvWkAE3JlB.jpg",
+					"url": "https://t.co/UCuGR05aFs",
+					"display_url": "pic.twitter.com/UCuGR05aFs",
+					"expanded_url": "https://twitter.com/solplparty/status/1182893276908736512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182893275876855800,
+					"id_str": "1182893275876855809",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EGp7KsvWkAE3JlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGp7KsvWkAE3JlB.jpg",
+					"url": "https://t.co/UCuGR05aFs",
+					"display_url": "pic.twitter.com/UCuGR05aFs",
+					"expanded_url": "https://twitter.com/solplparty/status/1182893276908736512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #멜론매거진\n솔로 프로젝트의 마지막 작품, 플래시 플러드 달링스 &amp; 이 주의 히든트랙들!\nhttps://t.co/cDJVLljz3f https://t.co/UCuGR05aFs"
+	},
+	{
 		"created_at": "Sat Oct 12 04:13:39 +0000 2019",
 		"id": 1182859937912766500,
 		"id_str": "1182871928954150914",
