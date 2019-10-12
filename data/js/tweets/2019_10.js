@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 13:13:27 +0000 2019",
+		"id": 1183001744856338400,
+		"id_str": "1183007777104551939",
+		"full_text": "10/18(fri) [The Runner]\n키스누 Kisnue\n밤얘기 Bamyeki\n썬더스 Thunders\n찰리빈웍스 Charlie Bean Works\n오프이 Offe\n헤이맨 Hey Men\n이글루베이 Igloo Bay\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/3NQbwQxynp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183001734618075100,
+					"id_str": "1183001734618075136",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EGrdz1CU0AAYjJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGrdz1CU0AAYjJe.jpg",
+					"url": "https://t.co/3NQbwQxynp",
+					"display_url": "pic.twitter.com/3NQbwQxynp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1183001744856338432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183001734618075100,
+					"id_str": "1183001734618075136",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EGrdz1CU0AAYjJe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGrdz1CU0AAYjJe.jpg",
+					"url": "https://t.co/3NQbwQxynp",
+					"display_url": "pic.twitter.com/3NQbwQxynp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1183001744856338432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183001734613852200,
+					"id_str": "1183001734613852160",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EGrdz1BUYAA4Yvw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGrdz1BUYAA4Yvw.jpg",
+					"url": "https://t.co/3NQbwQxynp",
+					"display_url": "pic.twitter.com/3NQbwQxynp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1183001744856338432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6697,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/18(fri) [The Runner]\n키스누 Kisnue\n밤얘기 Bamyeki\n썬더스 Thunders\n찰리빈웍스 Charlie Bean Works\n오프이 Offe\n헤이맨 Hey Men\n이글루베이 Igloo Bay\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/3NQbwQxynp"
+	},
+	{
 		"created_at": "Sat Oct 12 11:54:28 +0000 2019",
 		"id": 1182987900499222500,
 		"id_str": "1182987900499222528",
