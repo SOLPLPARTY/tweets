@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 06:38:47 +0000 2019",
+		"id": 1182908453733458000,
+		"id_str": "1182908453733457920",
+		"full_text": "#상상마당\n[콘서트] 2019 꽃다지 콘서트 (2019.11.07~2019.11.08) at 라이브홀\n▶ https://t.co/bvuWXxqCwT\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/tpKcFlYOAE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "상상마당홍대",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "라이브홀",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "LIVE_HALL",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bvuWXxqCwT",
+					"expanded_url": "http://bit.ly/2MyB6Wr",
+					"display_url": "bit.ly/2MyB6Wr",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182908452634611700,
+					"id_str": "1182908452634611712",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqI-GkX0AAY6vU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqI-GkX0AAY6vU.jpg",
+					"url": "https://t.co/tpKcFlYOAE",
+					"display_url": "pic.twitter.com/tpKcFlYOAE",
+					"expanded_url": "https://twitter.com/solplparty/status/1182908453733457920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182908452634611700,
+					"id_str": "1182908452634611712",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EGqI-GkX0AAY6vU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGqI-GkX0AAY6vU.jpg",
+					"url": "https://t.co/tpKcFlYOAE",
+					"display_url": "pic.twitter.com/tpKcFlYOAE",
+					"expanded_url": "https://twitter.com/solplparty/status/1182908453733457920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 312,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당\n[콘서트] 2019 꽃다지 콘서트 (2019.11.07~2019.11.08) at 라이브홀\n▶ https://t.co/bvuWXxqCwT\n　\n#상상마당홍대 #라이브홀 #LIVE_HALL\n#공연일정 #티켓공지 #솔플파티 #solplparty https://t.co/tpKcFlYOAE"
+	},
+	{
 		"created_at": "Sat Oct 12 06:13:36 +0000 2019",
 		"id": 1182900830271197200,
 		"id_str": "1182902118392455169",
