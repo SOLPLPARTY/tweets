@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 04:13:27 +0000 2019",
+		"id": 1183219191609847800,
+		"id_str": "1183234268878774273",
+		"full_text": "넘나 기다리고 있습니당 https://t.co/0wjeWSKtAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wjeWSKtAJ",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1182985884993384448",
+					"display_url": "twitter.com/bullgamasound/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% RealLive!고품격라이브음악방송 MBC 문화콘서트난장 NANJANG Concert (All about K-POP Band Music live performance) OFFICIAL.  광주MBC 제작",
+			"url": "https://t.co/sDUh0h4hox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDUh0h4hox",
+							"expanded_url": "https://nanjangse11.blog.me/",
+							"display_url": "nanjangse11.blog.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4393,
+			"friends_count": 3616,
+			"listed_count": 110,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182985884993384400,
+		"quoted_status_id_str": "1182985884993384448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0wjeWSKtAJ",
+			"expanded": "https://twitter.com/bullgamasound/status/1182985884993384448",
+			"display": "twitter.com/bullgamasound/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 12 11:46:28 +0000 2019",
+			"id": 1182985884993384400,
+			"id_str": "1182985884993384448",
+			"full_text": "닥터스가 광주 MBC 문화 콘서트 난장에 출연합니다. 10월 22일 대전 과학 포럼 행사 참여후 바로 광주로 달려가서 난장 콘서트에 참여할 예정이니 많이 기대해주세요! \n\n*공식 계정에서 먼저 올리기 전앤 대외비라 먼저 공지 하지 못하였습니다 ^^;; https://t.co/FeWFOtcn3Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1182985876181115000,
+						"id_str": "1182985876181114883",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/EGrPYvwUYAMaC9W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGrPYvwUYAMaC9W.jpg",
+						"url": "https://t.co/FeWFOtcn3Q",
+						"display_url": "pic.twitter.com/FeWFOtcn3Q",
+						"expanded_url": "https://twitter.com/bullgamasound/status/1182985884993384448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 741,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 741,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182985876181115000,
+						"id_str": "1182985876181114883",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/EGrPYvwUYAMaC9W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGrPYvwUYAMaC9W.jpg",
+						"url": "https://t.co/FeWFOtcn3Q",
+						"display_url": "pic.twitter.com/FeWFOtcn3Q",
+						"expanded_url": "https://twitter.com/bullgamasound/status/1182985884993384448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 741,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 741,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1145007465907359700,
+				"id_str": "1145007465907359744",
+				"name": "불가마 싸운드",
+				"screen_name": "bullgamasound",
+				"location": "",
+				"description": "인디 레이블, 불가마 싸운드 공식 계정입니다. 톰톰, 더 바이퍼스, 닥터스, 1DB, 신문수밴드, 공중분해, 방구석허멩이, 도도어스, 등불, 쓸쓸스, 에쉬즈, 트리케라톱스 소속. 섭외 문의 : 070-4151-3094",
+				"url": "https://t.co/UpcKM4PEwA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UpcKM4PEwA",
+								"expanded_url": "http://bullgamasound.com",
+								"display_url": "bullgamasound.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 389,
+				"friends_count": 233,
+				"listed_count": 4,
+				"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+				"favourites_count": 2098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2036,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넘나 기다리고 있습니당 https://t.co/0wjeWSKtAJ"
+	},
+	{
 		"created_at": "Sun Oct 13 03:13:34 +0000 2019",
 		"id": 1183219074903359500,
 		"id_str": "1183219199436611584",
