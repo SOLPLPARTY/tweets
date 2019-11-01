@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 02:13:31 +0000 2019",
+		"id": 1190088863659647000,
+		"id_str": "1190089453638967302",
+		"full_text": "우리 라디오 담당 번역가 (였던...) 윤선생님, 영배디제이와 이미 아는사이 아닌가요..?🤔 “영배는 왜 열받았을까요..?” 갑작스러운 전화연결에도 케미폭발! 😁\n\n#십란한밤 #윤선생님 #브이앱번역가 #권정열 #고영배 #십란 #캐스퍼라디오 \n\nhttps://t.co/e7Oc016fL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "윤선생님",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "브이앱번역가",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "십란",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e7Oc016fL2",
+					"expanded_url": "https://youtu.be/HTaAX7iVoPY",
+					"display_url": "youtu.be/HTaAX7iVoPY",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 주찬의 홍설수설/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1401,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 라디오 담당 번역가 (였던...) 윤선생님, 영배디제이와 이미 아는사이 아닌가요..?🤔 “영배는 왜 열받았을까요..?” 갑작스러운 전화연결에도 케미폭발! 😁\n\n#십란한밤 #윤선생님 #브이앱번역가 #권정열 #고영배 #십란 #캐스퍼라디오 \n\nhttps://t.co/e7Oc016fL2"
+	},
+	{
 		"created_at": "Fri Nov 01 01:13:27 +0000 2019",
 		"id": 1190064240247242800,
 		"id_str": "1190074340269809664",
