@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 14:18:16 +0000 2019",
+		"id": 1190259448637296600,
+		"id_str": "1190271845678944256",
+		"full_text": "#20191101\n#정준일 #유희열의스케치북 #KBS\n한번 나오기도 힘든  프로그램에 3주연속 출연.\n마지막 녹화날엔 설렘과 아쉬운 마음으로\n계획에 없던 앵콜곡 #안아줘 를 불렀습니다\n#오늘방송됩니다 #본방사수\n#브라운아이드걸스 #박새별 #펀치\n#스케치북 #유희열 #MC딩동\n#안아줘는비방입니다ㅋ https://t.co/LRGjtQ63sn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "안아줘",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "오늘방송됩니다",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "브라운아이드걸스",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "스케치북",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "MC딩동",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "안아줘는비방입니다ㅋ",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190259209130131500,
+					"id_str": "1190259209130131456",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190259209130131456/pu/img/WeRtWyc0Y6j5XdU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190259209130131456/pu/img/WeRtWyc0Y6j5XdU_.jpg",
+					"url": "https://t.co/LRGjtQ63sn",
+					"display_url": "pic.twitter.com/LRGjtQ63sn",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1190259448637296641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190259209130131500,
+					"id_str": "1190259209130131456",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190259209130131456/pu/img/WeRtWyc0Y6j5XdU_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190259209130131456/pu/img/WeRtWyc0Y6j5XdU_.jpg",
+					"url": "https://t.co/LRGjtQ63sn",
+					"display_url": "pic.twitter.com/LRGjtQ63sn",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1190259448637296641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 44752,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190259209130131456/pu/vid/720x406/b-dv9M_m-FL77ebP.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1190259209130131456/pu/vid/478x270/hc5KE3Gx3-vQRW_e.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1190259209130131456/pu/pl/91FS8ceSluZhg0Rb.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2847,
+			"friends_count": 368,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 15687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20191101\n#정준일 #유희열의스케치북 #KBS\n한번 나오기도 힘든  프로그램에 3주연속 출연.\n마지막 녹화날엔 설렘과 아쉬운 마음으로\n계획에 없던 앵콜곡 #안아줘 를 불렀습니다\n#오늘방송됩니다 #본방사수\n#브라운아이드걸스 #박새별 #펀치\n#스케치북 #유희열 #MC딩동\n#안아줘는비방입니다ㅋ https://t.co/LRGjtQ63sn"
+	},
+	{
 		"created_at": "Fri Nov 01 14:08:27 +0000 2019",
 		"id": 1190269372297875500,
 		"id_str": "1190269372297875456",
