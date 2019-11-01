@@ -1,6 +1,1112 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 01 10:13:54 +0000 2019",
+		"id": 1190209791752192000,
+		"id_str": "1190210346285510656",
+		"full_text": "2019년 재미공작소의 신간 『씬의 아이들』이 출간되었습니다. \n\n140*220mm | 288p. | 가격: 14,000원 \n\n기획・편집・펴낸 곳: 재미공작소  \n글: 김윤하, 하박국 \n인터뷰이: 몬구, 연진, 전자양 \n디자인: 디오브젝트 \n프로필 사진: 세이큐 스튜디오\n제작 후원: 문래예술공장 2019 MEET Project https://t.co/pAxSqKKjOQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190209773456756700,
+					"id_str": "1190209773456756737",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EIR5e6MWkAEiUsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIR5e6MWkAEiUsI.jpg",
+					"url": "https://t.co/pAxSqKKjOQ",
+					"display_url": "pic.twitter.com/pAxSqKKjOQ",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1190209791752192000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 272,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 480,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 640,
+									"y": 820,
+									"h": 308,
+									"w": 308
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 640,
+									"y": 820,
+									"h": 308,
+									"w": 308
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190209773456756700,
+					"id_str": "1190209773456756737",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EIR5e6MWkAEiUsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIR5e6MWkAEiUsI.jpg",
+					"url": "https://t.co/pAxSqKKjOQ",
+					"display_url": "pic.twitter.com/pAxSqKKjOQ",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1190209791752192000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 272,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 480,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 640,
+									"y": 820,
+									"h": 308,
+									"w": 308
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 640,
+									"y": 820,
+									"h": 308,
+									"w": 308
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1190209773465165800,
+					"id_str": "1190209773465165825",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EIR5e6OW4AEdRF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIR5e6OW4AEdRF-.jpg",
+					"url": "https://t.co/pAxSqKKjOQ",
+					"display_url": "pic.twitter.com/pAxSqKKjOQ",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1190209791752192000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 227,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1214,
+									"y": 684,
+									"h": 240,
+									"w": 240
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1214,
+									"y": 684,
+									"h": 240,
+									"w": 240
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 711,
+									"y": 400,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8145,
+			"friends_count": 600,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 재미공작소의 신간 『씬의 아이들』이 출간되었습니다. \n\n140*220mm | 288p. | 가격: 14,000원 \n\n기획・편집・펴낸 곳: 재미공작소  \n글: 김윤하, 하박국 \n인터뷰이: 몬구, 연진, 전자양 \n디자인: 디오브젝트 \n프로필 사진: 세이큐 스튜디오\n제작 후원: 문래예술공장 2019 MEET Project https://t.co/pAxSqKKjOQ"
+	},
+	{
+		"created_at": "Fri Nov 01 10:13:46 +0000 2019",
+		"id": 1190202911860482000,
+		"id_str": "1190210312194142209",
+		"full_text": "[Listen here]\nSpotify - https://t.co/g1sM6nzOLo\nMelon - https://t.co/Sx9Q4PBBYM\nGenie - https://t.co/wAMtMY3W5Q\nBugs - https://t.co/0K5XqMzJon\nVibe - https://t.co/kWO8vP6fyl\n\nhttps://t.co/cqmlSsyVpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g1sM6nzOLo",
+					"expanded_url": "https://spoti.fi/2N6275m",
+					"display_url": "spoti.fi/2N6275m",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/Sx9Q4PBBYM",
+					"expanded_url": "https://bit.ly/2W93jrs",
+					"display_url": "bit.ly/2W93jrs",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/wAMtMY3W5Q",
+					"expanded_url": "https://bit.ly/362yrgJ",
+					"display_url": "bit.ly/362yrgJ",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/0K5XqMzJon",
+					"expanded_url": "https://bit.ly/2qJzqST",
+					"display_url": "bit.ly/2qJzqST",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/kWO8vP6fyl",
+					"expanded_url": "https://bit.ly/2pPQ6I1",
+					"display_url": "bit.ly/2pPQ6I1",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/cqmlSsyVpD",
+					"expanded_url": "https://youtu.be/NXz_9IcomgU",
+					"display_url": "youtu.be/NXz_9IcomgU",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1190202910614810600,
+		"in_reply_to_status_id_str": "1190202910614810624",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9819,
+			"friends_count": 2997,
+			"listed_count": 269,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Listen here]\nSpotify - https://t.co/g1sM6nzOLo\nMelon - https://t.co/Sx9Q4PBBYM\nGenie - https://t.co/wAMtMY3W5Q\nBugs - https://t.co/0K5XqMzJon\nVibe - https://t.co/kWO8vP6fyl\n\nhttps://t.co/cqmlSsyVpD"
+	},
+	{
+		"created_at": "Fri Nov 01 10:13:36 +0000 2019",
+		"id": 1190202910614810600,
+		"id_str": "1190210273916919808",
+		"full_text": "이번 앨범은 오랜만에 발매하는 정규 앨범인 만큼 노브레인이 표현할 수 있는 가장 넓은 스펙트럼을 보여줄 수 있도록 다양한 스타일을 곡들을 수록하는 동시에 앨범 타이틀인 [직진]이라는 단어의 의미처럼 전하고자 하는 메시지를 단순 명료하게 전달 하고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1190202905225072600,
+		"in_reply_to_status_id_str": "1190202905225072640",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9819,
+			"friends_count": 2997,
+			"listed_count": 269,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번 앨범은 오랜만에 발매하는 정규 앨범인 만큼 노브레인이 표현할 수 있는 가장 넓은 스펙트럼을 보여줄 수 있도록 다양한 스타일을 곡들을 수록하는 동시에 앨범 타이틀인 [직진]이라는 단어의 의미처럼 전하고자 하는 메시지를 단순 명료하게 전달 하고 있다."
+	},
+	{
+		"created_at": "Fri Nov 01 10:13:27 +0000 2019",
+		"id": 1190202905225072600,
+		"id_str": "1190210235694272512",
+		"full_text": "🆕 New Release November 1\n-\n💿 노브레인 (No Brain) [직진]\n\n✚ 앨범 자세히 보기: https://t.co/zSVjVjzjUh\n\n대한민국을 대표하는 인디 문화 1세대 펑크 밴드 노브레인이 2016년 정규 7집 발매 이후 3년만에 8집 [직진] 앨범을 선보인다. https://t.co/IleT7JKWHO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zSVjVjzjUh",
+					"expanded_url": "https://bit.ly/2BXV5Jt",
+					"display_url": "bit.ly/2BXV5Jt",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1190202886384431000,
+					"id_str": "1190202886384431104",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EIRzOB2WsAAP3QC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIRzOB2WsAAP3QC.jpg",
+					"url": "https://t.co/IleT7JKWHO",
+					"display_url": "pic.twitter.com/IleT7JKWHO",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1190202905225072640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190202886384431000,
+					"id_str": "1190202886384431104",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EIRzOB2WsAAP3QC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIRzOB2WsAAP3QC.jpg",
+					"url": "https://t.co/IleT7JKWHO",
+					"display_url": "pic.twitter.com/IleT7JKWHO",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1190202905225072640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9819,
+			"friends_count": 2997,
+			"listed_count": 269,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release November 1\n-\n💿 노브레인 (No Brain) [직진]\n\n✚ 앨범 자세히 보기: https://t.co/zSVjVjzjUh\n\n대한민국을 대표하는 인디 문화 1세대 펑크 밴드 노브레인이 2016년 정규 7집 발매 이후 3년만에 8집 [직진] 앨범을 선보인다. https://t.co/IleT7JKWHO"
+	},
+	{
+		"created_at": "Fri Nov 01 09:28:15 +0000 2019",
+		"id": 1190198857076007000,
+		"id_str": "1190198857076006912",
+		"full_text": "#Private_Curve #프라이빗커브\nNEW HOPE CLUB LIVE IN SEOUL : D-7\nhttps://t.co/RA35a1iAfP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Private_Curve",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RA35a1iAfP",
+					"expanded_url": "https://youtu.be/RvDbOrv5L_I",
+					"display_url": "youtu.be/RvDbOrv5L_I",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Private_Curve #프라이빗커브\nNEW HOPE CLUB LIVE IN SEOUL : D-7\nhttps://t.co/RA35a1iAfP"
+	},
+	{
+		"created_at": "Fri Nov 01 09:22:15 +0000 2019",
+		"id": 1190197350591012900,
+		"id_str": "1190197350591012864",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n11월 1일 | 노브레인\nhttps://t.co/Agyb02UY47\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						79,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Agyb02UY47",
+					"expanded_url": "http://bit.ly/2NxFaXw",
+					"display_url": "bit.ly/2NxFaXw",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n11월 1일 | 노브레인\nhttps://t.co/Agyb02UY47\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
 		"created_at": "Fri Nov 01 09:13:33 +0000 2019",
 		"id": 1190185536100528000,
 		"id_str": "1190195159075622912",
