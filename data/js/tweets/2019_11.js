@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 13:18:16 +0000 2019",
+		"id": 1190606783930421200,
+		"id_str": "1190619134469517313",
+		"full_text": "노래 한 곡이 완성되기까지\n악기와 보컬만 녹음하면 끝나는 걸로 생각할 수 있는데요\n그 외에 많은 노력들이 숨어 있습니다\n\n'헷갈려', '눈치', '놀면뭐해' 세곡의 편곡자로\n권영찬, 홍소진 님이 참여했습니다\n\nhttps://t.co/nJWaWl9xhL https://t.co/O4gblESIIR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJWaWl9xhL",
+					"expanded_url": "https://youtu.be/r0xm8lqmwAo",
+					"display_url": "youtu.be/r0xm8lqmwAo",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/O4gblESIIR",
+					"expanded_url": "https://www.youtube.com/watch?v=r0xm8lqmwAo&feature=share",
+					"display_url": "youtube.com/watch?v=r0xm8l…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2846,
+			"friends_count": 368,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 15748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노래 한 곡이 완성되기까지\n악기와 보컬만 녹음하면 끝나는 걸로 생각할 수 있는데요\n그 외에 많은 노력들이 숨어 있습니다\n\n'헷갈려', '눈치', '놀면뭐해' 세곡의 편곡자로\n권영찬, 홍소진 님이 참여했습니다\n\nhttps://t.co/nJWaWl9xhL https://t.co/O4gblESIIR"
+	},
+	{
 		"created_at": "Sat Nov 02 13:13:27 +0000 2019",
 		"id": 1190604461565046800,
 		"id_str": "1190617921707479040",
