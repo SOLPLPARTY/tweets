@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 13:13:27 +0000 2019",
+		"id": 1190604461565046800,
+		"id_str": "1190617921707479040",
+		"full_text": "[신규 입고]\n\n다음 주 토요일, 오칠 정규 1집 &lt;oh, two animals&gt;의 발표회가 있다고 합니다🥳 \n무료입장으로 진행된다고 하니, 시간 되시는 분들은 많이많이 찾아주세요💛\n\n&lt;오칠(Oh Chill) 정규 1집 발표회&gt;\n▶️ 11/9(토) 19시, 벨로주 홍대\n▶️ 티켓 : 무료입장\n▶️ 게스트 : 굴갱 https://t.co/iUxSC2STR8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190604436319670300,
+					"id_str": "1190604436319670272",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXgbT7WkAAYap9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXgbT7WkAAYap9.jpg",
+					"url": "https://t.co/iUxSC2STR8",
+					"display_url": "pic.twitter.com/iUxSC2STR8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190604461565046785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2541008467",
+									"screen_name": "57_ohchill",
+									"name": "오칠 Oh Chill"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190604436319670300,
+					"id_str": "1190604436319670272",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXgbT7WkAAYap9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXgbT7WkAAYap9.jpg",
+					"url": "https://t.co/iUxSC2STR8",
+					"display_url": "pic.twitter.com/iUxSC2STR8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190604461565046785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2541008467",
+									"screen_name": "57_ohchill",
+									"name": "오칠 Oh Chill"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1190604436319678500,
+					"id_str": "1190604436319678466",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXgbT7WsAIFY7L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXgbT7WsAIFY7L.jpg",
+					"url": "https://t.co/iUxSC2STR8",
+					"display_url": "pic.twitter.com/iUxSC2STR8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190604461565046785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2541008467",
+									"screen_name": "57_ohchill",
+									"name": "오칠 Oh Chill"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 2472,
+									"h": 224,
+									"w": 224
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 416,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 735,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 1255,
+									"h": 113,
+									"w": 113
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1190604436328108000,
+					"id_str": "1190604436328108032",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXgbT9XUAALCQe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXgbT9XUAALCQe.jpg",
+					"url": "https://t.co/iUxSC2STR8",
+					"display_url": "pic.twitter.com/iUxSC2STR8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190604461565046785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2541008467",
+									"screen_name": "57_ohchill",
+									"name": "오칠 Oh Chill"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2800,
+			"friends_count": 2697,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n\n다음 주 토요일, 오칠 정규 1집 &lt;oh, two animals&gt;의 발표회가 있다고 합니다🥳 \n무료입장으로 진행된다고 하니, 시간 되시는 분들은 많이많이 찾아주세요💛\n\n&lt;오칠(Oh Chill) 정규 1집 발표회&gt;\n▶️ 11/9(토) 19시, 벨로주 홍대\n▶️ 티켓 : 무료입장\n▶️ 게스트 : 굴갱 https://t.co/iUxSC2STR8"
+	},
+	{
 		"created_at": "Sat Nov 02 10:13:32 +0000 2019",
 		"id": 1190561778524029000,
 		"id_str": "1190572641402458113",
@@ -396,7 +768,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Sat Nov 02 09:18:20 +0000 2019",
 		"id": 1190554165023404000,
 		"id_str": "1190558753340481536",
-		"full_text": "응원 메세지 또는\n#홍이삭 에게 궁금한 질문들 \n여기로 보내주세요 💪\n➡️ Music Access Homepage\n➡️ Send Message Click‼️\n➡️ Cheer up or I have a question for you ❤️\nPlease write down your message and send it 🧙‍♂️",
+		"full_text": "응원 메세지 또는\n#홍이삭 에게 궁금한 질문들 \n여기로 보내주세요 💪\n➡️ Music Access Homepage\n➡️ Send Message Click‼️\n➡️ Cheer up or I have a question for you ❤️\nPlease write down your message and send it 🧙♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -495,7 +867,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "응원 메세지 또는\n#홍이삭 에게 궁금한 질문들 \n여기로 보내주세요 💪\n➡️ Music Access Homepage\n➡️ Send Message Click‼️\n➡️ Cheer up or I have a question for you ❤️\nPlease write down your message and send it 🧙‍♂️"
+		"text": "응원 메세지 또는\n#홍이삭 에게 궁금한 질문들 \n여기로 보내주세요 💪\n➡️ Music Access Homepage\n➡️ Send Message Click‼️\n➡️ Cheer up or I have a question for you ❤️\nPlease write down your message and send it 🧙♂️"
 	},
 	{
 		"created_at": "Sat Nov 02 09:03:28 +0000 2019",
