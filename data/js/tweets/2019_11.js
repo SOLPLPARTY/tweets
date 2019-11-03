@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 12:13:34 +0000 2019",
+		"id": 1190962513866674200,
+		"id_str": "1190965236486098946",
+		"full_text": "패브릭 포스터가 포함된 초판 한정 패키지 앨범 이미지가 영롱하네요✨\n드로잉은 웜그레이 테일의 김한걸 작가님의 작품이라고 합니다 :-) \n\n곧 발행될 씬디매거진 11월호, 많이 기대해주세요~!\n\n📍 사진 : 유슬리스 프레셔스 ( @uselessprecious )",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uselessprecious",
+					"name": "유슬리스 프레셔스🔮",
+					"id": 699939202750742500,
+					"id_str": "699939202750742529",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1190962509244596200,
+		"in_reply_to_status_id_str": "1190962509244596225",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 2699,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "패브릭 포스터가 포함된 초판 한정 패키지 앨범 이미지가 영롱하네요✨\n드로잉은 웜그레이 테일의 김한걸 작가님의 작품이라고 합니다 :-) \n\n곧 발행될 씬디매거진 11월호, 많이 기대해주세요~!\n\n📍 사진 : 유슬리스 프레셔스 ( @uselessprecious )"
+	},
+	{
+		"created_at": "Sun Nov 03 12:13:27 +0000 2019",
+		"id": 1190962509244596200,
+		"id_str": "1190965210837852160",
+		"full_text": "[씬디매거진 💚𝒸𝑜𝓂𝒾𝓃𝑔 𝓈𝑜𝑜𝓃💚]\n\n씬디매거진 11월호를 장식할 아티스트는 가수 이상은 님입니다🎶\n\n5년 만에 EP [fLoW]를 발매하고 발매기념 단독공연 &lt;SLoW fLoW&gt;도 성황리에 마치셨는데요! https://t.co/QsYujLqTFO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190962491200815000,
+					"id_str": "1190962491200815104",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIcmE2TWwAA4R50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIcmE2TWwAA4R50.jpg",
+					"url": "https://t.co/QsYujLqTFO",
+					"display_url": "pic.twitter.com/QsYujLqTFO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190962509244596225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190962491200815000,
+					"id_str": "1190962491200815104",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIcmE2TWwAA4R50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIcmE2TWwAA4R50.jpg",
+					"url": "https://t.co/QsYujLqTFO",
+					"display_url": "pic.twitter.com/QsYujLqTFO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190962509244596225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1190962491209191400,
+					"id_str": "1190962491209191424",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIcmE2VWkAAx88R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIcmE2VWkAAx88R.jpg",
+					"url": "https://t.co/QsYujLqTFO",
+					"display_url": "pic.twitter.com/QsYujLqTFO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190962509244596225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 318,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 132,
+									"y": 240,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 318,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 318,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1190962491209273300,
+					"id_str": "1190962491209273346",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIcmE2VX0AIX8AI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIcmE2VX0AIX8AI.jpg",
+					"url": "https://t.co/QsYujLqTFO",
+					"display_url": "pic.twitter.com/QsYujLqTFO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190962509244596225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1190962491205070800,
+					"id_str": "1190962491205070848",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIcmE2UXsAA8UEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIcmE2UXsAA8UEx.jpg",
+					"url": "https://t.co/QsYujLqTFO",
+					"display_url": "pic.twitter.com/QsYujLqTFO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1190962509244596225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 2699,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디매거진 💚𝒸𝑜𝓂𝒾𝓃𝑔 𝓈𝑜𝑜𝓃💚]\n\n씬디매거진 11월호를 장식할 아티스트는 가수 이상은 님입니다🎶\n\n5년 만에 EP [fLoW]를 발매하고 발매기념 단독공연 &lt;SLoW fLoW&gt;도 성황리에 마치셨는데요! https://t.co/QsYujLqTFO"
+	},
+	{
 		"created_at": "Sun Nov 03 10:13:27 +0000 2019",
 		"id": 1190924371679826000,
 		"id_str": "1190935010943090689",
