@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 14:13:28 +0000 2019",
+		"id": 1190990855147933700,
+		"id_str": "1190995413865828352",
+		"full_text": "#상상마당 #영화추천\n“나도 용기를 내고 싶어”\n&lt;#윤희에게&gt;\n11월 14일 #상상마당시네마 개봉📝 https://t.co/Dv8PlN5vO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "영화추천",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "윤희에게",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190990843978670000,
+					"id_str": "1190990843978670081",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EIc_3MoXYAEm9M3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIc_3MoXYAEm9M3.jpg",
+					"url": "https://t.co/Dv8PlN5vO1",
+					"display_url": "pic.twitter.com/Dv8PlN5vO1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1190990855147933699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 522,
+							"h": 751,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190990843978670000,
+					"id_str": "1190990843978670081",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EIc_3MoXYAEm9M3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIc_3MoXYAEm9M3.jpg",
+					"url": "https://t.co/Dv8PlN5vO1",
+					"display_url": "pic.twitter.com/Dv8PlN5vO1",
+					"expanded_url": "https://twitter.com/SSmadang/status/1190990855147933699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 522,
+							"h": 751,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19261,
+			"friends_count": 2005,
+			"listed_count": 320,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #영화추천\n“나도 용기를 내고 싶어”\n&lt;#윤희에게&gt;\n11월 14일 #상상마당시네마 개봉📝 https://t.co/Dv8PlN5vO1"
+	},
+	{
 		"created_at": "Sun Nov 03 12:13:34 +0000 2019",
 		"id": 1190962513866674200,
 		"id_str": "1190965236486098946",
