@@ -1,6 +1,1509 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 04:13:37 +0000 2019",
+		"id": 1191203032404353000,
+		"id_str": "1191206840832581638",
+		"full_text": "✔︎ 『씬의 아이들』 출간 기념 프로그램 -1 \n\n최초공개반 쇼케이스: 몬구  \n11.10(일) 17:30~17:50 \n\n*선착순 무료 입장\n*이 날 몬구는 특별히 BOY.D와 함께 연주합니다. \n*몬구의 프로젝트 밴드 춘천의 &lt;춘천&gt; TAPE를 재미공작소 부스에서 구입하실 수 있습니다. https://t.co/jVBK93cY3O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191202995700027400,
+					"id_str": "1191202995700027394",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EIgA0DYU0AIaHuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIgA0DYU0AIaHuV.jpg",
+					"url": "https://t.co/jVBK93cY3O",
+					"display_url": "pic.twitter.com/jVBK93cY3O",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191203032404353024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191202995700027400,
+					"id_str": "1191202995700027394",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EIgA0DYU0AIaHuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIgA0DYU0AIaHuV.jpg",
+					"url": "https://t.co/jVBK93cY3O",
+					"display_url": "pic.twitter.com/jVBK93cY3O",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191203032404353024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1191202995691610000,
+					"id_str": "1191202995691610112",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EIgA0DWUYAAf1tg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIgA0DWUYAAf1tg.jpg",
+					"url": "https://t.co/jVBK93cY3O",
+					"display_url": "pic.twitter.com/jVBK93cY3O",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191203032404353024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 747,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1191201834779607000,
+		"in_reply_to_status_id_str": "1191201834779607040",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8145,
+			"friends_count": 601,
+			"listed_count": 114,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔︎ 『씬의 아이들』 출간 기념 프로그램 -1 \n\n최초공개반 쇼케이스: 몬구  \n11.10(일) 17:30~17:50 \n\n*선착순 무료 입장\n*이 날 몬구는 특별히 BOY.D와 함께 연주합니다. \n*몬구의 프로젝트 밴드 춘천의 &lt;춘천&gt; TAPE를 재미공작소 부스에서 구입하실 수 있습니다. https://t.co/jVBK93cY3O"
+	},
+	{
+		"created_at": "Mon Nov 04 04:13:30 +0000 2019",
+		"id": 1191201834779607000,
+		"id_str": "1191206815075381248",
+		"full_text": "재미공작소가 제 9회 서울레코드페어에 참가합니다.\n부스: 2층 5번 | 계좌이체, 현금 및 카드 결제 가능\n\n체크 포인트!\n\n✔︎ 신간 『씬의 아이들』 최초 공식 판매\n\n✔︎ 재미공작소 출간 음악 도서와 협업 작업 판매\n✔︎ 재미공작소 부스에서만 구입 가능한 위탁 판매 음반 &amp; 도서\n\n(이어짐) https://t.co/5K2UnPElGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191201761450578000,
+					"id_str": "1191201761450577920",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EIf_sNcU0AAhzY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIf_sNcU0AAhzY4.jpg",
+					"url": "https://t.co/5K2UnPElGE",
+					"display_url": "pic.twitter.com/5K2UnPElGE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191201834779607040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 111,
+									"h": 153,
+									"w": 153
+								},
+								{
+									"x": 71,
+									"y": 215,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 245,
+									"y": 209,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 152,
+									"y": 310,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 78,
+									"y": 427,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191201761450578000,
+					"id_str": "1191201761450577920",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EIf_sNcU0AAhzY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIf_sNcU0AAhzY4.jpg",
+					"url": "https://t.co/5K2UnPElGE",
+					"display_url": "pic.twitter.com/5K2UnPElGE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191201834779607040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 246,
+									"y": 168,
+									"h": 231,
+									"w": 231
+								},
+								{
+									"x": 108,
+									"y": 324,
+									"h": 234,
+									"w": 234
+								},
+								{
+									"x": 370,
+									"y": 316,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 229,
+									"y": 467,
+									"h": 264,
+									"w": 264
+								},
+								{
+									"x": 118,
+									"y": 643,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 111,
+									"h": 153,
+									"w": 153
+								},
+								{
+									"x": 71,
+									"y": 215,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 245,
+									"y": 209,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 152,
+									"y": 310,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 78,
+									"y": 427,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191201761454772200,
+					"id_str": "1191201761454772230",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EIf_sNdU0AYPgbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIf_sNdU0AYPgbK.jpg",
+					"url": "https://t.co/5K2UnPElGE",
+					"display_url": "pic.twitter.com/5K2UnPElGE",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1191201834779607040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8145,
+			"friends_count": 601,
+			"listed_count": 114,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소가 제 9회 서울레코드페어에 참가합니다.\n부스: 2층 5번 | 계좌이체, 현금 및 카드 결제 가능\n\n체크 포인트!\n\n✔︎ 신간 『씬의 아이들』 최초 공식 판매\n\n✔︎ 재미공작소 출간 음악 도서와 협업 작업 판매\n✔︎ 재미공작소 부스에서만 구입 가능한 위탁 판매 음반 &amp; 도서\n\n(이어짐) https://t.co/5K2UnPElGE"
+	},
+	{
+		"created_at": "Mon Nov 04 04:13:27 +0000 2019",
+		"id": 1191192339596730400,
+		"id_str": "1191206802014326785",
+		"full_text": "&lt;잭킹콩(Jackingcong) 단독 콘서트&gt;\n-\n• 일시 : 2019년 12월 20일 (금) 오후 8시 \n• 장소 : 롤링홀\n• 출연 : 잭킹콩 (Jackingcong)\n• 예매 : 멜론티켓 2019년 11월 11일 (월) 오후 8시 예매오픈 \n-\n#잭킹콩 #Jackingcong #단독콘서트 #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/VWLabqT0ZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잭킹콩",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "Jackingcong",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191192329547202600,
+					"id_str": "1191192329547202560",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EIf3HM3UwAA6WzK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIf3HM3UwAA6WzK.jpg",
+					"url": "https://t.co/VWLabqT0ZB",
+					"display_url": "pic.twitter.com/VWLabqT0ZB",
+					"expanded_url": "https://twitter.com/rollinghall/status/1191192339596730369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 490,
+									"h": 692,
+									"w": 692
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 287,
+									"h": 405,
+									"w": 405
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 162,
+									"h": 229,
+									"w": 229
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 490,
+									"h": 692,
+									"w": 692
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191192329547202600,
+					"id_str": "1191192329547202560",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EIf3HM3UwAA6WzK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIf3HM3UwAA6WzK.jpg",
+					"url": "https://t.co/VWLabqT0ZB",
+					"display_url": "pic.twitter.com/VWLabqT0ZB",
+					"expanded_url": "https://twitter.com/rollinghall/status/1191192339596730369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 490,
+									"h": 692,
+									"w": 692
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 287,
+									"h": 405,
+									"w": 405
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 162,
+									"h": 229,
+									"w": 229
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 490,
+									"h": 692,
+									"w": 692
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3196,
+			"friends_count": 790,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;잭킹콩(Jackingcong) 단독 콘서트&gt;\n-\n• 일시 : 2019년 12월 20일 (금) 오후 8시 \n• 장소 : 롤링홀\n• 출연 : 잭킹콩 (Jackingcong)\n• 예매 : 멜론티켓 2019년 11월 11일 (월) 오후 8시 예매오픈 \n-\n#잭킹콩 #Jackingcong #단독콘서트 #롤링홀 #홍대 #인디 #공연 #멜론티켓 https://t.co/VWLabqT0ZB"
+	},
+	{
+		"created_at": "Mon Nov 04 03:50:21 +0000 2019",
+		"id": 1191200987769389000,
+		"id_str": "1191200987769389058",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n11월 4일 | 솔플라워, Laibac, Laura Fireball\nhttps://t.co/IeXVm9IMVm\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						103,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IeXVm9IMVm",
+					"expanded_url": "http://bit.ly/2raJvIL",
+					"display_url": "bit.ly/2raJvIL",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n11월 4일 | 솔플라워, Laibac, Laura Fireball\nhttps://t.co/IeXVm9IMVm\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Mon Nov 04 03:41:38 +0000 2019",
+		"id": 1191198795754868700,
+		"id_str": "1191198795754868736",
+		"full_text": "#Private_Curve #프라이빗커브\n[공연안내] NEW HOPE CLUB LIVE IN SEOUL - LOVE AGAIN ENCORE SPECIAL GUEST: 레이든(Raiden)\nhttps://t.co/HWQ4dJIsWB\n#블로그 #공연기획사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Private_Curve",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWQ4dJIsWB",
+					"expanded_url": "http://bit.ly/2oOdoOk",
+					"display_url": "bit.ly/2oOdoOk",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Private_Curve #프라이빗커브\n[공연안내] NEW HOPE CLUB LIVE IN SEOUL - LOVE AGAIN ENCORE SPECIAL GUEST: 레이든(Raiden)\nhttps://t.co/HWQ4dJIsWB\n#블로그 #공연기획사"
+	},
+	{
+		"created_at": "Mon Nov 04 03:31:24 +0000 2019",
+		"id": 1191196217369399300,
+		"id_str": "1191196217369399296",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Laura Fireball - Hold\nhttps://t.co/75QE4do4Fn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75QE4do4Fn",
+					"expanded_url": "https://youtu.be/Of3L0nhbjCA",
+					"display_url": "youtu.be/Of3L0nhbjCA",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Laura Fireball - Hold\nhttps://t.co/75QE4do4Fn"
+	},
+	{
 		"created_at": "Mon Nov 04 03:16:17 +0000 2019",
 		"id": 1191192415723556900,
 		"id_str": "1191192415723556864",
