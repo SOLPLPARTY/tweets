@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 14:35:38 +0000 2019",
+		"id": 1191363378935160800,
+		"id_str": "1191363378935160835",
+		"full_text": "#멜론 #멜론매거진\n지난 주말을 뜨겁게 달군 키워드 TOP 3 (11월 첫째 주)\nhttps://t.co/Rw2Zvnzibo https://t.co/ZkRTmUnByb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rw2Zvnzibo",
+					"expanded_url": "http://bit.ly/2NfHpQo",
+					"display_url": "bit.ly/2NfHpQo",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191363377697841200,
+					"id_str": "1191363377697841157",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSrg4W4AU7Fp1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSrg4W4AU7Fp1.jpg",
+					"url": "https://t.co/ZkRTmUnByb",
+					"display_url": "pic.twitter.com/ZkRTmUnByb",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363378935160835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191363377697841200,
+					"id_str": "1191363377697841157",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSrg4W4AU7Fp1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSrg4W4AU7Fp1.jpg",
+					"url": "https://t.co/ZkRTmUnByb",
+					"display_url": "pic.twitter.com/ZkRTmUnByb",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363378935160835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 30,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 379,
+									"y": 67,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 9,
+									"y": 46,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 254,
+									"y": 88,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #멜론매거진\n지난 주말을 뜨겁게 달군 키워드 TOP 3 (11월 첫째 주)\nhttps://t.co/Rw2Zvnzibo https://t.co/ZkRTmUnByb"
+	},
+	{
+		"created_at": "Mon Nov 04 14:35:32 +0000 2019",
+		"id": 1191363354402513000,
+		"id_str": "1191363354402512896",
+		"full_text": "#벅스 #뮤직포스트\n[주간 핫이슈] GOT7(갓세븐) - 소중한 마음을 담아 부르는 노래\nhttps://t.co/SWer07LDmm https://t.co/gEbeoCCEgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SWer07LDmm",
+					"expanded_url": "http://bit.ly/2NGnGs2",
+					"display_url": "bit.ly/2NGnGs2",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191363353219752000,
+					"id_str": "1191363353219751936",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSqFsU4AAWvJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSqFsU4AAWvJj.jpg",
+					"url": "https://t.co/gEbeoCCEgJ",
+					"display_url": "pic.twitter.com/gEbeoCCEgJ",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363354402512896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191363353219752000,
+					"id_str": "1191363353219751936",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSqFsU4AAWvJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSqFsU4AAWvJj.jpg",
+					"url": "https://t.co/gEbeoCCEgJ",
+					"display_url": "pic.twitter.com/gEbeoCCEgJ",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363354402512896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 159,
+									"y": 127,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#벅스 #뮤직포스트\n[주간 핫이슈] GOT7(갓세븐) - 소중한 마음을 담아 부르는 노래\nhttps://t.co/SWer07LDmm https://t.co/gEbeoCCEgJ"
+	},
+	{
+		"created_at": "Mon Nov 04 14:35:29 +0000 2019",
+		"id": 1191363339059945500,
+		"id_str": "1191363339059945473",
+		"full_text": "#멜론 #멜론매거진\n아름다운 우리는 예쁘게, 이설아 [못다한 말들, Part.2]\nhttps://t.co/YgLEMmJRni https://t.co/ucViDhgcen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YgLEMmJRni",
+					"expanded_url": "http://bit.ly/34s9fOZ",
+					"display_url": "bit.ly/34s9fOZ",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191363337507999700,
+					"id_str": "1191363337507999744",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSpLKWkAAhFx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSpLKWkAAhFx8.jpg",
+					"url": "https://t.co/ucViDhgcen",
+					"display_url": "pic.twitter.com/ucViDhgcen",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363339059945473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191363337507999700,
+					"id_str": "1191363337507999744",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiSpLKWkAAhFx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIiSpLKWkAAhFx8.jpg",
+					"url": "https://t.co/ucViDhgcen",
+					"display_url": "pic.twitter.com/ucViDhgcen",
+					"expanded_url": "https://twitter.com/solplparty/status/1191363339059945473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 174,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #멜론매거진\n아름다운 우리는 예쁘게, 이설아 [못다한 말들, Part.2]\nhttps://t.co/YgLEMmJRni https://t.co/ucViDhgcen"
+	},
+	{
 		"created_at": "Mon Nov 04 13:01:21 +0000 2019",
 		"id": 1191339651472281600,
 		"id_str": "1191339651472281602",
