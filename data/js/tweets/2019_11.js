@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 01:13:27 +0000 2019",
+		"id": 1191150061989662700,
+		"id_str": "1191161503594012672",
+		"full_text": "이번 주 목요일 입니다.\n\n11/7(목) 벨로주 홍대.\n\n버둥 + 구만 + 데이먼스이어\n\n지금 가장 주목해야 할 세 명의 싱어송라이터이자 새로운 목소리들. 지금 이 조합을 다시 보시기 어려울 겁니다.\n\n예매 : https://t.co/lXGbiOxGdM https://t.co/XTzCWDfeoO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lXGbiOxGdM",
+					"expanded_url": "https://c11.kr/ah3l",
+					"display_url": "c11.kr/ah3l",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191150053043269600,
+					"id_str": "1191150053043269636",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EIfQqYnU8AQcnyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIfQqYnU8AQcnyy.jpg",
+					"url": "https://t.co/XTzCWDfeoO",
+					"display_url": "pic.twitter.com/XTzCWDfeoO",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1191150061989662720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 586,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 345,
+									"y": 644,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 274,
+									"y": 262,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 154,
+									"y": 288,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 484,
+									"y": 462,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 272,
+									"y": 508,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 586,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 345,
+									"y": 644,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191150053043269600,
+					"id_str": "1191150053043269636",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EIfQqYnU8AQcnyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIfQqYnU8AQcnyy.jpg",
+					"url": "https://t.co/XTzCWDfeoO",
+					"display_url": "pic.twitter.com/XTzCWDfeoO",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1191150061989662720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1075,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 586,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 345,
+									"y": 644,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 274,
+									"y": 262,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 154,
+									"y": 288,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 484,
+									"y": 462,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 272,
+									"y": 508,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 586,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 345,
+									"y": 644,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9137,
+			"friends_count": 149,
+			"listed_count": 162,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 목요일 입니다.\n\n11/7(목) 벨로주 홍대.\n\n버둥 + 구만 + 데이먼스이어\n\n지금 가장 주목해야 할 세 명의 싱어송라이터이자 새로운 목소리들. 지금 이 조합을 다시 보시기 어려울 겁니다.\n\n예매 : https://t.co/lXGbiOxGdM https://t.co/XTzCWDfeoO"
+	},
+	{
+		"created_at": "Mon Nov 04 00:39:10 +0000 2019",
+		"id": 1191152874538975200,
+		"id_str": "1191152874538975232",
+		"full_text": "#인터파크티켓 #주요티켓오픈\n미스터쇼(https://t.co/toQitBJKov) 크리스마스 시즌 티켓오픈 안내 : 19.11.07(목) 11:00\n▶ https://t.co/73Uu0RiSNI\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/Ic0Ou1kKtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/toQitBJKov",
+					"expanded_url": "http://Mr.SHOW",
+					"display_url": "Mr.SHOW",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/73Uu0RiSNI",
+					"expanded_url": "http://bit.ly/2N9EOay",
+					"display_url": "bit.ly/2N9EOay",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191152873700114400,
+					"id_str": "1191152873700114432",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EIfTOkYUwAA-ls0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIfTOkYUwAA-ls0.jpg",
+					"url": "https://t.co/Ic0Ou1kKtd",
+					"display_url": "pic.twitter.com/Ic0Ou1kKtd",
+					"expanded_url": "https://twitter.com/solplparty/status/1191152874538975232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191152873700114400,
+					"id_str": "1191152873700114432",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EIfTOkYUwAA-ls0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIfTOkYUwAA-ls0.jpg",
+					"url": "https://t.co/Ic0Ou1kKtd",
+					"display_url": "pic.twitter.com/Ic0Ou1kKtd",
+					"expanded_url": "https://twitter.com/solplparty/status/1191152874538975232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 218,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #주요티켓오픈\n미스터쇼(https://t.co/toQitBJKov) 크리스마스 시즌 티켓오픈 안내 : 19.11.07(목) 11:00\n▶ https://t.co/73Uu0RiSNI\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/Ic0Ou1kKtd"
+	},
+	{
 		"created_at": "Sun Nov 03 21:13:31 +0000 2019",
 		"id": 1191089258565533700,
 		"id_str": "1191101122909487105",
