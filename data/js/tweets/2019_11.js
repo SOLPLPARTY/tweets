@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 10:05:37 +0000 2019",
+		"id": 1191657812528631800,
+		"id_str": "1191657812528631809",
+		"full_text": "#루비레코드 #Ruby_Records\n[Special Vedio Clip] 랜드오브피스(Land of Peace), 모트 (Motte) - Indica\nhttps://t.co/1eZth3j3J0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1eZth3j3J0",
+					"expanded_url": "https://youtu.be/_j3segebnUs",
+					"display_url": "youtu.be/_j3segebnUs",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[Special Vedio Clip] 랜드오브피스(Land of Peace), 모트 (Motte) - Indica\nhttps://t.co/1eZth3j3J0"
+	},
+	{
+		"created_at": "Tue Nov 05 10:00:50 +0000 2019",
+		"id": 1191656612445982700,
+		"id_str": "1191656612445982720",
+		"full_text": "#딩고뮤직 #dingo_music\n⭐️천상계 비주얼⭐️아련미 폭발하는 빅톤-그리운 밤(5K) | nostalsic night | VICTON | choreography | MOVE REC\nhttps://t.co/hMuGzhcH8V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hMuGzhcH8V",
+					"expanded_url": "https://youtu.be/RKsy750b_a8",
+					"display_url": "youtu.be/RKsy750b_a8",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n⭐️천상계 비주얼⭐️아련미 폭발하는 빅톤-그리운 밤(5K) | nostalsic night | VICTON | choreography | MOVE REC\nhttps://t.co/hMuGzhcH8V"
+	},
+	{
+		"created_at": "Tue Nov 05 09:18:34 +0000 2019",
+		"id": 1191644142285160400,
+		"id_str": "1191645972587319296",
+		"full_text": "[바닐라 어쿠스틱 - '부족해' 발매 공지]\n\nVanilla Acoustic, '부족해'🍂\n2019.11.10 (Sun) 6pm Release\n⠀⠀⠀\n#바닐라어쿠스틱  #VanillaAcoustic #부족해 #쇼파르뮤직 #shofarmusic https://t.co/Equ5JuPr9E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바닐라어쿠스틱",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "VanillaAcoustic",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"text": "부족해",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "shofarmusic",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191644124790710300,
+					"id_str": "1191644124790710272",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EImSBJTU4AAu2TD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImSBJTU4AAu2TD.jpg",
+					"url": "https://t.co/Equ5JuPr9E",
+					"display_url": "pic.twitter.com/Equ5JuPr9E",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1191644142285160449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 1543,
+									"h": 295,
+									"w": 295
+								},
+								{
+									"x": 1804,
+									"y": 2027,
+									"h": 395,
+									"w": 395
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 349,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 408,
+									"y": 459,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 124,
+									"y": 617,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 721,
+									"y": 810,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 211,
+									"y": 1053,
+									"h": 201,
+									"w": 201
+								},
+								{
+									"x": 1231,
+									"y": 1383,
+									"h": 269,
+									"w": 269
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191644124790710300,
+					"id_str": "1191644124790710272",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EImSBJTU4AAu2TD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImSBJTU4AAu2TD.jpg",
+					"url": "https://t.co/Equ5JuPr9E",
+					"display_url": "pic.twitter.com/Equ5JuPr9E",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1191644142285160449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 1543,
+									"h": 295,
+									"w": 295
+								},
+								{
+									"x": 1804,
+									"y": 2027,
+									"h": 395,
+									"w": 395
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 349,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 408,
+									"y": 459,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 124,
+									"y": 617,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 721,
+									"y": 810,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 211,
+									"y": 1053,
+									"h": 201,
+									"w": 201
+								},
+								{
+									"x": 1231,
+									"y": 1383,
+									"h": 269,
+									"w": 269
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7590,
+			"friends_count": 10,
+			"listed_count": 69,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[바닐라 어쿠스틱 - '부족해' 발매 공지]\n\nVanilla Acoustic, '부족해'🍂\n2019.11.10 (Sun) 6pm Release\n⠀⠀⠀\n#바닐라어쿠스틱  #VanillaAcoustic #부족해 #쇼파르뮤직 #shofarmusic https://t.co/Equ5JuPr9E"
+	},
+	{
+		"created_at": "Tue Nov 05 09:18:25 +0000 2019",
+		"id": 1191641337273045000,
+		"id_str": "1191645934293266433",
+		"full_text": "[My Own Table]\nHAPPY ROBOT RECORDS VINYL REISSUE SERIES\nLIMITED EDITION\n\n따뜻한 위로, 발칙한 위트, 일상을 닮은 이야기.\nSoran 1집 &lt;natural&gt;\n\n11.9(sat) - 11.10(sun)\n*최초판매 (9회 서울레코드페어 at 문화역서울284)\n\n11.11(mon)\n*공식발매 https://t.co/KUoYbX4RdI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191641325197652000,
+					"id_str": "1191641325197651974",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EImPeMAU8AYoH9Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImPeMAU8AYoH9Z.jpg",
+					"url": "https://t.co/KUoYbX4RdI",
+					"display_url": "pic.twitter.com/KUoYbX4RdI",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1191641337273044993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191641325197652000,
+					"id_str": "1191641325197651974",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EImPeMAU8AYoH9Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImPeMAU8AYoH9Z.jpg",
+					"url": "https://t.co/KUoYbX4RdI",
+					"display_url": "pic.twitter.com/KUoYbX4RdI",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1191641337273044993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13715,
+			"friends_count": 2486,
+			"listed_count": 299,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[My Own Table]\nHAPPY ROBOT RECORDS VINYL REISSUE SERIES\nLIMITED EDITION\n\n따뜻한 위로, 발칙한 위트, 일상을 닮은 이야기.\nSoran 1집 &lt;natural&gt;\n\n11.9(sat) - 11.10(sun)\n*최초판매 (9회 서울레코드페어 at 문화역서울284)\n\n11.11(mon)\n*공식발매 https://t.co/KUoYbX4RdI"
+	},
+	{
 		"created_at": "Tue Nov 05 09:04:13 +0000 2019",
 		"id": 1191642363774591000,
 		"id_str": "1191642363774590977",
