@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 14:18:17 +0000 2019",
+		"id": 1192080473817669600,
+		"id_str": "1192083785745084416",
+		"full_text": "#20191106\n#나인 #디어클라우드 #씬디프레즌트 \n내일은 네스트나다에서 8:50 공연 시작\n#빨간의자 #오추프로젝트 #나인NINE9\n\n#가호 #그냥 #딕펑스 #레인보우노트 \n#모트 #몽니 #소낙별 #솔루션스 #용주 \n#위아더나잇 #장희원 #전기뱀장어 #취미 #한살차이 https://t.co/A6jB2B4ay6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "씬디프레즌트",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "빨간의자",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "오추프로젝트",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "나인NINE9",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "가호",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "그냥",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "딕펑스",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "몽니",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "소낙별",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "솔루션스",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "용주",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "장희원",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "취미",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "한살차이",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192080444671455200,
+					"id_str": "1192080444671455232",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EIse2ThU8AAu6zW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIse2ThU8AAu6zW.jpg",
+					"url": "https://t.co/A6jB2B4ay6",
+					"display_url": "pic.twitter.com/A6jB2B4ay6",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1192080473817669633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 848,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 13,
+									"y": 348,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192080444671455200,
+					"id_str": "1192080444671455232",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EIse2ThU8AAu6zW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIse2ThU8AAu6zW.jpg",
+					"url": "https://t.co/A6jB2B4ay6",
+					"display_url": "pic.twitter.com/A6jB2B4ay6",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1192080473817669633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 848,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 13,
+									"y": 348,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 435,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2849,
+			"friends_count": 368,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 15899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20191106\n#나인 #디어클라우드 #씬디프레즌트 \n내일은 네스트나다에서 8:50 공연 시작\n#빨간의자 #오추프로젝트 #나인NINE9\n\n#가호 #그냥 #딕펑스 #레인보우노트 \n#모트 #몽니 #소낙별 #솔루션스 #용주 \n#위아더나잇 #장희원 #전기뱀장어 #취미 #한살차이 https://t.co/A6jB2B4ay6"
+	},
+	{
 		"created_at": "Wed Nov 06 13:13:27 +0000 2019",
 		"id": 1192065983172636700,
 		"id_str": "1192067473207635968",
