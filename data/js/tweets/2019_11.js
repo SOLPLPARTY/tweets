@@ -1,6 +1,1698 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 04:13:43 +0000 2019",
+		"id": 1191931057823768600,
+		"id_str": "1191931641846996992",
+		"full_text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5&lt;모트X소낙별X전기뱀장어&gt;\n\n📍티켓부스오픈 6:30PM\n📍입장시작 7PM(예매번호순)\n📍공연시작 7:30PM @레드빅스페이스\n\n※현장판매(선착순)※\n📍일시:11/6(수)3PM\n📍장소:씬디티켓라운지 (마포구서교동405-2 앞)\n📍티켓가:20,000원(카드결제) https://t.co/yskwyoXSDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191931037221302300,
+					"id_str": "1191931037221302273",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW9pZWsAE5Dwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW9pZWsAE5Dwr.jpg",
+					"url": "https://t.co/yskwyoXSDu",
+					"display_url": "pic.twitter.com/yskwyoXSDu",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191931057823768576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "241036037",
+									"screen_name": "theelectriceels",
+									"name": "전기뱀장어"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191931037221302300,
+					"id_str": "1191931037221302273",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW9pZWsAE5Dwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW9pZWsAE5Dwr.jpg",
+					"url": "https://t.co/yskwyoXSDu",
+					"display_url": "pic.twitter.com/yskwyoXSDu",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191931057823768576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "241036037",
+									"screen_name": "theelectriceels",
+									"name": "전기뱀장어"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191931037166833700,
+					"id_str": "1191931037166833672",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW9pMXkAgxRcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW9pMXkAgxRcC.jpg",
+					"url": "https://t.co/yskwyoXSDu",
+					"display_url": "pic.twitter.com/yskwyoXSDu",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191931057823768576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "241036037",
+									"screen_name": "theelectriceels",
+									"name": "전기뱀장어"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 2699,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5&lt;모트X소낙별X전기뱀장어&gt;\n\n📍티켓부스오픈 6:30PM\n📍입장시작 7PM(예매번호순)\n📍공연시작 7:30PM @레드빅스페이스\n\n※현장판매(선착순)※\n📍일시:11/6(수)3PM\n📍장소:씬디티켓라운지 (마포구서교동405-2 앞)\n📍티켓가:20,000원(카드결제) https://t.co/yskwyoXSDu"
+	},
+	{
+		"created_at": "Wed Nov 06 04:13:35 +0000 2019",
+		"id": 1191930943478608000,
+		"id_str": "1191931612004569089",
+		"full_text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;그＿냥X레인보우 노트X몽니&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @벨로주 홍대\n\n※본 공연은 매진으로 현장판매는 진행되지 않습니다※ https://t.co/wbKZ2VXSN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191930927884226600,
+					"id_str": "1191930927884226562",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW3SFXUAI4N_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW3SFXUAI4N_L.jpg",
+					"url": "https://t.co/wbKZ2VXSN3",
+					"display_url": "pic.twitter.com/wbKZ2VXSN3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191930943478607872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "444545059",
+									"screen_name": "cafe_veloso",
+									"name": "벨로주(veloso)"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "608806358",
+									"screen_name": "band_monni",
+									"name": "M O N N I"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191930927884226600,
+					"id_str": "1191930927884226562",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW3SFXUAI4N_L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW3SFXUAI4N_L.jpg",
+					"url": "https://t.co/wbKZ2VXSN3",
+					"display_url": "pic.twitter.com/wbKZ2VXSN3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191930943478607872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "444545059",
+									"screen_name": "cafe_veloso",
+									"name": "벨로주(veloso)"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "608806358",
+									"screen_name": "band_monni",
+									"name": "M O N N I"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1191930927884189700,
+					"id_str": "1191930927884189699",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqW3SFWwAMnu5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqW3SFWwAMnu5u.jpg",
+					"url": "https://t.co/wbKZ2VXSN3",
+					"display_url": "pic.twitter.com/wbKZ2VXSN3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1191930943478607872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "444545059",
+									"screen_name": "cafe_veloso",
+									"name": "벨로주(veloso)"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "608806358",
+									"screen_name": "band_monni",
+									"name": "M O N N I"
+								},
+								{
+									"type": "user",
+									"user_id": "110930534",
+									"screen_name": "ruby_records",
+									"name": "Ruby records"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 2699,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;그＿냥X레인보우 노트X몽니&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @벨로주 홍대\n\n※본 공연은 매진으로 현장판매는 진행되지 않습니다※ https://t.co/wbKZ2VXSN3"
+	},
+	{
+		"created_at": "Wed Nov 06 04:13:27 +0000 2019",
+		"id": 1191927816415088600,
+		"id_str": "1191931577946853376",
+		"full_text": "&lt;안예은 단독 콘서트 : 오타쿠리스마스&gt;\n-\n• 일시 : 2019년 12월 24일 (화) 오후 7시 30분,\n2019년 12월 25일 (수) 오후 5시\n• 장소 : 롤링홀\n• 출연 : 안예은\n• 예매 : 멜론티켓 2019년 11월 13일 (수) 오후 8시 예매오픈 https://t.co/oZ1gmExpEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191927804209721300,
+					"id_str": "1191927804209721344",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqUBdfU8AAScMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqUBdfU8AAScMa.jpg",
+					"url": "https://t.co/oZ1gmExpEa",
+					"display_url": "pic.twitter.com/oZ1gmExpEa",
+					"expanded_url": "https://twitter.com/rollinghall/status/1191927816415088640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1134,
+									"y": 784,
+									"h": 808,
+									"w": 808
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 307,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 759,
+									"y": 525,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 174,
+									"h": 179,
+									"w": 179
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191927804209721300,
+					"id_str": "1191927804209721344",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqUBdfU8AAScMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqUBdfU8AAScMa.jpg",
+					"url": "https://t.co/oZ1gmExpEa",
+					"display_url": "pic.twitter.com/oZ1gmExpEa",
+					"expanded_url": "https://twitter.com/rollinghall/status/1191927816415088640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1134,
+									"y": 784,
+									"h": 808,
+									"w": 808
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 307,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 759,
+									"y": 525,
+									"h": 541,
+									"w": 541
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 174,
+									"h": 179,
+									"w": 179
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3197,
+			"friends_count": 790,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122808803869597696/dv0QfnRc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1556533565",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;안예은 단독 콘서트 : 오타쿠리스마스&gt;\n-\n• 일시 : 2019년 12월 24일 (화) 오후 7시 30분,\n2019년 12월 25일 (수) 오후 5시\n• 장소 : 롤링홀\n• 출연 : 안예은\n• 예매 : 멜론티켓 2019년 11월 13일 (수) 오후 8시 예매오픈 https://t.co/oZ1gmExpEa"
+	},
+	{
+		"created_at": "Wed Nov 06 04:03:49 +0000 2019",
+		"id": 1191929151307034600,
+		"id_str": "1191929151307034624",
+		"full_text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.11.14(목) 2019 XIA Ballad＆Musical Concert with Orchestra Vol．6 티켓 오픈 안내\n▶ https://t.co/rlOhwNVl0W\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/YRqKJw4vJJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rlOhwNVl0W",
+					"expanded_url": "http://bit.ly/2oW3kCY",
+					"display_url": "bit.ly/2oW3kCY",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191929149386117000,
+					"id_str": "1191929149386117120",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqVPwqX0AAO6sU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqVPwqX0AAO6sU.jpg",
+					"url": "https://t.co/YRqKJw4vJJ",
+					"display_url": "pic.twitter.com/YRqKJw4vJJ",
+					"expanded_url": "https://twitter.com/solplparty/status/1191929151307034624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191929149386117000,
+					"id_str": "1191929149386117120",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EIqVPwqX0AAO6sU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIqVPwqX0AAO6sU.jpg",
+					"url": "https://t.co/YRqKJw4vJJ",
+					"display_url": "pic.twitter.com/YRqKJw4vJJ",
+					"expanded_url": "https://twitter.com/solplparty/status/1191929151307034624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.11.14(목) 2019 XIA Ballad＆Musical Concert with Orchestra Vol．6 티켓 오픈 안내\n▶ https://t.co/rlOhwNVl0W\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/YRqKJw4vJJ"
+	},
+	{
+		"created_at": "Wed Nov 06 03:40:04 +0000 2019",
+		"id": 1191923175547953200,
+		"id_str": "1191923175547953152",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n11월 6일 | ANXWERME, 김동인, 빨간양&amp;선민, HubbaBubbas, SEMA\nhttps://t.co/bMC4XHtkUW\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						119,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMC4XHtkUW",
+					"expanded_url": "http://bit.ly/36CgeXI",
+					"display_url": "bit.ly/36CgeXI",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n11월 6일 | ANXWERME, 김동인, 빨간양&amp;선민, HubbaBubbas, SEMA\nhttps://t.co/bMC4XHtkUW\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Wed Nov 06 03:30:38 +0000 2019",
+		"id": 1191920801618055200,
+		"id_str": "1191920801618055169",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] ANXWERME - Fall Asleep\nhttps://t.co/q5Qpu3YRj1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q5Qpu3YRj1",
+					"expanded_url": "https://youtu.be/sr4NBpaIMDg",
+					"display_url": "youtu.be/sr4NBpaIMDg",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] ANXWERME - Fall Asleep\nhttps://t.co/q5Qpu3YRj1"
+	},
+	{
+		"created_at": "Wed Nov 06 03:30:38 +0000 2019",
+		"id": 1191920799697047600,
+		"id_str": "1191920799697047553",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Kim dongin (김동인) - Mother’s Seed\nhttps://t.co/qGLiAhEBcl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qGLiAhEBcl",
+					"expanded_url": "https://youtu.be/XOissymrqIU",
+					"display_url": "youtu.be/XOissymrqIU",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Kim dongin (김동인) - Mother’s Seed\nhttps://t.co/qGLiAhEBcl"
+	},
+	{
 		"created_at": "Wed Nov 06 03:17:25 +0000 2019",
 		"id": 1191917473844670500,
 		"id_str": "1191917473844670464",
