@@ -1,6 +1,1420 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 05:13:39 +0000 2019",
+		"id": 1192301609188937700,
+		"id_str": "1192309112685694976",
+		"full_text": "[Asian Pop Stage 2019]\n이희문프로젝트 날[陧]\n경기민요를 모티브로 장르의 경계를 허무는 경기소리꾼 이희문의 신작 이희문프로젝트 날[陧]\n\n■일시 : 2019년 11월 29일(금)\n■예매처\n인터파크(30,000원) : https://t.co/9ZajRIwQdr\nGlobal Page Link(30,000won) : https://t.co/5pP6glhVIV https://t.co/BY3H5fPIrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZajRIwQdr",
+					"expanded_url": "https://bit.ly/2P5zyGg",
+					"display_url": "bit.ly/2P5zyGg",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/5pP6glhVIV",
+					"expanded_url": "https://bit.ly/2Nf6s6f",
+					"display_url": "bit.ly/2Nf6s6f",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192301600733192200,
+					"id_str": "1192301600733192192",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvn_SDU4AAp66G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvn_SDU4AAp66G.jpg",
+					"url": "https://t.co/BY3H5fPIrM",
+					"display_url": "pic.twitter.com/BY3H5fPIrM",
+					"expanded_url": "https://twitter.com/liveclubday/status/1192301609188937728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192301600733192200,
+					"id_str": "1192301600733192192",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvn_SDU4AAp66G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvn_SDU4AAp66G.jpg",
+					"url": "https://t.co/BY3H5fPIrM",
+					"display_url": "pic.twitter.com/BY3H5fPIrM",
+					"expanded_url": "https://twitter.com/liveclubday/status/1192301609188937728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/kyqNi9o44l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kyqNi9o44l",
+							"expanded_url": "http://bit.ly/2YgzGZw",
+							"display_url": "bit.ly/2YgzGZw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4033,
+			"friends_count": 676,
+			"listed_count": 38,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1570784115",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Asian Pop Stage 2019]\n이희문프로젝트 날[陧]\n경기민요를 모티브로 장르의 경계를 허무는 경기소리꾼 이희문의 신작 이희문프로젝트 날[陧]\n\n■일시 : 2019년 11월 29일(금)\n■예매처\n인터파크(30,000원) : https://t.co/9ZajRIwQdr\nGlobal Page Link(30,000won) : https://t.co/5pP6glhVIV https://t.co/BY3H5fPIrM"
+	},
+	{
+		"created_at": "Thu Nov 07 05:13:33 +0000 2019",
+		"id": 1192298412764487700,
+		"id_str": "1192309087024959488",
+		"full_text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;나인X빨간의자X오추프로젝트&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @네스트나다 \n\n※ 본 공연은 매진으로 현장판매는 진행되지 않습니다 ※ https://t.co/vUav8XK7Q1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192298398629580800,
+					"id_str": "1192298398629580800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlE5SVUAANtTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlE5SVUAANtTY.jpg",
+					"url": "https://t.co/vUav8XK7Q1",
+					"display_url": "pic.twitter.com/vUav8XK7Q1",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298412764487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "933610465585807361",
+									"screen_name": "REDCHAIR_2011",
+									"name": "빨간의자 RED CHAIR"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "814959722",
+									"screen_name": "nestNADA",
+									"name": "nestNADA"
+								},
+								{
+									"type": "user",
+									"user_id": "203218096",
+									"screen_name": "dearcloud_nine",
+									"name": "Nine"
+								},
+								{
+									"type": "user",
+									"user_id": "150566482",
+									"screen_name": "messenger_yoon",
+									"name": "엠와이뮤직(MYmusic Ent)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192298398629580800,
+					"id_str": "1192298398629580800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlE5SVUAANtTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlE5SVUAANtTY.jpg",
+					"url": "https://t.co/vUav8XK7Q1",
+					"display_url": "pic.twitter.com/vUav8XK7Q1",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298412764487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "933610465585807361",
+									"screen_name": "REDCHAIR_2011",
+									"name": "빨간의자 RED CHAIR"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "814959722",
+									"screen_name": "nestNADA",
+									"name": "nestNADA"
+								},
+								{
+									"type": "user",
+									"user_id": "203218096",
+									"screen_name": "dearcloud_nine",
+									"name": "Nine"
+								},
+								{
+									"type": "user",
+									"user_id": "150566482",
+									"screen_name": "messenger_yoon",
+									"name": "엠와이뮤직(MYmusic Ent)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1192298398625366000,
+					"id_str": "1192298398625366016",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlE5RVAAALImm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlE5RVAAALImm.jpg",
+					"url": "https://t.co/vUav8XK7Q1",
+					"display_url": "pic.twitter.com/vUav8XK7Q1",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298412764487682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "933610465585807361",
+									"screen_name": "REDCHAIR_2011",
+									"name": "빨간의자 RED CHAIR"
+								},
+								{
+									"type": "user",
+									"user_id": "2177785068",
+									"screen_name": "m_boyrecord",
+									"name": "모던보이엔터테인먼트"
+								},
+								{
+									"type": "user",
+									"user_id": "814959722",
+									"screen_name": "nestNADA",
+									"name": "nestNADA"
+								},
+								{
+									"type": "user",
+									"user_id": "203218096",
+									"screen_name": "dearcloud_nine",
+									"name": "Nine"
+								},
+								{
+									"type": "user",
+									"user_id": "150566482",
+									"screen_name": "messenger_yoon",
+									"name": "엠와이뮤직(MYmusic Ent)"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2802,
+			"friends_count": 2700,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;나인X빨간의자X오추프로젝트&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @네스트나다 \n\n※ 본 공연은 매진으로 현장판매는 진행되지 않습니다 ※ https://t.co/vUav8XK7Q1"
+	},
+	{
+		"created_at": "Thu Nov 07 05:13:27 +0000 2019",
+		"id": 1192298388319957000,
+		"id_str": "1192309065550123008",
+		"full_text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;용주X장희원X한살차이&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @카페 언플러그드 \n\n※ 본 공연은 매진으로 현장판매는 진행되지 않습니다 ※ https://t.co/rovaGmEcvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192298371492368400,
+					"id_str": "1192298371492368386",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlDUMUUAItx0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlDUMUUAItx0N.jpg",
+					"url": "https://t.co/rovaGmEcvc",
+					"display_url": "pic.twitter.com/rovaGmEcvc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298388319956992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "295474993",
+									"screen_name": "cafe_unplugged",
+									"name": "카페 언플러그드"
+								},
+								{
+									"type": "user",
+									"user_id": "1089786764602961921",
+									"screen_name": "OfficialYongzoo",
+									"name": "YONGZOO_OFFICIAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192298371492368400,
+					"id_str": "1192298371492368386",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlDUMUUAItx0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlDUMUUAItx0N.jpg",
+					"url": "https://t.co/rovaGmEcvc",
+					"display_url": "pic.twitter.com/rovaGmEcvc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298388319956992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "295474993",
+									"screen_name": "cafe_unplugged",
+									"name": "카페 언플러그드"
+								},
+								{
+									"type": "user",
+									"user_id": "1089786764602961921",
+									"screen_name": "OfficialYongzoo",
+									"name": "YONGZOO_OFFICIAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 777,
+									"y": 353,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 200,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2274,
+									"y": 1034,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1327,
+									"y": 603,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1192298371500822500,
+					"id_str": "1192298371500822528",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvlDUOVUAAZkyL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvlDUOVUAAZkyL.jpg",
+					"url": "https://t.co/rovaGmEcvc",
+					"display_url": "pic.twitter.com/rovaGmEcvc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192298388319956992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "295474993",
+									"screen_name": "cafe_unplugged",
+									"name": "카페 언플러그드"
+								},
+								{
+									"type": "user",
+									"user_id": "1089786764602961921",
+									"screen_name": "OfficialYongzoo",
+									"name": "YONGZOO_OFFICIAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2802,
+			"friends_count": 2700,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 씬디프레젠트 공연 안내]\n\n2019 XINDIE PRESENTS vol.5 \n&lt;용주X장희원X한살차이&gt;\n\n📍 예매교환 6:30 PM\n📍 입장시작 7:00 PM (예매번호순)\n📍 공연시작 7:30 PM @카페 언플러그드 \n\n※ 본 공연은 매진으로 현장판매는 진행되지 않습니다 ※ https://t.co/rovaGmEcvc"
+	},
+	{
+		"created_at": "Thu Nov 07 05:12:11 +0000 2019",
+		"id": 1192308746241945600,
+		"id_str": "1192308746241945602",
+		"full_text": "#인터파크티켓\n[콘서트] 바비킴 콘서트 〈사랑…그놈〉 -대구 티켓오픈 안내 : 19.11.11(월) 14:00\n▶ https://t.co/JT3Yo4bPDV\n　\n#인터파크 #티켓오픈공지 #티켓공지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JT3Yo4bPDV",
+					"expanded_url": "http://bit.ly/2ClHz2l",
+					"display_url": "bit.ly/2ClHz2l",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓\n[콘서트] 바비킴 콘서트 〈사랑…그놈〉 -대구 티켓오픈 안내 : 19.11.11(월) 14:00\n▶ https://t.co/JT3Yo4bPDV\n　\n#인터파크 #티켓오픈공지 #티켓공지"
+	},
+	{
+		"created_at": "Thu Nov 07 05:12:11 +0000 2019",
+		"id": 1192308744912277500,
+		"id_str": "1192308744912277504",
+		"full_text": "#인터파크티켓\n[뮤지컬] 뮤지컬 〈스토리오브마이라이프〉 2차 티켓오픈 안내 : 19.11.14(목) 13:00\n▶ https://t.co/DVllLotHkx\n　\n#인터파크 #티켓오픈공지 #티켓공지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DVllLotHkx",
+					"expanded_url": "http://bit.ly/33rOHX4",
+					"display_url": "bit.ly/33rOHX4",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓\n[뮤지컬] 뮤지컬 〈스토리오브마이라이프〉 2차 티켓오픈 안내 : 19.11.14(목) 13:00\n▶ https://t.co/DVllLotHkx\n　\n#인터파크 #티켓오픈공지 #티켓공지"
+	},
+	{
+		"created_at": "Thu Nov 07 05:12:11 +0000 2019",
+		"id": 1192308743331074000,
+		"id_str": "1192308743331074049",
+		"full_text": "#인터파크티켓\n[연극] 후회하는 자들 티켓오픈 안내 : 19.11.12(화) 14:00\n▶ https://t.co/hd8UbZo0l0\n　\n#인터파크 #티켓오픈공지 #티켓공지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hd8UbZo0l0",
+					"expanded_url": "http://bit.ly/2NOjMgP",
+					"display_url": "bit.ly/2NOjMgP",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓\n[연극] 후회하는 자들 티켓오픈 안내 : 19.11.12(화) 14:00\n▶ https://t.co/hd8UbZo0l0\n　\n#인터파크 #티켓오픈공지 #티켓공지"
+	},
+	{
 		"created_at": "Thu Nov 07 04:13:28 +0000 2019",
 		"id": 1192279176738308000,
 		"id_str": "1192293966764482561",
