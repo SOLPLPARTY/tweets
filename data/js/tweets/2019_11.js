@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 06:40:22 +0000 2019",
+		"id": 1192330938967117800,
+		"id_str": "1192330938967117825",
+		"full_text": "#인터파크티켓 #주요티켓오픈\n전기뱀장어 연말콘서트 ＇희망발전소 2019＇ 티켓오픈 안내 : 19.11.11(월) 20:00\n▶ https://t.co/0H0TNpbfgU\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/rzwfQpKHlf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0H0TNpbfgU",
+					"expanded_url": "http://bit.ly/2CnzRVm",
+					"display_url": "bit.ly/2CnzRVm",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192330937826259000,
+					"id_str": "1192330937826258945",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EIwCq7PXsAE9of9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIwCq7PXsAE9of9.jpg",
+					"url": "https://t.co/rzwfQpKHlf",
+					"display_url": "pic.twitter.com/rzwfQpKHlf",
+					"expanded_url": "https://twitter.com/solplparty/status/1192330938967117825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192330937826259000,
+					"id_str": "1192330937826258945",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EIwCq7PXsAE9of9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIwCq7PXsAE9of9.jpg",
+					"url": "https://t.co/rzwfQpKHlf",
+					"display_url": "pic.twitter.com/rzwfQpKHlf",
+					"expanded_url": "https://twitter.com/solplparty/status/1192330938967117825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #주요티켓오픈\n전기뱀장어 연말콘서트 ＇희망발전소 2019＇ 티켓오픈 안내 : 19.11.11(월) 20:00\n▶ https://t.co/0H0TNpbfgU\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/rzwfQpKHlf"
+	},
+	{
+		"created_at": "Thu Nov 07 06:19:54 +0000 2019",
+		"id": 1192320518004736000,
+		"id_str": "1192325788139507712",
+		"full_text": "[Seoul Jazz Festival : Who's Next?]\n.\nSJF2019\n#CleanBandit\n.\nWHO'S NEXT?\n@ Seoul Jazz Festival 2020\nComing Soon\n.\nJazz UP Your Soul https://t.co/6ZWGH6YbdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CleanBandit",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192319556301115400,
+					"id_str": "1192319556301115392",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192319556301115392/pu/img/yg3yyNy4XQxqKvOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192319556301115392/pu/img/yg3yyNy4XQxqKvOU.jpg",
+					"url": "https://t.co/6ZWGH6YbdZ",
+					"display_url": "pic.twitter.com/6ZWGH6YbdZ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1192320518004736001/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192319556301115400,
+					"id_str": "1192319556301115392",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1192319556301115392/pu/img/yg3yyNy4XQxqKvOU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1192319556301115392/pu/img/yg3yyNy4XQxqKvOU.jpg",
+					"url": "https://t.co/6ZWGH6YbdZ",
+					"display_url": "pic.twitter.com/6ZWGH6YbdZ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1192320518004736001/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42509,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192319556301115392/pu/vid/480x480/aeyDC-sgE2b6mt4F.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192319556301115392/pu/vid/720x720/amihmfdcynFqgEbM.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1192319556301115392/pu/vid/320x320/m68fIRoH-Se8DcT-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1192319556301115392/pu/pl/xZ86p3P-NMeD9HaP.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page. 올림픽공원https://t.co/DfF5mFbv4a",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DfF5mFbv4a",
+							"expanded_url": "http://facebook.com/seouljazzfestival",
+							"display_url": "facebook.com/seouljazzfesti…",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3185,
+			"friends_count": 40,
+			"listed_count": 37,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071961660879818753/f-vdyky2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071961660879818753/f-vdyky2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1559530299",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Seoul Jazz Festival : Who's Next?]\n.\nSJF2019\n#CleanBandit\n.\nWHO'S NEXT?\n@ Seoul Jazz Festival 2020\nComing Soon\n.\nJazz UP Your Soul https://t.co/6ZWGH6YbdZ"
+	},
+	{
 		"created_at": "Thu Nov 07 06:17:29 +0000 2019",
 		"id": 1192325178879070200,
 		"id_str": "1192325178879070208",
@@ -788,7 +1265,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Thu Nov 07 06:13:40 +0000 2019",
 		"id": 1192320052701188000,
 		"id_str": "1192324216181477377",
-		"full_text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n​사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL",
+		"full_text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1006,7 +1483,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n​사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL"
+		"text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL"
 	},
 	{
 		"created_at": "Thu Nov 07 06:13:34 +0000 2019",
