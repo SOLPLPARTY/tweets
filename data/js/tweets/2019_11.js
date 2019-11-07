@@ -1,6 +1,2114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 06:17:29 +0000 2019",
+		"id": 1192325178879070200,
+		"id_str": "1192325178879070208",
+		"full_text": "#인터파크티켓\n[콘서트] 전기뱀장어 연말콘서트 ＇희망발전소 2019＇ 티켓오픈 안내 : 19.11.11(월) 20:00\n▶ https://t.co/SY9LB63Vim\n　\n#인터파크 #티켓오픈공지 #티켓공지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SY9LB63Vim",
+					"expanded_url": "http://bit.ly/2NIR6py",
+					"display_url": "bit.ly/2NIR6py",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓\n[콘서트] 전기뱀장어 연말콘서트 ＇희망발전소 2019＇ 티켓오픈 안내 : 19.11.11(월) 20:00\n▶ https://t.co/SY9LB63Vim\n　\n#인터파크 #티켓오픈공지 #티켓공지"
+	},
+	{
+		"created_at": "Thu Nov 07 06:17:29 +0000 2019",
+		"id": 1192325177679532000,
+		"id_str": "1192325177679532034",
+		"full_text": "#인터파크티켓\n[콘서트] 송대관VS태진아 라이벌콘서트［한판붙자］-청주 티켓오픈 안내 : 19.11.13(수) 15:00\n▶ https://t.co/dzac1n37Bz\n　\n#인터파크 #티켓오픈공지 #티켓공지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dzac1n37Bz",
+					"expanded_url": "http://bit.ly/2rloqvk",
+					"display_url": "bit.ly/2rloqvk",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓\n[콘서트] 송대관VS태진아 라이벌콘서트［한판붙자］-청주 티켓오픈 안내 : 19.11.13(수) 15:00\n▶ https://t.co/dzac1n37Bz\n　\n#인터파크 #티켓오픈공지 #티켓공지"
+	},
+	{
+		"created_at": "Thu Nov 07 06:13:50 +0000 2019",
+		"id": 1192322384407040000,
+		"id_str": "1192324259189870594",
+		"full_text": "11/15(fri) [clubFF - Glamorous Indie Rock N Roll]\n유수림 Youthlim\n투데이올드스니커즈 2 day old sneakers\n꼬리물기 Gorymurgy\n별보라 https://t.co/987xjVUfC2.ra\n밤얘기 Bamyeki\n극동아시아타이거즈 Far east asia tigers\n럼킥스 Rumkicks\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/N3K0MHQmxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/987xjVUfC2",
+					"expanded_url": "http://Byeol.bo",
+					"display_url": "Byeol.bo",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192322349573361700,
+					"id_str": "1192322349573361665",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv63BgUUAEOOta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv63BgUUAEOOta.jpg",
+					"url": "https://t.co/N3K0MHQmxw",
+					"display_url": "pic.twitter.com/N3K0MHQmxw",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192322384407040000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 41,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192322349573361700,
+					"id_str": "1192322349573361665",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv63BgUUAEOOta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv63BgUUAEOOta.jpg",
+					"url": "https://t.co/N3K0MHQmxw",
+					"display_url": "pic.twitter.com/N3K0MHQmxw",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192322384407040000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 41,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1192322349569167400,
+					"id_str": "1192322349569167360",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv63BfUUAAQXcN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv63BfUUAAQXcN.jpg",
+					"url": "https://t.co/N3K0MHQmxw",
+					"display_url": "pic.twitter.com/N3K0MHQmxw",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192322384407040000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 41,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 895,
+									"y": 58,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6704,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/15(fri) [clubFF - Glamorous Indie Rock N Roll]\n유수림 Youthlim\n투데이올드스니커즈 2 day old sneakers\n꼬리물기 Gorymurgy\n별보라 https://t.co/987xjVUfC2.ra\n밤얘기 Bamyeki\n극동아시아타이거즈 Far east asia tigers\n럼킥스 Rumkicks\n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/N3K0MHQmxw"
+	},
+	{
+		"created_at": "Thu Nov 07 06:13:44 +0000 2019",
+		"id": 1192320056329302000,
+		"id_str": "1192324233466171392",
+		"full_text": "[Listen here]\nApple Music - https://t.co/qHnJjiP2BM\nMelon - https://t.co/bUJhn9JNgs\nGenie - https://t.co/bQbn2o6gvU\nBugs - https://t.co/SV3kQSJvP3\nVibe - https://t.co/YRDBXjanKS\nhttps://t.co/bc17UCns2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHnJjiP2BM",
+					"expanded_url": "https://apple.co/2Q0SXbQ",
+					"display_url": "apple.co/2Q0SXbQ",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/bUJhn9JNgs",
+					"expanded_url": "https://bit.ly/2qycS7i",
+					"display_url": "bit.ly/2qycS7i",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/bQbn2o6gvU",
+					"expanded_url": "https://bit.ly/2NpEnJy",
+					"display_url": "bit.ly/2NpEnJy",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/SV3kQSJvP3",
+					"expanded_url": "https://bit.ly/2pNJNoB",
+					"display_url": "bit.ly/2pNJNoB",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/YRDBXjanKS",
+					"expanded_url": "https://bit.ly/2pEXjLm",
+					"display_url": "bit.ly/2pEXjLm",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/bc17UCns2o",
+					"expanded_url": "https://youtu.be/XX4Uky-A9I0",
+					"display_url": "youtu.be/XX4Uky-A9I0",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1192320052701188000,
+		"in_reply_to_status_id_str": "1192320052701188096",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9819,
+			"friends_count": 2997,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Listen here]\nApple Music - https://t.co/qHnJjiP2BM\nMelon - https://t.co/bUJhn9JNgs\nGenie - https://t.co/bQbn2o6gvU\nBugs - https://t.co/SV3kQSJvP3\nVibe - https://t.co/YRDBXjanKS\nhttps://t.co/bc17UCns2o"
+	},
+	{
+		"created_at": "Thu Nov 07 06:13:40 +0000 2019",
+		"id": 1192320052701188000,
+		"id_str": "1192324216181477377",
+		"full_text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n​사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LR4DX5kK4C",
+					"expanded_url": "https://bit.ly/32lPk2L",
+					"display_url": "bit.ly/32lPk2L",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192320043696062500,
+					"id_str": "1192320043696062464",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv4wzcVAAAnOG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv4wzcVAAAnOG0.jpg",
+					"url": "https://t.co/brj2pRPHSL",
+					"display_url": "pic.twitter.com/brj2pRPHSL",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1192320052701188096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192320043696062500,
+					"id_str": "1192320043696062464",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv4wzcVAAAnOG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv4wzcVAAAnOG0.jpg",
+					"url": "https://t.co/brj2pRPHSL",
+					"display_url": "pic.twitter.com/brj2pRPHSL",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1192320052701188096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9819,
+			"friends_count": 2997,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release November 7\n-\n💿 The Bowls\n[If We Love Without Romance] '우리 모두 처음 겪는 일'\n\n​사랑과 삶, 그리고 로맨스를 노래하다 / The Bowls [If We Love Without Romance]\n\n✚ 앨범 자세히 보기: https://t.co/LR4DX5kK4C https://t.co/brj2pRPHSL"
+	},
+	{
+		"created_at": "Thu Nov 07 06:13:34 +0000 2019",
+		"id": 1192312528967127000,
+		"id_str": "1192324194719207424",
+		"full_text": "11/10(sun) [Some Might Say]\n무릉도원 MRD1\n락킷걸 Rockitgirl\n필로우톡 Pillowtalk\n다듬어지지않은손 Unfixed Hand\n검은잎 Balck Leaf\n\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/v15m4bfTRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192312507622289400,
+					"id_str": "1192312507622289408",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvx6JYU8AAFmyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvx6JYU8AAFmyz.jpg",
+					"url": "https://t.co/v15m4bfTRM",
+					"display_url": "pic.twitter.com/v15m4bfTRM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192312528967127043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192312507622289400,
+					"id_str": "1192312507622289408",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvx6JYU8AAFmyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvx6JYU8AAFmyz.jpg",
+					"url": "https://t.co/v15m4bfTRM",
+					"display_url": "pic.twitter.com/v15m4bfTRM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192312528967127043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1192312507072823300,
+					"id_str": "1192312507072823296",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvx6HVUwAA5kVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvx6HVUwAA5kVb.jpg",
+					"url": "https://t.co/v15m4bfTRM",
+					"display_url": "pic.twitter.com/v15m4bfTRM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192312528967127043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 498,
+									"y": 166,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 498,
+									"y": 166,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 498,
+									"y": 166,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 117,
+									"h": 24,
+									"w": 24
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6704,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/10(sun) [Some Might Say]\n무릉도원 MRD1\n락킷걸 Rockitgirl\n필로우톡 Pillowtalk\n다듬어지지않은손 Unfixed Hand\n검은잎 Balck Leaf\n\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/v15m4bfTRM"
+	},
+	{
+		"created_at": "Thu Nov 07 06:13:27 +0000 2019",
+		"id": 1192309229123592200,
+		"id_str": "1192324164608237568",
+		"full_text": "11/9(토)[club FF - A-Punk]\n차세대 The Next Generation\n오프이 Offe\n드라이브샤워 Drive shower\n동이혼 DIH\n아디오스오디오 Adios Audio\n라쿠나 Lacuna\n에이치얼랏 H A Lot\n데드버튼즈 Dead buttons\n더바이퍼스 The Vipers\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/57j9eoRtaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192309217748635600,
+					"id_str": "1192309217748635651",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvu6ppU0AMSA8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvu6ppU0AMSA8h.jpg",
+					"url": "https://t.co/57j9eoRtaA",
+					"display_url": "pic.twitter.com/57j9eoRtaA",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192309229123592192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 497,
+									"h": 28,
+									"w": 28
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192309217748635600,
+					"id_str": "1192309217748635651",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvu6ppU0AMSA8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvu6ppU0AMSA8h.jpg",
+					"url": "https://t.co/57j9eoRtaA",
+					"display_url": "pic.twitter.com/57j9eoRtaA",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192309229123592192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 703,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 497,
+									"h": 28,
+									"w": 28
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1192309217744437200,
+					"id_str": "1192309217744437250",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EIvu6poUwAIZ5rK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIvu6poUwAIZ5rK.jpg",
+					"url": "https://t.co/57j9eoRtaA",
+					"display_url": "pic.twitter.com/57j9eoRtaA",
+					"expanded_url": "https://twitter.com/clubFF_/status/1192309229123592192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6704,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/9(토)[club FF - A-Punk]\n차세대 The Next Generation\n오프이 Offe\n드라이브샤워 Drive shower\n동이혼 DIH\n아디오스오디오 Adios Audio\n라쿠나 Lacuna\n에이치얼랏 H A Lot\n데드버튼즈 Dead buttons\n더바이퍼스 The Vipers\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/57j9eoRtaA"
+	},
+	{
+		"created_at": "Thu Nov 07 06:10:26 +0000 2019",
+		"id": 1192323406043242500,
+		"id_str": "1192323406043242497",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지X] MARBLING STUDIO_TEASER\nhttps://t.co/1tbOC2SXHl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tbOC2SXHl",
+					"expanded_url": "https://youtu.be/wdjmBQRRUhk",
+					"display_url": "youtu.be/wdjmBQRRUhk",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지X] MARBLING STUDIO_TEASER\nhttps://t.co/1tbOC2SXHl"
+	},
+	{
+		"created_at": "Thu Nov 07 06:04:24 +0000 2019",
+		"id": 1192321885134098400,
+		"id_str": "1192321885134098437",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 바비핀스 (Bobby Pins) - 하지 말래 (Don't Do It)\nhttps://t.co/t7qEF94cTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t7qEF94cTh",
+					"expanded_url": "https://youtu.be/G8Sc7IztLSc",
+					"display_url": "youtu.be/G8Sc7IztLSc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 바비핀스 (Bobby Pins) - 하지 말래 (Don't Do It)\nhttps://t.co/t7qEF94cTh"
+	},
+	{
+		"created_at": "Thu Nov 07 05:55:37 +0000 2019",
+		"id": 1192319674169598000,
+		"id_str": "1192319674169597952",
+		"full_text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.11.13(수) WINTER of ZAIRO（Christmas Preview）티켓 오픈 안내\n▶ https://t.co/Js6hLxLgn7\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/fWtarMPOMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Js6hLxLgn7",
+					"expanded_url": "http://bit.ly/2CnfRlX",
+					"display_url": "bit.ly/2CnfRlX",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192319672621949000,
+					"id_str": "1192319672621948929",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv4bNFXYAE_ErV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv4bNFXYAE_ErV.jpg",
+					"url": "https://t.co/fWtarMPOMD",
+					"display_url": "pic.twitter.com/fWtarMPOMD",
+					"expanded_url": "https://twitter.com/solplparty/status/1192319674169597952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192319672621949000,
+					"id_str": "1192319672621948929",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EIv4bNFXYAE_ErV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIv4bNFXYAE_ErV.jpg",
+					"url": "https://t.co/fWtarMPOMD",
+					"display_url": "pic.twitter.com/fWtarMPOMD",
+					"expanded_url": "https://twitter.com/solplparty/status/1192319674169597952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론티켓 #Melon_Ticket\n[오픈] 19.11.13(수) WINTER of ZAIRO（Christmas Preview）티켓 오픈 안내\n▶ https://t.co/Js6hLxLgn7\n　\n#Melon #멜론\n#티켓오픈소식 #공연일정 #티켓공지 https://t.co/fWtarMPOMD"
+	},
+	{
 		"created_at": "Thu Nov 07 05:13:39 +0000 2019",
 		"id": 1192301609188937700,
 		"id_str": "1192309112685694976",
