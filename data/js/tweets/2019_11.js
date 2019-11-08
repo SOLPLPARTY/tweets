@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 14:13:28 +0000 2019",
+		"id": 1192796173737660400,
+		"id_str": "1192807349557366785",
+		"full_text": "[2019 씬디프레젠트]\n\n&lt;2019 XINDIE PRESENTS vol.5&gt;가 성황리에 마무리되었습니다! \n3일간 씬디 프레젠트를 찾아주신 모든 관객 분들께 감사드리고, \n모두 집에 조심히 돌아가세요☺️\n\n씬디프레젠트는 내년에 또 만나요👋🏻 https://t.co/C3bzBRbf6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192796160030720000,
+					"id_str": "1192796160030720000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EI2pybAUwAAW-ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI2pybAUwAAW-ER.jpg",
+					"url": "https://t.co/C3bzBRbf6E",
+					"display_url": "pic.twitter.com/C3bzBRbf6E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192796173737660419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1300,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192796160030720000,
+					"id_str": "1192796160030720000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EI2pybAUwAAW-ER.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI2pybAUwAAW-ER.jpg",
+					"url": "https://t.co/C3bzBRbf6E",
+					"display_url": "pic.twitter.com/C3bzBRbf6E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192796173737660419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 432,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1300,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1192796160030756900,
+					"id_str": "1192796160030756865",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EI2pybAVUAED-dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI2pybAVUAED-dG.jpg",
+					"url": "https://t.co/C3bzBRbf6E",
+					"display_url": "pic.twitter.com/C3bzBRbf6E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192796173737660419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 905,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1192796160030724000,
+					"id_str": "1192796160030724097",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EI2pybAU0AEA4tR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI2pybAU0AEA4tR.jpg",
+					"url": "https://t.co/C3bzBRbf6E",
+					"display_url": "pic.twitter.com/C3bzBRbf6E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192796173737660419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 668,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 668,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 668,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1192796160022311000,
+					"id_str": "1192796160022310917",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EI2pya-UcAUkzCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI2pya-UcAUkzCt.jpg",
+					"url": "https://t.co/C3bzBRbf6E",
+					"display_url": "pic.twitter.com/C3bzBRbf6E",
+					"expanded_url": "https://twitter.com/xindieticket/status/1192796173737660419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 878,
+							"h": 507,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 507,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2803,
+			"friends_count": 2701,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 씬디프레젠트]\n\n&lt;2019 XINDIE PRESENTS vol.5&gt;가 성황리에 마무리되었습니다! \n3일간 씬디 프레젠트를 찾아주신 모든 관객 분들께 감사드리고, \n모두 집에 조심히 돌아가세요☺️\n\n씬디프레젠트는 내년에 또 만나요👋🏻 https://t.co/C3bzBRbf6E"
+	},
+	{
 		"created_at": "Fri Nov 08 13:06:12 +0000 2019",
 		"id": 1192790421858062300,
 		"id_str": "1192790421858062336",
