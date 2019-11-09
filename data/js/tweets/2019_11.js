@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 08:13:29 +0000 2019",
+		"id": 1193070240629809200,
+		"id_str": "1193079148476092418",
+		"full_text": "심장소리를 이렇게 노래로 표현할 수 있다니👀 듣기만 해도 심장이 우두두두 뛰는 \n김창완밴드의 곡 🎼우두두다다 🎶\n\n함께 들어요💗\n\n[EBS 스페이스 공감] 미공개 영상 김창완밴드 - 우두두다다 https://t.co/w9eLIlLyQn - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w9eLIlLyQn",
+					"expanded_url": "https://youtu.be/A5c11egeXyI",
+					"display_url": "youtu.be/A5c11egeXyI",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273895,
+			"friends_count": 20273,
+			"listed_count": 831,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심장소리를 이렇게 노래로 표현할 수 있다니👀 듣기만 해도 심장이 우두두두 뛰는 \n김창완밴드의 곡 🎼우두두다다 🎶\n\n함께 들어요💗\n\n[EBS 스페이스 공감] 미공개 영상 김창완밴드 - 우두두다다 https://t.co/w9eLIlLyQn - @YouTube"
+	},
+	{
 		"created_at": "Sat Nov 09 07:13:28 +0000 2019",
 		"id": 1193063690246881300,
 		"id_str": "1193064041662631938",
