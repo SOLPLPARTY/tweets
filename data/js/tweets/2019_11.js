@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 09:13:27 +0000 2019",
+		"id": 1193093821250171000,
+		"id_str": "1193094238709391360",
+		"full_text": "[2019 서울뮤직포럼]\n\n오늘 '2019 서울뮤직포럼'의 마지막 순서로 \nEGO 엔터테인먼트 소속 그리즐리의 멋진 무대가 진행중입니다.\n\n오늘 방문해주신 모든 분들께 감사드리고, 내일도 알찬 공연들로 찾아뵐 예정이니 많은 기대 부탁드립니다! https://t.co/sLAX0TRmL5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193093807018922000,
+					"id_str": "1193093807018921985",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EI64fwcU0AE8UCr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI64fwcU0AE8UCr.jpg",
+					"url": "https://t.co/sLAX0TRmL5",
+					"display_url": "pic.twitter.com/sLAX0TRmL5",
+					"expanded_url": "https://twitter.com/record_liak/status/1193093821250170880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 443,
+									"y": 349,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 454,
+									"y": 474,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193093807018922000,
+					"id_str": "1193093807018921985",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EI64fwcU0AE8UCr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI64fwcU0AE8UCr.jpg",
+					"url": "https://t.co/sLAX0TRmL5",
+					"display_url": "pic.twitter.com/sLAX0TRmL5",
+					"expanded_url": "https://twitter.com/record_liak/status/1193093821250170880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 494,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 641,
+									"y": 670,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 443,
+									"y": 349,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 454,
+									"y": 474,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "플럭서스/루비레코드/엠와이뮤직/주식회사 엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/문화인/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/마들렌뮤직/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2217,
+			"friends_count": 2137,
+			"listed_count": 42,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 서울뮤직포럼]\n\n오늘 '2019 서울뮤직포럼'의 마지막 순서로 \nEGO 엔터테인먼트 소속 그리즐리의 멋진 무대가 진행중입니다.\n\n오늘 방문해주신 모든 분들께 감사드리고, 내일도 알찬 공연들로 찾아뵐 예정이니 많은 기대 부탁드립니다! https://t.co/sLAX0TRmL5"
+	},
+	{
 		"created_at": "Sat Nov 09 08:13:29 +0000 2019",
 		"id": 1193070240629809200,
 		"id_str": "1193079148476092418",
