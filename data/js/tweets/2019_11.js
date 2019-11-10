@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 07:13:27 +0000 2019",
+		"id": 1193412659787362300,
+		"id_str": "1193426427657494528",
+		"full_text": "[2019 서울뮤직포럼]\n\n마지막 포럼 주제인 \"히트곡 제조법 : 희망편 1988-2019\"가 시작되었습니다. \n사전등록을 하지 않은 분들은 현장등록으로 참여하실 수 있으며, 오늘의 포럼은 4시 30분에 모두 마무리됩니다. \n2019 서울뮤직포럼 포럼장을 찾아주신 모든 분들께 감사드립니다. https://t.co/jiTZlvo8wF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193412644843081700,
+					"id_str": "1193412644843081733",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_aej5U0AUGS1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_aej5U0AUGS1H.jpg",
+					"url": "https://t.co/jiTZlvo8wF",
+					"display_url": "pic.twitter.com/jiTZlvo8wF",
+					"expanded_url": "https://twitter.com/record_liak/status/1193412659787362304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 686,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 880,
+									"y": 578,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 876,
+									"y": 615,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 389,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 498,
+									"y": 328,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 496,
+									"y": 348,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1188,
+									"y": 1172,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1502,
+									"y": 988,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1496,
+									"y": 1050,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2376,
+									"y": 2344,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 3004,
+									"y": 1976,
+									"h": 296,
+									"w": 296
+								},
+								{
+									"x": 2992,
+									"y": 2100,
+									"h": 324,
+									"w": 324
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193412644843081700,
+					"id_str": "1193412644843081733",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_aej5U0AUGS1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_aej5U0AUGS1H.jpg",
+					"url": "https://t.co/jiTZlvo8wF",
+					"display_url": "pic.twitter.com/jiTZlvo8wF",
+					"expanded_url": "https://twitter.com/record_liak/status/1193412659787362304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 686,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 880,
+									"y": 578,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 876,
+									"y": 615,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 389,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 498,
+									"y": 328,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 496,
+									"y": 348,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1188,
+									"y": 1172,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1502,
+									"y": 988,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 1496,
+									"y": 1050,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2376,
+									"y": 2344,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 3004,
+									"y": 1976,
+									"h": 296,
+									"w": 296
+								},
+								{
+									"x": 2992,
+									"y": 2100,
+									"h": 324,
+									"w": 324
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "플럭서스/루비레코드/엠와이뮤직/주식회사 엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/문화인/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/마들렌뮤직/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2217,
+			"friends_count": 2138,
+			"listed_count": 42,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 서울뮤직포럼]\n\n마지막 포럼 주제인 \"히트곡 제조법 : 희망편 1988-2019\"가 시작되었습니다. \n사전등록을 하지 않은 분들은 현장등록으로 참여하실 수 있으며, 오늘의 포럼은 4시 30분에 모두 마무리됩니다. \n2019 서울뮤직포럼 포럼장을 찾아주신 모든 분들께 감사드립니다. https://t.co/jiTZlvo8wF"
+	},
+	{
 		"created_at": "Sun Nov 10 06:13:28 +0000 2019",
 		"id": 1193400420246253600,
 		"id_str": "1193411329748537344",
