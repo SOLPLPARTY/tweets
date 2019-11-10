@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 13:13:27 +0000 2019",
+		"id": 1193512190126346200,
+		"id_str": "1193517024632344576",
+		"full_text": "'다시 만날 수 있을까?'\n&lt;#윤희에게&gt; 개봉 첫 주 예매 오픈💌\n-\n11/14(목) 11:00(조조), 19:40\n11/15(금) 15:10, 19:50\n11/16(토) 16:20, 20:30\n11/17(일) 15:10\n\n#임대형 #김희애 #김소혜 #성유빈\n#상상마당 #상상마당시네마 https://t.co/y9pL47DT3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤희에게",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "임대형",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "김희애",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "김소혜",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "성유빈",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						157,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193512045796151300,
+					"id_str": "1193512045796151296",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193512045796151296/pu/img/Z3M0NvzhsjQU7QxT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193512045796151296/pu/img/Z3M0NvzhsjQU7QxT.jpg",
+					"url": "https://t.co/y9pL47DT3i",
+					"display_url": "pic.twitter.com/y9pL47DT3i",
+					"expanded_url": "https://twitter.com/SSmadang/status/1193512190126346246/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193512045796151300,
+					"id_str": "1193512045796151296",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1193512045796151296/pu/img/Z3M0NvzhsjQU7QxT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1193512045796151296/pu/img/Z3M0NvzhsjQU7QxT.jpg",
+					"url": "https://t.co/y9pL47DT3i",
+					"display_url": "pic.twitter.com/y9pL47DT3i",
+					"expanded_url": "https://twitter.com/SSmadang/status/1193512190126346246/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75528,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1193512045796151296/pu/vid/480x270/S7nQXrAfwyoUihfe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1193512045796151296/pu/pl/KGmmjjSExP6jRRpc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1193512045796151296/pu/vid/1280x720/hvtMqtYuLX6b6b0x.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1193512045796151296/pu/vid/640x360/Kgyluwrh3VfEYerA.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19237,
+			"friends_count": 2005,
+			"listed_count": 320,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'다시 만날 수 있을까?'\n&lt;#윤희에게&gt; 개봉 첫 주 예매 오픈💌\n-\n11/14(목) 11:00(조조), 19:40\n11/15(금) 15:10, 19:50\n11/16(토) 16:20, 20:30\n11/17(일) 15:10\n\n#임대형 #김희애 #김소혜 #성유빈\n#상상마당 #상상마당시네마 https://t.co/y9pL47DT3i"
+	},
+	{
 		"created_at": "Sun Nov 10 11:42:22 +0000 2019",
 		"id": 1193494103104864300,
 		"id_str": "1193494103104864263",
