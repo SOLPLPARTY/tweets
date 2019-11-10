@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 07:18:16 +0000 2019",
+		"id": 1193426462881153000,
+		"id_str": "1193427639471611904",
+		"full_text": "#20191110\n#정준일 #콘서트 #이대삼성홀\n오늘은 이대 행사로 인하여\n정문으로 차량진입이 불가 합니다\n후문으로 들어오셔서 ECC 주차장을 이용해주세요\nECC 주차장은 어디로 들어오셔도 모두 연결되어 있습니다 https://t.co/ZgUqhLqtms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "이대삼성홀",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193426453573980200,
+					"id_str": "1193426453573980163",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_nCVbU0AMXRAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_nCVbU0AMXRAV.jpg",
+					"url": "https://t.co/ZgUqhLqtms",
+					"display_url": "pic.twitter.com/ZgUqhLqtms",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1193426462881153033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193426453573980200,
+					"id_str": "1193426453573980163",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_nCVbU0AMXRAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_nCVbU0AMXRAV.jpg",
+					"url": "https://t.co/ZgUqhLqtms",
+					"display_url": "pic.twitter.com/ZgUqhLqtms",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1193426462881153033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2850,
+			"friends_count": 368,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 15930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20191110\n#정준일 #콘서트 #이대삼성홀\n오늘은 이대 행사로 인하여\n정문으로 차량진입이 불가 합니다\n후문으로 들어오셔서 ECC 주차장을 이용해주세요\nECC 주차장은 어디로 들어오셔도 모두 연결되어 있습니다 https://t.co/ZgUqhLqtms"
+	},
+	{
 		"created_at": "Sun Nov 10 07:13:27 +0000 2019",
 		"id": 1193412659787362300,
 		"id_str": "1193426427657494528",
