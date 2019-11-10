@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 10:13:28 +0000 2019",
+		"id": 1193461584670052400,
+		"id_str": "1193471727763951616",
+		"full_text": "[Asian Pop Stage 2019]\n나인 (디어클라우드)\n위로와 공감의 목소리, 디어 클라우드의 보컬 나인.\n\n■일시 : 2019년 11월 29일(금)\n■예매처\n인터파크(30,000원) : https://t.co/9ZajRIwQdr\nGlobal Page Link(30,000won) : https://t.co/5pP6glhVIV\n청소년(20,000원)  : https://t.co/EFCISoxym7 https://t.co/iB7i3INfsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZajRIwQdr",
+					"expanded_url": "https://bit.ly/2P5zyGg",
+					"display_url": "bit.ly/2P5zyGg",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/5pP6glhVIV",
+					"expanded_url": "https://bit.ly/2Nf6s6f",
+					"display_url": "bit.ly/2Nf6s6f",
+					"indices": [
+						163,
+						186
+					]
+				},
+				{
+					"url": "https://t.co/EFCISoxym7",
+					"expanded_url": "https://bit.ly/33f7jcE",
+					"display_url": "bit.ly/33f7jcE",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193461565770461200,
+					"id_str": "1193461565770461184",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EJAG-IjUcAAtTHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJAG-IjUcAAtTHu.jpg",
+					"url": "https://t.co/iB7i3INfsz",
+					"display_url": "pic.twitter.com/iB7i3INfsz",
+					"expanded_url": "https://twitter.com/liveclubday/status/1193461584670052352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193461565770461200,
+					"id_str": "1193461565770461184",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EJAG-IjUcAAtTHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJAG-IjUcAAtTHu.jpg",
+					"url": "https://t.co/iB7i3INfsz",
+					"display_url": "pic.twitter.com/iB7i3INfsz",
+					"expanded_url": "https://twitter.com/liveclubday/status/1193461584670052352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/kyqNi9o44l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kyqNi9o44l",
+							"expanded_url": "http://bit.ly/2YgzGZw",
+							"display_url": "bit.ly/2YgzGZw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4030,
+			"friends_count": 676,
+			"listed_count": 38,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1570784115",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Asian Pop Stage 2019]\n나인 (디어클라우드)\n위로와 공감의 목소리, 디어 클라우드의 보컬 나인.\n\n■일시 : 2019년 11월 29일(금)\n■예매처\n인터파크(30,000원) : https://t.co/9ZajRIwQdr\nGlobal Page Link(30,000won) : https://t.co/5pP6glhVIV\n청소년(20,000원)  : https://t.co/EFCISoxym7 https://t.co/iB7i3INfsz"
+	},
+	{
+		"created_at": "Sun Nov 10 09:18:22 +0000 2019",
+		"id": 1193454953970323500,
+		"id_str": "1193457860665102336",
+		"full_text": "[바닐라 어쿠스틱 '부족해' 바로 듣기]\n멜론 https://t.co/RK8Wuaczu1 \n지니 https://t.co/RqRULTGOEK\n플로  https://t.co/Mw4kdNuw1S\n벅스 https://t.co/B5hNSN1luL\n올레  https://t.co/lHtzKA2ufr\n네이버뮤직 https://t.co/BRB6e3CnVN\n소리바다  https://t.co/x8HmOWJheb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RK8Wuaczu1",
+					"expanded_url": "http://kko.to/PGdRBiljj",
+					"display_url": "kko.to/PGdRBiljj",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/RqRULTGOEK",
+					"expanded_url": "http://www.genie.co.kr/X28X35",
+					"display_url": "genie.co.kr/X28X35",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/Mw4kdNuw1S",
+					"expanded_url": "https://www.music-flo.com/detail/album/edennynya/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/B5hNSN1luL",
+					"expanded_url": "https://music.bugs.co.kr/album/20287506",
+					"display_url": "music.bugs.co.kr/album/20287506",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/lHtzKA2ufr",
+					"expanded_url": "http://tinyurl.com/uaf3jer",
+					"display_url": "tinyurl.com/uaf3jer",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/BRB6e3CnVN",
+					"expanded_url": "http://naver.me/G4yuhYa7",
+					"display_url": "naver.me/G4yuhYa7",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/x8HmOWJheb",
+					"expanded_url": "http://www.soribada.com/music/album/KD0135591",
+					"display_url": "soribada.com/music/album/KD…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1193454947704037400,
+		"in_reply_to_status_id_str": "1193454947704037381",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7608,
+			"friends_count": 10,
+			"listed_count": 70,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[바닐라 어쿠스틱 '부족해' 바로 듣기]\n멜론 https://t.co/RK8Wuaczu1 \n지니 https://t.co/RqRULTGOEK\n플로  https://t.co/Mw4kdNuw1S\n벅스 https://t.co/B5hNSN1luL\n올레  https://t.co/lHtzKA2ufr\n네이버뮤직 https://t.co/BRB6e3CnVN\n소리바다  https://t.co/x8HmOWJheb"
+	},
+	{
 		"created_at": "Sun Nov 10 09:13:27 +0000 2019",
 		"id": 1193448874624471000,
 		"id_str": "1193456626138783744",
