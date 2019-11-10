@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 06:13:28 +0000 2019",
+		"id": 1193400420246253600,
+		"id_str": "1193411329748537344",
+		"full_text": "[신규 입고]\n\n#신바람 과 아디오스 오디오의 스티커가 입고되었습니다!\n쌀쌀해진 날씨에도 직접 예쁜 스티커들을 가져다주신 팬분들께 모두 감사드립니다😍 https://t.co/FNNX1c5f5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신바람",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193400401938153500,
+					"id_str": "1193400401938153472",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_PV7hVAAAwSu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_PV7hVAAAwSu_.jpg",
+					"url": "https://t.co/FNNX1c5f5J",
+					"display_url": "pic.twitter.com/FNNX1c5f5J",
+					"expanded_url": "https://twitter.com/xindieticket/status/1193400420246253569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4758838555",
+									"screen_name": "adios_audio",
+									"name": "AdiosAudio//아디오스오디오"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 171,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 73,
+									"y": 218,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 100,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 19,
+									"y": 57,
+									"h": 31,
+									"w": 31
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193400401938153500,
+					"id_str": "1193400401938153472",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_PV7hVAAAwSu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_PV7hVAAAwSu_.jpg",
+					"url": "https://t.co/FNNX1c5f5J",
+					"display_url": "pic.twitter.com/FNNX1c5f5J",
+					"expanded_url": "https://twitter.com/xindieticket/status/1193400420246253569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4758838555",
+									"screen_name": "adios_audio",
+									"name": "AdiosAudio//아디오스오디오"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 57,
+									"y": 171,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 73,
+									"y": 218,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 100,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 19,
+									"y": 57,
+									"h": 31,
+									"w": 31
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193400401942311000,
+					"id_str": "1193400401942310914",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_PV7iUcAI659s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_PV7iUcAI659s.jpg",
+					"url": "https://t.co/FNNX1c5f5J",
+					"display_url": "pic.twitter.com/FNNX1c5f5J",
+					"expanded_url": "https://twitter.com/xindieticket/status/1193400420246253569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4758838555",
+									"screen_name": "adios_audio",
+									"name": "AdiosAudio//아디오스오디오"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 837,
+									"h": 597,
+									"w": 597
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 1649,
+									"h": 1177,
+									"w": 1177
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 94,
+									"y": 490,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 278,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804,
+			"friends_count": 2702,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176691990571995137/6McAgtls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1569380208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n\n#신바람 과 아디오스 오디오의 스티커가 입고되었습니다!\n쌀쌀해진 날씨에도 직접 예쁜 스티커들을 가져다주신 팬분들께 모두 감사드립니다😍 https://t.co/FNNX1c5f5J"
+	},
+	{
 		"created_at": "Sun Nov 10 05:13:27 +0000 2019",
 		"id": 1193391156756795400,
 		"id_str": "1193396229033603072",
