@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 15:13:28 +0000 2019",
+		"id": 1193538883348091000,
+		"id_str": "1193547224841621504",
+		"full_text": "이틀 동안 #서울레코드페어 #재미공작소 부스를 찾아주신 여러분 감사합니다💚\n오랜만에 만난 반가운 얼굴들, 늘 응원해주는 고마운 친구들, 사랑하는 뮤지션과 동료들 덕분에 행복한 시간이었습니다. \n\n수고해주신 주최 측과 스태프 여러분께도 감사드립니다. https://t.co/Bnfhnv02As",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울레코드페어",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "재미공작소",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193538852339646500,
+					"id_str": "1193538852339646464",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBNQzdVAAA-SV4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBNQzdVAAA-SV4.jpg",
+					"url": "https://t.co/Bnfhnv02As",
+					"display_url": "pic.twitter.com/Bnfhnv02As",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1193538883348090882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 336,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 178,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 453,
+									"y": 592,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 315,
+									"y": 426,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 774,
+									"y": 1012,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 538,
+									"y": 728,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 774,
+									"y": 1012,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 538,
+									"y": 728,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193538852339646500,
+					"id_str": "1193538852339646464",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBNQzdVAAA-SV4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBNQzdVAAA-SV4.jpg",
+					"url": "https://t.co/Bnfhnv02As",
+					"display_url": "pic.twitter.com/Bnfhnv02As",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1193538883348090882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 256,
+									"y": 336,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 178,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 453,
+									"y": 592,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 315,
+									"y": 426,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 774,
+									"y": 1012,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 538,
+									"y": 728,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 774,
+									"y": 1012,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 538,
+									"y": 728,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193538852335390700,
+					"id_str": "1193538852335390722",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBNQzcUEAIPVhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBNQzcUEAIPVhv.jpg",
+					"url": "https://t.co/Bnfhnv02As",
+					"display_url": "pic.twitter.com/Bnfhnv02As",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1193538883348090882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1268,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 38,
+									"y": 454,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 12,
+									"y": 150,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 266,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 38,
+									"y": 454,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1193538852343799800,
+					"id_str": "1193538852343799809",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBNQzeUYAEgQ10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBNQzeUYAEgQ10.jpg",
+					"url": "https://t.co/Bnfhnv02As",
+					"display_url": "pic.twitter.com/Bnfhnv02As",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1193538883348090882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1193538852339646500,
+					"id_str": "1193538852339646465",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EJBNQzdVAAE5Wzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJBNQzdVAAE5Wzf.jpg",
+					"url": "https://t.co/Bnfhnv02As",
+					"display_url": "pic.twitter.com/Bnfhnv02As",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1193538883348090882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 269,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 308,
+									"y": 279,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 370,
+									"y": 289,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 381,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 435,
+									"y": 394,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 523,
+									"y": 409,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 381,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 435,
+									"y": 394,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 523,
+									"y": 409,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 381,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 435,
+									"y": 394,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 523,
+									"y": 409,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1193358438270529500,
+		"in_reply_to_status_id_str": "1193358438270529537",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8148,
+			"friends_count": 601,
+			"listed_count": 113,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이틀 동안 #서울레코드페어 #재미공작소 부스를 찾아주신 여러분 감사합니다💚\n오랜만에 만난 반가운 얼굴들, 늘 응원해주는 고마운 친구들, 사랑하는 뮤지션과 동료들 덕분에 행복한 시간이었습니다. \n\n수고해주신 주최 측과 스태프 여러분께도 감사드립니다. https://t.co/Bnfhnv02As"
+	},
+	{
 		"created_at": "Sun Nov 10 14:13:27 +0000 2019",
 		"id": 1193523228666400800,
 		"id_str": "1193532124185399297",
