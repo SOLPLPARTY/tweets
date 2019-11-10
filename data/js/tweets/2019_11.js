@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 05:13:27 +0000 2019",
+		"id": 1193391156756795400,
+		"id_str": "1193396229033603072",
+		"full_text": "[2019 서울뮤직포럼]\n\n2019 서울뮤직포럼 쇼케이스 두번째 날이 밝았습니다.\n현재 슈가레코드 밴드 엔분의일(1/N)의 무대와 슈가레코드 레코드 페어도 함께 진행 중이니 많은 방문 부탁드립니다!\n\n- 쇼케이스 : 문화역서울 284 RTO 공연장\n- 레코드 페어 : 서울 레코드 페어 2층 https://t.co/HKPOIoGyoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193391145822195700,
+					"id_str": "1193391145822195712",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_G7JzUEAARjkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_G7JzUEAARjkA.jpg",
+					"url": "https://t.co/HKPOIoGyoE",
+					"display_url": "pic.twitter.com/HKPOIoGyoE",
+					"expanded_url": "https://twitter.com/record_liak/status/1193391156756795394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "94343878",
+									"screen_name": "sugar_records",
+									"name": "슈가레코드"
+								},
+								{
+									"type": "user",
+									"user_id": "758324446729875456",
+									"screen_name": "NProbability",
+									"name": "N분의 1"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193391145822195700,
+					"id_str": "1193391145822195712",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_G7JzUEAARjkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_G7JzUEAARjkA.jpg",
+					"url": "https://t.co/HKPOIoGyoE",
+					"display_url": "pic.twitter.com/HKPOIoGyoE",
+					"expanded_url": "https://twitter.com/record_liak/status/1193391156756795394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "94343878",
+									"screen_name": "sugar_records",
+									"name": "슈가레코드"
+								},
+								{
+									"type": "user",
+									"user_id": "758324446729875456",
+									"screen_name": "NProbability",
+									"name": "N분의 1"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "플럭서스/루비레코드/엠와이뮤직/주식회사 엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/문화인/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/마들렌뮤직/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2218,
+			"friends_count": 2138,
+			"listed_count": 42,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 서울뮤직포럼]\n\n2019 서울뮤직포럼 쇼케이스 두번째 날이 밝았습니다.\n현재 슈가레코드 밴드 엔분의일(1/N)의 무대와 슈가레코드 레코드 페어도 함께 진행 중이니 많은 방문 부탁드립니다!\n\n- 쇼케이스 : 문화역서울 284 RTO 공연장\n- 레코드 페어 : 서울 레코드 페어 2층 https://t.co/HKPOIoGyoE"
+	},
+	{
 		"created_at": "Sun Nov 10 03:13:34 +0000 2019",
 		"id": 1193358438270529500,
 		"id_str": "1193366056066260997",
