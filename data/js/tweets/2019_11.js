@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 09:13:27 +0000 2019",
+		"id": 1193448874624471000,
+		"id_str": "1193456626138783744",
+		"full_text": "[2019 서울뮤직포럼]\n\n서울뮤직포럼의 쇼케이스와 레이블페어는 해피로봇레코드 아월을 마지막으로 막을 내립니다.\n\n쇼케이스 : 문화역서울 284 RTO 공연장\n레이블페어 : 서울레코드페어 2층\n\n양일간 방문해주신 모든 분들께 감사드리고, 내년에 있을 서울뮤직포럼에도 많은 기대와 관심 부탁드립니다. https://t.co/g0qftUA6Lm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193448861487886300,
+					"id_str": "1193448861487886341",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_7apaUcAUCkHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_7apaUcAUCkHW.jpg",
+					"url": "https://t.co/g0qftUA6Lm",
+					"display_url": "pic.twitter.com/g0qftUA6Lm",
+					"expanded_url": "https://twitter.com/record_liak/status/1193448874624471041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 326,
+									"h": 498,
+									"w": 498
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 191,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 326,
+									"h": 498,
+									"w": 498
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 108,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193448861487886300,
+					"id_str": "1193448861487886341",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_7apaUcAUCkHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_7apaUcAUCkHW.jpg",
+					"url": "https://t.co/g0qftUA6Lm",
+					"display_url": "pic.twitter.com/g0qftUA6Lm",
+					"expanded_url": "https://twitter.com/record_liak/status/1193448874624471041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 326,
+									"h": 498,
+									"w": 498
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 191,
+									"h": 291,
+									"w": 291
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 326,
+									"h": 498,
+									"w": 498
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 108,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "플럭서스/루비레코드/엠와이뮤직/주식회사 엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/문화인/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/마들렌뮤직/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2217,
+			"friends_count": 2138,
+			"listed_count": 42,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 서울뮤직포럼]\n\n서울뮤직포럼의 쇼케이스와 레이블페어는 해피로봇레코드 아월을 마지막으로 막을 내립니다.\n\n쇼케이스 : 문화역서울 284 RTO 공연장\n레이블페어 : 서울레코드페어 2층\n\n양일간 방문해주신 모든 분들께 감사드리고, 내년에 있을 서울뮤직포럼에도 많은 기대와 관심 부탁드립니다. https://t.co/g0qftUA6Lm"
+	},
+	{
+		"created_at": "Sun Nov 10 09:04:29 +0000 2019",
+		"id": 1193454369213239300,
+		"id_str": "1193454369213239298",
+		"full_text": "#딩고뮤직 #dingo_music\n지코(ZICO) - 남겨짐에 대해 (Feat. 다운)ㅣ세로라이브ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/YNInYeLDmP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YNInYeLDmP",
+					"expanded_url": "https://youtu.be/8ncV3ROHttw",
+					"display_url": "youtu.be/8ncV3ROHttw",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n지코(ZICO) - 남겨짐에 대해 (Feat. 다운)ㅣ세로라이브ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/YNInYeLDmP"
+	},
+	{
+		"created_at": "Sun Nov 10 09:01:11 +0000 2019",
+		"id": 1193453536656396300,
+		"id_str": "1193453536656396289",
+		"full_text": "#문화가있는날\n&lt;1930 양림쌀롱&gt; ‘양림달빛투어’ 1930년대 광주 양림동의 어느 가을밤.\nhttps://t.co/1HhPwXZlB9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1HhPwXZlB9",
+					"expanded_url": "http://bit.ly/36RRlHG",
+					"display_url": "bit.ly/36RRlHG",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날\n&lt;1930 양림쌀롱&gt; ‘양림달빛투어’ 1930년대 광주 양림동의 어느 가을밤.\nhttps://t.co/1HhPwXZlB9"
+	},
+	{
 		"created_at": "Sun Nov 10 07:18:16 +0000 2019",
 		"id": 1193426462881153000,
 		"id_str": "1193427639471611904",
