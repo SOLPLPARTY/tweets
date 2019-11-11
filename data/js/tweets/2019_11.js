@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 05:14:50 +0000 2019",
+		"id": 1193758961562005500,
+		"id_str": "1193758961562005505",
+		"full_text": "#인터파크티켓 #주요티켓오픈\n루시드폴 9집 발매 공연 - 눈 오는 날의 동화 티켓오픈 안내 : 19.11.14(목) 20:00\n▶ https://t.co/53dZjE5iMq\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/nYIb2I2h8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53dZjE5iMq",
+					"expanded_url": "http://bit.ly/32wTipr",
+					"display_url": "bit.ly/32wTipr",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193758960567955500,
+					"id_str": "1193758960567955456",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEVcygXsAAXGhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEVcygXsAAXGhB.jpg",
+					"url": "https://t.co/nYIb2I2h8x",
+					"display_url": "pic.twitter.com/nYIb2I2h8x",
+					"expanded_url": "https://twitter.com/solplparty/status/1193758961562005505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193758960567955500,
+					"id_str": "1193758960567955456",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEVcygXsAAXGhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEVcygXsAAXGhB.jpg",
+					"url": "https://t.co/nYIb2I2h8x",
+					"display_url": "pic.twitter.com/nYIb2I2h8x",
+					"expanded_url": "https://twitter.com/solplparty/status/1193758961562005505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #주요티켓오픈\n루시드폴 9집 발매 공연 - 눈 오는 날의 동화 티켓오픈 안내 : 19.11.14(목) 20:00\n▶ https://t.co/53dZjE5iMq\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/nYIb2I2h8x"
+	},
+	{
+		"created_at": "Mon Nov 11 05:14:46 +0000 2019",
+		"id": 1193758945409687600,
+		"id_str": "1193758945409687552",
+		"full_text": "#인터파크티켓 #주요티켓오픈\n하성운(HA SUNG WOON) FAN Party “CASTLE ON A CLOUD” 티켓오픈 안내 : 19.11.18(월) 20:00\n▶ https://t.co/zR2GjJxLZM\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/QDNS7QzIuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "주요티켓오픈",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zR2GjJxLZM",
+					"expanded_url": "http://bit.ly/2CxcsRK",
+					"display_url": "bit.ly/2CxcsRK",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193758944340193300,
+					"id_str": "1193758944340193280",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEVb2DXsAASMRp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEVb2DXsAASMRp.jpg",
+					"url": "https://t.co/QDNS7QzIuy",
+					"display_url": "pic.twitter.com/QDNS7QzIuy",
+					"expanded_url": "https://twitter.com/solplparty/status/1193758945409687552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193758944340193300,
+					"id_str": "1193758944340193280",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEVb2DXsAASMRp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEVb2DXsAASMRp.jpg",
+					"url": "https://t.co/QDNS7QzIuy",
+					"display_url": "pic.twitter.com/QDNS7QzIuy",
+					"expanded_url": "https://twitter.com/solplparty/status/1193758945409687552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 170,
+							"h": 207,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#인터파크티켓 #주요티켓오픈\n하성운(HA SUNG WOON) FAN Party “CASTLE ON A CLOUD” 티켓오픈 안내 : 19.11.18(월) 20:00\n▶ https://t.co/zR2GjJxLZM\n　\n#인터파크 #티켓오픈공지 #티켓공지 https://t.co/QDNS7QzIuy"
+	},
+	{
 		"created_at": "Mon Nov 11 04:13:27 +0000 2019",
 		"id": 1193739090690113500,
 		"id_str": "1193743516972789760",
