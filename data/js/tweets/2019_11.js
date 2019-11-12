@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 21:57:42 +0000 2019",
+		"id": 1193982500256665600,
+		"id_str": "1194373732212461568",
+		"full_text": "Billie Eilish - “everything i wanted”\n\nOut Wednesday November 13 at 4:00pm PT globally. https://t.co/H6vkLmtYC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193982494925705200,
+					"id_str": "1193982494925705216",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EJHgwM4U0AAcXXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJHgwM4U0AAcXXG.jpg",
+					"url": "https://t.co/H6vkLmtYC7",
+					"display_url": "pic.twitter.com/H6vkLmtYC7",
+					"expanded_url": "https://twitter.com/billieeilish/status/1193982500256665600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 288,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1007,
+									"y": 508,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1720,
+									"y": 868,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1720,
+									"y": 868,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193982494925705200,
+					"id_str": "1193982494925705216",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EJHgwM4U0AAcXXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJHgwM4U0AAcXXG.jpg",
+					"url": "https://t.co/H6vkLmtYC7",
+					"display_url": "pic.twitter.com/H6vkLmtYC7",
+					"expanded_url": "https://twitter.com/billieeilish/status/1193982500256665600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 288,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1007,
+									"y": 508,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1720,
+									"y": 868,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1720,
+									"y": 868,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2883890,
+			"friends_count": 0,
+			"listed_count": 2382,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193985706340708357/bUTi3kEF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1573502514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13855,
+		"favorite_count": 83585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - “everything i wanted”\n\nOut Wednesday November 13 at 4:00pm PT globally. https://t.co/H6vkLmtYC7"
+	},
+	{
+		"created_at": "Tue Nov 12 21:56:52 +0000 2019",
+		"id": 1194104569749495800,
+		"id_str": "1194373522199441408",
+		"full_text": "최근 8개월간 23개 도시에서 첫 월드투어를 마무리한 블랙핑크는 다음 달과 내년 일본에서 돔 투어를 개최합니다. #BLACKPINK #BLINK\nhttps://t.co/POz5nIk9bS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						74,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/POz5nIk9bS",
+					"expanded_url": "http://imnews.imbc.com/replay/2019/nwtoday/article/5590296_24616.html?menuid=culture",
+					"display_url": "imnews.imbc.com/replay/2019/nw…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41735670,
+			"id_str": "41735670",
+			"name": "MBC News (MBC 뉴스)",
+			"screen_name": "mbcnews",
+			"location": "",
+			"description": "MBC 뉴스의 공식 트위터입니다. 시청자 여러분의 의견과 제보를 항상 기다립니다. 세상과 소통하는 시간, MBC 뉴스와 함께 하세요!",
+			"url": "http://t.co/g6J4PaiDlj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g6J4PaiDlj",
+							"expanded_url": "http://imnews.imbc.com",
+							"display_url": "imnews.imbc.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383147,
+			"friends_count": 151392,
+			"listed_count": 3692,
+			"created_at": "Fri May 22 02:45:13 +0000 2009",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 132896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013579507138117632/LiJe_TPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41735670/1563936001",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2996,
+		"favorite_count": 5774,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 8개월간 23개 도시에서 첫 월드투어를 마무리한 블랙핑크는 다음 달과 내년 일본에서 돔 투어를 개최합니다. #BLACKPINK #BLINK\nhttps://t.co/POz5nIk9bS"
+	},
+	{
+		"created_at": "Tue Nov 12 21:55:23 +0000 2019",
+		"id": 1194253431092981800,
+		"id_str": "1194373146062675968",
+		"full_text": "South Korea tomorrow 😍😍😍😍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339755472,
+			"id_str": "339755472",
+			"name": "ANNE-MARIE",
+			"screen_name": "AnneMarie",
+			"location": "My own head",
+			"description": "SPEAK YOUR MIND https://t.co/Rn0YWQfxlD 2002. FRIENDS. PERFECT TO ME. NINJAS. ❤️",
+			"url": "https://t.co/Wq2Jn5g5VS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wq2Jn5g5VS",
+							"expanded_url": "http://iamannemarie.com",
+							"display_url": "iamannemarie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Rn0YWQfxlD",
+							"expanded_url": "http://ad.gt/speakyourmind",
+							"display_url": "ad.gt/speakyourmind",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 622185,
+			"friends_count": 745,
+			"listed_count": 989,
+			"created_at": "Thu Jul 21 16:14:57 +0000 2011",
+			"favourites_count": 18435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160884134325235712/f6rwjX2R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160884134325235712/f6rwjX2R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339755472/1565622116",
+			"profile_link_color": "8BBAD8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 408,
+		"favorite_count": 2879,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "South Korea tomorrow 😍😍😍😍"
+	},
+	{
+		"created_at": "Tue Nov 12 21:54:01 +0000 2019",
+		"id": 1194178108275843000,
+		"id_str": "1194372802201047041",
+		"full_text": "HYUKOH 2020 WORLD TOUR \nwith NEW ALBUM RELEASE🌹\n\nmore info at https://t.co/7jbFJzaSXt https://t.co/sPpGymy8W7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7jbFJzaSXt",
+					"expanded_url": "http://HYUKOH.COM",
+					"display_url": "HYUKOH.COM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194178086830370800,
+					"id_str": "1194178086830370816",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKSpJgUcAAT9aK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKSpJgUcAAT9aK.jpg",
+					"url": "https://t.co/sPpGymy8W7",
+					"display_url": "pic.twitter.com/sPpGymy8W7",
+					"expanded_url": "https://twitter.com/hyukohh/status/1194178108275843074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194178086830370800,
+					"id_str": "1194178086830370816",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKSpJgUcAAT9aK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKSpJgUcAAT9aK.jpg",
+					"url": "https://t.co/sPpGymy8W7",
+					"display_url": "pic.twitter.com/sPpGymy8W7",
+					"expanded_url": "https://twitter.com/hyukohh/status/1194178108275843074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2472712903,
+			"id_str": "2472712903",
+			"name": "HYUKOH",
+			"screen_name": "hyukohh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47997,
+			"friends_count": 0,
+			"listed_count": 273,
+			"created_at": "Thu May 01 15:56:35 +0000 2014",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998489215192125441/T8UJLNeI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998489215192125441/T8UJLNeI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2472712903/1492789164",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2219,
+		"favorite_count": 3393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYUKOH 2020 WORLD TOUR \nwith NEW ALBUM RELEASE🌹\n\nmore info at https://t.co/7jbFJzaSXt https://t.co/sPpGymy8W7"
+	},
+	{
+		"created_at": "Tue Nov 12 21:53:28 +0000 2019",
+		"id": 1193543870643986400,
+		"id_str": "1194372664405610497",
+		"full_text": "IU 5th Mini Album 'Love poem' \n&lt;시간의 바깥&gt; Teaser\nhttps://t.co/TWtol751Xa\n\n#IU #아이유 #Lovepoem #러브포엠 \n#abovethetime #시간의바깥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IU",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Lovepoem",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "러브포엠",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "abovethetime",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "시간의바깥",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TWtol751Xa",
+					"expanded_url": "https://youtu.be/0wMSo6TwEDk",
+					"display_url": "youtu.be/0wMSo6TwEDk",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241106,
+			"friends_count": 0,
+			"listed_count": 688,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153500695506460672/U9lK1j6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153500695506460672/U9lK1j6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1563858523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7154,
+		"favorite_count": 14486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU 5th Mini Album 'Love poem' \n&lt;시간의 바깥&gt; Teaser\nhttps://t.co/TWtol751Xa\n\n#IU #아이유 #Lovepoem #러브포엠 \n#abovethetime #시간의바깥"
+	},
+	{
 		"created_at": "Tue Nov 12 18:26:08 +0000 2019",
 		"id": 1194320488216047600,
 		"id_str": "1194320488216047618",
