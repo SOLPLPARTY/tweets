@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 11:04:19 +0000 2019",
+		"id": 1194209300836692000,
+		"id_str": "1194209300836691970",
+		"full_text": "#딩고뮤직 #dingo_music\n딩고가 나라를 세우면 생기는 일 (feat.1위 가수 빅톤) | VICTON |\nhttps://t.co/OFf2AcPomv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OFf2AcPomv",
+					"expanded_url": "https://youtu.be/6Uw34ZbhehY",
+					"display_url": "youtu.be/6Uw34ZbhehY",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "solplparty",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크 / 모임\n\n문화예술정보 @EntRecruitKR\n문의 : contact@solplparty.com",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n딩고가 나라를 세우면 생기는 일 (feat.1위 가수 빅톤) | VICTON |\nhttps://t.co/OFf2AcPomv"
+	},
+	{
+		"created_at": "Tue Nov 12 10:18:20 +0000 2019",
+		"id": 1194193151004561400,
+		"id_str": "1194197728198352896",
+		"full_text": "혁오 2020 월드투어의 첫 시작, 서울\n\n공연일 : 2020년 2월 8일 (토) - 9일 (일)\n공연장 : 블루스퀘어 아이마켓홀\n티켓가 : 전석 99,000원\n티켓오픈 : 11월 19일 (화) 오후 8시\n예매처 : 인터파크 티켓\n주최/주관 : 두루두루아티스트컴퍼니, CJ E&amp;M https://t.co/MakxmCkauD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194193132444737500,
+					"id_str": "1194193132444737536",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKgU6yUYAANI90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKgU6yUYAANI90.jpg",
+					"url": "https://t.co/MakxmCkauD",
+					"display_url": "pic.twitter.com/MakxmCkauD",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1194193151004561408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1344,
+									"y": 3652,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1069,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 1826,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 606,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194193132444737500,
+					"id_str": "1194193132444737536",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKgU6yUYAANI90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKgU6yUYAANI90.jpg",
+					"url": "https://t.co/MakxmCkauD",
+					"display_url": "pic.twitter.com/MakxmCkauD",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1194193151004561408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1344,
+									"y": 3652,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 1069,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 672,
+									"y": 1826,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 606,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1194193132448936000,
+					"id_str": "1194193132448935937",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EJKgU6zUcAEkR4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJKgU6zUcAEkR4m.jpg",
+					"url": "https://t.co/MakxmCkauD",
+					"display_url": "pic.twitter.com/MakxmCkauD",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1194193151004561408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 220,
+									"y": 199,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 340,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 124,
+									"y": 112,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 752,
+									"y": 680,
+									"h": 204,
+									"w": 204
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3525,
+			"friends_count": 5,
+			"listed_count": 92,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혁오 2020 월드투어의 첫 시작, 서울\n\n공연일 : 2020년 2월 8일 (토) - 9일 (일)\n공연장 : 블루스퀘어 아이마켓홀\n티켓가 : 전석 99,000원\n티켓오픈 : 11월 19일 (화) 오후 8시\n예매처 : 인터파크 티켓\n주최/주관 : 두루두루아티스트컴퍼니, CJ E&amp;M https://t.co/MakxmCkauD"
+	},
+	{
 		"created_at": "Tue Nov 12 10:13:36 +0000 2019",
 		"id": 1194183445712257000,
 		"id_str": "1194196536760184833",
