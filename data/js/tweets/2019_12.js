@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 01 14:13:27 +0000 2019",
+		"id": 1201131958236930000,
+		"id_str": "1201142269857976321",
+		"full_text": "#재미공작소 #2020캘린더갤러리 가 무사히 끝났습니다.\n\n함께해주신 창작자 여러분, 찾아와주신 모든 분들, 매년 캘린더갤러리에서 만나는 반가운 인연들, 응원과 사랑 전해준 친구들- 한 분 한 분께 진심으로 감사드립니다🥰\n\n내년에 또 만나요💫 https://t.co/AraqRan3iA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "2020캘린더갤러리",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201131844965560300,
+					"id_str": "1201131844965560321",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201131844965560321/pu/img/Div8L2PvsHrz1QGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201131844965560321/pu/img/Div8L2PvsHrz1QGb.jpg",
+					"url": "https://t.co/AraqRan3iA",
+					"display_url": "pic.twitter.com/AraqRan3iA",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1201131958236930050/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201131844965560300,
+					"id_str": "1201131844965560321",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201131844965560321/pu/img/Div8L2PvsHrz1QGb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201131844965560321/pu/img/Div8L2PvsHrz1QGb.jpg",
+					"url": "https://t.co/AraqRan3iA",
+					"display_url": "pic.twitter.com/AraqRan3iA",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1201131958236930050/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201131844965560321/pu/vid/480x480/7e7w-RnDy7OyIa1h.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201131844965560321/pu/vid/720x720/329IRvyQASBEhomb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201131844965560321/pu/pl/c2FvHa7iSDEXtCc8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201131844965560321/pu/vid/320x320/4UKVtP8c6cxFq-Z3.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201012969158561800,
+		"in_reply_to_status_id_str": "1201012969158561792",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8207,
+			"friends_count": 600,
+			"listed_count": 113,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#재미공작소 #2020캘린더갤러리 가 무사히 끝났습니다.\n\n함께해주신 창작자 여러분, 찾아와주신 모든 분들, 매년 캘린더갤러리에서 만나는 반가운 인연들, 응원과 사랑 전해준 친구들- 한 분 한 분께 진심으로 감사드립니다🥰\n\n내년에 또 만나요💫 https://t.co/AraqRan3iA"
+	},
+	{
 		"created_at": "Sun Dec 01 11:18:17 +0000 2019",
 		"id": 1201095669437460500,
 		"id_str": "1201098184090673153",
