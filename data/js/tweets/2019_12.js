@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 01 15:13:27 +0000 2019",
+		"id": 1201142757131075600,
+		"id_str": "1201157369130029056",
+		"full_text": "#나주정미소 #난장곡간 개관특집\n프리패스 이벤트(only페북&amp;인별)에 도전하세요!\n\n문화콘서트 난장의 새로운 공연장\n나주정미소 난장곡간을 \n널리 알려주세요\n친구소환 및 좋아요+ 공유+완료댓글\n12월6일 난장곡간 프리패스권을 \n5분께 드립니다\n출연 - #라퍼커션 #신현희 #치즈 #엔플라잉 #안녕바다 https://t.co/D4c1NCfYua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나주정미소",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "난장곡간",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "라퍼커션",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "신현희",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "엔플라잉",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "안녕바다",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201141811902730200,
+					"id_str": "1201141811902730240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKtQHS9U0AA0t1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKtQHS9U0AA0t1S.jpg",
+					"url": "https://t.co/D4c1NCfYua",
+					"display_url": "pic.twitter.com/D4c1NCfYua",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1201142757131075584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201141811902730200,
+					"id_str": "1201141811902730240",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EKtQHS9U0AA0t1S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKtQHS9U0AA0t1S.jpg",
+					"url": "https://t.co/D4c1NCfYua",
+					"display_url": "pic.twitter.com/D4c1NCfYua",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1201142757131075584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% LIVE MUSIC PROGRAM 고품격라이브음악방송 NANJANG (Listen to real Korean music!)OFFICIAL. \n광주MBC제작 /나주정미소 난장곡간/",
+			"url": "https://t.co/a4fHCErFEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4fHCErFEn",
+							"expanded_url": "https://www.facebook.com/reallivenanjang/",
+							"display_url": "facebook.com/reallivenanjan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4410,
+			"friends_count": 3594,
+			"listed_count": 109,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#나주정미소 #난장곡간 개관특집\n프리패스 이벤트(only페북&amp;인별)에 도전하세요!\n\n문화콘서트 난장의 새로운 공연장\n나주정미소 난장곡간을 \n널리 알려주세요\n친구소환 및 좋아요+ 공유+완료댓글\n12월6일 난장곡간 프리패스권을 \n5분께 드립니다\n출연 - #라퍼커션 #신현희 #치즈 #엔플라잉 #안녕바다 https://t.co/D4c1NCfYua"
+	},
+	{
 		"created_at": "Sun Dec 01 14:13:27 +0000 2019",
 		"id": 1201131958236930000,
 		"id_str": "1201142269857976321",
