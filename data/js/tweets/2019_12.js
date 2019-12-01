@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 01 11:13:30 +0000 2019",
+		"id": 1201091117174800400,
+		"id_str": "1201096980379918337",
+		"full_text": "[2019 EBS 올해의 헬로루키 with KOCCA] 결선 결과\n\n비록 수상은 하지 못했지만\n신인 아닌 PRO의 모습으로 무대를 꾸며준 본새 of 본새🤟\nDUOXINI(두억시니), 버둥(Budung), 오열(OYEOL)의 찬란한 꽃길도 진심으로 응원합니다👍\n\n추위 속에서도 이른 시간부터 기다려주신 관객 여러분 감사드립니다! https://t.co/oSdZqURDTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201091105845956600,
+					"id_str": "1201091105845956608",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EKsh_0LUUAASnFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKsh_0LUUAASnFz.jpg",
+					"url": "https://t.co/oSdZqURDTH",
+					"display_url": "pic.twitter.com/oSdZqURDTH",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1201091117174800385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201091105845956600,
+					"id_str": "1201091105845956608",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EKsh_0LUUAASnFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKsh_0LUUAASnFz.jpg",
+					"url": "https://t.co/oSdZqURDTH",
+					"display_url": "pic.twitter.com/oSdZqURDTH",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1201091117174800385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5167,
+			"friends_count": 4648,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2019 EBS 올해의 헬로루키 with KOCCA] 결선 결과\n\n비록 수상은 하지 못했지만\n신인 아닌 PRO의 모습으로 무대를 꾸며준 본새 of 본새🤟\nDUOXINI(두억시니), 버둥(Budung), 오열(OYEOL)의 찬란한 꽃길도 진심으로 응원합니다👍\n\n추위 속에서도 이른 시간부터 기다려주신 관객 여러분 감사드립니다! https://t.co/oSdZqURDTH"
+	},
+	{
 		"created_at": "Sun Dec 01 08:01:46 +0000 2019",
 		"id": 1201048730021048300,
 		"id_str": "1201048730021048320",
