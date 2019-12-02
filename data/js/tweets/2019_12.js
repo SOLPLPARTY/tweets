@@ -1,6 +1,871 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 10:13:28 +0000 2019",
+		"id": 1201434989415432200,
+		"id_str": "1201444261847285760",
+		"full_text": "#방청신청 👉 https://t.co/t3ks2tr54w\n📍신청기간: 19.11.25(월)오후 6시 - 19.12.08(일)밤 12시\n📍당첨자 발표: 19.12.09(월)오후 2시\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#191211 #parkkiyoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방청신청",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "parkkiyoung",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3ks2tr54w",
+					"expanded_url": "http://me2.do/5HFjlxDr",
+					"display_url": "me2.do/5HFjlxDr",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201434940744687600,
+		"in_reply_to_status_id_str": "1201434940744687621",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3764,
+			"friends_count": 950,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#방청신청 👉 https://t.co/t3ks2tr54w\n📍신청기간: 19.11.25(월)오후 6시 - 19.12.08(일)밤 12시\n📍당첨자 발표: 19.12.09(월)오후 2시\n\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#191211 #parkkiyoung"
+	},
+	{
+		"created_at": "Mon Dec 02 09:18:36 +0000 2019",
+		"id": 1201429906808131600,
+		"id_str": "1201430454756397056",
+		"full_text": "📷\n홍이삭 EP [놓치고 싶지 않은 사소한 것들] \n2019.12.06 정오 발매\n-\n#홍이삭 #EP #놓치고싶지않은사소한것들 https://t.co/1pNskxW2CO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "놓치고싶지않은사소한것들",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201429897064792000,
+					"id_str": "1201429897064792066",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxWID0UwAIDsgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxWID0UwAIDsgp.jpg",
+					"url": "https://t.co/1pNskxW2CO",
+					"display_url": "pic.twitter.com/1pNskxW2CO",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201429906808131584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201429897064792000,
+					"id_str": "1201429897064792066",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxWID0UwAIDsgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxWID0UwAIDsgp.jpg",
+					"url": "https://t.co/1pNskxW2CO",
+					"display_url": "pic.twitter.com/1pNskxW2CO",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201429906808131584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📷\n홍이삭 EP [놓치고 싶지 않은 사소한 것들] \n2019.12.06 정오 발매\n-\n#홍이삭 #EP #놓치고싶지않은사소한것들 https://t.co/1pNskxW2CO"
+	},
+	{
+		"created_at": "Mon Dec 02 09:18:29 +0000 2019",
+		"id": 1201427449440948200,
+		"id_str": "1201430424800641024",
+		"full_text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻‍♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리차드파커스",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "RichardParkers",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"text": "보고싶어",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2uGqwKjNV4",
+					"expanded_url": "https://youtu.be/DVpJ-NYp_Lc",
+					"display_url": "youtu.be/DVpJ-NYp_Lc",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻‍♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4"
+	},
+	{
+		"created_at": "Mon Dec 02 09:18:23 +0000 2019",
+		"id": 1201419033712586800,
+		"id_str": "1201430399123111937",
+		"full_text": "원곡의 정서와 멜로디를 살리면서도 자신만의 감수성과 색깔을 또렷하게 덧칠해 낸 계피의 음악과 함께, 따뜻한 12월 맞이하시기바랍니다.\n\n◎일시: 2019년 12월 7일(토) 오후 2시\n◎장소: 클레이아크김해미술관 돔하우스 중앙홀\n◎좌석 : 현장 선착순 100여석\n◎문의: 김해미술관055-340-7020\n\n#계피",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						171,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201418833635889200,
+		"in_reply_to_status_id_str": "1201418833635889155",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "원곡의 정서와 멜로디를 살리면서도 자신만의 감수성과 색깔을 또렷하게 덧칠해 낸 계피의 음악과 함께, 따뜻한 12월 맞이하시기바랍니다.\n\n◎일시: 2019년 12월 7일(토) 오후 2시\n◎장소: 클레이아크김해미술관 돔하우스 중앙홀\n◎좌석 : 현장 선착순 100여석\n◎문의: 김해미술관055-340-7020\n\n#계피"
+	},
+	{
+		"created_at": "Mon Dec 02 09:18:20 +0000 2019",
+		"id": 1201418833635889200,
+		"id_str": "1201430385919479811",
+		"full_text": "[계피] 클레이아크김해미술관 2019 송년 콘서트 계피의 &lt;빛과 바람의 유영&gt;\n\n한 해를 차분히 마무리하는 계절, 클레이아크김해미술관은 2019 송년 콘서트로 계피의 &lt;빛과 바람의 유영&gt;을 마련했습니다.\n동요를 사랑하는 어린이와 어른 누구나 관람 가능한 이번 공연은 현장 선착순 좌석제로 운영됩니다 https://t.co/sW4hqqMcjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201418785657278500,
+					"id_str": "1201418785657278465",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxMBSmVUAEWg5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxMBSmVUAEWg5f.jpg",
+					"url": "https://t.co/sW4hqqMcjs",
+					"display_url": "pic.twitter.com/sW4hqqMcjs",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201418833635889155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 140,
+									"h": 476,
+									"w": 476
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 47,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 615,
+									"y": 84,
+									"h": 285,
+									"w": 285
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 140,
+									"h": 476,
+									"w": 476
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201418785657278500,
+					"id_str": "1201418785657278465",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EKxMBSmVUAEWg5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKxMBSmVUAEWg5f.jpg",
+					"url": "https://t.co/sW4hqqMcjs",
+					"display_url": "pic.twitter.com/sW4hqqMcjs",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201418833635889155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 140,
+									"h": 476,
+									"w": 476
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 47,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 615,
+									"y": 84,
+									"h": 285,
+									"w": 285
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 140,
+									"h": 476,
+									"w": 476
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[계피] 클레이아크김해미술관 2019 송년 콘서트 계피의 &lt;빛과 바람의 유영&gt;\n\n한 해를 차분히 마무리하는 계절, 클레이아크김해미술관은 2019 송년 콘서트로 계피의 &lt;빛과 바람의 유영&gt;을 마련했습니다.\n동요를 사랑하는 어린이와 어른 누구나 관람 가능한 이번 공연은 현장 선착순 좌석제로 운영됩니다 https://t.co/sW4hqqMcjs"
+	},
+	{
 		"created_at": "Mon Dec 02 08:01:43 +0000 2019",
 		"id": 1201411106977267700,
 		"id_str": "1201411106977267712",
