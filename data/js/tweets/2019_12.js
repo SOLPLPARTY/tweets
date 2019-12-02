@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 03:18:25 +0000 2019",
+		"id": 1201339681662632000,
+		"id_str": "1201339810297909248",
+		"full_text": "#우주히피 싱글 ‘여기’ 발매!\n\n아직도 나는 그리워하는 우리의 ‘여기’\n\n지금 모든 음원사이트에서 감상하실 수 있어요🎧\n\nFLO ▶️https://t.co/9S4Hi9FrxM\nVIBE ▶️https://t.co/SJBjdja8Lh\n멜론 ▶️https://t.co/gaDktKHveG\n벅스 ▶️https://t.co/uZwrAmgGnQ\n지니 ▶️https://t.co/mkvLkVeY0E\n\n#싱글 #여기 https://t.co/lDjhgOo02M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						218,
+						221
+					]
+				},
+				{
+					"text": "여기",
+					"indices": [
+						222,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9S4Hi9FrxM",
+					"expanded_url": "http://bit.ly/362V6cb",
+					"display_url": "bit.ly/362V6cb",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/SJBjdja8Lh",
+					"expanded_url": "http://bit.ly/2OGN0QC",
+					"display_url": "bit.ly/2OGN0QC",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/gaDktKHveG",
+					"expanded_url": "http://bit.ly/34DcRhG",
+					"display_url": "bit.ly/34DcRhG",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/uZwrAmgGnQ",
+					"expanded_url": "http://bit.ly/2LcrDEi",
+					"display_url": "bit.ly/2LcrDEi",
+					"indices": [
+						164,
+						187
+					]
+				},
+				{
+					"url": "https://t.co/mkvLkVeY0E",
+					"expanded_url": "http://bit.ly/37Sfv5r",
+					"display_url": "bit.ly/37Sfv5r",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201339672619700200,
+					"id_str": "1201339672619700224",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EKwEETkU0AAW5jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKwEETkU0AAW5jE.jpg",
+					"url": "https://t.co/lDjhgOo02M",
+					"display_url": "pic.twitter.com/lDjhgOo02M",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201339681662631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201339672619700200,
+					"id_str": "1201339672619700224",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EKwEETkU0AAW5jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKwEETkU0AAW5jE.jpg",
+					"url": "https://t.co/lDjhgOo02M",
+					"display_url": "pic.twitter.com/lDjhgOo02M",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201339681662631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우주히피 싱글 ‘여기’ 발매!\n\n아직도 나는 그리워하는 우리의 ‘여기’\n\n지금 모든 음원사이트에서 감상하실 수 있어요🎧\n\nFLO ▶️https://t.co/9S4Hi9FrxM\nVIBE ▶️https://t.co/SJBjdja8Lh\n멜론 ▶️https://t.co/gaDktKHveG\n벅스 ▶️https://t.co/uZwrAmgGnQ\n지니 ▶️https://t.co/mkvLkVeY0E\n\n#싱글 #여기 https://t.co/lDjhgOo02M"
+	},
+	{
 		"created_at": "Mon Dec 02 02:18:17 +0000 2019",
 		"id": 1201318970831204400,
 		"id_str": "1201324679295844352",
