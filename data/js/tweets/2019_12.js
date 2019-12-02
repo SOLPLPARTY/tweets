@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 02:18:17 +0000 2019",
+		"id": 1201318970831204400,
+		"id_str": "1201324679295844352",
+		"full_text": "카더가든 정규 2집 발매 기념 전국 투어 &lt;C&gt; @ 대전 / 광주\n\n대전, 광주 공연을 끝으로 카더가든 전국 투어 &lt;C&gt;가 무사히 끝났습니다! 공연에 함께 해주셨던 관객분들께 감사드립니다. https://t.co/NMGROv4hjc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201318941169029000,
+					"id_str": "1201318941169029120",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKvxNk5UEAACoRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKvxNk5UEAACoRt.jpg",
+					"url": "https://t.co/NMGROv4hjc",
+					"display_url": "pic.twitter.com/NMGROv4hjc",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1201318970831204352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 150,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201318941169029000,
+					"id_str": "1201318941169029120",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKvxNk5UEAACoRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKvxNk5UEAACoRt.jpg",
+					"url": "https://t.co/NMGROv4hjc",
+					"display_url": "pic.twitter.com/NMGROv4hjc",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1201318970831204352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 150,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 213,
+									"h": 200,
+									"w": 200
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1201318941164916700,
+					"id_str": "1201318941164916736",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKvxNk4VUAAXGLc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKvxNk4VUAAXGLc.jpg",
+					"url": "https://t.co/NMGROv4hjc",
+					"display_url": "pic.twitter.com/NMGROv4hjc",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1201318970831204352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 441,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 781,
+									"y": 449,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 250,
+									"y": 464,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 405,
+									"y": 546,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 88,
+									"y": 478,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 441,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 781,
+									"y": 449,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 250,
+									"y": 464,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 405,
+									"y": 546,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 88,
+									"y": 478,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 441,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 781,
+									"y": 449,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 250,
+									"y": 464,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 405,
+									"y": 546,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 88,
+									"y": 478,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 312,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 553,
+									"y": 318,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 177,
+									"y": 328,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 286,
+									"y": 386,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 62,
+									"y": 338,
+									"h": 29,
+									"w": 29
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3528,
+			"friends_count": 5,
+			"listed_count": 95,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든 정규 2집 발매 기념 전국 투어 &lt;C&gt; @ 대전 / 광주\n\n대전, 광주 공연을 끝으로 카더가든 전국 투어 &lt;C&gt;가 무사히 끝났습니다! 공연에 함께 해주셨던 관객분들께 감사드립니다. https://t.co/NMGROv4hjc"
+	},
+	{
 		"created_at": "Mon Dec 02 01:19:55 +0000 2019",
 		"id": 1201305117187817500,
 		"id_str": "1201309990729998338",
