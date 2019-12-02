@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 13:47:06 +0000 2019",
+		"id": 1200239789082988500,
+		"id_str": "1201498025480245253",
+		"full_text": "&lt;오칠, 정규 1집 앨범 'Oh, Two Animals' 어쿠스틱 라이브&gt;\n-\n▶️일시 : 2019년 12월 14일 토요일 저녁 7시\n▶️장소 : 망원 벨로주 (망원동 422-27 4층)\n▶️게스트 : 신설희(@suriemusic) 헤이즈문\n▶️티켓 : 현매 2만원\n▶️이벤트 페이지 : https://t.co/fFRQ7tsyV8\n.\n.\n#OhChill #OhTwoAnimals https://t.co/NuBe6UEkpn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OhChill",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "OhTwoAnimals",
+					"indices": [
+						204,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suriemusic",
+					"name": "신설희 / Shin Seol Hee",
+					"id": 1567203631,
+					"id_str": "1567203631",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fFRQ7tsyV8",
+					"expanded_url": "https://www.facebook.com/events/1118488831688202/",
+					"display_url": "facebook.com/events/1118488…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200239713669406700,
+					"id_str": "1200239713669406724",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EKgbqRKU4AQLgJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKgbqRKU4AQLgJ8.jpg",
+					"url": "https://t.co/NuBe6UEkpn",
+					"display_url": "pic.twitter.com/NuBe6UEkpn",
+					"expanded_url": "https://twitter.com/57_ohchill/status/1200239789082988545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200239713669406700,
+					"id_str": "1200239713669406724",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EKgbqRKU4AQLgJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKgbqRKU4AQLgJ8.jpg",
+					"url": "https://t.co/NuBe6UEkpn",
+					"display_url": "pic.twitter.com/NuBe6UEkpn",
+					"expanded_url": "https://twitter.com/57_ohchill/status/1200239789082988545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1200239753804701700,
+					"id_str": "1200239753804701697",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EKgbsmrU4AEVf-0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKgbsmrU4AEVf-0.jpg",
+					"url": "https://t.co/NuBe6UEkpn",
+					"display_url": "pic.twitter.com/NuBe6UEkpn",
+					"expanded_url": "https://twitter.com/57_ohchill/status/1200239789082988545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2541008467,
+			"id_str": "2541008467",
+			"name": "Oh Chill ㅣ 오칠",
+			"screen_name": "57_ohchill",
+			"location": "korea",
+			"description": "Oh, Two Animals\n🐕🐈\nhttps://t.co/cKXtWaLCJ0",
+			"url": "https://t.co/dIyyRdcP8e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dIyyRdcP8e",
+							"expanded_url": "https://ohchill.bandcamp.com/",
+							"display_url": "ohchill.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cKXtWaLCJ0",
+							"expanded_url": "https://youtu.be/s04sTHZ7t_U",
+							"display_url": "youtu.be/s04sTHZ7t_U",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 233,
+			"listed_count": 8,
+			"created_at": "Mon Jun 02 08:02:52 +0000 2014",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182171744804622336/7711ZtFE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182171744804622336/7711ZtFE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2541008467/1571898070",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;오칠, 정규 1집 앨범 'Oh, Two Animals' 어쿠스틱 라이브&gt;\n-\n▶️일시 : 2019년 12월 14일 토요일 저녁 7시\n▶️장소 : 망원 벨로주 (망원동 422-27 4층)\n▶️게스트 : 신설희(@suriemusic) 헤이즈문\n▶️티켓 : 현매 2만원\n▶️이벤트 페이지 : https://t.co/fFRQ7tsyV8\n.\n.\n#OhChill #OhTwoAnimals https://t.co/NuBe6UEkpn"
+	},
+	{
 		"created_at": "Mon Dec 02 12:13:28 +0000 2019",
 		"id": 1201467038629154800,
 		"id_str": "1201474459674259459",
