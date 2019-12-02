@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 15:13:28 +0000 2019",
+		"id": 1201509808001568800,
+		"id_str": "1201519758212050944",
+		"full_text": "노래에는 기억을 저장하는 힘이 있습니다. 어떤 노래를 들으면 과거의 공간과 시간이 함께 재생되기도 합니다. 그렇다면 우리의 오늘은 어떤 노래와 함께 기억될까요? #먼데이서울 \n\n&lt;오늘의 노래&gt; 6\n구남과여라이딩스텔라 \n\n12/9(월) 8시반 복합문화공간 더숲\nhttps://t.co/WPsH2RtJb3 https://t.co/8lMdVRcmLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이서울",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WPsH2RtJb3",
+					"expanded_url": "http://www.forest6.co.kr/home/board_QnKN67/22637",
+					"display_url": "forest6.co.kr/home/board_QnK…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201509794365862000,
+					"id_str": "1201509794365861888",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EKyeysdUcAAWixq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKyeysdUcAAWixq.jpg",
+					"url": "https://t.co/8lMdVRcmLj",
+					"display_url": "pic.twitter.com/8lMdVRcmLj",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1201509808001568769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201509794365862000,
+					"id_str": "1201509794365861888",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EKyeysdUcAAWixq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKyeysdUcAAWixq.jpg",
+					"url": "https://t.co/8lMdVRcmLj",
+					"display_url": "pic.twitter.com/8lMdVRcmLj",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1201509808001568769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 228,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1575297190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노래에는 기억을 저장하는 힘이 있습니다. 어떤 노래를 들으면 과거의 공간과 시간이 함께 재생되기도 합니다. 그렇다면 우리의 오늘은 어떤 노래와 함께 기억될까요? #먼데이서울 \n\n&lt;오늘의 노래&gt; 6\n구남과여라이딩스텔라 \n\n12/9(월) 8시반 복합문화공간 더숲\nhttps://t.co/WPsH2RtJb3 https://t.co/8lMdVRcmLj"
+	},
+	{
 		"created_at": "Mon Dec 02 13:47:06 +0000 2019",
 		"id": 1200239789082988500,
 		"id_str": "1201498025480245253",
