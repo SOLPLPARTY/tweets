@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 11:13:28 +0000 2019",
+		"id": 1201456968893812700,
+		"id_str": "1201459362243497984",
+		"full_text": "[#베뉴팝]\n지난주 Pick! #EXO ‘#OBSESSION’\nSM앨범의 정수,#엑소 의 세계관이 더 강렬해진 앨범! 1번부터 10번 트랙까지 감탄할 수 밖에 없는 곡들의 퀄리티! “꼭 들어보시길 추천 드립니다”\n\nhttps://t.co/eVtpu4oQlp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베뉴팝",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "OBSESSION",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						44,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eVtpu4oQlp",
+					"expanded_url": "https://youtu.be/wRfrYSLHaJo",
+					"display_url": "youtu.be/wRfrYSLHaJo",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1377,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#베뉴팝]\n지난주 Pick! #EXO ‘#OBSESSION’\nSM앨범의 정수,#엑소 의 세계관이 더 강렬해진 앨범! 1번부터 10번 트랙까지 감탄할 수 밖에 없는 곡들의 퀄리티! “꼭 들어보시길 추천 드립니다”\n\nhttps://t.co/eVtpu4oQlp"
+	},
+	{
 		"created_at": "Mon Dec 02 10:13:28 +0000 2019",
 		"id": 1201434989415432200,
 		"id_str": "1201444261847285760",
@@ -367,7 +503,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Mon Dec 02 09:18:29 +0000 2019",
 		"id": 1201427449440948200,
 		"id_str": "1201430424800641024",
-		"full_text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻‍♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4",
+		"full_text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -498,7 +634,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻‍♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4"
+		"text": "[리차드파커스]\n리차드파커스만의 감성을 담은 앨범\nDEP '보고 싶어'가 발매되었습니다.🙇🏻♀\n잠 못 드는 밤, 이 앨범과 함께하면 좋겠습니다.🎶\n\n#리차드파커스 #RichardParkers #보고싶어 #Release\nhttps://t.co/2uGqwKjNV4"
 	},
 	{
 		"created_at": "Mon Dec 02 09:18:23 +0000 2019",
