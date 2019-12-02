@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 01:19:55 +0000 2019",
+		"id": 1201305117187817500,
+		"id_str": "1201309990729998338",
+		"full_text": "#루엘 내한공연(Ruel 2020 Free Time World Tour in Seoul)\n\n▶일시: 2020년 2월 27일 (목) 오후 8시\n▶장소: #홍대 #무브홀\n▶티켓 가격: 스탠딩 전석 77,000원\n▶예매처: 예스24티켓 (https://t.co/ZKugNSPZtX / 1544-6399)\n▶더 많은 정보는&gt;&gt;https://t.co/3VKqiZOOSR https://t.co/5RnuPCv3VT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루엘",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "무브홀",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKugNSPZtX",
+					"expanded_url": "http://ticket.yes24.com",
+					"display_url": "ticket.yes24.com",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/3VKqiZOOSR",
+					"expanded_url": "http://LIVENATION.KR",
+					"display_url": "LIVENATION.KR",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201305109092872200,
+					"id_str": "1201305109092872193",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EKvkocZXsAEaYn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKvkocZXsAEaYn5.jpg",
+					"url": "https://t.co/5RnuPCv3VT",
+					"display_url": "pic.twitter.com/5RnuPCv3VT",
+					"expanded_url": "https://twitter.com/livenationkr/status/1201305117187817479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201305109092872200,
+					"id_str": "1201305109092872193",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EKvkocZXsAEaYn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKvkocZXsAEaYn5.jpg",
+					"url": "https://t.co/5RnuPCv3VT",
+					"display_url": "pic.twitter.com/5RnuPCv3VT",
+					"expanded_url": "https://twitter.com/livenationkr/status/1201305117187817479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Metallica, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6457,
+			"friends_count": 231,
+			"listed_count": 29,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루엘 내한공연(Ruel 2020 Free Time World Tour in Seoul)\n\n▶일시: 2020년 2월 27일 (목) 오후 8시\n▶장소: #홍대 #무브홀\n▶티켓 가격: 스탠딩 전석 77,000원\n▶예매처: 예스24티켓 (https://t.co/ZKugNSPZtX / 1544-6399)\n▶더 많은 정보는&gt;&gt;https://t.co/3VKqiZOOSR https://t.co/5RnuPCv3VT"
+	},
+	{
 		"created_at": "Mon Dec 02 01:13:27 +0000 2019",
 		"id": 1201307327594299400,
 		"id_str": "1201308364032139265",
