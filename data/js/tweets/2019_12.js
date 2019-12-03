@@ -1,10 +1,715 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 06:13:30 +0000 2019",
+		"id": 1201732828653768700,
+		"id_str": "1201746262124572672",
+		"full_text": "[Listen here]\nMelon - https://t.co/tXY9Sq2K8C\nGenie - https://t.co/CmkNixisnv\nBugs - https://t.co/7IvA4QkFRH\nVibe - https://t.co/T9St3Duncj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXY9Sq2K8C",
+					"expanded_url": "https://bit.ly/2qYpENn",
+					"display_url": "bit.ly/2qYpENn",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/CmkNixisnv",
+					"expanded_url": "https://bit.ly/2Rfmorm",
+					"display_url": "bit.ly/2Rfmorm",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/7IvA4QkFRH",
+					"expanded_url": "https://bit.ly/34LZX18",
+					"display_url": "bit.ly/34LZX18",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/T9St3Duncj",
+					"expanded_url": "https://bit.ly/2Yf5E51",
+					"display_url": "bit.ly/2Yf5E51",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1201732827491922000,
+		"in_reply_to_status_id_str": "1201732827491921920",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9798,
+			"friends_count": 2996,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/tXY9Sq2K8C\nGenie - https://t.co/CmkNixisnv\nBugs - https://t.co/7IvA4QkFRH\nVibe - https://t.co/T9St3Duncj"
+	},
+	{
+		"created_at": "Tue Dec 03 06:13:27 +0000 2019",
+		"id": 1201732827491922000,
+		"id_str": "1201746248983863296",
+		"full_text": "🆕 New Release December 3\n-\n💿 옥수사진관\n[Time Lapse] '불면 (不眠)'\n\n옥수사진관 정규 4집 [Time Lapse]\n\n흐르는 시간의 순간들이 모여 만들어지는 Time Lapse 영상처럼 계절따라 가슴 속에 다가온 순간들을 노래로 만들어 모아보았습니다. \n\nhttps://t.co/n5UEiRSTwY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5UEiRSTwY",
+					"expanded_url": "https://youtu.be/SM7kwS9ZXE4",
+					"display_url": "youtu.be/SM7kwS9ZXE4",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9798,
+			"friends_count": 2996,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release December 3\n-\n💿 옥수사진관\n[Time Lapse] '불면 (不眠)'\n\n옥수사진관 정규 4집 [Time Lapse]\n\n흐르는 시간의 순간들이 모여 만들어지는 Time Lapse 영상처럼 계절따라 가슴 속에 다가온 순간들을 노래로 만들어 모아보았습니다. \n\nhttps://t.co/n5UEiRSTwY"
+	},
+	{
+		"created_at": "Tue Dec 03 05:18:25 +0000 2019",
+		"id": 1201719475239673900,
+		"id_str": "1201732397030612992",
+		"full_text": "[[[ 서울시 여러분 ]]] 에 관한 좋은 리뷰가 있어 공유 드립니다~~\n바로가기: https://t.co/lukJSSEfC5 https://t.co/0PDAOuv3dj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lukJSSEfC5",
+					"expanded_url": "http://www.mediafarm.kr/news/articleView.html?idxno=1494",
+					"display_url": "mediafarm.kr/news/articleVi…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201719468432380000,
+					"id_str": "1201719468432379905",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1dfVOVUAECrhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1dfVOVUAECrhj.jpg",
+					"url": "https://t.co/0PDAOuv3dj",
+					"display_url": "pic.twitter.com/0PDAOuv3dj",
+					"expanded_url": "https://twitter.com/orm_ent/status/1201719475239673856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 689,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201719468432380000,
+					"id_str": "1201719468432379905",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1dfVOVUAECrhj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1dfVOVUAECrhj.jpg",
+					"url": "https://t.co/0PDAOuv3dj",
+					"display_url": "pic.twitter.com/0PDAOuv3dj",
+					"expanded_url": "https://twitter.com/orm_ent/status/1201719475239673856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 689,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 689,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201719468432359400,
+					"id_str": "1201719468432359425",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1dfVOVAAESKEt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1dfVOVAAESKEt.jpg",
+					"url": "https://t.co/0PDAOuv3dj",
+					"display_url": "pic.twitter.com/0PDAOuv3dj",
+					"expanded_url": "https://twitter.com/orm_ent/status/1201719475239673856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 739,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 739,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 392,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 596,
+									"y": 164,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 520,
+									"y": 163,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 346,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 591,
+									"y": 586,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 3,
+									"y": 300,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 342,
+									"y": 360,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 548,
+									"y": 150,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 478,
+									"y": 149,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 318,
+									"y": 246,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 543,
+									"y": 539,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 2,
+									"y": 276,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 392,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 596,
+									"y": 164,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 520,
+									"y": 163,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 346,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 591,
+									"y": 586,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 3,
+									"y": 300,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 392,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 596,
+									"y": 164,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 520,
+									"y": 163,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 346,
+									"y": 268,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 591,
+									"y": 586,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 3,
+									"y": 300,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 730,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1574832748",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[[[ 서울시 여러분 ]]] 에 관한 좋은 리뷰가 있어 공유 드립니다~~\n바로가기: https://t.co/lukJSSEfC5 https://t.co/0PDAOuv3dj"
+	},
+	{
 		"created_at": "Tue Dec 03 04:18:16 +0000 2019",
 		"id": 1201702399221485600,
 		"id_str": "1201717262366969857",
-		"full_text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞‍♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe",
+		"full_text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -304,7 +1009,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞‍♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe"
+		"text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe"
 	},
 	{
 		"created_at": "Tue Dec 03 04:13:28 +0000 2019",
