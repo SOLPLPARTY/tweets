@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 00:13:29 +0000 2019",
+		"id": 1201653194775859200,
+		"id_str": "1201655657176408064",
+		"full_text": "[2020.1.5(일) 벨로주 망원] 이태훈+송은지&lt;=가챠!?\n\n다중음격 기타리스트 이태훈과 소규모아카시아밴드의 보컬이었던 송은지가 결성한 프로젝트 가챠! 의 첫 무대. with 김성완(색소폰),민상용(드럼),진수영(아코디언) 예매 : https://t.co/ZpJ5hcsbU4 (60명 한정, 매진 시 현매 불가) https://t.co/2QWDGxSDPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZpJ5hcsbU4",
+					"expanded_url": "https://c11.kr/bvi6",
+					"display_url": "c11.kr/bvi6",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201653183136718800,
+					"id_str": "1201653183136718848",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0hNBQU4AAWMbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0hNBQU4AAWMbZ.jpg",
+					"url": "https://t.co/2QWDGxSDPN",
+					"display_url": "pic.twitter.com/2QWDGxSDPN",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1201653194775859200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1754,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201653183136718800,
+					"id_str": "1201653183136718848",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EK0hNBQU4AAWMbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK0hNBQU4AAWMbZ.jpg",
+					"url": "https://t.co/2QWDGxSDPN",
+					"display_url": "pic.twitter.com/2QWDGxSDPN",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1201653194775859200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1754,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9128,
+			"friends_count": 149,
+			"listed_count": 162,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020.1.5(일) 벨로주 망원] 이태훈+송은지&lt;=가챠!?\n\n다중음격 기타리스트 이태훈과 소규모아카시아밴드의 보컬이었던 송은지가 결성한 프로젝트 가챠! 의 첫 무대. with 김성완(색소폰),민상용(드럼),진수영(아코디언) 예매 : https://t.co/ZpJ5hcsbU4 (60명 한정, 매진 시 현매 불가) https://t.co/2QWDGxSDPN"
+	},
+	{
 		"created_at": "Mon Dec 02 15:18:17 +0000 2019",
 		"id": 1201520211133780000,
 		"id_str": "1201520970323963909",
