@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 13:53:18 +0000 2019",
+		"id": 1201427877683695600,
+		"id_str": "1201861973001949184",
+		"full_text": "&lt;2020 설특집 아육대&gt; 방청신청\nhttps://t.co/e13775jfEM\n#MBC #공지사항",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						55,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e13775jfEM",
+					"expanded_url": "http://www.imbc.com/broad/tv/ent/event/2020newyearidol/ticket/",
+					"display_url": "imbc.com/broad/tv/ent/e…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "EntRecruitKR",
+			"location": "",
+			"description": "뮤직비지니스/예술경영/채용/강좌/영화제/전시/어워드/문화공연예술 관련 정보를 올립니다.\n\n공연정보 및 앨범발매 안내는 @solplparty",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 23,
+			"listed_count": 2,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800727867881459712/n0C2GtVA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800727867881459712/n0C2GtVA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1478766752",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2020 설특집 아육대&gt; 방청신청\nhttps://t.co/e13775jfEM\n#MBC #공지사항"
+	},
+	{
+		"created_at": "Tue Dec 03 13:51:33 +0000 2019",
+		"id": 1201773167976411100,
+		"id_str": "1201861533619249157",
+		"full_text": "‘연을 날리는 마음으로’\n\n한 해를 마무리 할 때가 되면 연를 날리러 가곤 했습니다. 연이 까만 점으로 보일 만큼 높이 날면 실을 끊어 보내고 물레만 들고 집으로 돌아오기도 했습니다. 12월의 마지막 주 연을 날리는 마음으로 2019년 마지막 공연을 준비합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1201773165082333200,
+		"in_reply_to_status_id_str": "1201773165082333184",
+		"in_reply_to_user_id": 2572167788,
+		"in_reply_to_user_id_str": "2572167788",
+		"in_reply_to_screen_name": "KwonNamoo",
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 314,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fcb24e582ac6ed",
+			"url": "https://api.twitter.com/1.1/geo/id/01fcb24e582ac6ed.json",
+			"place_type": "city",
+			"name": "당진시",
+			"full_name": "대한민국 당진시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.410213776341,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							37.114268019242
+						],
+						[
+							126.410213776341,
+							37.114268019242
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘연을 날리는 마음으로’\n\n한 해를 마무리 할 때가 되면 연를 날리러 가곤 했습니다. 연이 까만 점으로 보일 만큼 높이 날면 실을 끊어 보내고 물레만 들고 집으로 돌아오기도 했습니다. 12월의 마지막 주 연을 날리는 마음으로 2019년 마지막 공연을 준비합니다."
+	},
+	{
+		"created_at": "Tue Dec 03 13:51:27 +0000 2019",
+		"id": 1201773165082333200,
+		"id_str": "1201861507643953155",
+		"full_text": "🧰예매시작\n\n🪁2019 권나무 연말콘서트\n\n‘연을 날리는 마음으로’\n멜론티켓 https://t.co/z5rdNkYHnW\n\n- 일시: 12.28.(토)-29.(일) (양일간) pm7:00\n- 장소: 파랑새극장 /대학로 https://t.co/uDW1eWQQbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5rdNkYHnW",
+					"expanded_url": "http://bit.ly/2019ByeByTree",
+					"display_url": "bit.ly/2019ByeByTree",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201773156232384500,
+					"id_str": "1201773156232384517",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"url": "https://t.co/uDW1eWQQbK",
+					"display_url": "pic.twitter.com/uDW1eWQQbK",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1201773165082333184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 640,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 104,
+									"y": 425,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201773156232384500,
+					"id_str": "1201773156232384517",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2OUX3U0AUuYRU.jpg",
+					"url": "https://t.co/uDW1eWQQbK",
+					"display_url": "pic.twitter.com/uDW1eWQQbK",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1201773165082333184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 905,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 148,
+									"y": 601,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 157,
+									"y": 640,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 104,
+									"y": 425,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 314,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fcb24e582ac6ed",
+			"url": "https://api.twitter.com/1.1/geo/id/01fcb24e582ac6ed.json",
+			"place_type": "city",
+			"name": "당진시",
+			"full_name": "대한민국 당진시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.410213776341,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							36.7499882979662
+						],
+						[
+							126.857639050729,
+							37.114268019242
+						],
+						[
+							126.410213776341,
+							37.114268019242
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧰예매시작\n\n🪁2019 권나무 연말콘서트\n\n‘연을 날리는 마음으로’\n멜론티켓 https://t.co/z5rdNkYHnW\n\n- 일시: 12.28.(토)-29.(일) (양일간) pm7:00\n- 장소: 파랑새극장 /대학로 https://t.co/uDW1eWQQbK"
+	},
+	{
+		"created_at": "Tue Dec 03 13:29:20 +0000 2019",
+		"id": 1200264637079421000,
+		"id_str": "1201855940816846851",
+		"full_text": "[Release]\n강아솔과 재주소년이 함께 부른\n디지털 싱글 ❝ 12월 늦은 밤 ❞\n모든 음원사이트에 발매되었습니다!\n\n멜론 · https://t.co/oh2enLgkpc\n지니 · https://t.co/ou5hHhK1Mz\n벅스 · https://t.co/rvwqafzWej\n\n다음 주부터 시작되는 #그와그녀의캐롤 전국 투어 공연에도 많은 관심 부탁드려요🎄 https://t.co/bl65C6UMDb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그와그녀의캐롤",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oh2enLgkpc",
+					"expanded_url": "https://bit.ly/2pZhPGs",
+					"display_url": "bit.ly/2pZhPGs",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/ou5hHhK1Mz",
+					"expanded_url": "https://bit.ly/2L5dkBs",
+					"display_url": "bit.ly/2L5dkBs",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/rvwqafzWej",
+					"expanded_url": "https://bit.ly/2sn4rg5",
+					"display_url": "bit.ly/2sn4rg5",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200264607392137200,
+					"id_str": "1200264607392137216",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EKgyTRgVAAAp6FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKgyTRgVAAAp6FA.jpg",
+					"url": "https://t.co/bl65C6UMDb",
+					"display_url": "pic.twitter.com/bl65C6UMDb",
+					"expanded_url": "https://twitter.com/asorry87/status/1200264637079420928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200264607392137200,
+					"id_str": "1200264607392137216",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EKgyTRgVAAAp6FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKgyTRgVAAAp6FA.jpg",
+					"url": "https://t.co/bl65C6UMDb",
+					"display_url": "pic.twitter.com/bl65C6UMDb",
+					"expanded_url": "https://twitter.com/asorry87/status/1200264637079420928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206596454,
+			"id_str": "206596454",
+			"name": "강아솔",
+			"screen_name": "asorry87",
+			"location": "",
+			"description": "싱어송라이터 강아솔의 공식 계정입니다. New Digital Single [사랑] 발매🕯 https://t.co/DFb3uXYrHu 27x27@naver.com",
+			"url": "https://t.co/EuFTJ0GNzc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EuFTJ0GNzc",
+							"expanded_url": "http://www.instagram.com/kangasol__official",
+							"display_url": "instagram.com/kangasol__offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DFb3uXYrHu",
+							"expanded_url": "https://youtu.be/eEhbFxkeP7E",
+							"display_url": "youtu.be/eEhbFxkeP7E",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2737,
+			"friends_count": 234,
+			"listed_count": 35,
+			"created_at": "Sat Oct 23 08:58:45 +0000 2010",
+			"favourites_count": 328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089120136978620416/DI5y0tTA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089120136978620416/DI5y0tTA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206596454/1571198816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n강아솔과 재주소년이 함께 부른\n디지털 싱글 ❝ 12월 늦은 밤 ❞\n모든 음원사이트에 발매되었습니다!\n\n멜론 · https://t.co/oh2enLgkpc\n지니 · https://t.co/ou5hHhK1Mz\n벅스 · https://t.co/rvwqafzWej\n\n다음 주부터 시작되는 #그와그녀의캐롤 전국 투어 공연에도 많은 관심 부탁드려요🎄 https://t.co/bl65C6UMDb"
+	},
+	{
 		"created_at": "Tue Dec 03 12:18:21 +0000 2019",
 		"id": 1201835860242645000,
 		"id_str": "1201838077368504320",
