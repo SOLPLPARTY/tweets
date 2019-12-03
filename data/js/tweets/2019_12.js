@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 04:18:16 +0000 2019",
+		"id": 1201702399221485600,
+		"id_str": "1201717262366969857",
+		"full_text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞‍♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RuyJbGGvyK",
+					"expanded_url": "http://bit.ly/33FooM3",
+					"display_url": "bit.ly/33FooM3",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/rkpB1OZ8go",
+					"expanded_url": "http://bit.ly/35Onrmi",
+					"display_url": "bit.ly/35Onrmi",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/m1fPWb3IE7",
+					"expanded_url": "http://bit.ly/2r6RGGl",
+					"display_url": "bit.ly/2r6RGGl",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/8H79IgOx71",
+					"expanded_url": "http://flomuz.io/s/a.Bwul4",
+					"display_url": "flomuz.io/s/a.Bwul4",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/1kuCfpNmjJ",
+					"expanded_url": "http://bit.ly/33HG0XJ",
+					"display_url": "bit.ly/33HG0XJ",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201702385552224300,
+					"id_str": "1201702385552224256",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1N8-iUcAA5lYC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1N8-iUcAA5lYC.jpg",
+					"url": "https://t.co/TKcV7grELe",
+					"display_url": "pic.twitter.com/TKcV7grELe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1201702399221485568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 298,
+									"y": 173,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 382,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 382,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 527,
+									"y": 305,
+									"h": 89,
+									"w": 89
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201702385552224300,
+					"id_str": "1201702385552224256",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EK1N8-iUcAA5lYC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK1N8-iUcAA5lYC.jpg",
+					"url": "https://t.co/TKcV7grELe",
+					"display_url": "pic.twitter.com/TKcV7grELe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1201702399221485568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 298,
+									"y": 173,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 382,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 382,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 527,
+									"y": 305,
+									"h": 89,
+									"w": 89
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13677,
+			"friends_count": 2483,
+			"listed_count": 299,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n소란(SORAN) [기적 (What about you)]\n발매 ❗️\n\n[Listen here🎧]\n멜론🍈 https://t.co/RuyJbGGvyK\n지니🧞‍♂ https://t.co/rkpB1OZ8go\n벅스🐝 https://t.co/m1fPWb3IE7\nFLO🌊 https://t.co/8H79IgOx71\n네이버💚 https://t.co/1kuCfpNmjJ https://t.co/TKcV7grELe"
+	},
+	{
 		"created_at": "Tue Dec 03 04:13:28 +0000 2019",
 		"id": 1201709325007253500,
 		"id_str": "1201716052834557957",
