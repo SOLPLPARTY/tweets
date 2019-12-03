@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 10:13:33 +0000 2019",
+		"id": 1201799252025852000,
+		"id_str": "1201806670583742465",
+		"full_text": "[입고 소식]\n\n홍대 전역의 소식을 담아내고 있는 무가지 스트리트H의 126호가 입고되었습니다🥰\n\n뮤지션 카코포니, 송시우 작가님의 인터뷰를 비롯하여 칵테일에 대한 세세한 정보까지!\n씬디에 오셔서 홍대 곳곳의 음식점, 미술관, 공연 등 다양한 볼 거리가 담긴 이번 스트리트H를 만나보세요✨ https://t.co/QKkA8a3ijo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201799214008819700,
+					"id_str": "1201799214008819714",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2mBIpW4AIAtgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2mBIpW4AIAtgn.jpg",
+					"url": "https://t.co/QKkA8a3ijo",
+					"display_url": "pic.twitter.com/QKkA8a3ijo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1201799252025851906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1644,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "344478573",
+									"screen_name": "StreetHmagazine",
+									"name": "홍대앞 동네잡지 스트리트 H"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 161,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 505,
+									"y": 329,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2704,
+									"y": 897,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 2800,
+									"y": 1825,
+									"h": 209,
+									"w": 209
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 285,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 891,
+									"y": 580,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1469,
+									"y": 487,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1521,
+									"y": 991,
+									"h": 113,
+									"w": 113
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201799214008819700,
+					"id_str": "1201799214008819714",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2mBIpW4AIAtgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2mBIpW4AIAtgn.jpg",
+					"url": "https://t.co/QKkA8a3ijo",
+					"display_url": "pic.twitter.com/QKkA8a3ijo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1201799252025851906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1644,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "344478573",
+									"screen_name": "StreetHmagazine",
+									"name": "홍대앞 동네잡지 스트리트 H"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 161,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 505,
+									"y": 329,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2704,
+									"y": 897,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 2800,
+									"y": 1825,
+									"h": 209,
+									"w": 209
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 860,
+									"y": 285,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 891,
+									"y": 580,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1469,
+									"y": 487,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1521,
+									"y": 991,
+									"h": 113,
+									"w": 113
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826,
+			"friends_count": 2712,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[입고 소식]\n\n홍대 전역의 소식을 담아내고 있는 무가지 스트리트H의 126호가 입고되었습니다🥰\n\n뮤지션 카코포니, 송시우 작가님의 인터뷰를 비롯하여 칵테일에 대한 세세한 정보까지!\n씬디에 오셔서 홍대 곳곳의 음식점, 미술관, 공연 등 다양한 볼 거리가 담긴 이번 스트리트H를 만나보세요✨ https://t.co/QKkA8a3ijo"
+	},
+	{
+		"created_at": "Tue Dec 03 10:13:28 +0000 2019",
+		"id": 1201796733115588600,
+		"id_str": "1201806648043622400",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.1 공기남 단독 콘서트 : 겨울에&gt;\n-\n· 일시 : 2020년 1월 3일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 공기남\n· 예매 : 멜론티켓 2019년 12월 9일 (월) 오후 8시 예매오픈\n-\nDesign by @studio.himp\n-\n#공기남 #단독콘서트 #겨울에 #롤링25주년 #롤링홀 #ROLLINGHALL https://t.co/FFWKudZiai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공기남",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "겨울에",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						196,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201796719782047700,
+					"id_str": "1201796719782047744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2jv87WsAAdnyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2jv87WsAAdnyd.jpg",
+					"url": "https://t.co/FFWKudZiai",
+					"display_url": "pic.twitter.com/FFWKudZiai",
+					"expanded_url": "https://twitter.com/rollinghall/status/1201796733115588609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201796719782047700,
+					"id_str": "1201796719782047744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EK2jv87WsAAdnyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK2jv87WsAAdnyd.jpg",
+					"url": "https://t.co/FFWKudZiai",
+					"display_url": "pic.twitter.com/FFWKudZiai",
+					"expanded_url": "https://twitter.com/rollinghall/status/1201796733115588609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3215,
+			"friends_count": 791,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.1 공기남 단독 콘서트 : 겨울에&gt;\n-\n· 일시 : 2020년 1월 3일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 공기남\n· 예매 : 멜론티켓 2019년 12월 9일 (월) 오후 8시 예매오픈\n-\nDesign by @studio.himp\n-\n#공기남 #단독콘서트 #겨울에 #롤링25주년 #롤링홀 #ROLLINGHALL https://t.co/FFWKudZiai"
+	},
+	{
+		"created_at": "Tue Dec 03 09:18:20 +0000 2019",
+		"id": 1201789614609944600,
+		"id_str": "1201792773801820161",
+		"full_text": "홍이삭 EP [놓치고 싶지 않은 사소한 것들] D-3\n12월 6일 정오 발매\n\nIsaac Hong EP [The Important Little Things]\n2019.12.06 NOON\n-\n#홍이삭 #놓치고싶지않은사소한것들 #티저 https://t.co/LBB7fCwX8y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "놓치고싶지않은사소한것들",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						125,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201789518367445000,
+					"id_str": "1201789518367444992",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201789518367444992/pu/img/gYkjrkoPPqymdQOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201789518367444992/pu/img/gYkjrkoPPqymdQOv.jpg",
+					"url": "https://t.co/LBB7fCwX8y",
+					"display_url": "pic.twitter.com/LBB7fCwX8y",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201789614609944577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201789518367445000,
+					"id_str": "1201789518367444992",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201789518367444992/pu/img/gYkjrkoPPqymdQOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201789518367444992/pu/img/gYkjrkoPPqymdQOv.jpg",
+					"url": "https://t.co/LBB7fCwX8y",
+					"display_url": "pic.twitter.com/LBB7fCwX8y",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1201789614609944577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35531,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201789518367444992/pu/vid/480x270/SzIy4UBzWAe0W4Qu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201789518367444992/pu/pl/1VgKorQvkEUuTHCv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201789518367444992/pu/vid/1280x720/9m4xmHPRO6GUYNvF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201789518367444992/pu/vid/640x360/rmPdh6POBeNypbs_.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1772,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍이삭 EP [놓치고 싶지 않은 사소한 것들] D-3\n12월 6일 정오 발매\n\nIsaac Hong EP [The Important Little Things]\n2019.12.06 NOON\n-\n#홍이삭 #놓치고싶지않은사소한것들 #티저 https://t.co/LBB7fCwX8y"
+	},
+	{
 		"created_at": "Tue Dec 03 09:13:43 +0000 2019",
 		"id": 1201789682050191400,
 		"id_str": "1201791612311023616",
