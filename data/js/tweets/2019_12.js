@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 12:13:28 +0000 2019",
+		"id": 1201822470249967600,
+		"id_str": "1201836849561509891",
+		"full_text": "[EBS 스페이스 공감 - 2019 올해의 헬로루키 특집] 방송 안내\n\n정말 정말 대단한 걸 만들었다고?👀\n누가누가?👀\n헬로루키가‼️\n\n웃음도 잡고 감동도 잡고\n내 마음도 잡아버린~ ( ͡° ͜ʖ ͡°)\n헬로루키의 숨겨진 모습들❤️\n\n이번주 금요일 밤 11시 35분\n2019 올해의 헬로루키 특집 첫 방송에서 확인하세요! https://t.co/sxrDRqnG8d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201821216190845000,
+					"id_str": "1201821216190844928",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201821216190844928/pu/img/_tb7IRnYz5PZfd6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201821216190844928/pu/img/_tb7IRnYz5PZfd6H.jpg",
+					"url": "https://t.co/sxrDRqnG8d",
+					"display_url": "pic.twitter.com/sxrDRqnG8d",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1201822470249967621/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201821216190845000,
+					"id_str": "1201821216190844928",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201821216190844928/pu/img/_tb7IRnYz5PZfd6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201821216190844928/pu/img/_tb7IRnYz5PZfd6H.jpg",
+					"url": "https://t.co/sxrDRqnG8d",
+					"display_url": "pic.twitter.com/sxrDRqnG8d",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1201822470249967621/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55055,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201821216190844928/pu/pl/P28sbAmTojF8cM3w.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201821216190844928/pu/vid/1280x720/ToSeM_oOtlQQ_7i8.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201821216190844928/pu/vid/640x360/NEg7ovDxjlFQKWhu.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201821216190844928/pu/vid/480x270/O8H-fciPdOXoFyih.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5170,
+			"friends_count": 4648,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 - 2019 올해의 헬로루키 특집] 방송 안내\n\n정말 정말 대단한 걸 만들었다고?👀\n누가누가?👀\n헬로루키가‼️\n\n웃음도 잡고 감동도 잡고\n내 마음도 잡아버린~ ( ͡° ͜ʖ ͡°)\n헬로루키의 숨겨진 모습들❤️\n\n이번주 금요일 밤 11시 35분\n2019 올해의 헬로루키 특집 첫 방송에서 확인하세요! https://t.co/sxrDRqnG8d"
+	},
+	{
 		"created_at": "Tue Dec 03 11:13:28 +0000 2019",
 		"id": 1201808443046187000,
 		"id_str": "1201821747395416064",
