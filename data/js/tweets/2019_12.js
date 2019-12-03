@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 04:13:28 +0000 2019",
+		"id": 1201709325007253500,
+		"id_str": "1201716052834557957",
+		"full_text": "아뇨!! 시간 내서 들어봐야지! #소란 #기적 막 나온 신보💙 #십란한밤 에서 만나요! https://t.co/i1u0s4U2G9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "기적",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "십란한밤",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i1u0s4U2G9",
+					"expanded_url": "https://twitter.com/soran_kyb/status/1201708856306475008",
+					"display_url": "twitter.com/soran_kyb/stat…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201708856306475000,
+		"quoted_status_id_str": "1201708856306475008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i1u0s4U2G9",
+			"expanded": "https://twitter.com/soran_kyb/status/1201708856306475008",
+			"display": "twitter.com/soran_kyb/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 03 03:44:52 +0000 2019",
+			"id": 1201708856306475000,
+			"id_str": "1201708856306475008",
+			"full_text": "나왔다ㅠ 시간 될 때 들어보세요!! https://t.co/Ua3F2qIDN9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1201708844813967400,
+						"id_str": "1201708844813967360",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EK1T09KU4AA3SsI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK1T09KU4AA3SsI.jpg",
+						"url": "https://t.co/Ua3F2qIDN9",
+						"display_url": "pic.twitter.com/Ua3F2qIDN9",
+						"expanded_url": "https://twitter.com/SORAN_kyb/status/1201708856306475008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 298,
+										"y": 173,
+										"h": 50,
+										"w": 50
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 659,
+										"y": 382,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 659,
+										"y": 382,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 527,
+										"y": 305,
+										"h": 89,
+										"w": 89
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1201708844813967400,
+						"id_str": "1201708844813967360",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/EK1T09KU4AA3SsI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK1T09KU4AA3SsI.jpg",
+						"url": "https://t.co/Ua3F2qIDN9",
+						"display_url": "pic.twitter.com/Ua3F2qIDN9",
+						"expanded_url": "https://twitter.com/SORAN_kyb/status/1201708856306475008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 298,
+										"y": 173,
+										"h": 50,
+										"w": 50
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 659,
+										"y": 382,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 659,
+										"y": 382,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 527,
+										"y": 305,
+										"h": 89,
+										"w": 89
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132053156,
+				"id_str": "132053156",
+				"name": "소란_고영배",
+				"screen_name": "SORAN_kyb",
+				"location": "SEOUL",
+				"description": "밴드 소란(SORAN)의 보컬 입니다.",
+				"url": "https://t.co/vbmmQjPiyi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbmmQjPiyi",
+								"expanded_url": "http://club.cyworld.com/bandsoran",
+								"display_url": "club.cyworld.com/bandsoran",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25317,
+				"friends_count": 360,
+				"listed_count": 159,
+				"created_at": "Mon Apr 12 04:23:17 +0000 2010",
+				"favourites_count": 253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14742,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101148610207444992/j3m-dnmc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101148610207444992/j3m-dnmc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132053156/1551369262",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아뇨!! 시간 내서 들어봐야지! #소란 #기적 막 나온 신보💙 #십란한밤 에서 만나요! https://t.co/i1u0s4U2G9"
+	},
+	{
 		"created_at": "Tue Dec 03 03:13:32 +0000 2019",
 		"id": 1201698549898940400,
 		"id_str": "1201700970926874625",
