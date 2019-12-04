@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 06:13:27 +0000 2019",
+		"id": 1202100569818591200,
+		"id_str": "1202108637218516992",
+		"full_text": "@GGEE_JH 아이돌 아니어도 됩니당❤️💙",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GGEE_JH",
+					"name": "찌",
+					"id": 1125466093542228000,
+					"id_str": "1125466093542227968",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202007588138676200,
+		"in_reply_to_status_id_str": "1202007588138676225",
+		"in_reply_to_user_id": 1125466093542228000,
+		"in_reply_to_user_id_str": "1125466093542227968",
+		"in_reply_to_screen_name": "GGEE_JH",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@GGEE_JH 아이돌 아니어도 됩니당❤️💙"
+	},
+	{
+		"created_at": "Wed Dec 04 05:18:29 +0000 2019",
+		"id": 1202094724108243000,
+		"id_str": "1202094803133091840",
+		"full_text": "[#우주왕복선싸이드미러] ⟪기억된 미래⟫ 전시 연계 &lt;영원한 봄&gt; x 튠업 스테이지🎤\n\n국립현대미술관 &lt;영원한 봄&gt; 작품 내 공연으로 참여합니다🚀 다음주 토요일에 미술관에서 만나요!\n\n2019.12.14(토) 2PM @국립현대미술관 서울 미술관 마당 / 현장 접수 (선착순) https://t.co/ub0UMWIzC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202094698078331000,
+					"id_str": "1202094698078330882",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EK6ywklW4AIJ5Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK6ywklW4AIJ5Ck.jpg",
+					"url": "https://t.co/ub0UMWIzC3",
+					"display_url": "pic.twitter.com/ub0UMWIzC3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202094724108242944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 536,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1616,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 946,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1616,
+									"h": 134,
+									"w": 134
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202094698078331000,
+					"id_str": "1202094698078330882",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EK6ywklW4AIJ5Ck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK6ywklW4AIJ5Ck.jpg",
+					"url": "https://t.co/ub0UMWIzC3",
+					"display_url": "pic.twitter.com/ub0UMWIzC3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202094724108242944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 536,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1616,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 946,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1616,
+									"h": 134,
+									"w": 134
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#우주왕복선싸이드미러] ⟪기억된 미래⟫ 전시 연계 &lt;영원한 봄&gt; x 튠업 스테이지🎤\n\n국립현대미술관 &lt;영원한 봄&gt; 작품 내 공연으로 참여합니다🚀 다음주 토요일에 미술관에서 만나요!\n\n2019.12.14(토) 2PM @국립현대미술관 서울 미술관 마당 / 현장 접수 (선착순) https://t.co/ub0UMWIzC3"
+	},
+	{
+		"created_at": "Wed Dec 04 05:18:25 +0000 2019",
+		"id": 1202089352114966500,
+		"id_str": "1202094785558990849",
+		"full_text": "홍크 새앨범［Grete］발매 기념 단독 콘서트 ‘Samsa'\n솔로 아티스트로서 첫 도전하는 풀밴드 공연이자 새 앨범의 곡들을 선보일 수 있는 자리. 그 외에도 그 동안 발표되어 사랑받았던 기존 곡들도 연주할 예정입니다．\n\n2019년 깊어 가는 연말의 마무리를 홍크의 공연과 함께 하시길 바랍니다. https://t.co/E5lo1Phjle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202089342505758700,
+					"id_str": "1202089342505758721",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EK6t41hWsAEqO4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK6t41hWsAEqO4F.jpg",
+					"url": "https://t.co/E5lo1Phjle",
+					"display_url": "pic.twitter.com/E5lo1Phjle",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202089352114966528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202089342505758700,
+					"id_str": "1202089342505758721",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EK6t41hWsAEqO4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK6t41hWsAEqO4F.jpg",
+					"url": "https://t.co/E5lo1Phjle",
+					"display_url": "pic.twitter.com/E5lo1Phjle",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202089352114966528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202089340165394400,
+		"in_reply_to_status_id_str": "1202089340165394434",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1574832748",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍크 새앨범［Grete］발매 기념 단독 콘서트 ‘Samsa'\n솔로 아티스트로서 첫 도전하는 풀밴드 공연이자 새 앨범의 곡들을 선보일 수 있는 자리. 그 외에도 그 동안 발표되어 사랑받았던 기존 곡들도 연주할 예정입니다．\n\n2019년 깊어 가는 연말의 마무리를 홍크의 공연과 함께 하시길 바랍니다. https://t.co/E5lo1Phjle"
+	},
+	{
 		"created_at": "Wed Dec 04 04:18:16 +0000 2019",
 		"id": 1202077152872554500,
 		"id_str": "1202079649863544835",
