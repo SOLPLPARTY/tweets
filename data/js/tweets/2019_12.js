@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 10:18:23 +0000 2019",
+		"id": 1202165649604251600,
+		"id_str": "1202170274059300864",
+		"full_text": "[스웨덴세탁소 - '미지' 트랙리스트]\n⠀\n스웨덴세탁소 싱글 앨범 '미지' 트랙리스트\n⠀\n2019.12.10 6pm Release\n\n#스웨덴세탁소 #왕세윤 #최인영 #미지 #Q #우리는너무많은것을 #밤산책 #쇼파르뮤직 https://t.co/kVw7wj3m6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "왕세윤",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "최인영",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						96,
+						98
+					]
+				},
+				{
+					"text": "우리는너무많은것을",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "밤산책",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202161748020646000,
+					"id_str": "1202161748020645889",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7vvZFVUAEtL9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7vvZFVUAEtL9G.jpg",
+					"url": "https://t.co/kVw7wj3m6n",
+					"display_url": "pic.twitter.com/kVw7wj3m6n",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1202165649604251648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202161748020646000,
+					"id_str": "1202161748020645889",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7vvZFVUAEtL9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7vvZFVUAEtL9G.jpg",
+					"url": "https://t.co/kVw7wj3m6n",
+					"display_url": "pic.twitter.com/kVw7wj3m6n",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1202165649604251648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7692,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 - '미지' 트랙리스트]\n⠀\n스웨덴세탁소 싱글 앨범 '미지' 트랙리스트\n⠀\n2019.12.10 6pm Release\n\n#스웨덴세탁소 #왕세윤 #최인영 #미지 #Q #우리는너무많은것을 #밤산책 #쇼파르뮤직 https://t.co/kVw7wj3m6n"
+	},
+	{
+		"created_at": "Wed Dec 04 10:18:20 +0000 2019",
+		"id": 1202165466682163200,
+		"id_str": "1202170261010862080",
+		"full_text": "[우효]\n\n우효(OOHYO) New Single '뻔한 치킨 Butter Chicken'\n🎧2019.12.11 Wed 6PM Coming Soon.\n\n#우효 #OOHYO #뻔한치킨 #ButterChicken #Release https://t.co/MMMYmhcHLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우효",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "OOHYO",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "뻔한치킨",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "ButterChicken",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202165450710208500,
+					"id_str": "1202165450710208513",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7zG6rUUAEp4TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7zG6rUUAEp4TH.jpg",
+					"url": "https://t.co/MMMYmhcHLQ",
+					"display_url": "pic.twitter.com/MMMYmhcHLQ",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202165466682163200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202165450710208500,
+					"id_str": "1202165450710208513",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7zG6rUUAEp4TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7zG6rUUAEp4TH.jpg",
+					"url": "https://t.co/MMMYmhcHLQ",
+					"display_url": "pic.twitter.com/MMMYmhcHLQ",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202165466682163200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우효]\n\n우효(OOHYO) New Single '뻔한 치킨 Butter Chicken'\n🎧2019.12.11 Wed 6PM Coming Soon.\n\n#우효 #OOHYO #뻔한치킨 #ButterChicken #Release https://t.co/MMMYmhcHLQ"
+	},
+	{
 		"created_at": "Wed Dec 04 10:13:28 +0000 2019",
 		"id": 1202154204195778600,
 		"id_str": "1202169036047634432",
