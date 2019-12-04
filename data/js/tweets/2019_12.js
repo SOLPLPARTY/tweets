@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 01:13:28 +0000 2019",
+		"id": 1202031345070792700,
+		"id_str": "1202033140618977281",
+		"full_text": "매년 1월 찾아오는 포크 그리고 싱어송라이터 음악가들의 잔치, 당신의 얼어있는 마음을 녹일 여덟 번째 새해의 포크가 찾아옵니다. 새해 첫 공연은 언제나 새해의 포크!\n\n널리 알려주세요-\n\n1/3(금)김목인/드린지오/시와/정우\n1/4(토)여유와설빈/정밀아/천용성/황푸하\n\n예매 https://t.co/aq1LqMcWiF https://t.co/L3AOvZUjJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aq1LqMcWiF",
+					"expanded_url": "http://www.veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202031334517928000,
+					"id_str": "1202031334517927936",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EK55IU7UcAAQOwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK55IU7UcAAQOwY.jpg",
+					"url": "https://t.co/L3AOvZUjJg",
+					"display_url": "pic.twitter.com/L3AOvZUjJg",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1202031345070792704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202031334517928000,
+					"id_str": "1202031334517927936",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EK55IU7UcAAQOwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK55IU7UcAAQOwY.jpg",
+					"url": "https://t.co/L3AOvZUjJg",
+					"display_url": "pic.twitter.com/L3AOvZUjJg",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1202031345070792704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9125,
+			"friends_count": 149,
+			"listed_count": 162,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매년 1월 찾아오는 포크 그리고 싱어송라이터 음악가들의 잔치, 당신의 얼어있는 마음을 녹일 여덟 번째 새해의 포크가 찾아옵니다. 새해 첫 공연은 언제나 새해의 포크!\n\n널리 알려주세요-\n\n1/3(금)김목인/드린지오/시와/정우\n1/4(토)여유와설빈/정밀아/천용성/황푸하\n\n예매 https://t.co/aq1LqMcWiF https://t.co/L3AOvZUjJg"
+	},
+	{
 		"created_at": "Tue Dec 03 15:18:17 +0000 2019",
 		"id": 1201878404842299400,
 		"id_str": "1201883357749161985",
