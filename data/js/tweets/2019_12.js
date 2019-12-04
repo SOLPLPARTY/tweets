@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 10:13:28 +0000 2019",
+		"id": 1202154204195778600,
+		"id_str": "1202169036047634432",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.4 GROOVL1N concert&gt;\n\n· 일시 : 2020년 1월 12일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : RAVI, Cold Bay, Xydo, Chillin Homie\n· 예매 : 멜론티켓 2019년 12월 11일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#RAVI #Cold_Bay #Xydo #Chillin_Homie #롤링홀 https://t.co/Cv4T3nh8kM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RAVI",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "Cold_Bay",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "Xydo",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "Chillin_Homie",
+					"indices": [
+						219,
+						233
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						234,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						183,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202154182678958000,
+					"id_str": "1202154182678958082",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7o3B_UUAIjpT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7o3B_UUAIjpT8.jpg",
+					"url": "https://t.co/Cv4T3nh8kM",
+					"display_url": "pic.twitter.com/Cv4T3nh8kM",
+					"expanded_url": "https://twitter.com/rollinghall/status/1202154204195778560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202154182678958000,
+					"id_str": "1202154182678958082",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EK7o3B_UUAIjpT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK7o3B_UUAIjpT8.jpg",
+					"url": "https://t.co/Cv4T3nh8kM",
+					"display_url": "pic.twitter.com/Cv4T3nh8kM",
+					"expanded_url": "https://twitter.com/rollinghall/status/1202154204195778560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 791,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.4 GROOVL1N concert&gt;\n\n· 일시 : 2020년 1월 12일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : RAVI, Cold Bay, Xydo, Chillin Homie\n· 예매 : 멜론티켓 2019년 12월 11일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#RAVI #Cold_Bay #Xydo #Chillin_Homie #롤링홀 https://t.co/Cv4T3nh8kM"
+	},
+	{
 		"created_at": "Wed Dec 04 08:18:39 +0000 2019",
 		"id": 1202130748116848600,
 		"id_str": "1202140143165071361",
