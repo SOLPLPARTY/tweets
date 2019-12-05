@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 04:13:28 +0000 2019",
+		"id": 1202426003697438700,
+		"id_str": "1202440830667108352",
+		"full_text": "오매!!! 우리 MC~~님 단독공연 잘 마치시고 19일에 사뿐히 난장곡간으로 오십시오~~!! https://t.co/cXT1jr75l2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cXT1jr75l2",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1202421146349494272",
+					"display_url": "twitter.com/nanjangcon/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% LIVE MUSIC PROGRAM \n고품격라이브음악방송 NANJANG OFFICIAL. \nListen to Real Korean Music!\n8대MC 자신남매(Zairo&신현희)\n광주MBC제작 / 전남 나주시 / 나주정미소 난장곡간 /",
+			"url": "https://t.co/a4fHCErFEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4fHCErFEn",
+							"expanded_url": "https://www.facebook.com/reallivenanjang/",
+							"display_url": "facebook.com/reallivenanjan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4414,
+			"friends_count": 3593,
+			"listed_count": 109,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202421146349494300,
+		"quoted_status_id_str": "1202421146349494272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cXT1jr75l2",
+			"expanded": "https://twitter.com/nanjangcon/status/1202421146349494272",
+			"display": "twitter.com/nanjangcon/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 05 02:55:15 +0000 2019",
+			"id": 1202421146349494300,
+			"id_str": "1202421146349494272",
+			"full_text": "&lt;난장이 미쳤다!&gt;\n12월 19일(목) 저녁 7시\n#나주정미소 #난장곡간\n개관기념 특집 두번째\n\nMC자신남매(자이로 신현희)\n완전체 출격\n\n#자이로 의 난장MC를 축하하는\n#이시영 #조한결 #멜로우키친 \n자이로 스페셜!\n몽환적감성 #새소년 \n달콤쌉싸르한 #디에이드\n\n관람신청 -https://t.co/sCBprkcVI5 https://t.co/t82VEaiNiC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "나주정미소",
+						"indices": [
+							34,
+							40
+						]
+					},
+					{
+						"text": "난장곡간",
+						"indices": [
+							41,
+							46
+						]
+					},
+					{
+						"text": "자이로",
+						"indices": [
+							84,
+							88
+						]
+					},
+					{
+						"text": "이시영",
+						"indices": [
+							102,
+							106
+						]
+					},
+					{
+						"text": "조한결",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "멜로우키친",
+						"indices": [
+							112,
+							118
+						]
+					},
+					{
+						"text": "새소년",
+						"indices": [
+							135,
+							139
+						]
+					},
+					{
+						"text": "디에이드",
+						"indices": [
+							148,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sCBprkcVI5",
+						"expanded_url": "http://naver.me/G6ZCtMOe",
+						"display_url": "naver.me/G6ZCtMOe",
+						"indices": [
+							161,
+							184
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1202420871266107400,
+						"id_str": "1202420871266107392",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/EK_baWZVAAAJ0ig.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK_baWZVAAAJ0ig.jpg",
+						"url": "https://t.co/t82VEaiNiC",
+						"display_url": "pic.twitter.com/t82VEaiNiC",
+						"expanded_url": "https://twitter.com/nanjangcon/status/1202421146349494272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 259,
+										"y": 478,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 106,
+										"y": 412,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 534,
+										"y": 448,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 249,
+										"y": 467,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 413,
+										"y": 425,
+										"h": 62,
+										"w": 62
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202420871266107400,
+						"id_str": "1202420871266107392",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/EK_baWZVAAAJ0ig.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK_baWZVAAAJ0ig.jpg",
+						"url": "https://t.co/t82VEaiNiC",
+						"display_url": "pic.twitter.com/t82VEaiNiC",
+						"expanded_url": "https://twitter.com/nanjangcon/status/1202421146349494272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 259,
+										"y": 478,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 106,
+										"y": 412,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 534,
+										"y": 448,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 249,
+										"y": 467,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 413,
+										"y": 425,
+										"h": 62,
+										"w": 62
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 367,
+										"y": 676,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 150,
+										"y": 583,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 755,
+										"y": 633,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 352,
+										"y": 660,
+										"h": 76,
+										"w": 76
+									},
+									{
+										"x": 584,
+										"y": 601,
+										"h": 88,
+										"w": 88
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213206629,
+				"id_str": "213206629",
+				"name": "MBC 문화콘서트 난장",
+				"screen_name": "nanjangcon",
+				"location": "Southkorea",
+				"description": "100% LIVE MUSIC PROGRAM \n고품격라이브음악방송 NANJANG OFFICIAL. \nListen to Real Korean Music!\n8대MC 자신남매(Zairo&신현희)\n광주MBC제작 / 전남 나주시 / 나주정미소 난장곡간 /",
+				"url": "https://t.co/a4fHCErFEn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a4fHCErFEn",
+								"expanded_url": "https://www.facebook.com/reallivenanjang/",
+								"display_url": "facebook.com/reallivenanjan…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4414,
+				"friends_count": 3593,
+				"listed_count": 109,
+				"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7251,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오매!!! 우리 MC~~님 단독공연 잘 마치시고 19일에 사뿐히 난장곡간으로 오십시오~~!! https://t.co/cXT1jr75l2"
+	},
+	{
 		"created_at": "Thu Dec 05 03:13:28 +0000 2019",
 		"id": 1202421146349494300,
 		"id_str": "1202425728899387392",
