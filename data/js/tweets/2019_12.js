@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 05:13:27 +0000 2019",
+		"id": 1202443667207684000,
+		"id_str": "1202455926072107008",
+		"full_text": "[月刊 헬로루키] 12월 소식🗓\n\n2019 헬로루키의 2019 마지막 무대!🎪\n헬로루키와 함께 따듯한 연말 보내세요☃️\n\n2019 월간 헬로루키는\n넘어갈 달력의 한 페이지와 함께 마지막 인사 드립니다🙇🏻‍♂️\n그러나! 우리 루키들의 활동은 내년에도!\n계속되니 많은 관심 부탁드려요~ 😍\n\nhttps://t.co/2OUO9s5una https://t.co/k6wc1S8Ha4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2OUO9s5una",
+					"expanded_url": "http://bitly.kr/dqvaTiq",
+					"display_url": "bitly.kr/dqvaTiq",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202443656377950200,
+					"id_str": "1202443656377950208",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EK_wInjUYAAnzCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK_wInjUYAAnzCm.jpg",
+					"url": "https://t.co/k6wc1S8Ha4",
+					"display_url": "pic.twitter.com/k6wc1S8Ha4",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1202443667207684102/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 259,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202443656377950200,
+					"id_str": "1202443656377950208",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EK_wInjUYAAnzCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK_wInjUYAAnzCm.jpg",
+					"url": "https://t.co/k6wc1S8Ha4",
+					"display_url": "pic.twitter.com/k6wc1S8Ha4",
+					"expanded_url": "https://twitter.com/hello_rookie/status/1202443667207684102/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 344,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 259,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5168,
+			"friends_count": 4644,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[月刊 헬로루키] 12월 소식🗓\n\n2019 헬로루키의 2019 마지막 무대!🎪\n헬로루키와 함께 따듯한 연말 보내세요☃️\n\n2019 월간 헬로루키는\n넘어갈 달력의 한 페이지와 함께 마지막 인사 드립니다🙇🏻‍♂️\n그러나! 우리 루키들의 활동은 내년에도!\n계속되니 많은 관심 부탁드려요~ 😍\n\nhttps://t.co/2OUO9s5una https://t.co/k6wc1S8Ha4"
+	},
+	{
 		"created_at": "Thu Dec 05 04:13:28 +0000 2019",
 		"id": 1202426003697438700,
 		"id_str": "1202440830667108352",
