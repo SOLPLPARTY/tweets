@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 23:18:16 +0000 2019",
+		"id": 1202364478219665400,
+		"id_str": "1202366541297278976",
+		"full_text": "내년 봄 .@BandDBGC는 Focus Wales 2020에 갑니다. 아름다운 Wrexham에서 만나요👋💙❤️ https://t.co/qchlHrtbet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BandDBGC",
+					"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+					"id": 944548838731157500,
+					"id_str": "944548838731157506",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qchlHrtbet",
+					"expanded_url": "https://twitter.com/focuswales/status/1202256385792249856",
+					"display_url": "twitter.com/focuswales/sta…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3514,
+			"friends_count": 1336,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202256385792249900,
+		"quoted_status_id_str": "1202256385792249856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qchlHrtbet",
+			"expanded": "https://twitter.com/focuswales/status/1202256385792249856",
+			"display": "twitter.com/focuswales/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 04 16:00:33 +0000 2019",
+			"id": 1202256385792249900,
+			"id_str": "1202256385792249856",
+			"full_text": "More artists announced for FOCUS Wales 2020! 👀 https://t.co/hYRWXCDGyD @altingunband @stealingsheep @HMSMorris @chinatownslalom #TheMembranes @casi @KarimaFrancis + MORE! @visitwales https://t.co/hx7QuATQmb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheMembranes",
+						"indices": [
+							128,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "altingunband",
+						"name": "Altın Gün",
+						"id": 819195242872262700,
+						"id_str": "819195242872262657",
+						"indices": [
+							71,
+							84
+						]
+					},
+					{
+						"screen_name": "stealingsheep",
+						"name": "Stealing Sheep",
+						"id": 72728483,
+						"id_str": "72728483",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"screen_name": "HMSMorris",
+						"name": "HMS Morris",
+						"id": 2416216732,
+						"id_str": "2416216732",
+						"indices": [
+							100,
+							110
+						]
+					},
+					{
+						"screen_name": "chinatownslalom",
+						"name": "chinatown slalom",
+						"id": 1002989658303811600,
+						"id_str": "1002989658303811586",
+						"indices": [
+							111,
+							127
+						]
+					},
+					{
+						"screen_name": "casi",
+						"name": "Casi Wyn ☾",
+						"id": 379121226,
+						"id_str": "379121226",
+						"indices": [
+							142,
+							147
+						]
+					},
+					{
+						"screen_name": "KarimaFrancis",
+						"name": "Karima Francis",
+						"id": 103080737,
+						"id_str": "103080737",
+						"indices": [
+							148,
+							162
+						]
+					},
+					{
+						"screen_name": "visitwales",
+						"name": "Visit Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+						"id": 21025855,
+						"id_str": "21025855",
+						"indices": [
+							171,
+							182
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hYRWXCDGyD",
+						"expanded_url": "http://focuswales.com",
+						"display_url": "focuswales.com",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1202256360366313500,
+						"id_str": "1202256360366313472",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EK9FyjiWkAAPx3t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK9FyjiWkAAPx3t.jpg",
+						"url": "https://t.co/hx7QuATQmb",
+						"display_url": "pic.twitter.com/hx7QuATQmb",
+						"expanded_url": "https://twitter.com/FocusWales/status/1202256385792249856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1449,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "24862728",
+										"screen_name": "PRSFoundation",
+										"name": "PRS Foundation"
+									},
+									{
+										"type": "user",
+										"user_id": "233927225",
+										"screen_name": "Arts_Wales_",
+										"name": "ArtsCouncil of Wales"
+									},
+									{
+										"type": "user",
+										"user_id": "1179359220",
+										"screen_name": "WAICymruWales",
+										"name": "WAI Cymru Wales"
+									},
+									{
+										"type": "user",
+										"user_id": "16432882",
+										"screen_name": "Gigantic",
+										"name": "Gigantic Tickets"
+									},
+									{
+										"type": "user",
+										"user_id": "239879258",
+										"screen_name": "wrexham",
+										"name": "Wrexham.com"
+									},
+									{
+										"type": "user",
+										"user_id": "14396131",
+										"screen_name": "leaderlive",
+										"name": "LeaderLive.co.uk"
+									},
+									{
+										"type": "user",
+										"user_id": "35441586",
+										"screen_name": "stereoboard",
+										"name": "Stereoboard"
+									},
+									{
+										"type": "user",
+										"user_id": "587349535",
+										"screen_name": "ThisIsWrexham",
+										"name": "This Is Wrexham"
+									},
+									{
+										"type": "user",
+										"user_id": "197385318",
+										"screen_name": "BlipAgency",
+										"name": "Blip Agency"
+									},
+									{
+										"type": "user",
+										"user_id": "850758864",
+										"screen_name": "itbagency",
+										"name": "ITB Agency"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1553,
+										"y": 12,
+										"h": 122,
+										"w": 122
+									},
+									{
+										"x": 1259,
+										"y": 51,
+										"h": 119,
+										"w": 119
+									},
+									{
+										"x": 2150,
+										"y": 626,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1798,
+										"y": 671,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 2183,
+										"y": 991,
+										"h": 122,
+										"w": 122
+									},
+									{
+										"x": 1982,
+										"y": 1020,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 1769,
+										"y": 1033,
+										"h": 119,
+										"w": 119
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 319,
+										"y": 2,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 258,
+										"y": 10,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 442,
+										"y": 128,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 369,
+										"y": 137,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 448,
+										"y": 203,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 407,
+										"y": 209,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 363,
+										"y": 212,
+										"h": 24,
+										"w": 24
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 563,
+										"y": 4,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 456,
+										"y": 18,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 780,
+										"y": 227,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 652,
+										"y": 243,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 792,
+										"y": 359,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 719,
+										"y": 370,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 642,
+										"y": 374,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 962,
+										"y": 7,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 779,
+										"y": 31,
+										"h": 73,
+										"w": 73
+									},
+									{
+										"x": 1331,
+										"y": 387,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 1113,
+										"y": 415,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 1352,
+										"y": 613,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 1227,
+										"y": 631,
+										"h": 71,
+										"w": 71
+									},
+									{
+										"x": 1095,
+										"y": 639,
+										"h": 73,
+										"w": 73
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202256360366313500,
+						"id_str": "1202256360366313472",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EK9FyjiWkAAPx3t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK9FyjiWkAAPx3t.jpg",
+						"url": "https://t.co/hx7QuATQmb",
+						"display_url": "pic.twitter.com/hx7QuATQmb",
+						"expanded_url": "https://twitter.com/FocusWales/status/1202256385792249856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1449,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "24862728",
+										"screen_name": "PRSFoundation",
+										"name": "PRS Foundation"
+									},
+									{
+										"type": "user",
+										"user_id": "233927225",
+										"screen_name": "Arts_Wales_",
+										"name": "ArtsCouncil of Wales"
+									},
+									{
+										"type": "user",
+										"user_id": "1179359220",
+										"screen_name": "WAICymruWales",
+										"name": "WAI Cymru Wales"
+									},
+									{
+										"type": "user",
+										"user_id": "16432882",
+										"screen_name": "Gigantic",
+										"name": "Gigantic Tickets"
+									},
+									{
+										"type": "user",
+										"user_id": "239879258",
+										"screen_name": "wrexham",
+										"name": "Wrexham.com"
+									},
+									{
+										"type": "user",
+										"user_id": "14396131",
+										"screen_name": "leaderlive",
+										"name": "LeaderLive.co.uk"
+									},
+									{
+										"type": "user",
+										"user_id": "35441586",
+										"screen_name": "stereoboard",
+										"name": "Stereoboard"
+									},
+									{
+										"type": "user",
+										"user_id": "587349535",
+										"screen_name": "ThisIsWrexham",
+										"name": "This Is Wrexham"
+									},
+									{
+										"type": "user",
+										"user_id": "197385318",
+										"screen_name": "BlipAgency",
+										"name": "Blip Agency"
+									},
+									{
+										"type": "user",
+										"user_id": "850758864",
+										"screen_name": "itbagency",
+										"name": "ITB Agency"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1553,
+										"y": 12,
+										"h": 122,
+										"w": 122
+									},
+									{
+										"x": 1259,
+										"y": 51,
+										"h": 119,
+										"w": 119
+									},
+									{
+										"x": 2150,
+										"y": 626,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 1798,
+										"y": 671,
+										"h": 109,
+										"w": 109
+									},
+									{
+										"x": 2183,
+										"y": 991,
+										"h": 122,
+										"w": 122
+									},
+									{
+										"x": 1982,
+										"y": 1020,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 1769,
+										"y": 1033,
+										"h": 119,
+										"w": 119
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 319,
+										"y": 2,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 258,
+										"y": 10,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 442,
+										"y": 128,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 369,
+										"y": 137,
+										"h": 22,
+										"w": 22
+									},
+									{
+										"x": 448,
+										"y": 203,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 407,
+										"y": 209,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 363,
+										"y": 212,
+										"h": 24,
+										"w": 24
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 563,
+										"y": 4,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 456,
+										"y": 18,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 780,
+										"y": 227,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 652,
+										"y": 243,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 792,
+										"y": 359,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 719,
+										"y": 370,
+										"h": 42,
+										"w": 42
+									},
+									{
+										"x": 642,
+										"y": 374,
+										"h": 43,
+										"w": 43
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 962,
+										"y": 7,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 779,
+										"y": 31,
+										"h": 73,
+										"w": 73
+									},
+									{
+										"x": 1331,
+										"y": 387,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 1113,
+										"y": 415,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 1352,
+										"y": 613,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 1227,
+										"y": 631,
+										"h": 71,
+										"w": 71
+									},
+									{
+										"x": 1095,
+										"y": 639,
+										"h": 73,
+										"w": 73
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175439478,
+				"id_str": "175439478",
+				"name": "FOCUS Wales",
+				"screen_name": "FocusWales",
+				"location": "Wales",
+				"description": "FOCUS Wales 2020: INTERNATIONAL SHOWCASE FESTIVAL 7-9 MAY #WREXHAM #WALES https://t.co/WUMTQACRN6",
+				"url": "https://t.co/7AXDkVwsrR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7AXDkVwsrR",
+								"expanded_url": "http://www.focuswales.com",
+								"display_url": "focuswales.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WUMTQACRN6",
+								"expanded_url": "http://focuswales.com",
+								"display_url": "focuswales.com",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5605,
+				"friends_count": 1615,
+				"listed_count": 81,
+				"created_at": "Fri Aug 06 16:21:02 +0000 2010",
+				"favourites_count": 9380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "76B8E3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134030201355198464/mFLPy4Jj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134030201355198464/mFLPy4Jj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/175439478/1438088962",
+				"profile_link_color": "54B067",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내년 봄 .@BandDBGC는 Focus Wales 2020에 갑니다. 아름다운 Wrexham에서 만나요👋💙❤️ https://t.co/qchlHrtbet"
+	},
+	{
 		"created_at": "Wed Dec 04 14:13:35 +0000 2019",
 		"id": 1202223076651352000,
 		"id_str": "1202229464706494465",
