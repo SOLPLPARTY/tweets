@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 09:13:28 +0000 2019",
+		"id": 1202503352279453700,
+		"id_str": "1202516324322332672",
+		"full_text": "[공연추천]\n롤링홀 개관 25주년을 기념하여 펼쳐지는 실내 뮤직 페스티벌인데요🎊 홍대에 놀러 오신다면 부담 없이 공연 한 편 즐겨보는 건 어떠세요~?\n\n&lt;롤링 25주년 기념 공연&gt;\n💚일시 : 2020년 1월~4월 \n💚장소 : 롤링홀\n☑️개별 일정은 순차적으로 공개될 예정이니 많은 기대 부탁드립니다🤗 https://t.co/gSmFPAgpR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202503340912861200,
+					"id_str": "1202503340912861185",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ELAmatxU4AEoCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELAmatxU4AEoCKo.jpg",
+					"url": "https://t.co/gSmFPAgpR0",
+					"display_url": "pic.twitter.com/gSmFPAgpR0",
+					"expanded_url": "https://twitter.com/xindieticket/status/1202503352279453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2185812985",
+									"screen_name": "rollinghall",
+									"name": "롤링홀"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 412,
+									"y": 1233,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 220,
+									"y": 1006,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 878,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 156,
+									"y": 717,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 412,
+									"y": 1233,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 220,
+									"y": 1006,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 497,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 88,
+									"y": 406,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202503340912861200,
+					"id_str": "1202503340912861185",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ELAmatxU4AEoCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELAmatxU4AEoCKo.jpg",
+					"url": "https://t.co/gSmFPAgpR0",
+					"display_url": "pic.twitter.com/gSmFPAgpR0",
+					"expanded_url": "https://twitter.com/xindieticket/status/1202503352279453696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2185812985",
+									"screen_name": "rollinghall",
+									"name": "롤링홀"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 412,
+									"y": 1233,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 220,
+									"y": 1006,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 878,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 156,
+									"y": 717,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 412,
+									"y": 1233,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 220,
+									"y": 1006,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 497,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 88,
+									"y": 406,
+									"h": 33,
+									"w": 33
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826,
+			"friends_count": 2714,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n롤링홀 개관 25주년을 기념하여 펼쳐지는 실내 뮤직 페스티벌인데요🎊 홍대에 놀러 오신다면 부담 없이 공연 한 편 즐겨보는 건 어떠세요~?\n\n&lt;롤링 25주년 기념 공연&gt;\n💚일시 : 2020년 1월~4월 \n💚장소 : 롤링홀\n☑️개별 일정은 순차적으로 공개될 예정이니 많은 기대 부탁드립니다🤗 https://t.co/gSmFPAgpR0"
+	},
+	{
 		"created_at": "Thu Dec 05 08:02:21 +0000 2019",
 		"id": 1202498427747262500,
 		"id_str": "1202498427747262464",
