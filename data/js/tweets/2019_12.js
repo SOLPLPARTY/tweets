@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 11:13:33 +0000 2019",
+		"id": 1202545462118477800,
+		"id_str": "1202546545226342400",
+		"full_text": "#십란한밤 #캐스퍼라디오\n올댓뮤직 녹화 후 007아세아가 모인 펜션에서 무슨일이 일어났을까요!? \n\nhttps://t.co/9HhHkJVtbj\n\n#권정열 #고영배 #이원석 #배인혁 #우주히피 #이지형",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이원석",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9HhHkJVtbj",
+					"expanded_url": "https://youtu.be/wFZwpi4Zaxo",
+					"display_url": "youtu.be/wFZwpi4Zaxo",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#십란한밤 #캐스퍼라디오\n올댓뮤직 녹화 후 007아세아가 모인 펜션에서 무슨일이 일어났을까요!? \n\nhttps://t.co/9HhHkJVtbj\n\n#권정열 #고영배 #이원석 #배인혁 #우주히피 #이지형"
+	},
+	{
+		"created_at": "Thu Dec 05 11:13:28 +0000 2019",
+		"id": 1202544414200979500,
+		"id_str": "1202546523676053504",
+		"full_text": "#십란한밤 #캐스퍼라디오\n십란한밤에서만 들을 수 있는 소란 &lt;기적&gt;발매 비하인드 🙊❤️ “온세상이 따뜻해졌어요!!”\n\nhttps://t.co/VpTtpGwK65\n#권정열 #고영배 #십란",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "십란",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VpTtpGwK65",
+					"expanded_url": "https://youtu.be/z1Ax6W-j9Nc",
+					"display_url": "youtu.be/z1Ax6W-j9Nc",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1376,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#십란한밤 #캐스퍼라디오\n십란한밤에서만 들을 수 있는 소란 &lt;기적&gt;발매 비하인드 🙊❤️ “온세상이 따뜻해졌어요!!”\n\nhttps://t.co/VpTtpGwK65\n#권정열 #고영배 #십란"
+	},
+	{
+		"created_at": "Thu Dec 05 10:18:25 +0000 2019",
+		"id": 1202521207951609900,
+		"id_str": "1202532671164997633",
+		"full_text": "드린지 오 3집 발매 쇼케이스가 벌써 내일입니다!\n예매는 오늘 자정 마감이고, 내일 현장판매도 소량 가능합니다. 추위가 매서우니 옷 단단히 입고 오세요:)\n\n2019.12.6(금) 8시\n재미공작소\n게스트 : 송은지\n구글예약 https://t.co/t9eX0RTFLS\n아이겟 https://t.co/CNqS2LHpIh https://t.co/yIcyytSU6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t9eX0RTFLS",
+					"expanded_url": "https://forms.gle/Kppzvd55FoQM9SHGA",
+					"display_url": "forms.gle/Kppzvd55FoQM9S…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/CNqS2LHpIh",
+					"expanded_url": "https://iget.page.link/KiHg",
+					"display_url": "iget.page.link/KiHg",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202517315822112800,
+					"id_str": "1202517315822112768",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202517315822112768/pu/img/u4Y9tsdRO7To0KX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202517315822112768/pu/img/u4Y9tsdRO7To0KX2.jpg",
+					"url": "https://t.co/yIcyytSU6G",
+					"display_url": "pic.twitter.com/yIcyytSU6G",
+					"expanded_url": "https://twitter.com/electric_muse/status/1202521207951609857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202517315822112800,
+					"id_str": "1202517315822112768",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202517315822112768/pu/img/u4Y9tsdRO7To0KX2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202517315822112768/pu/img/u4Y9tsdRO7To0KX2.jpg",
+					"url": "https://t.co/yIcyytSU6G",
+					"display_url": "pic.twitter.com/yIcyytSU6G",
+					"expanded_url": "https://twitter.com/electric_muse/status/1202521207951609857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52653,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202517315822112768/pu/vid/480x270/awE_4dkth3f7h7dE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202517315822112768/pu/vid/1280x720/fQVCUbfA7PayhGnr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202517315822112768/pu/pl/DkS2KTd8BQzhN10u.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202517315822112768/pu/vid/640x360/uQL2iWjPF8WRZCk4.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3515,
+			"friends_count": 1336,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드린지 오 3집 발매 쇼케이스가 벌써 내일입니다!\n예매는 오늘 자정 마감이고, 내일 현장판매도 소량 가능합니다. 추위가 매서우니 옷 단단히 입고 오세요:)\n\n2019.12.6(금) 8시\n재미공작소\n게스트 : 송은지\n구글예약 https://t.co/t9eX0RTFLS\n아이겟 https://t.co/CNqS2LHpIh https://t.co/yIcyytSU6G"
+	},
+	{
 		"created_at": "Thu Dec 05 09:18:39 +0000 2019",
 		"id": 1202515365936263200,
 		"id_str": "1202517632240553984",
