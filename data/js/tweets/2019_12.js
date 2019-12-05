@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 13:13:28 +0000 2019",
+		"id": 1202570529250496500,
+		"id_str": "1202576724761952256",
+		"full_text": "🔈12월5일 (목) 난장 on air🔈\nPM11시05분 광주MBC \n진정한 힙합을 즐겨\n#팔로알토\n잭했더니 킹하고 콩하는 \n밴드 #잭킹콩\n오늘도 신나게 즐겨보자규😎\nhttps://t.co/K5iwNuO4bW 에서도 \n실시간 시청, \n방송 다시보기 가능합니다\n실시간 유튜브 보기✔️✔️\nhttps://t.co/pvYVtHkY6c\n. https://t.co/tz1W1X0NRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팔로알토",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "잭킹콩",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K5iwNuO4bW",
+					"expanded_url": "http://www.kjmbc.co.kr",
+					"display_url": "kjmbc.co.kr",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/pvYVtHkY6c",
+					"expanded_url": "https://youtu.be/X3wl8IqdDrs",
+					"display_url": "youtu.be/X3wl8IqdDrs",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202570360543051800,
+					"id_str": "1202570360543051784",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202570360543051784/pu/img/q-03K4qJLraaIXZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202570360543051784/pu/img/q-03K4qJLraaIXZA.jpg",
+					"url": "https://t.co/tz1W1X0NRG",
+					"display_url": "pic.twitter.com/tz1W1X0NRG",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1202570529250496512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202570360543051800,
+					"id_str": "1202570360543051784",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202570360543051784/pu/img/q-03K4qJLraaIXZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202570360543051784/pu/img/q-03K4qJLraaIXZA.jpg",
+					"url": "https://t.co/tz1W1X0NRG",
+					"display_url": "pic.twitter.com/tz1W1X0NRG",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1202570529250496512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 43584,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202570360543051784/pu/vid/720x406/Nt4px8QJjmEE8GOK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202570360543051784/pu/pl/gV55adbvsCtvbgpr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202570360543051784/pu/vid/478x270/oV3hBOux-rd84_mU.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% LIVE MUSIC PROGRAM \n고품격라이브음악방송 NANJANG OFFICIAL. \nListen to Real Korean Music!\n8대MC 자신남매(Zairo&신현희)\n광주MBC제작 / 전남 나주시 / 나주정미소 난장곡간 /",
+			"url": "https://t.co/a4fHCErFEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4fHCErFEn",
+							"expanded_url": "https://www.facebook.com/reallivenanjang/",
+							"display_url": "facebook.com/reallivenanjan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4418,
+			"friends_count": 3593,
+			"listed_count": 109,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈12월5일 (목) 난장 on air🔈\nPM11시05분 광주MBC \n진정한 힙합을 즐겨\n#팔로알토\n잭했더니 킹하고 콩하는 \n밴드 #잭킹콩\n오늘도 신나게 즐겨보자규😎\nhttps://t.co/K5iwNuO4bW 에서도 \n실시간 시청, \n방송 다시보기 가능합니다\n실시간 유튜브 보기✔️✔️\nhttps://t.co/pvYVtHkY6c\n. https://t.co/tz1W1X0NRG"
+	},
+	{
+		"created_at": "Thu Dec 05 12:18:23 +0000 2019",
+		"id": 1202559043379679200,
+		"id_str": "1202562861396111360",
+		"full_text": "BUS STOP LIVE 🎙\n#정승환 #십이월_이십오일의_고백\n⠀\nLIVE CLIP Director 이인훈\n🧤 https://t.co/HKmYWbb6IX\n#JungSeungHwan #Mychristmaswish https://t.co/WlAt6MJm9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "십이월_이십오일의_고백",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "Mychristmaswish",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HKmYWbb6IX",
+					"expanded_url": "https://youtu.be/o52NxiQuPcQ",
+					"display_url": "youtu.be/o52NxiQuPcQ",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202558938291396600,
+					"id_str": "1202558938291396609",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202558938291396609/pu/img/XCNOqZvlXc6ocwQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202558938291396609/pu/img/XCNOqZvlXc6ocwQj.jpg",
+					"url": "https://t.co/WlAt6MJm9f",
+					"display_url": "pic.twitter.com/WlAt6MJm9f",
+					"expanded_url": "https://twitter.com/antennamusic/status/1202559043379679232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202558938291396600,
+					"id_str": "1202558938291396609",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202558938291396609/pu/img/XCNOqZvlXc6ocwQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202558938291396609/pu/img/XCNOqZvlXc6ocwQj.jpg",
+					"url": "https://t.co/WlAt6MJm9f",
+					"display_url": "pic.twitter.com/WlAt6MJm9f",
+					"expanded_url": "https://twitter.com/antennamusic/status/1202559043379679232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54418,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202558938291396609/pu/pl/WjgDpQh7gboE8FWI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202558938291396609/pu/vid/640x360/Ki7QM-IuQR-zO2fj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202558938291396609/pu/vid/1280x720/fd6o2QCdukmII7Aw.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202558938291396609/pu/vid/480x270/McbYcEPpd7m61Tif.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34860,
+			"friends_count": 2958,
+			"listed_count": 414,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BUS STOP LIVE 🎙\n#정승환 #십이월_이십오일의_고백\n⠀\nLIVE CLIP Director 이인훈\n🧤 https://t.co/HKmYWbb6IX\n#JungSeungHwan #Mychristmaswish https://t.co/WlAt6MJm9f"
+	},
+	{
 		"created_at": "Thu Dec 05 11:18:25 +0000 2019",
 		"id": 1202543215783530500,
 		"id_str": "1202547769682092032",
