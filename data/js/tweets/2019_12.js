@@ -1,6 +1,805 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 03:18:30 +0000 2019",
+		"id": 1202787177647620000,
+		"id_str": "1202789383545462785",
+		"full_text": "FLO ▶️https://t.co/yOLbRnkKlA\nVIBE ▶️https://t.co/uBr15HhePO\n멜론 ▶️https://t.co/1ouPx7Y0Uk\n벅스 ▶️https://t.co/dfKDqVBI4s\n지니 ▶️https://t.co/FbvN8Z10xd\n-\n#홍이삭 #잠 #LetsBeFriends #별같아서 #소년 #놓치고싶지않은사소한것들",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "잠",
+					"indices": [
+						155,
+						157
+					]
+				},
+				{
+					"text": "LetsBeFriends",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"text": "별같아서",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "소년",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "놓치고싶지않은사소한것들",
+					"indices": [
+						183,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yOLbRnkKlA",
+					"expanded_url": "http://bit.ly/2YncDcr",
+					"display_url": "bit.ly/2YncDcr",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/uBr15HhePO",
+					"expanded_url": "http://bit.ly/2YkujoM",
+					"display_url": "bit.ly/2YkujoM",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/1ouPx7Y0Uk",
+					"expanded_url": "http://bit.ly/2Yk0YLc",
+					"display_url": "bit.ly/2Yk0YLc",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/dfKDqVBI4s",
+					"expanded_url": "http://bit.ly/2RonIZ9",
+					"display_url": "bit.ly/2RonIZ9",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/FbvN8Z10xd",
+					"expanded_url": "http://bit.ly/38l2Eca",
+					"display_url": "bit.ly/38l2Eca",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202787041685078000,
+		"in_reply_to_status_id_str": "1202787041685078016",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "FLO ▶️https://t.co/yOLbRnkKlA\nVIBE ▶️https://t.co/uBr15HhePO\n멜론 ▶️https://t.co/1ouPx7Y0Uk\n벅스 ▶️https://t.co/dfKDqVBI4s\n지니 ▶️https://t.co/FbvN8Z10xd\n-\n#홍이삭 #잠 #LetsBeFriends #별같아서 #소년 #놓치고싶지않은사소한것들"
+	},
+	{
+		"created_at": "Fri Dec 06 03:18:27 +0000 2019",
+		"id": 1202787041685078000,
+		"id_str": "1202789370396364801",
+		"full_text": "#홍이삭 EP [놓치고 싶지 않은 사소한 것들] 발매!\n⠀\n지금 모든 음원사이트에서 감상하실 수 있습니다🎧\n⠀\n💿스트리밍 이벤트도 함께 진행됩니다. 자세한 사항은 유어썸머(@yoursummernet) 계정의 게시글을 확인해주세요. https://t.co/tW0IQSMYn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202787014166208500,
+					"id_str": "1202787014166208512",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/ELEoaq_UYAAKWjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELEoaq_UYAAKWjg.jpg",
+					"url": "https://t.co/tW0IQSMYn8",
+					"display_url": "pic.twitter.com/tW0IQSMYn8",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202787041685078016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202787014166208500,
+					"id_str": "1202787014166208512",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/ELEoaq_UYAAKWjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELEoaq_UYAAKWjg.jpg",
+					"url": "https://t.co/tW0IQSMYn8",
+					"display_url": "pic.twitter.com/tW0IQSMYn8",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202787041685078016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#홍이삭 EP [놓치고 싶지 않은 사소한 것들] 발매!\n⠀\n지금 모든 음원사이트에서 감상하실 수 있습니다🎧\n⠀\n💿스트리밍 이벤트도 함께 진행됩니다. 자세한 사항은 유어썸머(@yoursummernet) 계정의 게시글을 확인해주세요. https://t.co/tW0IQSMYn8"
+	},
+	{
+		"created_at": "Fri Dec 06 03:18:22 +0000 2019",
+		"id": 1202778597989027800,
+		"id_str": "1202789348925726720",
+		"full_text": "실력자들로 이루어진 세션분과의 조합 기대해주세요~\n열심히 준비 중입니다! 🎧🎸🎤🎻🥁\n\n예매 후 멜론에서 홍크노래도 한번씩 듣고 가시는 센스~ 21일 [Grete]가 발매 되었으니까요~\n\n#홍크 #HONK #멜론티켓  @SSmadang @ssLiveHall  #12월29일 #일요일 #단독공연 #상상마당 #6시 #풀밴드 #연말콘서트 https://t.co/wB9aOAiPWP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍크",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "HONK",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "12월29일",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "일요일",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "6시",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "풀밴드",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "연말콘서트",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SSmadang",
+					"name": "KT&G 상상마당",
+					"id": 110358280,
+					"id_str": "110358280",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"screen_name": "ssLiveHall",
+					"name": "KT&G 상상마당 라이브홀",
+					"id": 333941242,
+					"id_str": "333941242",
+					"indices": [
+						131,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202778580222038000,
+					"id_str": "1202778580222038016",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ELEgvwGVUAA0kpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELEgvwGVUAA0kpI.jpg",
+					"url": "https://t.co/wB9aOAiPWP",
+					"display_url": "pic.twitter.com/wB9aOAiPWP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202778597989027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 14,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 185,
+									"y": 40,
+									"h": 414,
+									"w": 414
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 43,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 559,
+									"y": 121,
+									"h": 1247,
+									"w": 1247
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 64,
+									"h": 210,
+									"w": 210
+								},
+								{
+									"x": 820,
+									"y": 178,
+									"h": 1828,
+									"w": 1828
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 6,
+									"y": 25,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 328,
+									"y": 71,
+									"h": 731,
+									"w": 731
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202778580222038000,
+					"id_str": "1202778580222038016",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ELEgvwGVUAA0kpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELEgvwGVUAA0kpI.jpg",
+					"url": "https://t.co/wB9aOAiPWP",
+					"display_url": "pic.twitter.com/wB9aOAiPWP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202778597989027840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 14,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 185,
+									"y": 40,
+									"h": 414,
+									"w": 414
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 43,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 559,
+									"y": 121,
+									"h": 1247,
+									"w": 1247
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 17,
+									"y": 64,
+									"h": 210,
+									"w": 210
+								},
+								{
+									"x": 820,
+									"y": 178,
+									"h": 1828,
+									"w": 1828
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 6,
+									"y": 25,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 328,
+									"y": 71,
+									"h": 731,
+									"w": 731
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202778576451276800,
+		"in_reply_to_status_id_str": "1202778576451276805",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1574832748",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실력자들로 이루어진 세션분과의 조합 기대해주세요~\n열심히 준비 중입니다! 🎧🎸🎤🎻🥁\n\n예매 후 멜론에서 홍크노래도 한번씩 듣고 가시는 센스~ 21일 [Grete]가 발매 되었으니까요~\n\n#홍크 #HONK #멜론티켓  @SSmadang @ssLiveHall  #12월29일 #일요일 #단독공연 #상상마당 #6시 #풀밴드 #연말콘서트 https://t.co/wB9aOAiPWP"
+	},
+	{
 		"created_at": "Fri Dec 06 01:18:43 +0000 2019",
 		"id": 1202755046749769700,
 		"id_str": "1202759237413285888",
