@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 13:13:28 +0000 2019",
+		"id": 1202925738548031500,
+		"id_str": "1202939111276986368",
+		"full_text": "[신규 입고]\n싱어송라이터 민수님의 슬로건이 입고되었습니다⭐️\n추운 날씨임에도 직접 가져다주신 팬분께 감사드립니다😍 내용대로 사랑스러움이 가득한 민수님의 슬로건을 씬디에서 만나보세요❤️ https://t.co/aFjnrYERKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202925709485723600,
+					"id_str": "1202925709485723648",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGmjzUU0AAir9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGmjzUU0AAir9o.jpg",
+					"url": "https://t.co/aFjnrYERKF",
+					"display_url": "pic.twitter.com/aFjnrYERKF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1202925738548031489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "263751129",
+									"screen_name": "msbsound",
+									"name": "매스사 김딸기"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 31,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 152,
+									"y": 31,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 93,
+									"y": 23,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 53,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 259,
+									"y": 53,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 160,
+									"y": 39,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 106,
+									"h": 271,
+									"w": 271
+								},
+								{
+									"x": 511,
+									"y": 106,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 315,
+									"y": 78,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 17,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 86,
+									"y": 17,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 53,
+									"y": 13,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202925709485723600,
+					"id_str": "1202925709485723648",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGmjzUU0AAir9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGmjzUU0AAir9o.jpg",
+					"url": "https://t.co/aFjnrYERKF",
+					"display_url": "pic.twitter.com/aFjnrYERKF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1202925738548031489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "263751129",
+									"screen_name": "msbsound",
+									"name": "매스사 김딸기"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 31,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 152,
+									"y": 31,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 93,
+									"y": 23,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 53,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 259,
+									"y": 53,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 160,
+									"y": 39,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 106,
+									"h": 271,
+									"w": 271
+								},
+								{
+									"x": 511,
+									"y": 106,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 315,
+									"y": 78,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 1,
+									"y": 17,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 86,
+									"y": 17,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 53,
+									"y": 13,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202925709481504800,
+					"id_str": "1202925709481504769",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ELGmjzTUcAE8avJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELGmjzTUcAE8avJ.jpg",
+					"url": "https://t.co/aFjnrYERKF",
+					"display_url": "pic.twitter.com/aFjnrYERKF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1202925738548031489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "263751129",
+									"screen_name": "msbsound",
+									"name": "매스사 김딸기"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 55,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 110,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 18,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 188,
+									"y": 32,
+									"h": 91,
+									"w": 91
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2823,
+			"friends_count": 2712,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n싱어송라이터 민수님의 슬로건이 입고되었습니다⭐️\n추운 날씨임에도 직접 가져다주신 팬분께 감사드립니다😍 내용대로 사랑스러움이 가득한 민수님의 슬로건을 씬디에서 만나보세요❤️ https://t.co/aFjnrYERKF"
+	},
+	{
+		"created_at": "Fri Dec 06 12:18:24 +0000 2019",
+		"id": 1202910592572346400,
+		"id_str": "1202925254248730624",
+		"full_text": "• 일시\n12/11, 1/8, 1/29, 2/12, 2/26 🕰7PM-10PM\n12/25 🕰3PM-6PM\n• 장소 : 서울시립미술관 서소문 본관 1층\n• 대상 : 미술관 방문객 누구나(*별도 신청 없이 참여 가능)\n• 뮤직디렉터: 홍이삭\n-\n#홍이삭 #서울시립미술관 #뮤지엄나이트 #강박² #SeMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "서울시립미술관",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "뮤지엄나이트",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "강박",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "SeMA",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202910566584438800,
+		"in_reply_to_status_id_str": "1202910566584438784",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 일시\n12/11, 1/8, 1/29, 2/12, 2/26 🕰7PM-10PM\n12/25 🕰3PM-6PM\n• 장소 : 서울시립미술관 서소문 본관 1층\n• 대상 : 미술관 방문객 누구나(*별도 신청 없이 참여 가능)\n• 뮤직디렉터: 홍이삭\n-\n#홍이삭 #서울시립미술관 #뮤지엄나이트 #강박² #SeMA"
+	},
+	{
 		"created_at": "Fri Dec 06 12:13:28 +0000 2019",
 		"id": 1202909333194862600,
 		"id_str": "1202924010616610817",
