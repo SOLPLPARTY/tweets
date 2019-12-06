@@ -1,6 +1,1061 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 09:13:28 +0000 2019",
+		"id": 1202869112332071000,
+		"id_str": "1202878712443736064",
+		"full_text": "#올댓뮤직\n⠀\n어젯밤 방송된 #노브레인 편 재밌게 보셨나요?\n소장 가치 백프로 노브레인져로 변신한 노브레인의 특별한 무대🤘 지금 바로 올댓뮤직 유튜브 채널에서 만나보세요!\n⠀\n#ALLTHATMUSIC #노브레인져\n#nobrain #정우용 #이성우 #정민준 #황현성 https://t.co/bw2upmgVL9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "노브레인",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "노브레인져",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "nobrain",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "정우용",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "이성우",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "정민준",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "황현성",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202869093222666200,
+					"id_str": "1202869093222666240",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFzETTVUAAiy7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFzETTVUAAiy7E.jpg",
+					"url": "https://t.co/bw2upmgVL9",
+					"display_url": "pic.twitter.com/bw2upmgVL9",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1202869112332070912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202869093222666200,
+					"id_str": "1202869093222666240",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFzETTVUAAiy7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFzETTVUAAiy7E.jpg",
+					"url": "https://t.co/bw2upmgVL9",
+					"display_url": "pic.twitter.com/bw2upmgVL9",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1202869112332070912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n⠀\n어젯밤 방송된 #노브레인 편 재밌게 보셨나요?\n소장 가치 백프로 노브레인져로 변신한 노브레인의 특별한 무대🤘 지금 바로 올댓뮤직 유튜브 채널에서 만나보세요!\n⠀\n#ALLTHATMUSIC #노브레인져\n#nobrain #정우용 #이성우 #정민준 #황현성 https://t.co/bw2upmgVL9"
+	},
+	{
+		"created_at": "Fri Dec 06 08:18:35 +0000 2019",
+		"id": 1202863323257041000,
+		"id_str": "1202864902110625793",
+		"full_text": "D-3\nBOY.D(보이디) 'Full of You'\n\n\"가끔 당신은 나에게 잠 못 이루는 밤을 주지만,\n당신이 뭘 하든 난 당신에게 내 마음을 줄거예요.\"\nWhatever you do.\nWhatever you do I will.\n\n@psychoviolet  #보이디 #BOY_D #Full_of_You #fullofyou #12월9일발매 #잠못이루는밤 #전해요 #내마음 #whateveryoudo https://t.co/8Ivncc7ENy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보이디",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "BOY_D",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "Full_of_You",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "fullofyou",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "12월9일발매",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "잠못이루는밤",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "전해요",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "내마음",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "whateveryoudo",
+					"indices": [
+						207,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "psychoviolet",
+					"name": "BOY.D",
+					"id": 129723746,
+					"id_str": "129723746",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202863312490250200,
+					"id_str": "1202863312490250242",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFtz0ZUwAIHkpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFtz0ZUwAIHkpk.jpg",
+					"url": "https://t.co/8Ivncc7ENy",
+					"display_url": "pic.twitter.com/8Ivncc7ENy",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202863323257040896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202863312490250200,
+					"id_str": "1202863312490250242",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFtz0ZUwAIHkpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFtz0ZUwAIHkpk.jpg",
+					"url": "https://t.co/8Ivncc7ENy",
+					"display_url": "pic.twitter.com/8Ivncc7ENy",
+					"expanded_url": "https://twitter.com/orm_ent/status/1202863323257040896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1574832748",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-3\nBOY.D(보이디) 'Full of You'\n\n\"가끔 당신은 나에게 잠 못 이루는 밤을 주지만,\n당신이 뭘 하든 난 당신에게 내 마음을 줄거예요.\"\nWhatever you do.\nWhatever you do I will.\n\n@psychoviolet  #보이디 #BOY_D #Full_of_You #fullofyou #12월9일발매 #잠못이루는밤 #전해요 #내마음 #whateveryoudo https://t.co/8Ivncc7ENy"
+	},
+	{
+		"created_at": "Fri Dec 06 08:18:28 +0000 2019",
+		"id": 1202853186555371500,
+		"id_str": "1202864872196849664",
+		"full_text": "💿 감상평 이벤트도 함께 진행중입니다.\n응모 기간 : 12/20까지\n당첨 발표 : 12/27\n당첨 선물 : 사인CD (5명)\n\n*매거진 링크 : https://t.co/nJDyDuKXmf\n-\n#홍이삭 #EP #놓치고싶지않은사소한것들 #지니매거진 #작업기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "놓치고싶지않은사소한것들",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "작업기",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJDyDuKXmf",
+					"expanded_url": "http://genie.co.kr/VQTN86",
+					"display_url": "genie.co.kr/VQTN86",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202853165378330600,
+		"in_reply_to_status_id_str": "1202853165378330624",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿 감상평 이벤트도 함께 진행중입니다.\n응모 기간 : 12/20까지\n당첨 발표 : 12/27\n당첨 선물 : 사인CD (5명)\n\n*매거진 링크 : https://t.co/nJDyDuKXmf\n-\n#홍이삭 #EP #놓치고싶지않은사소한것들 #지니매거진 #작업기"
+	},
+	{
+		"created_at": "Fri Dec 06 08:18:26 +0000 2019",
+		"id": 1202853165378330600,
+		"id_str": "1202864863275634688",
+		"full_text": "#홍이삭 EP [놓치고 싶지 않은 사소한 것들] 지니 매거진 공개 ✍️\n\n홍이삭 EP [놓치고 싶지 않은 사소한 것들] 작업기와 작업 현장 스케치, 작업을 함께한 음악인들과의 인터뷰까지\n이번 EP의 모든 비하인드가 담겨있는 매거진을 지금 바로 만나보세요! https://t.co/IeY9nabHDm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202853155412664300,
+					"id_str": "1202853155412664320",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFkkmVUYAAykyl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFkkmVUYAAykyl.jpg",
+					"url": "https://t.co/IeY9nabHDm",
+					"display_url": "pic.twitter.com/IeY9nabHDm",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202853165378330624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202853155412664300,
+					"id_str": "1202853155412664320",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFkkmVUYAAykyl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFkkmVUYAAykyl.jpg",
+					"url": "https://t.co/IeY9nabHDm",
+					"display_url": "pic.twitter.com/IeY9nabHDm",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202853165378330624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1202853155412664300,
+					"id_str": "1202853155412664326",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFkkmVUYAYGWE_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFkkmVUYAYGWE_.jpg",
+					"url": "https://t.co/IeY9nabHDm",
+					"display_url": "pic.twitter.com/IeY9nabHDm",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202853165378330624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 255,
+									"y": 88,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 197,
+									"y": 126,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 196,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 436,
+									"y": 279,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 450,
+									"y": 156,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 348,
+									"y": 223,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 196,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 436,
+									"y": 279,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1202853155416899600,
+					"id_str": "1202853155416899584",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELFkkmWVAAAdZAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELFkkmWVAAAdZAt.jpg",
+					"url": "https://t.co/IeY9nabHDm",
+					"display_url": "pic.twitter.com/IeY9nabHDm",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1202853165378330624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#홍이삭 EP [놓치고 싶지 않은 사소한 것들] 지니 매거진 공개 ✍️\n\n홍이삭 EP [놓치고 싶지 않은 사소한 것들] 작업기와 작업 현장 스케치, 작업을 함께한 음악인들과의 인터뷰까지\n이번 EP의 모든 비하인드가 담겨있는 매거진을 지금 바로 만나보세요! https://t.co/IeY9nabHDm"
+	},
+	{
 		"created_at": "Fri Dec 06 08:02:31 +0000 2019",
 		"id": 1202860858776457200,
 		"id_str": "1202860858776457216",
