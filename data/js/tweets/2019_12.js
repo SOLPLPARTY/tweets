@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 14:13:28 +0000 2019",
+		"id": 1202954125312319500,
+		"id_str": "1202954210725236738",
+		"full_text": "여러분...날씨가 넘 추워요.. 🔥그럴땐 이노래 .. 어떠세요?\n\n🎵치스비치 - Just 4 U...\n\n #치스비치 #just4U\n#치즈 #스텔라장 #러비 #박문치 #스포 #스포 #스포 #스포 \n\nhttps://t.co/bwOtncOrwy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치스비치",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "just4U",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "러비",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "스포",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "스포",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "스포",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "스포",
+					"indices": [
+						104,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bwOtncOrwy",
+					"expanded_url": "https://youtu.be/eMOtqmVMhkg",
+					"display_url": "youtu.be/eMOtqmVMhkg",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1392,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분...날씨가 넘 추워요.. 🔥그럴땐 이노래 .. 어떠세요?\n\n🎵치스비치 - Just 4 U...\n\n #치스비치 #just4U\n#치즈 #스텔라장 #러비 #박문치 #스포 #스포 #스포 #스포 \n\nhttps://t.co/bwOtncOrwy"
+	},
+	{
 		"created_at": "Fri Dec 06 13:13:28 +0000 2019",
 		"id": 1202925738548031500,
 		"id_str": "1202939111276986368",
