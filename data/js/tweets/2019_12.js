@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 04:18:17 +0000 2019",
+		"id": 1202793517375819800,
+		"id_str": "1202804428828532736",
+		"full_text": "[리차드파커스]\n이번 앨범은 ❓❓다!\n리차드파커스가 직접 소개하는 새 앨범 [보고 싶어] 제작기🎥\n진지한 이야기는 물론,\n어디서도 듣지 못했던 숨겨진 앨범 제작 비하인드까지\n모두모두 영상으로 지금 만나보세요🧡💛\n\n#리차드파커스 #RichardParkers #보고싶어 #IMissYou https://t.co/EYOBpj7zJR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리차드파커스",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "RichardParkers",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"text": "보고싶어",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "IMissYou",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202785401401798700,
+					"id_str": "1202785401401798656",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202785401401798656/img/PwDI7YmL6fqCAjSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202785401401798656/img/PwDI7YmL6fqCAjSI.jpg",
+					"url": "https://t.co/EYOBpj7zJR",
+					"display_url": "pic.twitter.com/EYOBpj7zJR",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202793517375819776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202785401401798700,
+					"id_str": "1202785401401798656",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202785401401798656/img/PwDI7YmL6fqCAjSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202785401401798656/img/PwDI7YmL6fqCAjSI.jpg",
+					"url": "https://t.co/EYOBpj7zJR",
+					"display_url": "pic.twitter.com/EYOBpj7zJR",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1202793517375819776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 142434,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202785401401798656/vid/480x270/ZIzqFsIRKCyMMwi6.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202785401401798656/vid/1280x720/pVIP52_jtZyd-Aj0.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1202785401401798656/pl/orFMKnp284vmj1XF.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202785401401798656/vid/640x360/MpfHrTChx7xBcoPG.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[리차드파커스]\n이번 앨범은 ❓❓다!\n리차드파커스가 직접 소개하는 새 앨범 [보고 싶어] 제작기🎥\n진지한 이야기는 물론,\n어디서도 듣지 못했던 숨겨진 앨범 제작 비하인드까지\n모두모두 영상으로 지금 만나보세요🧡💛\n\n#리차드파커스 #RichardParkers #보고싶어 #IMissYou https://t.co/EYOBpj7zJR"
+	},
+	{
 		"created_at": "Fri Dec 06 03:18:30 +0000 2019",
 		"id": 1202787177647620000,
 		"id_str": "1202789383545462785",
