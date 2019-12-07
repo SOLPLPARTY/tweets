@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 12:18:16 +0000 2019",
+		"id": 1203272647586373600,
+		"id_str": "1203287609977589760",
+		"full_text": "D-2\nBOY.D(보이디) &lt;Full of You&gt;\n\"어떻게 충분히 당신에 대한 사랑을 이야기할 수 있을지 모르겠어요.\n내가 할 수 있는 어떤 말 보다 사랑해요. \n사랑? 내가 뭘 할 수 있는지 모르겠어요. \"\n\n들을수록 가슴 따뜻해지는 BOY.D(보이디)의 &lt;Full of You&gt;\n12월9일 정오 발매\n내일은 조금 따뜻해진데요. https://t.co/SfoEuqtXqP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203272631727734800,
+					"id_str": "1203272631727734784",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLiFVYUwAACGxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLiFVYUwAACGxV.jpg",
+					"url": "https://t.co/SfoEuqtXqP",
+					"display_url": "pic.twitter.com/SfoEuqtXqP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1203272647586373639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 610,
+									"y": 758,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 936,
+									"y": 798,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 276,
+									"y": 343,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 424,
+									"y": 361,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 610,
+									"y": 758,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 936,
+									"y": 798,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 606,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 748,
+									"y": 638,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203272631727734800,
+					"id_str": "1203272631727734784",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLiFVYUwAACGxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLiFVYUwAACGxV.jpg",
+					"url": "https://t.co/SfoEuqtXqP",
+					"display_url": "pic.twitter.com/SfoEuqtXqP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1203272647586373639/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 610,
+									"y": 758,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 936,
+									"y": 798,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 276,
+									"y": 343,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 424,
+									"y": 361,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 610,
+									"y": 758,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 936,
+									"y": 798,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 606,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 748,
+									"y": 638,
+									"h": 190,
+									"w": 190
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1574832748",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-2\nBOY.D(보이디) &lt;Full of You&gt;\n\"어떻게 충분히 당신에 대한 사랑을 이야기할 수 있을지 모르겠어요.\n내가 할 수 있는 어떤 말 보다 사랑해요. \n사랑? 내가 뭘 할 수 있는지 모르겠어요. \"\n\n들을수록 가슴 따뜻해지는 BOY.D(보이디)의 &lt;Full of You&gt;\n12월9일 정오 발매\n내일은 조금 따뜻해진데요. https://t.co/SfoEuqtXqP"
+	},
+	{
 		"created_at": "Sat Dec 07 10:18:25 +0000 2019",
 		"id": 1203253990449807400,
 		"id_str": "1203257445948243968",
