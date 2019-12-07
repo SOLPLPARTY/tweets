@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 09:18:33 +0000 2019",
+		"id": 1203240189167931400,
+		"id_str": "1203242380847198213",
+		"full_text": "매주 금요일 토요일 오후 10시 50분에 방영되는 드라마 초콜릿 OST 버전의 카더가든 나무가 발매 되었습니다. https://t.co/5XyzTiRFwA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203240165021384700,
+					"id_str": "1203240165021384704",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLEjheVAAAlOHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLEjheVAAAlOHm.jpg",
+					"url": "https://t.co/5XyzTiRFwA",
+					"display_url": "pic.twitter.com/5XyzTiRFwA",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1203240189167931392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 121,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 103,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203240165021384700,
+					"id_str": "1203240165021384704",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLEjheVAAAlOHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLEjheVAAAlOHm.jpg",
+					"url": "https://t.co/5XyzTiRFwA",
+					"display_url": "pic.twitter.com/5XyzTiRFwA",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1203240189167931392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 121,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 103,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 193,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 164,
+									"y": 509,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203240165021343700,
+					"id_str": "1203240165021343744",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLEjheUYAAkRza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLEjheUYAAkRza.jpg",
+					"url": "https://t.co/5XyzTiRFwA",
+					"display_url": "pic.twitter.com/5XyzTiRFwA",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1203240189167931392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 1599,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 285,
+									"y": 1091,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 94,
+									"y": 362,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3524,
+			"friends_count": 5,
+			"listed_count": 95,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매주 금요일 토요일 오후 10시 50분에 방영되는 드라마 초콜릿 OST 버전의 카더가든 나무가 발매 되었습니다. https://t.co/5XyzTiRFwA"
+	},
+	{
+		"created_at": "Sat Dec 07 09:18:24 +0000 2019",
+		"id": 1203237976622260200,
+		"id_str": "1203242342486085634",
+		"full_text": "2019 정승환의 안녕, 겨울 : 우리가 사랑한 1년\nOfficial Goods Special Edition 💛💚💙\n\nMore Info. - https://t.co/LD09BaEGbq\n#정승환 #안녕겨울 #JungSeungHwan #Hellogoodbye https://t.co/AwksWRiyZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "Hellogoodbye",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LD09BaEGbq",
+					"expanded_url": "https://www.instagram.com/p/B5w_CJjBqBy/?igshid=1wjvibwueb3sy",
+					"display_url": "instagram.com/p/B5w_CJjBqBy/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203237964001632300,
+					"id_str": "1203237964001632256",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLCjaCU4AAWNrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLCjaCU4AAWNrn.jpg",
+					"url": "https://t.co/AwksWRiyZB",
+					"display_url": "pic.twitter.com/AwksWRiyZB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203237976622260225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 812,
+									"y": 178,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 224,
+									"y": 1666,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 190,
+									"y": 1540,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 269,
+									"y": 59,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 74,
+									"y": 553,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 63,
+									"y": 511,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 475,
+									"y": 104,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 131,
+									"y": 975,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 111,
+									"y": 902,
+									"h": 173,
+									"w": 173
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 812,
+									"y": 178,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 224,
+									"y": 1666,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 190,
+									"y": 1540,
+									"h": 296,
+									"w": 296
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203237964001632300,
+					"id_str": "1203237964001632256",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLCjaCU4AAWNrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLCjaCU4AAWNrn.jpg",
+					"url": "https://t.co/AwksWRiyZB",
+					"display_url": "pic.twitter.com/AwksWRiyZB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203237976622260225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 812,
+									"y": 178,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 224,
+									"y": 1666,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 190,
+									"y": 1540,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 269,
+									"y": 59,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 74,
+									"y": 553,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 63,
+									"y": 511,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 475,
+									"y": 104,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 131,
+									"y": 975,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 111,
+									"y": 902,
+									"h": 173,
+									"w": 173
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 812,
+									"y": 178,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 224,
+									"y": 1666,
+									"h": 240,
+									"w": 240
+								},
+								{
+									"x": 190,
+									"y": 1540,
+									"h": 296,
+									"w": 296
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34872,
+			"friends_count": 2958,
+			"listed_count": 414,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 정승환의 안녕, 겨울 : 우리가 사랑한 1년\nOfficial Goods Special Edition 💛💚💙\n\nMore Info. - https://t.co/LD09BaEGbq\n#정승환 #안녕겨울 #JungSeungHwan #Hellogoodbye https://t.co/AwksWRiyZB"
+	},
+	{
 		"created_at": "Sat Dec 07 08:18:16 +0000 2019",
 		"id": 1203217372372336600,
 		"id_str": "1203227212352249856",
