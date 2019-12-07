@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 05:13:43 +0000 2019",
+		"id": 1203179506996875300,
+		"id_str": "1203180766550736898",
+		"full_text": "[12/7-8 공연 안내]\n-\n&lt;지범(ZEEBOMB) 단독 콘서트 : Theatre&gt;\n-\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 지범(ZEEBOMB)\n-\n#지범 #ZEEBOMB #단독콘서트 #THEATRE #슈퍼밴드 #홍대 #공연 #롤링홀 #ROLLINGHALL #멜론티켓 https://t.co/1aw3ppjKeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지범",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "ZEEBOMB",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "THEATRE",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "슈퍼밴드",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203179494363676700,
+					"id_str": "1203179494363676672",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKNYBqUwAAzxH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKNYBqUwAAzxH8.jpg",
+					"url": "https://t.co/1aw3ppjKeE",
+					"display_url": "pic.twitter.com/1aw3ppjKeE",
+					"expanded_url": "https://twitter.com/rollinghall/status/1203179506996875266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 512,
+									"y": 601,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 246,
+									"y": 167,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203179494363676700,
+					"id_str": "1203179494363676672",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKNYBqUwAAzxH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKNYBqUwAAzxH8.jpg",
+					"url": "https://t.co/1aw3ppjKeE",
+					"display_url": "pic.twitter.com/1aw3ppjKeE",
+					"expanded_url": "https://twitter.com/rollinghall/status/1203179506996875266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 512,
+									"y": 601,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 246,
+									"y": 167,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 753,
+									"y": 884,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 363,
+									"y": 246,
+									"h": 258,
+									"w": 258
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 790,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[12/7-8 공연 안내]\n-\n&lt;지범(ZEEBOMB) 단독 콘서트 : Theatre&gt;\n-\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 지범(ZEEBOMB)\n-\n#지범 #ZEEBOMB #단독콘서트 #THEATRE #슈퍼밴드 #홍대 #공연 #롤링홀 #ROLLINGHALL #멜론티켓 https://t.co/1aw3ppjKeE"
+	},
+	{
+		"created_at": "Sat Dec 07 05:13:37 +0000 2019",
+		"id": 1203169573802934300,
+		"id_str": "1203180740852224000",
+		"full_text": "&lt;사연 보내는 곳&gt;\n이메일 : casperradio@naver.com\n제목 : [블루플레임] 말머리 필수!\n내용 : 성함 / 나이 / 사연 내용 (익명 가능)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203169570602668000,
+		"in_reply_to_status_id_str": "1203169570602668032",
+		"in_reply_to_user_id": 1022765899126730800,
+		"in_reply_to_user_id_str": "1022765899126730752",
+		"in_reply_to_screen_name": "casperradio_",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1393,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;사연 보내는 곳&gt;\n이메일 : casperradio@naver.com\n제목 : [블루플레임] 말머리 필수!\n내용 : 성함 / 나이 / 사연 내용 (익명 가능)"
+	},
+	{
 		"created_at": "Fri Dec 06 17:18:17 +0000 2019",
 		"id": 1202986668543770600,
 		"id_str": "1203000720192094208",
