@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 08:18:16 +0000 2019",
+		"id": 1203217372372336600,
+		"id_str": "1203227212352249856",
+		"full_text": "계피는 오늘 클레이아크김해미술관 2019 송년 콘서트와 함께했어요🎄\n누구나 쉽게 따라부를 수 있는 계피의 동요와 다가오는 크리스마스를 실감하게 하는 캐롤까지❤️ 어떠셨나요~? 모두 행복한 주말 되셨길 바랍니다✨\n-\n#계피 #김해클레이아크미술관 #송년콘서트 #빛과바람의유영 https://t.co/mj6JUkgkNg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "김해클레이아크미술관",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "송년콘서트",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "빛과바람의유영",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203217358921195500,
+					"id_str": "1203217358921195520",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKv0CIU4AAOeZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKv0CIU4AAOeZp.jpg",
+					"url": "https://t.co/mj6JUkgkNg",
+					"display_url": "pic.twitter.com/mj6JUkgkNg",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203217372372336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203217358921195500,
+					"id_str": "1203217358921195520",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKv0CIU4AAOeZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKv0CIU4AAOeZp.jpg",
+					"url": "https://t.co/mj6JUkgkNg",
+					"display_url": "pic.twitter.com/mj6JUkgkNg",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203217372372336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203217358937968600,
+					"id_str": "1203217358937968640",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKv0CMU0AAJw6z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKv0CMU0AAJw6z.jpg",
+					"url": "https://t.co/mj6JUkgkNg",
+					"display_url": "pic.twitter.com/mj6JUkgkNg",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203217372372336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203217358937944000,
+					"id_str": "1203217358937944064",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKv0CMUcAAg5_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKv0CMUcAAg5_5.jpg",
+					"url": "https://t.co/mj6JUkgkNg",
+					"display_url": "pic.twitter.com/mj6JUkgkNg",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203217372372336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203217359571312600,
+					"id_str": "1203217359571312646",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKv0EjU4AY-zh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKv0EjU4AY-zh2.jpg",
+					"url": "https://t.co/mj6JUkgkNg",
+					"display_url": "pic.twitter.com/mj6JUkgkNg",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203217372372336640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1067,
+									"y": 295,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 744,
+									"y": 312,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 567,
+									"y": 310,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 453,
+									"y": 328,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 417,
+									"y": 832,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 604,
+									"y": 167,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 421,
+									"y": 177,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 321,
+									"y": 175,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 256,
+									"y": 185,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 236,
+									"y": 471,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1822,
+									"y": 504,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1270,
+									"y": 534,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 968,
+									"y": 530,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 774,
+									"y": 560,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 712,
+									"y": 1420,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1822,
+									"y": 504,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1270,
+									"y": 534,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 968,
+									"y": 530,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 774,
+									"y": 560,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 712,
+									"y": 1420,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "계피는 오늘 클레이아크김해미술관 2019 송년 콘서트와 함께했어요🎄\n누구나 쉽게 따라부를 수 있는 계피의 동요와 다가오는 크리스마스를 실감하게 하는 캐롤까지❤️ 어떠셨나요~? 모두 행복한 주말 되셨길 바랍니다✨\n-\n#계피 #김해클레이아크미술관 #송년콘서트 #빛과바람의유영 https://t.co/mj6JUkgkNg"
+	},
+	{
 		"created_at": "Sat Dec 07 08:13:28 +0000 2019",
 		"id": 1203222674467504000,
 		"id_str": "1203226000966004737",
