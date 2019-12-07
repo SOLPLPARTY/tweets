@@ -1,6 +1,1044 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 07:13:37 +0000 2019",
+		"id": 1203209948907233300,
+		"id_str": "1203210939962671104",
+		"full_text": "[신규 입고]\n💙윤새 싱글 앨범 스티커\n윤새님의 일렉트로닉 데뷔 싱글 앨범 자켓이 담긴 스티커가 입고되었습니다💚 \n추운 날씨에도 직접 가져다주신 윤새님께 감사드립니다❤️ \n윤새님의 음악도 스티커도 많이 찾아주세요🎵 https://t.co/zONinR5MiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203209917592567800,
+					"id_str": "1203209917592567808",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKpC5BVAAAN8jP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKpC5BVAAAN8jP.jpg",
+					"url": "https://t.co/zONinR5MiK",
+					"display_url": "pic.twitter.com/zONinR5MiK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203209948907233281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1156465111269138433",
+									"screen_name": "yunsaemusic",
+									"name": "yunsae"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 527,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 298,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 687,
+									"y": 899,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1354,
+									"y": 1771,
+									"h": 362,
+									"w": 362
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203209917592567800,
+					"id_str": "1203209917592567808",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKpC5BVAAAN8jP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKpC5BVAAAN8jP.jpg",
+					"url": "https://t.co/zONinR5MiK",
+					"display_url": "pic.twitter.com/zONinR5MiK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203209948907233281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1156465111269138433",
+									"screen_name": "yunsaemusic",
+									"name": "yunsae"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 527,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 298,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 687,
+									"y": 899,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1354,
+									"y": 1771,
+									"h": 362,
+									"w": 362
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203209917592551400,
+					"id_str": "1203209917592551424",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKpC5BUwAAWLkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKpC5BUwAAWLkt.jpg",
+					"url": "https://t.co/zONinR5MiK",
+					"display_url": "pic.twitter.com/zONinR5MiK",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203209948907233281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1156465111269138433",
+									"screen_name": "yunsaemusic",
+									"name": "yunsae"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1061,
+									"y": 187,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 104,
+									"y": 40,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 3567,
+									"y": 630,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 350,
+									"y": 137,
+									"h": 303,
+									"w": 303
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1811,
+									"y": 320,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 177,
+									"y": 69,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 601,
+									"y": 106,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 59,
+									"y": 23,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2827,
+			"friends_count": 2715,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n💙윤새 싱글 앨범 스티커\n윤새님의 일렉트로닉 데뷔 싱글 앨범 자켓이 담긴 스티커가 입고되었습니다💚 \n추운 날씨에도 직접 가져다주신 윤새님께 감사드립니다❤️ \n윤새님의 음악도 스티커도 많이 찾아주세요🎵 https://t.co/zONinR5MiK"
+	},
+	{
+		"created_at": "Sat Dec 07 07:13:28 +0000 2019",
+		"id": 1203208345974276000,
+		"id_str": "1203210901689716738",
+		"full_text": "&lt;치스비치의 쇼! 인기가요 톱텐!&gt;\nㅇㅒ두ㄹr ㅇi노ㄹH RG..?🎧 ⠀\n이 날의 Special DJ #치스비치 와 함께 90년대 음악 속으로 빠져볼 준비 되셨나요? 그렇다면 우리 모두 레츠고~~!👏🏻\n⠀\n12월 11일 수요일 8PM 네이버 V-Live 캐스퍼라디오채널에서 생방송으로 만나요!\n\n#치즈 #스텔라장 #러비 #박문치 https://t.co/KbiokBblfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치스비치",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "러비",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203208335006126000,
+					"id_str": "1203208335006126081",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKnmxbUUAEouov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKnmxbUUAEouov.jpg",
+					"url": "https://t.co/KbiokBblfK",
+					"display_url": "pic.twitter.com/KbiokBblfK",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203208345974276096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 561,
+									"y": 63,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 234,
+									"y": 342,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 406,
+									"y": 297,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203208335006126000,
+					"id_str": "1203208335006126081",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ELKnmxbUUAEouov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELKnmxbUUAEouov.jpg",
+					"url": "https://t.co/KbiokBblfK",
+					"display_url": "pic.twitter.com/KbiokBblfK",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203208345974276096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 561,
+									"y": 63,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 234,
+									"y": 342,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 406,
+									"y": 297,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 101,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 372,
+									"y": 544,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 645,
+									"y": 472,
+									"h": 147,
+									"w": 147
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1393,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;치스비치의 쇼! 인기가요 톱텐!&gt;\nㅇㅒ두ㄹr ㅇi노ㄹH RG..?🎧 ⠀\n이 날의 Special DJ #치스비치 와 함께 90년대 음악 속으로 빠져볼 준비 되셨나요? 그렇다면 우리 모두 레츠고~~!👏🏻\n⠀\n12월 11일 수요일 8PM 네이버 V-Live 캐스퍼라디오채널에서 생방송으로 만나요!\n\n#치즈 #스텔라장 #러비 #박문치 https://t.co/KbiokBblfK"
+	},
+	{
+		"created_at": "Sat Dec 07 06:18:19 +0000 2019",
+		"id": 1203192413805629400,
+		"id_str": "1203197021974417408",
+		"full_text": "[리차드파커스] \n\n한 번에 듣는 리차드파커스 명곡 모음.avi\nPsychic (사이킥), 자러간다, 밖에는 비가 내려,\n그리고 따끈따끈한 신곡 보고 싶어까지.....💛\n리차드파커스 명곡 맛집 인정?\n\n#리차드파커스 #RichardParkers\n#싸이킥 #자러간다 #밖에는비가내려 #보고싶어 https://t.co/hp10pI22gB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리차드파커스",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "RichardParkers",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"text": "싸이킥",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "자러간다",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "밖에는비가내려",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "보고싶어",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202837003634532400,
+					"id_str": "1202837003634532353",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202837003634532353/img/lF-d3zSkz8Guqa7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202837003634532353/img/lF-d3zSkz8Guqa7l.jpg",
+					"url": "https://t.co/hp10pI22gB",
+					"display_url": "pic.twitter.com/hp10pI22gB",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1203192413805629440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202837003634532400,
+					"id_str": "1202837003634532353",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1202837003634532353/img/lF-d3zSkz8Guqa7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1202837003634532353/img/lF-d3zSkz8Guqa7l.jpg",
+					"url": "https://t.co/hp10pI22gB",
+					"display_url": "pic.twitter.com/hp10pI22gB",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1203192413805629440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 190565,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202837003634532353/vid/480x270/QBy2EXbh4rKmK-ik.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202837003634532353/vid/1280x720/GbpeL6gdWciwqtCa.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1202837003634532353/pl/6wOjIUMU-hVomZUW.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1202837003634532353/vid/640x360/-y1dCosQawwzXyo_.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다.  박정현/우효/윤현상/유라/크래커/서교동의밤/앤츠/알레프/헤이맨/에버루아/로지/한음파/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 5,
+			"listed_count": 11,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[리차드파커스] \n\n한 번에 듣는 리차드파커스 명곡 모음.avi\nPsychic (사이킥), 자러간다, 밖에는 비가 내려,\n그리고 따끈따끈한 신곡 보고 싶어까지.....💛\n리차드파커스 명곡 맛집 인정?\n\n#리차드파커스 #RichardParkers\n#싸이킥 #자러간다 #밖에는비가내려 #보고싶어 https://t.co/hp10pI22gB"
+	},
+	{
 		"created_at": "Sat Dec 07 05:13:43 +0000 2019",
 		"id": 1203179506996875300,
 		"id_str": "1203180766550736898",
