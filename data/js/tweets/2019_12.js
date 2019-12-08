@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 04:13:37 +0000 2019",
+		"id": 1203526313589399600,
+		"id_str": "1203528028233588736",
+		"full_text": "📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n📍자세한 사항은 홈페이지 &lt;알려드립니다&gt; 게시판을 참고해주세요!\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#잭킹콩 #로코베리 #박기영 #가을방학 #계피 #jackingcong #rocoberry #parkkiyoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "잭킹콩",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "로코베리",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "박기영",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "jackingcong",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "rocoberry",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "parkkiyoung",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203526276918546400,
+		"in_reply_to_status_id_str": "1203526276918546432",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n📍자세한 사항은 홈페이지 &lt;알려드립니다&gt; 게시판을 참고해주세요!\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#잭킹콩 #로코베리 #박기영 #가을방학 #계피 #jackingcong #rocoberry #parkkiyoung"
+	},
+	{
+		"created_at": "Sun Dec 08 04:13:29 +0000 2019",
+		"id": 1203526276918546400,
+		"id_str": "1203527998382714880",
+		"full_text": "#올댓뮤직 #공개녹화\n191211 👉수요일👈 19:00 @춘천KBS공개홀\n⠀\n@jackingcong 의\n인사영상이 도착했습니다🦍\n⠀\n오늘 밤 12시, 방청신청이 마감됩니다.\n늦기 전에 서둘러 주세요!\n⠀\n📍신청기간: 19.11.25(월)오후 18시-12.08(일)오후 24시\n📍당첨자 발표: 19.12.09(월)오후 14시 https://t.co/W5sRWncudG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jackingcong",
+					"name": "️",
+					"id": 4308976640,
+					"id_str": "4308976640",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203526186103529500,
+					"id_str": "1203526186103529472",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203526186103529472/pu/img/Hj6G-H-RiCFWlP2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203526186103529472/pu/img/Hj6G-H-RiCFWlP2t.jpg",
+					"url": "https://t.co/W5sRWncudG",
+					"display_url": "pic.twitter.com/W5sRWncudG",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1203526276918546432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203526186103529500,
+					"id_str": "1203526186103529472",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203526186103529472/pu/img/Hj6G-H-RiCFWlP2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203526186103529472/pu/img/Hj6G-H-RiCFWlP2t.jpg",
+					"url": "https://t.co/W5sRWncudG",
+					"display_url": "pic.twitter.com/W5sRWncudG",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1203526276918546432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29750,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203526186103529472/pu/vid/640x360/nuO67IR3A8dFehh6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203526186103529472/pu/pl/aC1spASROtseRu2W.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203526186103529472/pu/vid/1280x720/vvC6mX5JxWsDN0mu.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203526186103529472/pu/vid/480x270/IwzyOPYosc6xOWTn.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n191211 👉수요일👈 19:00 @춘천KBS공개홀\n⠀\n@jackingcong 의\n인사영상이 도착했습니다🦍\n⠀\n오늘 밤 12시, 방청신청이 마감됩니다.\n늦기 전에 서둘러 주세요!\n⠀\n📍신청기간: 19.11.25(월)오후 18시-12.08(일)오후 24시\n📍당첨자 발표: 19.12.09(월)오후 14시 https://t.co/W5sRWncudG"
+	},
+	{
 		"created_at": "Sat Dec 07 12:18:16 +0000 2019",
 		"id": 1203272647586373600,
 		"id_str": "1203287609977589760",
