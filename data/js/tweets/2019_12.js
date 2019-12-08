@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 08:18:17 +0000 2019",
+		"id": 1203582163100172300,
+		"id_str": "1203589600570224640",
+		"full_text": "홍이삭이 바이브 매거진을 통해 소개되었어요.\n홍이삭의 이야기가 담긴 인터뷰와 들려주고 싶은 플레이리스트가 담긴 ‘홍이삭이 지금 소중한 것’✨ 지금 네이버 메인에서 만나보실 수 있습니다.\n*매거진 링크▶️https://t.co/w0y2EpMovu\n-\n#홍이삭 #바이브매거진 https://t.co/TZMLZq43XB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "바이브매거진",
+					"indices": [
+						144,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w0y2EpMovu",
+					"expanded_url": "http://vibe.naver.com/magazines/15718",
+					"display_url": "vibe.naver.com/magazines/15718",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203582156175376400,
+					"id_str": "1203582156175376385",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELP7mBzVAAE7ck1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELP7mBzVAAE7ck1.jpg",
+					"url": "https://t.co/TZMLZq43XB",
+					"display_url": "pic.twitter.com/TZMLZq43XB",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203582163100172289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 761,
+							"h": 761,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 282,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 537,
+									"y": 523,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 92,
+									"y": 540,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 91,
+									"y": 86,
+									"h": 115,
+									"w": 115
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203582156175376400,
+					"id_str": "1203582156175376385",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELP7mBzVAAE7ck1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELP7mBzVAAE7ck1.jpg",
+					"url": "https://t.co/TZMLZq43XB",
+					"display_url": "pic.twitter.com/TZMLZq43XB",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203582163100172289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 761,
+							"h": 761,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 161,
+									"y": 316,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 602,
+									"y": 586,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 104,
+									"y": 605,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 102,
+									"y": 97,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 282,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 537,
+									"y": 523,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 92,
+									"y": 540,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 91,
+									"y": 86,
+									"h": 115,
+									"w": 115
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203582156179566600,
+					"id_str": "1203582156179566592",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELP7mB0U8AAUdOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELP7mB0U8AAUdOs.jpg",
+					"url": "https://t.co/TZMLZq43XB",
+					"display_url": "pic.twitter.com/TZMLZq43XB",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203582163100172289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 954,
+							"h": 954,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 954,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1772,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍이삭이 바이브 매거진을 통해 소개되었어요.\n홍이삭의 이야기가 담긴 인터뷰와 들려주고 싶은 플레이리스트가 담긴 ‘홍이삭이 지금 소중한 것’✨ 지금 네이버 메인에서 만나보실 수 있습니다.\n*매거진 링크▶️https://t.co/w0y2EpMovu\n-\n#홍이삭 #바이브매거진 https://t.co/TZMLZq43XB"
+	},
+	{
 		"created_at": "Sun Dec 08 08:06:46 +0000 2019",
 		"id": 1203586704977870800,
 		"id_str": "1203586704977870850",
