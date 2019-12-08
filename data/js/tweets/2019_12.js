@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 04:18:17 +0000 2019",
+		"id": 1203514970765328400,
+		"id_str": "1203529203825741824",
+		"full_text": "🎂HBD TO 고영배🎂\n12월 8일은 소란 - 고영배님의 생일입니다!\n축하합니다🎉🎉🎉 https://t.co/LhDDS6DOh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203514959860138000,
+					"id_str": "1203514959860137984",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/ELO-esBVAAAS4Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELO-esBVAAAS4Z7.jpg",
+					"url": "https://t.co/LhDDS6DOh9",
+					"display_url": "pic.twitter.com/LhDDS6DOh9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1203514970765328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203514959860138000,
+					"id_str": "1203514959860137984",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/ELO-esBVAAAS4Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELO-esBVAAAS4Z7.jpg",
+					"url": "https://t.co/LhDDS6DOh9",
+					"display_url": "pic.twitter.com/LhDDS6DOh9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1203514970765328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13661,
+			"friends_count": 2482,
+			"listed_count": 299,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎂HBD TO 고영배🎂\n12월 8일은 소란 - 고영배님의 생일입니다!\n축하합니다🎉🎉🎉 https://t.co/LhDDS6DOh9"
+	},
+	{
 		"created_at": "Sun Dec 08 04:13:37 +0000 2019",
 		"id": 1203526313589399600,
 		"id_str": "1203528028233588736",
