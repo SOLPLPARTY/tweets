@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 11:13:30 +0000 2019",
+		"id": 1203989371273171000,
+		"id_str": "1203996084592414720",
+		"full_text": "&lt; 아로새김 &gt;\n☃ 일시: 12/13(금) 8PM\n☃ 장소: 홍대 더노라 스테이지\n☃ 티켓: 예매 33,000원 / 현매 35,000원\n☃ 예매(인터파크): https://t.co/zwPnIa8rDZ\n\n&lt; 정아로 - winter track 감상하기 &gt;\n🎶 지니 https://t.co/jrVos801CE\n🎶 VIBE https://t.co/MamFKY06zW\n🎶 벅스 https://t.co/KznIOspyrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zwPnIa8rDZ",
+					"expanded_url": "http://bit.ly/38jVWTF",
+					"display_url": "bit.ly/38jVWTF",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/jrVos801CE",
+					"expanded_url": "http://bit.ly/2RAgH7M",
+					"display_url": "bit.ly/2RAgH7M",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/MamFKY06zW",
+					"expanded_url": "http://bit.ly/3428JqC",
+					"display_url": "bit.ly/3428JqC",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/KznIOspyrB",
+					"expanded_url": "http://bit.ly/2RBwRO6",
+					"display_url": "bit.ly/2RBwRO6",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203989025775734800,
+		"in_reply_to_status_id_str": "1203989025775734785",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2829,
+			"friends_count": 2719,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; 아로새김 &gt;\n☃ 일시: 12/13(금) 8PM\n☃ 장소: 홍대 더노라 스테이지\n☃ 티켓: 예매 33,000원 / 현매 35,000원\n☃ 예매(인터파크): https://t.co/zwPnIa8rDZ\n\n&lt; 정아로 - winter track 감상하기 &gt;\n🎶 지니 https://t.co/jrVos801CE\n🎶 VIBE https://t.co/MamFKY06zW\n🎶 벅스 https://t.co/KznIOspyrB"
+	},
+	{
+		"created_at": "Mon Dec 09 11:13:28 +0000 2019",
+		"id": 1203989025775734800,
+		"id_str": "1203996074999980032",
+		"full_text": "[공연추천]\n\n추운 겨울 꽁꽁 얼어붙은 몸과 마음을 녹여줄 '정아로'님의 첫 단독콘서트를 추천합니다💌\n바로 오늘, 따끈따끈한 신곡도 공개되었다고 하는데요🎉\n\n올해도 쉼없이 달려왔을 여러분과 함께 처음으로 만들어갈 공연이 어떤 모습으로 새겨질지 기대해주세요! https://t.co/tm4DkXTmrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203989014082019300,
+					"id_str": "1203989014082019328",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVtoRnU4AAv0c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVtoRnU4AAv0c7.jpg",
+					"url": "https://t.co/tm4DkXTmrJ",
+					"display_url": "pic.twitter.com/tm4DkXTmrJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203989025775734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 338,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203989014082019300,
+					"id_str": "1203989014082019328",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVtoRnU4AAv0c7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVtoRnU4AAv0c7.jpg",
+					"url": "https://t.co/tm4DkXTmrJ",
+					"display_url": "pic.twitter.com/tm4DkXTmrJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203989025775734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 338,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 478,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203989014086213600,
+					"id_str": "1203989014086213632",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVtoRoU4AAK8u0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVtoRoU4AAK8u0.jpg",
+					"url": "https://t.co/tm4DkXTmrJ",
+					"display_url": "pic.twitter.com/tm4DkXTmrJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203989025775734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203989014090375200,
+					"id_str": "1203989014090375170",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVtoRpUYAI8eJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVtoRpUYAI8eJf.jpg",
+					"url": "https://t.co/tm4DkXTmrJ",
+					"display_url": "pic.twitter.com/tm4DkXTmrJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203989025775734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 372,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 263,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 372,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 372,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203989014094602200,
+					"id_str": "1203989014094602240",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVtoRqU4AAO6JG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVtoRqU4AAO6JG.jpg",
+					"url": "https://t.co/tm4DkXTmrJ",
+					"display_url": "pic.twitter.com/tm4DkXTmrJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1203989025775734785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 870,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 870,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2829,
+			"friends_count": 2719,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n\n추운 겨울 꽁꽁 얼어붙은 몸과 마음을 녹여줄 '정아로'님의 첫 단독콘서트를 추천합니다💌\n바로 오늘, 따끈따끈한 신곡도 공개되었다고 하는데요🎉\n\n올해도 쉼없이 달려왔을 여러분과 함께 처음으로 만들어갈 공연이 어떤 모습으로 새겨질지 기대해주세요! https://t.co/tm4DkXTmrJ"
+	},
+	{
 		"created_at": "Mon Dec 09 10:13:27 +0000 2019",
 		"id": 1203977338314080300,
 		"id_str": "1203980974855467009",
