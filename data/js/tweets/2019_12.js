@@ -1,6 +1,1276 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 07:13:28 +0000 2019",
+		"id": 1203929358848512000,
+		"id_str": "1203935676829437952",
+		"full_text": "💛캐(쾌)피디의 연말 책상정리💛\n폴라로이드 증정 이벤트가 시작되었습니다!여러분의 센스 능력을 보여주세요! 🙊\n\n자세한 내용: https://t.co/iNYCs7wOrV https://t.co/Pfc40rLBYT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iNYCs7wOrV",
+					"expanded_url": "https://www.instagram.com/p/B515MIYlsL8/?igshid=13e8pmgdmqtak",
+					"display_url": "instagram.com/p/B515MIYlsL8/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203929350111817700,
+					"id_str": "1203929350111817730",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELU3XYAU8AIZwYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELU3XYAU8AIZwYk.jpg",
+					"url": "https://t.co/Pfc40rLBYT",
+					"display_url": "pic.twitter.com/Pfc40rLBYT",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203929358848512001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 456,
+									"y": 261,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203929350111817700,
+					"id_str": "1203929350111817730",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELU3XYAU8AIZwYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELU3XYAU8AIZwYk.jpg",
+					"url": "https://t.co/Pfc40rLBYT",
+					"display_url": "pic.twitter.com/Pfc40rLBYT",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203929358848512001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 416,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 456,
+									"y": 261,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1397,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛캐(쾌)피디의 연말 책상정리💛\n폴라로이드 증정 이벤트가 시작되었습니다!여러분의 센스 능력을 보여주세요! 🙊\n\n자세한 내용: https://t.co/iNYCs7wOrV https://t.co/Pfc40rLBYT"
+	},
+	{
+		"created_at": "Mon Dec 09 06:18:25 +0000 2019",
+		"id": 1203920749456547800,
+		"id_str": "1203921823194320896",
+		"full_text": "•12/11(수) 오후 7시\n[가을방학] KBS &lt;올댓뮤직&gt; 녹화\n@춘천KBS공개홀\n\n•12/12(목) 오후 4시 ~ 6시 사이\n[오지은] EBS FM &lt;오지은의 이런나라도 떠나고 싶다&gt; 방송\n@ EBS 라디오/팟빵\n-\n#유어썸머 #스케줄 #이지형 #최낙타 #홍이삭 #랄라스윗 #오지은 #가을방학 https://t.co/YTReHKLmQ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "홍이삭",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203920727654580200,
+					"id_str": "1203920727654580225",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvhe2UwAEsGkN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvhe2UwAEsGkN.jpg",
+					"url": "https://t.co/YTReHKLmQ6",
+					"display_url": "pic.twitter.com/YTReHKLmQ6",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920749456547842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1018,
+									"y": 1662,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 596,
+									"y": 973,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1018,
+									"y": 1662,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 338,
+									"y": 552,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203920727654580200,
+					"id_str": "1203920727654580225",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvhe2UwAEsGkN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvhe2UwAEsGkN.jpg",
+					"url": "https://t.co/YTReHKLmQ6",
+					"display_url": "pic.twitter.com/YTReHKLmQ6",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920749456547842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1018,
+									"y": 1662,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 596,
+									"y": 973,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1018,
+									"y": 1662,
+									"h": 236,
+									"w": 236
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 338,
+									"y": 552,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203920728443064300,
+					"id_str": "1203920728443064320",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvhhyUEAAR_lO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvhhyUEAAR_lO.jpg",
+					"url": "https://t.co/YTReHKLmQ6",
+					"display_url": "pic.twitter.com/YTReHKLmQ6",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920749456547842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 874,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 394,
+									"y": 1640,
+									"h": 252,
+									"w": 252
+								},
+								{
+									"x": 702,
+									"y": 1652,
+									"h": 232,
+									"w": 232
+								},
+								{
+									"x": 790,
+									"y": 1644,
+									"h": 254,
+									"w": 254
+								},
+								{
+									"x": 938,
+									"y": 1634,
+									"h": 258,
+									"w": 258
+								},
+								{
+									"x": 1146,
+									"y": 608,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 290,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 130,
+									"y": 544,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 233,
+									"y": 548,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 262,
+									"y": 546,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 311,
+									"y": 542,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 380,
+									"y": 201,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 874,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 394,
+									"y": 1640,
+									"h": 252,
+									"w": 252
+								},
+								{
+									"x": 702,
+									"y": 1652,
+									"h": 232,
+									"w": 232
+								},
+								{
+									"x": 790,
+									"y": 1644,
+									"h": 254,
+									"w": 254
+								},
+								{
+									"x": 938,
+									"y": 1634,
+									"h": 258,
+									"w": 258
+								},
+								{
+									"x": 1146,
+									"y": 608,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 511,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 230,
+									"y": 960,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 411,
+									"y": 967,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 462,
+									"y": 962,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 549,
+									"y": 957,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 671,
+									"y": 356,
+									"h": 202,
+									"w": 202
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203920665805328400,
+		"in_reply_to_status_id_str": "1203920665805328384",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "•12/11(수) 오후 7시\n[가을방학] KBS &lt;올댓뮤직&gt; 녹화\n@춘천KBS공개홀\n\n•12/12(목) 오후 4시 ~ 6시 사이\n[오지은] EBS FM &lt;오지은의 이런나라도 떠나고 싶다&gt; 방송\n@ EBS 라디오/팟빵\n-\n#유어썸머 #스케줄 #이지형 #최낙타 #홍이삭 #랄라스윗 #오지은 #가을방학 https://t.co/YTReHKLmQ6"
+	},
+	{
+		"created_at": "Mon Dec 09 06:18:19 +0000 2019",
+		"id": 1203920665805328400,
+		"id_str": "1203921801790869504",
+		"full_text": "•12/9(월) 오후 9시 \n[홍이삭] &lt;네이버 NOW-들려주고싶어서&gt;\n@네이버 앱\n\n•12/10(화) 오후 2시\n[이지형] 경인방송 &lt;박현준의 라디오가가&gt; \n@경인방송 라디오\n\n•12/11(수) 오후 12시 30분\n[랄라스윗] &lt;랄라스윗의 이중생활&gt;\n@벅스라디오\n\n•12/11(수) 오후 3시\n[오지은] EBS &lt;이승열의 세계음악기행&gt; https://t.co/PnWFsBSXy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203920599510241300,
+					"id_str": "1203920599510241282",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvaBeVUAIuxb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvaBeVUAIuxb8.jpg",
+					"url": "https://t.co/PnWFsBSXy3",
+					"display_url": "pic.twitter.com/PnWFsBSXy3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920665805328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203920599510241300,
+					"id_str": "1203920599510241282",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvaBeVUAIuxb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvaBeVUAIuxb8.jpg",
+					"url": "https://t.co/PnWFsBSXy3",
+					"display_url": "pic.twitter.com/PnWFsBSXy3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920665805328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203920600751730700,
+					"id_str": "1203920600751730688",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvaGGU8AAn8AA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvaGGU8AAn8AA.jpg",
+					"url": "https://t.co/PnWFsBSXy3",
+					"display_url": "pic.twitter.com/PnWFsBSXy3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920665805328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 454,
+									"y": 1764,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 306,
+									"y": 816,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 1033,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 179,
+									"y": 478,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 454,
+									"y": 1764,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 306,
+									"y": 816,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 585,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 101,
+									"y": 270,
+									"h": 41,
+									"w": 41
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203920600919527400,
+					"id_str": "1203920600919527425",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvaGuVUAEVM3y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvaGuVUAEVM3y.jpg",
+					"url": "https://t.co/PnWFsBSXy3",
+					"display_url": "pic.twitter.com/PnWFsBSXy3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920665805328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 606,
+									"y": 1208,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 1316,
+									"y": 1678,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 606,
+									"y": 1208,
+									"h": 118,
+									"w": 118
+								},
+								{
+									"x": 1316,
+									"y": 1678,
+									"h": 222,
+									"w": 222
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 401,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 436,
+									"y": 557,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 355,
+									"y": 707,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 771,
+									"y": 983,
+									"h": 130,
+									"w": 130
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203920607332585500,
+					"id_str": "1203920607332585472",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUvaenU0AAtT0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUvaenU0AAtT0j.jpg",
+					"url": "https://t.co/PnWFsBSXy3",
+					"display_url": "pic.twitter.com/PnWFsBSXy3",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1203920665805328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1016,
+									"y": 1658,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1016,
+									"y": 1658,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 337,
+									"y": 550,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 971,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203920453523263500,
+		"in_reply_to_status_id_str": "1203920453523263489",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "•12/9(월) 오후 9시 \n[홍이삭] &lt;네이버 NOW-들려주고싶어서&gt;\n@네이버 앱\n\n•12/10(화) 오후 2시\n[이지형] 경인방송 &lt;박현준의 라디오가가&gt; \n@경인방송 라디오\n\n•12/11(수) 오후 12시 30분\n[랄라스윗] &lt;랄라스윗의 이중생활&gt;\n@벅스라디오\n\n•12/11(수) 오후 3시\n[오지은] EBS &lt;이승열의 세계음악기행&gt; https://t.co/PnWFsBSXy3"
+	},
+	{
 		"created_at": "Mon Dec 09 05:18:24 +0000 2019",
 		"id": 1203899722978644000,
 		"id_str": "1203906720180981760",
