@@ -1,6 +1,1651 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 05:13:56 +0000 2019",
+		"id": 1203902803543916500,
+		"id_str": "1203905597076324352",
+		"full_text": "📍열광석에 앉은 분은 끝까지 녹화 함께 해주세요!\n📍티켓 교환 시 당첨자분의 신분증을 지참해주세요.\n📍촬영이 가능하나 녹화 상황에 따라 사진, 영상 촬영을 제지할 수 있습니다.\n⠀\n#ALLTHATMUSIC\n#잭킹콩 #로코베리 #박기영 #가을방학 #계피 #jackingcong #rocoberry #parkkiyoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "잭킹콩",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "로코베리",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "박기영",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "jackingcong",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "rocoberry",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "parkkiyoung",
+					"indices": [
+						165,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203902736284016600,
+		"in_reply_to_status_id_str": "1203902736284016640",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍열광석에 앉은 분은 끝까지 녹화 함께 해주세요!\n📍티켓 교환 시 당첨자분의 신분증을 지참해주세요.\n📍촬영이 가능하나 녹화 상황에 따라 사진, 영상 촬영을 제지할 수 있습니다.\n⠀\n#ALLTHATMUSIC\n#잭킹콩 #로코베리 #박기영 #가을방학 #계피 #jackingcong #rocoberry #parkkiyoung"
+	},
+	{
+		"created_at": "Mon Dec 09 05:13:51 +0000 2019",
+		"id": 1203902736284016600,
+		"id_str": "1203905575584763904",
+		"full_text": "#올댓뮤직 #공개녹화\n191211 👉수요일👈 19:00 @춘천KBS공개홀\n⠀\n방청 당첨자 분들에게는 문자발송 완료!\n아쉽게 방청 신청 기회를 놓치신 분들은\n현장입장으로 만나요🙂\n⠀\n📍티켓교환: 저녁 6시10분~ (선착순)\n📍입장시간: 저녁 6시30분~\n📍선착순으로 티켓을 배부합니다.(열광석-&gt;일반석) https://t.co/8jnJzKLbLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203902727476002800,
+					"id_str": "1203902727476002816",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUfJu9UwAAjqHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUfJu9UwAAjqHg.jpg",
+					"url": "https://t.co/8jnJzKLbLq",
+					"display_url": "pic.twitter.com/8jnJzKLbLq",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1203902736284016640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 314,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 151,
+									"y": 324,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 287,
+									"y": 392,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 438,
+									"y": 470,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203902727476002800,
+					"id_str": "1203902727476002816",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUfJu9UwAAjqHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUfJu9UwAAjqHg.jpg",
+					"url": "https://t.co/8jnJzKLbLq",
+					"display_url": "pic.twitter.com/8jnJzKLbLq",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1203902736284016640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 478,
+									"y": 389,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 187,
+									"y": 402,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 356,
+									"y": 486,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 542,
+									"y": 582,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 314,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 151,
+									"y": 324,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 287,
+									"y": 392,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 438,
+									"y": 470,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n191211 👉수요일👈 19:00 @춘천KBS공개홀\n⠀\n방청 당첨자 분들에게는 문자발송 완료!\n아쉽게 방청 신청 기회를 놓치신 분들은\n현장입장으로 만나요🙂\n⠀\n📍티켓교환: 저녁 6시10분~ (선착순)\n📍입장시간: 저녁 6시30분~\n📍선착순으로 티켓을 배부합니다.(열광석-&gt;일반석) https://t.co/8jnJzKLbLq"
+	},
+	{
+		"created_at": "Mon Dec 09 05:13:46 +0000 2019",
+		"id": 1203895031259492400,
+		"id_str": "1203905554227306496",
+		"full_text": "[김승일·김하늬의 N사분기 : 2019년 4사분기 편] 2019.12.27(금) PM 7:30 https://t.co/QDdiL4GljN https://t.co/2pfJGwctne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QDdiL4GljN",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221731581811",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203895018093592600,
+					"id_str": "1203895018093592576",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUYI_RUwAAtWSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUYI_RUwAAtWSR.jpg",
+					"url": "https://t.co/2pfJGwctne",
+					"display_url": "pic.twitter.com/2pfJGwctne",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1203895031259492352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 1294,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 439,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 776,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 1294,
+									"h": 203,
+									"w": 203
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203895018093592600,
+					"id_str": "1203895018093592576",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUYI_RUwAAtWSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUYI_RUwAAtWSR.jpg",
+					"url": "https://t.co/2pfJGwctne",
+					"display_url": "pic.twitter.com/2pfJGwctne",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1203895031259492352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 1294,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 85,
+									"y": 439,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 776,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 1294,
+									"h": 203,
+									"w": 203
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8225,
+			"friends_count": 601,
+			"listed_count": 113,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김승일·김하늬의 N사분기 : 2019년 4사분기 편] 2019.12.27(금) PM 7:30 https://t.co/QDdiL4GljN https://t.co/2pfJGwctne"
+	},
+	{
+		"created_at": "Mon Dec 09 05:13:42 +0000 2019",
+		"id": 1203893616772411400,
+		"id_str": "1203905536913264640",
+		"full_text": "[제비다방]공연일정\n12/12목 위댄스\n13금 셔츠보이프랭크\n14토 김마스타\n15일 스테레오버블\n19목 곽푸른하늘\n20금 야간비행\n21토 버둥\n22일 쓰다선\n24화 이은철\n25수 최고은\n26목 씨없는수박 김대중\n27금 우주왕복선싸이드미러\n28토 차세대\n29일 도마\n31화 전기성/DJ송봉기\nhttps://t.co/26naRsWK8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26naRsWK8D",
+					"expanded_url": "https://www.ctrplus.com/blank-2",
+					"display_url": "ctrplus.com/blank-2",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 549070511,
+			"id_str": "549070511",
+			"name": "제비다방",
+			"screen_name": "ctrjebi",
+			"location": "아침10시-새벽2시",
+			"description": "낮에는 [제비다방] 어두워지면 [취한제비] 어쩌면 낮에도 [취한제비다방] 홍대 마포구 상수동 330-12(와우산로 24) tel 02 325 1969 | 문화지형연구소 씨티알 | 전신 씨티알 레몬쌀롱",
+			"url": "http://t.co/4LbZOqFTeN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4LbZOqFTeN",
+							"expanded_url": "http://www.jebidabang.com",
+							"display_url": "jebidabang.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9830,
+			"friends_count": 2650,
+			"listed_count": 128,
+			"created_at": "Mon Apr 09 09:02:16 +0000 2012",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549070511/1361153638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[제비다방]공연일정\n12/12목 위댄스\n13금 셔츠보이프랭크\n14토 김마스타\n15일 스테레오버블\n19목 곽푸른하늘\n20금 야간비행\n21토 버둥\n22일 쓰다선\n24화 이은철\n25수 최고은\n26목 씨없는수박 김대중\n27금 우주왕복선싸이드미러\n28토 차세대\n29일 도마\n31화 전기성/DJ송봉기\nhttps://t.co/26naRsWK8D"
+	},
+	{
+		"created_at": "Mon Dec 09 05:13:33 +0000 2019",
+		"id": 1203892227207917600,
+		"id_str": "1203905498673827840",
+		"full_text": "#월요일 #캐스퍼라디오\n\n8PM MIXTAPE 3 #ASTRO #진진 #라키\nhttps://t.co/rfyD4AevHq\n\n10:30PM #서사무엘 고요한라디오 with #JADE\nhttps://t.co/dCqpLsQfv5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월요일",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "진진",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "라키",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "서사무엘",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "JADE",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rfyD4AevHq",
+					"expanded_url": "https://www.vlive.tv/video/164098",
+					"display_url": "vlive.tv/video/164098",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/dCqpLsQfv5",
+					"expanded_url": "https://www.vlive.tv/video/164702",
+					"display_url": "vlive.tv/video/164702",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1399,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#월요일 #캐스퍼라디오\n\n8PM MIXTAPE 3 #ASTRO #진진 #라키\nhttps://t.co/rfyD4AevHq\n\n10:30PM #서사무엘 고요한라디오 with #JADE\nhttps://t.co/dCqpLsQfv5"
+	},
+	{
+		"created_at": "Mon Dec 09 05:13:27 +0000 2019",
+		"id": 1203891248198602800,
+		"id_str": "1203905477295443968",
+		"full_text": "이번주 캐스퍼는..💙 https://t.co/g8bHS42jEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203891239935864800,
+					"id_str": "1203891239935864832",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUUtEiU8AAcFXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUUtEiU8AAcFXo.jpg",
+					"url": "https://t.co/g8bHS42jEE",
+					"display_url": "pic.twitter.com/g8bHS42jEE",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203891248198602752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203891239935864800,
+					"id_str": "1203891239935864832",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/ELUUtEiU8AAcFXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELUUtEiU8AAcFXo.jpg",
+					"url": "https://t.co/g8bHS42jEE",
+					"display_url": "pic.twitter.com/g8bHS42jEE",
+					"expanded_url": "https://twitter.com/casperradio_/status/1203891248198602752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1399,
+			"friends_count": 7,
+			"listed_count": 3,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 캐스퍼는..💙 https://t.co/g8bHS42jEE"
+	},
+	{
+		"created_at": "Mon Dec 09 04:18:20 +0000 2019",
+		"id": 1203881069868503000,
+		"id_str": "1203891604655878145",
+		"full_text": "올레: https://t.co/jqaIPc7X1w…\n플로: https://t.co/axXjP5lqOk\n소리바다: https://t.co/MB4vAWepte\n몽키3: https://t.co/Sie07amHvV\n\n오름 2019년 마지막 음원발매를 장식해준 보이디 신곡 &lt;Full of You&gt;\n#BOY_D #보이디 #fullofyou #full_of_you #발매 #바로듣기 #꿈과현실 #주체할수없는감정 https://t.co/x0ZYn8UPvr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BOY_D",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "보이디",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "fullofyou",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "full_of_you",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "바로듣기",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "꿈과현실",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "주체할수없는감정",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jqaIPc7X1w",
+					"expanded_url": "http://www.ollehmusic.com/",
+					"display_url": "ollehmusic.com",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/axXjP5lqOk",
+					"expanded_url": "https://www.music-flo.com/detail/album/edenheaei/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/MB4vAWepte",
+					"expanded_url": "http://www.soribada.com/music/album/KD0137581",
+					"display_url": "soribada.com/music/album/KD…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/Sie07amHvV",
+					"expanded_url": "http://monkey3.momople.com/",
+					"display_url": "monkey3.momople.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203881056887165000,
+					"id_str": "1203881056887164929",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/ELULcVuU0AEaRDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELULcVuU0AEaRDF.jpg",
+					"url": "https://t.co/x0ZYn8UPvr",
+					"display_url": "pic.twitter.com/x0ZYn8UPvr",
+					"expanded_url": "https://twitter.com/orm_ent/status/1203881069868503041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 898,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203881056887165000,
+					"id_str": "1203881056887164929",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/ELULcVuU0AEaRDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELULcVuU0AEaRDF.jpg",
+					"url": "https://t.co/x0ZYn8UPvr",
+					"display_url": "pic.twitter.com/x0ZYn8UPvr",
+					"expanded_url": "https://twitter.com/orm_ent/status/1203881069868503041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1700,
+							"h": 898,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1203881049530327000,
+		"in_reply_to_status_id_str": "1203881049530327041",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 342,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1575862653",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올레: https://t.co/jqaIPc7X1w…\n플로: https://t.co/axXjP5lqOk\n소리바다: https://t.co/MB4vAWepte\n몽키3: https://t.co/Sie07amHvV\n\n오름 2019년 마지막 음원발매를 장식해준 보이디 신곡 &lt;Full of You&gt;\n#BOY_D #보이디 #fullofyou #full_of_you #발매 #바로듣기 #꿈과현실 #주체할수없는감정 https://t.co/x0ZYn8UPvr"
+	},
+	{
 		"created_at": "Mon Dec 09 04:13:31 +0000 2019",
 		"id": 1203878876025196500,
 		"id_str": "1203890391067570176",
