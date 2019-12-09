@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 10:13:27 +0000 2019",
+		"id": 1203977338314080300,
+		"id_str": "1203980974855467009",
+		"full_text": "알차게 준비한 올해 마지막 단독 공연!\n#베이빌론 단독공연 Vol5. [Sweet Dream]\n•12월 27일 (금) 20시\n•예매 : #멜론티켓 https://t.co/ON8cLDUBf5\n-\n올해 #상상마당라이브홀 에서 진행된\n네 번의 베이빌론 단독 공연 하이라이트!\n\n영상으로 확인하고 예매 고!! https://t.co/5yBjtF68bI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베이빌론",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "상상마당라이브홀",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ON8cLDUBf5",
+					"expanded_url": "https://bit.ly/34W8EWB",
+					"display_url": "bit.ly/34W8EWB",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203976987183743000,
+					"id_str": "1203976987183742976",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203976987183742976/pu/img/7v6AT8sNNBh-I_Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203976987183742976/pu/img/7v6AT8sNNBh-I_Nb.jpg",
+					"url": "https://t.co/5yBjtF68bI",
+					"display_url": "pic.twitter.com/5yBjtF68bI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1203977338314080256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203976987183743000,
+					"id_str": "1203976987183742976",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203976987183742976/pu/img/7v6AT8sNNBh-I_Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203976987183742976/pu/img/7v6AT8sNNBh-I_Nb.jpg",
+					"url": "https://t.co/5yBjtF68bI",
+					"display_url": "pic.twitter.com/5yBjtF68bI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1203977338314080256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63847,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203976987183742976/pu/vid/640x360/47NjMxa4E65QHINf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203976987183742976/pu/pl/WDWySYYV9vZLHirL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203976987183742976/pu/vid/1280x720/YlliWUjJNf--OQ-6.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203976987183742976/pu/vid/480x270/A-2qqTT6f72i3u5R.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19153,
+			"friends_count": 2006,
+			"listed_count": 318,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알차게 준비한 올해 마지막 단독 공연!\n#베이빌론 단독공연 Vol5. [Sweet Dream]\n•12월 27일 (금) 20시\n•예매 : #멜론티켓 https://t.co/ON8cLDUBf5\n-\n올해 #상상마당라이브홀 에서 진행된\n네 번의 베이빌론 단독 공연 하이라이트!\n\n영상으로 확인하고 예매 고!! https://t.co/5yBjtF68bI"
+	},
+	{
+		"created_at": "Mon Dec 09 09:18:22 +0000 2019",
+		"id": 1203965377140514800,
+		"id_str": "1203967109656698880",
+		"full_text": "[스웨덴세탁소 '미지' D-1 앨범 Preview]\n\n스웨덴세탁소 '미지' 앨범 Preview 🎵\n\n풀버젼은 유튜브를 통해 확인하실 수 있습니다 ❄\n \n🔈 2019. 12. 10 6PM Release\n\n🖇 https://t.co/BiVzeLGuew\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/yxapj7ak5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "최인영",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "왕세윤",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						162,
+						164
+					]
+				},
+				{
+					"text": "밤산책",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "우리는너무많은것을",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BiVzeLGuew",
+					"expanded_url": "https://youtu.be/9NK3U9-0ows",
+					"display_url": "youtu.be/9NK3U9-0ows",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203965285658611700,
+					"id_str": "1203965285658611712",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVYDGWVUAAcf_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVYDGWVUAAcf_X.jpg",
+					"url": "https://t.co/yxapj7ak5b",
+					"display_url": "pic.twitter.com/yxapj7ak5b",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1203965377140514816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203965285658611700,
+					"id_str": "1203965285658611712",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVYDGWVUAAcf_X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVYDGWVUAAcf_X.jpg",
+					"url": "https://t.co/yxapj7ak5b",
+					"display_url": "pic.twitter.com/yxapj7ak5b",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1203965377140514816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7694,
+			"friends_count": 10,
+			"listed_count": 73,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 '미지' D-1 앨범 Preview]\n\n스웨덴세탁소 '미지' 앨범 Preview 🎵\n\n풀버젼은 유튜브를 통해 확인하실 수 있습니다 ❄\n \n🔈 2019. 12. 10 6PM Release\n\n🖇 https://t.co/BiVzeLGuew\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/yxapj7ak5b"
+	},
+	{
 		"created_at": "Mon Dec 09 08:18:24 +0000 2019",
 		"id": 1203948205928378400,
 		"id_str": "1203952018609647623",
