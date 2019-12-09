@@ -1,10 +1,223 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 14:13:27 +0000 2019",
+		"id": 1204023449762418700,
+		"id_str": "1204041372858306566",
+		"full_text": "매년 1월 찾아오는 포크 그리고 싱어송라이터 음악가들의 잔치, 당신의 얼어있는 마음을 녹일 여덟 번째 새해의 포크. 절찬 예매 중. 언제 매진될지 모릅니다...\n\n예매 https://t.co/yeRaLBbvT3\n\n1/3(금)김목인/드린지오/시와/정우\n1/4(토)여유와설빈/정밀아/천용성/황푸하 https://t.co/bCTZ0AQx0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yeRaLBbvT3",
+					"expanded_url": "http://veloso.co.kr",
+					"display_url": "veloso.co.kr",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204023438559416300,
+					"id_str": "1204023438559416320",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWM8CyUEAAudol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWM8CyUEAAudol.jpg",
+					"url": "https://t.co/bCTZ0AQx0z",
+					"display_url": "pic.twitter.com/bCTZ0AQx0z",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1204023449762418688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204023438559416300,
+					"id_str": "1204023438559416320",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ELWM8CyUEAAudol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELWM8CyUEAAudol.jpg",
+					"url": "https://t.co/bCTZ0AQx0z",
+					"display_url": "pic.twitter.com/bCTZ0AQx0z",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1204023449762418688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9118,
+			"friends_count": 149,
+			"listed_count": 162,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매년 1월 찾아오는 포크 그리고 싱어송라이터 음악가들의 잔치, 당신의 얼어있는 마음을 녹일 여덟 번째 새해의 포크. 절찬 예매 중. 언제 매진될지 모릅니다...\n\n예매 https://t.co/yeRaLBbvT3\n\n1/3(금)김목인/드린지오/시와/정우\n1/4(토)여유와설빈/정밀아/천용성/황푸하 https://t.co/bCTZ0AQx0z"
+	},
+	{
 		"created_at": "Mon Dec 09 11:18:30 +0000 2019",
 		"id": 1203992705304391700,
 		"id_str": "1203997342157983746",
-		"full_text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼‍🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz",
+		"full_text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -524,7 +737,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼‍🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz"
+		"text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz"
 	},
 	{
 		"created_at": "Mon Dec 09 11:18:21 +0000 2019",
