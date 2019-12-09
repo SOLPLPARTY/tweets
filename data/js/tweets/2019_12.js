@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 11:18:30 +0000 2019",
+		"id": 1203992705304391700,
+		"id_str": "1203997342157983746",
+		"full_text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼‍🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "써클",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "평선배",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "쟝선배",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "학번은_쉿",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "화석주의",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						199,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203992693828808700,
+					"id_str": "1203992693828808704",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVw-dvU8AAuIGV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVw-dvU8AAuIGV.jpg",
+					"url": "https://t.co/uWykzyzKEz",
+					"display_url": "pic.twitter.com/uWykzyzKEz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203992705304391680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 100,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 431,
+									"y": 140,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203992693828808700,
+					"id_str": "1203992693828808704",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVw-dvU8AAuIGV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVw-dvU8AAuIGV.jpg",
+					"url": "https://t.co/uWykzyzKEz",
+					"display_url": "pic.twitter.com/uWykzyzKEz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203992705304391680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 100,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 431,
+									"y": 140,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 142,
+									"h": 198,
+									"w": 198
+								},
+								{
+									"x": 609,
+									"y": 199,
+									"h": 230,
+									"w": 230
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203992693820416000,
+					"id_str": "1203992693820416001",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVw-dtU4AEC8bL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVw-dtU4AEC8bL.jpg",
+					"url": "https://t.co/uWykzyzKEz",
+					"display_url": "pic.twitter.com/uWykzyzKEz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203992705304391680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 908,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1203992693828751400,
+					"id_str": "1203992693828751361",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/ELVw-dvUEAEJIpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELVw-dvUEAEJIpe.jpg",
+					"url": "https://t.co/uWykzyzKEz",
+					"display_url": "pic.twitter.com/uWykzyzKEz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1203992705304391680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 908,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 693,
+									"y": 254,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 693,
+									"y": 254,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 179,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 693,
+									"y": 254,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34870,
+			"friends_count": 2958,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PEPPERTONES LIVE 2019 : #써클\n신입 부원 모집 📢\n\n&lt;써클 입단 설명회 개최&gt; \nPEPPERTONES LIVE 2019 : 써클에 대해 궁금한 점을 댓글로 달아주세요. 선배들이 직접 질문에 답해드립니다. 👨🏼‍🎤\n\n일시: 12월 11일 수요일 21시\n장소: 안테나 V LIVE 📶\n\n#평선배 #쟝선배 #학번은_쉿 #화석주의 #페퍼톤스 https://t.co/uWykzyzKEz"
+	},
+	{
+		"created_at": "Mon Dec 09 11:18:21 +0000 2019",
+		"id": 1203989358736334800,
+		"id_str": "1203997303989768192",
+		"full_text": "• 일시 : 12/15 (일) 오후 5시 - 저녁 7시 30분\n• 장소 : 옛 충남도청 본관\n• 뮤지션 : 완태 / 김사월 / 이상은\n-\n#김사월 #2019시티페스타 #느슨한연결",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "2019시티페스타",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "느슨한연결",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203989329489449000,
+		"in_reply_to_status_id_str": "1203989329489448960",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1772,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 일시 : 12/15 (일) 오후 5시 - 저녁 7시 30분\n• 장소 : 옛 충남도청 본관\n• 뮤지션 : 완태 / 김사월 / 이상은\n-\n#김사월 #2019시티페스타 #느슨한연결"
+	},
+	{
 		"created_at": "Mon Dec 09 11:13:30 +0000 2019",
 		"id": 1203989371273171000,
 		"id_str": "1203996084592414720",
