@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 21:20:10 +0000 2019",
+		"id": 1204228095978291200,
+		"id_str": "1204511145219854336",
+		"full_text": "2년 만에 우리 곁에 돌아온 루시드폴 포토 에세이 &amp; 정규 9집 앨범 &lt;너와 나&gt; \n\n예약 구매 시 미공개 사진 엽서와 루시드폴X그린블리스 자수 손수건\n\nhttps://t.co/LGylgkm8xT https://t.co/1sbunvZc5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGylgkm8xT",
+					"expanded_url": "http://bit.ly/36fArkU",
+					"display_url": "bit.ly/36fArkU",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204228087547715600,
+					"id_str": "1204228087547715584",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZHELrUYAAUrkT.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELZHELrUYAAUrkT.png",
+					"url": "https://t.co/1sbunvZc5E",
+					"display_url": "pic.twitter.com/1sbunvZc5E",
+					"expanded_url": "https://twitter.com/aladinbook/status/1204228095978291200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204228087547715600,
+					"id_str": "1204228087547715584",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZHELrUYAAUrkT.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELZHELrUYAAUrkT.png",
+					"url": "https://t.co/1sbunvZc5E",
+					"display_url": "pic.twitter.com/1sbunvZc5E",
+					"expanded_url": "https://twitter.com/aladinbook/status/1204228095978291200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144770990,
+			"id_str": "144770990",
+			"name": "알라딘 인터넷서점",
+			"screen_name": "aladinbook",
+			"location": "37.633297,126.831383",
+			"description": "알라딘 인터넷 서점 공식 운영 트위터! 신간 소식 & 이벤트 소식! \n\n고객문의 확인은 어렵습니다. 알라딘 고객센터(1544-2514)로 해주세요! \n\n인스타그램은 https://t.co/2O3XBs9jRT",
+			"url": "http://t.co/Vk5u1Zn01J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vk5u1Zn01J",
+							"expanded_url": "http://m.aladin.co.kr",
+							"display_url": "m.aladin.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2O3XBs9jRT",
+							"expanded_url": "http://www.instagram.com/aladinbook",
+							"display_url": "instagram.com/aladinbook",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218976,
+			"friends_count": 22075,
+			"listed_count": 1191,
+			"created_at": "Mon May 17 07:35:05 +0000 2010",
+			"favourites_count": 1573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149497581258432514/gfaQmu-J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149497581258432514/gfaQmu-J_normal.png",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2년 만에 우리 곁에 돌아온 루시드폴 포토 에세이 &amp; 정규 9집 앨범 &lt;너와 나&gt; \n\n예약 구매 시 미공개 사진 엽서와 루시드폴X그린블리스 자수 손수건\n\nhttps://t.co/LGylgkm8xT https://t.co/1sbunvZc5E"
+	},
+	{
 		"created_at": "Tue Dec 10 16:25:01 +0000 2019",
 		"id": 1204415538245431300,
 		"id_str": "1204436867044777984",
@@ -198,7 +421,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
