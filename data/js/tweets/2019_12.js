@@ -1,6 +1,1171 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 12:25:09 +0000 2019",
+		"id": 1204365291838296000,
+		"id_str": "1204376502818811905",
+		"full_text": "잠시 후 9시, #들려주고싶어서 #유권 편이 온에어됩니다. 유권이 선곡한 곡들로 하루를 마무리 하고픈 분들, 레게로 밤을 불태우고 싶은 분들은 네이버앱에서 만나요❗오늘 밤 불이 나게 #FUEGO 🔥 #BLOCKB #NOW온에어 https://t.co/xfZPjlphGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "유권",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "FUEGO",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "BLOCKB",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204365289355239400,
+					"id_str": "1204365289355239425",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbD2YPUYAEC17V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbD2YPUYAEC17V.jpg",
+					"url": "https://t.co/xfZPjlphGr",
+					"display_url": "pic.twitter.com/xfZPjlphGr",
+					"expanded_url": "https://twitter.com/kr_now/status/1204365291838296064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 184,
+									"y": 185,
+									"h": 220,
+									"w": 220
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204365289355239400,
+					"id_str": "1204365289355239425",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbD2YPUYAEC17V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbD2YPUYAEC17V.jpg",
+					"url": "https://t.co/xfZPjlphGr",
+					"display_url": "pic.twitter.com/xfZPjlphGr",
+					"expanded_url": "https://twitter.com/kr_now/status/1204365291838296064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 184,
+									"y": 185,
+									"h": 220,
+									"w": 220
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 295,
+									"h": 350,
+									"w": 350
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17648,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 9시, #들려주고싶어서 #유권 편이 온에어됩니다. 유권이 선곡한 곡들로 하루를 마무리 하고픈 분들, 레게로 밤을 불태우고 싶은 분들은 네이버앱에서 만나요❗오늘 밤 불이 나게 #FUEGO 🔥 #BLOCKB #NOW온에어 https://t.co/xfZPjlphGr"
+	},
+	{
+		"created_at": "Tue Dec 10 12:25:01 +0000 2019",
+		"id": 1204363148809011200,
+		"id_str": "1204376468727484418",
+		"full_text": "#심야아이돌 오늘은 금둥이들 커몬! #골든차일드 가 호스트 #하성운 을 만나러 옵니다✨요즘 나우에서 자주 만나는 예능감 만렙 골차! 심야아이돌에서는 어떤 재미 어떤 케미가 나올지 기대하믄서~ 질문과 하고싶은 얘기 #7117 문자로 보내주세요! (정보이용료 100원) #NOW온에어 https://t.co/QAUjunAa0M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204363127141175300,
+					"id_str": "1204363127141175296",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbB4hXUEAA_nYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbB4hXUEAA_nYP.jpg",
+					"url": "https://t.co/QAUjunAa0M",
+					"display_url": "pic.twitter.com/QAUjunAa0M",
+					"expanded_url": "https://twitter.com/kr_now/status/1204363148809011200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 352,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 967,
+									"y": 356,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 455,
+									"y": 360,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 624,
+									"y": 360,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 548,
+									"y": 364,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 721,
+									"y": 371,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 785,
+									"y": 371,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 907,
+									"y": 353,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 705,
+									"y": 165,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 1042,
+									"y": 418,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 704,
+									"y": 210,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 199,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 548,
+									"y": 201,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 258,
+									"y": 204,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 353,
+									"y": 204,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 310,
+									"y": 206,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 409,
+									"y": 210,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 444,
+									"y": 210,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 513,
+									"y": 200,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 399,
+									"y": 93,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 591,
+									"y": 237,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 399,
+									"y": 119,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 602,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1652,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 778,
+									"y": 616,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1066,
+									"y": 616,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 936,
+									"y": 622,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1232,
+									"y": 634,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1340,
+									"y": 634,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1548,
+									"y": 604,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1204,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1780,
+									"y": 714,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1202,
+									"y": 360,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 728,
+									"y": 1204,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 3304,
+									"y": 1216,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1556,
+									"y": 1232,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 2132,
+									"y": 1232,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1872,
+									"y": 1244,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 2464,
+									"y": 1268,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 2680,
+									"y": 1268,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 3096,
+									"y": 1208,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 2408,
+									"y": 564,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 3560,
+									"y": 1428,
+									"h": 216,
+									"w": 216
+								},
+								{
+									"x": 2404,
+									"y": 720,
+									"h": 240,
+									"w": 240
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204363127141175300,
+					"id_str": "1204363127141175296",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbB4hXUEAA_nYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbB4hXUEAA_nYP.jpg",
+					"url": "https://t.co/QAUjunAa0M",
+					"display_url": "pic.twitter.com/QAUjunAa0M",
+					"expanded_url": "https://twitter.com/kr_now/status/1204363148809011200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 352,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 967,
+									"y": 356,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 455,
+									"y": 360,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 624,
+									"y": 360,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 548,
+									"y": 364,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 721,
+									"y": 371,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 785,
+									"y": 371,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 907,
+									"y": 353,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 705,
+									"y": 165,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 1042,
+									"y": 418,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 704,
+									"y": 210,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 120,
+									"y": 199,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 548,
+									"y": 201,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 258,
+									"y": 204,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 353,
+									"y": 204,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 310,
+									"y": 206,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 409,
+									"y": 210,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 444,
+									"y": 210,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 513,
+									"y": 200,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 399,
+									"y": 93,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 591,
+									"y": 237,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 399,
+									"y": 119,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 602,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1652,
+									"y": 608,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 778,
+									"y": 616,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1066,
+									"y": 616,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 936,
+									"y": 622,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 1232,
+									"y": 634,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1340,
+									"y": 634,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1548,
+									"y": 604,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1204,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1780,
+									"y": 714,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1202,
+									"y": 360,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 728,
+									"y": 1204,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 3304,
+									"y": 1216,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1556,
+									"y": 1232,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 2132,
+									"y": 1232,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1872,
+									"y": 1244,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 2464,
+									"y": 1268,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 2680,
+									"y": 1268,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 3096,
+									"y": 1208,
+									"h": 160,
+									"w": 160
+								},
+								{
+									"x": 2408,
+									"y": 564,
+									"h": 208,
+									"w": 208
+								},
+								{
+									"x": 3560,
+									"y": 1428,
+									"h": 216,
+									"w": 216
+								},
+								{
+									"x": 2404,
+									"y": 720,
+									"h": 240,
+									"w": 240
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17648,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심야아이돌 오늘은 금둥이들 커몬! #골든차일드 가 호스트 #하성운 을 만나러 옵니다✨요즘 나우에서 자주 만나는 예능감 만렙 골차! 심야아이돌에서는 어떤 재미 어떤 케미가 나올지 기대하믄서~ 질문과 하고싶은 얘기 #7117 문자로 보내주세요! (정보이용료 100원) #NOW온에어 https://t.co/QAUjunAa0M"
+	},
+	{
+		"created_at": "Tue Dec 10 12:18:21 +0000 2019",
+		"id": 1204372457353695200,
+		"id_str": "1204374791463018496",
+		"full_text": "그리고 신곡의 첫 라이브...\nBGBG UNBOXING vol.2\n석봉아 발매 10주년 기념\n불나방스타쏘세지클럽 단독공연\n'놀부에게 대박을 보은하겠습니다'\n* 일시 : 19.12.24(토) 8pm\n* 장소: 웨스트브릿지 라이브홀\n* 예매처 : 멜론티켓\n⠀\n#불나방스타쏘세지클럽 #새싱글 #놀부에게대박을보은하겠습니다 #발매",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "불나방스타쏘세지클럽",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "새싱글",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "놀부에게대박을보은하겠습니다",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204372452979032000,
+		"in_reply_to_status_id_str": "1204372452979032064",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10489,
+			"friends_count": 4949,
+			"listed_count": 310,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 신곡의 첫 라이브...\nBGBG UNBOXING vol.2\n석봉아 발매 10주년 기념\n불나방스타쏘세지클럽 단독공연\n'놀부에게 대박을 보은하겠습니다'\n* 일시 : 19.12.24(토) 8pm\n* 장소: 웨스트브릿지 라이브홀\n* 예매처 : 멜론티켓\n⠀\n#불나방스타쏘세지클럽 #새싱글 #놀부에게대박을보은하겠습니다 #발매"
+	},
+	{
 		"created_at": "Tue Dec 10 11:25:01 +0000 2019",
 		"id": 1204352160323920000,
 		"id_str": "1204361369115676678",
@@ -308,7 +1473,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
