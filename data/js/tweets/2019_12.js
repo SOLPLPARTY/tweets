@@ -1,6 +1,4125 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 11:13:28 +0000 2019",
+		"id": 1204349799887065000,
+		"id_str": "1204358463196938241",
+		"full_text": "[clubFF - Live Bands]\n12/11(wed) 노야. 아웃라이어스. 플라이데이즈. Confined white.\n\n12/12(thu) 네마치. 씩제프. 피지버그. 이디어츠. \n\nstart 8:00pm https://t.co/ZsoH2B8Frj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204349786586898400,
+					"id_str": "1204349786586898432",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELa1v_7UYAANcTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELa1v_7UYAANcTx.jpg",
+					"url": "https://t.co/ZsoH2B8Frj",
+					"display_url": "pic.twitter.com/ZsoH2B8Frj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1204349799887065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204349786586898400,
+					"id_str": "1204349786586898432",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ELa1v_7UYAANcTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELa1v_7UYAANcTx.jpg",
+					"url": "https://t.co/ZsoH2B8Frj",
+					"display_url": "pic.twitter.com/ZsoH2B8Frj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1204349799887065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6680,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[clubFF - Live Bands]\n12/11(wed) 노야. 아웃라이어스. 플라이데이즈. Confined white.\n\n12/12(thu) 네마치. 씩제프. 피지버그. 이디어츠. \n\nstart 8:00pm https://t.co/ZsoH2B8Frj"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:28 +0000 2019",
+		"id": 1204337849845203000,
+		"id_str": "1204346382871597056",
+		"full_text": "🎤자자자자로 끝나는 말은〰️ 과자 남자 줄자 겨자 오늘도 성운이랑 같이 놀자🎶 잠시후 밤 8시, #하성운 의 #심야아이돌 #JBJ95 편 다시듣기로 만나요😍 #NOW온에어 https://t.co/RPpAOsEoC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하성운",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "심야아이돌",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "JBJ95",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204337829033037800,
+					"id_str": "1204337829033037826",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaq3-kUUAIu_AM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaq3-kUUAIu_AM.jpg",
+					"url": "https://t.co/RPpAOsEoC8",
+					"display_url": "pic.twitter.com/RPpAOsEoC8",
+					"expanded_url": "https://twitter.com/kr_now/status/1204337849845202944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1036954679270301696",
+									"screen_name": "JBJ95__official",
+									"name": "JBJ95 OFFICIAL"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 93,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 197,
+									"y": 85,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204337829033037800,
+					"id_str": "1204337829033037826",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaq3-kUUAIu_AM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaq3-kUUAIu_AM.jpg",
+					"url": "https://t.co/RPpAOsEoC8",
+					"display_url": "pic.twitter.com/RPpAOsEoC8",
+					"expanded_url": "https://twitter.com/kr_now/status/1204337849845202944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1036954679270301696",
+									"screen_name": "JBJ95__official",
+									"name": "JBJ95 OFFICIAL"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 93,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 197,
+									"y": 85,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 619,
+									"y": 148,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 314,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337829033037800,
+					"id_str": "1204337829033037827",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaq3-kUUAMZaXQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaq3-kUUAMZaXQ.jpg",
+					"url": "https://t.co/RPpAOsEoC8",
+					"display_url": "pic.twitter.com/RPpAOsEoC8",
+					"expanded_url": "https://twitter.com/kr_now/status/1204337849845202944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1036954679270301696",
+									"screen_name": "JBJ95__official",
+									"name": "JBJ95 OFFICIAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 675,
+									"y": 165,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 472,
+									"y": 776,
+									"h": 208,
+									"w": 208
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1152,
+									"y": 281,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 805,
+									"y": 1325,
+									"h": 355,
+									"w": 355
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1350,
+									"y": 330,
+									"h": 138,
+									"w": 138
+								},
+								{
+									"x": 944,
+									"y": 1553,
+									"h": 417,
+									"w": 417
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 93,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 267,
+									"y": 440,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337829033066500,
+					"id_str": "1204337829033066496",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaq3-kUwAAp0iM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaq3-kUwAAp0iM.jpg",
+					"url": "https://t.co/RPpAOsEoC8",
+					"display_url": "pic.twitter.com/RPpAOsEoC8",
+					"expanded_url": "https://twitter.com/kr_now/status/1204337849845202944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1036954679270301696",
+									"screen_name": "JBJ95__official",
+									"name": "JBJ95 OFFICIAL"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1227,
+									"y": 1827,
+									"h": 193,
+									"w": 193
+								},
+								{
+									"x": 747,
+									"y": 1285,
+									"h": 297,
+									"w": 297
+								},
+								{
+									"x": 1531,
+									"y": 203,
+									"h": 303,
+									"w": 303
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 719,
+									"y": 1071,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 438,
+									"y": 753,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 897,
+									"y": 119,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 606,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 248,
+									"y": 426,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 508,
+									"y": 67,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1439,
+									"y": 2142,
+									"h": 227,
+									"w": 227
+								},
+								{
+									"x": 876,
+									"y": 1507,
+									"h": 349,
+									"w": 349
+								},
+								{
+									"x": 1795,
+									"y": 239,
+									"h": 356,
+									"w": 356
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 617,
+		"favorite_count": 1105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤자자자자로 끝나는 말은〰️ 과자 남자 줄자 겨자 오늘도 성운이랑 같이 놀자🎶 잠시후 밤 8시, #하성운 의 #심야아이돌 #JBJ95 편 다시듣기로 만나요😍 #NOW온에어 https://t.co/RPpAOsEoC8"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:21 +0000 2019",
+		"id": 1204335131428716500,
+		"id_str": "1204346357152137216",
+		"full_text": "#심야아이돌 오늘도 게스트 매력탈곡기 풀가동⚠️ 탈탈탈 #우주소녀(@WJSN_Cosmic)의 매력을 탈탈탈 털었습니다 #WJSN #NOW온에어\nhttps://t.co/uGtWJfOIjn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WJSN_Cosmic",
+					"name": "우주소녀",
+					"id": 4439470045,
+					"id_str": "4439470045",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uGtWJfOIjn",
+					"expanded_url": "http://naver.me/Ft9HFyXk",
+					"display_url": "naver.me/Ft9HFyXk",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1028,
+		"favorite_count": 1224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심야아이돌 오늘도 게스트 매력탈곡기 풀가동⚠️ 탈탈탈 #우주소녀(@WJSN_Cosmic)의 매력을 탈탈탈 털었습니다 #WJSN #NOW온에어\nhttps://t.co/uGtWJfOIjn"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:13 +0000 2019",
+		"id": 1204310962934730800,
+		"id_str": "1204346322695983105",
+		"full_text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/kaEA4qbaL3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "골든차일드쇼",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "Golden_Child",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "GNCD",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204310943116615700,
+					"id_str": "1204310943116615680",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSbAuU4AASrwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSbAuU4AASrwX.jpg",
+					"url": "https://t.co/kaEA4qbaL3",
+					"display_url": "pic.twitter.com/kaEA4qbaL3",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310962934730758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1165,
+									"y": 1747,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 1049,
+									"y": 1039,
+									"h": 285,
+									"w": 285
+								},
+								{
+									"x": 1489,
+									"y": 105,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 387,
+									"y": 580,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 348,
+									"y": 345,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 494,
+									"y": 35,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1366,
+									"y": 2048,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1230,
+									"y": 1218,
+									"h": 335,
+									"w": 335
+								},
+								{
+									"x": 1746,
+									"y": 124,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 683,
+									"y": 1024,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 615,
+									"y": 609,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 873,
+									"y": 62,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204310943116615700,
+					"id_str": "1204310943116615680",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSbAuU4AASrwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSbAuU4AASrwX.jpg",
+					"url": "https://t.co/kaEA4qbaL3",
+					"display_url": "pic.twitter.com/kaEA4qbaL3",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310962934730758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1165,
+									"y": 1747,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 1049,
+									"y": 1039,
+									"h": 285,
+									"w": 285
+								},
+								{
+									"x": 1489,
+									"y": 105,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 387,
+									"y": 580,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 348,
+									"y": 345,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 494,
+									"y": 35,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1366,
+									"y": 2048,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1230,
+									"y": 1218,
+									"h": 335,
+									"w": 335
+								},
+								{
+									"x": 1746,
+									"y": 124,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 683,
+									"y": 1024,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 615,
+									"y": 609,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 873,
+									"y": 62,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310943112368000,
+					"id_str": "1204310943112368128",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSbAtUEAAiSfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSbAtUEAAiSfi.jpg",
+					"url": "https://t.co/kaEA4qbaL3",
+					"display_url": "pic.twitter.com/kaEA4qbaL3",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310962934730758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 410,
+									"y": 579,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 310,
+									"y": 403,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 724,
+									"y": 1023,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 548,
+									"y": 712,
+									"h": 180,
+									"w": 180
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1448,
+									"y": 2046,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1096,
+									"y": 1425,
+									"h": 360,
+									"w": 360
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1235,
+									"y": 1745,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 935,
+									"y": 1216,
+									"h": 307,
+									"w": 307
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310943120806000,
+					"id_str": "1204310943120805888",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSbAvU0AAjMjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSbAvU0AAjMjY.jpg",
+					"url": "https://t.co/kaEA4qbaL3",
+					"display_url": "pic.twitter.com/kaEA4qbaL3",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310962934730758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 682,
+									"y": 1037,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 516,
+									"y": 665,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 587,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 292,
+									"y": 377,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1364,
+									"y": 2074,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1033,
+									"y": 1331,
+									"h": 302,
+									"w": 302
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1163,
+									"y": 1769,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 881,
+									"y": 1135,
+									"h": 257,
+									"w": 257
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204310935889801200,
+		"in_reply_to_status_id_str": "1204310935889801216",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 496,
+		"favorite_count": 896,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/kaEA4qbaL3"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:06 +0000 2019",
+		"id": 1204310935889801200,
+		"id_str": "1204346292748652544",
+		"full_text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/wjz1JjML9T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "골든차일드쇼",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "Golden_Child",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "GNCD",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204310916717670400,
+					"id_str": "1204310916717670400",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSZeYU8AAvcQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSZeYU8AAvcQa.jpg",
+					"url": "https://t.co/wjz1JjML9T",
+					"display_url": "pic.twitter.com/wjz1JjML9T",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310935889801216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1189,
+									"y": 1667,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 1531,
+									"y": 67,
+									"h": 375,
+									"w": 375
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 977,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 897,
+									"y": 39,
+									"h": 219,
+									"w": 219
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1344,
+									"y": 1884,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 1730,
+									"y": 76,
+									"h": 424,
+									"w": 424
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 553,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 508,
+									"y": 22,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204310916717670400,
+					"id_str": "1204310916717670400",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSZeYU8AAvcQa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSZeYU8AAvcQa.jpg",
+					"url": "https://t.co/wjz1JjML9T",
+					"display_url": "pic.twitter.com/wjz1JjML9T",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310935889801216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1189,
+									"y": 1667,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 1531,
+									"y": 67,
+									"h": 375,
+									"w": 375
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 696,
+									"y": 977,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 897,
+									"y": 39,
+									"h": 219,
+									"w": 219
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1344,
+									"y": 1884,
+									"h": 176,
+									"w": 176
+								},
+								{
+									"x": 1730,
+									"y": 76,
+									"h": 424,
+									"w": 424
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 394,
+									"y": 553,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 508,
+									"y": 22,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310916705030100,
+					"id_str": "1204310916705030144",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSZeVUEAAWmcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSZeVUEAAWmcq.jpg",
+					"url": "https://t.co/wjz1JjML9T",
+					"display_url": "pic.twitter.com/wjz1JjML9T",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310935889801216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 199,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 656,
+									"y": 75,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 268,
+									"y": 120,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 712,
+									"y": 1064,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 451,
+									"y": 645,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 112,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 371,
+									"y": 42,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 151,
+									"y": 68,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 403,
+									"y": 602,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 255,
+									"y": 365,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 339,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 1119,
+									"y": 128,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 457,
+									"y": 205,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 1216,
+									"y": 1815,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 769,
+									"y": 1101,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 398,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 1312,
+									"y": 150,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 536,
+									"y": 241,
+									"h": 171,
+									"w": 171
+								},
+								{
+									"x": 1425,
+									"y": 2128,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 902,
+									"y": 1291,
+									"h": 433,
+									"w": 433
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310916705091600,
+					"id_str": "1204310916705091586",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSZeVVAAIGI0I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSZeVVAAIGI0I.jpg",
+					"url": "https://t.co/wjz1JjML9T",
+					"display_url": "pic.twitter.com/wjz1JjML9T",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310935889801216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1387,
+									"y": 2057,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 1211,
+									"y": 1293,
+									"h": 358,
+									"w": 358
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1183,
+									"y": 1755,
+									"h": 159,
+									"w": 159
+								},
+								{
+									"x": 1033,
+									"y": 1103,
+									"h": 305,
+									"w": 305
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 693,
+									"y": 1028,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 605,
+									"y": 646,
+									"h": 179,
+									"w": 179
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 392,
+									"y": 582,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 343,
+									"y": 366,
+									"h": 101,
+									"w": 101
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204310907569856500,
+		"in_reply_to_status_id_str": "1204310907569856512",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 491,
+		"favorite_count": 875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/wjz1JjML9T"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:03 +0000 2019",
+		"id": 1204310907569856500,
+		"id_str": "1204346279666556930",
+		"full_text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/dWP8S8uNA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "골든차일드쇼",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "Golden_Child",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "GNCD",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204310883553308700,
+					"id_str": "1204310883553308672",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSXi1U8AAyLaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSXi1U8AAyLaU.jpg",
+					"url": "https://t.co/dWP8S8uNA5",
+					"display_url": "pic.twitter.com/dWP8S8uNA5",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310907569856512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1565,
+									"y": 2285,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 953,
+									"y": 1409,
+									"h": 435,
+									"w": 435
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 592,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 246,
+									"y": 365,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1221,
+									"y": 1783,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 743,
+									"y": 1099,
+									"h": 339,
+									"w": 339
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 715,
+									"y": 1044,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 435,
+									"y": 644,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204310883553308700,
+					"id_str": "1204310883553308672",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSXi1U8AAyLaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSXi1U8AAyLaU.jpg",
+					"url": "https://t.co/dWP8S8uNA5",
+					"display_url": "pic.twitter.com/dWP8S8uNA5",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310907569856512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1565,
+									"y": 2285,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 953,
+									"y": 1409,
+									"h": 435,
+									"w": 435
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 592,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 246,
+									"y": 365,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1221,
+									"y": 1783,
+									"h": 135,
+									"w": 135
+								},
+								{
+									"x": 743,
+									"y": 1099,
+									"h": 339,
+									"w": 339
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 715,
+									"y": 1044,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 435,
+									"y": 644,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310883565895700,
+					"id_str": "1204310883565895680",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSXi4VAAAJ1gr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSXi4VAAAJ1gr.jpg",
+					"url": "https://t.co/dWP8S8uNA5",
+					"display_url": "pic.twitter.com/dWP8S8uNA5",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310907569856512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 1024,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 580,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1441,
+									"y": 2048,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1229,
+									"y": 1747,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310883553271800,
+					"id_str": "1204310883553271808",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSXi1UYAAUhfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSXi1UYAAUhfe.jpg",
+					"url": "https://t.co/dWP8S8uNA5",
+					"display_url": "pic.twitter.com/dWP8S8uNA5",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310907569856512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1109,
+									"y": 151,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 1511,
+									"y": 35,
+									"h": 389,
+									"w": 389
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1300,
+									"y": 178,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 1771,
+									"y": 42,
+									"h": 457,
+									"w": 457
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 368,
+									"y": 50,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 501,
+									"y": 11,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 89,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 885,
+									"y": 21,
+									"h": 228,
+									"w": 228
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204310883561685000,
+					"id_str": "1204310883561684992",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaSXi3UwAA2rDM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaSXi3UwAA2rDM.jpg",
+					"url": "https://t.co/dWP8S8uNA5",
+					"display_url": "pic.twitter.com/dWP8S8uNA5",
+					"expanded_url": "https://twitter.com/kr_now/status/1204310907569856512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 286,
+									"y": 402,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 863,
+									"y": 1211,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 506,
+									"y": 710,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1012,
+									"y": 1420,
+									"h": 372,
+									"w": 372
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 622,
+		"favorite_count": 1129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추위도 녹이는 세련된 섹시미를 뽐내는 아이돌, #골든차일드 🌟 오늘은 어떤 새로운 매력으로 우리에게 다가올까요! 오늘 밤 8시, #골든차일드쇼 ep.6이 온에어됩니다. 네이버앱에서 만나요🙌 #Golden_Child #GNCD #NOW온에어 https://t.co/dWP8S8uNA5"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:01 +0000 2019",
+		"id": 1204268471770464300,
+		"id_str": "1204346270778830848",
+		"full_text": "레게인 듯 레게 아닌 레게 같은 음악으로 돌아온 #블락비 #유권 🐝 오늘 밤 9시, #들려주고싶어서 유권 편이 온에어 됩니다. #레게강같은평화 와 함께한 신곡 #FUEGO 그리고 블락비의 #넌어디에 등 유권이 들려주고 싶은 곡들을 들어보세요💛 #BLOCKB #NOW온에어 https://t.co/GQ31n737qt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블락비",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "유권",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "레게강같은평화",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "FUEGO",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "넌어디에",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "BLOCKB",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						144,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204268458440982500,
+					"id_str": "1204268458440982528",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZryE-VAAAhhMx.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELZryE-VAAAhhMx.png",
+					"url": "https://t.co/GQ31n737qt",
+					"display_url": "pic.twitter.com/GQ31n737qt",
+					"expanded_url": "https://twitter.com/kr_now/status/1204268471770464257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1708666860",
+									"screen_name": "blockb_official",
+									"name": "블락비"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204268458440982500,
+					"id_str": "1204268458440982528",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZryE-VAAAhhMx.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELZryE-VAAAhhMx.png",
+					"url": "https://t.co/GQ31n737qt",
+					"display_url": "pic.twitter.com/GQ31n737qt",
+					"expanded_url": "https://twitter.com/kr_now/status/1204268471770464257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1708666860",
+									"screen_name": "blockb_official",
+									"name": "블락비"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17642,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레게인 듯 레게 아닌 레게 같은 음악으로 돌아온 #블락비 #유권 🐝 오늘 밤 9시, #들려주고싶어서 유권 편이 온에어 됩니다. #레게강같은평화 와 함께한 신곡 #FUEGO 그리고 블락비의 #넌어디에 등 유권이 들려주고 싶은 곡들을 들어보세요💛 #BLOCKB #NOW온에어 https://t.co/GQ31n737qt"
+	},
+	{
+		"created_at": "Tue Dec 10 10:18:27 +0000 2019",
+		"id": 1204339976529420300,
+		"id_str": "1204344619699453952",
+		"full_text": "[스웨덴세탁소 '미지' 공식포토 #2]\n\n스웨덴세탁소 [미지] 공식포토 방출 📸\n\n🎵Track List\n01. 우리는 너무 많은 것을 (We)\n02. 미지 (Q)\n03. 밤산책 (Walkin' in the moonlight)\n\n2019.12.10 6PM Now Released 🔥\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/GX1OSEnkxW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "최인영",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "왕세윤",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						180,
+						182
+					]
+				},
+				{
+					"text": "밤산책",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "우리는너무많은것을",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204337403009233000,
+					"id_str": "1204337403009232896",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqfLgU8AAWXu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqfLgU8AAWXu0.jpg",
+					"url": "https://t.co/GX1OSEnkxW",
+					"display_url": "pic.twitter.com/GX1OSEnkxW",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339976529420289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 187,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204337403009233000,
+					"id_str": "1204337403009232896",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqfLgU8AAWXu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqfLgU8AAWXu0.jpg",
+					"url": "https://t.co/GX1OSEnkxW",
+					"display_url": "pic.twitter.com/GX1OSEnkxW",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339976529420289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 174,
+									"y": 275,
+									"h": 125,
+									"w": 125
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 187,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337403017564200,
+					"id_str": "1204337403017564160",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqfLiUEAA3QAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqfLiUEAA3QAT.jpg",
+					"url": "https://t.co/GX1OSEnkxW",
+					"display_url": "pic.twitter.com/GX1OSEnkxW",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339976529420289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 92,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 372,
+									"y": 125,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 136,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 548,
+									"y": 184,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 136,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 548,
+									"y": 184,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 136,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 548,
+									"y": 184,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337403013451800,
+					"id_str": "1204337403013451777",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqfLhVUAEU2V8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqfLhVUAEU2V8.jpg",
+					"url": "https://t.co/GX1OSEnkxW",
+					"display_url": "pic.twitter.com/GX1OSEnkxW",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339976529420289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 54,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 54,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 54,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 36,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7697,
+			"friends_count": 10,
+			"listed_count": 74,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 '미지' 공식포토 #2]\n\n스웨덴세탁소 [미지] 공식포토 방출 📸\n\n🎵Track List\n01. 우리는 너무 많은 것을 (We)\n02. 미지 (Q)\n03. 밤산책 (Walkin' in the moonlight)\n\n2019.12.10 6PM Now Released 🔥\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/GX1OSEnkxW"
+	},
+	{
+		"created_at": "Tue Dec 10 10:18:22 +0000 2019",
+		"id": 1204339975581393000,
+		"id_str": "1204344598098780161",
+		"full_text": "[스웨덴세탁소 '미지' 공식포토 #1]\n\n스웨덴세탁소 [미지] 공식포토 방출 📸\n\n🎵Track List\n01. 우리는 너무 많은 것을 (We)\n02. 미지 (Q)\n03. 밤산책 (Walkin' in the moonlight)\n\n2019.12.10 6PM Now Released 🔥\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/2eaTloZcMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "최인영",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "왕세윤",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						180,
+						182
+					]
+				},
+				{
+					"text": "밤산책",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "우리는너무많은것을",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204337066818932700,
+					"id_str": "1204337066818932737",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqLnGUEAEvX89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqLnGUEAEvX89.jpg",
+					"url": "https://t.co/2eaTloZcMN",
+					"display_url": "pic.twitter.com/2eaTloZcMN",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339975581392897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 72,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204337066818932700,
+					"id_str": "1204337066818932737",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqLnGUEAEvX89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqLnGUEAEvX89.jpg",
+					"url": "https://t.co/2eaTloZcMN",
+					"display_url": "pic.twitter.com/2eaTloZcMN",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339975581392897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 72,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 107,
+									"h": 149,
+									"w": 149
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337066818994200,
+					"id_str": "1204337066818994181",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqLnGVAAUTEWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqLnGVAAUTEWk.jpg",
+					"url": "https://t.co/2eaTloZcMN",
+					"display_url": "pic.twitter.com/2eaTloZcMN",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339975581392897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204337066823127000,
+					"id_str": "1204337066823127040",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqLnHUEAA2MCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqLnHUEAA2MCt.jpg",
+					"url": "https://t.co/2eaTloZcMN",
+					"display_url": "pic.twitter.com/2eaTloZcMN",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339975581392897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 181,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 74,
+									"y": 123,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 181,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 181,
+									"h": 189,
+									"w": 189
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1204337066835771400,
+					"id_str": "1204337066835771392",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/ELaqLnKVAAAGpbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELaqLnKVAAAGpbT.jpg",
+					"url": "https://t.co/2eaTloZcMN",
+					"display_url": "pic.twitter.com/2eaTloZcMN",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1204339975581392897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7697,
+			"friends_count": 10,
+			"listed_count": 74,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 '미지' 공식포토 #1]\n\n스웨덴세탁소 [미지] 공식포토 방출 📸\n\n🎵Track List\n01. 우리는 너무 많은 것을 (We)\n02. 미지 (Q)\n03. 밤산책 (Walkin' in the moonlight)\n\n2019.12.10 6PM Now Released 🔥\n\n#스웨덴세탁소 #최인영 #왕세윤 #미지 #Q #밤산책 #우리는너무많은것을 #쇼파르뮤직 https://t.co/2eaTloZcMN"
+	},
+	{
 		"created_at": "Tue Dec 10 09:18:25 +0000 2019",
 		"id": 1204325074766983200,
 		"id_str": "1204329510067462144",
