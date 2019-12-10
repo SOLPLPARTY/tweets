@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 11:25:01 +0000 2019",
+		"id": 1204352160323920000,
+		"id_str": "1204361369115676678",
+		"full_text": "📣god의 점심어택 공지📣\n.\n월-금 오전 9시에 온에어되던 #점심어택 재방송은\n내일(12/11)부터 크리스마스 당일까지‼️\n월-금 오후 2시 재방송으로 옮겨갑니다🙏🏻🙏🏻🙏🏻\n.\n내일부터는 점심 먹고 또 만나요💙 #god #NOW온에어 https://t.co/ZDdo2WdfyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "점심어택",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204352153646596000,
+					"id_str": "1204352153646596096",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ELa35x6VAAASQTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELa35x6VAAASQTy.jpg",
+					"url": "https://t.co/ZDdo2WdfyE",
+					"display_url": "pic.twitter.com/ZDdo2WdfyE",
+					"expanded_url": "https://twitter.com/kr_now/status/1204352160323919873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 428,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 244,
+									"y": 89,
+									"h": 185,
+									"w": 185
+								},
+								{
+									"x": 192,
+									"y": 357,
+									"h": 241,
+									"w": 241
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204352153646596000,
+					"id_str": "1204352153646596096",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ELa35x6VAAASQTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELa35x6VAAASQTy.jpg",
+					"url": "https://t.co/ZDdo2WdfyE",
+					"display_url": "pic.twitter.com/ZDdo2WdfyE",
+					"expanded_url": "https://twitter.com/kr_now/status/1204352160323919873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 428,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 244,
+									"y": 89,
+									"h": 185,
+									"w": 185
+								},
+								{
+									"x": 192,
+									"y": 357,
+									"h": 241,
+									"w": 241
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 681,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 388,
+									"y": 142,
+									"h": 294,
+									"w": 294
+								},
+								{
+									"x": 305,
+									"y": 568,
+									"h": 383,
+									"w": 383
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17643,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣god의 점심어택 공지📣\n.\n월-금 오전 9시에 온에어되던 #점심어택 재방송은\n내일(12/11)부터 크리스마스 당일까지‼️\n월-금 오후 2시 재방송으로 옮겨갑니다🙏🏻🙏🏻🙏🏻\n.\n내일부터는 점심 먹고 또 만나요💙 #god #NOW온에어 https://t.co/ZDdo2WdfyE"
+	},
+	{
 		"created_at": "Tue Dec 10 11:13:28 +0000 2019",
 		"id": 1204349799887065000,
 		"id_str": "1204358463196938241",
@@ -738,7 +1103,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -873,7 +1238,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1496,7 +1861,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -2143,7 +2508,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -2782,7 +3147,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -3050,7 +3415,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
