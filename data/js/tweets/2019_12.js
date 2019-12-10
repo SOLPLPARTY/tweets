@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 03:13:28 +0000 2019",
+		"id": 1204230083633746000,
+		"id_str": "1204237666897846272",
+		"full_text": "&lt;이태원&gt; 강유가람 감독, 김혜정 PD가 함께한 김수정 기자님의 노컷뉴스 기사를 소개합니다.\n\n\"느네 하고 싶은 대로 해 봐\"… '이태원' 개봉의 출발\nhttps://t.co/SE0hhN9E9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SE0hhN9E9t",
+					"expanded_url": "http://naver.me/5PRCFVRV",
+					"display_url": "naver.me/5PRCFVRV",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19143,
+			"friends_count": 2006,
+			"listed_count": 318,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이태원&gt; 강유가람 감독, 김혜정 PD가 함께한 김수정 기자님의 노컷뉴스 기사를 소개합니다.\n\n\"느네 하고 싶은 대로 해 봐\"… '이태원' 개봉의 출발\nhttps://t.co/SE0hhN9E9t"
+	},
+	{
+		"created_at": "Tue Dec 10 02:18:35 +0000 2019",
+		"id": 1204220305239003100,
+		"id_str": "1204223858066284544",
+		"full_text": "@lucid_fall_jo #루시드폴 #너와나 #LucidFall @lucid_fall_jo \n\n교보문고 · https://t.co/QS1m6tU6M6\nYes24 · https://t.co/PgU7dkS59K\n알라딘 · https://t.co/SvbGR7Ympj",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "너와나",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QS1m6tU6M6",
+					"expanded_url": "https://bit.ly/2t07JpX",
+					"display_url": "bit.ly/2t07JpX",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/PgU7dkS59K",
+					"expanded_url": "https://bit.ly/36kCOmA",
+					"display_url": "bit.ly/36kCOmA",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/SvbGR7Ympj",
+					"expanded_url": "https://bit.ly/2YwDO4q",
+					"display_url": "bit.ly/2YwDO4q",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204219974660702200,
+		"in_reply_to_status_id_str": "1204219974660702208",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34863,
+			"friends_count": 2958,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@lucid_fall_jo #루시드폴 #너와나 #LucidFall @lucid_fall_jo \n\n교보문고 · https://t.co/QS1m6tU6M6\nYes24 · https://t.co/PgU7dkS59K\n알라딘 · https://t.co/SvbGR7Ympj"
+	},
+	{
+		"created_at": "Tue Dec 10 02:18:26 +0000 2019",
+		"id": 1204219974660702200,
+		"id_str": "1204223820283949056",
+		"full_text": "@lucid_fall_jo 루시드폴 정규 9집 「너와 나」\n포토 에세이, 그리고 음반\n\n◦ 예약 판매 오픈 Online Pre-Order ⤵\n⠀#교보문고 #Yes24 #알라딘 등 온라인 서점\n\n◦ 예약 판매 특전 ⤵\n⠀루시드폴의 사인과 메시지가 담긴\n⠀미공개 사진 엽서 (랜덤 3종) &amp; more\n\n#루시드폴 #LucidFall #너와나",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "교보문고",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "Yes24",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "너와나",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204219334660259800,
+		"in_reply_to_status_id_str": "1204219334660259842",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34863,
+			"friends_count": 2958,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lucid_fall_jo 루시드폴 정규 9집 「너와 나」\n포토 에세이, 그리고 음반\n\n◦ 예약 판매 오픈 Online Pre-Order ⤵\n⠀#교보문고 #Yes24 #알라딘 등 온라인 서점\n\n◦ 예약 판매 특전 ⤵\n⠀루시드폴의 사인과 메시지가 담긴\n⠀미공개 사진 엽서 (랜덤 3종) &amp; more\n\n#루시드폴 #LucidFall #너와나"
+	},
+	{
+		"created_at": "Tue Dec 10 02:18:22 +0000 2019",
+		"id": 1204219334660259800,
+		"id_str": "1204223801011179520",
+		"full_text": "루시드폴 정규 9집 「너와 나」\n2019. 12. 16. 오후 6시 발매\n\n🐾〰️🎼\n반려견 보현과 함께한 산책 같은 사진과 노래\n‘너와 나’, 우리가 사랑하는 모든 순간의 기록\n\n#TRACKLIST #루시드폴 #너와나\n#LucidFall @lucid_fall_jo https://t.co/xVek8SJpMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TRACKLIST",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "너와나",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						133,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204219317077676000,
+					"id_str": "1204219317077676032",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ELY_FrIUEAAj06g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELY_FrIUEAAj06g.jpg",
+					"url": "https://t.co/xVek8SJpMi",
+					"display_url": "pic.twitter.com/xVek8SJpMi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1204219334660259842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "115856799",
+									"screen_name": "lucid_fall_jo",
+									"name": "Lucid Fall"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204219317077676000,
+					"id_str": "1204219317077676032",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ELY_FrIUEAAj06g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELY_FrIUEAAj06g.jpg",
+					"url": "https://t.co/xVek8SJpMi",
+					"display_url": "pic.twitter.com/xVek8SJpMi",
+					"expanded_url": "https://twitter.com/antennamusic/status/1204219334660259842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1266,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "115856799",
+									"screen_name": "lucid_fall_jo",
+									"name": "Lucid Fall"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34863,
+			"friends_count": 2958,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1575278710",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "루시드폴 정규 9집 「너와 나」\n2019. 12. 16. 오후 6시 발매\n\n🐾〰️🎼\n반려견 보현과 함께한 산책 같은 사진과 노래\n‘너와 나’, 우리가 사랑하는 모든 순간의 기록\n\n#TRACKLIST #루시드폴 #너와나\n#LucidFall @lucid_fall_jo https://t.co/xVek8SJpMi"
+	},
+	{
 		"created_at": "Mon Dec 09 16:18:17 +0000 2019",
 		"id": 1204067197502574600,
 		"id_str": "1204072785615761409",
