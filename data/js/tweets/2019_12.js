@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 08:19:55 +0000 2019",
+		"id": 1204310143980228600,
+		"id_str": "1204314787485822976",
+		"full_text": "[월디페가 추천하는 EDM 띵곡 모음 Vol.1]\n내년 페스티벌 시즌 기다리면서 들을\nEDM 띵곡들을 월디페가 엄선했습니다!\n.\n띵곡 55곡 플레이리스트👇👇\nhttps://t.co/lTIzjImQGu\n.\n🎶Madeon - All My Friends\n🎶The Chainsmokers, Kygo - Family\n.\n#월디페 #EDM #플레이리스트 https://t.co/YKydlQL55v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월디페",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "EDM",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lTIzjImQGu",
+					"expanded_url": "http://kko.to/7heg7ANjp#Melon",
+					"display_url": "kko.to/7heg7ANjp#Melon",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204309941449871400,
+					"id_str": "1204309941449871360",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204309941449871360/pu/img/HtsrvspuZM7Cbs87.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204309941449871360/pu/img/HtsrvspuZM7Cbs87.jpg",
+					"url": "https://t.co/YKydlQL55v",
+					"display_url": "pic.twitter.com/YKydlQL55v",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1204310143980228608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204309941449871400,
+					"id_str": "1204309941449871360",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204309941449871360/pu/img/HtsrvspuZM7Cbs87.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204309941449871360/pu/img/HtsrvspuZM7Cbs87.jpg",
+					"url": "https://t.co/YKydlQL55v",
+					"display_url": "pic.twitter.com/YKydlQL55v",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1204310143980228608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204309941449871360/pu/vid/320x320/noqLWgSgt4gaeR3n.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204309941449871360/pu/vid/480x480/gurPSG-9bz-UKc7M.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204309941449871360/pu/vid/720x720/rWlrjavYs27fZsJB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204309941449871360/pu/pl/eQuaf6lguTXgmWJu.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 281,
+			"listed_count": 82,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1557579790",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[월디페가 추천하는 EDM 띵곡 모음 Vol.1]\n내년 페스티벌 시즌 기다리면서 들을\nEDM 띵곡들을 월디페가 엄선했습니다!\n.\n띵곡 55곡 플레이리스트👇👇\nhttps://t.co/lTIzjImQGu\n.\n🎶Madeon - All My Friends\n🎶The Chainsmokers, Kygo - Family\n.\n#월디페 #EDM #플레이리스트 https://t.co/YKydlQL55v"
+	},
+	{
 		"created_at": "Tue Dec 10 08:07:12 +0000 2019",
 		"id": 1204311588720779300,
 		"id_str": "1204311588720779264",
