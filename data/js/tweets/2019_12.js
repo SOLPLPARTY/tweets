@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 06:13:28 +0000 2019",
+		"id": 1204271109039743000,
+		"id_str": "1204282965229998081",
+		"full_text": "[𝙈𝙄𝙓𝙏𝘼𝙋𝙀] #ASTRO\n노래만 나오면 온 몸을 주체 못하는 흥부자디제이들! (믹스테잎 완성 못하면 어쩌나 안절부절 제작진은 덤..) 흥 넘치는 #아스트로(@offclASTRO) #진진 #라키 의 믹스테잎 네이버 V-Live 캐스퍼라디오 채널에서 다시보실 수 있습니다 🥺\n👇\nhttps://t.co/yPlie4Ag1j https://t.co/fHdGTSGM8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ASTRO",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "진진",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "라키",
+					"indices": [
+						107,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "offclASTRO",
+					"name": "아스트로",
+					"id": 3314485566,
+					"id_str": "3314485566",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yPlie4Ag1j",
+					"expanded_url": "http://vlive.tv/video/164098",
+					"display_url": "vlive.tv/video/164098",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204271097878728700,
+					"id_str": "1204271097878728704",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZuLtpU0AAhd_z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELZuLtpU0AAhd_z.jpg",
+					"url": "https://t.co/fHdGTSGM8h",
+					"display_url": "pic.twitter.com/fHdGTSGM8h",
+					"expanded_url": "https://twitter.com/casperradio_/status/1204271109039742976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204271097878728700,
+					"id_str": "1204271097878728704",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZuLtpU0AAhd_z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELZuLtpU0AAhd_z.jpg",
+					"url": "https://t.co/fHdGTSGM8h",
+					"display_url": "pic.twitter.com/fHdGTSGM8h",
+					"expanded_url": "https://twitter.com/casperradio_/status/1204271109039742976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1204271097878696000,
+					"id_str": "1204271097878695936",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ELZuLtpUUAAh1V1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELZuLtpUUAAh1V1.jpg",
+					"url": "https://t.co/fHdGTSGM8h",
+					"display_url": "pic.twitter.com/fHdGTSGM8h",
+					"expanded_url": "https://twitter.com/casperradio_/status/1204271109039742976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1409,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[𝙈𝙄𝙓𝙏𝘼𝙋𝙀] #ASTRO\n노래만 나오면 온 몸을 주체 못하는 흥부자디제이들! (믹스테잎 완성 못하면 어쩌나 안절부절 제작진은 덤..) 흥 넘치는 #아스트로(@offclASTRO) #진진 #라키 의 믹스테잎 네이버 V-Live 캐스퍼라디오 채널에서 다시보실 수 있습니다 🥺\n👇\nhttps://t.co/yPlie4Ag1j https://t.co/fHdGTSGM8h"
+	},
+	{
 		"created_at": "Tue Dec 10 04:14:00 +0000 2019",
 		"id": 1204252640130920400,
 		"id_str": "1204252903759843329",
