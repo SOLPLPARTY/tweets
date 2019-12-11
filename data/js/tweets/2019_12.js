@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 04:13:28 +0000 2019",
+		"id": 1204614509056290800,
+		"id_str": "1204615156279468032",
+		"full_text": "#치스비치 의 &lt;쇼!인기가요톱텐!&gt;\n잠시후 8시 네이버 V-Live 캐스퍼라디오 채널에서 보실 수 있습니다😊\n\nhttps://t.co/SRry5z4hgF\n\n#치즈 #스텔라장 #러비 #박문치 https://t.co/xhrbxoSl20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치스비치",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "러비",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SRry5z4hgF",
+					"expanded_url": "https://www.vlive.tv/video/164990",
+					"display_url": "vlive.tv/video/164990",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204614497429704700,
+					"id_str": "1204614497429704704",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ELemgMqVUAAjw-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELemgMqVUAAjw-f.jpg",
+					"url": "https://t.co/xhrbxoSl20",
+					"display_url": "pic.twitter.com/xhrbxoSl20",
+					"expanded_url": "https://twitter.com/casperradio_/status/1204614509056290817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 466,
+									"y": 604,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 234,
+									"y": 342,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 407,
+									"y": 298,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204614497429704700,
+					"id_str": "1204614497429704704",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ELemgMqVUAAjw-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELemgMqVUAAjw-f.jpg",
+					"url": "https://t.co/xhrbxoSl20",
+					"display_url": "pic.twitter.com/xhrbxoSl20",
+					"expanded_url": "https://twitter.com/casperradio_/status/1204614509056290817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 466,
+									"y": 604,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 234,
+									"y": 342,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 407,
+									"y": 298,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 702,
+									"y": 911,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 353,
+									"y": 516,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 613,
+									"y": 449,
+									"h": 138,
+									"w": 138
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1426,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140510416520355840/JuFzG9oU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#치스비치 의 &lt;쇼!인기가요톱텐!&gt;\n잠시후 8시 네이버 V-Live 캐스퍼라디오 채널에서 보실 수 있습니다😊\n\nhttps://t.co/SRry5z4hgF\n\n#치즈 #스텔라장 #러비 #박문치 https://t.co/xhrbxoSl20"
+	},
+	{
 		"created_at": "Wed Dec 11 03:13:28 +0000 2019",
 		"id": 1204599816942080000,
 		"id_str": "1204600054792802304",
