@@ -1,10 +1,361 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 15:25:01 +0000 2019",
+		"id": 1204777926069080000,
+		"id_str": "1204784156099698688",
+		"full_text": "#NOW온에어 12월 12일(목) 오늘의 타임테이블📌 https://t.co/UpSiW86jAe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOW온에어",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204777923225346000,
+					"id_str": "1204777923225346053",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/ELg7I1MUYAUGAnK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELg7I1MUYAUGAnK.jpg",
+					"url": "https://t.co/UpSiW86jAe",
+					"display_url": "pic.twitter.com/UpSiW86jAe",
+					"expanded_url": "https://twitter.com/kr_now/status/1204777926069080064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 190,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 127,
+									"y": 428,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 124,
+									"y": 341,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204777923225346000,
+					"id_str": "1204777923225346053",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/ELg7I1MUYAUGAnK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELg7I1MUYAUGAnK.jpg",
+					"url": "https://t.co/UpSiW86jAe",
+					"display_url": "pic.twitter.com/UpSiW86jAe",
+					"expanded_url": "https://twitter.com/kr_now/status/1204777926069080064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 190,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 127,
+									"y": 428,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 124,
+									"y": 341,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 302,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 202,
+									"y": 681,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 198,
+									"y": 543,
+									"h": 94,
+									"w": 94
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 457,
+		"favorite_count": 588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NOW온에어 12월 12일(목) 오늘의 타임테이블📌 https://t.co/UpSiW86jAe"
+	},
+	{
 		"created_at": "Wed Dec 11 12:18:17 +0000 2019",
 		"id": 1204734932913815600,
 		"id_str": "1204737162903719936",
-		"full_text": "[V LIVE] PEPPERTONES LIVE 2019 : 써클 신입 부원 모집 🎸  https://t.co/s0xTnT9AxT #페퍼톤스 #써클 #질문_받습니다🙋🏽‍♂️ @pptnzexpress",
+		"full_text": "[V LIVE] PEPPERTONES LIVE 2019 : 써클 신입 부원 모집 🎸  https://t.co/s0xTnT9AxT #페퍼톤스 #써클 #질문_받습니다🙋🏽♂️ @pptnzexpress",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -139,7 +490,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[V LIVE] PEPPERTONES LIVE 2019 : 써클 신입 부원 모집 🎸  https://t.co/s0xTnT9AxT #페퍼톤스 #써클 #질문_받습니다🙋🏽‍♂️ @pptnzexpress"
+		"text": "[V LIVE] PEPPERTONES LIVE 2019 : 써클 신입 부원 모집 🎸  https://t.co/s0xTnT9AxT #페퍼톤스 #써클 #질문_받습니다🙋🏽♂️ @pptnzexpress"
 	},
 	{
 		"created_at": "Wed Dec 11 11:18:17 +0000 2019",
