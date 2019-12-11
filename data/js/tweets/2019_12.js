@@ -1,6 +1,910 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 00:18:26 +0000 2019",
+		"id": 1204544930976129000,
+		"id_str": "1204556007042625538",
+		"full_text": "[세이수미 2019 북미투어]\n12/10 Los Angeles - The Echo \n12/11 San Francisco - Rickshaw Stop \n12/12 Seattle - The Sunset https://t.co/bl4eot5ffz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204544912588337200,
+					"id_str": "1204544912588337152",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdnN07U8AAdDL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdnN07U8AAdDL1.jpg",
+					"url": "https://t.co/bl4eot5ffz",
+					"display_url": "pic.twitter.com/bl4eot5ffz",
+					"expanded_url": "https://twitter.com/electric_muse/status/1204544930976129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1330,
+									"y": 824,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 996,
+									"y": 868,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1332,
+									"y": 1742,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 588,
+									"y": 760,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1412,
+									"y": 1508,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 273,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 330,
+									"y": 288,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 442,
+									"y": 578,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 195,
+									"y": 252,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 468,
+									"y": 500,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1330,
+									"y": 824,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 996,
+									"y": 868,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1332,
+									"y": 1742,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 588,
+									"y": 760,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1412,
+									"y": 1508,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 779,
+									"y": 482,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 583,
+									"y": 508,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 780,
+									"y": 1020,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 344,
+									"y": 445,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 827,
+									"y": 883,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204544912588337200,
+					"id_str": "1204544912588337152",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdnN07U8AAdDL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdnN07U8AAdDL1.jpg",
+					"url": "https://t.co/bl4eot5ffz",
+					"display_url": "pic.twitter.com/bl4eot5ffz",
+					"expanded_url": "https://twitter.com/electric_muse/status/1204544930976129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1330,
+									"y": 824,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 996,
+									"y": 868,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1332,
+									"y": 1742,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 588,
+									"y": 760,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1412,
+									"y": 1508,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 273,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 330,
+									"y": 288,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 442,
+									"y": 578,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 195,
+									"y": 252,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 468,
+									"y": 500,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1330,
+									"y": 824,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 996,
+									"y": 868,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1332,
+									"y": 1742,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 588,
+									"y": 760,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1412,
+									"y": 1508,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 779,
+									"y": 482,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 583,
+									"y": 508,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 780,
+									"y": 1020,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 344,
+									"y": 445,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 827,
+									"y": 883,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204544908788289500,
+		"in_reply_to_status_id_str": "1204544908788289537",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3512,
+			"friends_count": 1337,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[세이수미 2019 북미투어]\n12/10 Los Angeles - The Echo \n12/11 San Francisco - Rickshaw Stop \n12/12 Seattle - The Sunset https://t.co/bl4eot5ffz"
+	},
+	{
+		"created_at": "Wed Dec 11 00:18:21 +0000 2019",
+		"id": 1204544908788289500,
+		"id_str": "1204555985588805632",
+		"full_text": "[빌리카터]\n12월 13일(금) 10시\n클럽 FF\n\nW/\nGREEN EYED MONSTER\n...Whatever That Means\nWinningshot https://t.co/hSZIjZ5uDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204544899179106300,
+					"id_str": "1204544899179106305",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdnNC-UUAE8AHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdnNC-UUAE8AHE.jpg",
+					"url": "https://t.co/hSZIjZ5uDT",
+					"display_url": "pic.twitter.com/hSZIjZ5uDT",
+					"expanded_url": "https://twitter.com/electric_muse/status/1204544908788289537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 289,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 4,
+									"y": 279,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 61,
+									"y": 35,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 238,
+									"y": 145,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 432,
+									"y": 267,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204544899179106300,
+					"id_str": "1204544899179106305",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ELdnNC-UUAE8AHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELdnNC-UUAE8AHE.jpg",
+					"url": "https://t.co/hSZIjZ5uDT",
+					"display_url": "pic.twitter.com/hSZIjZ5uDT",
+					"expanded_url": "https://twitter.com/electric_muse/status/1204544908788289537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 749,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1005,
+									"y": 469,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 8,
+									"y": 452,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 99,
+									"y": 58,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 385,
+									"y": 236,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 699,
+									"y": 433,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 289,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 4,
+									"y": 279,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 61,
+									"y": 35,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 238,
+									"y": 145,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 432,
+									"y": 267,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204544896759021600,
+		"in_reply_to_status_id_str": "1204544896759021569",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3512,
+			"friends_count": 1337,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[빌리카터]\n12월 13일(금) 10시\n클럽 FF\n\nW/\nGREEN EYED MONSTER\n...Whatever That Means\nWinningshot https://t.co/hSZIjZ5uDT"
+	},
+	{
 		"created_at": "Tue Dec 10 21:20:10 +0000 2019",
 		"id": 1204228095978291200,
 		"id_str": "1204511145219854336",
