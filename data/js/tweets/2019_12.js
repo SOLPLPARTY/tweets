@@ -1,6 +1,1794 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 09:13:27 +0000 2019",
+		"id": 1205040992346206200,
+		"id_str": "1205053038676844544",
+		"full_text": "📣판매 공지\n재미공작소 2020년 달력 #컬러링컬러링캘린더 \n재미공작소 스마트스토어에서 판매 시작했습니다. \n\n컬러-링을 이용해 그림과 달력을 이어서 걸거나,\n달력의 그림을 컬러링으로 채울 수 있는 재미있는 달력!\n구경하러 가보실까요😉\n\nhttps://t.co/qKZ7TNZ9rC https://t.co/rZ2iqNWBWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "컬러링컬러링캘린더",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKZ7TNZ9rC",
+					"expanded_url": "https://smartstore.naver.com/studiozemi/products/4758328738",
+					"display_url": "smartstore.naver.com/studiozemi/pro…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205040977204801500,
+					"id_str": "1205040977204801536",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkqYloU8AAyihi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkqYloU8AAyihi.jpg",
+					"url": "https://t.co/rZ2iqNWBWD",
+					"display_url": "pic.twitter.com/rZ2iqNWBWD",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1205040992346206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 918,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 370,
+									"y": 304,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 653,
+									"y": 537,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 918,
+									"h": 242,
+									"w": 242
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205040977204801500,
+					"id_str": "1205040977204801536",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkqYloU8AAyihi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkqYloU8AAyihi.jpg",
+					"url": "https://t.co/rZ2iqNWBWD",
+					"display_url": "pic.twitter.com/rZ2iqNWBWD",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1205040992346206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 918,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 370,
+									"y": 304,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 653,
+									"y": 537,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1116,
+									"y": 918,
+									"h": 242,
+									"w": 242
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205040977204805600,
+					"id_str": "1205040977204805633",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkqYloVAAE7s5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkqYloVAAE7s5R.jpg",
+					"url": "https://t.co/rZ2iqNWBWD",
+					"display_url": "pic.twitter.com/rZ2iqNWBWD",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1205040992346206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1824,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 403,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 212,
+									"y": 393,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 376,
+									"y": 118,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1296,
+									"y": 1214,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 640,
+									"y": 1184,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 1134,
+									"y": 358,
+									"h": 304,
+									"w": 304
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 759,
+									"y": 711,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 375,
+									"y": 693,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 664,
+									"y": 209,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1296,
+									"y": 1214,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 640,
+									"y": 1184,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 1134,
+									"y": 358,
+									"h": 304,
+									"w": 304
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205040977208995800,
+					"id_str": "1205040977208995840",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkqYlpU8AA_yjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkqYlpU8AA_yjD.jpg",
+					"url": "https://t.co/rZ2iqNWBWD",
+					"display_url": "pic.twitter.com/rZ2iqNWBWD",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1205040992346206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 1198,
+									"h": 388,
+									"w": 388
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 397,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 116,
+									"y": 701,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 1198,
+									"h": 388,
+									"w": 388
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205040977200599000,
+					"id_str": "1205040977200599043",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkqYlnU0AM3rEM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkqYlnU0AM3rEM.jpg",
+					"url": "https://t.co/rZ2iqNWBWD",
+					"display_url": "pic.twitter.com/rZ2iqNWBWD",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1205040992346206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1790,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 63,
+									"y": 753,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 426,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 108,
+									"y": 1286,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 108,
+									"y": 1286,
+									"h": 74,
+									"w": 74
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8221,
+			"friends_count": 601,
+			"listed_count": 113,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣판매 공지\n재미공작소 2020년 달력 #컬러링컬러링캘린더 \n재미공작소 스마트스토어에서 판매 시작했습니다. \n\n컬러-링을 이용해 그림과 달력을 이어서 걸거나,\n달력의 그림을 컬러링으로 채울 수 있는 재미있는 달력!\n구경하러 가보실까요😉\n\nhttps://t.co/qKZ7TNZ9rC https://t.co/rZ2iqNWBWD"
+	},
+	{
+		"created_at": "Thu Dec 12 08:25:17 +0000 2019",
+		"id": 1205035542808645600,
+		"id_str": "1205040914554671104",
+		"full_text": "Would you… Would you… #우주소녀쇼 4회 듣기… 오늘 밤 8시, #우주소녀쇼 에서는 #엑시 #수빈 #다영 #설아 #다원 의 티키타카가 오디오 빌 틈 없이 펼쳐집니다. 네이버앱에서 알림설정 하고 실시간으로 들어보세요🙌 #WJSN #NOW온에어 https://t.co/0zuTdJqLUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주소녀쇼",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "우주소녀쇼",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "엑시",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "수빈",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "다영",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "설아",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "다원",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205035527658827800,
+					"id_str": "1205035527658827777",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklbYfUcAE8H0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklbYfUcAE8H0S.jpg",
+					"url": "https://t.co/0zuTdJqLUZ",
+					"display_url": "pic.twitter.com/0zuTdJqLUZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035542808645634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2182,
+									"y": 3495,
+									"h": 247,
+									"w": 247
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 600,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1129,
+									"y": 1809,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 662,
+									"y": 1060,
+									"h": 74,
+									"w": 74
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205035527658827800,
+					"id_str": "1205035527658827777",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklbYfUcAE8H0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklbYfUcAE8H0S.jpg",
+					"url": "https://t.co/0zuTdJqLUZ",
+					"display_url": "pic.twitter.com/0zuTdJqLUZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035542808645634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2182,
+									"y": 3495,
+									"h": 247,
+									"w": 247
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 600,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1129,
+									"y": 1809,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 662,
+									"y": 1060,
+									"h": 74,
+									"w": 74
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205035527667208200,
+					"id_str": "1205035527667208192",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklbYhUUAALsHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklbYhUUAALsHV.jpg",
+					"url": "https://t.co/0zuTdJqLUZ",
+					"display_url": "pic.twitter.com/0zuTdJqLUZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035542808645634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1229,
+									"y": 1823,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 1639,
+									"y": 91,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 720,
+									"y": 1068,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 960,
+									"y": 53,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2368,
+									"y": 3512,
+									"h": 223,
+									"w": 223
+								},
+								{
+									"x": 3158,
+									"y": 177,
+									"h": 338,
+									"w": 338
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 605,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 544,
+									"y": 30,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205035521107316700,
+		"in_reply_to_status_id_str": "1205035521107316736",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17763,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Would you… Would you… #우주소녀쇼 4회 듣기… 오늘 밤 8시, #우주소녀쇼 에서는 #엑시 #수빈 #다영 #설아 #다원 의 티키타카가 오디오 빌 틈 없이 펼쳐집니다. 네이버앱에서 알림설정 하고 실시간으로 들어보세요🙌 #WJSN #NOW온에어 https://t.co/0zuTdJqLUZ"
+	},
+	{
+		"created_at": "Thu Dec 12 08:25:11 +0000 2019",
+		"id": 1205035521107316700,
+		"id_str": "1205040888839360512",
+		"full_text": "Would you… Would you… #우주소녀쇼 4회 듣기… 오늘 밤 8시, #우주소녀쇼 에서는 #엑시 #수빈 #다영 #설아 #다원 의 티키타카가 오디오 빌 틈 없이 펼쳐집니다. 네이버앱에서 알림설정 하고 실시간으로 들어보세요🙌 #WJSN #NOW온에어 https://t.co/KHVF683naF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주소녀쇼",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "우주소녀쇼",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "엑시",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "수빈",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "다영",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "설아",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "다원",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205035500139991000,
+					"id_str": "1205035500139991040",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklZx-UUAAHGBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklZx-UUAAHGBV.jpg",
+					"url": "https://t.co/KHVF683naF",
+					"display_url": "pic.twitter.com/KHVF683naF",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035521107316736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 235,
+									"y": 244,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 416,
+									"y": 1074,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 408,
+									"y": 1040,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 563,
+									"y": 655,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 138,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 236,
+									"y": 608,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 231,
+									"y": 589,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 319,
+									"y": 371,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 417,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 711,
+									"y": 1833,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 697,
+									"y": 1775,
+									"h": 179,
+									"w": 179
+								},
+								{
+									"x": 961,
+									"y": 1117,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 529,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 902,
+									"y": 2324,
+									"h": 131,
+									"w": 131
+								},
+								{
+									"x": 884,
+									"y": 2251,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 1219,
+									"y": 1417,
+									"h": 403,
+									"w": 403
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205035500139991000,
+					"id_str": "1205035500139991040",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklZx-UUAAHGBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklZx-UUAAHGBV.jpg",
+					"url": "https://t.co/KHVF683naF",
+					"display_url": "pic.twitter.com/KHVF683naF",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035521107316736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 235,
+									"y": 244,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 416,
+									"y": 1074,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 408,
+									"y": 1040,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 563,
+									"y": 655,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 138,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 236,
+									"y": 608,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 231,
+									"y": 589,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 319,
+									"y": 371,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 417,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 711,
+									"y": 1833,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 697,
+									"y": 1775,
+									"h": 179,
+									"w": 179
+								},
+								{
+									"x": 961,
+									"y": 1117,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 509,
+									"y": 529,
+									"h": 121,
+									"w": 121
+								},
+								{
+									"x": 902,
+									"y": 2324,
+									"h": 131,
+									"w": 131
+								},
+								{
+									"x": 884,
+									"y": 2251,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 1219,
+									"y": 1417,
+									"h": 403,
+									"w": 403
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205035500144189400,
+					"id_str": "1205035500144189440",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklZx_UYAAswLd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklZx_UYAAswLd.jpg",
+					"url": "https://t.co/KHVF683naF",
+					"display_url": "pic.twitter.com/KHVF683naF",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035521107316736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 1070,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 557,
+									"y": 665,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1259,
+									"y": 1827,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 951,
+									"y": 1135,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 606,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 315,
+									"y": 377,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1584,
+									"y": 2298,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 1196,
+									"y": 1428,
+									"h": 344,
+									"w": 344
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205035500144222200,
+					"id_str": "1205035500144222208",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ELklZx_U4AAICSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELklZx_U4AAICSp.jpg",
+					"url": "https://t.co/KHVF683naF",
+					"display_url": "pic.twitter.com/KHVF683naF",
+					"expanded_url": "https://twitter.com/kr_now/status/1205035521107316736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 298,
+									"y": 361,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 637,
+									"h": 205,
+									"w": 205
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 897,
+									"y": 1087,
+									"h": 351,
+									"w": 351
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1132,
+									"y": 1372,
+									"h": 443,
+									"w": 443
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17763,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Would you… Would you… #우주소녀쇼 4회 듣기… 오늘 밤 8시, #우주소녀쇼 에서는 #엑시 #수빈 #다영 #설아 #다원 의 티키타카가 오디오 빌 틈 없이 펼쳐집니다. 네이버앱에서 알림설정 하고 실시간으로 들어보세요🙌 #WJSN #NOW온에어 https://t.co/KHVF683naF"
+	},
+	{
+		"created_at": "Thu Dec 12 08:25:05 +0000 2019",
+		"id": 1205034604572201000,
+		"id_str": "1205040867259625472",
+		"full_text": "“여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다” 시인 윤동주의 ‘소년’을 가사로 활용한 곡, #홍이삭 의 ‘소년’ 라이브 영상🍂 가을날의 소년이 눈 앞에 그려지는 곡 들으며, 잔잔한 감성에 푹 빠져보아요 #NOW온에어\nhttps://t.co/DEdjm143NX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						117,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DEdjm143NX",
+					"expanded_url": "http://naver.me/Ft9roCC2",
+					"display_url": "naver.me/Ft9roCC2",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17763,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“여기저기서 단풍잎 같은 슬픈 가을이 뚝뚝 떨어진다” 시인 윤동주의 ‘소년’을 가사로 활용한 곡, #홍이삭 의 ‘소년’ 라이브 영상🍂 가을날의 소년이 눈 앞에 그려지는 곡 들으며, 잔잔한 감성에 푹 빠져보아요 #NOW온에어\nhttps://t.co/DEdjm143NX"
+	},
+	{
 		"created_at": "Thu Dec 12 08:13:31 +0000 2019",
 		"id": 1205023374478467000,
 		"id_str": "1205037952969191425",
@@ -4595,7 +6383,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -4870,7 +6658,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
