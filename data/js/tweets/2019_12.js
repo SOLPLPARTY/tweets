@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 02:25:01 +0000 2019",
+		"id": 1204941797484400600,
+		"id_str": "1204950249795653643",
+		"full_text": "#6시5분전 의 유일한 고정 코너 ✨이것만은 알고 가✨ 를 함께 하는 유일한 고정 게스트 #신재평 그리고 호스트 #이장원 우주최강2인조밴드 #페퍼톤스 의 방송 후 도시락 챱챱샷! 힘내서 앞으로도 오래오래 함께해주세요.. #NOW온에어 #이것만은_먹고_가 #잘먹었습니다💓 https://t.co/UDVB10bYSs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "6시5분전",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "이것만은_먹고_가",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "잘먹었습니다",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204941787837517800,
+					"id_str": "1204941787837517824",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjQLAcUUAAVOT2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjQLAcUUAAVOT2.jpg",
+					"url": "https://t.co/UDVB10bYSs",
+					"display_url": "pic.twitter.com/UDVB10bYSs",
+					"expanded_url": "https://twitter.com/kr_now/status/1204941797484400640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 73,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 51,
+									"y": 114,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204941787837517800,
+					"id_str": "1204941787837517824",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjQLAcUUAAVOT2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjQLAcUUAAVOT2.jpg",
+					"url": "https://t.co/UDVB10bYSs",
+					"display_url": "pic.twitter.com/UDVB10bYSs",
+					"expanded_url": "https://twitter.com/kr_now/status/1204941797484400640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 110,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 78,
+									"y": 173,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 126,
+									"y": 73,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 51,
+									"y": 114,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17737,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#6시5분전 의 유일한 고정 코너 ✨이것만은 알고 가✨ 를 함께 하는 유일한 고정 게스트 #신재평 그리고 호스트 #이장원 우주최강2인조밴드 #페퍼톤스 의 방송 후 도시락 챱챱샷! 힘내서 앞으로도 오래오래 함께해주세요.. #NOW온에어 #이것만은_먹고_가 #잘먹었습니다💓 https://t.co/UDVB10bYSs"
+	},
+	{
 		"created_at": "Thu Dec 12 01:18:17 +0000 2019",
 		"id": 1204931090697179100,
 		"id_str": "1204933456502906882",
