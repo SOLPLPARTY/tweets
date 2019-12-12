@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 11:13:36 +0000 2019",
+		"id": 1205079583097151500,
+		"id_str": "1205083273560576000",
+		"full_text": "@Ten_music_ (아직 안봄....)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ten_music_",
+					"name": "텐션 가지말라면서 라이브 소란 기다리는 올콘러 뮤",
+					"id": 1170372789481590800,
+					"id_str": "1170372789481590784",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205072266565783600,
+		"in_reply_to_status_id_str": "1205072266565783554",
+		"in_reply_to_user_id": 1170372789481590800,
+		"in_reply_to_user_id_str": "1170372789481590784",
+		"in_reply_to_screen_name": "Ten_music_",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Ten_music_ (아직 안봄....)"
+	},
+	{
+		"created_at": "Thu Dec 12 11:13:30 +0000 2019",
+		"id": 1205079467439247400,
+		"id_str": "1205083247954317313",
+		"full_text": "@10Bo0om 꺄!!! 성공!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "10Bo0om",
+					"name": "봄(bo0oM)",
+					"id": 1070623155931144200,
+					"id_str": "1070623155931144192",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205071001765023700,
+		"in_reply_to_status_id_str": "1205071001765023744",
+		"in_reply_to_user_id": 1070623155931144200,
+		"in_reply_to_user_id_str": "1070623155931144192",
+		"in_reply_to_screen_name": "10Bo0om",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@10Bo0om 꺄!!! 성공!"
+	},
+	{
+		"created_at": "Thu Dec 12 11:13:28 +0000 2019",
+		"id": 1205070832969478100,
+		"id_str": "1205083239116951552",
+		"full_text": "크리스마스 분위기 + 겨울 분위기나게 프로필 + 헤더 변경해봤지롱!❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "크리스마스 분위기 + 겨울 분위기나게 프로필 + 헤더 변경해봤지롱!❤️"
+	},
+	{
+		"created_at": "Thu Dec 12 10:18:19 +0000 2019",
+		"id": 1205057201699582000,
+		"id_str": "1205069359976189952",
+		"full_text": "[스웨덴세탁소 '미지' 미니 콘서트 티켓 오픈 일정 안내]\n\n새해의 첫 번째 금요일,\n스웨덴세탁소에게 푹 빠져보세요 🌙\n\n❄ 공연 안내\n일시 : 2020.01.03 (금) 오후 8시\n장소 : 카페쇼파르\n\n❄ 티켓 오픈\n2019.12.16 (월) 오후 2시 / 멜론티켓\n\n#스웨덴세탁소 #왕세윤 #최인영 #미지 #Q  #쇼파르뮤직 https://t.co/ksiuI2BMpV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "왕세윤",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "최인영",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						173,
+						175
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205050980171051000,
+					"id_str": "1205050980171051013",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkze1lU8AU_vpQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkze1lU8AU_vpQ.jpg",
+					"url": "https://t.co/ksiuI2BMpV",
+					"display_url": "pic.twitter.com/ksiuI2BMpV",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1205057201699581952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 897,
+									"y": 5090,
+									"h": 678,
+									"w": 678
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 493,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 871,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 261,
+									"y": 1485,
+									"h": 197,
+									"w": 197
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205050980171051000,
+					"id_str": "1205050980171051013",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkze1lU8AU_vpQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkze1lU8AU_vpQ.jpg",
+					"url": "https://t.co/ksiuI2BMpV",
+					"display_url": "pic.twitter.com/ksiuI2BMpV",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1205057201699581952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 897,
+									"y": 5090,
+									"h": 678,
+									"w": 678
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 493,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 153,
+									"y": 871,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 261,
+									"y": 1485,
+									"h": 197,
+									"w": 197
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7697,
+			"friends_count": 10,
+			"listed_count": 74,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 '미지' 미니 콘서트 티켓 오픈 일정 안내]\n\n새해의 첫 번째 금요일,\n스웨덴세탁소에게 푹 빠져보세요 🌙\n\n❄ 공연 안내\n일시 : 2020.01.03 (금) 오후 8시\n장소 : 카페쇼파르\n\n❄ 티켓 오픈\n2019.12.16 (월) 오후 2시 / 멜론티켓\n\n#스웨덴세탁소 #왕세윤 #최인영 #미지 #Q  #쇼파르뮤직 https://t.co/ksiuI2BMpV"
+	},
+	{
 		"created_at": "Thu Dec 12 09:25:01 +0000 2019",
 		"id": 1205055357791301600,
 		"id_str": "1205055945870626816",
@@ -163,7 +789,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
