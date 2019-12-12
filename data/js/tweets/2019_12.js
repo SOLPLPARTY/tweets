@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 09:25:01 +0000 2019",
+		"id": 1205055357791301600,
+		"id_str": "1205055945870626816",
+		"full_text": "내가 생각하는 낭만이란?\n내 인생 최고로 낭만적이었던 순간은?\n여러분의 낭만 사연을 #이성경 #안효섭 이 네이버 나우에서 전해드립니다!\n문자번호 #7117 (정보이용료 100원) 또는 #낭만대전 달고 멘션 보내주세요💘 #NOW온에어 https://t.co/EQgdWSS8ua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이성경",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "안효섭",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "낭만대전",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205055350036029400,
+					"id_str": "1205055350036029441",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/ELk3dMmU4AE-5H6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELk3dMmU4AE-5H6.jpg",
+					"url": "https://t.co/EQgdWSS8ua",
+					"display_url": "pic.twitter.com/EQgdWSS8ua",
+					"expanded_url": "https://twitter.com/kr_now/status/1205055357791301632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1467,
+							"h": 1101,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205055350036029400,
+					"id_str": "1205055350036029441",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/ELk3dMmU4AE-5H6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELk3dMmU4AE-5H6.jpg",
+					"url": "https://t.co/EQgdWSS8ua",
+					"display_url": "pic.twitter.com/EQgdWSS8ua",
+					"expanded_url": "https://twitter.com/kr_now/status/1205055357791301632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1467,
+							"h": 1101,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17776,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 생각하는 낭만이란?\n내 인생 최고로 낭만적이었던 순간은?\n여러분의 낭만 사연을 #이성경 #안효섭 이 네이버 나우에서 전해드립니다!\n문자번호 #7117 (정보이용료 100원) 또는 #낭만대전 달고 멘션 보내주세요💘 #NOW온에어 https://t.co/EQgdWSS8ua"
+	},
+	{
+		"created_at": "Thu Dec 12 09:18:24 +0000 2019",
+		"id": 1205050297933914000,
+		"id_str": "1205054284687167489",
+		"full_text": "@lucid_fall_jo [Release]\n#루시드폴 선공개 싱글 ‘콜라비 콘체르토’\n\n#LucidFall Pre-release Single\n‘Kohlrabi concerto’ is OUT NOW.\n\nMelon: https://t.co/B5v8Wca1v6\nGenie: https://t.co/lwjOAwS63X\nNaver music: https://t.co/6ODhXcQziX\nBugs: https://t.co/KHz2h4Bff6\n\n#콜라비콘체르토 #Kohlrabiconcerto https://t.co/LTfqcagLFF",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "콜라비콘체르토",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"text": "Kohlrabiconcerto",
+					"indices": [
+						252,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B5v8Wca1v6",
+					"expanded_url": "https://bit.ly/2YNp1Te",
+					"display_url": "bit.ly/2YNp1Te",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/lwjOAwS63X",
+					"expanded_url": "https://bit.ly/2rFuLC7",
+					"display_url": "bit.ly/2rFuLC7",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/6ODhXcQziX",
+					"expanded_url": "https://bit.ly/36qN7FH",
+					"display_url": "bit.ly/36qN7FH",
+					"indices": [
+						188,
+						211
+					]
+				},
+				{
+					"url": "https://t.co/KHz2h4Bff6",
+					"expanded_url": "https://bit.ly/2rs6hfP",
+					"display_url": "bit.ly/2rs6hfP",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205050280858935300,
+					"id_str": "1205050280858935297",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/ELky2IcU4AEOuAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELky2IcU4AEOuAe.jpg",
+					"url": "https://t.co/LTfqcagLFF",
+					"display_url": "pic.twitter.com/LTfqcagLFF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1205050297933914112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 188,
+									"h": 502,
+									"w": 502
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 85,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 150,
+									"h": 401,
+									"w": 401
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 188,
+									"h": 502,
+									"w": 502
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205050280858935300,
+					"id_str": "1205050280858935297",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/ELky2IcU4AEOuAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELky2IcU4AEOuAe.jpg",
+					"url": "https://t.co/LTfqcagLFF",
+					"display_url": "pic.twitter.com/LTfqcagLFF",
+					"expanded_url": "https://twitter.com/antennamusic/status/1205050297933914112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 188,
+									"h": 502,
+									"w": 502
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 85,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 150,
+									"h": 401,
+									"w": 401
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 429,
+									"y": 188,
+									"h": 502,
+									"w": 502
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205049936183615500,
+		"in_reply_to_status_id_str": "1205049936183615489",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34860,
+			"friends_count": 2959,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1576036132",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@lucid_fall_jo [Release]\n#루시드폴 선공개 싱글 ‘콜라비 콘체르토’\n\n#LucidFall Pre-release Single\n‘Kohlrabi concerto’ is OUT NOW.\n\nMelon: https://t.co/B5v8Wca1v6\nGenie: https://t.co/lwjOAwS63X\nNaver music: https://t.co/6ODhXcQziX\nBugs: https://t.co/KHz2h4Bff6\n\n#콜라비콘체르토 #Kohlrabiconcerto https://t.co/LTfqcagLFF"
+	},
+	{
 		"created_at": "Thu Dec 12 09:13:27 +0000 2019",
 		"id": 1205040992346206200,
 		"id_str": "1205053038676844544",
@@ -946,7 +1503,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1621,7 +2178,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1731,7 +2288,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
