@@ -1,6 +1,903 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 04:13:40 +0000 2019",
+		"id": 1204969255021629400,
+		"id_str": "1204977595655299073",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.9 SAAY &amp; MOON X Jiselle&gt;\n\n· 일시 : 2020년 2월 2일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : SAAY, MOON, Jiselle\n· 예매 : 멜론티켓 2019년 12월 19일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#SAAY #MOON #Jiselle #롤링25주년 #롤링홀 #ROLLINGHALL https://t.co/svWKM95Gq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SAAY",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "MOON",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "Jiselle",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						175,
+						182
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204969211598004200,
+					"id_str": "1204969211598004224",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204969211598004224/pu/img/nrmXONIZqXSEXzkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204969211598004224/pu/img/nrmXONIZqXSEXzkx.jpg",
+					"url": "https://t.co/svWKM95Gq7",
+					"display_url": "pic.twitter.com/svWKM95Gq7",
+					"expanded_url": "https://twitter.com/rollinghall/status/1204969255021629440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204969211598004200,
+					"id_str": "1204969211598004224",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204969211598004224/pu/img/nrmXONIZqXSEXzkx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204969211598004224/pu/img/nrmXONIZqXSEXzkx.jpg",
+					"url": "https://t.co/svWKM95Gq7",
+					"display_url": "pic.twitter.com/svWKM95Gq7",
+					"expanded_url": "https://twitter.com/rollinghall/status/1204969255021629440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204969211598004224/pu/pl/n7orplejvItzmpqe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204969211598004224/pu/vid/320x320/2ppa4EleRcDtZV7Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204969211598004224/pu/vid/480x480/8r-PsDbTgNiwqUJ3.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204969211598004224/pu/vid/720x720/cHUdgJ_STp9Msnp2.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 790,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.9 SAAY &amp; MOON X Jiselle&gt;\n\n· 일시 : 2020년 2월 2일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : SAAY, MOON, Jiselle\n· 예매 : 멜론티켓 2019년 12월 19일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#SAAY #MOON #Jiselle #롤링25주년 #롤링홀 #ROLLINGHALL https://t.co/svWKM95Gq7"
+	},
+	{
+		"created_at": "Thu Dec 12 04:13:37 +0000 2019",
+		"id": 1204966198833631200,
+		"id_str": "1204977582468485121",
+		"full_text": "(#wavve 에서는 본방 다음날부터 서비스 이용이 가능합니다!)\n⠀\n#ALLTHATMUSIC #올댓뮤직_본방사수\n#고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배\n#jukjae #elaine",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wavve",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "엠씨영배",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "jukjae",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "elaine",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204966164310290400,
+		"in_reply_to_status_id_str": "1204966164310290433",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(#wavve 에서는 본방 다음날부터 서비스 이용이 가능합니다!)\n⠀\n#ALLTHATMUSIC #올댓뮤직_본방사수\n#고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배\n#jukjae #elaine"
+	},
+	{
+		"created_at": "Thu Dec 12 04:13:28 +0000 2019",
+		"id": 1204966164310290400,
+		"id_str": "1204977543734071297",
+		"full_text": "#올댓뮤직 #본방사수\n12월 12일 목요일 밤 11시 40분 KBS1 TV\n⠀\n오늘 밤 11시 40분🙂 감성 싱어송라이터 특집! 따뜻한 휴식처 같은 두 뮤지션 #일레인 #적재 편이 방송됩니다. 그리고 밤 12시부터 만나볼 수 있는 #SKT옥수수앱 #뮤직멀티뷰서비스 도 놓치지마세요💜 https://t.co/q4bEtIeCi0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "일레인",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "SKT옥수수앱",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204966098107388000,
+					"id_str": "1204966098107387904",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204966098107387904/pu/img/HDyuVYf30mSpdd4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204966098107387904/pu/img/HDyuVYf30mSpdd4i.jpg",
+					"url": "https://t.co/q4bEtIeCi0",
+					"display_url": "pic.twitter.com/q4bEtIeCi0",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1204966164310290433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204966098107388000,
+					"id_str": "1204966098107387904",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204966098107387904/pu/img/HDyuVYf30mSpdd4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204966098107387904/pu/img/HDyuVYf30mSpdd4i.jpg",
+					"url": "https://t.co/q4bEtIeCi0",
+					"display_url": "pic.twitter.com/q4bEtIeCi0",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1204966164310290433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 30750,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204966098107387904/pu/vid/640x360/BmIBEOti0oBmjvYD.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204966098107387904/pu/vid/480x270/WoGaHFRefWxxAS_-.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204966098107387904/pu/vid/854x480/KKAQHQXYkuLsYR76.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204966098107387904/pu/pl/5kp8C91fRRNHcZ_L.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n12월 12일 목요일 밤 11시 40분 KBS1 TV\n⠀\n오늘 밤 11시 40분🙂 감성 싱어송라이터 특집! 따뜻한 휴식처 같은 두 뮤지션 #일레인 #적재 편이 방송됩니다. 그리고 밤 12시부터 만나볼 수 있는 #SKT옥수수앱 #뮤직멀티뷰서비스 도 놓치지마세요💜 https://t.co/q4bEtIeCi0"
+	},
+	{
+		"created_at": "Thu Dec 12 03:19:55 +0000 2019",
+		"id": 1204959650442907600,
+		"id_str": "1204964066080567301",
+		"full_text": "🖤🖤🖤 https://t.co/a6T06OVV4K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204959632860438500,
+					"id_str": "1204959632860438528",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjgZuVU4AAWnhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjgZuVU4AAWnhr.jpg",
+					"url": "https://t.co/a6T06OVV4K",
+					"display_url": "pic.twitter.com/a6T06OVV4K",
+					"expanded_url": "https://twitter.com/livenationkr/status/1204959650442907649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204959632860438500,
+					"id_str": "1204959632860438528",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/ELjgZuVU4AAWnhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELjgZuVU4AAWnhr.jpg",
+					"url": "https://t.co/a6T06OVV4K",
+					"display_url": "pic.twitter.com/a6T06OVV4K",
+					"expanded_url": "https://twitter.com/livenationkr/status/1204959650442907649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6506,
+			"friends_count": 236,
+			"listed_count": 29,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🖤🖤🖤 https://t.co/a6T06OVV4K"
+	},
+	{
 		"created_at": "Thu Dec 12 02:25:01 +0000 2019",
 		"id": 1204941797484400600,
 		"id_str": "1204950249795653643",
@@ -288,7 +1185,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
