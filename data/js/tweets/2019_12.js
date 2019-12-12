@@ -1,6 +1,1873 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 13:13:56 +0000 2019",
+		"id": 1205111006189387800,
+		"id_str": "1205113558297649152",
+		"full_text": "노래에는 기억을 저장하는 힘이 있습니다. 어떤 노래를 들으면 과거의 공간과 시간이 함께 재생되기도 합니다. 그렇다면 우리의 오늘은 어떤 노래와 함께 기억될까요? #먼데이서울 \n\n&lt;오늘의 노래&gt; 7\n쓰다 \n예람\n\n12/16(월) 8시반 복합문화공간 더숲 https://t.co/83AIxMKFc2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이서울",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205110986518098000,
+					"id_str": "1205110986518097921",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlqDqpU8AEOZXA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlqDqpU8AEOZXA.jpg",
+					"url": "https://t.co/83AIxMKFc2",
+					"display_url": "pic.twitter.com/83AIxMKFc2",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1205111006189387777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 356,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 108,
+									"y": 68,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 628,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 192,
+									"y": 120,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 1072,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 328,
+									"y": 206,
+									"h": 224,
+									"w": 224
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 1072,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 328,
+									"y": 206,
+									"h": 224,
+									"w": 224
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205110986518098000,
+					"id_str": "1205110986518097921",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlqDqpU8AEOZXA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlqDqpU8AEOZXA.jpg",
+					"url": "https://t.co/83AIxMKFc2",
+					"display_url": "pic.twitter.com/83AIxMKFc2",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1205111006189387777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 356,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 108,
+									"y": 68,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 628,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 192,
+									"y": 120,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 1072,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 328,
+									"y": 206,
+									"h": 224,
+									"w": 224
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 1072,
+									"h": 180,
+									"w": 180
+								},
+								{
+									"x": 328,
+									"y": 206,
+									"h": 224,
+									"w": 224
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205110986526429200,
+					"id_str": "1205110986526429185",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlqDqrUEAEDWxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlqDqrUEAEDWxq.jpg",
+					"url": "https://t.co/83AIxMKFc2",
+					"display_url": "pic.twitter.com/83AIxMKFc2",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1205111006189387777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 484,
+									"y": 552,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 702,
+									"y": 1268,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1390,
+									"y": 518,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 323,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 411,
+									"y": 743,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 814,
+									"y": 303,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 160,
+									"y": 183,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 233,
+									"y": 421,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 461,
+									"y": 172,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 484,
+									"y": 552,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 702,
+									"y": 1268,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 1390,
+									"y": 518,
+									"h": 116,
+									"w": 116
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 228,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1576155799",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노래에는 기억을 저장하는 힘이 있습니다. 어떤 노래를 들으면 과거의 공간과 시간이 함께 재생되기도 합니다. 그렇다면 우리의 오늘은 어떤 노래와 함께 기억될까요? #먼데이서울 \n\n&lt;오늘의 노래&gt; 7\n쓰다 \n예람\n\n12/16(월) 8시반 복합문화공간 더숲 https://t.co/83AIxMKFc2"
+	},
+	{
+		"created_at": "Thu Dec 12 13:13:48 +0000 2019",
+		"id": 1205105227566743600,
+		"id_str": "1205113523799547910",
+		"full_text": "12/25(wed) [clubFF - Happy Christmas!]\n헤이맨 Heymen\n아디오스오디오 Adios audio\n피에타 Pieta\n레이브릭스 Laybricks\n펄션 Pursean\nP.Q\nand 1 more band(12/20 공개)\n\nstart 4:00pm\n*공연 순서는 추후 공개됩니다. \n*크리스마스 이벤트! 커플에게는 러브 칵테일을 각각 제공해 드립니다. https://t.co/EXUhvDQXeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205105221363359700,
+					"id_str": "1205105221363359744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlk0FxU4AA4dXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlk0FxU4AA4dXz.jpg",
+					"url": "https://t.co/EXUhvDQXeF",
+					"display_url": "pic.twitter.com/EXUhvDQXeF",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105227566743552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 472,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205105221363359700,
+					"id_str": "1205105221363359744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlk0FxU4AA4dXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlk0FxU4AA4dXz.jpg",
+					"url": "https://t.co/EXUhvDQXeF",
+					"display_url": "pic.twitter.com/EXUhvDQXeF",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105227566743552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 201,
+									"y": 668,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 472,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205105221359165400,
+					"id_str": "1205105221359165441",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlk0FwU4AEoaJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlk0FwU4AEoaJw.jpg",
+					"url": "https://t.co/EXUhvDQXeF",
+					"display_url": "pic.twitter.com/EXUhvDQXeF",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105227566743552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 444,
+									"y": 271,
+									"h": 435,
+									"w": 435
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 191,
+									"h": 307,
+									"w": 307
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 444,
+									"y": 271,
+									"h": 435,
+									"w": 435
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 444,
+									"y": 271,
+									"h": 435,
+									"w": 435
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/25(wed) [clubFF - Happy Christmas!]\n헤이맨 Heymen\n아디오스오디오 Adios audio\n피에타 Pieta\n레이브릭스 Laybricks\n펄션 Pursean\nP.Q\nand 1 more band(12/20 공개)\n\nstart 4:00pm\n*공연 순서는 추후 공개됩니다. \n*크리스마스 이벤트! 커플에게는 러브 칵테일을 각각 제공해 드립니다. https://t.co/EXUhvDQXeF"
+	},
+	{
+		"created_at": "Thu Dec 12 13:13:44 +0000 2019",
+		"id": 1205105163058368500,
+		"id_str": "1205113506363781122",
+		"full_text": "2019/12/24 (tue)  7pm \nChristmas Eve Tribute Party @clubff   \nLANY (이글루베이)\nColdplay  (본디)\nArctic Monkeys (투데이올드스니커즈)  \nBruno Mars (플래그)\nRage Against the Machine (뉴클리어 이디엇츠)\nMy Chemical Romance (에이팝)\nGreen Day (더 사운드)\n*공연 순서는 추후 공개됩니다 https://t.co/ipM69Te5xp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClubFF",
+					"name": "⚽️ Club Fantasy ⚽️",
+					"id": 2162668802,
+					"id_str": "2162668802",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205105152446713900,
+					"id_str": "1205105152446713857",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlkwFCUUAEXZhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlkwFCUUAEXZhr.jpg",
+					"url": "https://t.co/ipM69Te5xp",
+					"display_url": "pic.twitter.com/ipM69Te5xp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105163058368512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205105152446713900,
+					"id_str": "1205105152446713857",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlkwFCUUAEXZhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlkwFCUUAEXZhr.jpg",
+					"url": "https://t.co/ipM69Te5xp",
+					"display_url": "pic.twitter.com/ipM69Te5xp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105163058368512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205105152442527700,
+					"id_str": "1205105152442527746",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlkwFBUcAI9zY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlkwFBUcAI9zY_.jpg",
+					"url": "https://t.co/ipM69Te5xp",
+					"display_url": "pic.twitter.com/ipM69Te5xp",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205105163058368512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019/12/24 (tue)  7pm \nChristmas Eve Tribute Party @clubff   \nLANY (이글루베이)\nColdplay  (본디)\nArctic Monkeys (투데이올드스니커즈)  \nBruno Mars (플래그)\nRage Against the Machine (뉴클리어 이디엇츠)\nMy Chemical Romance (에이팝)\nGreen Day (더 사운드)\n*공연 순서는 추후 공개됩니다 https://t.co/ipM69Te5xp"
+	},
+	{
+		"created_at": "Thu Dec 12 13:13:36 +0000 2019",
+		"id": 1205102829385334800,
+		"id_str": "1205113472318656512",
+		"full_text": "2019/12/24 (tue)  7pm \nChristmas Eve Tribute Party @clubff   \nLANY (이글루베이)\nColdplay  (본디)\nArctic Monkeys (투데이올드스니커즈)  \nBruno Mars (플래그)\nRage Against the Machine (뉴클리어 이디엇츠)\nMy Chemical Romance (에이팝)\nGreen Day (더 사운드)\n*공연 순서는 추후 공개됩니다 https://t.co/2dcX91md1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClubFF",
+					"name": "⚽️ Club Fantasy ⚽️",
+					"id": 2162668802,
+					"id_str": "2162668802",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205102819696472000,
+					"id_str": "1205102819696472064",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlioS3UcAAjzov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlioS3UcAAjzov.jpg",
+					"url": "https://t.co/2dcX91md1M",
+					"display_url": "pic.twitter.com/2dcX91md1M",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205102829385334784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205102819696472000,
+					"id_str": "1205102819696472064",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlioS3UcAAjzov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlioS3UcAAjzov.jpg",
+					"url": "https://t.co/2dcX91md1M",
+					"display_url": "pic.twitter.com/2dcX91md1M",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205102829385334784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019/12/24 (tue)  7pm \nChristmas Eve Tribute Party @clubff   \nLANY (이글루베이)\nColdplay  (본디)\nArctic Monkeys (투데이올드스니커즈)  \nBruno Mars (플래그)\nRage Against the Machine (뉴클리어 이디엇츠)\nMy Chemical Romance (에이팝)\nGreen Day (더 사운드)\n*공연 순서는 추후 공개됩니다 https://t.co/2dcX91md1M"
+	},
+	{
+		"created_at": "Thu Dec 12 13:13:29 +0000 2019",
+		"id": 1205100777762521000,
+		"id_str": "1205113442308366336",
+		"full_text": "12/13(fri) [clubFF - Live Bands]\nPart 1 - Highway to hell (Rock Live) : 7:30pm - 10pm\n\n빈시트옴니아 Vincit omnia\n더 사운드 The Sound\n워킹애프터유 Walking after u\n바투 Batu\n\nPart 2 - Green Eyed Monster\n\ninfo : https://t.co/yKIcoJpvz8 https://t.co/fm114YYbnz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yKIcoJpvz8",
+					"expanded_url": "https://www.facebook.com/events/819476601806248/",
+					"display_url": "facebook.com/events/8194766…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205100300379443200,
+					"id_str": "1205100300379443202",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlgVprVUAIsmJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlgVprVUAIsmJZ.jpg",
+					"url": "https://t.co/fm114YYbnz",
+					"display_url": "pic.twitter.com/fm114YYbnz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205100777762521090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 31,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205100300379443200,
+					"id_str": "1205100300379443202",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlgVprVUAIsmJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlgVprVUAIsmJZ.jpg",
+					"url": "https://t.co/fm114YYbnz",
+					"display_url": "pic.twitter.com/fm114YYbnz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205100777762521090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 31,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205100300375224300,
+					"id_str": "1205100300375224320",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlgVpqU8AAUEEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlgVpqU8AAUEEb.jpg",
+					"url": "https://t.co/fm114YYbnz",
+					"display_url": "pic.twitter.com/fm114YYbnz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205100777762521090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1466,
+							"h": 990,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 964,
+									"y": 697,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 12,
+									"y": 595,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 136,
+									"y": 77,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 516,
+									"y": 313,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 447,
+									"y": 323,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 5,
+									"y": 275,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 63,
+									"y": 35,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 239,
+									"y": 145,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 964,
+									"y": 697,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 12,
+									"y": 595,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 136,
+									"y": 77,
+									"h": 147,
+									"w": 147
+								},
+								{
+									"x": 516,
+									"y": 313,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 789,
+									"y": 570,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 9,
+									"y": 487,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 111,
+									"y": 63,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 422,
+									"y": 256,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205100300387803100,
+					"id_str": "1205100300387803136",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ELlgVptU4AAaHLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELlgVptU4AAaHLj.jpg",
+					"url": "https://t.co/fm114YYbnz",
+					"display_url": "pic.twitter.com/fm114YYbnz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205100777762521090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 275,
+									"y": 31,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 389,
+									"y": 45,
+									"h": 217,
+									"w": 217
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/13(fri) [clubFF - Live Bands]\nPart 1 - Highway to hell (Rock Live) : 7:30pm - 10pm\n\n빈시트옴니아 Vincit omnia\n더 사운드 The Sound\n워킹애프터유 Walking after u\n바투 Batu\n\nPart 2 - Green Eyed Monster\n\ninfo : https://t.co/yKIcoJpvz8 https://t.co/fm114YYbnz"
+	},
+	{
+		"created_at": "Thu Dec 12 12:18:23 +0000 2019",
+		"id": 1205091926912798700,
+		"id_str": "1205099575926808576",
+		"full_text": "[놓치고 싶지 않은 사소한 것들]\n▫️EP\n▫️사진집\n▫️EP + 사진집 (한정 할인 판매)\n*현금 및 카드 결제 가능\n\n[공연 굿즈]\n홍이삭이 직접 그린\n▫️Let's Be Friends 무선 노트\n▫️별 같아서 패브릭 캘린더\n*카드, 계좌이체만 가능\n-\n#홍이삭 #겨울나기2019 #놓치고싶지않은사소한것들 #굿즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "겨울나기2019",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "놓치고싶지않은사소한것들",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "굿즈",
+					"indices": [
+						173,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205091894901915600,
+		"in_reply_to_status_id_str": "1205091894901915650",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[놓치고 싶지 않은 사소한 것들]\n▫️EP\n▫️사진집\n▫️EP + 사진집 (한정 할인 판매)\n*현금 및 카드 결제 가능\n\n[공연 굿즈]\n홍이삭이 직접 그린\n▫️Let's Be Friends 무선 노트\n▫️별 같아서 패브릭 캘린더\n*카드, 계좌이체만 가능\n-\n#홍이삭 #겨울나기2019 #놓치고싶지않은사소한것들 #굿즈"
+	},
+	{
 		"created_at": "Thu Dec 12 12:13:27 +0000 2019",
 		"id": 1205093693939540000,
 		"id_str": "1205098336757436416",
