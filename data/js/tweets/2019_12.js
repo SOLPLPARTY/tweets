@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 06:18:17 +0000 2019",
+		"id": 1205008515489648600,
+		"id_str": "1205008953698070540",
+		"full_text": "[아마도이자람밴드] 연말콘서트 &lt;2Hours&gt; 매진 🗯\n\n성원에 감사드립니다. 아직 예매를 하지 못하신 분들은 취소표를 예매해주시기 바랍니다.\n12월 28일 CJ아지트 광흥창에서 만나요 ❤️\n-\n#아마도이자람밴드 #2Hours #매진 https://t.co/LwlNjzRVPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "2Hours",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "매진",
+					"indices": [
+						133,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205008469696249900,
+					"id_str": "1205008469696249856",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkM0ZuVAAAVdLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkM0ZuVAAAVdLP.jpg",
+					"url": "https://t.co/LwlNjzRVPW",
+					"display_url": "pic.twitter.com/LwlNjzRVPW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1205008515489648640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 90,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 482,
+									"y": 353,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 239,
+									"y": 417,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 76,
+									"y": 432,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205008469696249900,
+					"id_str": "1205008469696249856",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/ELkM0ZuVAAAVdLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELkM0ZuVAAAVdLP.jpg",
+					"url": "https://t.co/LwlNjzRVPW",
+					"display_url": "pic.twitter.com/LwlNjzRVPW",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1205008515489648640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 137,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 726,
+									"y": 532,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 360,
+									"y": 628,
+									"h": 298,
+									"w": 298
+								},
+								{
+									"x": 115,
+									"y": 652,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 90,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 482,
+									"y": 353,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 239,
+									"y": 417,
+									"h": 197,
+									"w": 197
+								},
+								{
+									"x": 76,
+									"y": 432,
+									"h": 219,
+									"w": 219
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아마도이자람밴드] 연말콘서트 &lt;2Hours&gt; 매진 🗯\n\n성원에 감사드립니다. 아직 예매를 하지 못하신 분들은 취소표를 예매해주시기 바랍니다.\n12월 28일 CJ아지트 광흥창에서 만나요 ❤️\n-\n#아마도이자람밴드 #2Hours #매진 https://t.co/LwlNjzRVPW"
+	},
+	{
 		"created_at": "Thu Dec 12 05:13:27 +0000 2019",
 		"id": 1204979385087877000,
 		"id_str": "1204992640225181697",
