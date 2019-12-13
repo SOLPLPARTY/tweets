@@ -1,6 +1,1115 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 13:13:30 +0000 2019",
+		"id": 1205468899082301400,
+		"id_str": "1205475837484642309",
+		"full_text": "12/21(sat) [clubFF - Glamorous indie rock n roll]\n유수림 Youthlim\n밤얘기 Bamyeki\n꼬리물기 Gorymurgy\nYAWP\nForeign object\n\nstart 9:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/wAJyevlEh7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205468892304306200,
+					"id_str": "1205468892304306176",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqvkhmU8AA6x1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqvkhmU8AA6x1G.jpg",
+					"url": "https://t.co/wAJyevlEh7",
+					"display_url": "pic.twitter.com/wAJyevlEh7",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468899082301440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 624,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205468892304306200,
+					"id_str": "1205468892304306176",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqvkhmU8AA6x1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqvkhmU8AA6x1G.jpg",
+					"url": "https://t.co/wAJyevlEh7",
+					"display_url": "pic.twitter.com/wAJyevlEh7",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468899082301440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 624,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 842,
+									"y": 883,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205468892304302000,
+					"id_str": "1205468892304302080",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqvkhmU4AAmM7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqvkhmU4AAmM7j.jpg",
+					"url": "https://t.co/wAJyevlEh7",
+					"display_url": "pic.twitter.com/wAJyevlEh7",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468899082301440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6679,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/21(sat) [clubFF - Glamorous indie rock n roll]\n유수림 Youthlim\n밤얘기 Bamyeki\n꼬리물기 Gorymurgy\nYAWP\nForeign object\n\nstart 9:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/wAJyevlEh7"
+	},
+	{
+		"created_at": "Fri Dec 13 13:13:27 +0000 2019",
+		"id": 1205468811085807600,
+		"id_str": "1205475824218132480",
+		"full_text": "12/20(fri) [clubFF - Double Fantasy]\n오렌지팡팡보이즈 Orange fang fang boys\nThe FSM(송용진 밴드)\n\nstart 11:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/BtKITqq2y9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205468796464423000,
+					"id_str": "1205468796464422912",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqve8kUYAAZ3wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqve8kUYAAZ3wq.jpg",
+					"url": "https://t.co/BtKITqq2y9",
+					"display_url": "pic.twitter.com/BtKITqq2y9",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468811085807617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205468796464423000,
+					"id_str": "1205468796464422912",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqve8kUYAAZ3wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqve8kUYAAZ3wq.jpg",
+					"url": "https://t.co/BtKITqq2y9",
+					"display_url": "pic.twitter.com/BtKITqq2y9",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468811085807617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205468796489613300,
+					"id_str": "1205468796489613312",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqve8qUwAAk-ys.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqve8qUwAAk-ys.jpg",
+					"url": "https://t.co/BtKITqq2y9",
+					"display_url": "pic.twitter.com/BtKITqq2y9",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205468811085807617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6679,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/20(fri) [clubFF - Double Fantasy]\n오렌지팡팡보이즈 Orange fang fang boys\nThe FSM(송용진 밴드)\n\nstart 11:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/BtKITqq2y9"
+	},
+	{
+		"created_at": "Fri Dec 13 12:18:48 +0000 2019",
+		"id": 1205458151153131500,
+		"id_str": "1205462071305023488",
+		"full_text": "• 주차 공간이 마련되어 있지 않으므로 가급적 대중교통을 이용해주시기 바랍니다.\n• 공연장 내에는 PET 생수를 제외한 음식물 반입이 금지되어 있습니다.\n-\n#우주히피 #우리의저녁 #Ourwinternight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "우리의저녁",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "Ourwinternight",
+					"indices": [
+						101,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205458127673385000,
+		"in_reply_to_status_id_str": "1205458127673384960",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 주차 공간이 마련되어 있지 않으므로 가급적 대중교통을 이용해주시기 바랍니다.\n• 공연장 내에는 PET 생수를 제외한 음식물 반입이 금지되어 있습니다.\n-\n#우주히피 #우리의저녁 #Ourwinternight"
+	},
+	{
+		"created_at": "Fri Dec 13 12:18:41 +0000 2019",
+		"id": 1205458127673385000,
+		"id_str": "1205462041319788544",
+		"full_text": "[#우주히피] &lt;우리의 저녁 Our winter night. vol.9&gt; 공연 안내 🌙\n\n내일 저녁 7시 벨로주 홍대에서 만나요💛\n⠀\n• 티켓 교환 및 현장 구매 : 오후 6시부터(*티켓 현장구매는 계좌이체로만 가능합니다)\n• 관객 입장 : 오후 6시 30분부터 https://t.co/r2jZRvQx1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205458119611969500,
+					"id_str": "1205458119611969536",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqlxeMU8AAsI_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqlxeMU8AAsI_c.jpg",
+					"url": "https://t.co/r2jZRvQx1x",
+					"display_url": "pic.twitter.com/r2jZRvQx1x",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1205458127673384960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205458119611969500,
+					"id_str": "1205458119611969536",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqlxeMU8AAsI_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqlxeMU8AAsI_c.jpg",
+					"url": "https://t.co/r2jZRvQx1x",
+					"display_url": "pic.twitter.com/r2jZRvQx1x",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1205458127673384960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 721,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 721,
+							"h": 721,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#우주히피] &lt;우리의 저녁 Our winter night. vol.9&gt; 공연 안내 🌙\n\n내일 저녁 7시 벨로주 홍대에서 만나요💛\n⠀\n• 티켓 교환 및 현장 구매 : 오후 6시부터(*티켓 현장구매는 계좌이체로만 가능합니다)\n• 관객 입장 : 오후 6시 30분부터 https://t.co/r2jZRvQx1x"
+	},
+	{
+		"created_at": "Fri Dec 13 12:18:33 +0000 2019",
+		"id": 1205450312858734600,
+		"id_str": "1205462006591041537",
+		"full_text": "▫️별도의 주차 공간이 없으므로 대중교통을 이용해주시기 바랍니다.\n⠀\n[굿즈 안내]\n▪️굿즈는 한정 수량으로 판매되며 각 종류별로 1인 2개까지만 구매 가능합니다.\n▪️굿즈는 카드와 계좌이체로만 결제하실 수 있습니다.(현금 불가)\n-\n#홍이삭 #겨울나기2019 #노들섬라이브하우스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "겨울나기2019",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "노들섬라이브하우스",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205450290943496200,
+		"in_reply_to_status_id_str": "1205450290943496197",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▫️별도의 주차 공간이 없으므로 대중교통을 이용해주시기 바랍니다.\n⠀\n[굿즈 안내]\n▪️굿즈는 한정 수량으로 판매되며 각 종류별로 1인 2개까지만 구매 가능합니다.\n▪️굿즈는 카드와 계좌이체로만 결제하실 수 있습니다.(현금 불가)\n-\n#홍이삭 #겨울나기2019 #노들섬라이브하우스"
+	},
+	{
+		"created_at": "Fri Dec 13 12:18:25 +0000 2019",
+		"id": 1205450290943496200,
+		"id_str": "1205461972323581952",
+		"full_text": "▫️티켓을 소지하지 않은 관객은 입장이 불가합니다.\n🍊귤까기대회 참가자는 티켓부스에서 안내장을 꼭 받아가주세요.\n▫️공연장 내에는 PET생수를 제외한 음식물 반입이 금지되어 있습니다.\n▫️공연장 내 사진 및 동영상 촬영이 금지되어 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205450230042259500,
+		"in_reply_to_status_id_str": "1205450230042259456",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▫️티켓을 소지하지 않은 관객은 입장이 불가합니다.\n🍊귤까기대회 참가자는 티켓부스에서 안내장을 꼭 받아가주세요.\n▫️공연장 내에는 PET생수를 제외한 음식물 반입이 금지되어 있습니다.\n▫️공연장 내 사진 및 동영상 촬영이 금지되어 있습니다."
+	},
+	{
 		"created_at": "Fri Dec 13 12:13:31 +0000 2019",
 		"id": 1205459063498104800,
 		"id_str": "1205460741882597376",
