@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 01:19:55 +0000 2019",
+		"id": 1205291433068056600,
+		"id_str": "1205296255099965442",
+		"full_text": "영블러드 첫 내한공연 (YUNGBLUD Live in Seoul)\n⠀⠀\n▶일시: 2020년 3월 14일(토) 오후 7시\n▶장소: 홍대 무브홀\n▶티켓 가격: 스탠딩 전석 88,000원\n▶예매처: 멜론티켓 (https://t.co/LsFamc1Aq1 / 1899-0042)\n▶더 많은 정보는&gt;&gt;https://t.co/3VKqiZOOSR https://t.co/FpZgYZwp0D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LsFamc1Aq1",
+					"expanded_url": "http://ticket.melon.com",
+					"display_url": "ticket.melon.com",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/3VKqiZOOSR",
+					"expanded_url": "http://LIVENATION.KR",
+					"display_url": "LIVENATION.KR",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205291425950322700,
+					"id_str": "1205291425950322688",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ELoOKn6X0AAzZ38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELoOKn6X0AAzZ38.jpg",
+					"url": "https://t.co/FpZgYZwp0D",
+					"display_url": "pic.twitter.com/FpZgYZwp0D",
+					"expanded_url": "https://twitter.com/livenationkr/status/1205291433068056577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 617,
+									"y": 285,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 49,
+									"y": 1834,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 1124,
+									"y": 68,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 94,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 16,
+									"y": 608,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 373,
+									"y": 22,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 167,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 29,
+									"y": 1074,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 658,
+									"y": 39,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1617,
+									"y": 748,
+									"h": 350,
+									"w": 350
+								},
+								{
+									"x": 130,
+									"y": 4800,
+									"h": 439,
+									"w": 439
+								},
+								{
+									"x": 2942,
+									"y": 178,
+									"h": 722,
+									"w": 722
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205291425950322700,
+					"id_str": "1205291425950322688",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ELoOKn6X0AAzZ38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELoOKn6X0AAzZ38.jpg",
+					"url": "https://t.co/FpZgYZwp0D",
+					"display_url": "pic.twitter.com/FpZgYZwp0D",
+					"expanded_url": "https://twitter.com/livenationkr/status/1205291433068056577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1446,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 617,
+									"y": 285,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 49,
+									"y": 1834,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 1124,
+									"y": 68,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 94,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 16,
+									"y": 608,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 373,
+									"y": 22,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 167,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 29,
+									"y": 1074,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 658,
+									"y": 39,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1617,
+									"y": 748,
+									"h": 350,
+									"w": 350
+								},
+								{
+									"x": 130,
+									"y": 4800,
+									"h": 439,
+									"w": 439
+								},
+								{
+									"x": 2942,
+									"y": 178,
+									"h": 722,
+									"w": 722
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6563,
+			"friends_count": 236,
+			"listed_count": 29,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영블러드 첫 내한공연 (YUNGBLUD Live in Seoul)\n⠀⠀\n▶일시: 2020년 3월 14일(토) 오후 7시\n▶장소: 홍대 무브홀\n▶티켓 가격: 스탠딩 전석 88,000원\n▶예매처: 멜론티켓 (https://t.co/LsFamc1Aq1 / 1899-0042)\n▶더 많은 정보는&gt;&gt;https://t.co/3VKqiZOOSR https://t.co/FpZgYZwp0D"
+	},
+	{
 		"created_at": "Thu Dec 12 15:25:01 +0000 2019",
 		"id": 1205140438698451000,
 		"id_str": "1205146543742996481",
@@ -198,7 +573,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
