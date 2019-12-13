@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 04:13:37 +0000 2019",
+		"id": 1205333230548709400,
+		"id_str": "1205339969453219840",
+		"full_text": "[Listen here]\nMelon - https://t.co/1AksbScxep\nGenie - https://t.co/jg31k6Ly9A\nBugs - https://t.co/zMtZNhYxQQ\nVibe - https://t.co/wctNKEqot8\n\nhttps://t.co/0WqhueJP2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1AksbScxep",
+					"expanded_url": "https://bit.ly/2LNO8jk",
+					"display_url": "bit.ly/2LNO8jk",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/jg31k6Ly9A",
+					"expanded_url": "https://bit.ly/34floqi",
+					"display_url": "bit.ly/34floqi",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/zMtZNhYxQQ",
+					"expanded_url": "https://bit.ly/2tdF6G0",
+					"display_url": "bit.ly/2tdF6G0",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/wctNKEqot8",
+					"expanded_url": "https://bit.ly/2PeFEnA",
+					"display_url": "bit.ly/2PeFEnA",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/0WqhueJP2n",
+					"expanded_url": "https://youtu.be/Ikc57jfPH_8",
+					"display_url": "youtu.be/Ikc57jfPH_8",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205333229458223000,
+		"in_reply_to_status_id_str": "1205333229458223106",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/1AksbScxep\nGenie - https://t.co/jg31k6Ly9A\nBugs - https://t.co/zMtZNhYxQQ\nVibe - https://t.co/wctNKEqot8\n\nhttps://t.co/0WqhueJP2n"
+	},
+	{
+		"created_at": "Fri Dec 13 04:13:34 +0000 2019",
+		"id": 1205333229458223000,
+		"id_str": "1205339956396335104",
+		"full_text": "많은 시간 중 12시는 하루의 시작과 끝을 의미합니다.\n또, 시침과 분침이 만나 하나가 되는 시간이기도 하죠.\n이는 슬로디의 새로운 발걸음이자 저희를 사랑해주시는 청중과의 만남을 말하고 있어요.\n우리의 자정과 정오, 낮과 밤의 이야기를 이번 [12 o’clock] 앨범에 정성스레 담았습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205333225532342300,
+		"in_reply_to_status_id_str": "1205333225532342274",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "많은 시간 중 12시는 하루의 시작과 끝을 의미합니다.\n또, 시침과 분침이 만나 하나가 되는 시간이기도 하죠.\n이는 슬로디의 새로운 발걸음이자 저희를 사랑해주시는 청중과의 만남을 말하고 있어요.\n우리의 자정과 정오, 낮과 밤의 이야기를 이번 [12 o’clock] 앨범에 정성스레 담았습니다."
+	},
+	{
+		"created_at": "Fri Dec 13 04:13:28 +0000 2019",
+		"id": 1205333225532342300,
+		"id_str": "1205339930785964032",
+		"full_text": "🆕 New Release December 13\n-\n💿 슬로디 (Slou.D) [12 o’clock]\n\n✚ 앨범 자세히 보기: https://t.co/GwBfQvkVnZ https://t.co/G4YO3auN18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GwBfQvkVnZ",
+					"expanded_url": "https://bit.ly/2Ej8WuN",
+					"display_url": "bit.ly/2Ej8WuN",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205333215294046200,
+					"id_str": "1205333215294046208",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELo0LFWUwAA2BY5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELo0LFWUwAA2BY5.jpg",
+					"url": "https://t.co/G4YO3auN18",
+					"display_url": "pic.twitter.com/G4YO3auN18",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1205333225532342274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205333215294046200,
+					"id_str": "1205333215294046208",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/ELo0LFWUwAA2BY5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELo0LFWUwAA2BY5.jpg",
+					"url": "https://t.co/G4YO3auN18",
+					"display_url": "pic.twitter.com/G4YO3auN18",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1205333225532342274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9784,
+			"friends_count": 2993,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release December 13\n-\n💿 슬로디 (Slou.D) [12 o’clock]\n\n✚ 앨범 자세히 보기: https://t.co/GwBfQvkVnZ https://t.co/G4YO3auN18"
+	},
+	{
+		"created_at": "Fri Dec 13 03:18:20 +0000 2019",
+		"id": 1205321887695245300,
+		"id_str": "1205326057253064704",
+		"full_text": "✺ PEPPERTONES LIVE 2019 : 써클\nOFFICIAL GOODS SPECIAL EDITION\n\nMore Info. https://t.co/UPrCjQoK9t\n#페퍼톤스 #써클 #PEPPERTONES @pptnzexpress https://t.co/UVGCLfConT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "써클",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "PEPPERTONES",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzexpress",
+					"name": "페퍼톤스 peppertones",
+					"id": 191952879,
+					"id_str": "191952879",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UPrCjQoK9t",
+					"expanded_url": "https://www.instagram.com/p/B5_ymlQBcSQ/?igshid=1bi2zfwmmcm1y",
+					"display_url": "instagram.com/p/B5_ymlQBcSQ/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205321881663897600,
+					"id_str": "1205321881663897601",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ELop3YSVAAENnva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELop3YSVAAENnva.jpg",
+					"url": "https://t.co/UVGCLfConT",
+					"display_url": "pic.twitter.com/UVGCLfConT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1205321887695245312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 291,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 165,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 52,
+									"y": 657,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 50,
+									"y": 762,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 1120,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 86,
+									"y": 1300,
+									"h": 156,
+									"w": 156
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 372,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 28,
+									"y": 432,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 1120,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 86,
+									"y": 1300,
+									"h": 156,
+									"w": 156
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205321881663897600,
+					"id_str": "1205321881663897601",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ELop3YSVAAENnva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELop3YSVAAENnva.jpg",
+					"url": "https://t.co/UVGCLfConT",
+					"display_url": "pic.twitter.com/UVGCLfConT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1205321887695245312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 291,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 165,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "191952879",
+									"screen_name": "pptnzexpress",
+									"name": "페퍼톤스 peppertones"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 52,
+									"y": 657,
+									"h": 91,
+									"w": 91
+								},
+								{
+									"x": 50,
+									"y": 762,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 1120,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 86,
+									"y": 1300,
+									"h": 156,
+									"w": 156
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 372,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 28,
+									"y": 432,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 1120,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 86,
+									"y": 1300,
+									"h": 156,
+									"w": 156
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yeol(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34857,
+			"friends_count": 2958,
+			"listed_count": 413,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1576036132",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✺ PEPPERTONES LIVE 2019 : 써클\nOFFICIAL GOODS SPECIAL EDITION\n\nMore Info. https://t.co/UPrCjQoK9t\n#페퍼톤스 #써클 #PEPPERTONES @pptnzexpress https://t.co/UVGCLfConT"
+	},
+	{
 		"created_at": "Fri Dec 13 03:13:28 +0000 2019",
 		"id": 1205324390516134000,
 		"id_str": "1205324830578532352",
