@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 07:13:27 +0000 2019",
+		"id": 1205378391546818600,
+		"id_str": "1205385227452997633",
+		"full_text": "[EBS 스페이스 공감 - 2019 올해의 헬로루키 특집] 2부\n\n역대급! 레전드 탄생?!🙊\n심사위원도 놀란👀\n2019 헬로루키 본선 클라쓰 대공개!\n\n그리고... 또 하나의 레전드...\n때는 바야흐로 2011년 🍂\n헬로루키를 발칵 뒤집어놓은 한 밴드의 등장★ \n\n오늘 밤 11시 35분 방송\n\nhttps://t.co/NSP4vE9Bqo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NSP4vE9Bqo",
+					"expanded_url": "https://youtu.be/JUsOwAfZBJg",
+					"display_url": "youtu.be/JUsOwAfZBJg",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 313047615,
+			"id_str": "313047615",
+			"name": "hello_rookie",
+			"screen_name": "hello_rookie",
+			"location": "EBS",
+			"description": "신인 뮤지션 발굴 프로젝트 헬로루키 공식트위터입니다.",
+			"url": "http://t.co/ZBt45VYpj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZBt45VYpj1",
+							"expanded_url": "http://hellorookie.tistory.com/",
+							"display_url": "hellorookie.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5161,
+			"friends_count": 4643,
+			"listed_count": 68,
+			"created_at": "Wed Jun 08 02:23:12 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090877383526146048/2uvncm5i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/313047615/1547442882",
+			"profile_link_color": "F23071",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 - 2019 올해의 헬로루키 특집] 2부\n\n역대급! 레전드 탄생?!🙊\n심사위원도 놀란👀\n2019 헬로루키 본선 클라쓰 대공개!\n\n그리고... 또 하나의 레전드...\n때는 바야흐로 2011년 🍂\n헬로루키를 발칵 뒤집어놓은 한 밴드의 등장★ \n\n오늘 밤 11시 35분 방송\n\nhttps://t.co/NSP4vE9Bqo"
+	},
+	{
+		"created_at": "Fri Dec 13 06:25:00 +0000 2019",
+		"id": 1205367450604146700,
+		"id_str": "1205373034330243072",
+		"full_text": "어른이들을 위한 자장가 #GoodNight 으로 돌아온 #옥상달빛 🌈 많은 분들이 ‘목소리로 눈을 어루만져주는 기분’을 느끼고 있다고 합니다. 오늘 #6시5분전 에서는 옥상달빛이 직접 신곡을 소개하고, 발매 비하인드 스토리까지 전해드립니다. 오늘 오후 5시 55분, 네이버앱에서 들어보세요. #NOW온에어 https://t.co/3xCS1smBzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodNight",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "옥상달빛",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "6시5분전",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205367428953174000,
+					"id_str": "1205367428953174016",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpTSlKUcAAS1SQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpTSlKUcAAS1SQ.jpg",
+					"url": "https://t.co/3xCS1smBzQ",
+					"display_url": "pic.twitter.com/3xCS1smBzQ",
+					"expanded_url": "https://twitter.com/kr_now/status/1205367450604146688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1280175074",
+									"screen_name": "okdal_msb",
+									"name": "옥상달빛/OKDAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205367428953174000,
+					"id_str": "1205367428953174016",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpTSlKUcAAS1SQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpTSlKUcAAS1SQ.jpg",
+					"url": "https://t.co/3xCS1smBzQ",
+					"display_url": "pic.twitter.com/3xCS1smBzQ",
+					"expanded_url": "https://twitter.com/kr_now/status/1205367450604146688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1280175074",
+									"screen_name": "okdal_msb",
+									"name": "옥상달빛/OKDAL"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17819,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어른이들을 위한 자장가 #GoodNight 으로 돌아온 #옥상달빛 🌈 많은 분들이 ‘목소리로 눈을 어루만져주는 기분’을 느끼고 있다고 합니다. 오늘 #6시5분전 에서는 옥상달빛이 직접 신곡을 소개하고, 발매 비하인드 스토리까지 전해드립니다. 오늘 오후 5시 55분, 네이버앱에서 들어보세요. #NOW온에어 https://t.co/3xCS1smBzQ"
+	},
+	{
 		"created_at": "Fri Dec 13 04:18:16 +0000 2019",
 		"id": 1205331470937677800,
 		"id_str": "1205341141245288448",
