@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 03:13:28 +0000 2019",
+		"id": 1205324390516134000,
+		"id_str": "1205324830578532352",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.10 램씨(LambC)&amp;가호&gt;\n\n· 일시 : 2020년 2월 7일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 램씨(LambC), 가호\n· 예매 : 멜론티켓 2019년 12월 20일 (금) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#램씨 #LambC #가호 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 https://t.co/ijwe9o6808",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "램씨",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "LambC",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "가호",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						216,
+						219
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						220,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205324306248421400,
+					"id_str": "1205324306248421377",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205324306248421377/pu/img/6eA3i8MgXDbShmUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205324306248421377/pu/img/6eA3i8MgXDbShmUe.jpg",
+					"url": "https://t.co/ijwe9o6808",
+					"display_url": "pic.twitter.com/ijwe9o6808",
+					"expanded_url": "https://twitter.com/rollinghall/status/1205324390516133888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205324306248421400,
+					"id_str": "1205324306248421377",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205324306248421377/pu/img/6eA3i8MgXDbShmUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205324306248421377/pu/img/6eA3i8MgXDbShmUe.jpg",
+					"url": "https://t.co/ijwe9o6808",
+					"display_url": "pic.twitter.com/ijwe9o6808",
+					"expanded_url": "https://twitter.com/rollinghall/status/1205324390516133888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6300,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205324306248421377/pu/vid/320x320/12uW--aWheLHxpE1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205324306248421377/pu/pl/QMLCqwoe07VC3PkK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205324306248421377/pu/vid/720x720/X_kwwC8quRzcRMPL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205324306248421377/pu/vid/480x480/oihYYAq10IeAbKTG.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3232,
+			"friends_count": 790,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.10 램씨(LambC)&amp;가호&gt;\n\n· 일시 : 2020년 2월 7일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 램씨(LambC), 가호\n· 예매 : 멜론티켓 2019년 12월 20일 (금) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#램씨 #LambC #가호 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 https://t.co/ijwe9o6808"
+	},
+	{
+		"created_at": "Fri Dec 13 02:18:24 +0000 2019",
+		"id": 1205308852758990800,
+		"id_str": "1205310973315301377",
+		"full_text": "• 문의 : 2124-8929 etwas@seoul.go.kr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205308770793820200,
+		"in_reply_to_status_id_str": "1205308770793820161",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "• 문의 : 2124-8929 etwas@seoul.go.kr"
+	},
+	{
+		"created_at": "Fri Dec 13 02:18:20 +0000 2019",
+		"id": 1205308770793820200,
+		"id_str": "1205310955854483462",
+		"full_text": "- 신청기간 : 2019. 12. 17.(화) 오전 11:00 ~ 12. 19.(목) 오전 11:00\n- 150명 내외(사전 좌석 예약 선착순 100명 + 입석 관람 등 50명)\n- 신청방법: '서울특별시공공서비스예약' 신청 (예약 완료된 경우에만 2019. 12.19.(목) 14:00 이후 개별 문자 발송)\n- 예약주소 : https://t.co/dXmVQ5laZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXmVQ5laZK",
+					"expanded_url": "http://bit.ly/36tOtQc",
+					"display_url": "bit.ly/36tOtQc",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205308286645358600,
+		"in_reply_to_status_id_str": "1205308286645358593",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 신청기간 : 2019. 12. 17.(화) 오전 11:00 ~ 12. 19.(목) 오전 11:00\n- 150명 내외(사전 좌석 예약 선착순 100명 + 입석 관람 등 50명)\n- 신청방법: '서울특별시공공서비스예약' 신청 (예약 완료된 경우에만 2019. 12.19.(목) 14:00 이후 개별 문자 발송)\n- 예약주소 : https://t.co/dXmVQ5laZK"
+	},
+	{
 		"created_at": "Fri Dec 13 01:19:55 +0000 2019",
 		"id": 1205291433068056600,
 		"id_str": "1205296255099965442",
