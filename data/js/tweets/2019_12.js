@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 10:13:36 +0000 2019",
+		"id": 1205420622018273300,
+		"id_str": "1205430560098791424",
+		"full_text": "#올댓뮤직 #송년특집\n⠀\n드디어 다음 주 올댓뮤직 송년특집 #고영배와친구들 1부가 방송됩니다!\n⠀\n라인업 발표 전부터 녹화가 끝난 지금까지도 쏟아지고 있는 관심에 힘입어 본방 전 친구들의 리액션을 모아 모아 선공개합니다👏\n⠀\n고영배와 친구들 1, 2부는 55분 특별 편성으로 만나요💙 https://t.co/AmTLAppmHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "송년특집",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "고영배와친구들",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205420485913170000,
+					"id_str": "1205420485913169921",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205420485913169921/pu/img/Y9PnMYmE-HQG9uVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205420485913169921/pu/img/Y9PnMYmE-HQG9uVj.jpg",
+					"url": "https://t.co/AmTLAppmHH",
+					"display_url": "pic.twitter.com/AmTLAppmHH",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1205420622018273283/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205420485913170000,
+					"id_str": "1205420485913169921",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205420485913169921/pu/img/Y9PnMYmE-HQG9uVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205420485913169921/pu/img/Y9PnMYmE-HQG9uVj.jpg",
+					"url": "https://t.co/AmTLAppmHH",
+					"display_url": "pic.twitter.com/AmTLAppmHH",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1205420622018273283/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 25000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205420485913169921/pu/pl/NiWhk0zRTfwq07Vm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205420485913169921/pu/vid/480x270/jc_mBQYyXdnv23BU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205420485913169921/pu/vid/640x360/rNz0HK-lj7c-tQ17.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205420485913169921/pu/vid/854x480/AP3VeUbKwPcwXh5_.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3765,
+			"friends_count": 949,
+			"listed_count": 0,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #송년특집\n⠀\n드디어 다음 주 올댓뮤직 송년특집 #고영배와친구들 1부가 방송됩니다!\n⠀\n라인업 발표 전부터 녹화가 끝난 지금까지도 쏟아지고 있는 관심에 힘입어 본방 전 친구들의 리액션을 모아 모아 선공개합니다👏\n⠀\n고영배와 친구들 1, 2부는 55분 특별 편성으로 만나요💙 https://t.co/AmTLAppmHH"
+	},
+	{
+		"created_at": "Fri Dec 13 10:13:27 +0000 2019",
+		"id": 1205417429720920000,
+		"id_str": "1205430526095568896",
+		"full_text": "#제비다방컴필레이션 2019/2020 앨범발매 기념공연은 12월 한달간 #제비다방 에서 지난 #제비컴필 참여뮤지션들과 함께 만들어갑니다! @제비다방 https://t.co/pNtFxV0zQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제비다방컴필레이션",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "제비다방",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "제비컴필",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pNtFxV0zQU",
+					"expanded_url": "https://www.instagram.com/p/B6AePkyFoxq/?igshid=n51zfejxe2xq",
+					"display_url": "instagram.com/p/B6AePkyFoxq/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 549070511,
+			"id_str": "549070511",
+			"name": "제비다방",
+			"screen_name": "ctrjebi",
+			"location": "아침10시-새벽2시",
+			"description": "낮에는 [제비다방] 어두워지면 [취한제비] 어쩌면 낮에도 [취한제비다방] 홍대 마포구 상수동 330-12(와우산로 24) tel 02 325 1969 | 문화지형연구소 씨티알 | 전신 씨티알 레몬쌀롱",
+			"url": "http://t.co/4LbZOqFTeN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4LbZOqFTeN",
+							"expanded_url": "http://www.jebidabang.com",
+							"display_url": "jebidabang.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9824,
+			"friends_count": 2648,
+			"listed_count": 128,
+			"created_at": "Mon Apr 09 09:02:16 +0000 2012",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549070511/1361153638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.54647854,
+				126.92303717
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92303717,
+				37.54647854
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제비다방컴필레이션 2019/2020 앨범발매 기념공연은 12월 한달간 #제비다방 에서 지난 #제비컴필 참여뮤지션들과 함께 만들어갑니다! @제비다방 https://t.co/pNtFxV0zQU"
+	},
+	{
+		"created_at": "Fri Dec 13 09:25:00 +0000 2019",
+		"id": 1205410642934452200,
+		"id_str": "1205418332670832646",
+		"full_text": "오늘 무슨 일이 있었던 당신을 위해 기도하는 #옥상달빛 의 자장가, #GoodNight 🌃 지금, #6시5분전 에서 옥상달빛이 직접 소개하는 이번 신곡과 작업기를 들어보세요. 아래 링크 눌러 바로 만나요🌙🌙\n.\nhttps://t.co/zINNQGuBCb https://t.co/LmierdPsyB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옥상달빛",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "GoodNight",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "6시5분전",
+					"indices": [
+						55,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zINNQGuBCb",
+					"expanded_url": "http://now.naver.com/201",
+					"display_url": "now.naver.com/201",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205410627176427500,
+					"id_str": "1205410627176427521",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp6lDFU8AEEat2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELp6lDFU8AEEat2.jpg",
+					"url": "https://t.co/LmierdPsyB",
+					"display_url": "pic.twitter.com/LmierdPsyB",
+					"expanded_url": "https://twitter.com/kr_now/status/1205410642934452224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1280175074",
+									"screen_name": "okdal_msb",
+									"name": "옥상달빛/OKDAL"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205410627176427500,
+					"id_str": "1205410627176427521",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp6lDFU8AEEat2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELp6lDFU8AEEat2.jpg",
+					"url": "https://t.co/LmierdPsyB",
+					"display_url": "pic.twitter.com/LmierdPsyB",
+					"expanded_url": "https://twitter.com/kr_now/status/1205410642934452224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1280175074",
+									"screen_name": "okdal_msb",
+									"name": "옥상달빛/OKDAL"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205410627184779300,
+					"id_str": "1205410627184779266",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELp6lDHUYAInfww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELp6lDHUYAInfww.jpg",
+					"url": "https://t.co/LmierdPsyB",
+					"display_url": "pic.twitter.com/LmierdPsyB",
+					"expanded_url": "https://twitter.com/kr_now/status/1205410642934452224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1280175074",
+									"screen_name": "okdal_msb",
+									"name": "옥상달빛/OKDAL"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 120,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 723,
+									"y": 363,
+									"h": 681,
+									"w": 681
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 424,
+									"y": 213,
+									"h": 399,
+									"w": 399
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 848,
+									"y": 426,
+									"h": 799,
+									"w": 799
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17828,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 무슨 일이 있었던 당신을 위해 기도하는 #옥상달빛 의 자장가, #GoodNight 🌃 지금, #6시5분전 에서 옥상달빛이 직접 소개하는 이번 신곡과 작업기를 들어보세요. 아래 링크 눌러 바로 만나요🌙🌙\n.\nhttps://t.co/zINNQGuBCb https://t.co/LmierdPsyB"
+	},
+	{
+		"created_at": "Fri Dec 13 09:18:26 +0000 2019",
+		"id": 1205414580672843800,
+		"id_str": "1205416678756167681",
+		"full_text": "[LIVE] 카더가든 _ A Kid From Bathroom @카더가든 정규 2집 발매 기념 전국 투어 'C' https://t.co/t8H8Rqtt1Z @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t8H8Rqtt1Z",
+					"expanded_url": "https://youtu.be/N8Z1wk2VRuE",
+					"display_url": "youtu.be/N8Z1wk2VRuE",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3521,
+			"friends_count": 5,
+			"listed_count": 95,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE] 카더가든 _ A Kid From Bathroom @카더가든 정규 2집 발매 기념 전국 투어 'C' https://t.co/t8H8Rqtt1Z @YouTube 님이 공유"
+	},
+	{
 		"created_at": "Fri Dec 13 08:25:07 +0000 2019",
 		"id": 1205397285682573300,
 		"id_str": "1205403260191956992",
@@ -375,7 +1231,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -955,7 +1811,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
