@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 15:13:28 +0000 2019",
+		"id": 1205504799363367000,
+		"id_str": "1205506024150568960",
+		"full_text": "여러분의 많은 기대와 관심 부탁드립니다😎\n⠀\n#ALLTHATMUSIC #고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배 #고영배와친구들 #배인혁 #이원석 #이지형 #우주히피 #십센치 #권정열 #데이브레이크 #로맨틱펀치 #한국인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "엠씨영배",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "고영배와친구들",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "이원석",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "한국인",
+					"indices": [
+						122,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205420622018273300,
+		"in_reply_to_status_id_str": "1205420622018273283",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3768,
+			"friends_count": 949,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분의 많은 기대와 관심 부탁드립니다😎\n⠀\n#ALLTHATMUSIC #고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배 #고영배와친구들 #배인혁 #이원석 #이지형 #우주히피 #십센치 #권정열 #데이브레이크 #로맨틱펀치 #한국인"
+	},
+	{
 		"created_at": "Fri Dec 13 13:13:30 +0000 2019",
 		"id": 1205468899082301400,
 		"id_str": "1205475837484642309",
