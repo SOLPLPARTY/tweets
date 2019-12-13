@@ -1,6 +1,1018 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 08:25:07 +0000 2019",
+		"id": 1205397285682573300,
+		"id_str": "1205403260191956992",
+		"full_text": "[오늘의 눈정화] 성운이의 #심야아이돌 에 #골든차일드 놀러온 날 사진 풉니다‼️ 금둥이들 언제나 황금길만 걸어요❤️ #GNCD #NOW온에어 https://t.co/eTSLIrOTOV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "GNCD",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205397268842418200,
+					"id_str": "1205397268842418179",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpubfaUEAMIour.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpubfaUEAMIour.jpg",
+					"url": "https://t.co/eTSLIrOTOV",
+					"display_url": "pic.twitter.com/eTSLIrOTOV",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397285682573314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 928,
+									"h": 241,
+									"w": 241
+								},
+								{
+									"x": 808,
+									"y": 609,
+									"h": 883,
+									"w": 883
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 791,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 689,
+									"y": 519,
+									"h": 753,
+									"w": 753
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 262,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 228,
+									"y": 172,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 464,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 404,
+									"y": 304,
+									"h": 441,
+									"w": 441
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205397268842418200,
+					"id_str": "1205397268842418179",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpubfaUEAMIour.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpubfaUEAMIour.jpg",
+					"url": "https://t.co/eTSLIrOTOV",
+					"display_url": "pic.twitter.com/eTSLIrOTOV",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397285682573314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 928,
+									"h": 241,
+									"w": 241
+								},
+								{
+									"x": 808,
+									"y": 609,
+									"h": 883,
+									"w": 883
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 263,
+									"y": 791,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 689,
+									"y": 519,
+									"h": 753,
+									"w": 753
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 87,
+									"y": 262,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 228,
+									"y": 172,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 154,
+									"y": 464,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 404,
+									"y": 304,
+									"h": 441,
+									"w": 441
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205397268846661600,
+					"id_str": "1205397268846661633",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpubfbU0AEHH5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpubfbU0AEHH5H.jpg",
+					"url": "https://t.co/eTSLIrOTOV",
+					"display_url": "pic.twitter.com/eTSLIrOTOV",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397285682573314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 341,
+									"h": 507,
+									"w": 507
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 193,
+									"h": 287,
+									"w": 287
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 505,
+									"y": 581,
+									"h": 865,
+									"w": 865
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 592,
+									"y": 682,
+									"h": 1014,
+									"w": 1014
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205397261603074000,
+		"in_reply_to_status_id_str": "1205397261603074048",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17824,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[오늘의 눈정화] 성운이의 #심야아이돌 에 #골든차일드 놀러온 날 사진 풉니다‼️ 금둥이들 언제나 황금길만 걸어요❤️ #GNCD #NOW온에어 https://t.co/eTSLIrOTOV"
+	},
+	{
+		"created_at": "Fri Dec 13 08:25:05 +0000 2019",
+		"id": 1205397261603074000,
+		"id_str": "1205403251161604096",
+		"full_text": "[오늘의 눈정화] 성운이의 #심야아이돌 에 #골든차일드 놀러온 날 사진 풉니다‼️ 금둥이들 언제나 황금길만 걸어요❤️ #GNCD #NOW온에어 https://t.co/YNIt2R8deI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "GNCD",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205397234721816600,
+					"id_str": "1205397234721816576",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpuZgTVAAAdC9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpuZgTVAAAdC9_.jpg",
+					"url": "https://t.co/YNIt2R8deI",
+					"display_url": "pic.twitter.com/YNIt2R8deI",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397261603074048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1675,
+									"y": 1879,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 1005,
+									"y": 627,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 982,
+									"y": 1101,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 589,
+									"y": 367,
+									"h": 287,
+									"w": 287
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 624,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 333,
+									"y": 208,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1964,
+									"y": 2203,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1178,
+									"y": 735,
+									"h": 574,
+									"w": 574
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205397234721816600,
+					"id_str": "1205397234721816576",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpuZgTVAAAdC9_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpuZgTVAAAdC9_.jpg",
+					"url": "https://t.co/YNIt2R8deI",
+					"display_url": "pic.twitter.com/YNIt2R8deI",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397261603074048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1675,
+									"y": 1879,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 1005,
+									"y": 627,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 982,
+									"y": 1101,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 589,
+									"y": 367,
+									"h": 287,
+									"w": 287
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 624,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 333,
+									"y": 208,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1964,
+									"y": 2203,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 1178,
+									"y": 735,
+									"h": 574,
+									"w": 574
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205397234721816600,
+					"id_str": "1205397234721816577",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpuZgTVAAEEr3y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpuZgTVAAEEr3y.jpg",
+					"url": "https://t.co/YNIt2R8deI",
+					"display_url": "pic.twitter.com/YNIt2R8deI",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397261603074048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 660,
+									"y": 590,
+									"h": 817,
+									"w": 817
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 563,
+									"y": 503,
+									"h": 697,
+									"w": 697
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 295,
+									"h": 408,
+									"w": 408
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 167,
+									"h": 231,
+									"w": 231
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205397234726002700,
+					"id_str": "1205397234726002688",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpuZgUU4AAND-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpuZgUU4AAND-d.jpg",
+					"url": "https://t.co/YNIt2R8deI",
+					"display_url": "pic.twitter.com/YNIt2R8deI",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397261603074048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205397234734395400,
+					"id_str": "1205397234734395392",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpuZgWU8AAuH0u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpuZgWU8AAuH0u.jpg",
+					"url": "https://t.co/YNIt2R8deI",
+					"display_url": "pic.twitter.com/YNIt2R8deI",
+					"expanded_url": "https://twitter.com/kr_now/status/1205397261603074048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "845170774939906049",
+									"screen_name": "Official_GNCD",
+									"name": "GoldenChild (골든차일드)"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 881,
+									"y": 517,
+									"h": 806,
+									"w": 806
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 751,
+									"y": 441,
+									"h": 687,
+									"w": 687
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 146,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 258,
+									"h": 403,
+									"w": 403
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205397228560322600,
+		"in_reply_to_status_id_str": "1205397228560322562",
+		"in_reply_to_user_id": 1159646410414817300,
+		"in_reply_to_user_id_str": "1159646410414817281",
+		"in_reply_to_screen_name": "kr_now",
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17824,
+			"friends_count": 0,
+			"listed_count": 39,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[오늘의 눈정화] 성운이의 #심야아이돌 에 #골든차일드 놀러온 날 사진 풉니다‼️ 금둥이들 언제나 황금길만 걸어요❤️ #GNCD #NOW온에어 https://t.co/YNIt2R8deI"
+	},
+	{
 		"created_at": "Fri Dec 13 08:13:34 +0000 2019",
 		"id": 1205397612674764800,
 		"id_str": "1205400355028246529",
@@ -5461,7 +6473,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -6128,7 +7140,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
