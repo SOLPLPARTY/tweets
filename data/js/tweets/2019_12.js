@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 23:18:16 +0000 2019",
+		"id": 1205622297568039000,
+		"id_str": "1205628031299194882",
+		"full_text": "2주간 북미투어를 성황리에🎉 마친 @SaySueMe의 마지막 스케줄은 바로⚡️KEXP Live입니다. 12월19일 https://t.co/bbwwhi6zdb에서 @djkevincole의 소개로 라이브영상을 만날 수 있습니다🥳❤️💙 https://t.co/xIF4UDcs40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaySueMe",
+					"name": "세이수미 Say Sue Me",
+					"id": 1027038272,
+					"id_str": "1027038272",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "djkevincole",
+					"name": "Kevin Cole",
+					"id": 12743612,
+					"id_str": "12743612",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bbwwhi6zdb",
+					"expanded_url": "http://kexp.org",
+					"display_url": "kexp.org",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/xIF4UDcs40",
+					"expanded_url": "https://twitter.com/kexp/status/1205588424834482176",
+					"display_url": "twitter.com/kexp/status/12…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3512,
+			"friends_count": 1337,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1205588424834482200,
+		"quoted_status_id_str": "1205588424834482176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xIF4UDcs40",
+			"expanded": "https://twitter.com/kexp/status/1205588424834482176",
+			"display": "twitter.com/kexp/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 13 20:40:53 +0000 2019",
+			"id": 1205588424834482200,
+			"id_str": "1205588424834482176",
+			"full_text": "We have Korea’s @SaySueMe in the studio! The @damnably group treated us to four tracks, plus their surf-rock holiday single. Tune in at https://t.co/a1b3ZpIVzX on Dec. 19th with @djkevincole to hear the full performance! https://t.co/Jwl3UosLUg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SaySueMe",
+						"name": "세이수미 Say Sue Me",
+						"id": 1027038272,
+						"id_str": "1027038272",
+						"indices": [
+							16,
+							25
+						]
+					},
+					{
+						"screen_name": "damnably",
+						"name": "Damnably Records",
+						"id": 21111495,
+						"id_str": "21111495",
+						"indices": [
+							45,
+							54
+						]
+					},
+					{
+						"screen_name": "djkevincole",
+						"name": "Kevin Cole",
+						"id": 12743612,
+						"id_str": "12743612",
+						"indices": [
+							178,
+							190
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/a1b3ZpIVzX",
+						"expanded_url": "http://kexp.org",
+						"display_url": "kexp.org",
+						"indices": [
+							136,
+							159
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1205588313198878700,
+						"id_str": "1205588313198878720",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205588313198878720/pu/img/Cakl1TRM1xKtQzUH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205588313198878720/pu/img/Cakl1TRM1xKtQzUH.jpg",
+						"url": "https://t.co/Jwl3UosLUg",
+						"display_url": "pic.twitter.com/Jwl3UosLUg",
+						"expanded_url": "https://twitter.com/kexp/status/1205588424834482176/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1205588313198878700,
+						"id_str": "1205588313198878720",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205588313198878720/pu/img/Cakl1TRM1xKtQzUH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205588313198878720/pu/img/Cakl1TRM1xKtQzUH.jpg",
+						"url": "https://t.co/Jwl3UosLUg",
+						"display_url": "pic.twitter.com/Jwl3UosLUg",
+						"expanded_url": "https://twitter.com/kexp/status/1205588424834482176/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45002,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1205588313198878720/pu/pl/frxUZ3D7tIab6UOf.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1205588313198878720/pu/vid/640x360/kKgSLYaO5Dmz1KjE.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1205588313198878720/pu/vid/1280x720/q3JhxL7v45gqqa_y.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1205588313198878720/pu/vid/480x270/ID9TcS95PTMOEFkQ.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9639502,
+				"id_str": "9639502",
+				"name": "KEXP",
+				"screen_name": "kexp",
+				"location": "Seattle, Washington, USA",
+				"description": "KEXP is a nonprofit arts organization serving music lovers & artists. Listen worldwide at https://t.co/cnYX6P9I4v [ photo credit: Melissa Wax ]",
+				"url": "https://t.co/nWjZJYD0O0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nWjZJYD0O0",
+								"expanded_url": "http://kexp.org",
+								"display_url": "kexp.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cnYX6P9I4v",
+								"expanded_url": "http://KEXP.ORG",
+								"display_url": "KEXP.ORG",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 184221,
+				"friends_count": 98,
+				"listed_count": 3747,
+				"created_at": "Tue Oct 23 23:53:14 +0000 2007",
+				"favourites_count": 11192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 38142,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFAD32",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178686902335164416/GnUcWv-r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178686902335164416/GnUcWv-r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9639502/1518122977",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFAD32",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2주간 북미투어를 성황리에🎉 마친 @SaySueMe의 마지막 스케줄은 바로⚡️KEXP Live입니다. 12월19일 https://t.co/bbwwhi6zdb에서 @djkevincole의 소개로 라이브영상을 만날 수 있습니다🥳❤️💙 https://t.co/xIF4UDcs40"
+	},
+	{
 		"created_at": "Fri Dec 13 15:13:28 +0000 2019",
 		"id": 1205504799363367000,
 		"id_str": "1205506024150568960",
