@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 14 09:13:27 +0000 2019",
+		"id": 1205777483116634000,
+		"id_str": "1205777813711839232",
+		"full_text": "[clubFF - Live Bands]\n12/18(wed) 우희. 위크데이. 류트리오. The glass\n\n12/19(thu) 바닐레어. 맨앤보이. 데이글로우. Doop\n\nstart 8:00pm https://t.co/50iq77b2ct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205777470244315100,
+					"id_str": "1205777470244315136",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIOIAU4AAonSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIOIAU4AAonSi.jpg",
+					"url": "https://t.co/50iq77b2ct",
+					"display_url": "pic.twitter.com/50iq77b2ct",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205777483116634112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 475,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 939,
+									"y": 1301,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 839,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 939,
+									"y": 1301,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205777470244315100,
+					"id_str": "1205777470244315136",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ELvIOIAU4AAonSi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELvIOIAU4AAonSi.jpg",
+					"url": "https://t.co/50iq77b2ct",
+					"display_url": "pic.twitter.com/50iq77b2ct",
+					"expanded_url": "https://twitter.com/clubFF_/status/1205777483116634112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 475,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 939,
+									"y": 1301,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 839,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 939,
+									"y": 1301,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6678,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[clubFF - Live Bands]\n12/18(wed) 우희. 위크데이. 류트리오. The glass\n\n12/19(thu) 바닐레어. 맨앤보이. 데이글로우. Doop\n\nstart 8:00pm https://t.co/50iq77b2ct"
+	},
+	{
 		"created_at": "Sat Dec 14 08:13:30 +0000 2019",
 		"id": 1205762024262656000,
 		"id_str": "1205762724438913024",
