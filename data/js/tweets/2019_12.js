@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 03:13:32 +0000 2019",
+		"id": 1206046237402620000,
+		"id_str": "1206049623233699840",
+		"full_text": "* 본 공연에는 포스트잇 이벤트가 진행될 예정입니다. \n공연장 입장 시, 입구에 배치된 포스트잇 판넬에 많은 사연 혹은 고민을 적어주세요. '블루파프리카'가 그에 대한 위로와 조언의 한 마디를 들려줄 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206046188320915500,
+		"in_reply_to_status_id_str": "1206046188320915456",
+		"in_reply_to_user_id": 2185812985,
+		"in_reply_to_user_id_str": "2185812985",
+		"in_reply_to_screen_name": "rollinghall",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 790,
+			"listed_count": 0,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 본 공연에는 포스트잇 이벤트가 진행될 예정입니다. \n공연장 입장 시, 입구에 배치된 포스트잇 판넬에 많은 사연 혹은 고민을 적어주세요. '블루파프리카'가 그에 대한 위로와 조언의 한 마디를 들려줄 예정입니다."
+	},
+	{
+		"created_at": "Sun Dec 15 03:13:28 +0000 2019",
+		"id": 1206046188320915500,
+		"id_str": "1206049605890297856",
+		"full_text": "[12/15 공연 안내]\n\n&lt;일상의 쉼표, 다섯 번째 이야기 “오늘도 고마워” : 블루파프리카&gt;\n\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 블루파프리카\n\n#블루파프리카 #단독콘서트 #일상의쉼표 #다섯번째이야기 #오늘도고마워 #롤링홀 #홍대 #인디 #공연 https://t.co/8LHJPw7bFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루파프리카",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "일상의쉼표",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "다섯번째이야기",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "오늘도고마워",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206046178502008800,
+					"id_str": "1206046178502008832",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ELy8nARUYAAztzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELy8nARUYAAztzL.jpg",
+					"url": "https://t.co/8LHJPw7bFb",
+					"display_url": "pic.twitter.com/8LHJPw7bFb",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206046188320915456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206046178502008800,
+					"id_str": "1206046178502008832",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/ELy8nARUYAAztzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELy8nARUYAAztzL.jpg",
+					"url": "https://t.co/8LHJPw7bFb",
+					"display_url": "pic.twitter.com/8LHJPw7bFb",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206046188320915456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 790,
+			"listed_count": 0,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[12/15 공연 안내]\n\n&lt;일상의 쉼표, 다섯 번째 이야기 “오늘도 고마워” : 블루파프리카&gt;\n\n• 티켓수령 : 4시 (현장구매 가능)\n• 입장 : 4시 30분\n• 공연시작 : 5시\n• 출연 : 블루파프리카\n\n#블루파프리카 #단독콘서트 #일상의쉼표 #다섯번째이야기 #오늘도고마워 #롤링홀 #홍대 #인디 #공연 https://t.co/8LHJPw7bFb"
+	},
+	{
 		"created_at": "Sat Dec 14 14:18:23 +0000 2019",
 		"id": 1205848579664838700,
 		"id_str": "1205854552500658176",
