@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 15:13:28 +0000 2019",
+		"id": 1206218397047873500,
+		"id_str": "1206230800401944577",
+		"full_text": "스페셜 게스트와 함께 만나요!\n\n&lt;베이빌론 단독공연 vol.5 Sweet Dream&gt;\n• 공연일시 : 2019. 12. 27 (금) 20:00~\n• 공연장소 : 상상마당 홍대 라이브홀 B2\n• 티켓예매 : 멜론 티켓🍈 https://t.co/x7NGE9Yl6J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206218387812057000,
+					"id_str": "1206218387812057088",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EL1ZO58VAAASPT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL1ZO58VAAASPT5.jpg",
+					"url": "https://t.co/x7NGE9Yl6J",
+					"display_url": "pic.twitter.com/x7NGE9Yl6J",
+					"expanded_url": "https://twitter.com/SSmadang/status/1206218397047873537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 461,
+									"y": 303,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 145,
+									"y": 247,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206218387812057000,
+					"id_str": "1206218387812057088",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EL1ZO58VAAASPT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL1ZO58VAAASPT5.jpg",
+					"url": "https://t.co/x7NGE9Yl6J",
+					"display_url": "pic.twitter.com/x7NGE9Yl6J",
+					"expanded_url": "https://twitter.com/SSmadang/status/1206218397047873537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 695,
+									"y": 457,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 219,
+									"y": 373,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 461,
+									"y": 303,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 145,
+									"y": 247,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19129,
+			"friends_count": 2005,
+			"listed_count": 318,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스페셜 게스트와 함께 만나요!\n\n&lt;베이빌론 단독공연 vol.5 Sweet Dream&gt;\n• 공연일시 : 2019. 12. 27 (금) 20:00~\n• 공연장소 : 상상마당 홍대 라이브홀 B2\n• 티켓예매 : 멜론 티켓🍈 https://t.co/x7NGE9Yl6J"
+	},
+	{
 		"created_at": "Sun Dec 15 12:13:31 +0000 2019",
 		"id": 1206177974933807000,
 		"id_str": "1206185514518417414",
