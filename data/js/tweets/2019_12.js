@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 03:18:16 +0000 2019",
+		"id": 1206048110964699100,
+		"id_str": "1206050816886480897",
+		"full_text": "#성진환 싱글 ‘이렇게 좋은 겨울’ 발매!\n⠀\n‘따뜻한 호빵과 라떼가 좋아’☕️🖤\n\n지금 모든 음원사이트에서 감상하실 수 있어요❄️\n\nFLO ▶️https://t.co/Qs7zSz2Wun\nVIBE ▶️https://t.co/2ILAZxHPTB\n멜론 ▶️https://t.co/VMQwZzZSAC\n벅스 ▶️https://t.co/GVdEAoxbsV\n지니 ▶️https://t.co/OmTD8ooU5W https://t.co/0E0WogYknJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성진환",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qs7zSz2Wun",
+					"expanded_url": "http://bit.ly/2PmeUBB",
+					"display_url": "bit.ly/2PmeUBB",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/2ILAZxHPTB",
+					"expanded_url": "http://bit.ly/35nSwxo",
+					"display_url": "bit.ly/35nSwxo",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/VMQwZzZSAC",
+					"expanded_url": "http://bit.ly/2soJp0S",
+					"display_url": "bit.ly/2soJp0S",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/GVdEAoxbsV",
+					"expanded_url": "http://bit.ly/2LWJAqV",
+					"display_url": "bit.ly/2LWJAqV",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/OmTD8ooU5W",
+					"expanded_url": "http://bit.ly/2PmQ2K0",
+					"display_url": "bit.ly/2PmQ2K0",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206048088311230500,
+					"id_str": "1206048088311230464",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/ELy-WK3UcAA8c0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELy-WK3UcAA8c0C.jpg",
+					"url": "https://t.co/0E0WogYknJ",
+					"display_url": "pic.twitter.com/0E0WogYknJ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1206048110964699136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206048088311230500,
+					"id_str": "1206048088311230464",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/ELy-WK3UcAA8c0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELy-WK3UcAA8c0C.jpg",
+					"url": "https://t.co/0E0WogYknJ",
+					"display_url": "pic.twitter.com/0E0WogYknJ",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1206048110964699136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#성진환 싱글 ‘이렇게 좋은 겨울’ 발매!\n⠀\n‘따뜻한 호빵과 라떼가 좋아’☕️🖤\n\n지금 모든 음원사이트에서 감상하실 수 있어요❄️\n\nFLO ▶️https://t.co/Qs7zSz2Wun\nVIBE ▶️https://t.co/2ILAZxHPTB\n멜론 ▶️https://t.co/VMQwZzZSAC\n벅스 ▶️https://t.co/GVdEAoxbsV\n지니 ▶️https://t.co/OmTD8ooU5W https://t.co/0E0WogYknJ"
+	},
+	{
 		"created_at": "Sun Dec 15 03:13:32 +0000 2019",
 		"id": 1206046237402620000,
 		"id_str": "1206049623233699840",
