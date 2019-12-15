@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 11:13:32 +0000 2019",
+		"id": 1206166066080051200,
+		"id_str": "1206170418933063681",
+		"full_text": "더더의 음악과 함께 미리 크리스마스를 즐겨보세요🎅\n\n👉 자세히 보기  https://t.co/LikrIn8su7 👈\n\n&lt;더더 미리 크리스마스&gt;\n❤️ 일시: 12/22(일) 5PM\n☑️ 장소: Prism+/프리즘플러스\n🎶 티켓가: 예매 40,000원 / 현매 50,000원\n☑️ 예매처 : https://t.co/Ic8z6ZAgiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LikrIn8su7",
+					"expanded_url": "http://reurl.kr/4BF5D2A2AW",
+					"display_url": "reurl.kr/4BF5D2A2AW",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/Ic8z6ZAgiF",
+					"expanded_url": "http://reurl.kr/4BF5D2A0DX",
+					"display_url": "reurl.kr/4BF5D2A0DX",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206166062431010800,
+		"in_reply_to_status_id_str": "1206166062431010816",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2835,
+			"friends_count": 2719,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더더의 음악과 함께 미리 크리스마스를 즐겨보세요🎅\n\n👉 자세히 보기  https://t.co/LikrIn8su7 👈\n\n&lt;더더 미리 크리스마스&gt;\n❤️ 일시: 12/22(일) 5PM\n☑️ 장소: Prism+/프리즘플러스\n🎶 티켓가: 예매 40,000원 / 현매 50,000원\n☑️ 예매처 : https://t.co/Ic8z6ZAgiF"
+	},
+	{
 		"created_at": "Sun Dec 15 09:18:17 +0000 2019",
 		"id": 1206134788744040400,
 		"id_str": "1206141415002120193",
