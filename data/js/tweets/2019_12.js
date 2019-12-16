@@ -1,6 +1,1166 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 03:13:49 +0000 2019",
+		"id": 1206409818770067500,
+		"id_str": "1206412084432572417",
+		"full_text": "문화 종합 선물 세트 대! 공! 개! 꿀잼보장!\n소득과는 아무런 상관이 없고, 증빙서류도 필요 없는\n2019년 문화 연말정산, 문화톱10!\n\n허전하고 쌀쌀한 연말, 문화톱10에서 함께 하세요.🤟🏼\n특강 신청 : https://t.co/TNcxhKdaie https://t.co/k52js3YjQV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNcxhKdaie",
+					"expanded_url": "http://bit.ly/2E9wJNR",
+					"display_url": "bit.ly/2E9wJNR",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206409809756446700,
+					"id_str": "1206409809756446720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4HVIQUYAAmMIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4HVIQUYAAmMIn.jpg",
+					"url": "https://t.co/k52js3YjQV",
+					"display_url": "pic.twitter.com/k52js3YjQV",
+					"expanded_url": "https://twitter.com/SSmadang/status/1206409818770067457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206409809756446700,
+					"id_str": "1206409809756446720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4HVIQUYAAmMIn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4HVIQUYAAmMIn.jpg",
+					"url": "https://t.co/k52js3YjQV",
+					"display_url": "pic.twitter.com/k52js3YjQV",
+					"expanded_url": "https://twitter.com/SSmadang/status/1206409818770067457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1206409809764864000,
+					"id_str": "1206409809764864000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4HVISU0AAetb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4HVISU0AAetb9.jpg",
+					"url": "https://t.co/k52js3YjQV",
+					"display_url": "pic.twitter.com/k52js3YjQV",
+					"expanded_url": "https://twitter.com/SSmadang/status/1206409818770067457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19130,
+			"friends_count": 2005,
+			"listed_count": 318,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문화 종합 선물 세트 대! 공! 개! 꿀잼보장!\n소득과는 아무런 상관이 없고, 증빙서류도 필요 없는\n2019년 문화 연말정산, 문화톱10!\n\n허전하고 쌀쌀한 연말, 문화톱10에서 함께 하세요.🤟🏼\n특강 신청 : https://t.co/TNcxhKdaie https://t.co/k52js3YjQV"
+	},
+	{
+		"created_at": "Mon Dec 16 03:13:44 +0000 2019",
+		"id": 1206409075900108800,
+		"id_str": "1206412062294990848",
+		"full_text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.6 프롬&amp;1415&gt;\n\n· 일시 : 2020년 1월 19일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 프롬, 1415\n· 예매 : 🍈 멜론티켓 https://t.co/9Z6xMBiBPD\n\nDesign by @studio.himp\n\n#프롬 #1415 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 https://t.co/b3TsSLio1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						208,
+						220
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						225,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Z6xMBiBPD",
+					"expanded_url": "https://hoy.kr/df6xW",
+					"display_url": "hoy.kr/df6xW",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206409055524159500,
+					"id_str": "1206409055524159489",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206409055524159489/pu/img/C9TJTLptRTiN_MJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206409055524159489/pu/img/C9TJTLptRTiN_MJ6.jpg",
+					"url": "https://t.co/b3TsSLio1M",
+					"display_url": "pic.twitter.com/b3TsSLio1M",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206409075900108800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206409055524159500,
+					"id_str": "1206409055524159489",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206409055524159489/pu/img/C9TJTLptRTiN_MJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206409055524159489/pu/img/C9TJTLptRTiN_MJ6.jpg",
+					"url": "https://t.co/b3TsSLio1M",
+					"display_url": "pic.twitter.com/b3TsSLio1M",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206409075900108800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206409055524159489/pu/vid/320x320/3P8l1RT0OQVS3hmf.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206409055524159489/pu/vid/720x720/nVYaKSQctKErb7DJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206409055524159489/pu/vid/480x480/tjxWy1VRA8T6Ulh9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206409055524159489/pu/pl/ihmDILq039eje-i8.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 789,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.6 프롬&amp;1415&gt;\n\n· 일시 : 2020년 1월 19일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 프롬, 1415\n· 예매 : 🍈 멜론티켓 https://t.co/9Z6xMBiBPD\n\nDesign by @studio.himp\n\n#프롬 #1415 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 https://t.co/b3TsSLio1M"
+	},
+	{
+		"created_at": "Mon Dec 16 03:13:37 +0000 2019",
+		"id": 1206408853476130800,
+		"id_str": "1206412032423157761",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.8 YB 단독 콘서트 Twilight State : Burns&gt;\n\n• 일시 : 2020년 2월 1일 (토) 오후 5시\n• 장소 : 롤링홀\n• 출연 : YB\n• 예매 : 멜론티켓 2019년 12월 19일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#YB #단독콘서트 #Twilight_State #Burns #롤링25주년 #롤링홀 https://t.co/bIS1MnRID6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YB",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "Twilight_State",
+					"indices": [
+						189,
+						204
+					]
+				},
+				{
+					"text": "Burns",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						212,
+						219
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						220,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206408847251820500,
+					"id_str": "1206408847251820544",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4GdGpVUAAzM61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4GdGpVUAAzM61.jpg",
+					"url": "https://t.co/bIS1MnRID6",
+					"display_url": "pic.twitter.com/bIS1MnRID6",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206408853476130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 477,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206408847251820500,
+					"id_str": "1206408847251820544",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4GdGpVUAAzM61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4GdGpVUAAzM61.jpg",
+					"url": "https://t.co/bIS1MnRID6",
+					"display_url": "pic.twitter.com/bIS1MnRID6",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206408853476130816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 477,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 759,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 789,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.8 YB 단독 콘서트 Twilight State : Burns&gt;\n\n• 일시 : 2020년 2월 1일 (토) 오후 5시\n• 장소 : 롤링홀\n• 출연 : YB\n• 예매 : 멜론티켓 2019년 12월 19일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#YB #단독콘서트 #Twilight_State #Burns #롤링25주년 #롤링홀 https://t.co/bIS1MnRID6"
+	},
+	{
+		"created_at": "Mon Dec 16 03:13:28 +0000 2019",
+		"id": 1206408699570344000,
+		"id_str": "1206411994158522368",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.5 다린 토크 콘서트&gt;\n\n· 일시 : 2020년 1월 18일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 다린\n· 예매 : 멜론티켓 2019년 12월 23일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#다린 #Darin #토크콘서트 #단독콘서트 #롤링25주년 #롤링홀 #홍대 #공연 #인디 https://t.co/R6q9xPQg7u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다린",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "Darin",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "토크콘서트",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						203,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206408691647275000,
+					"id_str": "1206408691647275008",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4GUC-UYAA7Bo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4GUC-UYAA7Bo6.jpg",
+					"url": "https://t.co/R6q9xPQg7u",
+					"display_url": "pic.twitter.com/R6q9xPQg7u",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206408699570343936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206408691647275000,
+					"id_str": "1206408691647275008",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4GUC-UYAA7Bo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4GUC-UYAA7Bo6.jpg",
+					"url": "https://t.co/R6q9xPQg7u",
+					"display_url": "pic.twitter.com/R6q9xPQg7u",
+					"expanded_url": "https://twitter.com/rollinghall/status/1206408699570343936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 789,
+			"listed_count": 42,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.5 다린 토크 콘서트&gt;\n\n· 일시 : 2020년 1월 18일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 다린\n· 예매 : 멜론티켓 2019년 12월 23일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#다린 #Darin #토크콘서트 #단독콘서트 #롤링25주년 #롤링홀 #홍대 #공연 #인디 https://t.co/R6q9xPQg7u"
+	},
+	{
 		"created_at": "Mon Dec 16 00:18:19 +0000 2019",
 		"id": 1206361271475429400,
 		"id_str": "1206367917455106050",
@@ -331,7 +1491,7 @@ Grailbird.data.tweets_2019_12 =
 				"name": "네이버 나우.",
 				"screen_name": "kr_now",
 				"location": "",
-				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 				"url": null,
 				"entities": {
 					"description": {
