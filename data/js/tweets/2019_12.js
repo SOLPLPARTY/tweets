@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 06:13:35 +0000 2019",
+		"id": 1206450495033770000,
+		"id_str": "1206457325558607872",
+		"full_text": "📍 엔분의일 스티커 3종 \n바로 어제 '엔분의일'의 첫 단독 콘서트가 열렸는데요🎉 \n첫 단독 콘서트를 기념하는 스티커가 입고되었으니 씬디에 오셔서 자유롭게 이용하세요~ \n직접 가져다주신 팬분들께 감사드립니다 :) https://t.co/RsbljYCPMz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206450484497670100,
+					"id_str": "1206450484497670144",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4sUteU4AAgfQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4sUteU4AAgfQZ.jpg",
+					"url": "https://t.co/RsbljYCPMz",
+					"display_url": "pic.twitter.com/RsbljYCPMz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1206450495033769985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 792,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 792,
+							"h": 909,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 464,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 131,
+									"y": 59,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206450484497670100,
+					"id_str": "1206450484497670144",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4sUteU4AAgfQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4sUteU4AAgfQZ.jpg",
+					"url": "https://t.co/RsbljYCPMz",
+					"display_url": "pic.twitter.com/RsbljYCPMz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1206450495033769985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 792,
+							"h": 909,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 792,
+							"h": 909,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 464,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 131,
+									"y": 59,
+									"h": 201,
+									"w": 201
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 622,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 176,
+									"y": 80,
+									"h": 270,
+									"w": 270
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206450481528098800,
+		"in_reply_to_status_id_str": "1206450481528098816",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836,
+			"friends_count": 2719,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍 엔분의일 스티커 3종 \n바로 어제 '엔분의일'의 첫 단독 콘서트가 열렸는데요🎉 \n첫 단독 콘서트를 기념하는 스티커가 입고되었으니 씬디에 오셔서 자유롭게 이용하세요~ \n직접 가져다주신 팬분들께 감사드립니다 :) https://t.co/RsbljYCPMz"
+	},
+	{
+		"created_at": "Mon Dec 16 06:13:27 +0000 2019",
+		"id": 1206450481528098800,
+		"id_str": "1206457291366637568",
+		"full_text": "[신규입고]\n\n📍 치즈 인화 사진\n데뷔한지 8주년을 기념하는 치즈님이 담긴 인화사진이 씬디에 입고되었습니다! 다른 분들을 위해 소중한 사진을 한 장씩 가져가 주세요😌\n\n📍 제리황 스티커 외 3종 \n셔츠보이프랭크 멤버 제리황님이 담긴 귀여운 팬아트 스티커가 입고되었으니 씬디로 구경오세요💕 https://t.co/byrB4UKFZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206450469276536800,
+					"id_str": "1206450469276536832",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4sT0xU0AAK0Zr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4sT0xU0AAK0Zr.jpg",
+					"url": "https://t.co/byrB4UKFZq",
+					"display_url": "pic.twitter.com/byrB4UKFZq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1206450481528098816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 686,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1046068286012588032",
+									"screen_name": "jerryhwang32",
+									"name": "제리황"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 37,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 421,
+									"y": 340,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 213,
+									"y": 41,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 99,
+									"y": 208,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 113,
+									"y": 116,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206450469276536800,
+					"id_str": "1206450469276536832",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4sT0xU0AAK0Zr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4sT0xU0AAK0Zr.jpg",
+					"url": "https://t.co/byrB4UKFZq",
+					"display_url": "pic.twitter.com/byrB4UKFZq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1206450481528098816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 686,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1046068286012588032",
+									"screen_name": "jerryhwang32",
+									"name": "제리황"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 376,
+									"y": 37,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 421,
+									"y": 340,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 213,
+									"y": 41,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 99,
+									"y": 208,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 113,
+									"y": 116,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 531,
+									"y": 53,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 595,
+									"y": 481,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 301,
+									"y": 59,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 141,
+									"y": 295,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 160,
+									"y": 164,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206450469280743400,
+					"id_str": "1206450469280743425",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4sT0yVAAEvZY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4sT0yVAAEvZY0.jpg",
+					"url": "https://t.co/byrB4UKFZq",
+					"display_url": "pic.twitter.com/byrB4UKFZq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1206450481528098816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 921,
+							"h": 910,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 910,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "1046068286012588032",
+									"screen_name": "jerryhwang32",
+									"name": "제리황"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 826,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 583,
+									"y": 609,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 826,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 826,
+									"h": 50,
+									"w": 50
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836,
+			"friends_count": 2719,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n\n📍 치즈 인화 사진\n데뷔한지 8주년을 기념하는 치즈님이 담긴 인화사진이 씬디에 입고되었습니다! 다른 분들을 위해 소중한 사진을 한 장씩 가져가 주세요😌\n\n📍 제리황 스티커 외 3종 \n셔츠보이프랭크 멤버 제리황님이 담긴 귀여운 팬아트 스티커가 입고되었으니 씬디로 구경오세요💕 https://t.co/byrB4UKFZq"
+	},
+	{
 		"created_at": "Mon Dec 16 05:13:27 +0000 2019",
 		"id": 1206441756918612000,
 		"id_str": "1206442191872286721",
