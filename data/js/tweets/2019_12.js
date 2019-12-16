@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 06:25:01 +0000 2019",
+		"id": 1206454410361983000,
+		"id_str": "1206460200271720450",
+		"full_text": "“올라프 인기가 대단한데요, 혹시 2편을 제작하면서 올라프가 더 많은 대사를 달라고 하거나 특별한 대우를 해달라고 요청하지는 않았나요?” 디즈니 덕후 백아연이 &lt;겨울왕국 2&gt; 제작진에게 궁금했던 점을 직접 물어본 인터뷰! 영상으로 확인해보세요❄️ #겨울왕국2 #NOW온에어\nhttps://t.co/TqifmbG06F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "겨울왕국2",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TqifmbG06F",
+					"expanded_url": "http://naver.me/FviuCVU0",
+					"display_url": "naver.me/FviuCVU0",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17942,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“올라프 인기가 대단한데요, 혹시 2편을 제작하면서 올라프가 더 많은 대사를 달라고 하거나 특별한 대우를 해달라고 요청하지는 않았나요?” 디즈니 덕후 백아연이 &lt;겨울왕국 2&gt; 제작진에게 궁금했던 점을 직접 물어본 인터뷰! 영상으로 확인해보세요❄️ #겨울왕국2 #NOW온에어\nhttps://t.co/TqifmbG06F"
+	},
+	{
+		"created_at": "Mon Dec 16 06:18:24 +0000 2019",
+		"id": 1206453407512322000,
+		"id_str": "1206458534847795200",
+		"full_text": "*포스트 링크 ▶︎ https://t.co/A29v2wOr4h\n-\n#성진환 #이렇게좋은겨울 #네이버포스트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성진환",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "이렇게좋은겨울",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A29v2wOr4h",
+					"expanded_url": "http://bit.ly/2tnyMvF",
+					"display_url": "bit.ly/2tnyMvF",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1206453386029097000,
+		"in_reply_to_status_id_str": "1206453386029096960",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*포스트 링크 ▶︎ https://t.co/A29v2wOr4h\n-\n#성진환 #이렇게좋은겨울 #네이버포스트"
+	},
+	{
 		"created_at": "Mon Dec 16 06:13:35 +0000 2019",
 		"id": 1206450495033770000,
 		"id_str": "1206457325558607872",
