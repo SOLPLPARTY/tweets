@@ -1,6 +1,1665 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 05:13:27 +0000 2019",
+		"id": 1206441756918612000,
+		"id_str": "1206442191872286721",
+		"full_text": "캐스퍼라디오 편성표❤️\n이번주 십란이는 11시에!\n오늘 서사무엘 라디오에서는 폴라로이드 증정 이벤트를 진행합니다💚 https://t.co/3hBNaTsf16",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206441741135446000,
+					"id_str": "1206441741135446016",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4kXx6VAAAiyqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4kXx6VAAAiyqt.jpg",
+					"url": "https://t.co/3hBNaTsf16",
+					"display_url": "pic.twitter.com/3hBNaTsf16",
+					"expanded_url": "https://twitter.com/casperradio_/status/1206441756918611969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206441741135446000,
+					"id_str": "1206441741135446016",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4kXx6VAAAiyqt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4kXx6VAAAiyqt.jpg",
+					"url": "https://t.co/3hBNaTsf16",
+					"display_url": "pic.twitter.com/3hBNaTsf16",
+					"expanded_url": "https://twitter.com/casperradio_/status/1206441756918611969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 서사무엘의 고요한라디오 / 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 7,
+			"listed_count": 4,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205015035631661056/UvZoMTSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캐스퍼라디오 편성표❤️\n이번주 십란이는 11시에!\n오늘 서사무엘 라디오에서는 폴라로이드 증정 이벤트를 진행합니다💚 https://t.co/3hBNaTsf16"
+	},
+	{
+		"created_at": "Mon Dec 16 04:19:54 +0000 2019",
+		"id": 1206425181796884500,
+		"id_str": "1206428716336893952",
+		"full_text": "CBP 월드 카운트다운에서 여러분의 눈과 귀를 즐겁게 할 가나치의 무대를 영상으로 미리 만나보세요!\n.\n▶️TICKET 🎫\nhttps://t.co/UHkWaOYS1w\n.\n#SalvatoreGanacci #가나찌\n#월드카운트다운 #카운트다운 #CBP #CBP2019 #CASSBLUEPLAYGROUND #CASS #카스 #카스랑놀자 #BEPC #비이피씨탄젠트 https://t.co/U13pWegldN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SalvatoreGanacci",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "가나찌",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "월드카운트다운",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "카운트다운",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "CBP",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "CBP2019",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "CASSBLUEPLAYGROUND",
+					"indices": [
+						148,
+						167
+					]
+				},
+				{
+					"text": "CASS",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "카스",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "카스랑놀자",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "BEPC",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "비이피씨탄젠트",
+					"indices": [
+						191,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UHkWaOYS1w",
+					"expanded_url": "http://worldcountdown.co.kr/",
+					"display_url": "worldcountdown.co.kr",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206425014477738000,
+					"id_str": "1206425014477737986",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206425014477737986/pu/img/zBqE9EZkX66wKssR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206425014477737986/pu/img/zBqE9EZkX66wKssR.jpg",
+					"url": "https://t.co/U13pWegldN",
+					"display_url": "pic.twitter.com/U13pWegldN",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1206425181796884480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206425014477738000,
+					"id_str": "1206425014477737986",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1206425014477737986/pu/img/zBqE9EZkX66wKssR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1206425014477737986/pu/img/zBqE9EZkX66wKssR.jpg",
+					"url": "https://t.co/U13pWegldN",
+					"display_url": "pic.twitter.com/U13pWegldN",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1206425181796884480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31917,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1206425014477737986/pu/pl/bpXM2G_IGxcRuLcg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206425014477737986/pu/vid/720x720/zk7cqb7MSZdMc9_d.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206425014477737986/pu/vid/480x480/8esV6MrEWxPWhM1B.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1206425014477737986/pu/vid/320x320/jfh-jHN8FVJ8elmo.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3294,
+			"friends_count": 281,
+			"listed_count": 82,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1557579790",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CBP 월드 카운트다운에서 여러분의 눈과 귀를 즐겁게 할 가나치의 무대를 영상으로 미리 만나보세요!\n.\n▶️TICKET 🎫\nhttps://t.co/UHkWaOYS1w\n.\n#SalvatoreGanacci #가나찌\n#월드카운트다운 #카운트다운 #CBP #CBP2019 #CASSBLUEPLAYGROUND #CASS #카스 #카스랑놀자 #BEPC #비이피씨탄젠트 https://t.co/U13pWegldN"
+	},
+	{
+		"created_at": "Mon Dec 16 04:18:40 +0000 2019",
+		"id": 1206428048746139600,
+		"id_str": "1206428403966103552",
+		"full_text": "https://t.co/M9CtoduugU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206428020149375000,
+					"id_str": "1206428020149374977",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4X5HQU0AE4uqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4X5HQU0AE4uqJ.jpg",
+					"url": "https://t.co/M9CtoduugU",
+					"display_url": "pic.twitter.com/M9CtoduugU",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1206428048746139648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 556,
+									"h": 477,
+									"w": 477
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 505,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 296,
+									"h": 254,
+									"w": 254
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 167,
+									"h": 144,
+									"w": 144
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206428020149375000,
+					"id_str": "1206428020149374977",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4X5HQU0AE4uqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4X5HQU0AE4uqJ.jpg",
+					"url": "https://t.co/M9CtoduugU",
+					"display_url": "pic.twitter.com/M9CtoduugU",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1206428048746139648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 556,
+									"h": 477,
+									"w": 477
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 659,
+									"y": 505,
+									"h": 433,
+									"w": 433
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 386,
+									"y": 296,
+									"h": 254,
+									"w": 254
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 167,
+									"h": 144,
+									"w": 144
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1206428020149383200,
+					"id_str": "1206428020149383168",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4X5HQU8AAlsou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4X5HQU8AAlsou.jpg",
+					"url": "https://t.co/M9CtoduugU",
+					"display_url": "pic.twitter.com/M9CtoduugU",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1206428048746139648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 768,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 1442,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 435,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 319,
+									"y": 1311,
+									"h": 137,
+									"w": 137
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3518,
+			"friends_count": 5,
+			"listed_count": 95,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/M9CtoduugU"
+	},
+	{
+		"created_at": "Mon Dec 16 04:18:32 +0000 2019",
+		"id": 1206427134140416000,
+		"id_str": "1206428369929351168",
+		"full_text": "180g 컬러 2LP (45회전)(독일 Pallas) – 투명옐로(SideA,B)&amp;투명레드(SideC,D) \n독일 Pauler Acoustics 커팅\n게이트폴드 커버+인서트\n\n[[[ 서울시 여러분 ]]]은 현대카드 바이닐앤플라스틱의 지원으로 제작 되었습니다.\n자세한 내용은 19일 오전 11시 현대카드 DIVE 인스타그램 공지를 확인해주세요. https://t.co/XbOoAMyjpL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206427122576715800,
+					"id_str": "1206427122576715776",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4XE3iU8AATmqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4XE3iU8AATmqg.jpg",
+					"url": "https://t.co/XbOoAMyjpL",
+					"display_url": "pic.twitter.com/XbOoAMyjpL",
+					"expanded_url": "https://twitter.com/orm_ent/status/1206427134140416000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들 12/24~25 콘서트"
+								},
+								{
+									"type": "user",
+									"user_id": "368811091",
+									"screen_name": "9thenumber",
+									"name": "9(9와 숫자들)"
+								},
+								{
+									"type": "user",
+									"user_id": "129088794",
+									"screen_name": "coolbursut",
+									"name": "꿀버섯"
+								},
+								{
+									"type": "user",
+									"user_id": "112651666",
+									"screen_name": "yoojungmok",
+									"name": "유정목 🤓"
+								},
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								},
+								{
+									"type": "user",
+									"user_id": "153021094",
+									"screen_name": "jiinah",
+									"name": "김진아"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206427122576715800,
+					"id_str": "1206427122576715776",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4XE3iU8AATmqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4XE3iU8AATmqg.jpg",
+					"url": "https://t.co/XbOoAMyjpL",
+					"display_url": "pic.twitter.com/XbOoAMyjpL",
+					"expanded_url": "https://twitter.com/orm_ent/status/1206427134140416000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들 12/24~25 콘서트"
+								},
+								{
+									"type": "user",
+									"user_id": "368811091",
+									"screen_name": "9thenumber",
+									"name": "9(9와 숫자들)"
+								},
+								{
+									"type": "user",
+									"user_id": "129088794",
+									"screen_name": "coolbursut",
+									"name": "꿀버섯"
+								},
+								{
+									"type": "user",
+									"user_id": "112651666",
+									"screen_name": "yoojungmok",
+									"name": "유정목 🤓"
+								},
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								},
+								{
+									"type": "user",
+									"user_id": "153021094",
+									"screen_name": "jiinah",
+									"name": "김진아"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1206427118164308000,
+		"in_reply_to_status_id_str": "1206427118164307968",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1575862653",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "180g 컬러 2LP (45회전)(독일 Pallas) – 투명옐로(SideA,B)&amp;투명레드(SideC,D) \n독일 Pauler Acoustics 커팅\n게이트폴드 커버+인서트\n\n[[[ 서울시 여러분 ]]]은 현대카드 바이닐앤플라스틱의 지원으로 제작 되었습니다.\n자세한 내용은 19일 오전 11시 현대카드 DIVE 인스타그램 공지를 확인해주세요. https://t.co/XbOoAMyjpL"
+	},
+	{
+		"created_at": "Mon Dec 16 04:18:28 +0000 2019",
+		"id": 1206427118164308000,
+		"id_str": "1206428352631975937",
+		"full_text": "9와 숫자들의 [[[서울시 여러분]]]이 바이닐로 발매 됩니다!\n\n[ 선 판매 및 사인회 ] \n판매: 12월 21일(토) 낮 12시\n장소: 이태원 현대카드 바이닐앤플라스틱 (서울시 용산구 한남동 683-131)\n사인회: 12시 30분~1시 30분 (현장 상황에 따라 30분 정도 연장 될 수 있습니다.)\n수량: 100장 한정 https://t.co/my8pw39XrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206427103442296800,
+					"id_str": "1206427103442296832",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4XDwQU4AAYyDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4XDwQU4AAYyDg.jpg",
+					"url": "https://t.co/my8pw39XrT",
+					"display_url": "pic.twitter.com/my8pw39XrT",
+					"expanded_url": "https://twitter.com/orm_ent/status/1206427118164307968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들 12/24~25 콘서트"
+								},
+								{
+									"type": "user",
+									"user_id": "153021094",
+									"screen_name": "jiinah",
+									"name": "김진아"
+								},
+								{
+									"type": "user",
+									"user_id": "112651666",
+									"screen_name": "yoojungmok",
+									"name": "유정목 🤓"
+								},
+								{
+									"type": "user",
+									"user_id": "129088794",
+									"screen_name": "coolbursut",
+									"name": "꿀버섯"
+								},
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206427103442296800,
+					"id_str": "1206427103442296832",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4XDwQU4AAYyDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4XDwQU4AAYyDg.jpg",
+					"url": "https://t.co/my8pw39XrT",
+					"display_url": "pic.twitter.com/my8pw39XrT",
+					"expanded_url": "https://twitter.com/orm_ent/status/1206427118164307968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "118578410",
+									"screen_name": "9andthenumbers",
+									"name": "9와 숫자들 12/24~25 콘서트"
+								},
+								{
+									"type": "user",
+									"user_id": "153021094",
+									"screen_name": "jiinah",
+									"name": "김진아"
+								},
+								{
+									"type": "user",
+									"user_id": "112651666",
+									"screen_name": "yoojungmok",
+									"name": "유정목 🤓"
+								},
+								{
+									"type": "user",
+									"user_id": "129088794",
+									"screen_name": "coolbursut",
+									"name": "꿀버섯"
+								},
+								{
+									"type": "user",
+									"user_id": "129723746",
+									"screen_name": "psychoviolet",
+									"name": "BOY.D"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1575862653",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들의 [[[서울시 여러분]]]이 바이닐로 발매 됩니다!\n\n[ 선 판매 및 사인회 ] \n판매: 12월 21일(토) 낮 12시\n장소: 이태원 현대카드 바이닐앤플라스틱 (서울시 용산구 한남동 683-131)\n사인회: 12시 30분~1시 30분 (현장 상황에 따라 30분 정도 연장 될 수 있습니다.)\n수량: 100장 한정 https://t.co/my8pw39XrT"
+	},
+	{
+		"created_at": "Mon Dec 16 04:18:24 +0000 2019",
+		"id": 1206423705196187600,
+		"id_str": "1206428335296958464",
+		"full_text": "[스웨덴세탁소 '미지' 미니 콘서트 티켓 오픈]\n\n✔ 예매 : 멜론티켓\n✔ 티켓오픈 : 19.12.16 (월) 오후 2시\n✔ 공연일시 : 20.01.03 (금) 오후 8시\n✔ 공연장소 : 카페쇼파르\n✔ 50석 한정으로 진행됩니다.\n\n#스웨덴세탁소 #미지 #우리는너무많은것을 #밤산책 #An_Unknown_Night #쇼파르뮤직 https://t.co/qIJsOa2nZo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "우리는너무많은것을",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "밤산책",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "An_Unknown_Night",
+					"indices": [
+						158,
+						175
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206420136183287800,
+					"id_str": "1206420136183287809",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4QuNMVUAESzKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4QuNMVUAESzKS.jpg",
+					"url": "https://t.co/qIJsOa2nZo",
+					"display_url": "pic.twitter.com/qIJsOa2nZo",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1206423705196187648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206420136183287800,
+					"id_str": "1206420136183287809",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EL4QuNMVUAESzKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL4QuNMVUAESzKS.jpg",
+					"url": "https://t.co/qIJsOa2nZo",
+					"display_url": "pic.twitter.com/qIJsOa2nZo",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1206423705196187648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7700,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스웨덴세탁소 '미지' 미니 콘서트 티켓 오픈]\n\n✔ 예매 : 멜론티켓\n✔ 티켓오픈 : 19.12.16 (월) 오후 2시\n✔ 공연일시 : 20.01.03 (금) 오후 8시\n✔ 공연장소 : 카페쇼파르\n✔ 50석 한정으로 진행됩니다.\n\n#스웨덴세탁소 #미지 #우리는너무많은것을 #밤산책 #An_Unknown_Night #쇼파르뮤직 https://t.co/qIJsOa2nZo"
+	},
+	{
 		"created_at": "Mon Dec 16 03:18:24 +0000 2019",
 		"id": 1206409295568355300,
 		"id_str": "1206413236184264705",
