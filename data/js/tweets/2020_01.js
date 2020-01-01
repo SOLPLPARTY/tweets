@@ -1,6 +1,944 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 01 05:58:38 +0000 2020",
+		"id": 1212246525885046800,
+		"id_str": "1212251766265438208",
+		"full_text": "아시겠죠?🙊 https://t.co/2cNUUQFepK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2cNUUQFepK",
+					"expanded_url": "https://twitter.com/soran_kyb/status/1212241227313074176",
+					"display_url": "twitter.com/soran_kyb/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1449,
+			"friends_count": 7,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1212241227313074200,
+		"quoted_status_id_str": "1212241227313074176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2cNUUQFepK",
+			"expanded": "https://twitter.com/soran_kyb/status/1212241227313074176",
+			"display": "twitter.com/soran_kyb/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 01 05:16:45 +0000 2020",
+			"id": 1212241227313074200,
+			"id_str": "1212241227313074176",
+			"full_text": "다음주 십란은 ㅅㅋㅊㅂ때문에11시..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 132053156,
+				"id_str": "132053156",
+				"name": "소란_고영배",
+				"screen_name": "SORAN_kyb",
+				"location": "SEOUL",
+				"description": "밴드 소란(SORAN)의 보컬 입니다.",
+				"url": "https://t.co/vbmmQjPiyi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vbmmQjPiyi",
+								"expanded_url": "http://club.cyworld.com/bandsoran",
+								"display_url": "club.cyworld.com/bandsoran",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25474,
+				"friends_count": 359,
+				"listed_count": 159,
+				"created_at": "Mon Apr 12 04:23:17 +0000 2010",
+				"favourites_count": 253,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14790,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101148610207444992/j3m-dnmc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101148610207444992/j3m-dnmc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/132053156/1551369262",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아시겠죠?🙊 https://t.co/2cNUUQFepK"
+	},
+	{
+		"created_at": "Wed Jan 01 05:58:34 +0000 2020",
+		"id": 1212244855058907100,
+		"id_str": "1212251748997517312",
+		"full_text": "happy new year 😇 https://t.co/Ds9wLEQ1Sz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212244805327061000,
+					"id_str": "1212244805327060992",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212244805327060992/pu/img/qPQrZaeQ1fYBCh0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212244805327060992/pu/img/qPQrZaeQ1fYBCh0Y.jpg",
+					"url": "https://t.co/Ds9wLEQ1Sz",
+					"display_url": "pic.twitter.com/Ds9wLEQ1Sz",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212244855058907136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 988,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 988,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212244805327061000,
+					"id_str": "1212244805327060992",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212244805327060992/pu/img/qPQrZaeQ1fYBCh0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212244805327060992/pu/img/qPQrZaeQ1fYBCh0Y.jpg",
+					"url": "https://t.co/Ds9wLEQ1Sz",
+					"display_url": "pic.twitter.com/Ds9wLEQ1Sz",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212244855058907136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 330,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 988,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 988,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							247
+						],
+						"duration_millis": 24417,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212244805327060992/pu/vid/320x658/4ufjoINqgsiu3uH_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212244805327060992/pu/vid/360x740/iSE7DCDwpKWq737u.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212244805327060992/pu/vid/480x988/EuAixZ_iLJGbQher.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212244805327060992/pu/pl/HddsR16Veq5N1NrU.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212239417567367200,
+		"in_reply_to_status_id_str": "1212239417567367168",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8358,
+			"friends_count": 32,
+			"listed_count": 39,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy new year 😇 https://t.co/Ds9wLEQ1Sz"
+	},
+	{
+		"created_at": "Wed Jan 01 05:58:29 +0000 2020",
+		"id": 1212239417567367200,
+		"id_str": "1212251727535202304",
+		"full_text": "2020 슬픔의케이팝파티 카운트다운 종료 https://t.co/MwpMd8ma61",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212239408381841400,
+					"id_str": "1212239408381841408",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ENK9UbdUUAAgURY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENK9UbdUUAAgURY.jpg",
+					"url": "https://t.co/MwpMd8ma61",
+					"display_url": "pic.twitter.com/MwpMd8ma61",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212239417567367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 180,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 421,
+									"y": 128,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212239408381841400,
+					"id_str": "1212239408381841408",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ENK9UbdUUAAgURY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENK9UbdUUAAgURY.jpg",
+					"url": "https://t.co/MwpMd8ma61",
+					"display_url": "pic.twitter.com/MwpMd8ma61",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212239417567367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 180,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 421,
+									"y": 128,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 268,
+									"y": 272,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 634,
+									"y": 194,
+									"h": 124,
+									"w": 124
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8358,
+			"friends_count": 32,
+			"listed_count": 39,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 슬픔의케이팝파티 카운트다운 종료 https://t.co/MwpMd8ma61"
+	},
+	{
+		"created_at": "Wed Jan 01 05:58:23 +0000 2020",
+		"id": 1212238560293609500,
+		"id_str": "1212251706114945024",
+		"full_text": "#ALLTHATMUSIC #고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배 #배인혁 #이원석 #이지형 #우주히피 #십센치 #권정열 #데이브레이크 #로맨틱펀치 #한국인 #10cm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "엠씨영배",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "이원석",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "한국인",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "10cm",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212238531810099200,
+		"in_reply_to_status_id_str": "1212238531810099200",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#ALLTHATMUSIC #고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배 #배인혁 #이원석 #이지형 #우주히피 #십센치 #권정열 #데이브레이크 #로맨틱펀치 #한국인 #10cm"
+	},
+	{
 		"created_at": "Wed Jan 01 03:41:49 +0000 2020",
 		"id": 1212210620679876600,
 		"id_str": "1212217335320322049",
