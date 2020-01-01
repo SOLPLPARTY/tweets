@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 01 11:58:15 +0000 2020",
+		"id": 1212328177852248000,
+		"id_str": "1212342266427314177",
+		"full_text": "1월 1일에 듣는 노래들이 한 해를 좌우한다고 하죠. 뮤지컬 배우 #카이 의 추천곡들로 올해를 채워보는 건 어떨까요? 오늘 밤 9시, 네이버앱에서 #들려주고싶어서 를 들어보세요💙#NOW온에어 https://t.co/XQeTIDXXg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카이",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212328175486697500,
+					"id_str": "1212328175486697474",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMODWsVAAI8PTN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMODWsVAAI8PTN.jpg",
+					"url": "https://t.co/XQeTIDXXg9",
+					"display_url": "pic.twitter.com/XQeTIDXXg9",
+					"expanded_url": "https://twitter.com/kr_now/status/1212328177852248064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212328175486697500,
+					"id_str": "1212328175486697474",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMODWsVAAI8PTN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMODWsVAAI8PTN.jpg",
+					"url": "https://t.co/XQeTIDXXg9",
+					"display_url": "pic.twitter.com/XQeTIDXXg9",
+					"expanded_url": "https://twitter.com/kr_now/status/1212328177852248064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18744,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1월 1일에 듣는 노래들이 한 해를 좌우한다고 하죠. 뮤지컬 배우 #카이 의 추천곡들로 올해를 채워보는 건 어떨까요? 오늘 밤 9시, 네이버앱에서 #들려주고싶어서 를 들어보세요💙#NOW온에어 https://t.co/XQeTIDXXg9"
+	},
+	{
 		"created_at": "Wed Jan 01 10:58:26 +0000 2020",
 		"id": 1212320638590840800,
 		"id_str": "1212327213187641345",
