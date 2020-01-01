@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 01 13:58:22 +0000 2020",
+		"id": 1212367571145478100,
+		"id_str": "1212372494486773763",
+		"full_text": "의류 분실물 입니다. 두번째는 히트텍이에요!! https://t.co/PDPqWD8N2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212367389959975000,
+					"id_str": "1212367389959974912",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxt7_U8AADE6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxt7_U8AADE6T.jpg",
+					"url": "https://t.co/PDPqWD8N2C",
+					"display_url": "pic.twitter.com/PDPqWD8N2C",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212367571145478146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212367389959975000,
+					"id_str": "1212367389959974912",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxt7_U8AADE6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxt7_U8AADE6T.jpg",
+					"url": "https://t.co/PDPqWD8N2C",
+					"display_url": "pic.twitter.com/PDPqWD8N2C",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212367571145478146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212367389959942100,
+					"id_str": "1212367389959942144",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxt7_UcAAYT15.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxt7_UcAAYT15.jpg",
+					"url": "https://t.co/PDPqWD8N2C",
+					"display_url": "pic.twitter.com/PDPqWD8N2C",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212367571145478146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212367389955743700,
+					"id_str": "1212367389955743745",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxt7-UYAEkKXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxt7-UYAEkKXX.jpg",
+					"url": "https://t.co/PDPqWD8N2C",
+					"display_url": "pic.twitter.com/PDPqWD8N2C",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212367571145478146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 609,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 400,
+									"y": 1075,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 684,
+									"y": 1836,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 684,
+									"y": 1836,
+									"h": 184,
+									"w": 184
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212367389959938000,
+					"id_str": "1212367389959938048",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENMxt7_UYAAgUN3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENMxt7_UYAAgUN3.jpg",
+					"url": "https://t.co/PDPqWD8N2C",
+					"display_url": "pic.twitter.com/PDPqWD8N2C",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212367571145478146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 1132,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 612,
+									"y": 30,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 648,
+									"y": 1132,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 612,
+									"y": 30,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 375,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 203,
+									"y": 9,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 379,
+									"y": 663,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 358,
+									"y": 17,
+									"h": 93,
+									"w": 93
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212268800558526500,
+		"in_reply_to_status_id_str": "1212268800558526464",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8354,
+			"friends_count": 32,
+			"listed_count": 38,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "의류 분실물 입니다. 두번째는 히트텍이에요!! https://t.co/PDPqWD8N2C"
+	},
+	{
+		"created_at": "Wed Jan 01 13:58:16 +0000 2020",
+		"id": 1212361405761851400,
+		"id_str": "1212372472890372097",
+		"full_text": "#ALLTHATMUSIC #올댓뮤직하드털이\n#고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배\n#배인혁 #이원석 #이지형 #우주히피 #십센치\n#권정열 #10cm #데이브레이크 #로맨틱펀치 #한국인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "올댓뮤직하드털이",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "엠씨영배",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "고댓뮤직",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "올영배",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이원석",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "이지형",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "10cm",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "데이브레이크",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "로맨틱펀치",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "한국인",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212361373411266600,
+		"in_reply_to_status_id_str": "1212361373411266566",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#ALLTHATMUSIC #올댓뮤직하드털이\n#고영배 #엠씨영배 #MC영배 #고댓뮤직 #올영배\n#배인혁 #이원석 #이지형 #우주히피 #십센치\n#권정열 #10cm #데이브레이크 #로맨틱펀치 #한국인"
+	},
+	{
 		"created_at": "Wed Jan 01 12:41:38 +0000 2020",
 		"id": 1212338535371395000,
 		"id_str": "1212353185022656512",
