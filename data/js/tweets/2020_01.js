@@ -1,6 +1,1313 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 05:59:32 +0000 2020",
+		"id": 1212614381185511400,
+		"id_str": "1212614381185511425",
+		"full_text": "#Melon #멜론 #멜론매거진\nGQ 매거진이 선정한 떠오르는 차세대 팝 킹, MAX\nhttps://t.co/ENHrAXlk1A https://t.co/j2epQbp1pf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENHrAXlk1A",
+					"expanded_url": "http://www.melon.com/musicstory/inform.htm?mstorySeq=9898",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212614380241772500,
+					"id_str": "1212614380241772544",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQSWqfXYAAYson.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQSWqfXYAAYson.jpg",
+					"url": "https://t.co/j2epQbp1pf",
+					"display_url": "pic.twitter.com/j2epQbp1pf",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212614381185511425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212614380241772500,
+					"id_str": "1212614380241772544",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQSWqfXYAAYson.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQSWqfXYAAYson.jpg",
+					"url": "https://t.co/j2epQbp1pf",
+					"display_url": "pic.twitter.com/j2epQbp1pf",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212614381185511425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 56,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\nGQ 매거진이 선정한 떠오르는 차세대 팝 킹, MAX\nhttps://t.co/ENHrAXlk1A https://t.co/j2epQbp1pf"
+	},
+	{
+		"created_at": "Thu Jan 02 05:58:34 +0000 2020",
+		"id": 1212606806452605000,
+		"id_str": "1212614137529933827",
+		"full_text": "🎉HAPPY NEW YEAR 🎉\n2020년, 경자년🐭을 더욱 밝혀줄 올해 공감의 첫 공연은⁉️☀️\n\n‘건반🎹 위의 작은 거인’ 이라 불리는\n🎶 Pianist 임윤찬🎶\n‘바이올린🎻 음악계의 새로운 디바'\n🎶 Violinist 송지원🎶\n\n🖤공연 신청은 하단의 링크를 통해 가능합니다🖤\nhttps://t.co/CopSFR9mr7 https://t.co/yjosL3hUo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CopSFR9mr7",
+					"expanded_url": "https://www.ebs.co.kr/space/program/4716",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212606796990255000,
+					"id_str": "1212606796990255104",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQLdQrUEAAKPYz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQLdQrUEAAKPYz.jpg",
+					"url": "https://t.co/yjosL3hUo8",
+					"display_url": "pic.twitter.com/yjosL3hUo8",
+					"expanded_url": "https://twitter.com/ebsspace/status/1212606806452604934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 1246,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 427,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 703,
+									"y": 407,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 242,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 398,
+									"y": 230,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 444,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 730,
+									"y": 423,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 444,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 730,
+									"y": 423,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212606796990255000,
+					"id_str": "1212606796990255104",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQLdQrUEAAKPYz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQLdQrUEAAKPYz.jpg",
+					"url": "https://t.co/yjosL3hUo8",
+					"display_url": "pic.twitter.com/yjosL3hUo8",
+					"expanded_url": "https://twitter.com/ebsspace/status/1212606806452604934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 1246,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 427,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 703,
+									"y": 407,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 242,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 398,
+									"y": 230,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 444,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 730,
+									"y": 423,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 444,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 730,
+									"y": 423,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271697,
+			"friends_count": 20134,
+			"listed_count": 819,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎉HAPPY NEW YEAR 🎉\n2020년, 경자년🐭을 더욱 밝혀줄 올해 공감의 첫 공연은⁉️☀️\n\n‘건반🎹 위의 작은 거인’ 이라 불리는\n🎶 Pianist 임윤찬🎶\n‘바이올린🎻 음악계의 새로운 디바'\n🎶 Violinist 송지원🎶\n\n🖤공연 신청은 하단의 링크를 통해 가능합니다🖤\nhttps://t.co/CopSFR9mr7 https://t.co/yjosL3hUo8"
+	},
+	{
+		"created_at": "Thu Jan 02 05:58:29 +0000 2020",
+		"id": 1212604801508237300,
+		"id_str": "1212614116067680256",
+		"full_text": "함께 하면 겁날 것 없는 나우의 다섯 소녀들이\n요일별로 오색 매력 뿜뿜하며 제대로 '편'들어주는 시간💗\n오늘 밤 10시, 다섯 소녀들의 꽁냥꽁냥 첫 만남을 기대해주세요🥰\n#러블리즈 #지애 #여자친구 #은하 #오마이걸 #효정 #에이프릴 #나은 #우주소녀 #다영 #어벤걸스 #AVENGIRLS #NOW온에어 https://t.co/VeP4Wm2hvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "러블리즈",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "지애",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "은하",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "다영",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "어벤걸스",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "AVENGIRLS",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212604796177268700,
+					"id_str": "1212604796177268736",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQJozEUwAAOvqW.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENQJozEUwAAOvqW.png",
+					"url": "https://t.co/VeP4Wm2hvb",
+					"display_url": "pic.twitter.com/VeP4Wm2hvb",
+					"expanded_url": "https://twitter.com/kr_now/status/1212604801508237313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								},
+								{
+									"type": "user",
+									"user_id": "2258740268",
+									"screen_name": "GFRDofficial",
+									"name": "여자친구 GFRIEND"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 25,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 164,
+									"y": 331,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 409,
+									"y": 335,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 431,
+									"y": 21,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 280,
+									"y": 174,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212604796177268700,
+					"id_str": "1212604796177268736",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQJozEUwAAOvqW.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENQJozEUwAAOvqW.png",
+					"url": "https://t.co/VeP4Wm2hvb",
+					"display_url": "pic.twitter.com/VeP4Wm2hvb",
+					"expanded_url": "https://twitter.com/kr_now/status/1212604801508237313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								},
+								{
+									"type": "user",
+									"user_id": "2258740268",
+									"screen_name": "GFRDofficial",
+									"name": "여자친구 GFRIEND"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 41,
+									"h": 164,
+									"w": 164
+								},
+								{
+									"x": 261,
+									"y": 527,
+									"h": 165,
+									"w": 165
+								},
+								{
+									"x": 651,
+									"y": 533,
+									"h": 181,
+									"w": 181
+								},
+								{
+									"x": 686,
+									"y": 34,
+									"h": 184,
+									"w": 184
+								},
+								{
+									"x": 445,
+									"y": 277,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 25,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 164,
+									"y": 331,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 409,
+									"y": 335,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 431,
+									"y": 21,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 280,
+									"y": 174,
+									"h": 117,
+									"w": 117
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18773,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "함께 하면 겁날 것 없는 나우의 다섯 소녀들이\n요일별로 오색 매력 뿜뿜하며 제대로 '편'들어주는 시간💗\n오늘 밤 10시, 다섯 소녀들의 꽁냥꽁냥 첫 만남을 기대해주세요🥰\n#러블리즈 #지애 #여자친구 #은하 #오마이걸 #효정 #에이프릴 #나은 #우주소녀 #다영 #어벤걸스 #AVENGIRLS #NOW온에어 https://t.co/VeP4Wm2hvb"
+	},
+	{
+		"created_at": "Thu Jan 02 05:58:20 +0000 2020",
+		"id": 1212599916221980700,
+		"id_str": "1212614077828227072",
+		"full_text": "오래된 친구가👬 주는 위로를 담은 앨범 #Reunion 으로 #봄여름가을겨울 과 #빛과소금 이 우리 곁에 돌아왔습니다. 따뜻하게 풀어낸 세월의🍁 이야기에 웃음지어졌던☺️ 현장의 온기를 느껴보아요🙏 #NOW온에어  https://t.co/NPhaDPYL8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Reunion",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "봄여름가을겨울",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "빛과소금",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NPhaDPYL8M",
+					"expanded_url": "https://tv.naver.com/v/11714709",
+					"display_url": "tv.naver.com/v/11714709",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18773,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오래된 친구가👬 주는 위로를 담은 앨범 #Reunion 으로 #봄여름가을겨울 과 #빛과소금 이 우리 곁에 돌아왔습니다. 따뜻하게 풀어낸 세월의🍁 이야기에 웃음지어졌던☺️ 현장의 온기를 느껴보아요🙏 #NOW온에어  https://t.co/NPhaDPYL8M"
+	},
+	{
 		"created_at": "Thu Jan 02 04:58:14 +0000 2020",
 		"id": 1212594491535708200,
 		"id_str": "1212598956183752709",
@@ -515,7 +1822,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
