@@ -1,6 +1,1444 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 09:58:24 +0000 2020",
+		"id": 1212660492822429700,
+		"id_str": "1212674493845557248",
+		"full_text": "📍바로 지금 홈페이지에서 신청 가능합니다!\n(바로가기👉 https://t.co/t3ks2tr54w)\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#A-FUZZ #김진이 #송슬기 #신선미 #임혜민",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "A",
+					"indices": [
+						83,
+						85
+					]
+				},
+				{
+					"text": "김진이",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "송슬기",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "신선미",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "임혜민",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t3ks2tr54w",
+					"expanded_url": "http://me2.do/5HFjlxDr",
+					"display_url": "me2.do/5HFjlxDr",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212660466767417300,
+		"in_reply_to_status_id_str": "1212660466767417344",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍바로 지금 홈페이지에서 신청 가능합니다!\n(바로가기👉 https://t.co/t3ks2tr54w)\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#A-FUZZ #김진이 #송슬기 #신선미 #임혜민"
+	},
+	{
+		"created_at": "Thu Jan 02 09:58:15 +0000 2020",
+		"id": 1212660466767417300,
+		"id_str": "1212674455585140737",
+		"full_text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n올댓뮤직 1월 15일 녹화\n뚜렷한 방향성을 가진 세 팀의 뮤지션과 함께합니다!\n⠀\n그 두 번째 라인업🗣\n뛰어난 리듬감과 폭발적인 사운드가 매력적인\n퓨전 재즈 밴드 #에이퍼즈 입니다🥰 https://t.co/vmJ2yAsABk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "에이퍼즈",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212660443765866500,
+					"id_str": "1212660443765866496",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQ8P6fVAAAtko9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQ8P6fVAAAtko9.jpg",
+					"url": "https://t.co/vmJ2yAsABk",
+					"display_url": "pic.twitter.com/vmJ2yAsABk",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1212660466767417344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 402,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 76,
+									"y": 148,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 569,
+									"y": 170,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 240,
+									"y": 165,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 428,
+									"y": 174,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212660443765866500,
+					"id_str": "1212660443765866496",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQ8P6fVAAAtko9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQ8P6fVAAAtko9.jpg",
+					"url": "https://t.co/vmJ2yAsABk",
+					"display_url": "pic.twitter.com/vmJ2yAsABk",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1212660466767417344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 402,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 76,
+									"y": 148,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 569,
+									"y": 170,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 240,
+									"y": 165,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 428,
+									"y": 174,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 27,
+									"y": 592,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 113,
+									"y": 219,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 837,
+									"y": 251,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 353,
+									"y": 243,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 630,
+									"y": 256,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n올댓뮤직 1월 15일 녹화\n뚜렷한 방향성을 가진 세 팀의 뮤지션과 함께합니다!\n⠀\n그 두 번째 라인업🗣\n뛰어난 리듬감과 폭발적인 사운드가 매력적인\n퓨전 재즈 밴드 #에이퍼즈 입니다🥰 https://t.co/vmJ2yAsABk"
+	},
+	{
+		"created_at": "Thu Jan 02 09:29:44 +0000 2020",
+		"id": 1212664965263327200,
+		"id_str": "1212667280124833792",
+		"full_text": "백예린 단독공연 &lt;Turn on that Blue Vinyl&gt;\n\n\"블루 바이닐을 틀어줘요.\"\n\n💿 공연일시\n2020. 2. 8 (토) 7PM\n2020. 2. 9 (일) 5PM\n💿 장소 : YES24 라이브홀\n💿 티켓가 : 전석 99,000원 *스탠딩+좌석 공연입니다.\n💿 티켓오픈 : 2020. 1. 9 (목) 8PM / 멜론티켓, YES24\n\n#백예린 #yerinbaek https://t.co/VhTFld5ySB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						204,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212664953385050000,
+					"id_str": "1212664953385050112",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRAWaIU4AAwoYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENRAWaIU4AAwoYq.jpg",
+					"url": "https://t.co/VhTFld5ySB",
+					"display_url": "pic.twitter.com/VhTFld5ySB",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1212664965263327232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 200,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 353,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 604,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 604,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212664953385050000,
+					"id_str": "1212664953385050112",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ENRAWaIU4AAwoYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENRAWaIU4AAwoYq.jpg",
+					"url": "https://t.co/VhTFld5ySB",
+					"display_url": "pic.twitter.com/VhTFld5ySB",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1212664965263327232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 200,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 467,
+									"y": 353,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 604,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 604,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4474,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 단독공연 &lt;Turn on that Blue Vinyl&gt;\n\n\"블루 바이닐을 틀어줘요.\"\n\n💿 공연일시\n2020. 2. 8 (토) 7PM\n2020. 2. 9 (일) 5PM\n💿 장소 : YES24 라이브홀\n💿 티켓가 : 전석 99,000원 *스탠딩+좌석 공연입니다.\n💿 티켓오픈 : 2020. 1. 9 (목) 8PM / 멜론티켓, YES24\n\n#백예린 #yerinbaek https://t.co/VhTFld5ySB"
+	},
+	{
+		"created_at": "Thu Jan 02 09:29:35 +0000 2020",
+		"id": 1212659796408713200,
+		"id_str": "1212667241625354240",
+		"full_text": "[NOTICE]\n\n스웨덴세탁소 '미지' 미니 콘서트 「An Unknown Night」 공연 안내 및 유의사항을 알려드립니다.\n⠀\n※ 자세한 사항은 멜론 티켓 예매 페이지 내 공연 상세 안내 이미지를 참고해주세요.\n\n🖇\nhttps://t.co/nOO7wZ3BlY\n\n#스웨덴세탁소 #미지 #An_Unknown_Night #쇼파르뮤직 #카페쇼파르 https://t.co/9qVZGwZtPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "미지",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "An_Unknown_Night",
+					"indices": [
+						159,
+						176
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "카페쇼파르",
+					"indices": [
+						184,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nOO7wZ3BlY",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=204798",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212646140182589400,
+					"id_str": "1212646140182589440",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQvPVfU8AAhUuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQvPVfU8AAhUuF.jpg",
+					"url": "https://t.co/9qVZGwZtPd",
+					"display_url": "pic.twitter.com/9qVZGwZtPd",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1212659796408713216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 614,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 623,
+									"y": 586,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212646140182589400,
+					"id_str": "1212646140182589440",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQvPVfU8AAhUuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQvPVfU8AAhUuF.jpg",
+					"url": "https://t.co/9qVZGwZtPd",
+					"display_url": "pic.twitter.com/9qVZGwZtPd",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1212659796408713216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 614,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 623,
+									"y": 586,
+									"h": 49,
+									"w": 49
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 820,
+									"y": 976,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 991,
+									"y": 931,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212646140178382800,
+					"id_str": "1212646140178382848",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQvPVeUwAApoMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQvPVeUwAApoMf.jpg",
+					"url": "https://t.co/9qVZGwZtPd",
+					"display_url": "pic.twitter.com/9qVZGwZtPd",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1212659796408713216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7724,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n\n스웨덴세탁소 '미지' 미니 콘서트 「An Unknown Night」 공연 안내 및 유의사항을 알려드립니다.\n⠀\n※ 자세한 사항은 멜론 티켓 예매 페이지 내 공연 상세 안내 이미지를 참고해주세요.\n\n🖇\nhttps://t.co/nOO7wZ3BlY\n\n#스웨덴세탁소 #미지 #An_Unknown_Night #쇼파르뮤직 #카페쇼파르 https://t.co/9qVZGwZtPd"
+	},
+	{
+		"created_at": "Thu Jan 02 09:29:33 +0000 2020",
+		"id": 1212657123684843500,
+		"id_str": "1212667232607768576",
+		"full_text": "*영상 링크 : https://t.co/kNittr2LyG\n-\n#홍이삭 #케이크팝 #히든레이어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "케이크팝",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "히든레이어",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kNittr2LyG",
+					"expanded_url": "http://youtu.be/vAhHUga4b-Y",
+					"display_url": "youtu.be/vAhHUga4b-Y",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212657101429829600,
+		"in_reply_to_status_id_str": "1212657101429829634",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1778,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*영상 링크 : https://t.co/kNittr2LyG\n-\n#홍이삭 #케이크팝 #히든레이어"
+	},
+	{
 		"created_at": "Thu Jan 02 08:58:20 +0000 2020",
 		"id": 1212648895051792400,
 		"id_str": "1212659380027568130",
@@ -440,7 +1878,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
