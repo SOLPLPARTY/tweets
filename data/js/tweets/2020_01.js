@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 13:58:22 +0000 2020",
+		"id": 1212726195516608500,
+		"id_str": "1212734882562134017",
+		"full_text": "🔈ON AIR 2020 1월2일(목)🔈\n잠시후 밤 11시 05분 광주MBC\n#자이로 스.페.셜.공.연\n실시간 유튜브로 볼수 있어요 ✔️\nhttps://t.co/uGioocefSt\n\n이로이로타이로 아니죠 \n난장지기 자이로 그리고\n#이시영 #조한결 #멜로우키친 \n자이로와 그의 음악 친구들이 펼치는 \n숨막히는 공연 본. 방. 사. 수. https://t.co/OMkm4MKYco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자이로",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "이시영",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "조한결",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "멜로우키친",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uGioocefSt",
+					"expanded_url": "http://youtu.be/iiKrDZxa610",
+					"display_url": "youtu.be/iiKrDZxa610",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212726107859873800,
+					"id_str": "1212726107859873798",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ENR3-ETUcAYKwpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENR3-ETUcAYKwpd.jpg",
+					"url": "https://t.co/OMkm4MKYco",
+					"display_url": "pic.twitter.com/OMkm4MKYco",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1212726195516608519/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212726107859873800,
+					"id_str": "1212726107859873798",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ENR3-ETUcAYKwpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENR3-ETUcAYKwpd.jpg",
+					"url": "https://t.co/OMkm4MKYco",
+					"display_url": "pic.twitter.com/OMkm4MKYco",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1212726195516608519/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212726123445936000,
+					"id_str": "1212726123445936129",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ENR3--XU4AEg0q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENR3--XU4AEg0q_.jpg",
+					"url": "https://t.co/OMkm4MKYco",
+					"display_url": "pic.twitter.com/OMkm4MKYco",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1212726195516608519/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 432,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 306,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 432,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 180,
+									"y": 432,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% LIVE MUSIC PROGRAM \n고품격라이브음악방송 NANJANG OFFICIAL. \nListen to Real Korean Music!\n8대MC #Zairo & #신현희 (자신남매)\n광주MBC제작 / 전남 나주시 / 나주정미소 난장곡간 /",
+			"url": "https://t.co/a4fHCErFEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4fHCErFEn",
+							"expanded_url": "https://www.facebook.com/reallivenanjang/",
+							"display_url": "facebook.com/reallivenanjan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4413,
+			"friends_count": 3583,
+			"listed_count": 109,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈ON AIR 2020 1월2일(목)🔈\n잠시후 밤 11시 05분 광주MBC\n#자이로 스.페.셜.공.연\n실시간 유튜브로 볼수 있어요 ✔️\nhttps://t.co/uGioocefSt\n\n이로이로타이로 아니죠 \n난장지기 자이로 그리고\n#이시영 #조한결 #멜로우키친 \n자이로와 그의 음악 친구들이 펼치는 \n숨막히는 공연 본. 방. 사. 수. https://t.co/OMkm4MKYco"
+	},
+	{
 		"created_at": "Thu Jan 02 12:59:33 +0000 2020",
 		"id": 1212720080234188800,
 		"id_str": "1212720080234188801",
