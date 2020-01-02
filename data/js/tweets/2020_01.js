@@ -1,6 +1,2357 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 02 06:59:32 +0000 2020",
+		"id": 1212629479912329200,
+		"id_str": "1212629479912329216",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] knockinon (노킹온) - Door (문) [feat. RIPLEY]\nhttps://t.co/0qDtrgyZV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0qDtrgyZV2",
+					"expanded_url": "https://youtu.be/qHNOM8etBXk",
+					"display_url": "youtu.be/qHNOM8etBXk",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] knockinon (노킹온) - Door (문) [feat. RIPLEY]\nhttps://t.co/0qDtrgyZV2"
+	},
+	{
+		"created_at": "Thu Jan 02 06:59:31 +0000 2020",
+		"id": 1212629478909853700,
+		"id_str": "1212629478909853696",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] 2 Day Old Sneakers  (투 데이 올드 스니커즈) - Jaguar (재규어)\nhttps://t.co/AvkbKAsSns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AvkbKAsSns",
+					"expanded_url": "https://youtu.be/QOc4eS-ZkZ0",
+					"display_url": "youtu.be/QOc4eS-ZkZ0",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] 2 Day Old Sneakers  (투 데이 올드 스니커즈) - Jaguar (재규어)\nhttps://t.co/AvkbKAsSns"
+	},
+	{
+		"created_at": "Thu Jan 02 06:59:31 +0000 2020",
+		"id": 1212629477941039000,
+		"id_str": "1212629477941039104",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] YEOJEONG (여정) - Jackson, The Talkative Cat (수다쟁이 잭슨)\nhttps://t.co/7ZGuPD5yvy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZGuPD5yvy",
+					"expanded_url": "https://youtu.be/k_QT_lvSRSI",
+					"display_url": "youtu.be/k_QT_lvSRSI",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[M/V] YEOJEONG (여정) - Jackson, The Talkative Cat (수다쟁이 잭슨)\nhttps://t.co/7ZGuPD5yvy"
+	},
+	{
+		"created_at": "Thu Jan 02 06:59:22 +0000 2020",
+		"id": 1212629438485192700,
+		"id_str": "1212629438485192709",
+		"full_text": "#Melon #멜론 #멜론매거진\n장르 초탈한 유니크함, 선우정아 [It’s Okay, Dear]\nhttps://t.co/TqA6zuraOm https://t.co/rEKbecEKsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TqA6zuraOm",
+					"expanded_url": "http://www.melon.com/musicstory/inform.htm?mstorySeq=9900",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212629437398835200,
+					"id_str": "1212629437398835200",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQgDGxW4AA9pBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQgDGxW4AA9pBi.jpg",
+					"url": "https://t.co/rEKbecEKsO",
+					"display_url": "pic.twitter.com/rEKbecEKsO",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212629438485192709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212629437398835200,
+					"id_str": "1212629437398835200",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQgDGxW4AA9pBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQgDGxW4AA9pBi.jpg",
+					"url": "https://t.co/rEKbecEKsO",
+					"display_url": "pic.twitter.com/rEKbecEKsO",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212629438485192709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 90,
+									"h": 139,
+									"w": 139
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n장르 초탈한 유니크함, 선우정아 [It’s Okay, Dear]\nhttps://t.co/TqA6zuraOm https://t.co/rEKbecEKsO"
+	},
+	{
+		"created_at": "Thu Jan 02 06:59:15 +0000 2020",
+		"id": 1212629409410297900,
+		"id_str": "1212629409410297856",
+		"full_text": "#Melon #멜론 #멜론매거진\n오디오 과대광고, 알 수 있을까?\nhttps://t.co/TJe4eo0wjP https://t.co/4i9SK4dg0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJe4eo0wjP",
+					"expanded_url": "http://www.melon.com/musicstory/inform.htm?mstorySeq=9899",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212629408114249700,
+					"id_str": "1212629408114249728",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQgBZrXkAAj_jb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQgBZrXkAAj_jb.jpg",
+					"url": "https://t.co/4i9SK4dg0g",
+					"display_url": "pic.twitter.com/4i9SK4dg0g",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212629409410297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212629408114249700,
+					"id_str": "1212629408114249728",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQgBZrXkAAj_jb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQgBZrXkAAj_jb.jpg",
+					"url": "https://t.co/4i9SK4dg0g",
+					"display_url": "pic.twitter.com/4i9SK4dg0g",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1212629409410297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n오디오 과대광고, 알 수 있을까?\nhttps://t.co/TJe4eo0wjP https://t.co/4i9SK4dg0g"
+	},
+	{
+		"created_at": "Thu Jan 02 06:58:26 +0000 2020",
+		"id": 1212623369096421400,
+		"id_str": "1212629203071438848",
+		"full_text": "오프라인과 온라인 모두 참여해주셔서 감사합니다!\n\n굿즈세트 당첨자는\n@4ever2mee 님\n@pomepomeplanet 님\n@shownunumx 님\n입니다!\n\n새해에는 모든 것들을 이루길 바랍니다! https://t.co/lF2o6HFXTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "4ever2mee",
+					"name": "𝙉𝙖𝙢𝙚",
+					"id": 1089468511250919400,
+					"id_str": "1089468511250919424",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "pomepomeplanet",
+					"name": "sn",
+					"id": 821946614742995000,
+					"id_str": "821946614742994945",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"screen_name": "SHOWNUNUMX",
+					"name": "미츠",
+					"id": 724071379255976000,
+					"id_str": "724071379255975937",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212623359852200000,
+					"id_str": "1212623359852199936",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQahWJUwAAzpGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQahWJUwAAzpGf.jpg",
+					"url": "https://t.co/lF2o6HFXTA",
+					"display_url": "pic.twitter.com/lF2o6HFXTA",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212623369096421377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212623359852200000,
+					"id_str": "1212623359852199936",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQahWJUwAAzpGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQahWJUwAAzpGf.jpg",
+					"url": "https://t.co/lF2o6HFXTA",
+					"display_url": "pic.twitter.com/lF2o6HFXTA",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212623369096421377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203990333089931300,
+		"in_reply_to_status_id_str": "1203990333089931264",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "2018.10~2020.01 슬픔의케이팝파티 종료! 즐거웠습니다!",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8350,
+			"friends_count": 32,
+			"listed_count": 38,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오프라인과 온라인 모두 참여해주셔서 감사합니다!\n\n굿즈세트 당첨자는\n@4ever2mee 님\n@pomepomeplanet 님\n@shownunumx 님\n입니다!\n\n새해에는 모든 것들을 이루길 바랍니다! https://t.co/lF2o6HFXTA"
+	},
+	{
+		"created_at": "Thu Jan 02 06:58:22 +0000 2020",
+		"id": 1212622945014538200,
+		"id_str": "1212629185774211072",
+		"full_text": "오늘 밤 9시🌙 #소수빈 이 ‘가장 따뜻한 선물’🎁💕 을 드립니다. 우리에게 #얼마나더 따뜻한 곡과 이야기를 가지고  #들려주고싶어서 를 찾아왔을지 오늘 밤 9시, 네이버앱에서 같이 들어보아요. #NOW온에어 https://t.co/RN2iDKW9CW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소수빈",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "얼마나더",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212622929055240200,
+					"id_str": "1212622929055240192",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQaIRTU0AAotnp.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENQaIRTU0AAotnp.png",
+					"url": "https://t.co/RN2iDKW9CW",
+					"display_url": "pic.twitter.com/RN2iDKW9CW",
+					"expanded_url": "https://twitter.com/kr_now/status/1212622945014538240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212622929055240200,
+					"id_str": "1212622929055240192",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQaIRTU0AAotnp.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENQaIRTU0AAotnp.png",
+					"url": "https://t.co/RN2iDKW9CW",
+					"display_url": "pic.twitter.com/RN2iDKW9CW",
+					"expanded_url": "https://twitter.com/kr_now/status/1212622945014538240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 834,
+									"y": 315,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 198,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18775,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 9시🌙 #소수빈 이 ‘가장 따뜻한 선물’🎁💕 을 드립니다. 우리에게 #얼마나더 따뜻한 곡과 이야기를 가지고  #들려주고싶어서 를 찾아왔을지 오늘 밤 9시, 네이버앱에서 같이 들어보아요. #NOW온에어 https://t.co/RN2iDKW9CW"
+	},
+	{
+		"created_at": "Thu Jan 02 06:58:19 +0000 2020",
+		"id": 1212621488827711500,
+		"id_str": "1212629176919973888",
+		"full_text": "2020년 1월 1일 00시 새해 첫 날 첫 순간 \n슬케파에서 함께 들은 노래는...! https://t.co/bJJMMT22Na",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212621479457611800,
+					"id_str": "1212621479457611776",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQYz5IUYAApXEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQYz5IUYAApXEm.jpg",
+					"url": "https://t.co/bJJMMT22Na",
+					"display_url": "pic.twitter.com/bJJMMT22Na",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212621488827711488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 20,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 44,
+									"y": 333,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 524,
+									"y": 208,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 570,
+									"y": 316,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212621479457611800,
+					"id_str": "1212621479457611776",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQYz5IUYAApXEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQYz5IUYAApXEm.jpg",
+					"url": "https://t.co/bJJMMT22Na",
+					"display_url": "pic.twitter.com/bJJMMT22Na",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212621488827711488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 24,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 52,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 609,
+									"y": 242,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 663,
+									"y": 368,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 20,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 44,
+									"y": 333,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 524,
+									"y": 208,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 570,
+									"y": 316,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212621212993503200,
+		"in_reply_to_status_id_str": "1212621212993503232",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "2018.10~2020.01 슬픔의케이팝파티 종료! 즐거웠습니다!",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8350,
+			"friends_count": 32,
+			"listed_count": 38,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년 1월 1일 00시 새해 첫 날 첫 순간 \n슬케파에서 함께 들은 노래는...! https://t.co/bJJMMT22Na"
+	},
+	{
+		"created_at": "Thu Jan 02 06:58:14 +0000 2020",
+		"id": 1212621212993503200,
+		"id_str": "1212629155524820996",
+		"full_text": "2019년 12월 31일 11시 58분 마지막날 마지막 순간\n슬케파에서 함께 들은 노래는...! https://t.co/lrXfYzWZ7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212621204869173200,
+					"id_str": "1212621204869173249",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQYj6NVUAEBsAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQYj6NVUAEBsAk.jpg",
+					"url": "https://t.co/lrXfYzWZ7I",
+					"display_url": "pic.twitter.com/lrXfYzWZ7I",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212621212993503232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 791,
+							"h": 591,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 791,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 465,
+									"y": 448,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 12,
+									"y": 60,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 545,
+									"y": 28,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212621204869173200,
+					"id_str": "1212621204869173249",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ENQYj6NVUAEBsAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENQYj6NVUAEBsAk.jpg",
+					"url": "https://t.co/lrXfYzWZ7I",
+					"display_url": "pic.twitter.com/lrXfYzWZ7I",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1212621212993503232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 791,
+							"h": 591,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 791,
+							"h": 591,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 522,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 14,
+									"y": 70,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 634,
+									"y": 33,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 465,
+									"y": 448,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 12,
+									"y": 60,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 545,
+									"y": 28,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203990333089931300,
+		"in_reply_to_status_id_str": "1203990333089931264",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "2018.10~2020.01 슬픔의케이팝파티 종료! 즐거웠습니다!",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8350,
+			"friends_count": 32,
+			"listed_count": 38,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년 12월 31일 11시 58분 마지막날 마지막 순간\n슬케파에서 함께 들은 노래는...! https://t.co/lrXfYzWZ7I"
+	},
+	{
+		"created_at": "Thu Jan 02 06:51:53 +0000 2020",
+		"id": 1212627555565617200,
+		"id_str": "1212627555565617152",
+		"full_text": "#포크라노스 #POCLANOS\n[Live] 오곤 (OGon) - 사랑하고 사랑하며 또 사랑을 하네 (Love Won't Let Me Be) / Live Video\nhttps://t.co/Aswt5TOx0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Aswt5TOx0P",
+					"expanded_url": "https://youtu.be/Y_xjuT0pJZ8",
+					"display_url": "youtu.be/Y_xjuT0pJZ8",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Live] 오곤 (OGon) - 사랑하고 사랑하며 또 사랑을 하네 (Love Won't Let Me Be) / Live Video\nhttps://t.co/Aswt5TOx0P"
+	},
+	{
 		"created_at": "Thu Jan 02 05:59:32 +0000 2020",
 		"id": 1212614381185511400,
 		"id_str": "1212614381185511425",
@@ -1126,7 +3477,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1250,7 +3601,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
