@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 06:59:32 +0000 2020",
+		"id": 1212991870453850000,
+		"id_str": "1212991870453850112",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] 소실점 (Vanishing Point) - Fake (척)\nhttps://t.co/SFDn7LdFh3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SFDn7LdFh3",
+					"expanded_url": "https://youtu.be/cNJYSvkAn58",
+					"display_url": "youtu.be/cNJYSvkAn58",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] 소실점 (Vanishing Point) - Fake (척)\nhttps://t.co/SFDn7LdFh3"
+	},
+	{
+		"created_at": "Fri Jan 03 06:59:32 +0000 2020",
+		"id": 1212991869258489900,
+		"id_str": "1212991869258489856",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Lubless (러블레스) - Bluebird (파랑새)\nhttps://t.co/F5coSEy4SY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F5coSEy4SY",
+					"expanded_url": "https://youtu.be/DpaqNc_VNPc",
+					"display_url": "youtu.be/DpaqNc_VNPc",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Lubless (러블레스) - Bluebird (파랑새)\nhttps://t.co/F5coSEy4SY"
+	},
+	{
+		"created_at": "Fri Jan 03 06:58:14 +0000 2020",
+		"id": 1212981233774252000,
+		"id_str": "1212991543419834368",
+		"full_text": "🐭 올해 공감 첫 방송의 주인공은 ❓\n두구두구두구두구〰️🥁\n⠀\n바로바로〰️ \"여행스케치\" ‼️\n⠀\n관객과 함께한 무대부터👫 깜짝 게스트 👤까지 ⁉️\n오랜만에 돌아온 만큼 꿀잼 보장 🍯\n현장에서도 정말정말정말 재밌었던 그들의 무대 🎤🎊\n오늘 밤 11시 35분, EBS 공감에서 함께하세요 🙌 https://t.co/u1rqodaDXp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212981224760758300,
+					"id_str": "1212981224760758272",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVf_00VUAA0MWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVf_00VUAA0MWa.jpg",
+					"url": "https://t.co/u1rqodaDXp",
+					"display_url": "pic.twitter.com/u1rqodaDXp",
+					"expanded_url": "https://twitter.com/ebsspace/status/1212981233774252041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1244,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 472,
+									"y": 511,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 146,
+									"y": 947,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 236,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 257,
+									"y": 278,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 79,
+									"y": 516,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 472,
+									"y": 511,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 146,
+									"y": 947,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 416,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 454,
+									"y": 492,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 140,
+									"y": 911,
+									"h": 123,
+									"w": 123
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212981224760758300,
+					"id_str": "1212981224760758272",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVf_00VUAA0MWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVf_00VUAA0MWa.jpg",
+					"url": "https://t.co/u1rqodaDXp",
+					"display_url": "pic.twitter.com/u1rqodaDXp",
+					"expanded_url": "https://twitter.com/ebsspace/status/1212981233774252041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1244,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 472,
+									"y": 511,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 146,
+									"y": 947,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 236,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 257,
+									"y": 278,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 79,
+									"y": 516,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 418,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 472,
+									"y": 511,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 146,
+									"y": 947,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 402,
+									"y": 416,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 454,
+									"y": 492,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 140,
+									"y": 911,
+									"h": 123,
+									"w": 123
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271679,
+			"friends_count": 20134,
+			"listed_count": 819,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐭 올해 공감 첫 방송의 주인공은 ❓\n두구두구두구두구〰️🥁\n⠀\n바로바로〰️ \"여행스케치\" ‼️\n⠀\n관객과 함께한 무대부터👫 깜짝 게스트 👤까지 ⁉️\n오랜만에 돌아온 만큼 꿀잼 보장 🍯\n현장에서도 정말정말정말 재밌었던 그들의 무대 🎤🎊\n오늘 밤 11시 35분, EBS 공감에서 함께하세요 🙌 https://t.co/u1rqodaDXp"
+	},
+	{
+		"created_at": "Fri Jan 03 06:51:52 +0000 2020",
+		"id": 1212989939895480300,
+		"id_str": "1212989939895480448",
+		"full_text": "#포크라노스 #POCLANOS\n[MV] 시오(SeiO) - Poetry / Official Music Video\nhttps://t.co/UCKAxi5hns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UCKAxi5hns",
+					"expanded_url": "https://youtu.be/ZDLZACIkNhA",
+					"display_url": "youtu.be/ZDLZACIkNhA",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#포크라노스 #POCLANOS\n[MV] 시오(SeiO) - Poetry / Official Music Video\nhttps://t.co/UCKAxi5hns"
+	},
+	{
+		"created_at": "Fri Jan 03 06:51:52 +0000 2020",
+		"id": 1212989938616197000,
+		"id_str": "1212989938616197126",
+		"full_text": "#포크라노스 #POCLANOS\n[MV] 시황 (Si-Hwang) - 어른 (That's Not Your Fault) / Official Music Video\nhttps://t.co/dsLvqZpm2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dsLvqZpm2d",
+					"expanded_url": "https://youtu.be/vevp3-pM2us",
+					"display_url": "youtu.be/vevp3-pM2us",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[MV] 시황 (Si-Hwang) - 어른 (That's Not Your Fault) / Official Music Video\nhttps://t.co/dsLvqZpm2d"
+	},
+	{
 		"created_at": "Fri Jan 03 05:58:34 +0000 2020",
 		"id": 1212973201975730200,
 		"id_str": "1212976525064179713",
@@ -274,7 +1162,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
