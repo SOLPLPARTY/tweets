@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 03:41:38 +0000 2020",
+		"id": 1212937664376131600,
+		"id_str": "1212942064377356288",
+		"full_text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.3 볼빨간사춘기 'Two Five' After Party&gt;\n\n· 일시 : 2020년 1월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 볼빨간사춘기 (오프닝 게스트 : 최유리, 락킷걸)\n· 예매 : 🍈멜론티켓 https://t.co/Y19Y4kULWN https://t.co/3UIOcuI4Fr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y19Y4kULWN",
+					"expanded_url": "https://vo.la/WqFO",
+					"display_url": "vo.la/WqFO",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212937646512558000,
+					"id_str": "1212937646512558080",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212937646512558080/pu/img/Xit7kXLwvl01uMjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212937646512558080/pu/img/Xit7kXLwvl01uMjJ.jpg",
+					"url": "https://t.co/3UIOcuI4Fr",
+					"display_url": "pic.twitter.com/3UIOcuI4Fr",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212937664376131585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212937646512558000,
+					"id_str": "1212937646512558080",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212937646512558080/pu/img/Xit7kXLwvl01uMjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212937646512558080/pu/img/Xit7kXLwvl01uMjJ.jpg",
+					"url": "https://t.co/3UIOcuI4Fr",
+					"display_url": "pic.twitter.com/3UIOcuI4Fr",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212937664376131585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212937646512558080/pu/vid/320x320/YD9hoVv2IErO9_QM.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212937646512558080/pu/pl/NeBHs2516tv2iPQz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212937646512558080/pu/vid/480x480/nXyjFnD-tw-jOXA3.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212937646512558080/pu/vid/720x720/RAPmSs9IBVKbLGAW.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3278,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.3 볼빨간사춘기 'Two Five' After Party&gt;\n\n· 일시 : 2020년 1월 11일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 볼빨간사춘기 (오프닝 게스트 : 최유리, 락킷걸)\n· 예매 : 🍈멜론티켓 https://t.co/Y19Y4kULWN https://t.co/3UIOcuI4Fr"
+	},
+	{
 		"created_at": "Fri Jan 03 03:00:45 +0000 2020",
 		"id": 1212931776835969000,
 		"id_str": "1212931776835969025",
