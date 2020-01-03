@@ -1,6 +1,1015 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 10:01:26 +0000 2020",
+		"id": 1212910771438383000,
+		"id_str": "1213037645179129857",
+		"full_text": "[#골든디스크어워즈 오늘 3시 최종마감❣️]\n\n#골디티켓 진심 최후의 10장!🤩\n\n골디양도는 NONO~☝️\n\n마지막까지 짜낸 표들 어서 가져가세요😘\n\n꼭꼭! 가고싶은 분들은 마지막까지 \n#아이돌라이브 앱에서 응모 하는거 아시죠?🤗\n\n▶️여기서 : https://t.co/mCNGzaXHAn https://t.co/sKQjNwBVJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "골디티켓",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mCNGzaXHAn",
+					"expanded_url": "https://idollive.page.link/HAEVZZHErJPx5xaLA",
+					"display_url": "idollive.page.link/HAEVZZHErJPx5x…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212910759245578200,
+					"id_str": "1212910759245578240",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ENUf6MUVAAAlHiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENUf6MUVAAAlHiP.jpg",
+					"url": "https://t.co/sKQjNwBVJX",
+					"display_url": "pic.twitter.com/sKQjNwBVJX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1212910771438383104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212910759245578200,
+					"id_str": "1212910759245578240",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ENUf6MUVAAAlHiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENUf6MUVAAAlHiP.jpg",
+					"url": "https://t.co/sKQjNwBVJX",
+					"display_url": "pic.twitter.com/sKQjNwBVJX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1212910771438383104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42246,
+			"friends_count": 6,
+			"listed_count": 26,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2952,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#골든디스크어워즈 오늘 3시 최종마감❣️]\n\n#골디티켓 진심 최후의 10장!🤩\n\n골디양도는 NONO~☝️\n\n마지막까지 짜낸 표들 어서 가져가세요😘\n\n꼭꼭! 가고싶은 분들은 마지막까지 \n#아이돌라이브 앱에서 응모 하는거 아시죠?🤗\n\n▶️여기서 : https://t.co/mCNGzaXHAn https://t.co/sKQjNwBVJX"
+	},
+	{
+		"created_at": "Fri Jan 03 10:01:20 +0000 2020",
+		"id": 1212933086704308200,
+		"id_str": "1213037619044446210",
+		"full_text": "Weekend 1 is sold out 🌴 Register for Weekend 2 presale at https://t.co/x8PRTb12Eh. Presale starts Monday 1/6 at 12pm PT https://t.co/QPRYnJVe9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x8PRTb12Eh",
+					"expanded_url": "http://Coachella.com",
+					"display_url": "Coachella.com",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212933081822163000,
+					"id_str": "1212933081822162945",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"url": "https://t.co/QPRYnJVe9P",
+					"display_url": "pic.twitter.com/QPRYnJVe9P",
+					"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212933081822163000,
+					"id_str": "1212933081822162945",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU0NiZUcAE8HS7.jpg",
+					"url": "https://t.co/QPRYnJVe9P",
+					"display_url": "pic.twitter.com/QPRYnJVe9P",
+					"expanded_url": "https://twitter.com/coachella/status/1212933086704308226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 688583,
+			"id_str": "688583",
+			"name": "Coachella",
+			"screen_name": "coachella",
+			"location": "Indio, CA",
+			"description": "",
+			"url": "https://t.co/k0mVrhjdYx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k0mVrhjdYx",
+							"expanded_url": "http://coachella.com",
+							"display_url": "coachella.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1004576,
+			"friends_count": 4,
+			"listed_count": 7817,
+			"created_at": "Tue Jan 23 20:11:53 +0000 2007",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123709305402867715/N4Kie90__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/688583/1578026299",
+			"profile_link_color": "3D75C4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFE2EB",
+			"profile_text_color": "435969",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32205,
+		"favorite_count": 95884,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weekend 1 is sold out 🌴 Register for Weekend 2 presale at https://t.co/x8PRTb12Eh. Presale starts Monday 1/6 at 12pm PT https://t.co/QPRYnJVe9P"
+	},
+	{
+		"created_at": "Fri Jan 03 09:58:15 +0000 2020",
+		"id": 1213023785458122800,
+		"id_str": "1213036843056422912",
+		"full_text": "#어벤걸스 스페셜 방송 다시듣기 가 온에어중입니다🧡 다섯 소녀들의 첫만남💕 🥺 지금 바로 네이버앱에서 만나요~! #러블리즈 #지애 #여자친구 #은하 #오마이걸 #효정 #에이프릴 #나은 #우주소녀 #다영 #AVENGIRLS #NOW온에어\n.\nhttps://t.co/cNfH6XQAEV https://t.co/CCY35AjdQg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "지애",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "은하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "다영",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "AVENGIRLS",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cNfH6XQAEV",
+					"expanded_url": "http://now.naver.com/441",
+					"display_url": "now.naver.com/441",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213023765518381000,
+					"id_str": "1213023765518381062",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWGsBfUcAYMYq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWGsBfUcAYMYq2.jpg",
+					"url": "https://t.co/CCY35AjdQg",
+					"display_url": "pic.twitter.com/CCY35AjdQg",
+					"expanded_url": "https://twitter.com/kr_now/status/1213023785458122754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2258740268",
+									"screen_name": "GFRDofficial",
+									"name": "여자친구 GFRIEND"
+								},
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1245,
+									"y": 243,
+									"h": 173,
+									"w": 173
+								},
+								{
+									"x": 905,
+									"y": 245,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1559,
+									"y": 227,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 223,
+									"y": 273,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 605,
+									"y": 253,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 80,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 300,
+									"y": 81,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 517,
+									"y": 75,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 74,
+									"y": 90,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 201,
+									"y": 84,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2372,
+									"y": 464,
+									"h": 331,
+									"w": 331
+								},
+								{
+									"x": 1725,
+									"y": 468,
+									"h": 365,
+									"w": 365
+								},
+								{
+									"x": 2970,
+									"y": 434,
+									"h": 358,
+									"w": 358
+								},
+								{
+									"x": 426,
+									"y": 521,
+									"h": 358,
+									"w": 358
+								},
+								{
+									"x": 1154,
+									"y": 483,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 729,
+									"y": 142,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 530,
+									"y": 144,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 913,
+									"y": 133,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 131,
+									"y": 160,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 355,
+									"y": 148,
+									"h": 107,
+									"w": 107
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213023765518381000,
+					"id_str": "1213023765518381062",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWGsBfUcAYMYq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWGsBfUcAYMYq2.jpg",
+					"url": "https://t.co/CCY35AjdQg",
+					"display_url": "pic.twitter.com/CCY35AjdQg",
+					"expanded_url": "https://twitter.com/kr_now/status/1213023785458122754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2258740268",
+									"screen_name": "GFRDofficial",
+									"name": "여자친구 GFRIEND"
+								},
+								{
+									"type": "user",
+									"user_id": "4439470045",
+									"screen_name": "WJSN_Cosmic",
+									"name": "우주소녀"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1245,
+									"y": 243,
+									"h": 173,
+									"w": 173
+								},
+								{
+									"x": 905,
+									"y": 245,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1559,
+									"y": 227,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 223,
+									"y": 273,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 605,
+									"y": 253,
+									"h": 183,
+									"w": 183
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 413,
+									"y": 80,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 300,
+									"y": 81,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 517,
+									"y": 75,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 74,
+									"y": 90,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 201,
+									"y": 84,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 2372,
+									"y": 464,
+									"h": 331,
+									"w": 331
+								},
+								{
+									"x": 1725,
+									"y": 468,
+									"h": 365,
+									"w": 365
+								},
+								{
+									"x": 2970,
+									"y": 434,
+									"h": 358,
+									"w": 358
+								},
+								{
+									"x": 426,
+									"y": 521,
+									"h": 358,
+									"w": 358
+								},
+								{
+									"x": 1154,
+									"y": 483,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 729,
+									"y": 142,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 530,
+									"y": 144,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 913,
+									"y": 133,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 131,
+									"y": 160,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 355,
+									"y": 148,
+									"h": 107,
+									"w": 107
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18936,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#어벤걸스 스페셜 방송 다시듣기 가 온에어중입니다🧡 다섯 소녀들의 첫만남💕 🥺 지금 바로 네이버앱에서 만나요~! #러블리즈 #지애 #여자친구 #은하 #오마이걸 #효정 #에이프릴 #나은 #우주소녀 #다영 #AVENGIRLS #NOW온에어\n.\nhttps://t.co/cNfH6XQAEV https://t.co/CCY35AjdQg"
+	},
+	{
 		"created_at": "Fri Jan 03 08:58:26 +0000 2020",
 		"id": 1213021122175930400,
 		"id_str": "1213021791435862016",
