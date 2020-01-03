@@ -1,6 +1,1415 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 05:58:34 +0000 2020",
+		"id": 1212973201975730200,
+		"id_str": "1212976525064179713",
+		"full_text": "#지오디 #점심어택 \n2020년에도 우리의 고민은 계속됩니다😎\n이거 할까말까? 저거 살까말까? 거기 갈까말까?\n참견만렙자🤦🏻 데니 호영 호스트가 대신 선택해드린대요^^ 문자 #7117 (정보이용료 100원) #NOW온에어 #god #참견하게해줘요제발 https://t.co/Sc9oWB0nfu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지오디",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "참견하게해줘요제발",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212973179032883200,
+					"id_str": "1212973179032883200",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVYrgJU0AAHHos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVYrgJU0AAHHos.jpg",
+					"url": "https://t.co/Sc9oWB0nfu",
+					"display_url": "pic.twitter.com/Sc9oWB0nfu",
+					"expanded_url": "https://twitter.com/kr_now/status/1212973201975730176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1324,
+									"y": 456,
+									"h": 196,
+									"w": 196
+								},
+								{
+									"x": 538,
+									"y": 456,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 151,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 178,
+									"y": 151,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1324,
+									"y": 456,
+									"h": 196,
+									"w": 196
+								},
+								{
+									"x": 538,
+									"y": 456,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 775,
+									"y": 267,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 315,
+									"y": 267,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212973179032883200,
+					"id_str": "1212973179032883200",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVYrgJU0AAHHos.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVYrgJU0AAHHos.jpg",
+					"url": "https://t.co/Sc9oWB0nfu",
+					"display_url": "pic.twitter.com/Sc9oWB0nfu",
+					"expanded_url": "https://twitter.com/kr_now/status/1212973201975730176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1324,
+									"y": 456,
+									"h": 196,
+									"w": 196
+								},
+								{
+									"x": 538,
+									"y": 456,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 439,
+									"y": 151,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 178,
+									"y": 151,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1324,
+									"y": 456,
+									"h": 196,
+									"w": 196
+								},
+								{
+									"x": 538,
+									"y": 456,
+									"h": 272,
+									"w": 272
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 775,
+									"y": 267,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 315,
+									"y": 267,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18926,
+			"friends_count": 0,
+			"listed_count": 41,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지오디 #점심어택 \n2020년에도 우리의 고민은 계속됩니다😎\n이거 할까말까? 저거 살까말까? 거기 갈까말까?\n참견만렙자🤦🏻 데니 호영 호스트가 대신 선택해드린대요^^ 문자 #7117 (정보이용료 100원) #NOW온에어 #god #참견하게해줘요제발 https://t.co/Sc9oWB0nfu"
+	},
+	{
+		"created_at": "Fri Jan 03 05:58:28 +0000 2020",
+		"id": 1212965029097562000,
+		"id_str": "1212976499285999616",
+		"full_text": "✔️예매 전 반드시 각 예매처 및 공식 홈페이지의 안내사항을 확인하시길 바랍니다.\n✔️블라인드 티켓 마감 이후 1/20 월요일에는 슈퍼얼리버드티켓이 오픈됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212962080829034500,
+		"in_reply_to_status_id_str": "1212962080829034497",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12376,
+			"friends_count": 166,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️예매 전 반드시 각 예매처 및 공식 홈페이지의 안내사항을 확인하시길 바랍니다.\n✔️블라인드 티켓 마감 이후 1/20 월요일에는 슈퍼얼리버드티켓이 오픈됩니다."
+	},
+	{
+		"created_at": "Fri Jan 03 05:58:19 +0000 2020",
+		"id": 1212963751957106700,
+		"id_str": "1212976465257672705",
+		"full_text": "#캐스퍼라디오 #MONDAY #NEWDJ \n새롭게 합류하는 월요일 디제이는 누구?🤫\n👉1월 13일 월요일 9PM 첫방송\n⠀\n캐스퍼라디오는 매일 밤 생방송으로 진행되며, 네이버 V-Live 캐스퍼라디오 채널에서 보실 수 있습니다🥳\n⠀\n#누구일까요 #맞혀보세요 #청개구리 https://t.co/EdbJkFsGRW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "MONDAY",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "NEWDJ",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "누구일까요",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "맞혀보세요",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "청개구리",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212963688333770800,
+					"id_str": "1212963688333770754",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212963688333770754/pu/img/VEHku5kUYCXzDnN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212963688333770754/pu/img/VEHku5kUYCXzDnN8.jpg",
+					"url": "https://t.co/EdbJkFsGRW",
+					"display_url": "pic.twitter.com/EdbJkFsGRW",
+					"expanded_url": "https://twitter.com/casperradio_/status/1212963751957106689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212963688333770800,
+					"id_str": "1212963688333770754",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212963688333770754/pu/img/VEHku5kUYCXzDnN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212963688333770754/pu/img/VEHku5kUYCXzDnN8.jpg",
+					"url": "https://t.co/EdbJkFsGRW",
+					"display_url": "pic.twitter.com/EdbJkFsGRW",
+					"expanded_url": "https://twitter.com/casperradio_/status/1212963751957106689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21688,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1212963688333770754/pu/pl/8eDp4SiRgGpcp20O.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212963688333770754/pu/vid/480x480/O0oA72_pgmDYgP68.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212963688333770754/pu/vid/320x320/LEw7P9arU7RMj-id.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1212963688333770754/pu/vid/720x720/H3Io8GZ4JYp5_NUg.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1471,
+			"friends_count": 7,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#캐스퍼라디오 #MONDAY #NEWDJ \n새롭게 합류하는 월요일 디제이는 누구?🤫\n👉1월 13일 월요일 9PM 첫방송\n⠀\n캐스퍼라디오는 매일 밤 생방송으로 진행되며, 네이버 V-Live 캐스퍼라디오 채널에서 보실 수 있습니다🥳\n⠀\n#누구일까요 #맞혀보세요 #청개구리 https://t.co/EdbJkFsGRW"
+	},
+	{
+		"created_at": "Fri Jan 03 05:58:14 +0000 2020",
+		"id": 1212962080829034500,
+		"id_str": "1212976443799621634",
+		"full_text": "[블라인드 티켓 OPEN]\n\n'그린플러그드 서울 2020' 그린랜드로 가는 첫 번째 티켓, 블라인드티켓 예매가 오픈되었습니다! 블라인드가 전체 티켓 중 가장 할인율이 높다는건 알고 계시죠? (~˘▾˘)~ \n\n-\n양일권 99,000원 (1인 4매)\n\n티켓링크 https://t.co/mNnkFTPNxe\n네이버예약 https://t.co/vkrqYXzj92 https://t.co/xkxamnUcqO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNnkFTPNxe",
+					"expanded_url": "https://bit.ly/37yGz8R",
+					"display_url": "bit.ly/37yGz8R",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/vkrqYXzj92",
+					"expanded_url": "https://bit.ly/35eZ0xy",
+					"display_url": "bit.ly/35eZ0xy",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212962070389383200,
+					"id_str": "1212962070389383168",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVOk5OU4AAf9kp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVOk5OU4AAf9kp.jpg",
+					"url": "https://t.co/xkxamnUcqO",
+					"display_url": "pic.twitter.com/xkxamnUcqO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1212962080829034497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1095,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212962070389383200,
+					"id_str": "1212962070389383168",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVOk5OU4AAf9kp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVOk5OU4AAf9kp.jpg",
+					"url": "https://t.co/xkxamnUcqO",
+					"display_url": "pic.twitter.com/xkxamnUcqO",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1212962080829034497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1095,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1095,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12376,
+			"friends_count": 166,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[블라인드 티켓 OPEN]\n\n'그린플러그드 서울 2020' 그린랜드로 가는 첫 번째 티켓, 블라인드티켓 예매가 오픈되었습니다! 블라인드가 전체 티켓 중 가장 할인율이 높다는건 알고 계시죠? (~˘▾˘)~ \n\n-\n양일권 99,000원 (1인 4매)\n\n티켓링크 https://t.co/mNnkFTPNxe\n네이버예약 https://t.co/vkrqYXzj92 https://t.co/xkxamnUcqO"
+	},
+	{
+		"created_at": "Fri Jan 03 05:29:39 +0000 2020",
+		"id": 1212968405151543300,
+		"id_str": "1212969246990458881",
+		"full_text": "공연 소식과 함께, 네이버 스토어에 신문수 밴드의 싱글 “거리‘, 쓸쓸스의 “속죄의 원양어선”과 컴필레이션 앨범 “나는 나를 사랑해”가 입고되었습니다. 😆\n\nhttps://t.co/VZW2dEizmB\n\n#불가마싸운드 #네이버스토어 #신문수밴드 #쓸쓸스 https://t.co/APKrmJerrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "불가마싸운드",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "네이버스토어",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "신문수밴드",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "쓸쓸스",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VZW2dEizmB",
+					"expanded_url": "https://bit.ly/37w8aHK",
+					"display_url": "bit.ly/37w8aHK",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212968392958677000,
+					"id_str": "1212968392958676993",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVUU6oUEAErLI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVUU6oUEAErLI0.jpg",
+					"url": "https://t.co/APKrmJerrN",
+					"display_url": "pic.twitter.com/APKrmJerrN",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1212968405151543301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1312,
+							"h": 1312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212968392958677000,
+					"id_str": "1212968392958676993",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVUU6oUEAErLI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVUU6oUEAErLI0.jpg",
+					"url": "https://t.co/APKrmJerrN",
+					"display_url": "pic.twitter.com/APKrmJerrN",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1212968405151543301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1312,
+							"h": 1312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연 소식과 함께, 네이버 스토어에 신문수 밴드의 싱글 “거리‘, 쓸쓸스의 “속죄의 원양어선”과 컴필레이션 앨범 “나는 나를 사랑해”가 입고되었습니다. 😆\n\nhttps://t.co/VZW2dEizmB\n\n#불가마싸운드 #네이버스토어 #신문수밴드 #쓸쓸스 https://t.co/APKrmJerrN"
+	},
+	{
+		"created_at": "Fri Jan 03 05:29:33 +0000 2020",
+		"id": 1212967757525815300,
+		"id_str": "1212969225549209601",
+		"full_text": "어제는 안성진님의 나홀로 나다, 오늘은 불가마의 고독한 늑대 “쓸쓸스”의 네스트 나다 첫 풀 밴드 공연이 있습니다. 많이 찾아주세요! 오늘을 위해 쓸쓸스의 리더 인디킹님은 또 의상을 구입했다고 합니다.\n\n#쓸쓸스 #네스트나다 #양준일 #불가마싸운드 https://t.co/TcgUxAbAyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쓸쓸스",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "네스트나다",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "양준일",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "불가마싸운드",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212967739372929000,
+					"id_str": "1212967739372929025",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVTu31VAAE-Wsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVTu31VAAE-Wsa.jpg",
+					"url": "https://t.co/TcgUxAbAyy",
+					"display_url": "pic.twitter.com/TcgUxAbAyy",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1212967757525815296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 515,
+									"y": 374,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212967739372929000,
+					"id_str": "1212967739372929025",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVTu31VAAE-Wsa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVTu31VAAE-Wsa.jpg",
+					"url": "https://t.co/TcgUxAbAyy",
+					"display_url": "pic.twitter.com/TcgUxAbAyy",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1212967757525815296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 515,
+									"y": 374,
+									"h": 33,
+									"w": 33
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 441,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제는 안성진님의 나홀로 나다, 오늘은 불가마의 고독한 늑대 “쓸쓸스”의 네스트 나다 첫 풀 밴드 공연이 있습니다. 많이 찾아주세요! 오늘을 위해 쓸쓸스의 리더 인디킹님은 또 의상을 구입했다고 합니다.\n\n#쓸쓸스 #네스트나다 #양준일 #불가마싸운드 https://t.co/TcgUxAbAyy"
+	},
+	{
 		"created_at": "Fri Jan 03 04:41:48 +0000 2020",
 		"id": 1212948923117002800,
 		"id_str": "1212957208239099905",
