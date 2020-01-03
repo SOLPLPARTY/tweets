@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 04:41:48 +0000 2020",
+		"id": 1212948923117002800,
+		"id_str": "1212957208239099905",
+		"full_text": "&lt;이글루베이 단독 공연&gt;\n💫 일시: 1/11(토) 8PM\n💫 장소: 생기 스튜디오\n💫 티켓가: 예매 25,000원 / 현매 30,000원 \n💫 예매방법 : [신한 110-293-222720 장민하] 로 입금 후 공식 계정 DM 혹은 메일 주소(igloobayofficial@gmail.com)로 입금자명/인원 보내기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212948917702185000,
+		"in_reply_to_status_id_str": "1212948917702184960",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 2723,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;이글루베이 단독 공연&gt;\n💫 일시: 1/11(토) 8PM\n💫 장소: 생기 스튜디오\n💫 티켓가: 예매 25,000원 / 현매 30,000원 \n💫 예매방법 : [신한 110-293-222720 장민하] 로 입금 후 공식 계정 DM 혹은 메일 주소(igloobayofficial@gmail.com)로 입금자명/인원 보내기"
+	},
+	{
+		"created_at": "Fri Jan 03 04:41:43 +0000 2020",
+		"id": 1212948917702185000,
+		"id_str": "1212957186667798528",
+		"full_text": "[#씬디블로그 : 이 주의 추천공연 + 인터뷰 + 이벤트]\n\n씬디가 추천한 &lt;이글루베이 단독 공연&gt;이 네이버 뮤직판에 업로드되었는데요😆\n신규 EP 앨범에 관한 인터뷰와 공연 초대권, 앨범 증정 이벤트도 진행하고 있으니 많은 참여와 관심 부탁드립니다 ꈍ◡ꈍ\n\n👀 구경하기 : https://t.co/qmNqXs3rkH https://t.co/LGObIPHwVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디블로그",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qmNqXs3rkH",
+					"expanded_url": "http://reurl.kr/66600F9DL",
+					"display_url": "reurl.kr/66600F9DL",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212948883459854300,
+					"id_str": "1212948883459854337",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVClUFU0AEDrMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVClUFU0AEDrMH.jpg",
+					"url": "https://t.co/LGObIPHwVb",
+					"display_url": "pic.twitter.com/LGObIPHwVb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1212948917702184960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 685,
+							"h": 772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 685,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 603,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 538,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212948883459854300,
+					"id_str": "1212948883459854337",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVClUFU0AEDrMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVClUFU0AEDrMH.jpg",
+					"url": "https://t.co/LGObIPHwVb",
+					"display_url": "pic.twitter.com/LGObIPHwVb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1212948917702184960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 685,
+							"h": 772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 685,
+							"h": 772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 603,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 612,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 538,
+									"h": 48,
+									"w": 48
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212948883464061000,
+					"id_str": "1212948883464060928",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVClUGVAAAZCs6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVClUGVAAAZCs6.jpg",
+					"url": "https://t.co/LGObIPHwVb",
+					"display_url": "pic.twitter.com/LGObIPHwVb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1212948917702184960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 583,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 413,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 583,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212948883459866600,
+					"id_str": "1212948883459866627",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENVClUFVAAMBpgG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENVClUFVAAMBpgG.jpg",
+					"url": "https://t.co/LGObIPHwVb",
+					"display_url": "pic.twitter.com/LGObIPHwVb",
+					"expanded_url": "https://twitter.com/xindieticket/status/1212948917702184960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 2723,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디블로그 : 이 주의 추천공연 + 인터뷰 + 이벤트]\n\n씬디가 추천한 &lt;이글루베이 단독 공연&gt;이 네이버 뮤직판에 업로드되었는데요😆\n신규 EP 앨범에 관한 인터뷰와 공연 초대권, 앨범 증정 이벤트도 진행하고 있으니 많은 참여와 관심 부탁드립니다 ꈍ◡ꈍ\n\n👀 구경하기 : https://t.co/qmNqXs3rkH https://t.co/LGObIPHwVb"
+	},
+	{
+		"created_at": "Fri Jan 03 04:41:38 +0000 2020",
+		"id": 1212943525949534200,
+		"id_str": "1212957165192912896",
+		"full_text": "1/11(sat) [clubFF - Born to run]\n브로큰발렌타인 Broken valentine\n뉴클리어이디엇츠 Nuclear idiots\n크랙샷 Crackshot\n데디오레디오 Daddy o Radio\n꼬리물기 Gorymurgy\n\nstart 9:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/WqwQ2NGp2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212943515421835300,
+					"id_str": "1212943515421835265",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU9s2lVAAEU8lx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU9s2lVAAEU8lx.jpg",
+					"url": "https://t.co/WqwQ2NGp2d",
+					"display_url": "pic.twitter.com/WqwQ2NGp2d",
+					"expanded_url": "https://twitter.com/clubFF_/status/1212943525949534208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 369,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 132,
+									"y": 41,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 633,
+									"y": 345,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 197,
+									"y": 213,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 342,
+									"y": 199,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 70,
+									"y": 455,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212943515421835300,
+					"id_str": "1212943515421835265",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU9s2lVAAEU8lx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU9s2lVAAEU8lx.jpg",
+					"url": "https://t.co/WqwQ2NGp2d",
+					"display_url": "pic.twitter.com/WqwQ2NGp2d",
+					"expanded_url": "https://twitter.com/clubFF_/status/1212943525949534208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 369,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 132,
+									"y": 41,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 633,
+									"y": 345,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 197,
+									"y": 213,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 342,
+									"y": 199,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 70,
+									"y": 455,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 474,
+									"y": 522,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 187,
+									"y": 58,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 895,
+									"y": 488,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 279,
+									"y": 302,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 484,
+									"y": 281,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 100,
+									"y": 643,
+									"h": 136,
+									"w": 136
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212943515430244400,
+					"id_str": "1212943515430244352",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ENU9s2nVUAAdsEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENU9s2nVUAAdsEg.jpg",
+					"url": "https://t.co/WqwQ2NGp2d",
+					"display_url": "pic.twitter.com/WqwQ2NGp2d",
+					"expanded_url": "https://twitter.com/clubFF_/status/1212943525949534208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 588,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 104,
+									"y": 648,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 588,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 104,
+									"y": 648,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 588,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 104,
+									"y": 648,
+									"h": 129,
+									"w": 129
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 416,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 73,
+									"y": 459,
+									"h": 91,
+									"w": 91
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6674,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1/11(sat) [clubFF - Born to run]\n브로큰발렌타인 Broken valentine\n뉴클리어이디엇츠 Nuclear idiots\n크랙샷 Crackshot\n데디오레디오 Daddy o Radio\n꼬리물기 Gorymurgy\n\nstart 9:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/WqwQ2NGp2d"
+	},
+	{
+		"created_at": "Fri Jan 03 04:29:29 +0000 2020",
+		"id": 1212942615630377000,
+		"id_str": "1212954105720791040",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/KzVDcTt3Hy\n-\n[Listen here]\nMelon - https://t.co/K7Y2pUHmYN\nGenie - https://t.co/zxqVDbz1V5\nBugs - https://t.co/6uZz1W5R8v\nVibe - https://t.co/JymDglQmyg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KzVDcTt3Hy",
+					"expanded_url": "https://bit.ly/2QHi9mI",
+					"display_url": "bit.ly/2QHi9mI",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/K7Y2pUHmYN",
+					"expanded_url": "https://bit.ly/37GkIwj",
+					"display_url": "bit.ly/37GkIwj",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/zxqVDbz1V5",
+					"expanded_url": "https://bit.ly/2SMKryI",
+					"display_url": "bit.ly/2SMKryI",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/6uZz1W5R8v",
+					"expanded_url": "https://bit.ly/2QgTSVo",
+					"display_url": "bit.ly/2QgTSVo",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/JymDglQmyg",
+					"expanded_url": "https://bit.ly/2u9mAPn",
+					"display_url": "bit.ly/2u9mAPn",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212942612123934700,
+		"in_reply_to_status_id_str": "1212942612123934723",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9775,
+			"friends_count": 2985,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/KzVDcTt3Hy\n-\n[Listen here]\nMelon - https://t.co/K7Y2pUHmYN\nGenie - https://t.co/zxqVDbz1V5\nBugs - https://t.co/6uZz1W5R8v\nVibe - https://t.co/JymDglQmyg"
+	},
+	{
 		"created_at": "Fri Jan 03 03:41:38 +0000 2020",
 		"id": 1212937664376131600,
 		"id_str": "1212942064377356288",
