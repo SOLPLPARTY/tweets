@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 17:29:25 +0000 2020",
+		"id": 1213141962292809700,
+		"id_str": "1213150382572134400",
+		"full_text": "@angelfix12 죄송합니다...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "angelfix12",
+					"name": "신문수밴드/MSB",
+					"id": 997383199373254700,
+					"id_str": "997383199373254656",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213140097157058600,
+		"in_reply_to_status_id_str": "1213140097157058561",
+		"in_reply_to_user_id": 997383199373254700,
+		"in_reply_to_user_id_str": "997383199373254656",
+		"in_reply_to_screen_name": "angelfix12",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@angelfix12 죄송합니다..."
+	},
+	{
 		"created_at": "Fri Jan 03 12:59:33 +0000 2020",
 		"id": 1213082468372353000,
 		"id_str": "1213082468372353025",
