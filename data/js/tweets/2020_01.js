@@ -1,10 +1,498 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 11:58:14 +0000 2020",
+		"id": 1213065032495296500,
+		"id_str": "1213067040950538246",
+		"full_text": "잠시 후 9시, #들려주고싶어서 #1TEAM 편이 온에어 됩니다. #지코 의 #사람 부터 #원팀 의 #MakeThis 까지 다섯 멤버 각자의 취향과 매력이 담긴 플레이리스트로 📀🎧 여러분을 찾아옵니다. 바로 지금!!! 네이버앱에서 만나요🥰#NOW온에어 https://t.co/rcRv2OAbKA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "1TEAM",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "사람",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "원팀",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "MakeThis",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213065030138126300,
+					"id_str": "1213065030138126341",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWsN8LU4AU-5ZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWsN8LU4AU-5ZH.jpg",
+					"url": "https://t.co/rcRv2OAbKA",
+					"display_url": "pic.twitter.com/rcRv2OAbKA",
+					"expanded_url": "https://twitter.com/kr_now/status/1213065032495296513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 249,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 281,
+									"y": 313,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213065030138126300,
+					"id_str": "1213065030138126341",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ENWsN8LU4AU-5ZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENWsN8LU4AU-5ZH.jpg",
+					"url": "https://t.co/rcRv2OAbKA",
+					"display_url": "pic.twitter.com/rcRv2OAbKA",
+					"expanded_url": "https://twitter.com/kr_now/status/1213065032495296513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 396,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 447,
+									"y": 498,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 39,
+									"y": 249,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 281,
+									"y": 313,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18973,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 9시, #들려주고싶어서 #1TEAM 편이 온에어 됩니다. #지코 의 #사람 부터 #원팀 의 #MakeThis 까지 다섯 멤버 각자의 취향과 매력이 담긴 플레이리스트로 📀🎧 여러분을 찾아옵니다. 바로 지금!!! 네이버앱에서 만나요🥰#NOW온에어 https://t.co/rcRv2OAbKA"
+	},
+	{
+		"created_at": "Fri Jan 03 11:29:28 +0000 2020",
+		"id": 1213058552211763200,
+		"id_str": "1213059801858691072",
+		"full_text": "사실은 무서운거예요\n같은 시간에 인터넷을 하는 수많은 사람들이\n같은 것을 보고, 같은 것을 듣고, 같은 생각을 한다..\n그게 자연스러운 거라면 당연한 거지만\n누군가의 이익을 위해 억지로 만들어지는 거라면?!\n#검색어 #차트 #순위 #조작 \n#그것이알고싶다 https://t.co/1wzEqHcvul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검색어",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "차트",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "순위",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "조작",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "그것이알고싶다",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1wzEqHcvul",
+					"expanded_url": "https://www.facebook.com/100001296753647/posts/2582849411768259/",
+					"display_url": "facebook.com/10000129675364…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 367,
+			"listed_count": 34,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 14786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실은 무서운거예요\n같은 시간에 인터넷을 하는 수많은 사람들이\n같은 것을 보고, 같은 것을 듣고, 같은 생각을 한다..\n그게 자연스러운 거라면 당연한 거지만\n누군가의 이익을 위해 억지로 만들어지는 거라면?!\n#검색어 #차트 #순위 #조작 \n#그것이알고싶다 https://t.co/1wzEqHcvul"
+	},
+	{
 		"created_at": "Fri Jan 03 10:58:38 +0000 2020",
 		"id": 1213041857116045300,
 		"id_str": "1213052040034881537",
-		"full_text": "@WJSN_Cosmic 💙금요일은 나은💙 금요일엔 #에이프릴 의 #나은 이와 함께해요. 원래 친구 사이엔 비밀 없는거 아시죠🙅‍♀️? 여러분의 비밀친구, 여러분의 이야기 다~ 들어주는 나은이 만나러 금요일 밤 10시 네이버앱으로 놀러오세요🐥🍍 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/3yGQvRBMjz",
+		"full_text": "@WJSN_Cosmic 💙금요일은 나은💙 금요일엔 #에이프릴 의 #나은 이와 함께해요. 원래 친구 사이엔 비밀 없는거 아시죠🙅♀️? 여러분의 비밀친구, 여러분의 이야기 다~ 들어주는 나은이 만나러 금요일 밤 10시 네이버앱으로 놀러오세요🐥🍍 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/3yGQvRBMjz",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -315,7 +803,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -370,13 +858,13 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "@WJSN_Cosmic 💙금요일은 나은💙 금요일엔 #에이프릴 의 #나은 이와 함께해요. 원래 친구 사이엔 비밀 없는거 아시죠🙅‍♀️? 여러분의 비밀친구, 여러분의 이야기 다~ 들어주는 나은이 만나러 금요일 밤 10시 네이버앱으로 놀러오세요🐥🍍 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/3yGQvRBMjz"
+		"text": "@WJSN_Cosmic 💙금요일은 나은💙 금요일엔 #에이프릴 의 #나은 이와 함께해요. 원래 친구 사이엔 비밀 없는거 아시죠🙅♀️? 여러분의 비밀친구, 여러분의 이야기 다~ 들어주는 나은이 만나러 금요일 밤 10시 네이버앱으로 놀러오세요🐥🍍 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/3yGQvRBMjz"
 	},
 	{
 		"created_at": "Fri Jan 03 10:58:36 +0000 2020",
 		"id": 1213040409653334000,
 		"id_str": "1213052031117733890",
-		"full_text": "💚목요일엔 다영💚 목요일! 스트레스도 피로도 가~장 많이 쌓인 날이죠? 그래서 #우주소녀 #다영 이🐹 준비했습니다. 같이 노래도 듣고🎧, 이야기도 하면서 스트레스를 날려보아요!💥🤾‍♂️ 목요일 10시 네이버앱에서 만나요! #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/lmALjURB0k",
+		"full_text": "💚목요일엔 다영💚 목요일! 스트레스도 피로도 가~장 많이 쌓인 날이죠? 그래서 #우주소녀 #다영 이🐹 준비했습니다. 같이 노래도 듣고🎧, 이야기도 하면서 스트레스를 날려보아요!💥🤾♂️ 목요일 10시 네이버앱에서 만나요! #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/lmALjURB0k",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -778,7 +1266,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -833,7 +1321,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "💚목요일엔 다영💚 목요일! 스트레스도 피로도 가~장 많이 쌓인 날이죠? 그래서 #우주소녀 #다영 이🐹 준비했습니다. 같이 노래도 듣고🎧, 이야기도 하면서 스트레스를 날려보아요!💥🤾‍♂️ 목요일 10시 네이버앱에서 만나요! #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/lmALjURB0k"
+		"text": "💚목요일엔 다영💚 목요일! 스트레스도 피로도 가~장 많이 쌓인 날이죠? 그래서 #우주소녀 #다영 이🐹 준비했습니다. 같이 노래도 듣고🎧, 이야기도 하면서 스트레스를 날려보아요!💥🤾♂️ 목요일 10시 네이버앱에서 만나요! #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/lmALjURB0k"
 	},
 	{
 		"created_at": "Fri Jan 03 10:58:32 +0000 2020",
@@ -1169,7 +1657,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1446,7 +1934,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1507,7 +1995,7 @@ Grailbird.data.tweets_2020_01 =
 		"created_at": "Fri Jan 03 10:58:20 +0000 2020",
 		"id": 1213040315180806100,
 		"id_str": "1213051966693289984",
-		"full_text": "❤️월요일엔 효정이❤️  #오마이걸 의 #효정 이  일주일 힘차게🏋️‍♀️  보내시라고 위로도 드리고, 응원도🙌 드립니다! 월요일 오후 10시 네이버앱에서 만나요🐰 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/8rpqweqv02",
+		"full_text": "❤️월요일엔 효정이❤️  #오마이걸 의 #효정 이  일주일 힘차게🏋️♀️  보내시라고 위로도 드리고, 응원도🙌 드립니다! 월요일 오후 10시 네이버앱에서 만나요🐰 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/8rpqweqv02",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1831,7 +2319,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1886,7 +2374,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "❤️월요일엔 효정이❤️  #오마이걸 의 #효정 이  일주일 힘차게🏋️‍♀️  보내시라고 위로도 드리고, 응원도🙌 드립니다! 월요일 오후 10시 네이버앱에서 만나요🐰 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/8rpqweqv02"
+		"text": "❤️월요일엔 효정이❤️  #오마이걸 의 #효정 이  일주일 힘차게🏋️♀️  보내시라고 위로도 드리고, 응원도🙌 드립니다! 월요일 오후 10시 네이버앱에서 만나요🐰 #어벤걸스 #첫방은_1월13일 #NOW온에어 https://t.co/8rpqweqv02"
 	},
 	{
 		"created_at": "Fri Jan 03 10:58:14 +0000 2020",
