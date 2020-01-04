@@ -1,6 +1,1649 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 10:41:44 +0000 2020",
+		"id": 1213382939347579000,
+		"id_str": "1213410174393815040",
+		"full_text": "[JUST THING]\n\n부슬부슬 겨울비가 내리는 아침, 아스팔트 위에서 잠 못들고 계신 수달 선생님을 모시고 왔습니다. 깨끗이 목욕재계 하고 조기축구 모임에라도 나가야 하는지 고민 중이십니다. https://t.co/nIxU8D2mcC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213382922889121800,
+					"id_str": "1213382922889121792",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ENbNVu9U0AAGtwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENbNVu9U0AAGtwA.jpg",
+					"url": "https://t.co/nIxU8D2mcC",
+					"display_url": "pic.twitter.com/nIxU8D2mcC",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213382939347578882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213382922889121800,
+					"id_str": "1213382922889121792",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ENbNVu9U0AAGtwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENbNVu9U0AAGtwA.jpg",
+					"url": "https://t.co/nIxU8D2mcC",
+					"display_url": "pic.twitter.com/nIxU8D2mcC",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213382939347578882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213382922893324300,
+					"id_str": "1213382922893324288",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ENbNVu-U8AAl810.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENbNVu-U8AAl810.jpg",
+					"url": "https://t.co/nIxU8D2mcC",
+					"display_url": "pic.twitter.com/nIxU8D2mcC",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213382939347578882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213382922893267000,
+					"id_str": "1213382922893266944",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ENbNVu-UEAArE64.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENbNVu-UEAArE64.jpg",
+					"url": "https://t.co/nIxU8D2mcC",
+					"display_url": "pic.twitter.com/nIxU8D2mcC",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213382939347578882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1006,
+									"y": 38,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 700,
+									"y": 1292,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 904,
+									"y": 580,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 589,
+									"y": 22,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 410,
+									"y": 757,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 529,
+									"y": 339,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1006,
+									"y": 38,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 700,
+									"y": 1292,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 904,
+									"y": 580,
+									"h": 256,
+									"w": 256
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 12,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 232,
+									"y": 428,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 300,
+									"y": 192,
+									"h": 85,
+									"w": 85
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109,
+			"friends_count": 468,
+			"listed_count": 1,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[JUST THING]\n\n부슬부슬 겨울비가 내리는 아침, 아스팔트 위에서 잠 못들고 계신 수달 선생님을 모시고 왔습니다. 깨끗이 목욕재계 하고 조기축구 모임에라도 나가야 하는지 고민 중이십니다. https://t.co/nIxU8D2mcC"
+	},
+	{
+		"created_at": "Sat Jan 04 10:41:39 +0000 2020",
+		"id": 1213345034931589000,
+		"id_str": "1213410152889622529",
+		"full_text": "여유있는 주말을 위해 토요일은 5시에 오픈하고 있습니다.\n\nhttps://t.co/5tM6Bv0hVP https://t.co/dke4JxdTn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5tM6Bv0hVP",
+					"expanded_url": "http://kuchu-camp.net/xe/page_cafe",
+					"display_url": "kuchu-camp.net/xe/page_cafe",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213345028178755600,
+					"id_str": "1213345028178755584",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ENaq3-KUwAAx-q4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENaq3-KUwAAx-q4.jpg",
+					"url": "https://t.co/dke4JxdTn4",
+					"display_url": "pic.twitter.com/dke4JxdTn4",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213345034931589121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1065,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 1065,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 368,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213345028178755600,
+					"id_str": "1213345028178755584",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/ENaq3-KUwAAx-q4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENaq3-KUwAAx-q4.jpg",
+					"url": "https://t.co/dke4JxdTn4",
+					"display_url": "pic.twitter.com/dke4JxdTn4",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1213345034931589121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1065,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 1065,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 368,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 577,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109,
+			"friends_count": 468,
+			"listed_count": 1,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여유있는 주말을 위해 토요일은 5시에 오픈하고 있습니다.\n\nhttps://t.co/5tM6Bv0hVP https://t.co/dke4JxdTn4"
+	},
+	{
+		"created_at": "Sat Jan 04 10:40:36 +0000 2020",
+		"id": 1213287748410495000,
+		"id_str": "1213409891550777346",
+		"full_text": "안녕하세요, 6년 만에 한국 공연을 합니다. 들려드리고 싶은 곡이 많지만 이번엔 캣삼이라는 이름으로 노래를 부릅니다.\nhttps://t.co/KAycAxi4K2\nhttps://t.co/AriWtAJDlL https://t.co/rbxpUN0Wu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KAycAxi4K2",
+					"expanded_url": "https://soundcloud.com/sima-kim",
+					"display_url": "soundcloud.com/sima-kim",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/AriWtAJDlL",
+					"expanded_url": "https://instagram.com/catpsalm",
+					"display_url": "instagram.com/catpsalm",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213287734632169500,
+					"id_str": "1213287734632169472",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZ2xDEWwAACCVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZ2xDEWwAACCVu.jpg",
+					"url": "https://t.co/rbxpUN0Wu3",
+					"display_url": "pic.twitter.com/rbxpUN0Wu3",
+					"expanded_url": "https://twitter.com/catpsalm/status/1213287748410494977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213287734632169500,
+					"id_str": "1213287734632169472",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZ2xDEWwAACCVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZ2xDEWwAACCVu.jpg",
+					"url": "https://t.co/rbxpUN0Wu3",
+					"display_url": "pic.twitter.com/rbxpUN0Wu3",
+					"expanded_url": "https://twitter.com/catpsalm/status/1213287748410494977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1094001220031836200,
+			"id_str": "1094001220031836160",
+			"name": "Fée⭐",
+			"screen_name": "catpsalm",
+			"location": "Catican City",
+			"description": "",
+			"url": "https://t.co/pK6vrmyr7j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pK6vrmyr7j",
+							"expanded_url": "http://soundcloud.com/sima-kim",
+							"display_url": "soundcloud.com/sima-kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 139,
+			"listed_count": 1,
+			"created_at": "Fri Feb 08 22:33:11 +0000 2019",
+			"favourites_count": 17246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212883243357396993/4L6az8bU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212883243357396993/4L6az8bU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1094001220031836160/1569800327",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요, 6년 만에 한국 공연을 합니다. 들려드리고 싶은 곡이 많지만 이번엔 캣삼이라는 이름으로 노래를 부릅니다.\nhttps://t.co/KAycAxi4K2\nhttps://t.co/AriWtAJDlL https://t.co/rbxpUN0Wu3"
+	},
+	{
+		"created_at": "Sat Jan 04 10:27:22 +0000 2020",
+		"id": 1213269488071635000,
+		"id_str": "1213406558010261504",
+		"full_text": "클로드 모네의 최고 걸작으로 잘 알려진 &lt;수련 연못, 1907&gt;을 만나볼 수 있는 &lt;모네에서 세잔까지: 예루살렘 이스라엘 박물관 인상파와 후기 인상파 걸작&gt;展에도 많은 관심 부탁드립니다🎨\n\n올해도 예술의전당과 함께 한 해를 즐겁게 시작해보세요💛 https://t.co/8bzmaVd2Pv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213269465808269300,
+					"id_str": "1213269465808269312",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmJqZUcAARfQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmJqZUcAARfQd.jpg",
+					"url": "https://t.co/8bzmaVd2Pv",
+					"display_url": "pic.twitter.com/8bzmaVd2Pv",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269488071634944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 277,
+									"y": 199,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213269465808269300,
+					"id_str": "1213269465808269312",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmJqZUcAARfQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmJqZUcAARfQd.jpg",
+					"url": "https://t.co/8bzmaVd2Pv",
+					"display_url": "pic.twitter.com/8bzmaVd2Pv",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269488071634944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 317,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 277,
+									"y": 199,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213269465799880700,
+					"id_str": "1213269465799880705",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmJqXUcAEJuzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmJqXUcAEJuzb.jpg",
+					"url": "https://t.co/8bzmaVd2Pv",
+					"display_url": "pic.twitter.com/8bzmaVd2Pv",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269488071634944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 574,
+									"y": 555,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 720,
+									"y": 429,
+									"h": 316,
+									"w": 316
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 574,
+									"y": 555,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 720,
+									"y": 429,
+									"h": 316,
+									"w": 316
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 574,
+									"y": 555,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 720,
+									"y": 429,
+									"h": 316,
+									"w": 316
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 349,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 453,
+									"y": 270,
+									"h": 198,
+									"w": 198
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213269465808294000,
+					"id_str": "1213269465808293889",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmJqZU0AE9m4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmJqZU0AE9m4H.jpg",
+					"url": "https://t.co/8bzmaVd2Pv",
+					"display_url": "pic.twitter.com/8bzmaVd2Pv",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269488071634944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213269465820848000,
+					"id_str": "1213269465820848128",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmJqcUYAAb1-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmJqcUYAAb1-s.jpg",
+					"url": "https://t.co/8bzmaVd2Pv",
+					"display_url": "pic.twitter.com/8bzmaVd2Pv",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269488071634944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213269462025064400,
+		"in_reply_to_status_id_str": "1213269462025064448",
+		"in_reply_to_user_id": 221266876,
+		"in_reply_to_user_id_str": "221266876",
+		"in_reply_to_screen_name": "I_Love_SAC",
+		"user": {
+			"id": 221266876,
+			"id_str": "221266876",
+			"name": "예술의전당",
+			"screen_name": "I_Love_SAC",
+			"location": "",
+			"description": "1년 365일 공연과 전시가 끊이지 않는 국내 최대 최고 복합문화예술기관 예술의전당 공식 트위터입니다.",
+			"url": "https://t.co/SkFLaKOQ2K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SkFLaKOQ2K",
+							"expanded_url": "http://www.sac.or.kr",
+							"display_url": "sac.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98677,
+			"friends_count": 66,
+			"listed_count": 672,
+			"created_at": "Tue Nov 30 05:33:35 +0000 2010",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221266876/1559612228",
+			"profile_link_color": "5C9BB0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4A0000",
+			"profile_text_color": "F4F6F7",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클로드 모네의 최고 걸작으로 잘 알려진 &lt;수련 연못, 1907&gt;을 만나볼 수 있는 &lt;모네에서 세잔까지: 예루살렘 이스라엘 박물관 인상파와 후기 인상파 걸작&gt;展에도 많은 관심 부탁드립니다🎨\n\n올해도 예술의전당과 함께 한 해를 즐겁게 시작해보세요💛 https://t.co/8bzmaVd2Pv"
+	},
+	{
+		"created_at": "Sat Jan 04 10:27:13 +0000 2020",
+		"id": 1213269462025064400,
+		"id_str": "1213406521096228864",
+		"full_text": "2020년 1월 예술의전당 주요 공연전시 일정을 소개합니다🎉\n\n한해를 처음 시작하는 달!📆\n마음을 따뜻하게 해주는 연극 &lt;여자만세2&gt;를 비롯해\n화려한 무대와 볼거리로 우리를 기다리는 뮤지컬 &lt;웃는 남자&gt;, &lt;빅 피쉬&gt; 등 멋진 공연들이 여러분을 기다리고 있습니다😊 https://t.co/j9LN59GjIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213269443968520200,
+					"id_str": "1213269443968520192",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmIZCUUAA-qrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmIZCUUAA-qrF.jpg",
+					"url": "https://t.co/j9LN59GjIw",
+					"display_url": "pic.twitter.com/j9LN59GjIw",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269462025064448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 524,
+									"y": 464,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 299,
+									"y": 587,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213269443968520200,
+					"id_str": "1213269443968520192",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZmIZCUUAA-qrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZmIZCUUAA-qrF.jpg",
+					"url": "https://t.co/j9LN59GjIw",
+					"display_url": "pic.twitter.com/j9LN59GjIw",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1213269462025064448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 833,
+									"y": 737,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 475,
+									"y": 933,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 524,
+									"y": 464,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 299,
+									"y": 587,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221266876,
+			"id_str": "221266876",
+			"name": "예술의전당",
+			"screen_name": "I_Love_SAC",
+			"location": "",
+			"description": "1년 365일 공연과 전시가 끊이지 않는 국내 최대 최고 복합문화예술기관 예술의전당 공식 트위터입니다.",
+			"url": "https://t.co/SkFLaKOQ2K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SkFLaKOQ2K",
+							"expanded_url": "http://www.sac.or.kr",
+							"display_url": "sac.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98677,
+			"friends_count": 66,
+			"listed_count": 672,
+			"created_at": "Tue Nov 30 05:33:35 +0000 2010",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221266876/1559612228",
+			"profile_link_color": "5C9BB0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4A0000",
+			"profile_text_color": "F4F6F7",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020년 1월 예술의전당 주요 공연전시 일정을 소개합니다🎉\n\n한해를 처음 시작하는 달!📆\n마음을 따뜻하게 해주는 연극 &lt;여자만세2&gt;를 비롯해\n화려한 무대와 볼거리로 우리를 기다리는 뮤지컬 &lt;웃는 남자&gt;, &lt;빅 피쉬&gt; 등 멋진 공연들이 여러분을 기다리고 있습니다😊 https://t.co/j9LN59GjIw"
+	},
+	{
 		"created_at": "Sat Jan 04 09:22:39 +0000 2020",
 		"id": 1213289335035818000,
 		"id_str": "1213390273872461824",
