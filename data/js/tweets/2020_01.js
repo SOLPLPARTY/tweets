@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 23:41:38 +0000 2020",
+		"id": 1213243608712638500,
+		"id_str": "1213244054437343234",
+		"full_text": "오늘(1/4,토) 새해의포크 '여유와설빈-천용성-황푸하-정밀아' 공연 현매 가능합니다. 예매는 오후 2시까지 열려있습니다.\n\n예매 : https://t.co/o7KzgFBTHO\n\n천용성(w 단편선,정수민), 여유와 설빈 듀오, 황푸하 트리오, 정밀아 솔로 등 다채로운 편성으로 펼쳐집니다. 입장 5시반, 공연6시. https://t.co/50RJ335rR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7KzgFBTHO",
+					"expanded_url": "https://c11.kr/bvzg",
+					"display_url": "c11.kr/bvzg",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213243597744533500,
+					"id_str": "1213243597744533504",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZOn8WUcAABErP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZOn8WUcAABErP.jpg",
+					"url": "https://t.co/50RJ335rR0",
+					"display_url": "pic.twitter.com/50RJ335rR0",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1213243608712638464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213243597744533500,
+					"id_str": "1213243597744533504",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZOn8WUcAABErP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZOn8WUcAABErP.jpg",
+					"url": "https://t.co/50RJ335rR0",
+					"display_url": "pic.twitter.com/50RJ335rR0",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1213243608712638464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1189,
+							"h": 1681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9093,
+			"friends_count": 149,
+			"listed_count": 161,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘(1/4,토) 새해의포크 '여유와설빈-천용성-황푸하-정밀아' 공연 현매 가능합니다. 예매는 오후 2시까지 열려있습니다.\n\n예매 : https://t.co/o7KzgFBTHO\n\n천용성(w 단편선,정수민), 여유와 설빈 듀오, 황푸하 트리오, 정밀아 솔로 등 다채로운 편성으로 펼쳐집니다. 입장 5시반, 공연6시. https://t.co/50RJ335rR0"
+	},
+	{
 		"created_at": "Fri Jan 03 17:29:25 +0000 2020",
 		"id": 1213141962292809700,
 		"id_str": "1213150382572134400",
