@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 03:01:13 +0000 2020",
+		"id": 1213294280699240400,
+		"id_str": "1213294280699240450",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Jan 4) https://t.co/YEioUeYZ1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YEioUeYZ1O",
+					"expanded_url": "https://nzzl.us/4sHnrzh",
+					"display_url": "nzzl.us/4sHnrzh",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 343,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Jan 4) https://t.co/YEioUeYZ1O"
+	},
+	{
+		"created_at": "Sat Jan 04 02:58:19 +0000 2020",
+		"id": 1213290142800076800,
+		"id_str": "1213293551599132672",
+		"full_text": "31년간 헤비메탈 길을 걸어온 '블랙홀'🏴\n2019년, 9집 &lt;EVOLUTION&gt;을 발표하며 또 한 번의 진화를 증명했습니다 👏\n\n '듣기 편한 헤비메탈'을 선보이기 위해\n특히 신경썼다는 블랙홀의 9집 ❗️\nEBS 스페이스 공감에서 확인해보세요👀\n\n[선공개 영상] 블랙홀 - LOG IN https://t.co/yUYEiW7Nc6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUYEiW7Nc6",
+					"expanded_url": "https://youtu.be/Xfrl-qLLRRE",
+					"display_url": "youtu.be/Xfrl-qLLRRE",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271678,
+			"friends_count": 20132,
+			"listed_count": 819,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "31년간 헤비메탈 길을 걸어온 '블랙홀'🏴\n2019년, 9집 &lt;EVOLUTION&gt;을 발표하며 또 한 번의 진화를 증명했습니다 👏\n\n '듣기 편한 헤비메탈'을 선보이기 위해\n특히 신경썼다는 블랙홀의 9집 ❗️\nEBS 스페이스 공감에서 확인해보세요👀\n\n[선공개 영상] 블랙홀 - LOG IN https://t.co/yUYEiW7Nc6"
+	},
+	{
+		"created_at": "Sat Jan 04 02:58:15 +0000 2020",
+		"id": 1213289093091582000,
+		"id_str": "1213293534289289217",
+		"full_text": "대한민국 헤비메탈의 기적 '블랙홀'🎆\n\n때로는 강렬한 카타르시스를, \n때로는 따뜻한 위로를 선사해주었던\n블랙홀의 노래들〰️\n특히 이 곡을 빼놓을 수 없겠죠💽\n\n#1월10일 #금요일밤11시35분 #EBS1tv\n\n[선공개 영상] 블랙홀 - 내 곁에 네 아픔이 https://t.co/Cjkfmy72nF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1월10일",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "금요일밤11시35분",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"text": "EBS1tv",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cjkfmy72nF",
+					"expanded_url": "https://youtu.be/gf-9k8eZoNI",
+					"display_url": "youtu.be/gf-9k8eZoNI",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 금요일 밤 11시 35분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271678,
+			"friends_count": 20132,
+			"listed_count": 819,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203169815956881408/6dSYizwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대한민국 헤비메탈의 기적 '블랙홀'🎆\n\n때로는 강렬한 카타르시스를, \n때로는 따뜻한 위로를 선사해주었던\n블랙홀의 노래들〰️\n특히 이 곡을 빼놓을 수 없겠죠💽\n\n#1월10일 #금요일밤11시35분 #EBS1tv\n\n[선공개 영상] 블랙홀 - 내 곁에 네 아픔이 https://t.co/Cjkfmy72nF"
+	},
+	{
+		"created_at": "Sat Jan 04 02:29:33 +0000 2020",
+		"id": 1213280672925679600,
+		"id_str": "1213286315124543488",
+		"full_text": "리허설 현장입니다. https://t.co/MtE70jmc7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213280660565020700,
+					"id_str": "1213280660565020673",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZwVSHUUAEXfk2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZwVSHUUAEXfk2.jpg",
+					"url": "https://t.co/MtE70jmc7P",
+					"display_url": "pic.twitter.com/MtE70jmc7P",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1213280672925679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1022,
+									"y": 52,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1022,
+									"y": 52,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 30,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 339,
+									"y": 17,
+									"h": 26,
+									"w": 26
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213280660565020700,
+					"id_str": "1213280660565020673",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZwVSHUUAEXfk2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZwVSHUUAEXfk2.jpg",
+					"url": "https://t.co/MtE70jmc7P",
+					"display_url": "pic.twitter.com/MtE70jmc7P",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1213280672925679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1022,
+									"y": 52,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1022,
+									"y": 52,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 598,
+									"y": 30,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 339,
+									"y": 17,
+									"h": 26,
+									"w": 26
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1213280660573454300,
+					"id_str": "1213280660573454337",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZwVSJVAAEhX9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZwVSJVAAEhX9q.jpg",
+					"url": "https://t.co/MtE70jmc7P",
+					"display_url": "pic.twitter.com/MtE70jmc7P",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1213280672925679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 1258,
+									"h": 366,
+									"w": 366
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 1258,
+									"h": 366,
+									"w": 366
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 417,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 173,
+									"y": 737,
+									"h": 214,
+									"w": 214
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 387,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리허설 현장입니다. https://t.co/MtE70jmc7P"
+	},
+	{
 		"created_at": "Fri Jan 03 23:41:38 +0000 2020",
 		"id": 1213243608712638500,
 		"id_str": "1213244054437343234",
