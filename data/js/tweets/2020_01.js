@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 05:58:15 +0000 2020",
+		"id": 1213337872549331000,
+		"id_str": "1213338832579547141",
+		"full_text": "주말 몰아듣기 하면서 빅공지 나갑니다😎\n1/10 금요일! #지오디 #점심어택 100회 날인 거 아세요!? 미리 축하 문자 보내고! 사행시도 보내고! 소개된 후기도 웰컴✨ ‘왜 나는 소개 안 해줘요?’ 밀린 항의도 받아요^^; 문자 #7117 (정보이용료 100원) #NOW온에어 #호그라화이팅❤️ https://t.co/gUV960UxW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지오디",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "호그라화이팅",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213337863166673000,
+					"id_str": "1213337863166672896",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENakW6aUwAAgHih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENakW6aUwAAgHih.jpg",
+					"url": "https://t.co/gUV960UxW7",
+					"display_url": "pic.twitter.com/gUV960UxW7",
+					"expanded_url": "https://twitter.com/kr_now/status/1213337872549330944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213337863166673000,
+					"id_str": "1213337863166672896",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ENakW6aUwAAgHih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENakW6aUwAAgHih.jpg",
+					"url": "https://t.co/gUV960UxW7",
+					"display_url": "pic.twitter.com/gUV960UxW7",
+					"expanded_url": "https://twitter.com/kr_now/status/1213337872549330944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1570,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19029,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주말 몰아듣기 하면서 빅공지 나갑니다😎\n1/10 금요일! #지오디 #점심어택 100회 날인 거 아세요!? 미리 축하 문자 보내고! 사행시도 보내고! 소개된 후기도 웰컴✨ ‘왜 나는 소개 안 해줘요?’ 밀린 항의도 받아요^^; 문자 #7117 (정보이용료 100원) #NOW온에어 #호그라화이팅❤️ https://t.co/gUV960UxW7"
+	},
+	{
+		"created_at": "Sat Jan 04 05:41:38 +0000 2020",
+		"id": 1213330981584695300,
+		"id_str": "1213334651382751232",
+		"full_text": "[공연 시각 변경 안내]\n\n금일 오후 5시부터 진행되는 RTA 2019의 공연 프로그램의 일정이 일부 조정되었습니다.\n\n다이애나 밴드는 7시에서 7시 10분으로, Team TRIAD는 7시 30분에서 8시로 공연 시작 시간이 변경되었습니다. \n\n관객분들께 양해 말씀 드립니다. https://t.co/8rNjSn0bDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213330973632295000,
+					"id_str": "1213330973632294913",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ENaeF45U8AEw6ig.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENaeF45U8AEw6ig.png",
+					"url": "https://t.co/8rNjSn0bDU",
+					"display_url": "pic.twitter.com/8rNjSn0bDU",
+					"expanded_url": "https://twitter.com/ujeongguk/status/1213330981584695297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213330973632295000,
+					"id_str": "1213330973632294913",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ENaeF45U8AEw6ig.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENaeF45U8AEw6ig.png",
+					"url": "https://t.co/8rNjSn0bDU",
+					"display_url": "pic.twitter.com/8rNjSn0bDU",
+					"expanded_url": "https://twitter.com/ujeongguk/status/1213330981584695297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213330973636432000,
+					"id_str": "1213330973636431872",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/ENaeF46UEAAYyj8.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENaeF46UEAAYyj8.png",
+					"url": "https://t.co/8rNjSn0bDU",
+					"display_url": "pic.twitter.com/8rNjSn0bDU",
+					"expanded_url": "https://twitter.com/ujeongguk/status/1213330981584695297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3196228226,
+			"id_str": "3196228226",
+			"name": "탈영역우정국",
+			"screen_name": "ujeongguk",
+			"location": "마포구 독막로20길 42",
+			"description": "탈영역우정국 Post Territory UJEONGGUK",
+			"url": "https://t.co/6kN85O9Yf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kN85O9Yf7",
+							"expanded_url": "http://www.ujeongguk.com",
+							"display_url": "ujeongguk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5902,
+			"friends_count": 302,
+			"listed_count": 39,
+			"created_at": "Fri May 15 11:23:36 +0000 2015",
+			"favourites_count": 1171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920123700468256773/d1xMq9tC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920123700468256773/d1xMq9tC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3196228226/1508210330",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연 시각 변경 안내]\n\n금일 오후 5시부터 진행되는 RTA 2019의 공연 프로그램의 일정이 일부 조정되었습니다.\n\n다이애나 밴드는 7시에서 7시 10분으로, Team TRIAD는 7시 30분에서 8시로 공연 시작 시간이 변경되었습니다. \n\n관객분들께 양해 말씀 드립니다. https://t.co/8rNjSn0bDU"
+	},
+	{
 		"created_at": "Sat Jan 04 04:29:25 +0000 2020",
 		"id": 1213310241355419600,
 		"id_str": "1213316477501218816",
