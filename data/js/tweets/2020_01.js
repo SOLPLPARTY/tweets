@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 15:29:43 +0000 2020",
+		"id": 1213482222583287800,
+		"id_str": "1213482648217276418",
+		"full_text": "@ilovef__ma 두 팀 모두 다른 사람의 노래(어머니 곡이라 해도..)를 부를 때도 멋지지만 자신들의 노래를 할 때 더욱 빛이 나는 밴드입니다. 꼭 들어봐주세요!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilovef__ma",
+					"name": "해알라🔬(인장이 귀엽다면 메인트!)",
+					"id": 1182996632490496000,
+					"id_str": "1182996632490496004",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213480993434128400,
+		"in_reply_to_status_id_str": "1213480993434128384",
+		"in_reply_to_user_id": 1182996632490496000,
+		"in_reply_to_user_id_str": "1182996632490496004",
+		"in_reply_to_screen_name": "ilovef__ma",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@ilovef__ma 두 팀 모두 다른 사람의 노래(어머니 곡이라 해도..)를 부를 때도 멋지지만 자신들의 노래를 할 때 더욱 빛이 나는 밴드입니다. 꼭 들어봐주세요!"
+	},
+	{
+		"created_at": "Sat Jan 04 15:29:38 +0000 2020",
+		"id": 1213477401952313300,
+		"id_str": "1213482625903611905",
+		"full_text": "TVN 좋은가요 1화 ‘오산키즈’ 원디비 다시보기 \n\nhttps://t.co/oa4fa81LD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oa4fa81LD8",
+					"expanded_url": "https://m.tv.naver.com/v/11750158",
+					"display_url": "m.tv.naver.com/v/11750158",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TVN 좋은가요 1화 ‘오산키즈’ 원디비 다시보기 \n\nhttps://t.co/oa4fa81LD8"
+	},
+	{
+		"created_at": "Sat Jan 04 15:29:30 +0000 2020",
+		"id": 1213477122351624200,
+		"id_str": "1213482596010790912",
+		"full_text": "1. 17 프리즘홀 Pick Your Flavor Vol.3\n1. 18 분당 에릭스펍 공연\n1. 21 MBC 충북 오후의 발견 출연\n1. 22 디지털 싱글 “Youth” 발매\n1. 31 신곡 발매 기념 쇼케이스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213477120430592000,
+		"in_reply_to_status_id_str": "1213477120430592000",
+		"in_reply_to_user_id": 1145007465907359700,
+		"in_reply_to_user_id_str": "1145007465907359744",
+		"in_reply_to_screen_name": "bullgamasound",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1. 17 프리즘홀 Pick Your Flavor Vol.3\n1. 18 분당 에릭스펍 공연\n1. 21 MBC 충북 오후의 발견 출연\n1. 22 디지털 싱글 “Youth” 발매\n1. 31 신곡 발매 기념 쇼케이스"
+	},
+	{
 		"created_at": "Sat Jan 04 12:29:24 +0000 2020",
 		"id": 1213431028481581000,
 		"id_str": "1213437271367733250",
