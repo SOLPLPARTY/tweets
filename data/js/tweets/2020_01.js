@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 09:22:39 +0000 2020",
+		"id": 1213289335035818000,
+		"id_str": "1213390273872461824",
+		"full_text": "2019 일본 투어에서 함께 연주했던 오오야 유스케가 한국에 옵니다. 오오야 유스케의 2020 한국 여행은 어떨까요? \n\n&lt;공중캠프 커뮤니티 20주년 기념 SNC.28&gt;\n  - 오오야 유스케(オオヤユウスケ)\n\n✔️예매 및 정보 https://t.co/hV7xMy3jLc https://t.co/TLTW2HIlju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hV7xMy3jLc",
+					"expanded_url": "http://kuchu-camp.net/xe/82227",
+					"display_url": "kuchu-camp.net/xe/82227",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213289326227808300,
+					"id_str": "1213289326227808256",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZ4NsOU4AAp1ES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZ4NsOU4AAp1ES.jpg",
+					"url": "https://t.co/TLTW2HIlju",
+					"display_url": "pic.twitter.com/TLTW2HIlju",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1213289335035817985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213289326227808300,
+					"id_str": "1213289326227808256",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZ4NsOU4AAp1ES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZ4NsOU4AAp1ES.jpg",
+					"url": "https://t.co/TLTW2HIlju",
+					"display_url": "pic.twitter.com/TLTW2HIlju",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1213289335035817985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213289326240338000,
+					"id_str": "1213289326240337920",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ENZ4NsRUEAAZRCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENZ4NsRUEAAZRCc.jpg",
+					"url": "https://t.co/TLTW2HIlju",
+					"display_url": "pic.twitter.com/TLTW2HIlju",
+					"expanded_url": "https://twitter.com/KwonNamoo/status/1213289335035817985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2572167788,
+			"id_str": "2572167788",
+			"name": "권나무 KwonTree",
+			"screen_name": "KwonNamoo",
+			"location": "",
+			"description": "3집 ‘새로운 날’ 발매되었습니다. (2019.1.1)",
+			"url": "https://t.co/7TbcbHFff2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7TbcbHFff2",
+							"expanded_url": "https://Instagram.com/kwontree_",
+							"display_url": "Instagram.com/kwontree_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1916,
+			"friends_count": 319,
+			"listed_count": 15,
+			"created_at": "Tue Jun 17 04:00:39 +0000 2014",
+			"favourites_count": 2099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093847483761872896/ty50qAM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572167788/1546317944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2019 일본 투어에서 함께 연주했던 오오야 유스케가 한국에 옵니다. 오오야 유스케의 2020 한국 여행은 어떨까요? \n\n&lt;공중캠프 커뮤니티 20주년 기념 SNC.28&gt;\n  - 오오야 유스케(オオヤユウスケ)\n\n✔️예매 및 정보 https://t.co/hV7xMy3jLc https://t.co/TLTW2HIlju"
+	},
+	{
+		"created_at": "Sat Jan 04 09:21:47 +0000 2020",
+		"id": 1213112825499000800,
+		"id_str": "1213390057127571456",
+		"full_text": "Due to circumstances outside our control, all upcoming performances of Come Through have been cancelled. These decisions are never taken lightly by the Bon Iver team; our deepest apologies to fans who’ll miss out on these performances. Bon Iver will be back to your area soon. 1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115512512,
+			"id_str": "115512512",
+			"name": "Bon Iver",
+			"screen_name": "boniver",
+			"location": "Eau Claire, WI",
+			"description": "i,i - out now\n#icommai",
+			"url": "https://t.co/8DHDYhUp7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8DHDYhUp7V",
+							"expanded_url": "http://boniver.org",
+							"display_url": "boniver.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754933,
+			"friends_count": 156,
+			"listed_count": 5211,
+			"created_at": "Thu Feb 18 22:31:29 +0000 2010",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159132647714631680/nviN0ZON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115512512/1574704917",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "990E17",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Due to circumstances outside our control, all upcoming performances of Come Through have been cancelled. These decisions are never taken lightly by the Bon Iver team; our deepest apologies to fans who’ll miss out on these performances. Bon Iver will be back to your area soon. 1/2"
+	},
+	{
 		"created_at": "Sat Jan 04 08:09:13 +0000 2020",
 		"id": 1213371794389909500,
 		"id_str": "1213371794389909504",
