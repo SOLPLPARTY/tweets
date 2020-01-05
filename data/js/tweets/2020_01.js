@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 03:58:20 +0000 2020",
+		"id": 1213663846784614400,
+		"id_str": "1213671042679549952",
+		"full_text": "📍자세한 사항은 홈페이지 &lt;알려드립니다&gt; 게시판을 참고해주세요!\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#우주히피 #향니 #9와숫자들 #불나방스타쏘세지클럽 #불쏘클 #cosmoshippie #hyangni #9andthenumbers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직_공개녹화",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "우주히피",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "향니",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "9와숫자들",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "불나방스타쏘세지클럽",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "불쏘클",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "cosmoshippie",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "hyangni",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "9andthenumbers",
+					"indices": [
+						126,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1213663779851919400,
+		"in_reply_to_status_id_str": "1213663779851919360",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3768,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍자세한 사항은 홈페이지 &lt;알려드립니다&gt; 게시판을 참고해주세요!\n⠀\n#올댓뮤직_공개녹화 #ALLTHATMUSIC\n#우주히피 #향니 #9와숫자들 #불나방스타쏘세지클럽 #불쏘클 #cosmoshippie #hyangni #9andthenumbers"
+	},
+	{
+		"created_at": "Sun Jan 05 03:58:15 +0000 2020",
+		"id": 1213663779851919400,
+		"id_str": "1213671021192105986",
+		"full_text": "#올댓뮤직 #공개녹화\n200108 수요일 19:00 @춘천KBS공개홀\n⠀\n오늘 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n📍신청기간: 19.12.23(월)오후 18시 - 20.01.05(일)오후 24시\n📍당첨자 발표: 20.01.06(월)오후 14시\n📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용 https://t.co/Ef5CmUpqOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213663769793949700,
+					"id_str": "1213663769793949701",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ENfMxLNUcAUZaod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENfMxLNUcAUZaod.jpg",
+					"url": "https://t.co/Ef5CmUpqOq",
+					"display_url": "pic.twitter.com/Ef5CmUpqOq",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1213663779851919360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 99,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 131,
+									"y": 338,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 113,
+									"y": 97,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213663769793949700,
+					"id_str": "1213663769793949701",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ENfMxLNUcAUZaod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENfMxLNUcAUZaod.jpg",
+					"url": "https://t.co/Ef5CmUpqOq",
+					"display_url": "pic.twitter.com/Ef5CmUpqOq",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1213663779851919360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 99,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 131,
+									"y": 338,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 113,
+									"y": 97,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 185,
+									"y": 123,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 163,
+									"y": 419,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 141,
+									"y": 121,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3768,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n200108 수요일 19:00 @춘천KBS공개홀\n⠀\n오늘 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n📍신청기간: 19.12.23(월)오후 18시 - 20.01.05(일)오후 24시\n📍당첨자 발표: 20.01.06(월)오후 14시\n📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용 https://t.co/Ef5CmUpqOq"
+	},
+	{
 		"created_at": "Sun Jan 05 03:00:43 +0000 2020",
 		"id": 1213656542446334000,
 		"id_str": "1213656542446333953",
