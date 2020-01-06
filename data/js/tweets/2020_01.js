@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 00:41:38 +0000 2020",
+		"id": 1213979856746139600,
+		"id_str": "1213983930409455616",
+		"full_text": "1/16(목) 벨로주 홍대.\n도마&amp;김일두+최고은+Dusky 80.\n\n도마&amp;김일두의 예측 불가 콜라보, 독보적 아티스트 최고은, 매력적인 프렌치 집시밴드 Dusky80 까지, 근사한 조합!\n\n예매 : https://t.co/KeRBwjqmTB\n\n* 예매 2만(70명 한정),현매 3만.\n* 모든 관객에게 1 프리드링크(맥주/생수) 제공. https://t.co/zs9sS341g3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KeRBwjqmTB",
+					"expanded_url": "https://c11.kr/c5z3",
+					"display_url": "c11.kr/c5z3",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213979844947501000,
+					"id_str": "1213979844947501058",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ENjsPK6UYAI6sNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENjsPK6UYAI6sNJ.jpg",
+					"url": "https://t.co/zs9sS341g3",
+					"display_url": "pic.twitter.com/zs9sS341g3",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1213979856746139654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 107,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 393,
+									"y": 669,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 253,
+									"y": 73,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 268,
+									"y": 457,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 41,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 152,
+									"y": 259,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 107,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 393,
+									"y": 669,
+									"h": 161,
+									"w": 161
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213979844947501000,
+					"id_str": "1213979844947501058",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ENjsPK6UYAI6sNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENjsPK6UYAI6sNJ.jpg",
+					"url": "https://t.co/zs9sS341g3",
+					"display_url": "pic.twitter.com/zs9sS341g3",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1213979856746139654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 107,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 393,
+									"y": 669,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 253,
+									"y": 73,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 268,
+									"y": 457,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 143,
+									"y": 41,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 152,
+									"y": 259,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 107,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 393,
+									"y": 669,
+									"h": 161,
+									"w": 161
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9096,
+			"friends_count": 149,
+			"listed_count": 161,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1/16(목) 벨로주 홍대.\n도마&amp;김일두+최고은+Dusky 80.\n\n도마&amp;김일두의 예측 불가 콜라보, 독보적 아티스트 최고은, 매력적인 프렌치 집시밴드 Dusky80 까지, 근사한 조합!\n\n예매 : https://t.co/KeRBwjqmTB\n\n* 예매 2만(70명 한정),현매 3만.\n* 모든 관객에게 1 프리드링크(맥주/생수) 제공. https://t.co/zs9sS341g3"
+	},
+	{
 		"created_at": "Sun Jan 05 15:58:14 +0000 2020",
 		"id": 1213837667701411800,
 		"id_str": "1213852214302773248",
@@ -142,7 +459,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
