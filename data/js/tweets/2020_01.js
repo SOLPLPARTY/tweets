@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 05:58:14 +0000 2020",
+		"id": 1214051300779806700,
+		"id_str": "1214063607136313345",
+		"full_text": "#올댓뮤직 #공개녹화\n200108 수요일 19:00 @춘천KBS공개홀\n⠀\n@hyangni_official 의 인사영상이 도착했습니다😎\n⠀\n방청 당첨자분들에게는 문자발송 완료!\n아쉽게 방청 신청 기회를 놓치신 분들은 현장입장으로 만나요🙂\n⠀\n📍티켓교환: 저녁 6시10분~ (선착순)\n📍입장시간: 저녁 6시30분~ https://t.co/HqatcVfcyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214051195871842300,
+					"id_str": "1214051195871842304",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214051195871842304/pu/img/cl0Wvu6ymHeVhb6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214051195871842304/pu/img/cl0Wvu6ymHeVhb6r.jpg",
+					"url": "https://t.co/HqatcVfcyw",
+					"display_url": "pic.twitter.com/HqatcVfcyw",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1214051300779806721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214051195871842300,
+					"id_str": "1214051195871842304",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214051195871842304/pu/img/cl0Wvu6ymHeVhb6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214051195871842304/pu/img/cl0Wvu6ymHeVhb6r.jpg",
+					"url": "https://t.co/HqatcVfcyw",
+					"display_url": "pic.twitter.com/HqatcVfcyw",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1214051300779806721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29392,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214051195871842304/pu/vid/640x360/dvnOEhggTwQW-BQN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1214051195871842304/pu/pl/Ao1jUZ1SaSp0MfWr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214051195871842304/pu/vid/480x270/SMhXqyXVRQTgsNQS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214051195871842304/pu/vid/1280x720/rrBOOZyUIJ4cZQNz.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n200108 수요일 19:00 @춘천KBS공개홀\n⠀\n@hyangni_official 의 인사영상이 도착했습니다😎\n⠀\n방청 당첨자분들에게는 문자발송 완료!\n아쉽게 방청 신청 기회를 놓치신 분들은 현장입장으로 만나요🙂\n⠀\n📍티켓교환: 저녁 6시10분~ (선착순)\n📍입장시간: 저녁 6시30분~ https://t.co/HqatcVfcyw"
+	},
+	{
 		"created_at": "Mon Jan 06 04:41:38 +0000 2020",
 		"id": 1214039630523187200,
 		"id_str": "1214044326730326018",
