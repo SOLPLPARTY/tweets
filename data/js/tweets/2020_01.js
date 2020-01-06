@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 11:58:21 +0000 2020",
+		"id": 1214147185706537000,
+		"id_str": "1214154231051149312",
+		"full_text": "작년에 왔던 김호구가 약속대로 돌아왔습니다 🥰❤️ #잼언니 #잼누나 김해나와 함께 하는 #호구가체질 정.규.방.송 🔥🔥🔥 오늘부터 매일 밤 11시반에 찾아갑니다 💃 #NOW온에어 https://t.co/Ndy7r4kOLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잼언니",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "잼누나",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "호구가체질",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214147183055761400,
+					"id_str": "1214147183055761408",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ENmEbh8UcAAWpFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENmEbh8UcAAWpFw.jpg",
+					"url": "https://t.co/Ndy7r4kOLc",
+					"display_url": "pic.twitter.com/Ndy7r4kOLc",
+					"expanded_url": "https://twitter.com/kr_now/status/1214147185706536960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214147183055761400,
+					"id_str": "1214147183055761408",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ENmEbh8UcAAWpFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENmEbh8UcAAWpFw.jpg",
+					"url": "https://t.co/Ndy7r4kOLc",
+					"display_url": "pic.twitter.com/Ndy7r4kOLc",
+					"expanded_url": "https://twitter.com/kr_now/status/1214147185706536960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19143,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작년에 왔던 김호구가 약속대로 돌아왔습니다 🥰❤️ #잼언니 #잼누나 김해나와 함께 하는 #호구가체질 정.규.방.송 🔥🔥🔥 오늘부터 매일 밤 11시반에 찾아갑니다 💃 #NOW온에어 https://t.co/Ndy7r4kOLc"
+	},
+	{
 		"created_at": "Mon Jan 06 10:58:25 +0000 2020",
 		"id": 1214126925242761200,
 		"id_str": "1214139148795338752",
@@ -492,7 +712,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
