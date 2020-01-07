@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 05:29:24 +0000 2020",
+		"id": 1214411437948293000,
+		"id_str": "1214418738906324992",
+		"full_text": "[#mystic_contents] #음악당 #이벤트\n'음악당' 15회 이벤트 당첨자 발표!\n\n🔸인스타그램\n@hahyeoneee 님\n@grace__jee 님\n\n🔸트위터\n@tlstnqls0117 (민쩡)님\n@zkwmgk1 (루야로야)님\n\n🔸페이스북\nLim Kim 님 (https://t.co/k7ug3uM8eR)\n\n🎵 당첨자 분께는 메시지/쪽지 통해 개별로 연락드릴 예정입니다. https://t.co/U1yzfEAMF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mystic_contents",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "음악당",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						24,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tlstnqls0117",
+					"name": "민쩡",
+					"id": 443627734,
+					"id_str": "443627734",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "zkwmgk1",
+					"name": "루야로야",
+					"id": 1049216776830050300,
+					"id_str": "1049216776830050304",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k7ug3uM8eR",
+					"expanded_url": "http://facebook.com/100008103991151",
+					"display_url": "facebook.com/100008103991151",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214411428364312600,
+					"id_str": "1214411428364312576",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/ENp0wobUYAAPmGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENp0wobUYAAPmGi.jpg",
+					"url": "https://t.co/U1yzfEAMF6",
+					"display_url": "pic.twitter.com/U1yzfEAMF6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1214411437948293120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 794,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1362,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 980,
+									"y": 832,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 634,
+									"y": 696,
+									"h": 352,
+									"w": 352
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 794,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1362,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 980,
+									"y": 832,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 634,
+									"y": 696,
+									"h": 352,
+									"w": 352
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 108,
+									"y": 263,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 452,
+									"y": 132,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 325,
+									"y": 276,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 210,
+									"y": 231,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 192,
+									"y": 465,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 798,
+									"y": 234,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 574,
+									"y": 487,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 371,
+									"y": 407,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214411428364312600,
+					"id_str": "1214411428364312576",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/ENp0wobUYAAPmGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENp0wobUYAAPmGi.jpg",
+					"url": "https://t.co/U1yzfEAMF6",
+					"display_url": "pic.twitter.com/U1yzfEAMF6",
+					"expanded_url": "https://twitter.com/themysticstory/status/1214411437948293120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 794,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1362,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 980,
+									"y": 832,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 634,
+									"y": 696,
+									"h": 352,
+									"w": 352
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 794,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1362,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 980,
+									"y": 832,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 634,
+									"y": 696,
+									"h": 352,
+									"w": 352
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 108,
+									"y": 263,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 452,
+									"y": 132,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 325,
+									"y": 276,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 210,
+									"y": 231,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 192,
+									"y": 465,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 798,
+									"y": 234,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 574,
+									"y": 487,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 371,
+									"y": 407,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "미스틱엔터테인먼트의 새 이름, 미스틱스토리 Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17898,
+			"friends_count": 16,
+			"listed_count": 252,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#mystic_contents] #음악당 #이벤트\n'음악당' 15회 이벤트 당첨자 발표!\n\n🔸인스타그램\n@hahyeoneee 님\n@grace__jee 님\n\n🔸트위터\n@tlstnqls0117 (민쩡)님\n@zkwmgk1 (루야로야)님\n\n🔸페이스북\nLim Kim 님 (https://t.co/k7ug3uM8eR)\n\n🎵 당첨자 분께는 메시지/쪽지 통해 개별로 연락드릴 예정입니다. https://t.co/U1yzfEAMF6"
+	},
+	{
 		"created_at": "Tue Jan 07 04:58:15 +0000 2020",
 		"id": 1214406289616334800,
 		"id_str": "1214410896325386241",
@@ -85,7 +542,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
