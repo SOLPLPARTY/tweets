@@ -1,6 +1,823 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 15:58:15 +0000 2020",
+		"id": 1214575106531324000,
+		"id_str": "1214576991464243200",
+		"full_text": "#NOW온에어 1월 8일(수) 오늘의 타임테이블📌\n*편성 시간 수정하여 재업로드합니다. https://t.co/1WYN1PktVW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOW온에어",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214575097274486800,
+					"id_str": "1214575097274486784",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsJnaoU0AAJcPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsJnaoU0AAJcPW.jpg",
+					"url": "https://t.co/1WYN1PktVW",
+					"display_url": "pic.twitter.com/1WYN1PktVW",
+					"expanded_url": "https://twitter.com/kr_now/status/1214575106531323904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 27,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214575097274486800,
+					"id_str": "1214575097274486784",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsJnaoU0AAJcPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsJnaoU0AAJcPW.jpg",
+					"url": "https://t.co/1WYN1PktVW",
+					"display_url": "pic.twitter.com/1WYN1PktVW",
+					"expanded_url": "https://twitter.com/kr_now/status/1214575106531323904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 27,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 778,
+									"y": 44,
+									"h": 82,
+									"w": 82
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19215,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NOW온에어 1월 8일(수) 오늘의 타임테이블📌\n*편성 시간 수정하여 재업로드합니다. https://t.co/1WYN1PktVW"
+	},
+	{
+		"created_at": "Tue Jan 07 15:41:38 +0000 2020",
+		"id": 1214558118916456400,
+		"id_str": "1214572810485608449",
+		"full_text": "2020 1/18(토)  퀸 내한기념! -Queen After Club “떼창” Party !!\n@클럽FF\n11:59pm - 6am\nSpecial Queen Tribute Live : 호아\n\nQueen “Sing-Along” &amp; Dance Party DJ : Eddie\n\nCover : 5000 won\n(Special Event : 퀸 내한공연 티켓을 입구에서 보여줄시 시원한 드래프트 비어 한잔 드립니다!) https://t.co/Oi8dUXp1vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214558106685825000,
+					"id_str": "1214558106685825024",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr6KbwUYAApuf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr6KbwUYAApuf8.jpg",
+					"url": "https://t.co/Oi8dUXp1vf",
+					"display_url": "pic.twitter.com/Oi8dUXp1vf",
+					"expanded_url": "https://twitter.com/clubFF_/status/1214558118916456448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 849,
+									"y": 440,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 458,
+									"y": 769,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 556,
+									"y": 1197,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 431,
+									"y": 362,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 224,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 233,
+									"y": 392,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 283,
+									"y": 610,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 219,
+									"y": 184,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 849,
+									"y": 440,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 458,
+									"y": 769,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 556,
+									"y": 1197,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 431,
+									"y": 362,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 763,
+									"y": 395,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 691,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 499,
+									"y": 1076,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 387,
+									"y": 325,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214558106685825000,
+					"id_str": "1214558106685825024",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr6KbwUYAApuf8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr6KbwUYAApuf8.jpg",
+					"url": "https://t.co/Oi8dUXp1vf",
+					"display_url": "pic.twitter.com/Oi8dUXp1vf",
+					"expanded_url": "https://twitter.com/clubFF_/status/1214558118916456448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 849,
+									"y": 440,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 458,
+									"y": 769,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 556,
+									"y": 1197,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 431,
+									"y": 362,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 224,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 233,
+									"y": 392,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 283,
+									"y": 610,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 219,
+									"y": 184,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 849,
+									"y": 440,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 458,
+									"y": 769,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 556,
+									"y": 1197,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 431,
+									"y": 362,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 763,
+									"y": 395,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 411,
+									"y": 691,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 499,
+									"y": 1076,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 387,
+									"y": 325,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214558106664882200,
+					"id_str": "1214558106664882177",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr6KbrU0AEmwxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr6KbrU0AEmwxG.jpg",
+					"url": "https://t.co/Oi8dUXp1vf",
+					"display_url": "pic.twitter.com/Oi8dUXp1vf",
+					"expanded_url": "https://twitter.com/clubFF_/status/1214558118916456448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1628,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 1184,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1304,
+									"y": 680,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 656,
+									"y": 550,
+									"h": 252,
+									"w": 252
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 1184,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 1304,
+									"y": 680,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 656,
+									"y": 550,
+									"h": 252,
+									"w": 252
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 235,
+									"y": 393,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 433,
+									"y": 225,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 217,
+									"y": 182,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 693,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 764,
+									"y": 398,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 384,
+									"y": 322,
+									"h": 147,
+									"w": 147
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6669,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 1/18(토)  퀸 내한기념! -Queen After Club “떼창” Party !!\n@클럽FF\n11:59pm - 6am\nSpecial Queen Tribute Live : 호아\n\nQueen “Sing-Along” &amp; Dance Party DJ : Eddie\n\nCover : 5000 won\n(Special Event : 퀸 내한공연 티켓을 입구에서 보여줄시 시원한 드래프트 비어 한잔 드립니다!) https://t.co/Oi8dUXp1vf"
+	},
+	{
 		"created_at": "Tue Jan 07 14:58:15 +0000 2020",
 		"id": 1214549347662094300,
 		"id_str": "1214561894016507907",
@@ -281,7 +1098,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
