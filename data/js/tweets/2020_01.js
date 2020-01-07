@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 16:58:15 +0000 2020",
+		"id": 1214579561620328400,
+		"id_str": "1214592090836996097",
+		"full_text": "#십란한밤 132화 요약\n고피치 또 지각 / 메이크드라니! / 이지형 더 홈 / 지형이는... 정열이는.. 영배는.. / 데이브레이크 콘서트 / 이원석 전화연결 “나는 안취했어!”/ 스포왕 고영배, 퍼펙트데이 (또)스포 ... \n\n그리고 또 있나요..?🤔 https://t.co/ty39QI3pKf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214579552506146800,
+					"id_str": "1214579552506146817",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsNqvqU8AE8x6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsNqvqU8AE8x6D.jpg",
+					"url": "https://t.co/ty39QI3pKf",
+					"display_url": "pic.twitter.com/ty39QI3pKf",
+					"expanded_url": "https://twitter.com/casperradio_/status/1214579561620328448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 636,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 339,
+									"y": 152,
+									"h": 214,
+									"w": 214
+								},
+								{
+									"x": 27,
+									"y": 100,
+									"h": 284,
+									"w": 284
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214579552506146800,
+					"id_str": "1214579552506146817",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsNqvqU8AE8x6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsNqvqU8AE8x6D.jpg",
+					"url": "https://t.co/ty39QI3pKf",
+					"display_url": "pic.twitter.com/ty39QI3pKf",
+					"expanded_url": "https://twitter.com/casperradio_/status/1214579561620328448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 26,
+									"y": 636,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 339,
+									"y": 152,
+									"h": 214,
+									"w": 214
+								},
+								{
+									"x": 27,
+									"y": 100,
+									"h": 284,
+									"w": 284
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 958,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 510,
+									"y": 230,
+									"h": 323,
+									"w": 323
+								},
+								{
+									"x": 42,
+									"y": 151,
+									"h": 428,
+									"w": 428
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 9,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#십란한밤 132화 요약\n고피치 또 지각 / 메이크드라니! / 이지형 더 홈 / 지형이는... 정열이는.. 영배는.. / 데이브레이크 콘서트 / 이원석 전화연결 “나는 안취했어!”/ 스포왕 고영배, 퍼펙트데이 (또)스포 ... \n\n그리고 또 있나요..?🤔 https://t.co/ty39QI3pKf"
+	},
+	{
+		"created_at": "Tue Jan 07 16:29:37 +0000 2020",
+		"id": 1214576237831524400,
+		"id_str": "1214584884884332544",
+		"full_text": "@ryeoldong 웃어? 쓸쓸스가 웃겸마?! https://t.co/jFSVqcWF26",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryeoldong",
+					"name": "동렬",
+					"id": 1206617611137503200,
+					"id_str": "1206617611137503236",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214576227056402400,
+					"id_str": "1214576227056402432",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsKpLZUwAAXL0m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsKpLZUwAAXL0m.jpg",
+					"url": "https://t.co/jFSVqcWF26",
+					"display_url": "pic.twitter.com/jFSVqcWF26",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214576237831524357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 142,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 251,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214576227056402400,
+					"id_str": "1214576227056402432",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ENsKpLZUwAAXL0m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENsKpLZUwAAXL0m.jpg",
+					"url": "https://t.co/jFSVqcWF26",
+					"display_url": "pic.twitter.com/jFSVqcWF26",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214576237831524357/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 142,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 251,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 268,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214574916256727000,
+		"in_reply_to_status_id_str": "1214574916256727040",
+		"in_reply_to_user_id": 1206617611137503200,
+		"in_reply_to_user_id_str": "1206617611137503236",
+		"in_reply_to_screen_name": "ryeoldong",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@ryeoldong 웃어? 쓸쓸스가 웃겸마?! https://t.co/jFSVqcWF26"
+	},
+	{
+		"created_at": "Tue Jan 07 16:29:27 +0000 2020",
+		"id": 1214575758242267100,
+		"id_str": "1214584846598725632",
+		"full_text": "@nestNADA 어디에서 나오면...?\n네스타나다에서 나오면~~~!\n나춰러어어어엄!!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nestNADA",
+					"name": "nestNADA",
+					"id": 814959722,
+					"id_str": "814959722",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214573557805547500,
+		"in_reply_to_status_id_str": "1214573557805547520",
+		"in_reply_to_user_id": 814959722,
+		"in_reply_to_user_id_str": "814959722",
+		"in_reply_to_screen_name": "nestNADA",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 384,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nestNADA 어디에서 나오면...?\n네스타나다에서 나오면~~~!\n나춰러어어어엄!!!"
+	},
+	{
 		"created_at": "Tue Jan 07 15:58:15 +0000 2020",
 		"id": 1214575106531324000,
 		"id_str": "1214576991464243200",
@@ -198,7 +941,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
