@@ -1,6 +1,1322 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 10:58:14 +0000 2020",
+		"id": 1214489254857855000,
+		"id_str": "1214501493107281922",
+		"full_text": "#십란한밤 #캐스퍼라디오 \n캐스패치 단독 입수! 고영배, 지각에 대해 입열다! 충격실화!🙊\n👇\nhttps://t.co/JdndzDCjUk\n\n#권정열 #고영배 #10cm #소란",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "10cm",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "소란",
+					"indices": [
+						94,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JdndzDCjUk",
+					"expanded_url": "https://youtu.be/Jf1UQk7zRxQ",
+					"display_url": "youtu.be/Jf1UQk7zRxQ",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544,
+			"friends_count": 9,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#십란한밤 #캐스퍼라디오 \n캐스패치 단독 입수! 고영배, 지각에 대해 입열다! 충격실화!🙊\n👇\nhttps://t.co/JdndzDCjUk\n\n#권정열 #고영배 #10cm #소란"
+	},
+	{
+		"created_at": "Tue Jan 07 10:29:44 +0000 2020",
+		"id": 1214481406526537700,
+		"id_str": "1214494318582517760",
+		"full_text": "좋은가요 1회 베스트 유튜브 공개! 오산키즈 원디비와 닥터스의 김규목님의 소속팀 호아의 무대입니다. 다시 한 번 감상해보시죠! 😄😄\n\nhttps://t.co/8wG1KvTHyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8wG1KvTHyY",
+					"expanded_url": "https://www.youtube.com/watch?v=qwWzLJ2xX30",
+					"display_url": "youtube.com/watch?v=qwWzLJ…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "좋은가요 1회 베스트 유튜브 공개! 오산키즈 원디비와 닥터스의 김규목님의 소속팀 호아의 무대입니다. 다시 한 번 감상해보시죠! 😄😄\n\nhttps://t.co/8wG1KvTHyY"
+	},
+	{
+		"created_at": "Tue Jan 07 10:29:42 +0000 2020",
+		"id": 1214480823497289700,
+		"id_str": "1214494309589929984",
+		"full_text": "[#윤하]\n[네이버포스트📝]\n[윤하] 5th MINI ALBUM 'UNSTABLE MINDSET' 자켓 촬영 현장\n\n▶ https://t.co/AuexgEW4cg\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 https://t.co/ofR2Zl2pFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AuexgEW4cg",
+					"expanded_url": "http://naver.me/xOsWYqul",
+					"display_url": "naver.me/xOsWYqul",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214480811413524500,
+					"id_str": "1214480811413524481",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqz3QbU0AEhd5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqz3QbU0AEhd5K.jpg",
+					"url": "https://t.co/ofR2Zl2pFF",
+					"display_url": "pic.twitter.com/ofR2Zl2pFF",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214480823497289729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 945,
+									"y": 275,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 93,
+									"h": 135,
+									"w": 135
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 945,
+									"y": 275,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 567,
+									"y": 165,
+									"h": 238,
+									"w": 238
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214480811413524500,
+					"id_str": "1214480811413524481",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqz3QbU0AEhd5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqz3QbU0AEhd5K.jpg",
+					"url": "https://t.co/ofR2Zl2pFF",
+					"display_url": "pic.twitter.com/ofR2Zl2pFF",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214480823497289729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 945,
+									"y": 275,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 93,
+									"h": 135,
+									"w": 135
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 945,
+									"y": 275,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 567,
+									"y": 165,
+									"h": 238,
+									"w": 238
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139534,
+			"friends_count": 8,
+			"listed_count": 505,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[네이버포스트📝]\n[윤하] 5th MINI ALBUM 'UNSTABLE MINDSET' 자켓 촬영 현장\n\n▶ https://t.co/AuexgEW4cg\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 https://t.co/ofR2Zl2pFF"
+	},
+	{
+		"created_at": "Tue Jan 07 10:29:33 +0000 2020",
+		"id": 1214479714124890000,
+		"id_str": "1214494271312715776",
+		"full_text": "공연 안내\n\n2020.1.31 PM 8:00\n카페 언플러그드\n게스트 : 너드커넥션\n예매 : 20,000 / 현매 25,000\n⠀\n--\n⠀\n#좋은가요 #원디비 #오산키즈 #신곡 #불가마싸운드 #tvn #어우러기 #인디밴드 #카페언플러그드 #밴드 #홍대 https://t.co/l9rzeSbUUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "좋은가요",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "원디비",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "오산키즈",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "불가마싸운드",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "tvn",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "어우러기",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "인디밴드",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "카페언플러그드",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						136,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214479704570249200,
+					"id_str": "1214479704570249216",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqy21HUwAARLco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqy21HUwAARLco.jpg",
+					"url": "https://t.co/l9rzeSbUUy",
+					"display_url": "pic.twitter.com/l9rzeSbUUy",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214479714124890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 131,
+									"y": 599,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 222,
+									"y": 276,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 129,
+									"y": 281,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 368,
+									"y": 345,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 141,
+									"y": 414,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 1806,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 670,
+									"y": 832,
+									"h": 270,
+									"w": 270
+								},
+								{
+									"x": 390,
+									"y": 848,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 1110,
+									"y": 1040,
+									"h": 406,
+									"w": 406
+								},
+								{
+									"x": 426,
+									"y": 1248,
+									"h": 480,
+									"w": 480
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 232,
+									"y": 1058,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 392,
+									"y": 487,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 228,
+									"y": 496,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 650,
+									"y": 609,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 249,
+									"y": 731,
+									"h": 281,
+									"w": 281
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 1806,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 670,
+									"y": 832,
+									"h": 270,
+									"w": 270
+								},
+								{
+									"x": 390,
+									"y": 848,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 1110,
+									"y": 1040,
+									"h": 406,
+									"w": 406
+								},
+								{
+									"x": 426,
+									"y": 1248,
+									"h": 480,
+									"w": 480
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214479704570249200,
+					"id_str": "1214479704570249216",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqy21HUwAARLco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqy21HUwAARLco.jpg",
+					"url": "https://t.co/l9rzeSbUUy",
+					"display_url": "pic.twitter.com/l9rzeSbUUy",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214479714124890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 131,
+									"y": 599,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 222,
+									"y": 276,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 129,
+									"y": 281,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 368,
+									"y": 345,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 141,
+									"y": 414,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 1806,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 670,
+									"y": 832,
+									"h": 270,
+									"w": 270
+								},
+								{
+									"x": 390,
+									"y": 848,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 1110,
+									"y": 1040,
+									"h": 406,
+									"w": 406
+								},
+								{
+									"x": 426,
+									"y": 1248,
+									"h": 480,
+									"w": 480
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 232,
+									"y": 1058,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 392,
+									"y": 487,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 228,
+									"y": 496,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 650,
+									"y": 609,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 249,
+									"y": 731,
+									"h": 281,
+									"w": 281
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 1806,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 670,
+									"y": 832,
+									"h": 270,
+									"w": 270
+								},
+								{
+									"x": 390,
+									"y": 848,
+									"h": 250,
+									"w": 250
+								},
+								{
+									"x": 1110,
+									"y": 1040,
+									"h": 406,
+									"w": 406
+								},
+								{
+									"x": 426,
+									"y": 1248,
+									"h": 480,
+									"w": 480
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214479701856489500,
+		"in_reply_to_status_id_str": "1214479701856489477",
+		"in_reply_to_user_id": 1145007465907359700,
+		"in_reply_to_user_id_str": "1145007465907359744",
+		"in_reply_to_screen_name": "bullgamasound",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연 안내\n\n2020.1.31 PM 8:00\n카페 언플러그드\n게스트 : 너드커넥션\n예매 : 20,000 / 현매 25,000\n⠀\n--\n⠀\n#좋은가요 #원디비 #오산키즈 #신곡 #불가마싸운드 #tvn #어우러기 #인디밴드 #카페언플러그드 #밴드 #홍대 https://t.co/l9rzeSbUUy"
+	},
+	{
+		"created_at": "Tue Jan 07 10:29:25 +0000 2020",
+		"id": 1214479701856489500,
+		"id_str": "1214494237313708034",
+		"full_text": "TVN 좋은가요 오산키즈 \"원디비\"의 신곡,\n[Youth]가 1월 22일 발매 됩니다! 연휴가 끝나고 1월 31일에는 다양한 이벤트와 함께 하는 발매 기념 쇼케이스 - \"우리 맘대로 할래요\"가 열립니다. 아직 예매하지 않으신 분들이 계시다면 아래 링크를 참조해주세요!\n⠀\n🔽 링크 🔽\nhttps://t.co/F42suajd38 https://t.co/gMF3CWukcT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F42suajd38",
+					"expanded_url": "http://forms.gle/GykJRQ2vBdLSd9px8",
+					"display_url": "forms.gle/GykJRQ2vBdLSd9…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214479692297687000,
+					"id_str": "1214479692297687045",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqy2HZUUAUViK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqy2HZUUAUViK-.jpg",
+					"url": "https://t.co/gMF3CWukcT",
+					"display_url": "pic.twitter.com/gMF3CWukcT",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214479701856489477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214479692297687000,
+					"id_str": "1214479692297687045",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqy2HZUUAUViK-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqy2HZUUAUViK-.jpg",
+					"url": "https://t.co/gMF3CWukcT",
+					"display_url": "pic.twitter.com/gMF3CWukcT",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1214479701856489477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "불가마 싸운드 3주년 기념 공연/파티 “잘 살고 있습니다” 2020.1.18 하루 스페이스버스에서 열립니다! 트리케라톱스, 공중분해, 도도어스, 톰톰, 더 바이퍼스, 그리고 게스트로 쓸쓸스까지! 프로필의 링크를 확인해주세요!",
+			"url": "https://t.co/DHmNYMeHHg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHmNYMeHHg",
+							"expanded_url": "https://bit.ly/35QDTTw",
+							"display_url": "bit.ly/35QDTTw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 43,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TVN 좋은가요 오산키즈 \"원디비\"의 신곡,\n[Youth]가 1월 22일 발매 됩니다! 연휴가 끝나고 1월 31일에는 다양한 이벤트와 함께 하는 발매 기념 쇼케이스 - \"우리 맘대로 할래요\"가 열립니다. 아직 예매하지 않으신 분들이 계시다면 아래 링크를 참조해주세요!\n⠀\n🔽 링크 🔽\nhttps://t.co/F42suajd38 https://t.co/gMF3CWukcT"
+	},
+	{
 		"created_at": "Tue Jan 07 09:59:18 +0000 2020",
 		"id": 1214486660882321400,
 		"id_str": "1214486660882321408",
@@ -424,7 +1740,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -816,7 +2132,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -877,7 +2193,7 @@ Grailbird.data.tweets_2020_01 =
 		"created_at": "Tue Jan 07 09:58:20 +0000 2020",
 		"id": 1214480467954528300,
 		"id_str": "1214486415481999362",
-		"full_text": "[2019 올해의 헬로루키] 축하공연 | 우주왕복선싸이드미러 - 움집 고? (로빈충크루소)\n\n다시 보고 싶은 우주왕복선싸이드미러의 축하 무대! 📺💕\n'움집 고? (로빈충크루소)' 🏕🙆🏻‍♂️\n\n#2019헬로루키 #헬로루키 #올해의헬로루키 #2018헬로루키 #대상 #우주왕복선싸이드미러\n\nhttps://t.co/bAZyIiKvUq",
+		"full_text": "[2019 올해의 헬로루키] 축하공연 | 우주왕복선싸이드미러 - 움집 고? (로빈충크루소)\n\n다시 보고 싶은 우주왕복선싸이드미러의 축하 무대! 📺💕\n'움집 고? (로빈충크루소)' 🏕🙆🏻♂️\n\n#2019헬로루키 #헬로루키 #올해의헬로루키 #2018헬로루키 #대상 #우주왕복선싸이드미러\n\nhttps://t.co/bAZyIiKvUq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1022,7 +2338,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2019 올해의 헬로루키] 축하공연 | 우주왕복선싸이드미러 - 움집 고? (로빈충크루소)\n\n다시 보고 싶은 우주왕복선싸이드미러의 축하 무대! 📺💕\n'움집 고? (로빈충크루소)' 🏕🙆🏻‍♂️\n\n#2019헬로루키 #헬로루키 #올해의헬로루키 #2018헬로루키 #대상 #우주왕복선싸이드미러\n\nhttps://t.co/bAZyIiKvUq"
+		"text": "[2019 올해의 헬로루키] 축하공연 | 우주왕복선싸이드미러 - 움집 고? (로빈충크루소)\n\n다시 보고 싶은 우주왕복선싸이드미러의 축하 무대! 📺💕\n'움집 고? (로빈충크루소)' 🏕🙆🏻♂️\n\n#2019헬로루키 #헬로루키 #올해의헬로루키 #2018헬로루키 #대상 #우주왕복선싸이드미러\n\nhttps://t.co/bAZyIiKvUq"
 	},
 	{
 		"created_at": "Tue Jan 07 09:58:15 +0000 2020",
