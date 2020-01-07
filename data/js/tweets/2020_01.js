@@ -1,6 +1,1689 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 03:58:29 +0000 2020",
+		"id": 1214388583789760500,
+		"id_str": "1214395856427896832",
+		"full_text": "#지오디 #점심어택\n비가 와도🌧 아무리 추워도! 생방송 온에어 불은 켜집니다😎 어제 약속한 호영 호스트의 눕방(?) 사진 살포시 풀면서... 시작해요! 컴온! 문자 #7117 (정보이용료 100원)  #NOW온에어 #god #오늘은건강모드 https://t.co/uLkHt3ye0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지오디",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "오늘은건강모드",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214388566765101000,
+					"id_str": "1214388566765101057",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpf96VUYAEX639.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpf96VUYAEX639.jpg",
+					"url": "https://t.co/uLkHt3ye0P",
+					"display_url": "pic.twitter.com/uLkHt3ye0P",
+					"expanded_url": "https://twitter.com/kr_now/status/1214388583789760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1651,
+							"h": 1722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1151,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 776,
+									"y": 1516,
+									"h": 174,
+									"w": 174
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 1056,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 598,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 776,
+									"y": 1516,
+									"h": 174,
+									"w": 174
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214388566765101000,
+					"id_str": "1214388566765101057",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpf96VUYAEX639.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpf96VUYAEX639.jpg",
+					"url": "https://t.co/uLkHt3ye0P",
+					"display_url": "pic.twitter.com/uLkHt3ye0P",
+					"expanded_url": "https://twitter.com/kr_now/status/1214388583789760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1651,
+							"h": 1722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1151,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 776,
+									"y": 1516,
+									"h": 174,
+									"w": 174
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 540,
+									"y": 1056,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 598,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 776,
+									"y": 1516,
+									"h": 174,
+									"w": 174
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214388566777708500,
+					"id_str": "1214388566777708546",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpf96YUwAIeojL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpf96YUwAIeojL.jpg",
+					"url": "https://t.co/uLkHt3ye0P",
+					"display_url": "pic.twitter.com/uLkHt3ye0P",
+					"expanded_url": "https://twitter.com/kr_now/status/1214388583789760512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1721,
+							"h": 1977,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1045,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 1830,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 637,
+									"y": 1841,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 629,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 219,
+									"y": 633,
+									"h": 35,
+									"w": 35
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 125,
+									"y": 1111,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 386,
+									"y": 1117,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 206,
+									"y": 1830,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 637,
+									"y": 1841,
+									"h": 102,
+									"w": 102
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19165,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지오디 #점심어택\n비가 와도🌧 아무리 추워도! 생방송 온에어 불은 켜집니다😎 어제 약속한 호영 호스트의 눕방(?) 사진 살포시 풀면서... 시작해요! 컴온! 문자 #7117 (정보이용료 100원)  #NOW온에어 #god #오늘은건강모드 https://t.co/uLkHt3ye0P"
+	},
+	{
+		"created_at": "Tue Jan 07 03:58:22 +0000 2020",
+		"id": 1214381224531153000,
+		"id_str": "1214395826623188992",
+		"full_text": "[INFO] 제14회 서울재즈페스티벌 2020 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\n.\n▶ 1차 라인업 발표: 01. 14.(화) 낮 12시\n▶ 얼리버드 티켓오픈: 01. 17.(금) 낮 12시\n▶ 티켓가: 2일권 할인가 195,000원 (한정 수량 / 2일권 정가: 255,000원)\n▶ 예매처: 인터파크(https://t.co/nXtkf1l59H) https://t.co/jRf2LLNi0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nXtkf1l59H",
+					"expanded_url": "https://ticket.interpark.com",
+					"display_url": "ticket.interpark.com",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214381162686107600,
+					"id_str": "1214381162686107648",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214381162686107648/pu/img/Qx_FHvdoXRbHJbq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214381162686107648/pu/img/Qx_FHvdoXRbHJbq2.jpg",
+					"url": "https://t.co/jRf2LLNi0G",
+					"display_url": "pic.twitter.com/jRf2LLNi0G",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1214381224531152896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214381162686107600,
+					"id_str": "1214381162686107648",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214381162686107648/pu/img/Qx_FHvdoXRbHJbq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214381162686107648/pu/img/Qx_FHvdoXRbHJbq2.jpg",
+					"url": "https://t.co/jRf2LLNi0G",
+					"display_url": "pic.twitter.com/jRf2LLNi0G",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1214381224531152896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17017,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214381162686107648/pu/vid/480x480/vXnT8QjipEWF4K5K.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214381162686107648/pu/vid/720x720/vPqZpCxXRRMHc7m3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1214381162686107648/pu/pl/LenBYOJABji5sauR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1214381162686107648/pu/vid/320x320/hwPl1K_GOV8VFYF3.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3260,
+			"friends_count": 40,
+			"listed_count": 34,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578366013",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INFO] 제14회 서울재즈페스티벌 2020 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\n.\n▶ 1차 라인업 발표: 01. 14.(화) 낮 12시\n▶ 얼리버드 티켓오픈: 01. 17.(금) 낮 12시\n▶ 티켓가: 2일권 할인가 195,000원 (한정 수량 / 2일권 정가: 255,000원)\n▶ 예매처: 인터파크(https://t.co/nXtkf1l59H) https://t.co/jRf2LLNi0G"
+	},
+	{
+		"created_at": "Tue Jan 07 03:58:14 +0000 2020",
+		"id": 1214381162010837000,
+		"id_str": "1214395796805828608",
+		"full_text": "[INFO] 제14회 서울재즈페스티벌 2020 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\n.\n▶ 1차 라인업 발표: 01. 14.(화) 낮 12시\n▶ 얼리버드 티켓오픈: 01. 17.(금) 낮 12시\n▶ 티켓가: 2일권 할인가 195,000원 (한정 수량 / 2일권 정가: 255,000원)\n▶ 예매처: 인터파크(https://t.co/nXtkf1l59H) https://t.co/UVn1xAarZ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nXtkf1l59H",
+					"expanded_url": "https://ticket.interpark.com",
+					"display_url": "ticket.interpark.com",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214381150883332000,
+					"id_str": "1214381150883332097",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpZOQBUwAE3HRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpZOQBUwAE3HRR.jpg",
+					"url": "https://t.co/UVn1xAarZ3",
+					"display_url": "pic.twitter.com/UVn1xAarZ3",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1214381162010836992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214381150883332000,
+					"id_str": "1214381150883332097",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpZOQBUwAE3HRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpZOQBUwAE3HRR.jpg",
+					"url": "https://t.co/UVn1xAarZ3",
+					"display_url": "pic.twitter.com/UVn1xAarZ3",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1214381162010836992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3260,
+			"friends_count": 40,
+			"listed_count": 34,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1578366013",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INFO] 제14회 서울재즈페스티벌 2020 1차 라인업 &amp; 얼리버드 티켓 오픈 안내\n.\n▶ 1차 라인업 발표: 01. 14.(화) 낮 12시\n▶ 얼리버드 티켓오픈: 01. 17.(금) 낮 12시\n▶ 티켓가: 2일권 할인가 195,000원 (한정 수량 / 2일권 정가: 255,000원)\n▶ 예매처: 인터파크(https://t.co/nXtkf1l59H) https://t.co/UVn1xAarZ3"
+	},
+	{
+		"created_at": "Tue Jan 07 03:56:19 +0000 2020",
+		"id": 1214395313047429000,
+		"id_str": "1214395313047429120",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n1월 7일 | 마쌀리나, SEOY, 이쥴리\nhttps://t.co/cf4N52GpTy\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cf4N52GpTy",
+					"expanded_url": "http://bit.ly/2N1IxH0",
+					"display_url": "bit.ly/2N1IxH0",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n1월 7일 | 마쌀리나, SEOY, 이쥴리\nhttps://t.co/cf4N52GpTy\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Tue Jan 07 03:41:37 +0000 2020",
+		"id": 1214382892240912400,
+		"id_str": "1214391615084748801",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.14 크라잉넛&amp;쏜애플&amp;조문근밴드&gt;\n\n· 일시 : 2020년 2월 15일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 크라잉넛, 쏜애플, 조문근밴드\n· 예매 : 멜론티켓 2020년 1월 14일 (화) 오후 7시 예매오픈\n\nDesign by @studio.himp\n\n#크라잉넛 #쏜애플 #조문근밴드 #롤링25주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크라잉넛",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "조문근밴드",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3291,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.14 크라잉넛&amp;쏜애플&amp;조문근밴드&gt;\n\n· 일시 : 2020년 2월 15일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 크라잉넛, 쏜애플, 조문근밴드\n· 예매 : 멜론티켓 2020년 1월 14일 (화) 오후 7시 예매오픈\n\nDesign by @studio.himp\n\n#크라잉넛 #쏜애플 #조문근밴드 #롤링25주년"
+	},
+	{
+		"created_at": "Tue Jan 07 03:29:36 +0000 2020",
+		"id": 1214384990034657300,
+		"id_str": "1214388587392835584",
+		"full_text": "[#윤하]\n[안내📣] \n윤하(YOUNHA) 5th MINI ALBUM ‘UNSTABLE MINDSET’ 팬사인회(합정) 안내\n\n▶ https://t.co/xyi6owJMgY\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xyi6owJMgY",
+					"expanded_url": "http://cafe.daum.net/Y-Holics/RCG2/112",
+					"display_url": "cafe.daum.net/Y-Holics/RCG2/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139547,
+			"friends_count": 8,
+			"listed_count": 504,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[안내📣] \n윤하(YOUNHA) 5th MINI ALBUM ‘UNSTABLE MINDSET’ 팬사인회(합정) 안내\n\n▶ https://t.co/xyi6owJMgY\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름"
+	},
+	{
+		"created_at": "Tue Jan 07 03:29:28 +0000 2020",
+		"id": 1214375438874628000,
+		"id_str": "1214388553318359041",
+		"full_text": "[#윤하]\n[라디오📻]\nMBC FM4U &lt;정오의 희망곡 김신영입니다&gt;\n▶ 1월 7일(수) 오후 12시\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 #정오의희망곡 https://t.co/30royDnFZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214375430355972000,
+					"id_str": "1214375430355972096",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpUBRZUcAAbG4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpUBRZUcAAbG4K.jpg",
+					"url": "https://t.co/30royDnFZJ",
+					"display_url": "pic.twitter.com/30royDnFZJ",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214375438874628096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 437,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 48,
+									"y": 155,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 185,
+									"y": 177,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 293,
+									"y": 29,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214375430355972000,
+					"id_str": "1214375430355972096",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ENpUBRZUcAAbG4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENpUBRZUcAAbG4K.jpg",
+					"url": "https://t.co/30royDnFZJ",
+					"display_url": "pic.twitter.com/30royDnFZJ",
+					"expanded_url": "https://twitter.com/OfficialC9ent/status/1214375438874628096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 437,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 228,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 273,
+									"y": 261,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 431,
+									"y": 44,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 48,
+									"y": 155,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 185,
+									"y": 177,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 293,
+									"y": 29,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139547,
+			"friends_count": 8,
+			"listed_count": 504,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[라디오📻]\nMBC FM4U &lt;정오의 희망곡 김신영입니다&gt;\n▶ 1월 7일(수) 오후 12시\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름 #정오의희망곡 https://t.co/30royDnFZJ"
+	},
+	{
 		"created_at": "Tue Jan 07 03:17:32 +0000 2020",
 		"id": 1214385550326665200,
 		"id_str": "1214385550326665216",
