@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 13:58:15 +0000 2020",
+		"id": 1214894918839062500,
+		"id_str": "1214909179728728064",
+		"full_text": "어제 #심야아이돌 을 찾아왔던 #비오브유 💛💚💙와 저-세상 텐션, 탈-지구급🌍 케미 자랑했던 #셍스트 어제도 오늘도 빛이나는✨ 비니셍스트 사진 풀어드립니다📷 오늘 밤 11시에도 성운(@gooreumseng) 이랑 같이놀아요💜💙 #NOW온에어 https://t.co/qHdjFxzFm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "비오브유",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "셍스트",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gooreumseng",
+					"name": "하성운",
+					"id": 1083684581083996200,
+					"id_str": "1083684581083996160",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214894916431560700,
+					"id_str": "1214894916431560704",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwsfV1UwAAuzpP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwsfV1UwAAuzpP.jpg",
+					"url": "https://t.co/qHdjFxzFm8",
+					"display_url": "pic.twitter.com/qHdjFxzFm8",
+					"expanded_url": "https://twitter.com/kr_now/status/1214894918839062528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 229,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214894916431560700,
+					"id_str": "1214894916431560704",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwsfV1UwAAuzpP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwsfV1UwAAuzpP.jpg",
+					"url": "https://t.co/qHdjFxzFm8",
+					"display_url": "pic.twitter.com/qHdjFxzFm8",
+					"expanded_url": "https://twitter.com/kr_now/status/1214894918839062528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 229,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 471,
+									"y": 365,
+									"h": 369,
+									"w": 369
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19301,
+			"friends_count": 0,
+			"listed_count": 43,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2100,
+		"favorite_count": 2616,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 #심야아이돌 을 찾아왔던 #비오브유 💛💚💙와 저-세상 텐션, 탈-지구급🌍 케미 자랑했던 #셍스트 어제도 오늘도 빛이나는✨ 비니셍스트 사진 풀어드립니다📷 오늘 밤 11시에도 성운(@gooreumseng) 이랑 같이놀아요💜💙 #NOW온에어 https://t.co/qHdjFxzFm8"
+	},
+	{
+		"created_at": "Wed Jan 08 13:41:47 +0000 2020",
+		"id": 1214903964497404000,
+		"id_str": "1214905037203349504",
+		"full_text": "[박형의 블루스 하모니카 워크숍 : 5주 코스 블루스 하모니카 기초 완성 워크숍] 2020년 1월 29일(수) PM 7:30 개강! https://t.co/xJBP6Z2wh6 https://t.co/oTHasc084q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJBP6Z2wh6",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221763293241",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214903946378018800,
+					"id_str": "1214903946378018816",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ENw0s9AVAAAaBrx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENw0s9AVAAAaBrx.jpg",
+					"url": "https://t.co/oTHasc084q",
+					"display_url": "pic.twitter.com/oTHasc084q",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1214903964497403905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 269,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214903946378018800,
+					"id_str": "1214903946378018816",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ENw0s9AVAAAaBrx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENw0s9AVAAAaBrx.jpg",
+					"url": "https://t.co/oTHasc084q",
+					"display_url": "pic.twitter.com/oTHasc084q",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1214903964497403905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 710,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 269,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 354,
+									"y": 357,
+									"h": 199,
+									"w": 199
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8232,
+			"friends_count": 600,
+			"listed_count": 114,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[박형의 블루스 하모니카 워크숍 : 5주 코스 블루스 하모니카 기초 완성 워크숍] 2020년 1월 29일(수) PM 7:30 개강! https://t.co/xJBP6Z2wh6 https://t.co/oTHasc084q"
+	},
+	{
 		"created_at": "Wed Jan 08 12:51:52 +0000 2020",
 		"id": 1214892475934036000,
 		"id_str": "1214892475934035968",
