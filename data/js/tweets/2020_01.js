@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 03:41:38 +0000 2020",
+		"id": 1214743751907610600,
+		"id_str": "1214754003478810625",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.15 기타리스트 김영소 단독 콘서트&gt;\n\n· 일시 : 2020년 2월 16일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 김영소\n· 예매 : 멜론티켓 2020년 1월 15일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#김영소 #단독콘서트 #슈퍼밴드 #호피폴라 #롤링25주년 #롤링홀 https://t.co/ciQ2nofRz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영소",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "슈퍼밴드",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "호피폴라",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214743744634704000,
+					"id_str": "1214743744634703872",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ENui__AUUAAOVID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENui__AUUAAOVID.jpg",
+					"url": "https://t.co/ciQ2nofRz5",
+					"display_url": "pic.twitter.com/ciQ2nofRz5",
+					"expanded_url": "https://twitter.com/rollinghall/status/1214743751907610624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214743744634704000,
+					"id_str": "1214743744634703872",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/ENui__AUUAAOVID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENui__AUUAAOVID.jpg",
+					"url": "https://t.co/ciQ2nofRz5",
+					"display_url": "pic.twitter.com/ciQ2nofRz5",
+					"expanded_url": "https://twitter.com/rollinghall/status/1214743751907610624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3296,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.15 기타리스트 김영소 단독 콘서트&gt;\n\n· 일시 : 2020년 2월 16일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 김영소\n· 예매 : 멜론티켓 2020년 1월 15일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#김영소 #단독콘서트 #슈퍼밴드 #호피폴라 #롤링25주년 #롤링홀 https://t.co/ciQ2nofRz5"
+	},
+	{
+		"created_at": "Wed Jan 08 03:29:34 +0000 2020",
+		"id": 1214745913559617500,
+		"id_str": "1214750966987276290",
+		"full_text": "[#윤하]\n[안내📣] \n윤하(YOUNHA) 5th MINI ALBUM 'UNSTABLE MINDSET' 팬사인회 안내(목동)\n\n▶ https://t.co/LfcSNNaBUF\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfcSNNaBUF",
+					"expanded_url": "http://cafe.daum.net/Y-Holics/RCG2/113",
+					"display_url": "cafe.daum.net/Y-Holics/RCG2/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139584,
+			"friends_count": 8,
+			"listed_count": 506,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[안내📣] \n윤하(YOUNHA) 5th MINI ALBUM 'UNSTABLE MINDSET' 팬사인회 안내(목동)\n\n▶ https://t.co/LfcSNNaBUF\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름"
+	},
+	{
+		"created_at": "Wed Jan 08 03:29:25 +0000 2020",
+		"id": 1214743560097943600,
+		"id_str": "1214750928680751105",
+		"full_text": "HAPPY SUNGHYUN DAY\n오늘은 쏜애플 - 윤성현 님의 생일입니다! 함께 축하해주세요 🍰❤️\n\n#HBD #쏜애플 #윤성현 https://t.co/NYKOY0PXmO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "쏜애플",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "윤성현",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214743542070833200,
+					"id_str": "1214743542070833153",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/ENui0MZU8AEodyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENui0MZU8AEodyt.jpg",
+					"url": "https://t.co/NYKOY0PXmO",
+					"display_url": "pic.twitter.com/NYKOY0PXmO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1214743560097943553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 258,
+									"h": 351,
+									"w": 351
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 247,
+									"y": 455,
+									"h": 621,
+									"w": 621
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 844,
+									"y": 1556,
+									"h": 2120,
+									"w": 2120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 422,
+									"y": 778,
+									"h": 1060,
+									"w": 1060
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214743542070833200,
+					"id_str": "1214743542070833153",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/ENui0MZU8AEodyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENui0MZU8AEodyt.jpg",
+					"url": "https://t.co/NYKOY0PXmO",
+					"display_url": "pic.twitter.com/NYKOY0PXmO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1214743560097943553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 140,
+									"y": 258,
+									"h": 351,
+									"w": 351
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 247,
+									"y": 455,
+									"h": 621,
+									"w": 621
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 844,
+									"y": 1556,
+									"h": 2120,
+									"w": 2120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 422,
+									"y": 778,
+									"h": 1060,
+									"w": 1060
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13636,
+			"friends_count": 2470,
+			"listed_count": 296,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HAPPY SUNGHYUN DAY\n오늘은 쏜애플 - 윤성현 님의 생일입니다! 함께 축하해주세요 🍰❤️\n\n#HBD #쏜애플 #윤성현 https://t.co/NYKOY0PXmO"
+	},
+	{
 		"created_at": "Wed Jan 08 03:00:19 +0000 2020",
 		"id": 1214743606881329200,
 		"id_str": "1214743606881329152",
