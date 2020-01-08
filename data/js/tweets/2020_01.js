@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 23:29:28 +0000 2020",
+		"id": 1214688151869874200,
+		"id_str": "1214690546985385984",
+		"full_text": "[#윤하]\n[영상📺]\n윤하 _ 먹구름 Live | 가사 | YOUNHA _ Dark Cloud | MR은 거들 뿐 | Vocals Only Live | LYLICS\n\n▶️ https://t.co/bd6A78V9Ei\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤하",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "혜성은_지지않는다",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "윤하_홀릭스",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "UNSTABLEMINDSET",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "먹구름",
+					"indices": [
+						167,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bd6A78V9Ei",
+					"expanded_url": "https://youtu.be/nk1bt-DEycI",
+					"display_url": "youtu.be/nk1bt-DEycI",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 606957082,
+			"id_str": "606957082",
+			"name": "C9 Entertainment",
+			"screen_name": "OfficialC9ent",
+			"location": "",
+			"description": "C9 Entertainment Official Twitter",
+			"url": "https://t.co/E7zBZFtH5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7zBZFtH5a",
+							"expanded_url": "http://www.c9ent.co.kr",
+							"display_url": "c9ent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139583,
+			"friends_count": 8,
+			"listed_count": 506,
+			"created_at": "Wed Jun 13 06:37:47 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073511334707265537/liVJXs94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/606957082/1544780003",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤하]\n[영상📺]\n윤하 _ 먹구름 Live | 가사 | YOUNHA _ Dark Cloud | MR은 거들 뿐 | Vocals Only Live | LYLICS\n\n▶️ https://t.co/bd6A78V9Ei\n\n#YOUNHA #혜성은_지지않는다🌠 #윤하_홀릭스💓 #UNSTABLEMINDSET #먹구름"
+	},
+	{
 		"created_at": "Tue Jan 07 17:41:38 +0000 2020",
 		"id": 1214596278618751000,
 		"id_str": "1214603009059172353",
