@@ -1,10 +1,883 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 06:59:32 +0000 2020",
+		"id": 1215166194694738000,
+		"id_str": "1215166194694737920",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Rituality - A Season Of Disconnection (단절의 계절)\nhttps://t.co/jeDWq9Asqk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jeDWq9Asqk",
+					"expanded_url": "https://youtu.be/470pOsYqBn0",
+					"display_url": "youtu.be/470pOsYqBn0",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] Rituality - A Season Of Disconnection (단절의 계절)\nhttps://t.co/jeDWq9Asqk"
+	},
+	{
+		"created_at": "Thu Jan 09 06:58:28 +0000 2020",
+		"id": 1215158410305343500,
+		"id_str": "1215165927152652288",
+		"full_text": "#손호영 #데니안 #김태우 가 점택이들 대신~ 전해 드립니다!! 태우는🐻 대신 전해 드리러 왔다가 뿌X클🍗 득템하고 갔태우~! #점심어택 #NOW온에어 https://t.co/pGmXr6B8YS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손호영",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "데니안",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "김태우",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pGmXr6B8YS",
+					"expanded_url": "https://tv.naver.com/v/11818374",
+					"display_url": "tv.naver.com/v/11818374",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19357,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#손호영 #데니안 #김태우 가 점택이들 대신~ 전해 드립니다!! 태우는🐻 대신 전해 드리러 왔다가 뿌X클🍗 득템하고 갔태우~! #점심어택 #NOW온에어 https://t.co/pGmXr6B8YS"
+	},
+	{
+		"created_at": "Thu Jan 09 06:58:20 +0000 2020",
+		"id": 1215152911124066300,
+		"id_str": "1215165893166227456",
+		"full_text": "@CUBE_PTG 다정한 꾸디🙊 고마워요❤️ 사연/ 책 많이 보내주세요! casperradio@naver.com",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUBE_PTG",
+					"name": "PENTAGON·펜타곤",
+					"id": 717905524444889100,
+					"id_str": "717905524444889088",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215148929735512000,
+		"in_reply_to_status_id_str": "1215148929735512064",
+		"in_reply_to_user_id": 717905524444889100,
+		"in_reply_to_user_id_str": "717905524444889088",
+		"in_reply_to_screen_name": "CUBE_PTG",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨(이지만 언오피셜한 이야기 가득하게 만들어야지〰) 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 9,
+			"listed_count": 5,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@CUBE_PTG 다정한 꾸디🙊 고마워요❤️ 사연/ 책 많이 보내주세요! casperradio@naver.com"
+	},
+	{
+		"created_at": "Thu Jan 09 06:58:15 +0000 2020",
+		"id": 1215152024460750800,
+		"id_str": "1215165871695503362",
+		"full_text": "#점심어택 에 #김태우 또 와따~~!!!! 오자마자 TMI 탈탈 털고, 갑자기 한소절 라이브🎤로 스튜디오 찢고 간 태우 보러 오세요~🚗🚙 #NOW온에어 https://t.co/eLlILKELQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "점심어택",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "김태우",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eLlILKELQt",
+					"expanded_url": "https://tv.naver.com/v/11817875",
+					"display_url": "tv.naver.com/v/11817875",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19357,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#점심어택 에 #김태우 또 와따~~!!!! 오자마자 TMI 탈탈 털고, 갑자기 한소절 라이브🎤로 스튜디오 찢고 간 태우 보러 오세요~🚗🚙 #NOW온에어 https://t.co/eLlILKELQt"
+	},
+	{
+		"created_at": "Thu Jan 09 06:51:53 +0000 2020",
+		"id": 1215164269513322500,
+		"id_str": "1215164269513322497",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 정근솔 (Geunsol Jung) - 그리워하지 않는 법 (How to not miss you) (Vocal by 김광용)\nhttps://t.co/6eXJSrCFPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eXJSrCFPS",
+					"expanded_url": "https://youtu.be/ZW5KHFXV3CM",
+					"display_url": "youtu.be/ZW5KHFXV3CM",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 정근솔 (Geunsol Jung) - 그리워하지 않는 법 (How to not miss you) (Vocal by 김광용)\nhttps://t.co/6eXJSrCFPS"
+	},
+	{
+		"created_at": "Thu Jan 09 06:51:52 +0000 2020",
+		"id": 1215164268254986200,
+		"id_str": "1215164268254986241",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 사우스카니발 - Wishes\nhttps://t.co/sbV3XknQq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sbV3XknQq0",
+					"expanded_url": "https://youtu.be/v3QrWvtakjE",
+					"display_url": "youtu.be/v3QrWvtakjE",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 사우스카니발 - Wishes\nhttps://t.co/sbV3XknQq0"
+	},
+	{
+		"created_at": "Thu Jan 09 06:41:37 +0000 2020",
+		"id": 1215152323221057500,
+		"id_str": "1215161688842031105",
+		"full_text": "@SOLPLPARTY 안녕하세요, 롤링홀 입니다 :) 현재 홈페이지 리뉴얼중이라 포스터 수정/재업로드 등 여러가지 과정을 겪는 중입니다. 불편드려 죄송하며 최대한 빠르게 안정화 시키도록 하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SOLPLPARTY",
+					"name": "솔플파티",
+					"id": 968706450779463700,
+					"id_str": "968706450779463682",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1214789202711171000,
+		"in_reply_to_status_id_str": "1214789202711171072",
+		"in_reply_to_user_id": 968706450779463700,
+		"in_reply_to_user_id_str": "968706450779463682",
+		"in_reply_to_screen_name": "SOLPLPARTY",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 788,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SOLPLPARTY 안녕하세요, 롤링홀 입니다 :) 현재 홈페이지 리뉴얼중이라 포스터 수정/재업로드 등 여러가지 과정을 겪는 중입니다. 불편드려 죄송하며 최대한 빠르게 안정화 시키도록 하겠습니다."
+	},
+	{
 		"created_at": "Thu Jan 09 05:58:15 +0000 2020",
 		"id": 1215139174610661400,
 		"id_str": "1215150772322738176",
-		"full_text": "내 집 안방에서 즐기는 💥헤비메탈💥\n30년 간 쉼 없이 달려온 🏴‍☠️블랙홀🏴‍☠️의 무대 ⚡️🎸\n내일 밤 11시 35분, EBS 공감에서 함께하세요 🙌\n⠀\n#ebs #스페이스공감 #ebs공감 #블랙홀 #blackhole #락 #메탈 #공연추천 #1월공연 https://t.co/z1XDgWV3Qn",
+		"full_text": "내 집 안방에서 즐기는 💥헤비메탈💥\n30년 간 쉼 없이 달려온 🏴☠️블랙홀🏴☠️의 무대 ⚡️🎸\n내일 밤 11시 35분, EBS 공감에서 함께하세요 🙌\n⠀\n#ebs #스페이스공감 #ebs공감 #블랙홀 #blackhole #락 #메탈 #공연추천 #1월공연 https://t.co/z1XDgWV3Qn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -370,7 +1243,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "내 집 안방에서 즐기는 💥헤비메탈💥\n30년 간 쉼 없이 달려온 🏴‍☠️블랙홀🏴‍☠️의 무대 ⚡️🎸\n내일 밤 11시 35분, EBS 공감에서 함께하세요 🙌\n⠀\n#ebs #스페이스공감 #ebs공감 #블랙홀 #blackhole #락 #메탈 #공연추천 #1월공연 https://t.co/z1XDgWV3Qn"
+		"text": "내 집 안방에서 즐기는 💥헤비메탈💥\n30년 간 쉼 없이 달려온 🏴☠️블랙홀🏴☠️의 무대 ⚡️🎸\n내일 밤 11시 35분, EBS 공감에서 함께하세요 🙌\n⠀\n#ebs #스페이스공감 #ebs공감 #블랙홀 #blackhole #락 #메탈 #공연추천 #1월공연 https://t.co/z1XDgWV3Qn"
 	},
 	{
 		"created_at": "Thu Jan 09 05:41:38 +0000 2020",
