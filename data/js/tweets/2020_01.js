@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 04:29:36 +0000 2020",
+		"id": 1215118463171088400,
+		"id_str": "1215128462060589057",
+		"full_text": "#EXO’s 6th album ‘#OBSESSION’ and #RedVelvet’s album ‘’The ReVe Festival’ Finale’ and their lead song ‘#Psycho’ have been ranked no. 1 respectively for two consecutive months and 2 weeks in a row on GAON’s Monthly Albums chart and GAON’s Weekly Albums and Download chart!🏆 👏 https://t.co/FfOCHnMsad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EXO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "OBSESSION",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "Psycho",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215118447878627300,
+					"id_str": "1215118447878627328",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 671,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 456,
+									"y": 319,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 636,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 386,
+									"y": 754,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 109,
+									"y": 147,
+									"h": 362,
+									"w": 362
+								},
+								{
+									"x": 270,
+									"y": 180,
+									"h": 311,
+									"w": 311
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 410,
+									"y": 380,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 258,
+									"y": 181,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 360,
+									"y": 181,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 219,
+									"y": 427,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 62,
+									"y": 83,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 153,
+									"y": 102,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215118447878627300,
+					"id_str": "1215118447878627328",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylXUYAA-hmE.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 725,
+									"y": 671,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 456,
+									"y": 319,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 636,
+									"y": 320,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 386,
+									"y": 754,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 109,
+									"y": 147,
+									"h": 362,
+									"w": 362
+								},
+								{
+									"x": 270,
+									"y": 180,
+									"h": 311,
+									"w": 311
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 410,
+									"y": 380,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 258,
+									"y": 181,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 360,
+									"y": 181,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 219,
+									"y": 427,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 62,
+									"y": 83,
+									"h": 205,
+									"w": 205
+								},
+								{
+									"x": 153,
+									"y": 102,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 846,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 533,
+									"y": 373,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 742,
+									"y": 374,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 451,
+									"y": 880,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 128,
+									"y": 172,
+									"h": 423,
+									"w": 423
+								},
+								{
+									"x": 315,
+									"y": 210,
+									"h": 363,
+									"w": 363
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215118447887052800,
+					"id_str": "1215118447887052800",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ENz3ylZU8AA9lbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENz3ylZU8AA9lbM.jpg",
+					"url": "https://t.co/FfOCHnMsad",
+					"display_url": "pic.twitter.com/FfOCHnMsad",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215118463171088384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 563,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 704,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 318,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 704,
+									"h": 67,
+									"w": 67
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8074763,
+			"friends_count": 49,
+			"listed_count": 9738,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15332,
+		"favorite_count": 33085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#EXO’s 6th album ‘#OBSESSION’ and #RedVelvet’s album ‘’The ReVe Festival’ Finale’ and their lead song ‘#Psycho’ have been ranked no. 1 respectively for two consecutive months and 2 weeks in a row on GAON’s Monthly Albums chart and GAON’s Weekly Albums and Download chart!🏆 👏 https://t.co/FfOCHnMsad"
+	},
+	{
+		"created_at": "Thu Jan 09 04:29:26 +0000 2020",
+		"id": 1215117916674244600,
+		"id_str": "1215128423749779458",
+		"full_text": "[Listen here]\nGenie - https://t.co/HNp72VVJ04\nBugs - https://t.co/B8WtYhDZ6h\nVibe - https://t.co/08fvkv0mq3\nMelon - https://t.co/CSwPsGZAMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HNp72VVJ04",
+					"expanded_url": "https://bit.ly/2sOaFq9",
+					"display_url": "bit.ly/2sOaFq9",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/B8WtYhDZ6h",
+					"expanded_url": "https://bit.ly/2Fv2n9e",
+					"display_url": "bit.ly/2Fv2n9e",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/08fvkv0mq3",
+					"expanded_url": "https://bit.ly/3a1FGHU",
+					"display_url": "bit.ly/3a1FGHU",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/CSwPsGZAMB",
+					"expanded_url": "https://bit.ly/39OjMYl",
+					"display_url": "bit.ly/39OjMYl",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215117912601530400,
+		"in_reply_to_status_id_str": "1215117912601530368",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9774,
+			"friends_count": 2984,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Listen here]\nGenie - https://t.co/HNp72VVJ04\nBugs - https://t.co/B8WtYhDZ6h\nVibe - https://t.co/08fvkv0mq3\nMelon - https://t.co/CSwPsGZAMB"
+	},
+	{
 		"created_at": "Thu Jan 09 03:58:23 +0000 2020",
 		"id": 1215111493563207700,
 		"id_str": "1215120606112468993",
