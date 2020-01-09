@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 16:41:38 +0000 2020",
+		"id": 1215298188040556500,
+		"id_str": "1215312687485374465",
+		"full_text": "\"위로도 없이 친절함도 없이 가만히 지나가는 계절을\n묵묵히 지켜보고 있었던 그 사람에게 놀라움과 감사를 담아\n\n그림자도 없이 동경도 없이 가만히 지나가는 계절을\n묵묵히 지켜보고 있었던 그 사람에게 놀라움과 감사를 담아\"\n\n感謝(驚)! https://t.co/8tf5ABQEFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215298171749822500,
+					"id_str": "1215298171749822464",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2bP49UcAATuhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2bP49UcAATuhw.jpg",
+					"url": "https://t.co/8tf5ABQEFt",
+					"display_url": "pic.twitter.com/8tf5ABQEFt",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1215298188040556544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215298171749822500,
+					"id_str": "1215298171749822464",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2bP49UcAATuhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2bP49UcAATuhw.jpg",
+					"url": "https://t.co/8tf5ABQEFt",
+					"display_url": "pic.twitter.com/8tf5ABQEFt",
+					"expanded_url": "https://twitter.com/kuchucamp_/status/1215298188040556544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208775849941430300,
+		"in_reply_to_status_id_str": "1208775849941430272",
+		"in_reply_to_user_id": 1134022675649589200,
+		"in_reply_to_user_id_str": "1134022675649589248",
+		"in_reply_to_screen_name": "kuchucamp_",
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 473,
+			"listed_count": 1,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"위로도 없이 친절함도 없이 가만히 지나가는 계절을\n묵묵히 지켜보고 있었던 그 사람에게 놀라움과 감사를 담아\n\n그림자도 없이 동경도 없이 가만히 지나가는 계절을\n묵묵히 지켜보고 있었던 그 사람에게 놀라움과 감사를 담아\"\n\n感謝(驚)! https://t.co/8tf5ABQEFt"
+	},
+	{
 		"created_at": "Thu Jan 09 15:58:18 +0000 2020",
 		"id": 1215288337734365200,
 		"id_str": "1215301783175794690",
@@ -212,7 +416,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
