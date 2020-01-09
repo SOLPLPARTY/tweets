@@ -1,6 +1,1153 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 12:15:16 +0000 2020",
+		"id": 1215136424082624500,
+		"id_str": "1215245651476303873",
+		"full_text": "[마리퀴리] 1차 티켓 오픈 안내\nl 인터파크 티켓오픈: 2020년 1월 15일(수) 오후 2시\nl 충무아트센터 선예매: 2020년 1월 14일(화) 오후 2시~오후 4시\nl 1차 티켓 오픈 일정: 2020년 02월 15일(토) ~ 2020년 03월 1일(일)\nl 인터파크 https://t.co/kSIPu0Qovi\nl 충무아트센터  https://t.co/ahKGFtep63 https://t.co/GmJy09dHwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kSIPu0Qovi",
+					"expanded_url": "https://bit.ly/30dBUXv",
+					"display_url": "bit.ly/30dBUXv",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/ahKGFtep63",
+					"expanded_url": "https://bit.ly/2PAfUkB",
+					"display_url": "bit.ly/2PAfUkB",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215136404130263000,
+					"id_str": "1215136404130263040",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0IHxnUcAAccwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0IHxnUcAAccwM.jpg",
+					"url": "https://t.co/GmJy09dHwW",
+					"display_url": "pic.twitter.com/GmJy09dHwW",
+					"expanded_url": "https://twitter.com/livecorp2011/status/1215136424082624512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 331,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215136404130263000,
+					"id_str": "1215136404130263040",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0IHxnUcAAccwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0IHxnUcAAccwM.jpg",
+					"url": "https://t.co/GmJy09dHwW",
+					"display_url": "pic.twitter.com/GmJy09dHwW",
+					"expanded_url": "https://twitter.com/livecorp2011/status/1215136424082624512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 331,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 488,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215136404134432800,
+					"id_str": "1215136404134432771",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0IHxoUEAMZAga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0IHxoUEAMZAga.jpg",
+					"url": "https://t.co/GmJy09dHwW",
+					"display_url": "pic.twitter.com/GmJy09dHwW",
+					"expanded_url": "https://twitter.com/livecorp2011/status/1215136424082624512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215136404130238500,
+					"id_str": "1215136404130238464",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0IHxnUEAApYQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0IHxnUEAApYQd.jpg",
+					"url": "https://t.co/GmJy09dHwW",
+					"display_url": "pic.twitter.com/GmJy09dHwW",
+					"expanded_url": "https://twitter.com/livecorp2011/status/1215136424082624512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215136404138627000,
+					"id_str": "1215136404138627072",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0IHxpUEAAEmrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0IHxpUEAAEmrr.jpg",
+					"url": "https://t.co/GmJy09dHwW",
+					"display_url": "pic.twitter.com/GmJy09dHwW",
+					"expanded_url": "https://twitter.com/livecorp2011/status/1215136424082624512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 907,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372372636,
+			"id_str": "372372636",
+			"name": "콘텐츠제작사 라이브 LIVE",
+			"screen_name": "livecorp2011",
+			"location": "",
+			"description": "2019,20 LINE UP ➭ #팬레터 11.7-2.2 두산아트센터 연강홀 ➭ #마리퀴리 20.02.07-03.29 충무아트센터 중극장 블랙",
+			"url": "https://t.co/XdAinDcJpb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XdAinDcJpb",
+							"expanded_url": "http://livecorp.co.kr",
+							"display_url": "livecorp.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6237,
+			"friends_count": 39,
+			"listed_count": 29,
+			"created_at": "Mon Sep 12 17:10:15 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036873522356740098/faqC8OOg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036873522356740098/faqC8OOg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372372636/1575360502",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[마리퀴리] 1차 티켓 오픈 안내\nl 인터파크 티켓오픈: 2020년 1월 15일(수) 오후 2시\nl 충무아트센터 선예매: 2020년 1월 14일(화) 오후 2시~오후 4시\nl 1차 티켓 오픈 일정: 2020년 02월 15일(토) ~ 2020년 03월 1일(일)\nl 인터파크 https://t.co/kSIPu0Qovi\nl 충무아트센터  https://t.co/ahKGFtep63 https://t.co/GmJy09dHwW"
+	},
+	{
+		"created_at": "Thu Jan 09 11:41:38 +0000 2020",
+		"id": 1215227004733149200,
+		"id_str": "1215237187177975808",
+		"full_text": "[1/10 공연 안내]\n\n&lt;롤링 25주년 기념 공연 vol.2 케빈오 &amp; 전진희&gt;\n\n• 티켓수령 : 7시 (현장구매 불가)\n• 입장 : 7시 30분\n• 공연시작 : 8시\n• 출연 : 케빈오, 전진희\n\n#케빈오 #전진희 #롤링25주년기념공연 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 #인디 #멜론티켓 https://t.co/w3T2K9j5db",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케빈오",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "전진희",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "롤링25주년기념공연",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215226948328099800,
+					"id_str": "1215226948328099840",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215226948328099840/pu/img/udire6NqGsOxXxGn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215226948328099840/pu/img/udire6NqGsOxXxGn.jpg",
+					"url": "https://t.co/w3T2K9j5db",
+					"display_url": "pic.twitter.com/w3T2K9j5db",
+					"expanded_url": "https://twitter.com/rollinghall/status/1215227004733149184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215226948328099800,
+					"id_str": "1215226948328099840",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215226948328099840/pu/img/udire6NqGsOxXxGn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215226948328099840/pu/img/udire6NqGsOxXxGn.jpg",
+					"url": "https://t.co/w3T2K9j5db",
+					"display_url": "pic.twitter.com/w3T2K9j5db",
+					"expanded_url": "https://twitter.com/rollinghall/status/1215227004733149184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8960,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215226948328099840/pu/vid/480x480/ZGInH-M5u1BWu9RH.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215226948328099840/pu/vid/320x320/S70pt09xK6bSoPFq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215226948328099840/pu/pl/AS54e9fNUbj2sSc_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215226948328099840/pu/vid/720x720/fgrhp5jhHIuIOJGD.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 788,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1/10 공연 안내]\n\n&lt;롤링 25주년 기념 공연 vol.2 케빈오 &amp; 전진희&gt;\n\n• 티켓수령 : 7시 (현장구매 불가)\n• 입장 : 7시 30분\n• 공연시작 : 8시\n• 출연 : 케빈오, 전진희\n\n#케빈오 #전진희 #롤링25주년기념공연 #롤링25주년 #롤링홀 #ROLLINGHALL #홍대 #공연 #인디 #멜론티켓 https://t.co/w3T2K9j5db"
+	},
+	{
+		"created_at": "Thu Jan 09 11:29:33 +0000 2020",
+		"id": 1215230026397798400,
+		"id_str": "1215234150057349120",
+		"full_text": "[박재정] 한 번 오면 출구가 없다는 그 공연 알려DREAM(ING)\n&gt; https://t.co/NUNAYyA371\n\n#박재정 #박재정콘서트 #Dreaming #드리밍 #콘서트비하인드 https://t.co/OLqIxjibQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박재정",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "박재정콘서트",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "Dreaming",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "드리밍",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "콘서트비하인드",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUNAYyA371",
+					"expanded_url": "http://naver.me/GkQXwDXm",
+					"display_url": "naver.me/GkQXwDXm",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215230017120034800,
+					"id_str": "1215230017120034816",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1dQxLU4AAlx13.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1dQxLU4AAlx13.jpg",
+					"url": "https://t.co/OLqIxjibQb",
+					"display_url": "pic.twitter.com/OLqIxjibQb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215230026397798400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215230017120034800,
+					"id_str": "1215230017120034816",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1dQxLU4AAlx13.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1dQxLU4AAlx13.jpg",
+					"url": "https://t.co/OLqIxjibQb",
+					"display_url": "pic.twitter.com/OLqIxjibQb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215230026397798400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215230017120030700,
+					"id_str": "1215230017120030721",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1dQxLU0AEu2Jz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1dQxLU0AEu2Jz.jpg",
+					"url": "https://t.co/OLqIxjibQb",
+					"display_url": "pic.twitter.com/OLqIxjibQb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215230026397798400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 146,
+									"y": 214,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 379,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 379,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 379,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215230017124196400,
+					"id_str": "1215230017124196352",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1dQxMUYAAcF55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1dQxMUYAAcF55.jpg",
+					"url": "https://t.co/OLqIxjibQb",
+					"display_url": "pic.twitter.com/OLqIxjibQb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215230026397798400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215230017128452000,
+					"id_str": "1215230017128452096",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EN1dQxNVUAAF2Eb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN1dQxNVUAAF2Eb.jpg",
+					"url": "https://t.co/OLqIxjibQb",
+					"display_url": "pic.twitter.com/OLqIxjibQb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215230026397798400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 845,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 845,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "미스틱엔터테인먼트의 새 이름, 미스틱스토리 Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17892,
+			"friends_count": 16,
+			"listed_count": 254,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[박재정] 한 번 오면 출구가 없다는 그 공연 알려DREAM(ING)\n&gt; https://t.co/NUNAYyA371\n\n#박재정 #박재정콘서트 #Dreaming #드리밍 #콘서트비하인드 https://t.co/OLqIxjibQb"
+	},
+	{
 		"created_at": "Thu Jan 09 11:08:42 +0000 2020",
 		"id": 1215228901133373400,
 		"id_str": "1215228901133373441",
@@ -566,7 +1713,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1287,7 +2434,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1521,7 +2668,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
