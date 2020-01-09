@@ -1,6 +1,1136 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 03:58:23 +0000 2020",
+		"id": 1215111493563207700,
+		"id_str": "1215120606112468993",
+		"full_text": "그리고 #skt옥수수앱 과 #wavve 를 통한\n#뮤직멀티뷰서비스 도 놓치지마세요🙂\n⠀\n#ALLTHATMUSIC #올댓뮤직_본방사수\n#고영배 #엠씨영배 #MC영배 #parkkiyoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "skt옥수수앱",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "엠씨영배",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "MC영배",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "parkkiyoung",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215111412248268800,
+		"in_reply_to_status_id_str": "1215111412248268801",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 #skt옥수수앱 과 #wavve 를 통한\n#뮤직멀티뷰서비스 도 놓치지마세요🙂\n⠀\n#ALLTHATMUSIC #올댓뮤직_본방사수\n#고영배 #엠씨영배 #MC영배 #parkkiyoung"
+	},
+	{
+		"created_at": "Thu Jan 09 03:58:14 +0000 2020",
+		"id": 1215111412248268800,
+		"id_str": "1215120572079800320",
+		"full_text": "#올댓뮤직 #본방사수\n01월 9일 목요일 밤 11시 40분 KBS1 TV\n⠀\n오늘 밤 11시 40분, 변함없는 가창력의 소유자\n명품 보컬리스트 #박기영 편이 방송됩니다🎉\n⠀\n여러 장르를 아우르는 팔색조 같은 무대와\n올댓뮤직 공식 딸바보(?) MC영배와의 공감 100%\n육아토크까지! 기대 많이 해주세요👏 https://t.co/tynCVB7SjE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "박기영",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215111354949881900,
+					"id_str": "1215111354949881856",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215111354949881856/pu/img/GsKrew9mZXcpsnYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215111354949881856/pu/img/GsKrew9mZXcpsnYy.jpg",
+					"url": "https://t.co/tynCVB7SjE",
+					"display_url": "pic.twitter.com/tynCVB7SjE",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1215111412248268801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215111354949881900,
+					"id_str": "1215111354949881856",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215111354949881856/pu/img/GsKrew9mZXcpsnYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215111354949881856/pu/img/GsKrew9mZXcpsnYy.jpg",
+					"url": "https://t.co/tynCVB7SjE",
+					"display_url": "pic.twitter.com/tynCVB7SjE",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1215111412248268801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 30167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215111354949881856/pu/vid/854x480/7xDoP15Z75cvIjHF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215111354949881856/pu/vid/640x360/pJaIulZLqqtadMxu.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215111354949881856/pu/vid/480x270/2dwc3ikOxN2xHZZn.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215111354949881856/pu/pl/FjAmB84v8OhyAJXb.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 947,
+			"listed_count": 94,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n01월 9일 목요일 밤 11시 40분 KBS1 TV\n⠀\n오늘 밤 11시 40분, 변함없는 가창력의 소유자\n명품 보컬리스트 #박기영 편이 방송됩니다🎉\n⠀\n여러 장르를 아우르는 팔색조 같은 무대와\n올댓뮤직 공식 딸바보(?) MC영배와의 공감 100%\n육아토크까지! 기대 많이 해주세요👏 https://t.co/tynCVB7SjE"
+	},
+	{
+		"created_at": "Thu Jan 09 03:49:13 +0000 2020",
+		"id": 1215118299303948300,
+		"id_str": "1215118299303948289",
+		"full_text": "#PrivateCurve #프라이빗커브\n[공연안내] CHRISTOPHER LIVE IN SEOUL 2020\nhttps://t.co/iYiPOa2eYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iYiPOa2eYe",
+					"expanded_url": "http://bit.ly/2N9zFPl",
+					"display_url": "bit.ly/2N9zFPl",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PrivateCurve #프라이빗커브\n[공연안내] CHRISTOPHER LIVE IN SEOUL 2020\nhttps://t.co/iYiPOa2eYe"
+	},
+	{
+		"created_at": "Thu Jan 09 03:41:37 +0000 2020",
+		"id": 1215106222803710000,
+		"id_str": "1215116390480404481",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.16 이브 단독 콘서트 feat.고릴라큰잔치&gt;\n\n· 일시 : 2020년 2월 22일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 이브\n· 예매 : 멜론티켓 2020년 1월 16일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#이브 #EVE #단독콘서트 #롤링25주년기념공연 #롤링홀 https://t.co/bIK5q4qcky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "EVE",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "롤링25주년기념공연",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215106214566056000,
+					"id_str": "1215106214566055936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzsqguUUAAv5sx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzsqguUUAAv5sx.jpg",
+					"url": "https://t.co/bIK5q4qcky",
+					"display_url": "pic.twitter.com/bIK5q4qcky",
+					"expanded_url": "https://twitter.com/rollinghall/status/1215106222803709953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215106214566056000,
+					"id_str": "1215106214566055936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ENzsqguUUAAv5sx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENzsqguUUAAv5sx.jpg",
+					"url": "https://t.co/bIK5q4qcky",
+					"display_url": "pic.twitter.com/bIK5q4qcky",
+					"expanded_url": "https://twitter.com/rollinghall/status/1215106222803709953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 788,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.16 이브 단독 콘서트 feat.고릴라큰잔치&gt;\n\n· 일시 : 2020년 2월 22일 (토) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 이브\n· 예매 : 멜론티켓 2020년 1월 16일 (목) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#이브 #EVE #단독콘서트 #롤링25주년기념공연 #롤링홀 https://t.co/bIK5q4qcky"
+	},
+	{
+		"created_at": "Thu Jan 09 03:29:25 +0000 2020",
+		"id": 1215103426092159000,
+		"id_str": "1215113316869255170",
+		"full_text": "메간 트레이너 X 빌리 아일리시..?\n🤯🤯🤯🤯🤯 https://t.co/Zd6p1nrfYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zd6p1nrfYH",
+					"expanded_url": "https://twitter.com/BBCR1/status/1214932353652580352",
+					"display_url": "twitter.com/BBCR1/status/1…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14861,
+			"friends_count": 262,
+			"listed_count": 386,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1570788719",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214932353652580400,
+		"quoted_status_id_str": "1214932353652580352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zd6p1nrfYH",
+			"expanded": "https://twitter.com/BBCR1/status/1214932353652580352",
+			"display": "twitter.com/BBCR1/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 08 15:30:20 +0000 2020",
+			"id": 1214932353652580400,
+			"id_str": "1214932353652580352",
+			"full_text": "\"That messes with my mind\" 🤯\n\n@Meghan_Trainor sang 'All About That Bass' to the tune of 'Bad Guy' by @billieeilish and she absolutely smashed it 🔥 https://t.co/d7SXW6KuHq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Meghan_Trainor",
+						"name": "Meghan Trainor",
+						"id": 254830969,
+						"id_str": "254830969",
+						"indices": [
+							30,
+							45
+						]
+					},
+					{
+						"screen_name": "billieeilish",
+						"name": "billie eilish",
+						"id": 2150327072,
+						"id_str": "2150327072",
+						"indices": [
+							101,
+							114
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1214900106811580400,
+						"id_str": "1214900106811580416",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214900106811580416/img/DTAB3wp2-Bixoh24.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214900106811580416/img/DTAB3wp2-Bixoh24.jpg",
+						"url": "https://t.co/d7SXW6KuHq",
+						"display_url": "pic.twitter.com/d7SXW6KuHq",
+						"expanded_url": "https://twitter.com/BBCR1/status/1214932353652580352/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214900106811580400,
+						"id_str": "1214900106811580416",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214900106811580416/img/DTAB3wp2-Bixoh24.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214900106811580416/img/DTAB3wp2-Bixoh24.jpg",
+						"url": "https://t.co/d7SXW6KuHq",
+						"display_url": "pic.twitter.com/d7SXW6KuHq",
+						"expanded_url": "https://twitter.com/BBCR1/status/1214932353652580352/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 77880,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214900106811580416/vid/720x720/NetHclI3HFPtWCcD.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214900106811580416/vid/320x320/0SSjG7HTT_lDOz0M.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1214900106811580416/vid/480x480/_iY0UH8Aqx_KfsdG.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1214900106811580416/pl/fdnywqsnIX80Mopo.m3u8?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7111412,
+				"id_str": "7111412",
+				"name": "BBC Radio 1",
+				"screen_name": "BBCR1",
+				"location": "UK",
+				"description": "This is the official Twitter account for BBC Radio 1. Listen on your radio or on @BBCSounds ✨",
+				"url": "https://t.co/tGe6JIRGu0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tGe6JIRGu0",
+								"expanded_url": "http://www.bbc.co.uk/radio1",
+								"display_url": "bbc.co.uk/radio1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3050030,
+				"friends_count": 2512,
+				"listed_count": 8723,
+				"created_at": "Wed Jun 27 15:23:51 +0000 2007",
+				"favourites_count": 28415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 103272,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7111412/1565085392",
+				"profile_link_color": "E61C1C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "B8068E",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 306,
+			"favorite_count": 1831,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "메간 트레이너 X 빌리 아일리시..?\n🤯🤯🤯🤯🤯 https://t.co/Zd6p1nrfYH"
+	},
+	{
 		"created_at": "Thu Jan 09 03:01:11 +0000 2020",
 		"id": 1215106215019274200,
 		"id_str": "1215106215019274241",
