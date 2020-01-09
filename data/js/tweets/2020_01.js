@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 17:41:37 +0000 2020",
+		"id": 1215314308046848000,
+		"id_str": "1215327783498461184",
+		"full_text": "1/17(fri) [clubFF - Crazy tarin]\n해리빅버튼 Harrybigbutton\n동이혼 DIH\n워킹애프터유 Walking after u\n두억시니 Duoxini\n퀸즈네스트 Queen's nest\n이세계 Esegye\n유수림 Youthlim \n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/tpGNYHH5Yv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215314297133228000,
+					"id_str": "1215314297133228032",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2p6gsUYAAZ1yB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2p6gsUYAAZ1yB.jpg",
+					"url": "https://t.co/tpGNYHH5Yv",
+					"display_url": "pic.twitter.com/tpGNYHH5Yv",
+					"expanded_url": "https://twitter.com/clubFF_/status/1215314308046848000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 155,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 632,
+									"y": 211,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 633,
+									"y": 246,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 227,
+									"y": 389,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215314297133228000,
+					"id_str": "1215314297133228032",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2p6gsUYAAZ1yB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2p6gsUYAAZ1yB.jpg",
+					"url": "https://t.co/tpGNYHH5Yv",
+					"display_url": "pic.twitter.com/tpGNYHH5Yv",
+					"expanded_url": "https://twitter.com/clubFF_/status/1215314308046848000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 635,
+									"y": 155,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 632,
+									"y": 211,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 633,
+									"y": 246,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 227,
+									"y": 389,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 898,
+									"y": 220,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 894,
+									"y": 299,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 895,
+									"y": 348,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215314297150066700,
+					"id_str": "1215314297150066688",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2p6gwVUAARsCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2p6gwVUAARsCw.jpg",
+					"url": "https://t.co/tpGNYHH5Yv",
+					"display_url": "pic.twitter.com/tpGNYHH5Yv",
+					"expanded_url": "https://twitter.com/clubFF_/status/1215314308046848000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 894,
+									"y": 299,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 632,
+									"y": 211,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 227,
+									"y": 389,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 894,
+									"y": 299,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 894,
+									"y": 299,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 321,
+									"y": 551,
+									"h": 51,
+									"w": 51
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6670,
+			"friends_count": 7,
+			"listed_count": 99,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1/17(fri) [clubFF - Crazy tarin]\n해리빅버튼 Harrybigbutton\n동이혼 DIH\n워킹애프터유 Walking after u\n두억시니 Duoxini\n퀸즈네스트 Queen's nest\n이세계 Esegye\n유수림 Youthlim \n\nstart 7:30pm\n*공연 순서는 추후 공개됩니다. https://t.co/tpGNYHH5Yv"
+	},
+	{
 		"created_at": "Thu Jan 09 16:41:38 +0000 2020",
 		"id": 1215298188040556500,
 		"id_str": "1215312687485374465",
