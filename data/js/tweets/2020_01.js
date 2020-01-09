@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 15:58:18 +0000 2020",
+		"id": 1215288337734365200,
+		"id_str": "1215301783175794690",
+		"full_text": "#심야아이돌 포카세트! ✨ 나우 오디오쇼 로고 스티커까지 풀셋👏🏻 다음주 100회 특집 주간에 100세트 쏩니다. 선물도 100개 짱짱하게 준비했어요! 여러분께 다~나눠드릴거니까! 다음주에도 호스트 #하성운 과 같이 매일매일 놀쟈~🥳 #NOW온에어 https://t.co/zOwI1fl4Sq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215288321577902000,
+					"id_str": "1215288321577902080",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2SSiNU4AA1-xb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2SSiNU4AA1-xb.jpg",
+					"url": "https://t.co/zOwI1fl4Sq",
+					"display_url": "pic.twitter.com/zOwI1fl4Sq",
+					"expanded_url": "https://twitter.com/kr_now/status/1215288337734365188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 412,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 704,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 704,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215288321577902000,
+					"id_str": "1215288321577902080",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2SSiNU4AA1-xb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2SSiNU4AA1-xb.jpg",
+					"url": "https://t.co/zOwI1fl4Sq",
+					"display_url": "pic.twitter.com/zOwI1fl4Sq",
+					"expanded_url": "https://twitter.com/kr_now/status/1215288337734365188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 412,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 704,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 144,
+									"y": 704,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19429,
+			"friends_count": 0,
+			"listed_count": 46,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1805,
+		"favorite_count": 2097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#심야아이돌 포카세트! ✨ 나우 오디오쇼 로고 스티커까지 풀셋👏🏻 다음주 100회 특집 주간에 100세트 쏩니다. 선물도 100개 짱짱하게 준비했어요! 여러분께 다~나눠드릴거니까! 다음주에도 호스트 #하성운 과 같이 매일매일 놀쟈~🥳 #NOW온에어 https://t.co/zOwI1fl4Sq"
+	},
+	{
 		"created_at": "Thu Jan 09 14:58:15 +0000 2020",
 		"id": 1215276880191873000,
 		"id_str": "1215286667818479618",
@@ -168,7 +437,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
