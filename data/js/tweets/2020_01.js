@@ -1,6 +1,1778 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 10:13:26 +0000 2020",
+		"id": 1215214991038656500,
+		"id_str": "1215214991038656516",
+		"full_text": "#SMTOWN\n[달리는 나만의 라이브 : 달나라 노래방] 5회 Jang Jane 장재인 편\nhttps://t.co/GII9Rrq8gz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GII9Rrq8gz",
+					"expanded_url": "https://youtu.be/QQMzGJkTf3A",
+					"display_url": "youtu.be/QQMzGJkTf3A",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\n[달리는 나만의 라이브 : 달나라 노래방] 5회 Jang Jane 장재인 편\nhttps://t.co/GII9Rrq8gz"
+	},
+	{
+		"created_at": "Thu Jan 09 09:58:15 +0000 2020",
+		"id": 1215197737135698000,
+		"id_str": "1215211170531069952",
+		"full_text": "#비오브유 가 시험에 나온다면 전 오늘 #비오브유쇼 를 듣겠어요. 아주 아주 중요한 국헌, 유빈의 취향을 알아봅시다😇 #미츄 여러분은 청취 필수‼️ 오늘 밤 7시, 네이버앱을 찾아주세요💛💚💙 #B_O_Y #BOfYou #김국헌 #KOOKHEON #송유빈 #YUVIN #PhaseOne_YOU #NOW온에어 https://t.co/1DBvlu32hu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비오브유",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "비오브유쇼",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "미츄",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "B_O_Y",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "BOfYou",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "김국헌",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "KOOKHEON",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "송유빈",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "YUVIN",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "PhaseOne_YOU",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215197711927918600,
+					"id_str": "1215197711927918593",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0_4W9UwAEMsBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0_4W9UwAEMsBw.jpg",
+					"url": "https://t.co/1DBvlu32hu",
+					"display_url": "pic.twitter.com/1DBvlu32hu",
+					"expanded_url": "https://twitter.com/kr_now/status/1215197737135697921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 526,
+									"y": 292,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 585,
+									"h": 642,
+									"w": 642
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 298,
+									"y": 165,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 897,
+									"y": 499,
+									"h": 547,
+									"w": 547
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215197711927918600,
+					"id_str": "1215197711927918593",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0_4W9UwAEMsBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0_4W9UwAEMsBw.jpg",
+					"url": "https://t.co/1DBvlu32hu",
+					"display_url": "pic.twitter.com/1DBvlu32hu",
+					"expanded_url": "https://twitter.com/kr_now/status/1215197737135697921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 526,
+									"y": 292,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1052,
+									"y": 585,
+									"h": 642,
+									"w": 642
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 298,
+									"y": 165,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 897,
+									"y": 499,
+									"h": 547,
+									"w": 547
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215197711936262100,
+					"id_str": "1215197711936262145",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0_4W_UEAEQmKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0_4W_UEAEQmKR.jpg",
+					"url": "https://t.co/1DBvlu32hu",
+					"display_url": "pic.twitter.com/1DBvlu32hu",
+					"expanded_url": "https://twitter.com/kr_now/status/1215197737135697921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215197711940513800,
+					"id_str": "1215197711940513792",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0_4XAU8AAvZSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0_4XAU8AAvZSX.jpg",
+					"url": "https://t.co/1DBvlu32hu",
+					"display_url": "pic.twitter.com/1DBvlu32hu",
+					"expanded_url": "https://twitter.com/kr_now/status/1215197737135697921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 91,
+									"y": 1435,
+									"h": 211,
+									"w": 211
+								},
+								{
+									"x": 701,
+									"y": 249,
+									"h": 591,
+									"w": 591
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 30,
+									"y": 476,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 232,
+									"y": 82,
+									"h": 196,
+									"w": 196
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 1682,
+									"h": 248,
+									"w": 248
+								},
+								{
+									"x": 822,
+									"y": 292,
+									"h": 693,
+									"w": 693
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 53,
+									"y": 841,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 411,
+									"y": 146,
+									"h": 346,
+									"w": 346
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215197711927922700,
+					"id_str": "1215197711927922689",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0_4W9U0AElWRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0_4W9U0AElWRI.jpg",
+					"url": "https://t.co/1DBvlu32hu",
+					"display_url": "pic.twitter.com/1DBvlu32hu",
+					"expanded_url": "https://twitter.com/kr_now/status/1215197737135697921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 370,
+									"y": 828,
+									"h": 255,
+									"w": 255
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 209,
+									"y": 469,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 740,
+									"y": 1657,
+									"h": 510,
+									"w": 510
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 631,
+									"y": 1413,
+									"h": 435,
+									"w": 435
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19363,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#비오브유 가 시험에 나온다면 전 오늘 #비오브유쇼 를 듣겠어요. 아주 아주 중요한 국헌, 유빈의 취향을 알아봅시다😇 #미츄 여러분은 청취 필수‼️ 오늘 밤 7시, 네이버앱을 찾아주세요💛💚💙 #B_O_Y #BOfYou #김국헌 #KOOKHEON #송유빈 #YUVIN #PhaseOne_YOU #NOW온에어 https://t.co/1DBvlu32hu"
+	},
+	{
+		"created_at": "Thu Jan 09 09:49:24 +0000 2020",
+		"id": 1215208943489814500,
+		"id_str": "1215208943489814528",
+		"full_text": "#PrivateCurve #프라이빗커브\n[BON IVER LIVE IN SEOUL] D-3 : Naeem\nhttps://t.co/w9Xl4OpAfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w9Xl4OpAfo",
+					"expanded_url": "http://bit.ly/35BseXB",
+					"display_url": "bit.ly/35BseXB",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PrivateCurve #프라이빗커브\n[BON IVER LIVE IN SEOUL] D-3 : Naeem\nhttps://t.co/w9Xl4OpAfo"
+	},
+	{
+		"created_at": "Thu Jan 09 09:41:38 +0000 2020",
+		"id": 1215196729856774100,
+		"id_str": "1215206988398972928",
+		"full_text": "[공중캠프 알콜토크.26-1]\n\n&lt;정신분석의 네 가지 근본 개념&gt; 강독 세미나\n\n* 2020.1.9(목) 19:00 / 19:30~22:00\n* 공중캠프 (마포구 와우산로 150 2층)\n* 진행: 최 원\n* 교재: &lt;정신분석의 네 가지 근본 개념&gt; 1장 (새물결)\n* 회비: 무료 (공중캠프 술/음료 주문)\n\nhttps://t.co/ZrsHSQREbe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZrsHSQREbe",
+					"expanded_url": "http://kuchu-camp.net/xe/82011",
+					"display_url": "kuchu-camp.net/xe/82011",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203883533233574000,
+		"in_reply_to_status_id_str": "1203883533233573888",
+		"in_reply_to_user_id": 1134022675649589200,
+		"in_reply_to_user_id_str": "1134022675649589248",
+		"in_reply_to_screen_name": "kuchucamp_",
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114,
+			"friends_count": 473,
+			"listed_count": 1,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공중캠프 알콜토크.26-1]\n\n&lt;정신분석의 네 가지 근본 개념&gt; 강독 세미나\n\n* 2020.1.9(목) 19:00 / 19:30~22:00\n* 공중캠프 (마포구 와우산로 150 2층)\n* 진행: 최 원\n* 교재: &lt;정신분석의 네 가지 근본 개념&gt; 1장 (새물결)\n* 회비: 무료 (공중캠프 술/음료 주문)\n\nhttps://t.co/ZrsHSQREbe"
+	},
+	{
+		"created_at": "Thu Jan 09 09:40:14 +0000 2020",
+		"id": 1215206635502821400,
+		"id_str": "1215206635502821376",
+		"full_text": "#민트페이퍼 #MINTPAPER\n장희원(Jang HeeWon) 'Sanata Claus Is Coming To Town(캐롤)' cover [오색라이브]\nhttps://t.co/uFUfzUfJVs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uFUfzUfJVs",
+					"expanded_url": "https://youtu.be/bl5MJWV_-kI",
+					"display_url": "youtu.be/bl5MJWV_-kI",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 345,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n장희원(Jang HeeWon) 'Sanata Claus Is Coming To Town(캐롤)' cover [오색라이브]\nhttps://t.co/uFUfzUfJVs"
+	},
+	{
+		"created_at": "Thu Jan 09 09:29:47 +0000 2020",
+		"id": 1215199692109168600,
+		"id_str": "1215204007280619520",
+		"full_text": "[🎥] [CJ도너스캠프] 청소년 문화동아리 마스터멘토 신승훈 프로듀서 특강\n\nCJ도너스캠프에 마스터 멘토로서 참여하였습니다. 강연은 아래 영상에서 보실 수 있습니다. :)\n\n🔗https://t.co/CmEQKFXpJn\n\n#신승훈 #도로시컴퍼니 #CJ도너스캠프 #마스터멘토",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "도로시컴퍼니",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "CJ도너스캠프",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "마스터멘토",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CmEQKFXpJn",
+					"expanded_url": "https://youtu.be/TaGZTzMuex8",
+					"display_url": "youtu.be/TaGZTzMuex8",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1,
+			"listed_count": 21,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥] [CJ도너스캠프] 청소년 문화동아리 마스터멘토 신승훈 프로듀서 특강\n\nCJ도너스캠프에 마스터 멘토로서 참여하였습니다. 강연은 아래 영상에서 보실 수 있습니다. :)\n\n🔗https://t.co/CmEQKFXpJn\n\n#신승훈 #도로시컴퍼니 #CJ도너스캠프 #마스터멘토"
+	},
+	{
+		"created_at": "Thu Jan 09 09:29:38 +0000 2020",
+		"id": 1215196539628318700,
+		"id_str": "1215203969007529986",
+		"full_text": "[D-6]\n\nShofar Music Compilation Vol.3 '어색한 사이'\nOfficial Photo #1 &lt;바닐라 어쿠스틱, 김지수, 보라미유&gt;\n\n🎧2020.01.15 6PM Release\n\n✔ Official Blog : https://t.co/VaNLB2h5xE\n✔ Official Instagram : https://t.co/CeRxbIQU8U\n\n#쇼파르뮤직컴필레이션 #어색한사이 https://t.co/32Lm5ZY5iA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직컴필레이션",
+					"indices": [
+						209,
+						220
+					]
+				},
+				{
+					"text": "어색한사이",
+					"indices": [
+						221,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VaNLB2h5xE",
+					"expanded_url": "https://blog.naver.com/shofar_music",
+					"display_url": "blog.naver.com/shofar_music",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/CeRxbIQU8U",
+					"expanded_url": "https://www.instagram.com/shofar_music/",
+					"display_url": "instagram.com/shofar_music/",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215196526873477000,
+					"id_str": "1215196526873477122",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-zYSVAAI_DlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-zYSVAAI_DlP.jpg",
+					"url": "https://t.co/32Lm5ZY5iA",
+					"display_url": "pic.twitter.com/32Lm5ZY5iA",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1215196539628318720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215196526873477000,
+					"id_str": "1215196526873477122",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-zYSVAAI_DlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-zYSVAAI_DlP.jpg",
+					"url": "https://t.co/32Lm5ZY5iA",
+					"display_url": "pic.twitter.com/32Lm5ZY5iA",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1215196539628318720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215196526873477000,
+					"id_str": "1215196526873477120",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-zYSVAAA2XDX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-zYSVAAA2XDX.jpg",
+					"url": "https://t.co/32Lm5ZY5iA",
+					"display_url": "pic.twitter.com/32Lm5ZY5iA",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1215196539628318720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1184,
+									"y": 948,
+									"h": 348,
+									"w": 348
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 346,
+									"y": 277,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 592,
+									"y": 474,
+									"h": 174,
+									"w": 174
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 157,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215196526873440300,
+					"id_str": "1215196526873440256",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-zYSUcAAvD-n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-zYSUcAAvD-n.jpg",
+					"url": "https://t.co/32Lm5ZY5iA",
+					"display_url": "pic.twitter.com/32Lm5ZY5iA",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1215196539628318720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 686,
+									"y": 408,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 239,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 135,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1372,
+									"y": 816,
+									"h": 340,
+									"w": 340
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215196526877626400,
+					"id_str": "1215196526877626368",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-zYTUUAAtvJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-zYTUUAAtvJF.jpg",
+					"url": "https://t.co/32Lm5ZY5iA",
+					"display_url": "pic.twitter.com/32Lm5ZY5iA",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1215196539628318720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7747,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-6]\n\nShofar Music Compilation Vol.3 '어색한 사이'\nOfficial Photo #1 &lt;바닐라 어쿠스틱, 김지수, 보라미유&gt;\n\n🎧2020.01.15 6PM Release\n\n✔ Official Blog : https://t.co/VaNLB2h5xE\n✔ Official Instagram : https://t.co/CeRxbIQU8U\n\n#쇼파르뮤직컴필레이션 #어색한사이 https://t.co/32Lm5ZY5iA"
+	},
+	{
+		"created_at": "Thu Jan 09 09:29:34 +0000 2020",
+		"id": 1215196180855971800,
+		"id_str": "1215203951722799110",
+		"full_text": "Stay tuned for the story of 10 members, from singers to actors and even models, who have teamed up to achieve their long-dreamt goal of becoming a basketball player, and look out for my hard work as ‘Handsome Tigers’’ team manager!\n#조이 #레드벨벳 #RedVelvet #진짜농구핸섬타이거즈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						232,
+						235
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						242,
+						252
+					]
+				},
+				{
+					"text": "진짜농구핸섬타이거즈",
+					"indices": [
+						253,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215196176535806000,
+		"in_reply_to_status_id_str": "1215196176535805952",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8075746,
+			"friends_count": 49,
+			"listed_count": 9736,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 423,
+		"favorite_count": 1457,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Stay tuned for the story of 10 members, from singers to actors and even models, who have teamed up to achieve their long-dreamt goal of becoming a basketball player, and look out for my hard work as ‘Handsome Tigers’’ team manager!\n#조이 #레드벨벳 #RedVelvet #진짜농구핸섬타이거즈"
+	},
+	{
 		"created_at": "Thu Jan 09 09:03:18 +0000 2020",
 		"id": 1215197344511164400,
 		"id_str": "1215197344511164416",
@@ -310,7 +2082,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -725,7 +2497,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1288,7 +3060,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
