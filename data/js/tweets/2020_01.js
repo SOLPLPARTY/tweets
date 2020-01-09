@@ -1,6 +1,1010 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 13:58:23 +0000 2020",
+		"id": 1215271248223060000,
+		"id_str": "1215271601815609346",
+		"full_text": "1월 9일 오늘의 #헤이즈일기 ✍🏼 #헤이즈 호스트 이름 생김! 그 이름 호떡이🥞 그냥 호떡 아니고 🍯꿀호떡🍯이라고 불러야겠어요 쏘스윗~💓 #호스트_떡볶이 #HEIZE #NOW온에어 https://t.co/J0M7PNnz1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈일기",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "호스트_떡볶이",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "HEIZE",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215271238181867500,
+					"id_str": "1215271238181867521",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2CwJmUUAEw0D_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2CwJmUUAEw0D_.jpg",
+					"url": "https://t.co/J0M7PNnz1G",
+					"display_url": "pic.twitter.com/J0M7PNnz1G",
+					"expanded_url": "https://twitter.com/kr_now/status/1215271248223059969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 135,
+									"y": 2,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215271238181867500,
+					"id_str": "1215271238181867521",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN2CwJmUUAEw0D_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN2CwJmUUAEw0D_.jpg",
+					"url": "https://t.co/J0M7PNnz1G",
+					"display_url": "pic.twitter.com/J0M7PNnz1G",
+					"expanded_url": "https://twitter.com/kr_now/status/1215271248223059969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 135,
+									"y": 2,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 3,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19374,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1월 9일 오늘의 #헤이즈일기 ✍🏼 #헤이즈 호스트 이름 생김! 그 이름 호떡이🥞 그냥 호떡 아니고 🍯꿀호떡🍯이라고 불러야겠어요 쏘스윗~💓 #호스트_떡볶이 #HEIZE #NOW온에어 https://t.co/J0M7PNnz1G"
+	},
+	{
+		"created_at": "Thu Jan 09 13:58:14 +0000 2020",
+		"id": 1215257697357951000,
+		"id_str": "1215271567418150913",
+		"full_text": "🔈ON AIR 2020 1월9일(목)🔈\n잠시 후 밤 11시 05분 광주MBC\n나주정미소 난장곡간에서 펼쳐지는\nMC 자신남매 ( #자이로 #신현희 )\n그리고 #디에이드 #새소년 이 펼치는\n숨막히는 라이브 공연 \n본. 방. 사. 수. \n\n실시간 유튜브✔️\nhttps://t.co/npBTaaYoAs https://t.co/md7N2YTTBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자이로",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "신현희",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "디에이드",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "새소년",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/npBTaaYoAs",
+					"expanded_url": "https://youtu.be/RZDzHrF142U",
+					"display_url": "youtu.be/RZDzHrF142U",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215257472459395000,
+					"id_str": "1215257472459395077",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN12O4SU0AULn7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN12O4SU0AULn7w.jpg",
+					"url": "https://t.co/md7N2YTTBk",
+					"display_url": "pic.twitter.com/md7N2YTTBk",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1215257697357950977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 323,
+									"y": 199,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 463,
+									"y": 323,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 135,
+									"y": 191,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215257472459395000,
+					"id_str": "1215257472459395077",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN12O4SU0AULn7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN12O4SU0AULn7w.jpg",
+					"url": "https://t.co/md7N2YTTBk",
+					"display_url": "pic.twitter.com/md7N2YTTBk",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1215257697357950977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 323,
+									"y": 199,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 463,
+									"y": 323,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 135,
+									"y": 191,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 457,
+									"y": 281,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 655,
+									"y": 457,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 191,
+									"y": 271,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215257493078564900,
+					"id_str": "1215257493078564864",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN12QFGUYAA7ovm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN12QFGUYAA7ovm.jpg",
+					"url": "https://t.co/md7N2YTTBk",
+					"display_url": "pic.twitter.com/md7N2YTTBk",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1215257697357950977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 285,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 285,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 285,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 188,
+									"y": 201,
+									"h": 32,
+									"w": 32
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215257525722865700,
+					"id_str": "1215257525722865664",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN12R-tU4AA5iJy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN12R-tU4AA5iJy.jpg",
+					"url": "https://t.co/md7N2YTTBk",
+					"display_url": "pic.twitter.com/md7N2YTTBk",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1215257697357950977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 320,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 320,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 320,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 499,
+									"y": 226,
+									"h": 26,
+									"w": 26
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215257545318649900,
+					"id_str": "1215257545318649856",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EN12THtU0AAjzQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN12THtU0AAjzQP.jpg",
+					"url": "https://t.co/md7N2YTTBk",
+					"display_url": "pic.twitter.com/md7N2YTTBk",
+					"expanded_url": "https://twitter.com/nanjangcon/status/1215257697357950977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 255,
+									"y": 147,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 208,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 208,
+									"h": 140,
+									"w": 140
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 361,
+									"y": 208,
+									"h": 140,
+									"w": 140
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213206629,
+			"id_str": "213206629",
+			"name": "MBC 문화콘서트 난장",
+			"screen_name": "nanjangcon",
+			"location": "Southkorea",
+			"description": "100% LIVE MUSIC PROGRAM \n고품격라이브음악방송 NANJANG OFFICIAL. \nListen to Real Korean Music!\n8대MC #Zairo & #신현희 (자신남매)\n광주MBC제작 / 전남 나주시 / 나주정미소 난장곡간 /",
+			"url": "https://t.co/a4fHCErFEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4fHCErFEn",
+							"expanded_url": "https://www.facebook.com/reallivenanjang/",
+							"display_url": "facebook.com/reallivenanjan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4423,
+			"friends_count": 3582,
+			"listed_count": 109,
+			"created_at": "Mon Nov 08 08:20:05 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980350361260064768/zEPt9lb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213206629/1522568605",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈ON AIR 2020 1월9일(목)🔈\n잠시 후 밤 11시 05분 광주MBC\n나주정미소 난장곡간에서 펼쳐지는\nMC 자신남매 ( #자이로 #신현희 )\n그리고 #디에이드 #새소년 이 펼치는\n숨막히는 라이브 공연 \n본. 방. 사. 수. \n\n실시간 유튜브✔️\nhttps://t.co/npBTaaYoAs https://t.co/md7N2YTTBk"
+	},
+	{
+		"created_at": "Thu Jan 09 13:41:41 +0000 2020",
+		"id": 1215253763855810600,
+		"id_str": "1215267400519684096",
+		"full_text": "흔쾌히 공간을 열어주신 &lt;복합문화공간 에무&gt;와 장소를 옮기는 데 동의해주신 음악가분들께 감사드립니다. 자세한 내용은 곧 다시 알려드릴게요. \n복합문화공간 에무X한잔의 룰루랄라 \n#먼데이서울 \n1/13(월) 8시 이설아, 이태훈 \n1/20(월) 8시 키라라(게스트:김뜻돌)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이서울",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215253673355313200,
+		"in_reply_to_status_id_str": "1215253673355313152",
+		"in_reply_to_user_id": 2407476768,
+		"in_reply_to_user_id_str": "2407476768",
+		"in_reply_to_screen_name": "mondayseoul",
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 227,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1578574085",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "흔쾌히 공간을 열어주신 &lt;복합문화공간 에무&gt;와 장소를 옮기는 데 동의해주신 음악가분들께 감사드립니다. 자세한 내용은 곧 다시 알려드릴게요. \n복합문화공간 에무X한잔의 룰루랄라 \n#먼데이서울 \n1/13(월) 8시 이설아, 이태훈 \n1/20(월) 8시 키라라(게스트:김뜻돌)"
+	},
+	{
 		"created_at": "Thu Jan 09 12:59:32 +0000 2020",
 		"id": 1215256790977450000,
 		"id_str": "1215256790977449984",
