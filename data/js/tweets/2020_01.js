@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 15:58:15 +0000 2020",
+		"id": 1215654711933563000,
+		"id_str": "1215664156210270208",
+		"full_text": "잠시 후 새벽 한 시, #크러쉬 가 들려줬던 플레이리스트를 다시 한 번 들려드립니다💥 뜨거운 금요일 밤, 크러쉬와 함께 마무리하세요👀🎼🎧 #NOW온에어 https://t.co/WjshtQvGZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크러쉬",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215654703091994600,
+					"id_str": "1215654703091994624",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7fgvtU0AAC7y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7fgvtU0AAC7y3.jpg",
+					"url": "https://t.co/WjshtQvGZq",
+					"display_url": "pic.twitter.com/WjshtQvGZq",
+					"expanded_url": "https://twitter.com/kr_now/status/1215654711933562880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 423,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 310,
+									"y": 171,
+									"h": 143,
+									"w": 143
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215654703091994600,
+					"id_str": "1215654703091994624",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7fgvtU0AAC7y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7fgvtU0AAC7y3.jpg",
+					"url": "https://t.co/WjshtQvGZq",
+					"display_url": "pic.twitter.com/WjshtQvGZq",
+					"expanded_url": "https://twitter.com/kr_now/status/1215654711933562880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 672,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 493,
+									"y": 272,
+									"h": 228,
+									"w": 228
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 311,
+									"y": 423,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 310,
+									"y": 171,
+									"h": 143,
+									"w": 143
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19539,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 새벽 한 시, #크러쉬 가 들려줬던 플레이리스트를 다시 한 번 들려드립니다💥 뜨거운 금요일 밤, 크러쉬와 함께 마무리하세요👀🎼🎧 #NOW온에어 https://t.co/WjshtQvGZq"
+	},
+	{
 		"created_at": "Fri Jan 10 15:04:10 +0000 2020",
 		"id": 1215650544662012000,
 		"id_str": "1215650544662011910",
