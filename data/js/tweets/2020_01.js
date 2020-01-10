@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 11:58:24 +0000 2020",
+		"id": 1215599311100108800,
+		"id_str": "1215603795121577985",
+		"full_text": "🍍오늘 밤 12시🍍 #들려주고싶어서 를 찾아온 마지막 #어벤걸스 멤버는 #에이프릴 의 #나은 입니다. #백예린 의 #Bunny , #권진원 의 #happybirthdaytoyou 등 나은이🐰🐥가 직접 고른, 한 편의 동화 같은 플레이리스트📻 오늘 밤 12시에 네이버앱에서 플레이됩니다. #APRIL #NOW온에어 https://t.co/FLD0qrm4k2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "어벤걸스",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "나은",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "Bunny",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "권진원",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "happybirthdaytoyou",
+					"indices": [
+						80,
+						99
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						167,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215599308994572300,
+					"id_str": "1215599308994572288",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6tIYnU8AAyxzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6tIYnU8AAyxzv.jpg",
+					"url": "https://t.co/FLD0qrm4k2",
+					"display_url": "pic.twitter.com/FLD0qrm4k2",
+					"expanded_url": "https://twitter.com/kr_now/status/1215599311100108800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 159,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215599308994572300,
+					"id_str": "1215599308994572288",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6tIYnU8AAyxzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6tIYnU8AAyxzv.jpg",
+					"url": "https://t.co/FLD0qrm4k2",
+					"display_url": "pic.twitter.com/FLD0qrm4k2",
+					"expanded_url": "https://twitter.com/kr_now/status/1215599311100108800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 159,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 253,
+									"h": 330,
+									"w": 330
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19525,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍍오늘 밤 12시🍍 #들려주고싶어서 를 찾아온 마지막 #어벤걸스 멤버는 #에이프릴 의 #나은 입니다. #백예린 의 #Bunny , #권진원 의 #happybirthdaytoyou 등 나은이🐰🐥가 직접 고른, 한 편의 동화 같은 플레이리스트📻 오늘 밤 12시에 네이버앱에서 플레이됩니다. #APRIL #NOW온에어 https://t.co/FLD0qrm4k2"
+	},
+	{
+		"created_at": "Fri Jan 10 11:58:15 +0000 2020",
+		"id": 1215590325411963000,
+		"id_str": "1215603756919857152",
+		"full_text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻‍♂️🚶🏻‍♀️🏃🏻‍♂️🏃🏻‍♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvbYiJYX30",
+					"expanded_url": "http://koreanmusicawards.com/2020/teaser/",
+					"display_url": "koreanmusicawards.com/2020/teaser/",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215590311054852000,
+					"id_str": "1215590311054852097",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6k8orUwAEfkbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6k8orUwAEfkbE.jpg",
+					"url": "https://t.co/y4MNdduljn",
+					"display_url": "pic.twitter.com/y4MNdduljn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1215590325411962881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 189,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215590311054852000,
+					"id_str": "1215590311054852097",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6k8orUwAEfkbE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6k8orUwAEfkbE.jpg",
+					"url": "https://t.co/y4MNdduljn",
+					"display_url": "pic.twitter.com/y4MNdduljn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1215590325411962881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 310,
+									"y": 285,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 205,
+									"y": 189,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 276,
+			"listed_count": 69,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻‍♂️🚶🏻‍♀️🏃🏻‍♂️🏃🏻‍♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn"
+	},
+	{
 		"created_at": "Fri Jan 10 10:29:25 +0000 2020",
 		"id": 1215572858736263200,
 		"id_str": "1215581400818180097",
