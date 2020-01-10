@@ -1,10 +1,279 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 10:29:25 +0000 2020",
+		"id": 1215572858736263200,
+		"id_str": "1215581400818180097",
+		"full_text": "[NEWS] 윤종신, 김이나, 여운혁이 말하는 개인주의와 한국 연예계\n&gt; https://t.co/0aetpAXI7J\n\n#윤종신 #김이나 #여운혁 #BBC #BBCNews #BBCNews코리아 #개인주의 https://t.co/rjd8zbcla3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "여운혁",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "BBC",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "BBCNews",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "BBCNews코리아",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"text": "개인주의",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0aetpAXI7J",
+					"expanded_url": "https://youtu.be/v7DrPS5dDxU",
+					"display_url": "youtu.be/v7DrPS5dDxU",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215572531660214300,
+					"id_str": "1215572531660214272",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215572531660214272/pu/img/vvrRgo2aVFxCrru1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215572531660214272/pu/img/vvrRgo2aVFxCrru1.jpg",
+					"url": "https://t.co/rjd8zbcla3",
+					"display_url": "pic.twitter.com/rjd8zbcla3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215572858736263168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215572531660214300,
+					"id_str": "1215572531660214272",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215572531660214272/pu/img/vvrRgo2aVFxCrru1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215572531660214272/pu/img/vvrRgo2aVFxCrru1.jpg",
+					"url": "https://t.co/rjd8zbcla3",
+					"display_url": "pic.twitter.com/rjd8zbcla3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1215572858736263168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 140001,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215572531660214272/pu/vid/478x270/se9TuqWAW292gDhW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215572531660214272/pu/pl/p9EJKMVTczfUpZnS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215572531660214272/pu/vid/638x360/bbep_o2ARQaRQ2Ri.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215572531660214272/pu/vid/852x480/8LMtNoL43P7IZt-B.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "미스틱엔터테인먼트의 새 이름, 미스틱스토리 Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17888,
+			"friends_count": 16,
+			"listed_count": 254,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 윤종신, 김이나, 여운혁이 말하는 개인주의와 한국 연예계\n&gt; https://t.co/0aetpAXI7J\n\n#윤종신 #김이나 #여운혁 #BBC #BBCNews #BBCNews코리아 #개인주의 https://t.co/rjd8zbcla3"
+	},
+	{
 		"created_at": "Fri Jan 10 09:58:14 +0000 2020",
 		"id": 1215560434708664300,
 		"id_str": "1215573557297717248",
-		"full_text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹‍♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7",
+		"full_text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -92,7 +361,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -147,7 +416,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹‍♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7"
+		"text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7"
 	},
 	{
 		"created_at": "Fri Jan 10 09:50:14 +0000 2020",
