@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 04:41:37 +0000 2020",
+		"id": 1215483220134781000,
+		"id_str": "1215493878033342467",
+		"full_text": "안녕하세요.\n\n[공중캠프 SNC.28 - 오오야 유스케(オオヤユウスケ)]의 예매가 종료되었습니다.\n\n이벤트 참여를 원하시는 분은 공연 당일(1/12~13) 현매를 이용해 주시기 바랍니다.\n\n고맙습니다.\n\nhttps://t.co/gth6ch5R5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gth6ch5R5A",
+					"expanded_url": "http://kuchu-camp.net/xe/82227#comment_82422",
+					"display_url": "kuchu-camp.net/xe/82227#comme…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1209339376464883700,
+		"in_reply_to_status_id_str": "1209339376464883712",
+		"in_reply_to_user_id": 1134022675649589200,
+		"in_reply_to_user_id_str": "1134022675649589248",
+		"in_reply_to_screen_name": "kuchucamp_",
+		"user": {
+			"id": 1134022675649589200,
+			"id_str": "1134022675649589248",
+			"name": "공중캠프 | 空中キャンプ | kuchu-camp",
+			"screen_name": "kuchucamp_",
+			"location": "150, Wausan-ro, Mapo-gu, Seoul",
+			"description": "\"내 마음의 리듬을 믿고(この胸のリズムを信じて), 우리는 걷는다 단지 그뿐(ぼくらは步く ただそんだけ)\" | cafe kuchu-camp (2003.11.8~) | kuchu-camp community (2000.1.12~)",
+			"url": "https://t.co/lMb3B87RqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lMb3B87RqC",
+							"expanded_url": "http://kuchu-camp.net",
+							"display_url": "kuchu-camp.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 473,
+			"listed_count": 1,
+			"created_at": "Thu May 30 09:04:09 +0000 2019",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212274278520913921/SM0jmIox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134022675649589248/1561794116",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "안녕하세요.\n\n[공중캠프 SNC.28 - 오오야 유스케(オオヤユウスケ)]의 예매가 종료되었습니다.\n\n이벤트 참여를 원하시는 분은 공연 당일(1/12~13) 현매를 이용해 주시기 바랍니다.\n\n고맙습니다.\n\nhttps://t.co/gth6ch5R5A"
+	},
+	{
+		"created_at": "Fri Jan 10 04:29:30 +0000 2020",
+		"id": 1215483036474626000,
+		"id_str": "1215490825792126976",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/q1naJiIGml\n-\n[Listen here]\nMelon - https://t.co/7tEtH0IIyg\nGenie - https://t.co/ywMZHRE4bk\nBugs - https://t.co/7gDQwgXM9f\nVibe - https://t.co/QiNWd1oMrm\n\nhttps://t.co/WFm8vQ8EbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1naJiIGml",
+					"expanded_url": "https://bit.ly/39YgXny",
+					"display_url": "bit.ly/39YgXny",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/7tEtH0IIyg",
+					"expanded_url": "https://bit.ly/39S7o9Q",
+					"display_url": "bit.ly/39S7o9Q",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/ywMZHRE4bk",
+					"expanded_url": "https://bit.ly/2FxtwIL",
+					"display_url": "bit.ly/2FxtwIL",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/7gDQwgXM9f",
+					"expanded_url": "https://bit.ly/2FCYSxs",
+					"display_url": "bit.ly/2FCYSxs",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/QiNWd1oMrm",
+					"expanded_url": "https://bit.ly/2Tgihw6",
+					"display_url": "bit.ly/2Tgihw6",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/WFm8vQ8EbB",
+					"expanded_url": "https://youtu.be/wIVRIRFn9rA",
+					"display_url": "youtu.be/wIVRIRFn9rA",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215483033299472400,
+		"in_reply_to_status_id_str": "1215483033299472385",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9771,
+			"friends_count": 2983,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/q1naJiIGml\n-\n[Listen here]\nMelon - https://t.co/7tEtH0IIyg\nGenie - https://t.co/ywMZHRE4bk\nBugs - https://t.co/7gDQwgXM9f\nVibe - https://t.co/QiNWd1oMrm\n\nhttps://t.co/WFm8vQ8EbB"
+	},
+	{
 		"created_at": "Fri Jan 10 03:58:56 +0000 2020",
 		"id": 1215483135552565200,
 		"id_str": "1215483135552565248",
