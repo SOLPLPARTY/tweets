@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 12:58:15 +0000 2020",
+		"id": 1215615485313634300,
+		"id_str": "1215618856271654912",
+		"full_text": "#심야아이돌 100회주간 사연 대 모집✨\n1. [심플리] 심야아이돌에서 듣다가 내 플레이리스트에 넣은 노래\n2. [심순간] 다시 듣고 싶은 베스트모먼트&amp;말말말!\n3. [심궁금] #하성운 #나우 #제작진 에게 묻는다\n문자번호#7117 (정보이용료100원) 각 말머리 달고 보내주시면 넘 좋아요 #선물백개_알져알져",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심야아이돌",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "나우",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "제작진",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "선물백개_알져알져",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19523,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#심야아이돌 100회주간 사연 대 모집✨\n1. [심플리] 심야아이돌에서 듣다가 내 플레이리스트에 넣은 노래\n2. [심순간] 다시 듣고 싶은 베스트모먼트&amp;말말말!\n3. [심궁금] #하성운 #나우 #제작진 에게 묻는다\n문자번호#7117 (정보이용료100원) 각 말머리 달고 보내주시면 넘 좋아요 #선물백개_알져알져"
+	},
+	{
 		"created_at": "Fri Jan 10 11:58:24 +0000 2020",
 		"id": 1215599311100108800,
 		"id_str": "1215603795121577985",
@@ -261,7 +381,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -322,7 +442,7 @@ Grailbird.data.tweets_2020_01 =
 		"created_at": "Fri Jan 10 11:58:15 +0000 2020",
 		"id": 1215590325411963000,
 		"id_str": "1215603756919857152",
-		"full_text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻‍♂️🚶🏻‍♀️🏃🏻‍♂️🏃🏻‍♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn",
+		"full_text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻♂️🚶🏻♀️🏃🏻♂️🏃🏻♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -586,7 +706,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻‍♂️🚶🏻‍♀️🏃🏻‍♂️🏃🏻‍♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn"
+		"text": "[2020 제17회 한국대중음악상 시상식]\n\n드. 디. 어\n대한민국의 음악을 사랑하는 이들의 축제🎼\n⭐️2020 한국대중음악상⭐️이 곧 시작됩니다!\n\n많은 관심 부탁드려요💕\n\n그럼 티저 페이지 구경하러 가볼까요?! \n📲🚶🏻♂️🚶🏻♀️🏃🏻♂️🏃🏻♀️\n\nhttps://t.co/kvbYiJYX30 https://t.co/y4MNdduljn"
 	},
 	{
 		"created_at": "Fri Jan 10 10:29:25 +0000 2020",
