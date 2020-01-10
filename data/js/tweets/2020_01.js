@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 09:58:14 +0000 2020",
+		"id": 1215560434708664300,
+		"id_str": "1215573557297717248",
+		"full_text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹‍♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비오브유",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "유빈",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "국헌",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "셍스트",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "심야아이돌",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_bofyou",
+					"name": "비오브유 (B.O.Y)",
+					"id": 1166900808195006500,
+					"id_str": "1166900808195006464",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hgyDQDFTI7",
+					"expanded_url": "https://tv.naver.com/v/11839778",
+					"display_url": "tv.naver.com/v/11839778",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19519,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "천상계 케미 보여준 #비오브유(@official_bofyou) #유빈 그리고 #국헌 그리고 #셍스트❣️그들의 케미가 폭발해 버리고 말았습니다🧨🔥세.얼.렁.뚱.땅.이 영상 보고 가세요~🤹‍♂️ #심야아이돌 #NOW온에어  https://t.co/hgyDQDFTI7"
+	},
+	{
+		"created_at": "Fri Jan 10 09:50:14 +0000 2020",
+		"id": 1215571540282151000,
+		"id_str": "1215571540282150912",
+		"full_text": "#PrivateCurve #프라이빗커브\n[관람안내] 강이채 소극장 콘서트 '비밀의 방 IV'\nhttps://t.co/OrsasaLXme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OrsasaLXme",
+					"expanded_url": "http://bit.ly/37QrhfF",
+					"display_url": "bit.ly/37QrhfF",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 347,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PrivateCurve #프라이빗커브\n[관람안내] 강이채 소극장 콘서트 '비밀의 방 IV'\nhttps://t.co/OrsasaLXme"
+	},
+	{
+		"created_at": "Fri Jan 10 09:41:38 +0000 2020",
+		"id": 1215566454482854000,
+		"id_str": "1215569376038084609",
+		"full_text": "복합문화공간에무X한잔의 룰루랄라 \n#여기저기룰루랄라 공연편 \n#먼데이서울 \n\n이설아 \n이태훈 \n\n무료입장 자율기부 \n1/13(월) 8시 복합문화공간에무 \n종로구 신문로2가 1-181 https://t.co/3MlbFOAjhk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여기저기룰루랄라",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "먼데이서울",
+					"indices": [
+						34,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215566444617814000,
+					"id_str": "1215566444617814019",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6PPbRUUAMIOJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6PPbRUUAMIOJ6.jpg",
+					"url": "https://t.co/3MlbFOAjhk",
+					"display_url": "pic.twitter.com/3MlbFOAjhk",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1215566454482853888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215566444617814000,
+					"id_str": "1215566444617814019",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6PPbRUUAMIOJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6PPbRUUAMIOJ6.jpg",
+					"url": "https://t.co/3MlbFOAjhk",
+					"display_url": "pic.twitter.com/3MlbFOAjhk",
+					"expanded_url": "https://twitter.com/mondayseoul/status/1215566454482853888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2407476768,
+			"id_str": "2407476768",
+			"name": "먼데이서울",
+			"screen_name": "mondayseoul",
+			"location": "한잔의 룰루랄라",
+			"description": "#먼데이서울 공연 정보 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 550,
+			"friends_count": 228,
+			"listed_count": 12,
+			"created_at": "Sun Mar 23 17:45:50 +0000 2014",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683678350494183424/7_U7LVfr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2407476768/1578648539",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc35ca8d2d5b002",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc35ca8d2d5b002.json",
+			"place_type": "poi",
+			"name": "복합문화공간 에무",
+			"full_name": "복합문화공간 에무",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "복합문화공간에무X한잔의 룰루랄라 \n#여기저기룰루랄라 공연편 \n#먼데이서울 \n\n이설아 \n이태훈 \n\n무료입장 자율기부 \n1/13(월) 8시 복합문화공간에무 \n종로구 신문로2가 1-181 https://t.co/3MlbFOAjhk"
+	},
+	{
+		"created_at": "Fri Jan 10 09:29:32 +0000 2020",
+		"id": 1215561732552196000,
+		"id_str": "1215566334257520641",
+		"full_text": "[홍이삭] ‘별 같아서’ 아지트라이브 공개🎤\n⠀\n풀 버전은 유튜브 ‘아지트라이브 AZIT LIVE’ 채널에서 감상하실 수 있어요⭐https://t.co/G7GYHgHu64\n-\n#홍이삭 #별같아서 #아지트라이브 https://t.co/wRXMrZjf3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "별같아서",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G7GYHgHu64",
+					"expanded_url": "http://youtu.be/tib1Lvyvjo8",
+					"display_url": "youtu.be/tib1Lvyvjo8",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215561463059796000,
+					"id_str": "1215561463059795968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215561463059795968/pu/img/JQcmQP_tidogjFgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215561463059795968/pu/img/JQcmQP_tidogjFgw.jpg",
+					"url": "https://t.co/wRXMrZjf3H",
+					"display_url": "pic.twitter.com/wRXMrZjf3H",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1215561732552196096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215561463059796000,
+					"id_str": "1215561463059795968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215561463059795968/pu/img/JQcmQP_tidogjFgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215561463059795968/pu/img/JQcmQP_tidogjFgw.jpg",
+					"url": "https://t.co/wRXMrZjf3H",
+					"display_url": "pic.twitter.com/wRXMrZjf3H",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1215561732552196096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60096,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215561463059795968/pu/pl/6yTja1v9Jk9tNSDr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215561463059795968/pu/vid/1280x720/Fw77A7oj6WooM8A_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215561463059795968/pu/vid/640x360/wwhWjmd1eCQoVWs2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215561463059795968/pu/vid/480x270/lI45egrEoHASMdMQ.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1787,
+			"friends_count": 25,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[홍이삭] ‘별 같아서’ 아지트라이브 공개🎤\n⠀\n풀 버전은 유튜브 ‘아지트라이브 AZIT LIVE’ 채널에서 감상하실 수 있어요⭐https://t.co/G7GYHgHu64\n-\n#홍이삭 #별같아서 #아지트라이브 https://t.co/wRXMrZjf3H"
+	},
+	{
 		"created_at": "Fri Jan 10 09:04:01 +0000 2020",
 		"id": 1215559909321908200,
 		"id_str": "1215559909321908225",
