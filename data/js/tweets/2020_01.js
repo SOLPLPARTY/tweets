@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 08:09:32 +0000 2020",
+		"id": 1215908589900062700,
+		"id_str": "1215908589900062720",
+		"full_text": "#SMTOWN\nSM엔터테인먼트 이수만 총괄 프로듀서 - 중국 청두TV '新天府会客厅' 인터뷰\nhttps://t.co/Kz9bvMMKHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kz9bvMMKHB",
+					"expanded_url": "https://youtu.be/1wah-dMCRTo",
+					"display_url": "youtu.be/1wah-dMCRTo",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 347,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#SMTOWN\nSM엔터테인먼트 이수만 총괄 프로듀서 - 중국 청두TV '新天府会客厅' 인터뷰\nhttps://t.co/Kz9bvMMKHB"
+	},
+	{
+		"created_at": "Sat Jan 11 08:08:43 +0000 2020",
+		"id": 1215908382726656000,
+		"id_str": "1215908382726656002",
+		"full_text": "#genie #지니 #지니매거진\n사거리 그오빠, 데뷔 미니앨범 [NEWS] 발매 기념 자켓 촬영기\nhttps://t.co/fFxcRlPHjX https://t.co/bra29hgCXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fFxcRlPHjX",
+					"expanded_url": "http://bit.ly/2TarA0N",
+					"display_url": "bit.ly/2TarA0N",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215908381669707800,
+					"id_str": "1215908381669707776",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_GOyDX0AA7nWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_GOyDX0AA7nWT.jpg",
+					"url": "https://t.co/bra29hgCXH",
+					"display_url": "pic.twitter.com/bra29hgCXH",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1215908382726656002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215908381669707800,
+					"id_str": "1215908381669707776",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_GOyDX0AA7nWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_GOyDX0AA7nWT.jpg",
+					"url": "https://t.co/bra29hgCXH",
+					"display_url": "pic.twitter.com/bra29hgCXH",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1215908382726656002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 347,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n사거리 그오빠, 데뷔 미니앨범 [NEWS] 발매 기념 자켓 촬영기\nhttps://t.co/fFxcRlPHjX https://t.co/bra29hgCXH"
+	},
+	{
+		"created_at": "Sat Jan 11 07:41:37 +0000 2020",
+		"id": 1215900206861996000,
+		"id_str": "1215901564252061696",
+		"full_text": "[재미공작소 1월 강독회 : 한유주 작가와의 작고 가까운 테이블] 2020.1.31(금) PM 8 https://t.co/QoZT0kRA11 https://t.co/6XFYYMgVQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QoZT0kRA11",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221767869476",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215900193264042000,
+					"id_str": "1215900193264041984",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EN--yJ3VAAA5F3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN--yJ3VAAA5F3M.jpg",
+					"url": "https://t.co/6XFYYMgVQz",
+					"display_url": "pic.twitter.com/6XFYYMgVQz",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1215900206861996032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215900193264042000,
+					"id_str": "1215900193264041984",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EN--yJ3VAAA5F3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN--yJ3VAAA5F3M.jpg",
+					"url": "https://t.co/6XFYYMgVQz",
+					"display_url": "pic.twitter.com/6XFYYMgVQz",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1215900206861996032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8238,
+			"friends_count": 600,
+			"listed_count": 115,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재미공작소 1월 강독회 : 한유주 작가와의 작고 가까운 테이블] 2020.1.31(금) PM 8 https://t.co/QoZT0kRA11 https://t.co/6XFYYMgVQz"
+	},
+	{
 		"created_at": "Sat Jan 11 06:59:31 +0000 2020",
 		"id": 1215890967804424200,
 		"id_str": "1215890967804424192",
@@ -333,7 +919,7 @@ Grailbird.data.tweets_2020_01 =
 		"created_at": "Sat Jan 11 06:58:15 +0000 2020",
 		"id": 1215889792476409900,
 		"id_str": "1215890647363850240",
-		"full_text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️ https://t.co/4kMmXceK2l",
+		"full_text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️♀️🕵️♂️ https://t.co/4kMmXceK2l",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -842,7 +1428,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️ https://t.co/4kMmXceK2l"
+		"text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️♀️🕵️♂️ https://t.co/4kMmXceK2l"
 	},
 	{
 		"created_at": "Sat Jan 11 05:58:14 +0000 2020",
