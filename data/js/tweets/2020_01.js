@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 05:58:14 +0000 2020",
+		"id": 1215871891870642200,
+		"id_str": "1215875546871103489",
+		"full_text": "#지오디 #점심어택\n매운맛 자신 있는 점택이들 모여라! 매운데 맛있고 그런데 매워서 눈물나지만 그래도 자꾸 가게되는 맛집 추천받아요^^~ 안 먹어도 먹은 거 같은 구체적 맛표현&amp;사진 환영입니당💥 문자 #7117 (정보이용료 100원) #NOW온에어 #god #빨간맛대전 https://t.co/qSTfcZmhRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지오디",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "빨간맛대전",
+					"indices": [
+						148,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215871876112633900,
+					"id_str": "1215871876112633857",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-lB4QU0AEyyvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-lB4QU0AEyyvF.jpg",
+					"url": "https://t.co/qSTfcZmhRG",
+					"display_url": "pic.twitter.com/qSTfcZmhRG",
+					"expanded_url": "https://twitter.com/kr_now/status/1215871891870642183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1926,
+							"h": 1746,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215871876112633900,
+					"id_str": "1215871876112633857",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-lB4QU0AEyyvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-lB4QU0AEyyvF.jpg",
+					"url": "https://t.co/qSTfcZmhRG",
+					"display_url": "pic.twitter.com/qSTfcZmhRG",
+					"expanded_url": "https://twitter.com/kr_now/status/1215871891870642183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1926,
+							"h": 1746,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19628,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지오디 #점심어택\n매운맛 자신 있는 점택이들 모여라! 매운데 맛있고 그런데 매워서 눈물나지만 그래도 자꾸 가게되는 맛집 추천받아요^^~ 안 먹어도 먹은 거 같은 구체적 맛표현&amp;사진 환영입니당💥 문자 #7117 (정보이용료 100원) #NOW온에어 #god #빨간맛대전 https://t.co/qSTfcZmhRG"
+	},
+	{
 		"created_at": "Sat Jan 11 04:58:15 +0000 2020",
 		"id": 1215850272083177500,
 		"id_str": "1215860448974733312",
@@ -160,7 +387,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
