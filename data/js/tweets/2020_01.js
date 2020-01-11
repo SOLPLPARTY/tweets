@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 04:58:15 +0000 2020",
+		"id": 1215850272083177500,
+		"id_str": "1215860448974733312",
+		"full_text": "나우에서 #김재중(@bornfreeonekiss) 단독쇼 한단 말이 #애요~! 1월 14,15,16일 밤9시➡️새앨범 비하인드/ TMI파티/ 친절한 재중씨와 수다타임🥳3일동안 알차게 놀거란 말이애요💞 질문, 하고 싶은 얘기, 털어놓고 싶은 고민! [김재중쇼] 라고 적어서 사연 보내주세요🐘문자번호 #7117(정보이용료100원) https://t.co/HjGwsUaEmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김재중",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "애요",
+					"indices": [
+						38,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bornfreeonekiss",
+					"name": "kimjaejoong",
+					"id": 982162994,
+					"id_str": "982162994",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215850259856781300,
+					"id_str": "1215850259856781312",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-RXpbUcAAKjYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-RXpbUcAAKjYj.jpg",
+					"url": "https://t.co/HjGwsUaEmc",
+					"display_url": "pic.twitter.com/HjGwsUaEmc",
+					"expanded_url": "https://twitter.com/kr_now/status/1215850272083177473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215850259856781300,
+					"id_str": "1215850259856781312",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-RXpbUcAAKjYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-RXpbUcAAKjYj.jpg",
+					"url": "https://t.co/HjGwsUaEmc",
+					"display_url": "pic.twitter.com/HjGwsUaEmc",
+					"expanded_url": "https://twitter.com/kr_now/status/1215850272083177473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19602,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나우에서 #김재중(@bornfreeonekiss) 단독쇼 한단 말이 #애요~! 1월 14,15,16일 밤9시➡️새앨범 비하인드/ TMI파티/ 친절한 재중씨와 수다타임🥳3일동안 알차게 놀거란 말이애요💞 질문, 하고 싶은 얘기, 털어놓고 싶은 고민! [김재중쇼] 라고 적어서 사연 보내주세요🐘문자번호 #7117(정보이용료100원) https://t.co/HjGwsUaEmc"
+	},
+	{
 		"created_at": "Sat Jan 11 03:59:48 +0000 2020",
 		"id": 1215845739626147800,
 		"id_str": "1215845739626147841",
