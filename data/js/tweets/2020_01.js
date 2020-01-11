@@ -1,6 +1,850 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 06:59:31 +0000 2020",
+		"id": 1215890967804424200,
+		"id_str": "1215890967804424192",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] GWIULIM (귀울임) - I Feel\nhttps://t.co/NQq3IxQmA4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQq3IxQmA4",
+					"expanded_url": "https://youtu.be/A4ZtOuaXc5A",
+					"display_url": "youtu.be/A4ZtOuaXc5A",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 347,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n[Audio] GWIULIM (귀울임) - I Feel\nhttps://t.co/NQq3IxQmA4"
+	},
+	{
+		"created_at": "Sat Jan 11 06:58:19 +0000 2020",
+		"id": 1215889874894504000,
+		"id_str": "1215890664711507968",
+		"full_text": "📍신청기간: 19.12.30(월)오후 18시 - 20.01.12(일)오후 24시\n📍당첨자 발표: 20.01.13(월)오후 14시\n📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n\n#ALLTHATMUSIC\n#선우정아 #sunwoojunga #swja #에이퍼즈 #A-FUZZ #김진이 #송슬기 #신선미 #임혜민 #위위 #OuiOui #블루니 #메이지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "sunwoojunga",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "swja",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "에이퍼즈",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "A",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "김진이",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "송슬기",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "신선미",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "임혜민",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "OuiOui",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "블루니",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "메이지",
+					"indices": [
+						193,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215889792476409900,
+		"in_reply_to_status_id_str": "1215889792476409857",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 947,
+			"listed_count": 0,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍신청기간: 19.12.30(월)오후 18시 - 20.01.12(일)오후 24시\n📍당첨자 발표: 20.01.13(월)오후 14시\n📍신청 방법: 올댓뮤직 홈페이지 방청신청 게시판 이용\n\n#ALLTHATMUSIC\n#선우정아 #sunwoojunga #swja #에이퍼즈 #A-FUZZ #김진이 #송슬기 #신선미 #임혜민 #위위 #OuiOui #블루니 #메이지"
+	},
+	{
+		"created_at": "Sat Jan 11 06:58:15 +0000 2020",
+		"id": 1215889792476409900,
+		"id_str": "1215890647363850240",
+		"full_text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️ https://t.co/4kMmXceK2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "공개녹화",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215889784536588300,
+					"id_str": "1215889784536588290",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-1USVUYAIbkcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-1USVUYAIbkcC.jpg",
+					"url": "https://t.co/4kMmXceK2l",
+					"display_url": "pic.twitter.com/4kMmXceK2l",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1215889792476409857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 64,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 404,
+									"y": 611,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 74,
+									"y": 324,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 180,
+									"y": 336,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 388,
+									"y": 337,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 298,
+									"y": 340,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215889784536588300,
+					"id_str": "1215889784536588290",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EN-1USVUYAIbkcC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN-1USVUYAIbkcC.jpg",
+					"url": "https://t.co/4kMmXceK2l",
+					"display_url": "pic.twitter.com/4kMmXceK2l",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1215889792476409857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 129,
+									"y": 80,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 500,
+									"y": 756,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 92,
+									"y": 401,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 223,
+									"y": 416,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 481,
+									"y": 418,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 369,
+									"y": 421,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 64,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 404,
+									"y": 611,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 74,
+									"y": 324,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 180,
+									"y": 336,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 388,
+									"y": 337,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 298,
+									"y": 340,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3767,
+			"friends_count": 947,
+			"listed_count": 0,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #공개녹화\n200115 수요일 19:00 @춘천KBS공개홀\n⠀\n내일 밤 12시, 방청신청이 마감됩니다!\n늦기 전에 서둘러 주세요👏👏\n⠀\n그리고 @sunwoojunga_official 에게\n궁금한 점을 댓글로 남겨주세요!\n아주 사소하고 작은 질문까지 모두 모아\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️ https://t.co/4kMmXceK2l"
+	},
+	{
 		"created_at": "Sat Jan 11 05:58:14 +0000 2020",
 		"id": 1215871891870642200,
 		"id_str": "1215875546871103489",
@@ -170,7 +1014,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
