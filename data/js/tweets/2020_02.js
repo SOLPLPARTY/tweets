@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 09:41:38 +0000 2020",
+		"id": 1223528372501762000,
+		"id_str": "1223541909970391040",
+		"full_text": "2/7(fri) [clubFF - Live Bands]\nPart.1 - 4ever\n유수림. 잭더라즈. 후디니. P:Q\n\nstart 7:30pm\n*공연 순서는 위와 같습니다\n*1부 공연 관람자는 2부 공연도 관람할 수 있습니다. \n\nPart.2 - The Punk Show\n쟈니스파크. 코인클래식. 데드첸트. 토크뱃츠\n\nstart 10:00pm\n*공연 순서는 위와 같습니다 https://t.co/vPnVAUtQZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223528357251309600,
+					"id_str": "1223528357251309569",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EPrYjvKU4AE3ppM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPrYjvKU4AE3ppM.jpg",
+					"url": "https://t.co/vPnVAUtQZ5",
+					"display_url": "pic.twitter.com/vPnVAUtQZ5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223528372501762054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223528357251309600,
+					"id_str": "1223528357251309569",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EPrYjvKU4AE3ppM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPrYjvKU4AE3ppM.jpg",
+					"url": "https://t.co/vPnVAUtQZ5",
+					"display_url": "pic.twitter.com/vPnVAUtQZ5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223528372501762054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1223528357247111200,
+					"id_str": "1223528357247111173",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EPrYjvJU0AUS-Bp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPrYjvJU0AUS-Bp.jpg",
+					"url": "https://t.co/vPnVAUtQZ5",
+					"display_url": "pic.twitter.com/vPnVAUtQZ5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223528372501762054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 889,
+									"y": 315,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 889,
+									"y": 315,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 174,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 629,
+									"y": 223,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 889,
+									"y": 315,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223528357255508000,
+					"id_str": "1223528357255507974",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EPrYjvLU8AY6CO0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPrYjvLU8AY6CO0.jpg",
+					"url": "https://t.co/vPnVAUtQZ5",
+					"display_url": "pic.twitter.com/vPnVAUtQZ5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223528372501762054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1223528357251256300,
+					"id_str": "1223528357251256321",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EPrYjvKUEAEawGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPrYjvKUEAEawGv.jpg",
+					"url": "https://t.co/vPnVAUtQZ5",
+					"display_url": "pic.twitter.com/vPnVAUtQZ5",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223528372501762054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 888,
+									"y": 314,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 888,
+									"y": 314,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 246,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 888,
+									"y": 314,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 174,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 629,
+									"y": 222,
+									"h": 34,
+									"w": 34
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6677,
+			"friends_count": 7,
+			"listed_count": 98,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2/7(fri) [clubFF - Live Bands]\nPart.1 - 4ever\n유수림. 잭더라즈. 후디니. P:Q\n\nstart 7:30pm\n*공연 순서는 위와 같습니다\n*1부 공연 관람자는 2부 공연도 관람할 수 있습니다. \n\nPart.2 - The Punk Show\n쟈니스파크. 코인클래식. 데드첸트. 토크뱃츠\n\nstart 10:00pm\n*공연 순서는 위와 같습니다 https://t.co/vPnVAUtQZ5"
+	},
+	{
 		"created_at": "Sat Feb 01 09:15:30 +0000 2020",
 		"id": 1223535333893120000,
 		"id_str": "1223535333893120002",
