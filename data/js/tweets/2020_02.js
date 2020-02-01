@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 04:58:15 +0000 2020",
+		"id": 1223466873934643200,
+		"id_str": "1223470593221197824",
+		"full_text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Q",
+					"indices": [
+						6,
+						8
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "그리즐리",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "우디고차일드",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "골든",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "기리보이",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "Grizzly",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "WoodieGochild",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "Golden",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "Giriboy",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "g_theprince",
+					"name": "️️ًًً",
+					"id": 3388957839,
+					"id_str": "3388957839",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "giriboy91",
+					"name": "GIRIBOY",
+					"id": 195043321,
+					"id_str": "195043321",
+					"indices": [
+						32,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223466865181069300,
+					"id_str": "1223466865181069312",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqgobWUEAAacTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqgobWUEAAacTH.jpg",
+					"url": "https://t.co/AILkrfRRZ2",
+					"display_url": "pic.twitter.com/AILkrfRRZ2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1223466873934643200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 957,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 717,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 406,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 957,
+									"h": 184,
+									"w": 184
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223466865181069300,
+					"id_str": "1223466865181069312",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqgobWUEAAacTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqgobWUEAAacTH.jpg",
+					"url": "https://t.co/AILkrfRRZ2",
+					"display_url": "pic.twitter.com/AILkrfRRZ2",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1223466873934643200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 957,
+									"h": 184,
+									"w": 184
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 717,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 122,
+									"y": 406,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 957,
+									"h": 184,
+									"w": 184
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3759,
+			"friends_count": 945,
+			"listed_count": 93,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2"
+	},
+	{
 		"created_at": "Sat Feb 01 03:46:50 +0000 2020",
 		"id": 1223452623262703600,
 		"id_str": "1223452623262703616",
