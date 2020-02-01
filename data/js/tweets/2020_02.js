@@ -1,10 +1,343 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 05:58:15 +0000 2020",
+		"id": 1223472845814001700,
+		"id_str": "1223485692971491328",
+		"full_text": "#EDCKorea 로 손을 뻗어봐요!🙌🌼\nPut your hands up in the air at EDC Korea!🙌🌼\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/1Cp7ORx0bS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCKorea",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "이디씨코리아",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os9S6h6izZ",
+					"expanded_url": "https://korea.electricdaisycarnival.com/tickets",
+					"display_url": "korea.electricdaisycarnival.com/tickets",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1223472834862665700,
+					"id_str": "1223472834862665729",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqmD6JUUAEIlww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqmD6JUUAEIlww.jpg",
+					"url": "https://t.co/1Cp7ORx0bS",
+					"display_url": "pic.twitter.com/1Cp7ORx0bS",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1223472845814001665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1061,
+									"y": 456,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 250,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 943,
+									"y": 405,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 314,
+									"y": 222,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 229,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 178,
+									"y": 125,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1061,
+									"y": 456,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 250,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223472834862665700,
+					"id_str": "1223472834862665729",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqmD6JUUAEIlww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqmD6JUUAEIlww.jpg",
+					"url": "https://t.co/1Cp7ORx0bS",
+					"display_url": "pic.twitter.com/1Cp7ORx0bS",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1223472845814001665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1061,
+									"y": 456,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 250,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 943,
+									"y": 405,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 314,
+									"y": 222,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 229,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 178,
+									"y": 125,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1061,
+									"y": 456,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 250,
+									"h": 97,
+									"w": 97
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\nAugust 15+16, 2020 #EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 9,
+			"listed_count": 3,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1578877398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDCKorea 로 손을 뻗어봐요!🙌🌼\nPut your hands up in the air at EDC Korea!🙌🌼\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/1Cp7ORx0bS"
+	},
+	{
 		"created_at": "Sat Feb 01 04:58:15 +0000 2020",
 		"id": 1223466873934643200,
 		"id_str": "1223470593221197824",
-		"full_text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2",
+		"full_text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️♀️🕵️♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -357,7 +690,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️‍♀️🕵️‍♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2"
+		"text": "#올댓뮤직 #Q&amp;A\n⠀\n@g_theprince 와 @giriboy91 에게\n궁금한 점을 댓글로 남겨주세요!\n⠀\n댓글로 남겨주신 질문들을 선정해\n올댓뮤직이 직접 물어봐드립니다🕵️♀️🕵️♂️\n⠀\n#ALLTHATMUSIC\n#그리즐리 #우디고차일드 #골든 #기리보이\n#Grizzly #WoodieGochild #Golden #Giriboy https://t.co/AILkrfRRZ2"
 	},
 	{
 		"created_at": "Sat Feb 01 03:46:50 +0000 2020",
