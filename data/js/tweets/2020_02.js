@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 12:02:15 +0000 2020",
+		"id": 1223577298592505900,
+		"id_str": "1223577298592505858",
+		"full_text": "#Songkick #송킥\nEzra Collective at Unknown venue (February 25, 2020)\n▶ https://t.co/7ufEjS3jBL\n　\n#내한 #내한공연 #내한콘서트 #공연안내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "송킥",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "내한콘서트",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ufEjS3jBL",
+					"expanded_url": "http://bit.ly/2S6YMnS",
+					"display_url": "bit.ly/2S6YMnS",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Songkick #송킥\nEzra Collective at Unknown venue (February 25, 2020)\n▶ https://t.co/7ufEjS3jBL\n　\n#내한 #내한공연 #내한콘서트 #공연안내"
+	},
+	{
+		"created_at": "Sat Feb 01 11:41:40 +0000 2020",
+		"id": 1223563115607908400,
+		"id_str": "1223572116202754048",
+		"full_text": "※ 롤링홀에서는 신종 코로나바이러스 국내 확산 및 감염병 방지와 관객분들의 안전을 위해,\n공연 당일 티켓 부스에 손 소독제와 마스크를 구비해 둘 예정이며, 적외선 체온 감지기를 통하여 사전 검사가 진행될 예정입니다.\n이 점 참고하시어 안전과 예방에 협조 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1223563086621102000,
+		"in_reply_to_status_id_str": "1223563086621102082",
+		"in_reply_to_user_id": 2185812985,
+		"in_reply_to_user_id_str": "2185812985",
+		"in_reply_to_screen_name": "rollinghall",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 787,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 롤링홀에서는 신종 코로나바이러스 국내 확산 및 감염병 방지와 관객분들의 안전을 위해,\n공연 당일 티켓 부스에 손 소독제와 마스크를 구비해 둘 예정이며, 적외선 체온 감지기를 통하여 사전 검사가 진행될 예정입니다.\n이 점 참고하시어 안전과 예방에 협조 부탁드립니다."
+	},
+	{
 		"created_at": "Sat Feb 01 10:41:38 +0000 2020",
 		"id": 1223555220354920400,
 		"id_str": "1223557008756027393",
