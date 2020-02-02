@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 16:58:15 +0000 2020",
+		"id": 1224000132795879400,
+		"id_str": "1224014175531413505",
+		"full_text": "2월 3일(월) 오늘의 타임테이블📌 https://t.co/oNoUuCRzOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224000123937538000,
+					"id_str": "1224000123937538049",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EPyFoLBUwAEvRYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPyFoLBUwAEvRYH.jpg",
+					"url": "https://t.co/oNoUuCRzOU",
+					"display_url": "pic.twitter.com/oNoUuCRzOU",
+					"expanded_url": "https://twitter.com/kr_now/status/1224000132795879425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 282,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 333,
+									"y": 442,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 149,
+									"y": 518,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 148,
+									"y": 401,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 149,
+									"y": 439,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224000123937538000,
+					"id_str": "1224000123937538049",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EPyFoLBUwAEvRYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPyFoLBUwAEvRYH.jpg",
+					"url": "https://t.co/oNoUuCRzOU",
+					"display_url": "pic.twitter.com/oNoUuCRzOU",
+					"expanded_url": "https://twitter.com/kr_now/status/1224000132795879425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 272,
+									"y": 448,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 529,
+									"y": 702,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 238,
+									"y": 824,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 236,
+									"y": 638,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 237,
+									"y": 698,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 282,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 333,
+									"y": 442,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 149,
+									"y": 518,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 148,
+									"y": 401,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 149,
+									"y": 439,
+									"h": 27,
+									"w": 27
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21093,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2월 3일(월) 오늘의 타임테이블📌 https://t.co/oNoUuCRzOU"
+	},
+	{
 		"created_at": "Sun Feb 02 15:29:24 +0000 2020",
 		"id": 1223984420538998800,
 		"id_str": "1223991818574082048",
