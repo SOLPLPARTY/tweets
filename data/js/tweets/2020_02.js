@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 04:29:24 +0000 2020",
+		"id": 1223813657752043500,
+		"id_str": "1223825724278218752",
+		"full_text": "https://t.co/yJu6M68quq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223813648491004000,
+					"id_str": "1223813648491003904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EPvcB32UwAATgww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPvcB32UwAATgww.jpg",
+					"url": "https://t.co/yJu6M68quq",
+					"display_url": "pic.twitter.com/yJu6M68quq",
+					"expanded_url": "https://twitter.com/bombino_records/status/1223813657752043523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223813648491004000,
+					"id_str": "1223813648491003904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EPvcB32UwAATgww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPvcB32UwAATgww.jpg",
+					"url": "https://t.co/yJu6M68quq",
+					"display_url": "pic.twitter.com/yJu6M68quq",
+					"expanded_url": "https://twitter.com/bombino_records/status/1223813657752043523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 67,
+			"listed_count": 9,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yJu6M68quq"
+	},
+	{
 		"created_at": "Sun Feb 02 03:47:40 +0000 2020",
 		"id": 1223815219044081700,
 		"id_str": "1223815219044081665",
