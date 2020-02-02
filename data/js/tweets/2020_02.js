@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 14:41:37 +0000 2020",
+		"id": 1223975256764715000,
+		"id_str": "1223979793529614341",
+		"full_text": "2020/02/14 (Fri)  Happy Valentine’s Day@클럽FF\n\n설,헤이맨,라쿠나,잭킹콩,웨이브투어스\n\nStart : 7pm / Finish : 11pm\n(참고로 밤 11시부터 이어지는 2부 공연과 디제잉 파티도 계속 이어서 즐기실수 있으십니다.)\n\nCover : 25000\n&lt;Valentine’s Day  Event : 커플들에게 러브 칵테일을 각각 제공!&gt; https://t.co/R2zOh17zho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223975244425130000,
+					"id_str": "1223975244425129985",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxu__nU8AEy2Xe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxu__nU8AEy2Xe.jpg",
+					"url": "https://t.co/R2zOh17zho",
+					"display_url": "pic.twitter.com/R2zOh17zho",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223975256764715008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 576,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 146,
+									"y": 33,
+									"h": 192,
+									"w": 192
+								},
+								{
+									"x": 278,
+									"y": 21,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223975244425130000,
+					"id_str": "1223975244425129985",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxu__nU8AEy2Xe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxu__nU8AEy2Xe.jpg",
+					"url": "https://t.co/R2zOh17zho",
+					"display_url": "pic.twitter.com/R2zOh17zho",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223975256764715008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 576,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 146,
+									"y": 33,
+									"h": 192,
+									"w": 192
+								},
+								{
+									"x": 278,
+									"y": 21,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 570,
+									"y": 815,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 207,
+									"y": 48,
+									"h": 272,
+									"w": 272
+								},
+								{
+									"x": 393,
+									"y": 30,
+									"h": 319,
+									"w": 319
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223975244420927500,
+					"id_str": "1223975244420927488",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxu__mU0AAQiaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxu__mU0AAQiaG.jpg",
+					"url": "https://t.co/R2zOh17zho",
+					"display_url": "pic.twitter.com/R2zOh17zho",
+					"expanded_url": "https://twitter.com/clubFF_/status/1223975256764715008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 618,
+									"h": 202,
+									"w": 202
+								},
+								{
+									"x": 206,
+									"y": 43,
+									"h": 276,
+									"w": 276
+								},
+								{
+									"x": 396,
+									"y": 30,
+									"h": 318,
+									"w": 318
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 437,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 145,
+									"y": 30,
+									"h": 195,
+									"w": 195
+								},
+								{
+									"x": 280,
+									"y": 21,
+									"h": 225,
+									"w": 225
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 618,
+									"h": 202,
+									"w": 202
+								},
+								{
+									"x": 206,
+									"y": 43,
+									"h": 276,
+									"w": 276
+								},
+								{
+									"x": 396,
+									"y": 30,
+									"h": 318,
+									"w": 318
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 618,
+									"h": 202,
+									"w": 202
+								},
+								{
+									"x": 206,
+									"y": 43,
+									"h": 276,
+									"w": 276
+								},
+								{
+									"x": 396,
+									"y": 30,
+									"h": 318,
+									"w": 318
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6675,
+			"friends_count": 7,
+			"listed_count": 98,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020/02/14 (Fri)  Happy Valentine’s Day@클럽FF\n\n설,헤이맨,라쿠나,잭킹콩,웨이브투어스\n\nStart : 7pm / Finish : 11pm\n(참고로 밤 11시부터 이어지는 2부 공연과 디제잉 파티도 계속 이어서 즐기실수 있으십니다.)\n\nCover : 25000\n&lt;Valentine’s Day  Event : 커플들에게 러브 칵테일을 각각 제공!&gt; https://t.co/R2zOh17zho"
+	},
+	{
 		"created_at": "Sun Feb 02 13:41:38 +0000 2020",
 		"id": 1223954549255233500,
 		"id_str": "1223964698120523777",
