@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 05:53:11 +0000 2020",
+		"id": 1223846807110852600,
+		"id_str": "1223846807110852609",
+		"full_text": "#문화가있는날 #블로그\n“춘천시립도서관, 오케스트라를 만나다.“\nhttps://t.co/pRUUhYSzTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pRUUhYSzTs",
+					"expanded_url": "http://bit.ly/2RRx5QV",
+					"display_url": "bit.ly/2RRx5QV",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n“춘천시립도서관, 오케스트라를 만나다.“\nhttps://t.co/pRUUhYSzTs"
+	},
+	{
+		"created_at": "Sun Feb 02 05:41:45 +0000 2020",
+		"id": 1223840602673930200,
+		"id_str": "1223843928362967040",
+		"full_text": "하나투어 브이홀에서는 신종 코로나 바이러스 확산 방지 및 관객분들의 안전을 위해 다음과 같은 조치를 시행하고 있습니다.\n\n- 공연장 인포메이션 내 손소독제 비치\n- 적외선 체온 감지기 사용 입장 전 검사 진행\n- 전 직원 안전 대응 매뉴얼 숙지 및 공지사항 부착\n\n#하나투어브이홀 #감염예방조치 https://t.co/KwkR0D0AhM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하나투어브이홀",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "감염예방조치",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223840552170340400,
+					"id_str": "1223840552170340353",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EPv0f33UwAEKrf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPv0f33UwAEKrf2.jpg",
+					"url": "https://t.co/KwkR0D0AhM",
+					"display_url": "pic.twitter.com/KwkR0D0AhM",
+					"expanded_url": "https://twitter.com/vhall_korea/status/1223840602673930242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 173,
+									"y": 67,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 118,
+									"h": 243,
+									"w": 243
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 894,
+									"y": 346,
+									"h": 712,
+									"w": 712
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 202,
+									"h": 415,
+									"w": 415
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223840552170340400,
+					"id_str": "1223840552170340353",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EPv0f33UwAEKrf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPv0f33UwAEKrf2.jpg",
+					"url": "https://t.co/KwkR0D0AhM",
+					"display_url": "pic.twitter.com/KwkR0D0AhM",
+					"expanded_url": "https://twitter.com/vhall_korea/status/1223840602673930242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 173,
+									"y": 67,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 305,
+									"y": 118,
+									"h": 243,
+									"w": 243
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 894,
+									"y": 346,
+									"h": 712,
+									"w": 712
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 202,
+									"h": 415,
+									"w": 415
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113893665,
+			"id_str": "113893665",
+			"name": "하나투어 브이홀",
+			"screen_name": "vhall_korea",
+			"location": "서울시 마포구 서교동 356-1 서교호텔별관 B3",
+			"description": "홍대 앞  No.1 LIVE SPACE ! 하나투어 브이홀 입니다 :)\n v_hall@naver.com / 02-338-0958",
+			"url": "https://t.co/wKBSe6w6ug",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wKBSe6w6ug",
+							"expanded_url": "http://www.facebook.com/vhallkorea",
+							"display_url": "facebook.com/vhallkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6435,
+			"friends_count": 4,
+			"listed_count": 240,
+			"created_at": "Sat Feb 13 11:17:56 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705368478522314752/0gXf6lwb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705368478522314752/0gXf6lwb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113893665/1451138307",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하나투어 브이홀에서는 신종 코로나 바이러스 확산 방지 및 관객분들의 안전을 위해 다음과 같은 조치를 시행하고 있습니다.\n\n- 공연장 인포메이션 내 손소독제 비치\n- 적외선 체온 감지기 사용 입장 전 검사 진행\n- 전 직원 안전 대응 매뉴얼 숙지 및 공지사항 부착\n\n#하나투어브이홀 #감염예방조치 https://t.co/KwkR0D0AhM"
+	},
+	{
+		"created_at": "Sun Feb 02 05:41:37 +0000 2020",
+		"id": 1223834805910921200,
+		"id_str": "1223843898419752960",
+		"full_text": "[씬의 아이들] 재미공작소 스마트스토어를 통해서도 구입 가능합니다. https://t.co/VN0HUKabbS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VN0HUKabbS",
+					"expanded_url": "http://naver.me/GqOoOlTW",
+					"display_url": "naver.me/GqOoOlTW",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8265,
+			"friends_count": 597,
+			"listed_count": 112,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬의 아이들] 재미공작소 스마트스토어를 통해서도 구입 가능합니다. https://t.co/VN0HUKabbS"
+	},
+	{
 		"created_at": "Sun Feb 02 04:29:24 +0000 2020",
 		"id": 1223813657752043500,
 		"id_str": "1223825724278218752",
