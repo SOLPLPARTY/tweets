@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 15:29:24 +0000 2020",
+		"id": 1223984420538998800,
+		"id_str": "1223991818574082048",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] TRACK LIST\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/W4pX6zi5Lf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223940127707127800,
+					"id_str": "1223940127707127809",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxPD7pUYAETvbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxPD7pUYAETvbt.jpg",
+					"url": "https://t.co/W4pX6zi5Lf",
+					"display_url": "pic.twitter.com/W4pX6zi5Lf",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1223984420538998785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 444,
+									"y": 142,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 159,
+									"y": 260,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 583,
+									"y": 274,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 321,
+									"y": 289,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 479,
+									"y": 435,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 369,
+									"y": 448,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 424,
+									"y": 245,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 171,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 192,
+									"y": 313,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 700,
+									"y": 330,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 386,
+									"y": 347,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 576,
+									"y": 523,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 444,
+									"y": 538,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 509,
+									"y": 295,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 171,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 192,
+									"y": 313,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 700,
+									"y": 330,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 386,
+									"y": 347,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 576,
+									"y": 523,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 444,
+									"y": 538,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 509,
+									"y": 295,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 80,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 90,
+									"y": 147,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 330,
+									"y": 155,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 182,
+									"y": 163,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 272,
+									"y": 247,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 209,
+									"y": 254,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 240,
+									"y": 139,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223940127707127800,
+					"id_str": "1223940127707127809",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxPD7pUYAETvbt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxPD7pUYAETvbt.jpg",
+					"url": "https://t.co/W4pX6zi5Lf",
+					"display_url": "pic.twitter.com/W4pX6zi5Lf",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1223984420538998785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 444,
+									"y": 142,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 159,
+									"y": 260,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 583,
+									"y": 274,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 321,
+									"y": 289,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 479,
+									"y": 435,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 369,
+									"y": 448,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 424,
+									"y": 245,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 171,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 192,
+									"y": 313,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 700,
+									"y": 330,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 386,
+									"y": 347,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 576,
+									"y": 523,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 444,
+									"y": 538,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 509,
+									"y": 295,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 534,
+									"y": 171,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 192,
+									"y": 313,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 700,
+									"y": 330,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 386,
+									"y": 347,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 576,
+									"y": 523,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 444,
+									"y": 538,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 509,
+									"y": 295,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 80,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 90,
+									"y": 147,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 330,
+									"y": 155,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 182,
+									"y": 163,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 272,
+									"y": 247,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 209,
+									"y": 254,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 240,
+									"y": 139,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1223940127744872400,
+					"id_str": "1223940127744872448",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EPxPD7yUUAA1YkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPxPD7yUUAA1YkZ.jpg",
+					"url": "https://t.co/W4pX6zi5Lf",
+					"display_url": "pic.twitter.com/W4pX6zi5Lf",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1223984420538998785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 307,
+									"y": 116,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 203,
+									"y": 102,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 36,
+									"y": 98,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 542,
+									"y": 204,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 358,
+									"y": 181,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 64,
+									"y": 174,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 925,
+									"y": 349,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 611,
+									"y": 309,
+									"h": 131,
+									"w": 131
+								},
+								{
+									"x": 109,
+									"y": 297,
+									"h": 161,
+									"w": 161
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1586,
+									"y": 599,
+									"h": 219,
+									"w": 219
+								},
+								{
+									"x": 1048,
+									"y": 530,
+									"h": 226,
+									"w": 226
+								},
+								{
+									"x": 188,
+									"y": 510,
+									"h": 277,
+									"w": 277
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415067,
+			"friends_count": 7,
+			"listed_count": 2128,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 502,
+		"favorite_count": 1001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] TRACK LIST\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/W4pX6zi5Lf"
+	},
+	{
 		"created_at": "Sun Feb 02 14:41:37 +0000 2020",
 		"id": 1223975256764715000,
 		"id_str": "1223979793529614341",
