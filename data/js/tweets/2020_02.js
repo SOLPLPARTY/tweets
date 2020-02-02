@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 11:41:42 +0000 2020",
+		"id": 1223926498219806700,
+		"id_str": "1223934513266528258",
+		"full_text": "당첨자 선정:\n2/6(목) 12:00 [당첨자 개별 연락 예정입니다]\n\nyes24stageevent@gmail.com\n\n많은 참여 부탁드립니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1223926151174742000,
+		"in_reply_to_status_id_str": "1223926151174742021",
+		"in_reply_to_user_id": 1104695434893652000,
+		"in_reply_to_user_id_str": "1104695434893651968",
+		"in_reply_to_screen_name": "yes24stage",
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 동숭동 대학로12길 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/O7KKxkPl2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7KKxkPl2c",
+							"expanded_url": "http://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2721,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1552216594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당첨자 선정:\n2/6(목) 12:00 [당첨자 개별 연락 예정입니다]\n\nyes24stageevent@gmail.com\n\n많은 참여 부탁드립니다!"
+	},
+	{
 		"created_at": "Sun Feb 02 09:16:18 +0000 2020",
 		"id": 1223897923748057000,
 		"id_str": "1223897923748057088",
