@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 12:58:15 +0000 2020",
+		"id": 1224301743283949600,
+		"id_str": "1224316164723171328",
+		"full_text": "오늘 밤 11시 30분, #호구가체질 에서 신조어를 공부해 봅시다🤓 하나하나 차근차근 호스트 #김해나 가 알려드릴게요, 네이버앱에서 만나요🌹 #NOW온에어 https://t.co/uBlnPZ6t0c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "호구가체질",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "김해나",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						79,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224301740863844400,
+					"id_str": "1224301740863844352",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2X8loU8AAGC7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2X8loU8AAGC7Q.jpg",
+					"url": "https://t.co/uBlnPZ6t0c",
+					"display_url": "pic.twitter.com/uBlnPZ6t0c",
+					"expanded_url": "https://twitter.com/kr_now/status/1224301743283949568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 139,
+									"y": 164,
+									"h": 241,
+									"w": 241
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224301740863844400,
+					"id_str": "1224301740863844352",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2X8loU8AAGC7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2X8loU8AAGC7Q.jpg",
+					"url": "https://t.co/uBlnPZ6t0c",
+					"display_url": "pic.twitter.com/uBlnPZ6t0c",
+					"expanded_url": "https://twitter.com/kr_now/status/1224301743283949568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 139,
+									"y": 164,
+									"h": 241,
+									"w": 241
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 222,
+									"y": 262,
+									"h": 384,
+									"w": 384
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21107,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 11시 30분, #호구가체질 에서 신조어를 공부해 봅시다🤓 하나하나 차근차근 호스트 #김해나 가 알려드릴게요, 네이버앱에서 만나요🌹 #NOW온에어 https://t.co/uBlnPZ6t0c"
+	},
+	{
 		"created_at": "Mon Feb 03 11:31:33 +0000 2020",
 		"id": 1224294345957937200,
 		"id_str": "1224294345957937154",
