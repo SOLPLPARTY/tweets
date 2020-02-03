@@ -1,6 +1,1405 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 15:58:35 +0000 2020",
+		"id": 1224359316246761500,
+		"id_str": "1224361547570601984",
+		"full_text": "@CUBE_PTG 꾸...꾸디....? 😮",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUBE_PTG",
+					"name": "PENTAGON·펜타곤",
+					"id": 717905524444889100,
+					"id_str": "717905524444889088",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224347029389709300,
+		"in_reply_to_status_id_str": "1224347029389709312",
+		"in_reply_to_user_id": 717905524444889100,
+		"in_reply_to_user_id_str": "717905524444889088",
+		"in_reply_to_screen_name": "CUBE_PTG",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1867,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@CUBE_PTG 꾸...꾸디....? 😮"
+	},
+	{
+		"created_at": "Mon Feb 03 15:58:28 +0000 2020",
+		"id": 1224347121232437200,
+		"id_str": "1224361517648359424",
+		"full_text": "#NOW온에어 2월 4일(화) 오늘의 타임테이블📌 https://t.co/TUL44IaDih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOW온에어",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224347118942339000,
+					"id_str": "1224347118942339075",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3BN8JUwAM9dHP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3BN8JUwAM9dHP.jpg",
+					"url": "https://t.co/TUL44IaDih",
+					"display_url": "pic.twitter.com/TUL44IaDih",
+					"expanded_url": "https://twitter.com/kr_now/status/1224347121232437249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 348,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224347118942339000,
+					"id_str": "1224347118942339075",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3BN8JUwAM9dHP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3BN8JUwAM9dHP.jpg",
+					"url": "https://t.co/TUL44IaDih",
+					"display_url": "pic.twitter.com/TUL44IaDih",
+					"expanded_url": "https://twitter.com/kr_now/status/1224347121232437249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 348,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 141,
+									"y": 554,
+									"h": 146,
+									"w": 146
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21111,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NOW온에어 2월 4일(화) 오늘의 타임테이블📌 https://t.co/TUL44IaDih"
+	},
+	{
+		"created_at": "Mon Feb 03 15:58:24 +0000 2020",
+		"id": 1224346814083563500,
+		"id_str": "1224361504423714817",
+		"full_text": "이 새벽에 잠 안오고 심심하고 그런 사람들 이짜나 맞지 맞지?😆🙊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224346694675861500,
+		"in_reply_to_status_id_str": "1224346694675861504",
+		"in_reply_to_user_id": 1022765899126730800,
+		"in_reply_to_user_id_str": "1022765899126730752",
+		"in_reply_to_screen_name": "casperradio_",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1867,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 새벽에 잠 안오고 심심하고 그런 사람들 이짜나 맞지 맞지?😆🙊"
+	},
+	{
+		"created_at": "Mon Feb 03 15:58:15 +0000 2020",
+		"id": 1224346694675861500,
+		"id_str": "1224361465211236352",
+		"full_text": "#십란한밤 \n긴급 속보 십란한밤 클립이 캐스퍼라디오 지금 유튜브에 업로드 되고 있다는 사실.. (무려4개...!!!!!)\n\n미리보기 공개합니다🤫\n\n#권정열 #고영배 #뉴스튜디오적응기 #십란 https://t.co/d3MfnJs7Xy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십란한밤",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "뉴스튜디오적응기",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "십란",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224346686455079000,
+					"id_str": "1224346686455078913",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3A0xAU4AE97Gd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3A0xAU4AE97Gd.jpg",
+					"url": "https://t.co/d3MfnJs7Xy",
+					"display_url": "pic.twitter.com/d3MfnJs7Xy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224346694675861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 195,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224346686455079000,
+					"id_str": "1224346686455078913",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3A0xAU4AE97Gd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3A0xAU4AE97Gd.jpg",
+					"url": "https://t.co/d3MfnJs7Xy",
+					"display_url": "pic.twitter.com/d3MfnJs7Xy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224346694675861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 195,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 294,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224346686459265000,
+					"id_str": "1224346686459265029",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3A0xBUwAU6mz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3A0xBUwAU6mz9.jpg",
+					"url": "https://t.co/d3MfnJs7Xy",
+					"display_url": "pic.twitter.com/d3MfnJs7Xy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224346694675861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 541,
+									"y": 135,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 112,
+									"y": 86,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 816,
+									"y": 204,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 169,
+									"y": 131,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 816,
+									"y": 204,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 169,
+									"y": 131,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 816,
+									"y": 204,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 169,
+									"y": 131,
+									"h": 149,
+									"w": 149
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224346686455042000,
+					"id_str": "1224346686455042053",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3A0xAUUAU43zx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3A0xAUUAU43zx.jpg",
+					"url": "https://t.co/d3MfnJs7Xy",
+					"display_url": "pic.twitter.com/d3MfnJs7Xy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224346694675861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224346686459236400,
+					"id_str": "1224346686459236352",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP3A0xBUUAAB3OB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP3A0xBUUAAB3OB.jpg",
+					"url": "https://t.co/d3MfnJs7Xy",
+					"display_url": "pic.twitter.com/d3MfnJs7Xy",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224346694675861504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1867,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#십란한밤 \n긴급 속보 십란한밤 클립이 캐스퍼라디오 지금 유튜브에 업로드 되고 있다는 사실.. (무려4개...!!!!!)\n\n미리보기 공개합니다🤫\n\n#권정열 #고영배 #뉴스튜디오적응기 #십란 https://t.co/d3MfnJs7Xy"
+	},
+	{
+		"created_at": "Mon Feb 03 15:29:24 +0000 2020",
+		"id": 1224346807943209000,
+		"id_str": "1224354206804586496",
+		"full_text": "[📽] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] MV TEASER SHORT VER.\n2020.02.10 6PM RELEASE\n\n🖇YouTube ▶https://t.co/9oColg7Md0\n🖇NAVER V ▶https://t.co/qNZ8CiFTg7\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/65k3Y6UwTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						161,
+						174
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9oColg7Md0",
+					"expanded_url": "https://youtu.be/OIbCTHDADk4",
+					"display_url": "youtu.be/OIbCTHDADk4",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/qNZ8CiFTg7",
+					"expanded_url": "https://www.vlive.tv/video/173547",
+					"display_url": "vlive.tv/video/173547",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224254185710833700,
+					"id_str": "1224254185710833664",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ssg4UUAAWY1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ssg4UUAAWY1Z.jpg",
+					"url": "https://t.co/65k3Y6UwTN",
+					"display_url": "pic.twitter.com/65k3Y6UwTN",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224346807943208968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 26,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 487,
+									"y": 75,
+									"h": 836,
+									"w": 836
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 46,
+									"h": 522,
+									"w": 522
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 487,
+									"y": 75,
+									"h": 836,
+									"w": 836
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224254185710833700,
+					"id_str": "1224254185710833664",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EP1ssg4UUAAWY1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP1ssg4UUAAWY1Z.jpg",
+					"url": "https://t.co/65k3Y6UwTN",
+					"display_url": "pic.twitter.com/65k3Y6UwTN",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224346807943208968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 26,
+									"h": 296,
+									"w": 296
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 487,
+									"y": 75,
+									"h": 836,
+									"w": 836
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 46,
+									"h": 522,
+									"w": 522
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 487,
+									"y": 75,
+									"h": 836,
+									"w": 836
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415164,
+			"friends_count": 7,
+			"listed_count": 2128,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] MV TEASER SHORT VER.\n2020.02.10 6PM RELEASE\n\n🖇YouTube ▶https://t.co/9oColg7Md0\n🖇NAVER V ▶https://t.co/qNZ8CiFTg7\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/65k3Y6UwTN"
+	},
+	{
+		"created_at": "Mon Feb 03 15:18:47 +0000 2020",
+		"id": 1224351534781227000,
+		"id_str": "1224351534781227008",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n존 메이어가 설선물로 전기를 보내줬다 [십란한밤#135]\nhttps://t.co/rIUiAwDi58",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIUiAwDi58",
+					"expanded_url": "https://youtu.be/E2j9h3ZhUxM",
+					"display_url": "youtu.be/E2j9h3ZhUxM",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n존 메이어가 설선물로 전기를 보내줬다 [십란한밤#135]\nhttps://t.co/rIUiAwDi58"
+	},
+	{
 		"created_at": "Mon Feb 03 14:58:39 +0000 2020",
 		"id": 1224346465436414000,
 		"id_str": "1224346465436413952",
@@ -492,7 +1891,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
