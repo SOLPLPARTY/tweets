@@ -1,6 +1,1088 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 13:58:33 +0000 2020",
+		"id": 1224328916698947600,
+		"id_str": "1224331342122569734",
+		"full_text": "키Sing부스 4화\n\n&lt;오늘의 키플리&gt;\nJP Saxe - If the world was ending (feat.Julia Michaels)\n\n&lt;98초 페이지&gt;\n포리스트 카터 - 내 영혼이 따뜻했던 날들",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224328913729413000,
+		"in_reply_to_status_id_str": "1224328913729413120",
+		"in_reply_to_user_id": 1022765899126730800,
+		"in_reply_to_user_id_str": "1022765899126730752",
+		"in_reply_to_screen_name": "casperradio_",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "키Sing부스 4화\n\n&lt;오늘의 키플리&gt;\nJP Saxe - If the world was ending (feat.Julia Michaels)\n\n&lt;98초 페이지&gt;\n포리스트 카터 - 내 영혼이 따뜻했던 날들"
+	},
+	{
+		"created_at": "Mon Feb 03 13:58:31 +0000 2020",
+		"id": 1224328913729413000,
+		"id_str": "1224331333205397504",
+		"full_text": "#키Sing부스 \n꾸디, 이렇게 월요일 설레게 만들꾸야?💜 2월 첫번째 월요일도 완벽한 힐링데이로 바꿔버린 키Sing부스! 오늘도 여러분들의 참여로 더욱 빛이 났네요💜 그나저나, 우리 키싱부스 청취자여러분들 애칭 정해야 하는데, 여러분들 추천해주세요~~~! 😊\n\n#펜타곤 #KINO #PENTAGON #키노 https://t.co/VZox24r3NF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "키Sing부스",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "KINO",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "키노",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224328902941692000,
+					"id_str": "1224328902941691904",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2wpoQVUAApzvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2wpoQVUAApzvx.jpg",
+					"url": "https://t.co/VZox24r3NF",
+					"display_url": "pic.twitter.com/VZox24r3NF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224328913729413120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "717905524444889088",
+									"screen_name": "CUBE_PTG",
+									"name": "PENTAGON·펜타곤"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224328902941692000,
+					"id_str": "1224328902941691904",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2wpoQVUAApzvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2wpoQVUAApzvx.jpg",
+					"url": "https://t.co/VZox24r3NF",
+					"display_url": "pic.twitter.com/VZox24r3NF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224328913729413120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "717905524444889088",
+									"screen_name": "CUBE_PTG",
+									"name": "PENTAGON·펜타곤"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224328902941630500,
+					"id_str": "1224328902941630469",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2wpoQUYAU7i1J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2wpoQUYAU7i1J.jpg",
+					"url": "https://t.co/VZox24r3NF",
+					"display_url": "pic.twitter.com/VZox24r3NF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1224328913729413120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "717905524444889088",
+									"screen_name": "CUBE_PTG",
+									"name": "PENTAGON·펜타곤"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210423974502338560/JAQ_LP_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 418,
+		"favorite_count": 1586,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#키Sing부스 \n꾸디, 이렇게 월요일 설레게 만들꾸야?💜 2월 첫번째 월요일도 완벽한 힐링데이로 바꿔버린 키Sing부스! 오늘도 여러분들의 참여로 더욱 빛이 났네요💜 그나저나, 우리 키싱부스 청취자여러분들 애칭 정해야 하는데, 여러분들 추천해주세요~~~! 😊\n\n#펜타곤 #KINO #PENTAGON #키노 https://t.co/VZox24r3NF"
+	},
+	{
+		"created_at": "Mon Feb 03 13:58:24 +0000 2020",
+		"id": 1224317095078269000,
+		"id_str": "1224331303329419264",
+		"full_text": "오늘 밤 12시, #들려주고싶어서 #릴보이 편 들으며 하루를 그루비하게 마무리해 봅시다. #SammHenshaw 의 #Broke, #JessieReyez 의 #CRAZY 등 고개가 절로 끄덕여지는 플레이리스트를 네이버앱에서 들어보세요🎧✨ #NOW온에어 https://t.co/rB4V0Ngc1k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "SammHenshaw",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"text": "Broke",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "JessieReyez",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"text": "CRAZY",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224317089642512400,
+					"id_str": "1224317089642512385",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2l6ASVAAE8lEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2l6ASVAAE8lEU.jpg",
+					"url": "https://t.co/rB4V0Ngc1k",
+					"display_url": "pic.twitter.com/rB4V0Ngc1k",
+					"expanded_url": "https://twitter.com/kr_now/status/1224317095078268928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 98,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224317089642512400,
+					"id_str": "1224317089642512385",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2l6ASVAAE8lEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2l6ASVAAE8lEU.jpg",
+					"url": "https://t.co/rB4V0Ngc1k",
+					"display_url": "pic.twitter.com/rB4V0Ngc1k",
+					"expanded_url": "https://twitter.com/kr_now/status/1224317095078268928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 98,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 156,
+									"h": 370,
+									"w": 370
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224317092729483300,
+					"id_str": "1224317092729483265",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2l6LyUcAExjzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2l6LyUcAExjzT.jpg",
+					"url": "https://t.co/rB4V0Ngc1k",
+					"display_url": "pic.twitter.com/rB4V0Ngc1k",
+					"expanded_url": "https://twitter.com/kr_now/status/1224317095078268928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 124,
+									"h": 241,
+									"w": 241
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 301,
+									"y": 197,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 301,
+									"y": 197,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 301,
+									"y": 197,
+									"h": 384,
+									"w": 384
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21108,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 12시, #들려주고싶어서 #릴보이 편 들으며 하루를 그루비하게 마무리해 봅시다. #SammHenshaw 의 #Broke, #JessieReyez 의 #CRAZY 등 고개가 절로 끄덕여지는 플레이리스트를 네이버앱에서 들어보세요🎧✨ #NOW온에어 https://t.co/rB4V0Ngc1k"
+	},
+	{
+		"created_at": "Mon Feb 03 13:58:15 +0000 2020",
+		"id": 1224316350991962000,
+		"id_str": "1224331264418816000",
+		"full_text": "월요일이다! #어벤걸스 오늘도 비타민 충전하고 가세효✨ #오마이걸 #효정 이랑 생방송으로 놀자! 문자번호 #7117 (정보이용료 100원) 네이버 앱에서 바로 들을 수 있어효❤ #NOW온에어 #밤10시를지배한다 #OHMYGIRL https://t.co/kof9RQzUUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "밤10시를지배한다",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224316340883771400,
+					"id_str": "1224316340883771392",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2lOa8VUAATyDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2lOa8VUAATyDQ.jpg",
+					"url": "https://t.co/kof9RQzUUQ",
+					"display_url": "pic.twitter.com/kof9RQzUUQ",
+					"expanded_url": "https://twitter.com/kr_now/status/1224316350991962112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 80,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224316340883771400,
+					"id_str": "1224316340883771392",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EP2lOa8VUAATyDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP2lOa8VUAATyDQ.jpg",
+					"url": "https://t.co/kof9RQzUUQ",
+					"display_url": "pic.twitter.com/kof9RQzUUQ",
+					"expanded_url": "https://twitter.com/kr_now/status/1224316350991962112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 233,
+									"y": 80,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 388,
+									"y": 133,
+									"h": 533,
+									"w": 533
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21108,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 658,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "월요일이다! #어벤걸스 오늘도 비타민 충전하고 가세효✨ #오마이걸 #효정 이랑 생방송으로 놀자! 문자번호 #7117 (정보이용료 100원) 네이버 앱에서 바로 들을 수 있어효❤ #NOW온에어 #밤10시를지배한다 #OHMYGIRL https://t.co/kof9RQzUUQ"
+	},
+	{
 		"created_at": "Mon Feb 03 12:58:15 +0000 2020",
 		"id": 1224301743283949600,
 		"id_str": "1224316164723171328",
@@ -212,7 +1294,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
