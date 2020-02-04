@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 22:18:18 +0000 2020",
+		"id": 1224819493731479600,
+		"id_str": "1224819493731479552",
+		"full_text": "#Bandsintown #밴드스인타운\nDream Theater (MAY 04) at YES 24 Live Hall\nhttps://t.co/gvDSud4PqI\n#내한공연 #내한 #공연 #콘서트 https://t.co/U0a2rzOifl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bandsintown",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "밴드스인타운",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gvDSud4PqI",
+					"expanded_url": "http://bit.ly/2GWM8SY",
+					"display_url": "bit.ly/2GWM8SY",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224819492557070300,
+					"id_str": "1224819492557070336",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9u1s_WoAAMbNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9u1s_WoAAMbNo.jpg",
+					"url": "https://t.co/U0a2rzOifl",
+					"display_url": "pic.twitter.com/U0a2rzOifl",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224819493731479552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224819492557070300,
+					"id_str": "1224819492557070336",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9u1s_WoAAMbNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9u1s_WoAAMbNo.jpg",
+					"url": "https://t.co/U0a2rzOifl",
+					"display_url": "pic.twitter.com/U0a2rzOifl",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224819493731479552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Bandsintown #밴드스인타운\nDream Theater (MAY 04) at YES 24 Live Hall\nhttps://t.co/gvDSud4PqI\n#내한공연 #내한 #공연 #콘서트 https://t.co/U0a2rzOifl"
+	},
+	{
 		"created_at": "Tue Feb 04 18:51:53 +0000 2020",
 		"id": 1224767547284820000,
 		"id_str": "1224767547284819972",
