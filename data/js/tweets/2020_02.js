@@ -1,6 +1,1499 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 09:41:38 +0000 2020",
+		"id": 1224620647239700500,
+		"id_str": "1224629073911209984",
+		"full_text": "2/9(sun) [club FF - Fix You]\n이븐이프\n벤치위레오\n일곱시반\n검은잎\n필로우톡\n\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/R9mItorIgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224620638372892700,
+					"id_str": "1224620638372892675",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EP65-3bUEAMFJGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP65-3bUEAMFJGw.jpg",
+					"url": "https://t.co/R9mItorIgz",
+					"display_url": "pic.twitter.com/R9mItorIgz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1224620647239700485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 564,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 460,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 109,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224620638372892700,
+					"id_str": "1224620638372892675",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EP65-3bUEAMFJGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP65-3bUEAMFJGw.jpg",
+					"url": "https://t.co/R9mItorIgz",
+					"display_url": "pic.twitter.com/R9mItorIgz",
+					"expanded_url": "https://twitter.com/clubFF_/status/1224620647239700485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 440,
+									"y": 564,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 460,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 109,
+									"y": 501,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 622,
+									"y": 797,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 650,
+									"y": 708,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 154,
+									"y": 708,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6670,
+			"friends_count": 7,
+			"listed_count": 98,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2/9(sun) [club FF - Fix You]\n이븐이프\n벤치위레오\n일곱시반\n검은잎\n필로우톡\n\nstart 6:00pm\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/R9mItorIgz"
+	},
+	{
+		"created_at": "Tue Feb 04 09:31:44 +0000 2020",
+		"id": 1224626582289027000,
+		"id_str": "1224626582289027072",
+		"full_text": "#genie #지니 #지니매거진\n시그니처(cignature) [NUN NU NAN NA] 자켓 비하인드\nhttps://t.co/GIL4q43Wtz https://t.co/PGl7nMAnOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GIL4q43Wtz",
+					"expanded_url": "http://bit.ly/37YlTr9",
+					"display_url": "bit.ly/37YlTr9",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224626580967825400,
+					"id_str": "1224626580967825409",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_YxUWoAE9XWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_YxUWoAE9XWj.jpg",
+					"url": "https://t.co/PGl7nMAnOq",
+					"display_url": "pic.twitter.com/PGl7nMAnOq",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626582289027072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224626580967825400,
+					"id_str": "1224626580967825409",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_YxUWoAE9XWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_YxUWoAE9XWj.jpg",
+					"url": "https://t.co/PGl7nMAnOq",
+					"display_url": "pic.twitter.com/PGl7nMAnOq",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626582289027072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 258,
+									"y": 149,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 520,
+									"y": 61,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 41,
+									"y": 88,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 372,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n시그니처(cignature) [NUN NU NAN NA] 자켓 비하인드\nhttps://t.co/GIL4q43Wtz https://t.co/PGl7nMAnOq"
+	},
+	{
+		"created_at": "Tue Feb 04 09:31:31 +0000 2020",
+		"id": 1224626528149024800,
+		"id_str": "1224626528149024768",
+		"full_text": "#Melon #멜론 #멜론매거진\nK-POP 루키 걸그룹, 시그니처 (cignature) '눈누난나 (Nun Nu Nan Na)'\nhttps://t.co/Zj8YZ8RDkP https://t.co/UTnBFX1f3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zj8YZ8RDkP",
+					"expanded_url": "http://bit.ly/2Oomuus",
+					"display_url": "bit.ly/2Oomuus",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224626526878081000,
+					"id_str": "1224626526878081025",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_Vn0WoAEbhcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_Vn0WoAEbhcU.jpg",
+					"url": "https://t.co/UTnBFX1f3B",
+					"display_url": "pic.twitter.com/UTnBFX1f3B",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626528149024768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224626526878081000,
+					"id_str": "1224626526878081025",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_Vn0WoAEbhcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_Vn0WoAEbhcU.jpg",
+					"url": "https://t.co/UTnBFX1f3B",
+					"display_url": "pic.twitter.com/UTnBFX1f3B",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626528149024768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 145,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 470,
+									"y": 69,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 47,
+									"y": 91,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 338,
+									"y": 86,
+									"h": 46,
+									"w": 46
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\nK-POP 루키 걸그룹, 시그니처 (cignature) '눈누난나 (Nun Nu Nan Na)'\nhttps://t.co/Zj8YZ8RDkP https://t.co/UTnBFX1f3B"
+	},
+	{
+		"created_at": "Tue Feb 04 09:31:28 +0000 2020",
+		"id": 1224626517570982000,
+		"id_str": "1224626517570981889",
+		"full_text": "#genie #지니 #지니매거진\nVince 두 번째 싱글 ‘비상사태' 뮤직비디오 비하인드 공개\nhttps://t.co/5AcwKPlpAq https://t.co/33xv6b47nJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5AcwKPlpAq",
+					"expanded_url": "http://bit.ly/2uZRYQU",
+					"display_url": "bit.ly/2uZRYQU",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224626516237127700,
+					"id_str": "1224626516237127680",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_VALWkAA07r3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_VALWkAA07r3.jpg",
+					"url": "https://t.co/33xv6b47nJ",
+					"display_url": "pic.twitter.com/33xv6b47nJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626517570981889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224626516237127700,
+					"id_str": "1224626516237127680",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6_VALWkAA07r3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6_VALWkAA07r3.jpg",
+					"url": "https://t.co/33xv6b47nJ",
+					"display_url": "pic.twitter.com/33xv6b47nJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224626517570981889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\nVince 두 번째 싱글 ‘비상사태' 뮤직비디오 비하인드 공개\nhttps://t.co/5AcwKPlpAq https://t.co/33xv6b47nJ"
+	},
+	{
 		"created_at": "Tue Feb 04 09:14:20 +0000 2020",
 		"id": 1224622202173214700,
 		"id_str": "1224622202173214722",
