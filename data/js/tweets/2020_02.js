@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 04:58:15 +0000 2020",
+		"id": 1224543586248810500,
+		"id_str": "1224557759078768642",
+		"full_text": "2월 5일 오후 12시 리미티드 티켓의 판매가 종료됩니다!\n리미티드 티켓 판매 종료 후엔 상승된 가격으로 얼리버드 티켓이 오픈됩니다.\n\n남은 기간 중 최대 할인 혜택을 누릴 수 있는 리미티드 티켓을 놓치지 마세요!\n\n🎫TICKET : https://t.co/pFmo1AWpe0 https://t.co/p0Ov6wGiT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224543286528028700,
+					"id_str": "1224543286528028672",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224543286528028672/pu/img/gwK3wccWUTRN_Dno.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224543286528028672/pu/img/gwK3wccWUTRN_Dno.jpg",
+					"url": "https://t.co/p0Ov6wGiT6",
+					"display_url": "pic.twitter.com/p0Ov6wGiT6",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1224543586248810500/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224543286528028700,
+					"id_str": "1224543286528028672",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224543286528028672/pu/img/gwK3wccWUTRN_Dno.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224543286528028672/pu/img/gwK3wccWUTRN_Dno.jpg",
+					"url": "https://t.co/p0Ov6wGiT6",
+					"display_url": "pic.twitter.com/p0Ov6wGiT6",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1224543586248810500/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224543286528028672/pu/vid/480x480/_6qZCYg6EvraXY4P.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224543286528028672/pu/vid/720x720/Qu-Z1p5PmP7po7Ci.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224543286528028672/pu/vid/320x320/sF7ihrtYQEQWuquj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1224543286528028672/pu/pl/ud4AEVgKouzDMftg.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3280,
+			"friends_count": 281,
+			"listed_count": 81,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1557579790",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2월 5일 오후 12시 리미티드 티켓의 판매가 종료됩니다!\n리미티드 티켓 판매 종료 후엔 상승된 가격으로 얼리버드 티켓이 오픈됩니다.\n\n남은 기간 중 최대 할인 혜택을 누릴 수 있는 리미티드 티켓을 놓치지 마세요!\n\n🎫TICKET : https://t.co/pFmo1AWpe0 https://t.co/p0Ov6wGiT6"
+	},
+	{
+		"created_at": "Tue Feb 04 04:29:30 +0000 2020",
+		"id": 1224538026031734800,
+		"id_str": "1224550521526157312",
+		"full_text": "[Listen here]\nMelon - https://t.co/EEmR6Yoyt1\nGenie - https://t.co/b1ZiDC4MI3\nBugs - https://t.co/vFVnFsmgGG\nVibe - https://t.co/goqLlCT47J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EEmR6Yoyt1",
+					"expanded_url": "https://bit.ly/31ycDbb",
+					"display_url": "bit.ly/31ycDbb",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/b1ZiDC4MI3",
+					"expanded_url": "https://bit.ly/2UkG92e",
+					"display_url": "bit.ly/2UkG92e",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/vFVnFsmgGG",
+					"expanded_url": "https://bit.ly/31oBv55",
+					"display_url": "bit.ly/31oBv55",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/goqLlCT47J",
+					"expanded_url": "https://bit.ly/2UnKces",
+					"display_url": "bit.ly/2UnKces",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224538023422984200,
+		"in_reply_to_status_id_str": "1224538023422984194",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9772,
+			"friends_count": 2976,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/EEmR6Yoyt1\nGenie - https://t.co/b1ZiDC4MI3\nBugs - https://t.co/vFVnFsmgGG\nVibe - https://t.co/goqLlCT47J"
+	},
+	{
 		"created_at": "Tue Feb 04 03:46:09 +0000 2020",
 		"id": 1224539615543120000,
 		"id_str": "1224539615543119873",
