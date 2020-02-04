@@ -1,6 +1,1927 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 16:14:18 +0000 2020",
+		"id": 1224727891684085800,
+		"id_str": "1224727891684085760",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n사연자를 찾습니다 [비밀상담소]\nhttps://t.co/hNIDi63UEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hNIDi63UEH",
+					"expanded_url": "https://youtu.be/SUrEPshsRnU",
+					"display_url": "youtu.be/SUrEPshsRnU",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n사연자를 찾습니다 [비밀상담소]\nhttps://t.co/hNIDi63UEH"
+	},
+	{
+		"created_at": "Tue Feb 04 15:58:15 +0000 2020",
+		"id": 1224709554296033300,
+		"id_str": "1224723851222953984",
+		"full_text": "#NOW온에어 2월 5일(수) 오늘의 타임테이블📌 https://t.co/XxRGkHpwFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOW온에어",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224709551301243000,
+					"id_str": "1224709551301242880",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8K2R5WsAAZV7x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8K2R5WsAAZV7x.jpg",
+					"url": "https://t.co/XxRGkHpwFb",
+					"display_url": "pic.twitter.com/XxRGkHpwFb",
+					"expanded_url": "https://twitter.com/kr_now/status/1224709554296033281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224709551301243000,
+					"id_str": "1224709551301242880",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8K2R5WsAAZV7x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8K2R5WsAAZV7x.jpg",
+					"url": "https://t.co/XxRGkHpwFb",
+					"display_url": "pic.twitter.com/XxRGkHpwFb",
+					"expanded_url": "https://twitter.com/kr_now/status/1224709554296033281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21156,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 554,
+		"favorite_count": 698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NOW온에어 2월 5일(수) 오늘의 타임테이블📌 https://t.co/XxRGkHpwFb"
+	},
+	{
+		"created_at": "Tue Feb 04 15:29:49 +0000 2020",
+		"id": 1224710560970936300,
+		"id_str": "1224716698911170562",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/ynYRsPthoK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224710512002371600,
+					"id_str": "1224710512002371588",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LuMyWkAQKvCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LuMyWkAQKvCb.jpg",
+					"url": "https://t.co/ynYRsPthoK",
+					"display_url": "pic.twitter.com/ynYRsPthoK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710560970936321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 813,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 771,
+									"y": 1005,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 585,
+									"y": 971,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 977,
+									"y": 1301,
+									"h": 387,
+									"w": 387
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 476,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 452,
+									"y": 589,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 343,
+									"y": 569,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 572,
+									"y": 762,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 596,
+									"y": 1232,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1168,
+									"y": 1522,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 887,
+									"y": 1471,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1480,
+									"y": 1970,
+									"h": 587,
+									"w": 587
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 270,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 256,
+									"y": 333,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 194,
+									"y": 322,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 324,
+									"y": 432,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224710512002371600,
+					"id_str": "1224710512002371588",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LuMyWkAQKvCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LuMyWkAQKvCb.jpg",
+					"url": "https://t.co/ynYRsPthoK",
+					"display_url": "pic.twitter.com/ynYRsPthoK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710560970936321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 393,
+									"y": 813,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 771,
+									"y": 1005,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 585,
+									"y": 971,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 977,
+									"y": 1301,
+									"h": 387,
+									"w": 387
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 476,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 452,
+									"y": 589,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 343,
+									"y": 569,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 572,
+									"y": 762,
+									"h": 227,
+									"w": 227
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 596,
+									"y": 1232,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 1168,
+									"y": 1522,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 887,
+									"y": 1471,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1480,
+									"y": 1970,
+									"h": 587,
+									"w": 587
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 130,
+									"y": 270,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 256,
+									"y": 333,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 194,
+									"y": 322,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 324,
+									"y": 432,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415346,
+			"friends_count": 7,
+			"listed_count": 2131,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/ynYRsPthoK"
+	},
+	{
+		"created_at": "Tue Feb 04 15:29:43 +0000 2020",
+		"id": 1224710436827881500,
+		"id_str": "1224716673044951042",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#JURI (#쥬리)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/pBUKifi25T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "JURI",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "쥬리",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224710388966621200,
+					"id_str": "1224710388966621185",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LnCcWAAEHkaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LnCcWAAEHkaa.jpg",
+					"url": "https://t.co/pBUKifi25T",
+					"display_url": "pic.twitter.com/pBUKifi25T",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710436827881472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224710388966621200,
+					"id_str": "1224710388966621185",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LnCcWAAEHkaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LnCcWAAEHkaa.jpg",
+					"url": "https://t.co/pBUKifi25T",
+					"display_url": "pic.twitter.com/pBUKifi25T",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710436827881472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415346,
+			"friends_count": 7,
+			"listed_count": 2131,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 540,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#JURI (#쥬리)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/pBUKifi25T"
+	},
+	{
+		"created_at": "Tue Feb 04 15:29:40 +0000 2020",
+		"id": 1224710310013042700,
+		"id_str": "1224716659858067456",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#SOHEE (#소희)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/Ej4LZjb0BB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "SOHEE",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "소희",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224710266933432300,
+					"id_str": "1224710266933432320",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8Lf71XUAAs8iQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8Lf71XUAAs8iQ.jpg",
+					"url": "https://t.co/Ej4LZjb0BB",
+					"display_url": "pic.twitter.com/Ej4LZjb0BB",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710310013042690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1015,
+									"y": 295,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 337,
+									"y": 98,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1537,
+									"y": 448,
+									"h": 487,
+									"w": 487
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 173,
+									"h": 188,
+									"w": 188
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224710266933432300,
+					"id_str": "1224710266933432320",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8Lf71XUAAs8iQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8Lf71XUAAs8iQ.jpg",
+					"url": "https://t.co/Ej4LZjb0BB",
+					"display_url": "pic.twitter.com/Ej4LZjb0BB",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710310013042690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1015,
+									"y": 295,
+									"h": 321,
+									"w": 321
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 337,
+									"y": 98,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1537,
+									"y": 448,
+									"h": 487,
+									"w": 487
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 594,
+									"y": 173,
+									"h": 188,
+									"w": 188
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415346,
+			"friends_count": 7,
+			"listed_count": 2131,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#SOHEE (#소희)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/Ej4LZjb0BB"
+	},
+	{
+		"created_at": "Tue Feb 04 15:29:36 +0000 2020",
+		"id": 1224710200697020400,
+		"id_str": "1224716642569150465",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#SUYUN (#수윤)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/QoXR9H9SMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "SUYUN",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "수윤",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224710142391963600,
+					"id_str": "1224710142391963648",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LYr4XUAAutbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LYr4XUAAutbU.jpg",
+					"url": "https://t.co/QoXR9H9SMI",
+					"display_url": "pic.twitter.com/QoXR9H9SMI",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710200697020419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 1009,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1919,
+									"y": 2609,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 420,
+									"y": 572,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1267,
+									"y": 1723,
+									"h": 217,
+									"w": 217
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224710142391963600,
+					"id_str": "1224710142391963648",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LYr4XUAAutbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LYr4XUAAutbU.jpg",
+					"url": "https://t.co/QoXR9H9SMI",
+					"display_url": "pic.twitter.com/QoXR9H9SMI",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710200697020419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 1009,
+									"h": 127,
+									"w": 127
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1919,
+									"y": 2609,
+									"h": 329,
+									"w": 329
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 420,
+									"y": 572,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1267,
+									"y": 1723,
+									"h": 217,
+									"w": 217
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415346,
+			"friends_count": 7,
+			"listed_count": 2131,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#SUYUN (#수윤)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/QoXR9H9SMI"
+	},
+	{
+		"created_at": "Tue Feb 04 15:29:28 +0000 2020",
+		"id": 1224710007314317300,
+		"id_str": "1224716608431624193",
+		"full_text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#YEONHEE (#연희)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/e6Rhe1xtXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RED_PUNCH",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "YEONHEE",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "연희",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Rocket_Punch",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "BOUNCY",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224709967149764600,
+					"id_str": "1224709967149764611",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LOfDXkAMUS95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LOfDXkAMUS95.jpg",
+					"url": "https://t.co/e6Rhe1xtXw",
+					"display_url": "pic.twitter.com/e6Rhe1xtXw",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710007314317313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 2243,
+									"y": 1964,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 430,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1481,
+									"y": 1297,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 868,
+									"y": 760,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224709967149764600,
+					"id_str": "1224709967149764611",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8LOfDXkAMUS95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8LOfDXkAMUS95.jpg",
+					"url": "https://t.co/e6Rhe1xtXw",
+					"display_url": "pic.twitter.com/e6Rhe1xtXw",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1224710007314317313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 2243,
+									"y": 1964,
+									"h": 139,
+									"w": 139
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 430,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1481,
+									"y": 1297,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 868,
+									"y": 760,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415346,
+			"friends_count": 7,
+			"listed_count": 2131,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1579619076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 2ND MINI ALBUM \n[#RED_PUNCH🥊] CONCEPT PHOTO VER.B\n#YEONHEE (#연희)\n2020.02.10 6PM RELEASE\n\n#Rocket_Punch #로켓펀치\n#BOUNCY https://t.co/e6Rhe1xtXw"
+	},
+	{
 		"created_at": "Tue Feb 04 14:58:27 +0000 2020",
 		"id": 1224704350037184500,
 		"id_str": "1224708803486277635",
@@ -426,7 +2347,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
