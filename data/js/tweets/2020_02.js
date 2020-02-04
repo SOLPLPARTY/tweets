@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 14:58:27 +0000 2020",
+		"id": 1224704350037184500,
+		"id_str": "1224708803486277635",
+		"full_text": "@foru_n_ever0203 어디 가징...🙊",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "foru_n_ever0203",
+					"name": "ONE&ONLY",
+					"id": 1100437296128520200,
+					"id_str": "1100437296128520193",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224697254776230000,
+		"in_reply_to_status_id_str": "1224697254776229889",
+		"in_reply_to_user_id": 1100437296128520200,
+		"in_reply_to_user_id_str": "1100437296128520193",
+		"in_reply_to_screen_name": "foru_n_ever0203",
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1890,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@foru_n_ever0203 어디 가징...🙊"
+	},
+	{
+		"created_at": "Tue Feb 04 14:58:22 +0000 2020",
+		"id": 1224700946925490200,
+		"id_str": "1224708781763895298",
+		"full_text": "추위 뚫고! #어벤걸스 에 놀러온 든든한 #지애 편😎 #러블리즈 #수정 이와 따끔후끈한 시간 보내셨나요?🔥 다음엔 더 강렬한 #호통랩 들고 또 놀러오겠다는 약속 꼭 지키기! #NOW온에어 #Lovelyz https://t.co/41qvk35tXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "지애",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "수정",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "호통랩",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224700934393147400,
+					"id_str": "1224700934393147393",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8DAtaXsAE_oOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8DAtaXsAE_oOo.jpg",
+					"url": "https://t.co/41qvk35tXB",
+					"display_url": "pic.twitter.com/41qvk35tXB",
+					"expanded_url": "https://twitter.com/kr_now/status/1224700946925490176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 38,
+									"h": 264,
+									"w": 264
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224700934393147400,
+					"id_str": "1224700934393147393",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8DAtaXsAE_oOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8DAtaXsAE_oOo.jpg",
+					"url": "https://t.co/41qvk35tXB",
+					"display_url": "pic.twitter.com/41qvk35tXB",
+					"expanded_url": "https://twitter.com/kr_now/status/1224700946925490176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 38,
+									"h": 264,
+									"w": 264
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 64,
+									"h": 438,
+									"w": 438
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224700934409937000,
+					"id_str": "1224700934409936904",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EP8DAteX4AgnDQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP8DAteX4AgnDQu.jpg",
+					"url": "https://t.co/41qvk35tXB",
+					"display_url": "pic.twitter.com/41qvk35tXB",
+					"expanded_url": "https://twitter.com/kr_now/status/1224700946925490176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 11,
+									"h": 443,
+									"w": 443
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 11,
+									"h": 443,
+									"w": 443
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 6,
+									"h": 267,
+									"w": 267
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 177,
+									"y": 11,
+									"h": 443,
+									"w": 443
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21150,
+			"friends_count": 0,
+			"listed_count": 45,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 669,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추위 뚫고! #어벤걸스 에 놀러온 든든한 #지애 편😎 #러블리즈 #수정 이와 따끔후끈한 시간 보내셨나요?🔥 다음엔 더 강렬한 #호통랩 들고 또 놀러오겠다는 약속 꼭 지키기! #NOW온에어 #Lovelyz https://t.co/41qvk35tXB"
+	},
+	{
 		"created_at": "Tue Feb 04 13:58:15 +0000 2020",
 		"id": 1224684726323048400,
 		"id_str": "1224693652112445441",
