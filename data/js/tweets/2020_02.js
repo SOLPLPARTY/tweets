@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 04:25:20 +0000 2020",
+		"id": 1224911863374319600,
+		"id_str": "1224911863374319616",
+		"full_text": "#문화인 #MUN_HWA_IN\nCRACKER 크래커 / interview 인터뷰\nhttps://t.co/KZLG6V25tM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "MUN_HWA_IN",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZLG6V25tM",
+					"expanded_url": "https://youtu.be/8IiI4B5tJLY",
+					"display_url": "youtu.be/8IiI4B5tJLY",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화인 #MUN_HWA_IN\nCRACKER 크래커 / interview 인터뷰\nhttps://t.co/KZLG6V25tM"
+	},
+	{
 		"created_at": "Wed Feb 05 03:58:17 +0000 2020",
 		"id": 1224902858996240400,
 		"id_str": "1224905054521647105",
@@ -137,7 +270,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Wed Feb 05 03:58:15 +0000 2020",
 		"id": 1224902829480931300,
 		"id_str": "1224905045587767299",
-		"full_text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇‍♀️🙇‍♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22",
+		"full_text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇♀️🙇♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -457,7 +590,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇‍♀️🙇‍♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22"
+		"text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇♀️🙇♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22"
 	},
 	{
 		"created_at": "Wed Feb 05 03:49:58 +0000 2020",
