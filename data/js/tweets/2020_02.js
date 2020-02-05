@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 10:49:18 +0000 2020",
+		"id": 1225008489061326800,
+		"id_str": "1225008489061326849",
+		"full_text": "#가온차트 #칼럼\n2019 걸그룹 결산 (K-POP Girl Group Review)\n▶ https://t.co/kc6Cau34Wk\n　\n#GaonChart #가온 #Gaon https://t.co/V6Ua8ukh2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "가온",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kc6Cau34Wk",
+					"expanded_url": "http://bit.ly/2GV0bZx",
+					"display_url": "bit.ly/2GV0bZx",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225008487853412400,
+					"id_str": "1225008487853412352",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAaurVXUAA1FPb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQAaurVXUAA1FPb.png",
+					"url": "https://t.co/V6Ua8ukh2o",
+					"display_url": "pic.twitter.com/V6Ua8ukh2o",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225008489061326849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225008487853412400,
+					"id_str": "1225008487853412352",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EQAaurVXUAA1FPb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQAaurVXUAA1FPb.png",
+					"url": "https://t.co/V6Ua8ukh2o",
+					"display_url": "pic.twitter.com/V6Ua8ukh2o",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225008489061326849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #칼럼\n2019 걸그룹 결산 (K-POP Girl Group Review)\n▶ https://t.co/kc6Cau34Wk\n　\n#GaonChart #가온 #Gaon https://t.co/V6Ua8ukh2o"
+	},
+	{
+		"created_at": "Wed Feb 05 10:41:38 +0000 2020",
+		"id": 1224999637100052500,
+		"id_str": "1225006559828348929",
+		"full_text": "아아!! 공연 관계자 여러분께 알립니다🎙\n판매 할 시재금의 잔돈이 필요하시다구요?!\n예사스테이지로 오세요⭐️\n오백원 주화 혹은 천원권으로 무료 환전서비스가 가능합니다! 오백원 주화는 3층 물품보관소 동전교환기를 이용하시구,\n천원권이상은 02-742-9637로 전화주세요! 잔돈걱정다들해보셨잖아요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 동숭동 대학로12길 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/O7KKxkPl2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7KKxkPl2c",
+							"expanded_url": "http://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2740,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1552216594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아아!! 공연 관계자 여러분께 알립니다🎙\n판매 할 시재금의 잔돈이 필요하시다구요?!\n예사스테이지로 오세요⭐️\n오백원 주화 혹은 천원권으로 무료 환전서비스가 가능합니다! 오백원 주화는 3층 물품보관소 동전교환기를 이용하시구,\n천원권이상은 02-742-9637로 전화주세요! 잔돈걱정다들해보셨잖아요!"
+	},
+	{
+		"created_at": "Wed Feb 05 10:29:25 +0000 2020",
+		"id": 1224998665892155400,
+		"id_str": "1225003486011674624",
+		"full_text": "[예약판매] SURL과 OurR의 HMV 아날로그 7인치 바이닐이 3월 25일 발매됩니다. 일본 한정반으로 사전 예약 판매가 진행되며 해외에서도 온라인 구매가 가능합니다.\n\nOurR - ‘haaAakkKKK!!! / Desert’\n📎 https://t.co/TXZw1ezzuw\n\nSURL - ‘Snow / Dancing on the Rooftop’\n📎 https://t.co/4T4gprTPjT https://t.co/4iabCTqDfJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TXZw1ezzuw",
+					"expanded_url": "http://bit.ly/31rTw27",
+					"display_url": "bit.ly/31rTw27",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/4T4gprTPjT",
+					"expanded_url": "http://bit.ly/2Ur9Mip",
+					"display_url": "bit.ly/2Ur9Mip",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224998440548978700,
+					"id_str": "1224998440548978691",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQARl2NUUAMmhxf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQARl2NUUAMmhxf.png",
+					"url": "https://t.co/4iabCTqDfJ",
+					"display_url": "pic.twitter.com/4iabCTqDfJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1224998665892155393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224998440548978700,
+					"id_str": "1224998440548978691",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQARl2NUUAMmhxf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQARl2NUUAMmhxf.png",
+					"url": "https://t.co/4iabCTqDfJ",
+					"display_url": "pic.twitter.com/4iabCTqDfJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1224998665892155393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224998440779706400,
+					"id_str": "1224998440779706370",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQARl3EU8AIUBX7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQARl3EU8AIUBX7.png",
+					"url": "https://t.co/4iabCTqDfJ",
+					"display_url": "pic.twitter.com/4iabCTqDfJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1224998665892155393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 699,
+							"h": 699,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 699,
+							"h": 699,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 81,
+									"h": 479,
+									"w": 479
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 2,
+									"y": 78,
+									"h": 465,
+									"w": 465
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 81,
+									"h": 479,
+									"w": 479
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 81,
+									"h": 479,
+									"w": 479
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224998440909734000,
+					"id_str": "1224998440909733888",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EQARl3jVAAAO_S5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQARl3jVAAAO_S5.jpg",
+					"url": "https://t.co/4iabCTqDfJ",
+					"display_url": "pic.twitter.com/4iabCTqDfJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1224998665892155393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13606,
+			"friends_count": 2464,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예약판매] SURL과 OurR의 HMV 아날로그 7인치 바이닐이 3월 25일 발매됩니다. 일본 한정반으로 사전 예약 판매가 진행되며 해외에서도 온라인 구매가 가능합니다.\n\nOurR - ‘haaAakkKKK!!! / Desert’\n📎 https://t.co/TXZw1ezzuw\n\nSURL - ‘Snow / Dancing on the Rooftop’\n📎 https://t.co/4T4gprTPjT https://t.co/4iabCTqDfJ"
+	},
+	{
 		"created_at": "Wed Feb 05 10:14:02 +0000 2020",
 		"id": 1224999616636170200,
 		"id_str": "1224999616636170241",
@@ -1299,7 +2007,7 @@ Grailbird.data.tweets_2020_02 =
 				"name": "네이버 나우.",
 				"screen_name": "kr_now",
 				"location": "",
-				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+				"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 				"url": null,
 				"entities": {
 					"description": {
