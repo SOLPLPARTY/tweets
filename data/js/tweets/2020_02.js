@@ -1,6 +1,1673 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 03:58:17 +0000 2020",
+		"id": 1224902858996240400,
+		"id_str": "1224905054521647105",
+		"full_text": "📍2월 5일 올댓뮤직 비공개 녹화는 \n관객 여러분들의 입장 및 관람이 절대 불가한 점\n다시 한 번 관객 여러분들의 양해부탁드립니다.😭\n\n#ALLTHATMUSIC\n#기리보이 #그리즐리 #우디고차일드 #골든",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"text": "기리보이",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "그리즐리",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "우디고차일드",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "골든",
+					"indices": [
+						110,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1224902829480931300,
+		"in_reply_to_status_id_str": "1224902829480931329",
+		"in_reply_to_user_id": 217332530,
+		"in_reply_to_user_id_str": "217332530",
+		"in_reply_to_screen_name": "allthatmusicTV",
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3751,
+			"friends_count": 944,
+			"listed_count": 93,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍2월 5일 올댓뮤직 비공개 녹화는 \n관객 여러분들의 입장 및 관람이 절대 불가한 점\n다시 한 번 관객 여러분들의 양해부탁드립니다.😭\n\n#ALLTHATMUSIC\n#기리보이 #그리즐리 #우디고차일드 #골든"
+	},
+	{
+		"created_at": "Wed Feb 05 03:58:15 +0000 2020",
+		"id": 1224902829480931300,
+		"id_str": "1224905045587767299",
+		"full_text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇‍♀️🙇‍♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z8cWMV4g9e",
+					"expanded_url": "https://youtu.be/hQeD83HcJyc",
+					"display_url": "youtu.be/hQeD83HcJyc",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224902806517084200,
+					"id_str": "1224902806517084162",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-6nNrUcAIlJUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-6nNrUcAIlJUh.jpg",
+					"url": "https://t.co/OonLwc3h22",
+					"display_url": "pic.twitter.com/OonLwc3h22",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1224902829480931329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 215,
+									"y": 69,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 423,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 405,
+									"y": 130,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 396,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 379,
+									"y": 121,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 423,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 405,
+									"y": 130,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224902806517084200,
+					"id_str": "1224902806517084162",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-6nNrUcAIlJUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-6nNrUcAIlJUh.jpg",
+					"url": "https://t.co/OonLwc3h22",
+					"display_url": "pic.twitter.com/OonLwc3h22",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1224902829480931329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 224,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 215,
+									"y": 69,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 423,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 405,
+									"y": 130,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 396,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 379,
+									"y": 121,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 111,
+									"y": 423,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 405,
+									"y": 130,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3751,
+			"friends_count": 944,
+			"listed_count": 93,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직  \n200205 수요일 오후 6시\n\n많은 신청자분들의 아쉬운 마음을 담아\n전격! 녹화 현장 실시간 생중계를 진행합니다👏\n\n오늘 오후 6시\n올댓뮤직 공식 유튜브 채널에서 진행될 예정이며\n여러분들의 많은 관심과 시청바랍니다🙇‍♀️🙇‍♂️\n바로가기👉 https://t.co/Z8cWMV4g9e https://t.co/OonLwc3h22"
+	},
+	{
+		"created_at": "Wed Feb 05 03:49:58 +0000 2020",
+		"id": 1224902962146922500,
+		"id_str": "1224902962146922498",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n2월 5일 | 제희, 김성준, 은오\nhttps://t.co/rrCZ7crj7t\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rrCZ7crj7t",
+					"expanded_url": "http://bit.ly/2tvXsTd",
+					"display_url": "bit.ly/2tvXsTd",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n2월 5일 | 제희, 김성준, 은오\nhttps://t.co/rrCZ7crj7t\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Wed Feb 05 03:41:41 +0000 2020",
+		"id": 1224891148650475500,
+		"id_str": "1224900875845623809",
+		"full_text": "&lt;롤링 25주년 기념 공연 vol.27 새벽공방&amp;와인루프&gt;\n\n· 일시 : 2020년 3월 20일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 새벽공방, 와인루프\n· 예매 : 멜론티켓 2020년 2월 12일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#새벽공방 #와인루프 #롤링25주년기념공연 #롤링25주년 #롤링홀 https://t.co/ntKQL6HmaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새벽공방",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "와인루프",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "롤링25주년기념공연",
+					"indices": [
+						181,
+						192
+					]
+				},
+				{
+					"text": "롤링25주년",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						201,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224891110129946600,
+					"id_str": "1224891110129946626",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224891110129946626/pu/img/-hG4aWP83i85DC2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224891110129946626/pu/img/-hG4aWP83i85DC2-.jpg",
+					"url": "https://t.co/ntKQL6HmaN",
+					"display_url": "pic.twitter.com/ntKQL6HmaN",
+					"expanded_url": "https://twitter.com/rollinghall/status/1224891148650475521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224891110129946600,
+					"id_str": "1224891110129946626",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224891110129946626/pu/img/-hG4aWP83i85DC2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224891110129946626/pu/img/-hG4aWP83i85DC2-.jpg",
+					"url": "https://t.co/ntKQL6HmaN",
+					"display_url": "pic.twitter.com/ntKQL6HmaN",
+					"expanded_url": "https://twitter.com/rollinghall/status/1224891148650475521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6364,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224891110129946626/pu/vid/480x480/ojVd2hbKMDbI4eDq.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224891110129946626/pu/vid/320x320/FHzEcPy8h2WUPHHc.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1224891110129946626/pu/vid/720x720/lPZUilcgD5R-aZUt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1224891110129946626/pu/pl/B9fI836kGcWzHdzv.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3360,
+			"friends_count": 787,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 vol.27 새벽공방&amp;와인루프&gt;\n\n· 일시 : 2020년 3월 20일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 새벽공방, 와인루프\n· 예매 : 멜론티켓 2020년 2월 12일 (수) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#새벽공방 #와인루프 #롤링25주년기념공연 #롤링25주년 #롤링홀 https://t.co/ntKQL6HmaN"
+	},
+	{
+		"created_at": "Wed Feb 05 03:41:37 +0000 2020",
+		"id": 1224890401997369300,
+		"id_str": "1224900862797062144",
+		"full_text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n-\n&lt;롤링 25주년 기념 공연 vol.23 406호 프로젝트&amp;안예은&gt;\n-\n· 일시 : 2020년 3월 8일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 406호 프로젝트, 안예은\n· 예매 :🍈멜론티켓 https://t.co/TNSn2M71dU\n-\n#406호프로젝트 #안예은 #롤링홀 https://t.co/obANCPH5CV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "406호프로젝트",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "안예은",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNSn2M71dU",
+					"expanded_url": "https://vo.la/kkY5",
+					"display_url": "vo.la/kkY5",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224890400193773600,
+					"id_str": "1224890400193773568",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EP-vVEhWAAAVaIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EP-vVEhWAAAVaIE.jpg",
+					"url": "https://t.co/obANCPH5CV",
+					"display_url": "pic.twitter.com/obANCPH5CV",
+					"expanded_url": "https://twitter.com/rollinghall/status/1224890401997369344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224890400193773600,
+					"id_str": "1224890400193773568",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EP-vVEhWAAAVaIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EP-vVEhWAAAVaIE.jpg",
+					"url": "https://t.co/obANCPH5CV",
+					"display_url": "pic.twitter.com/obANCPH5CV",
+					"expanded_url": "https://twitter.com/rollinghall/status/1224890401997369344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EP-vVEhWAAAVaIE.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twuffer.com\" rel=\"nofollow\">Twuffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3360,
+			"friends_count": 787,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n-\n&lt;롤링 25주년 기념 공연 vol.23 406호 프로젝트&amp;안예은&gt;\n-\n· 일시 : 2020년 3월 8일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 406호 프로젝트, 안예은\n· 예매 :🍈멜론티켓 https://t.co/TNSn2M71dU\n-\n#406호프로젝트 #안예은 #롤링홀 https://t.co/obANCPH5CV"
+	},
+	{
+		"created_at": "Wed Feb 05 03:31:43 +0000 2020",
+		"id": 1224898369291739100,
+		"id_str": "1224898369291739136",
+		"full_text": "#genie #지니 #지니매거진\n트렌디한 감성의 아티스트, 성휘 [구름] 앨범 작업기 비하인드\nhttps://t.co/QK0wtFSwaa https://t.co/yIXRg7SV6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QK0wtFSwaa",
+					"expanded_url": "http://bit.ly/2UpmH4D",
+					"display_url": "bit.ly/2UpmH4D",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224898367685374000,
+					"id_str": "1224898367685373953",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-2k1vXsAE0wIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-2k1vXsAE0wIf.jpg",
+					"url": "https://t.co/yIXRg7SV6h",
+					"display_url": "pic.twitter.com/yIXRg7SV6h",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224898369291739136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224898367685374000,
+					"id_str": "1224898367685373953",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-2k1vXsAE0wIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-2k1vXsAE0wIf.jpg",
+					"url": "https://t.co/yIXRg7SV6h",
+					"display_url": "pic.twitter.com/yIXRg7SV6h",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224898369291739136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 93,
+									"h": 193,
+									"w": 193
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n트렌디한 감성의 아티스트, 성휘 [구름] 앨범 작업기 비하인드\nhttps://t.co/QK0wtFSwaa https://t.co/yIXRg7SV6h"
+	},
+	{
+		"created_at": "Wed Feb 05 03:31:28 +0000 2020",
+		"id": 1224898305941024800,
+		"id_str": "1224898305941024774",
+		"full_text": "#genie #지니 #지니매거진\n경기필하모닉 오케스트라 추천! FLAC 24bit로 듣기 좋은 클래식\nhttps://t.co/BmjASMPx2W https://t.co/fZCl5VxkB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmjASMPx2W",
+					"expanded_url": "http://bit.ly/2Uu7krx",
+					"display_url": "bit.ly/2Uu7krx",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224898304905023500,
+					"id_str": "1224898304905023489",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-2hL3XkAEsvJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-2hL3XkAEsvJ5.jpg",
+					"url": "https://t.co/fZCl5VxkB2",
+					"display_url": "pic.twitter.com/fZCl5VxkB2",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224898305941024774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224898304905023500,
+					"id_str": "1224898304905023489",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-2hL3XkAEsvJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-2hL3XkAEsvJ5.jpg",
+					"url": "https://t.co/fZCl5VxkB2",
+					"display_url": "pic.twitter.com/fZCl5VxkB2",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1224898305941024774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n경기필하모닉 오케스트라 추천! FLAC 24bit로 듣기 좋은 클래식\nhttps://t.co/BmjASMPx2W https://t.co/fZCl5VxkB2"
+	},
+	{
 		"created_at": "Wed Feb 05 03:09:52 +0000 2020",
 		"id": 1224892869774925800,
 		"id_str": "1224892869774925827",
