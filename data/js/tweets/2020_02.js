@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 01:29:25 +0000 2020",
+		"id": 1224864644826726400,
+		"id_str": "1224867590658568192",
+		"full_text": "[#박재정] [M COUNTDOWN] 200130 엠카 현장을 한 눈에!\n&gt; https://t.co/OG41hFov6t\n\n#MCOUNTDOWN #엠카운트다운 #엠카 #현장포토 #가벼운결심 https://t.co/Ih3rxSHvU3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박재정",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "엠카",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "현장포토",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "가벼운결심",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OG41hFov6t",
+					"expanded_url": "http://naver.me/GMAUZMGA",
+					"display_url": "naver.me/GMAUZMGA",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224864634659725300,
+					"id_str": "1224864634659725312",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-X5UbU4AA8BxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-X5UbU4AA8BxK.jpg",
+					"url": "https://t.co/Ih3rxSHvU3",
+					"display_url": "pic.twitter.com/Ih3rxSHvU3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224864644826726400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224864634659725300,
+					"id_str": "1224864634659725312",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-X5UbU4AA8BxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-X5UbU4AA8BxK.jpg",
+					"url": "https://t.co/Ih3rxSHvU3",
+					"display_url": "pic.twitter.com/Ih3rxSHvU3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224864644826726400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224864634663915500,
+					"id_str": "1224864634663915520",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-X5UcU0AAbHS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-X5UcU0AAbHS9.jpg",
+					"url": "https://t.co/Ih3rxSHvU3",
+					"display_url": "pic.twitter.com/Ih3rxSHvU3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224864644826726400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224864634663923700,
+					"id_str": "1224864634663923713",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-X5UcU8AEsMmS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-X5UcU8AEsMmS.jpg",
+					"url": "https://t.co/Ih3rxSHvU3",
+					"display_url": "pic.twitter.com/Ih3rxSHvU3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224864644826726400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224864634668081200,
+					"id_str": "1224864634668081152",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EP-X5UdUYAAqZ9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP-X5UdUYAAqZ9H.jpg",
+					"url": "https://t.co/Ih3rxSHvU3",
+					"display_url": "pic.twitter.com/Ih3rxSHvU3",
+					"expanded_url": "https://twitter.com/themysticstory/status/1224864644826726400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 120,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 120,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 399,
+									"y": 68,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 705,
+									"y": 120,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18046,
+			"friends_count": 16,
+			"listed_count": 257,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#박재정] [M COUNTDOWN] 200130 엠카 현장을 한 눈에!\n&gt; https://t.co/OG41hFov6t\n\n#MCOUNTDOWN #엠카운트다운 #엠카 #현장포토 #가벼운결심 https://t.co/Ih3rxSHvU3"
+	},
+	{
 		"created_at": "Tue Feb 04 22:18:18 +0000 2020",
 		"id": 1224819493731479600,
 		"id_str": "1224819493731479552",
