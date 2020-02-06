@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 11:04:21 +0000 2020",
+		"id": 1225374666514194400,
+		"id_str": "1225374666514194432",
+		"full_text": "#genie #지니 #지니매거진\n트롯 남자가수 특집! 젊은 매력을 보여줄 트롯 가수들!\nhttps://t.co/ZWPNuGCXWi https://t.co/beWWfeuno9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZWPNuGCXWi",
+					"expanded_url": "http://bit.ly/2OtrVbG",
+					"display_url": "bit.ly/2OtrVbG",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225374665302061000,
+					"id_str": "1225374665302061056",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFnxAoXsAAbhqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFnxAoXsAAbhqw.jpg",
+					"url": "https://t.co/beWWfeuno9",
+					"display_url": "pic.twitter.com/beWWfeuno9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225374666514194432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225374665302061000,
+					"id_str": "1225374665302061056",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFnxAoXsAAbhqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFnxAoXsAAbhqw.jpg",
+					"url": "https://t.co/beWWfeuno9",
+					"display_url": "pic.twitter.com/beWWfeuno9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225374666514194432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n트롯 남자가수 특집! 젊은 매력을 보여줄 트롯 가수들!\nhttps://t.co/ZWPNuGCXWi https://t.co/beWWfeuno9"
+	},
+	{
+		"created_at": "Thu Feb 06 10:41:47 +0000 2020",
+		"id": 1225368744387477500,
+		"id_str": "1225368987565019137",
+		"full_text": "[신규입고]\n💥라쿠나 슬로건 2종🌺\n\n첫 단독 공연에서 쓰였던 슬로건이 입고되었습니다😄\n공연의 감동을 간직하고픈 분은 언제나 씬디를 찾아주세요😉\n직접 가져다주신 분께 감사의 말씀 드립니다! https://t.co/I3JtsOqRSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225368711927713800,
+					"id_str": "1225368711927713793",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFiWelUUAEqhhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFiWelUUAEqhhD.jpg",
+					"url": "https://t.co/I3JtsOqRSk",
+					"display_url": "pic.twitter.com/I3JtsOqRSk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1225368744387477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225368711927713800,
+					"id_str": "1225368711927713793",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFiWelUUAEqhhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFiWelUUAEqhhD.jpg",
+					"url": "https://t.co/I3JtsOqRSk",
+					"display_url": "pic.twitter.com/I3JtsOqRSk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1225368744387477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225368711940362200,
+					"id_str": "1225368711940362240",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFiWeoVUAAMT31.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFiWeoVUAAMT31.jpg",
+					"url": "https://t.co/I3JtsOqRSk",
+					"display_url": "pic.twitter.com/I3JtsOqRSk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1225368744387477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225368711915114500,
+					"id_str": "1225368711915114496",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFiWeiUEAAzfZN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFiWeiUEAAzfZN.jpg",
+					"url": "https://t.co/I3JtsOqRSk",
+					"display_url": "pic.twitter.com/I3JtsOqRSk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1225368744387477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2871,
+			"friends_count": 2751,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n💥라쿠나 슬로건 2종🌺\n\n첫 단독 공연에서 쓰였던 슬로건이 입고되었습니다😄\n공연의 감동을 간직하고픈 분은 언제나 씬디를 찾아주세요😉\n직접 가져다주신 분께 감사의 말씀 드립니다! https://t.co/I3JtsOqRSk"
+	},
+	{
+		"created_at": "Thu Feb 06 10:41:38 +0000 2020",
+		"id": 1225354080626729000,
+		"id_str": "1225368949300322306",
+		"full_text": "&lt;#조조래빗&gt;\n2/5일 개봉! 상상마당 시네마 절찬 상영중!\n당신을 웃긴 만큼 따뜻하게 안아주는 영화!”\n\n• 감독 : 타이카 와이티티\n• 장소 : KT&amp;G #상상마당시네마\n• 시간 : 108분\n• 장르 : 코미디, 드라마 전쟁\n• 예매 : https://t.co/UkyoAwHDLP https://t.co/igaPBmtgXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조조래빗",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "상상마당시네마",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UkyoAwHDLP",
+					"expanded_url": "http://bit.ly/33uNn6a",
+					"display_url": "bit.ly/33uNn6a",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225354066189897700,
+					"id_str": "1225354066189897728",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFVB-9UUAADOBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFVB-9UUAADOBK.jpg",
+					"url": "https://t.co/igaPBmtgXE",
+					"display_url": "pic.twitter.com/igaPBmtgXE",
+					"expanded_url": "https://twitter.com/SSmadang/status/1225354080626728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225354066189897700,
+					"id_str": "1225354066189897728",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQFVB-9UUAADOBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQFVB-9UUAADOBK.jpg",
+					"url": "https://t.co/igaPBmtgXE",
+					"display_url": "pic.twitter.com/igaPBmtgXE",
+					"expanded_url": "https://twitter.com/SSmadang/status/1225354080626728960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19045,
+			"friends_count": 1992,
+			"listed_count": 317,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;#조조래빗&gt;\n2/5일 개봉! 상상마당 시네마 절찬 상영중!\n당신을 웃긴 만큼 따뜻하게 안아주는 영화!”\n\n• 감독 : 타이카 와이티티\n• 장소 : KT&amp;G #상상마당시네마\n• 시간 : 108분\n• 장르 : 코미디, 드라마 전쟁\n• 예매 : https://t.co/UkyoAwHDLP https://t.co/igaPBmtgXE"
+	},
+	{
 		"created_at": "Thu Feb 06 10:09:23 +0000 2020",
 		"id": 1225360834806927400,
 		"id_str": "1225360834806927360",
