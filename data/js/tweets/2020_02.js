@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 04:58:14 +0000 2020",
+		"id": 1225271884272427000,
+		"id_str": "1225282531416793088",
+		"full_text": "#딕펑스의비밀상담소 \n짝사랑💘, 썸타는 중💓, 조금 더 화끈한 연애🔞 고민까지! 쓰레기같은 연애,거지같은 연애사연을 보내주세요! 비밀상담소 두소장 #김태현 #김재흥 소장이 가감없이 상담해드립니다😆 상담소는 24시간 오픈!\n\n🎙생방송은 매주 수요일 밤 9시🥳\n\nhttps://t.co/HuFCZmvwKC https://t.co/BWR6OEEWyG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딕펑스의비밀상담소",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "김태현",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "김재흥",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HuFCZmvwKC",
+					"expanded_url": "https://youtu.be/SUrEPshsRnU",
+					"display_url": "youtu.be/SUrEPshsRnU",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225271877704114200,
+					"id_str": "1225271877704114176",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEKR-_UYAAJSWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEKR-_UYAAJSWO.jpg",
+					"url": "https://t.co/BWR6OEEWyG",
+					"display_url": "pic.twitter.com/BWR6OEEWyG",
+					"expanded_url": "https://twitter.com/casperradio_/status/1225271884272427009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225271877704114200,
+					"id_str": "1225271877704114176",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQEKR-_UYAAJSWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQEKR-_UYAAJSWO.jpg",
+					"url": "https://t.co/BWR6OEEWyG",
+					"display_url": "pic.twitter.com/BWR6OEEWyG",
+					"expanded_url": "https://twitter.com/casperradio_/status/1225271884272427009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1921,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딕펑스의비밀상담소 \n짝사랑💘, 썸타는 중💓, 조금 더 화끈한 연애🔞 고민까지! 쓰레기같은 연애,거지같은 연애사연을 보내주세요! 비밀상담소 두소장 #김태현 #김재흥 소장이 가감없이 상담해드립니다😆 상담소는 24시간 오픈!\n\n🎙생방송은 매주 수요일 밤 9시🥳\n\nhttps://t.co/HuFCZmvwKC https://t.co/BWR6OEEWyG"
+	},
+	{
+		"created_at": "Thu Feb 06 04:41:38 +0000 2020",
+		"id": 1225263971000672300,
+		"id_str": "1225278350706515969",
+		"full_text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.21 최예근 단독 공연 : 내가 서있는 곳 나의 겨울에게&gt;\n\n· 일시 : 2020년 3월 6일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 최예근\n· 예매 :🍈멜론티켓 https://t.co/wAu73W93hA\n\nDesign by @studio.himp\n\n#최예근 #롤링홀 https://t.co/bg5rDWOdJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최예근",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wAu73W93hA",
+					"expanded_url": "https://vo.la/FVhG",
+					"display_url": "vo.la/FVhG",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225263947617423400,
+					"id_str": "1225263947617423361",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225263947617423361/pu/img/VT00xzr08nem_0pA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225263947617423361/pu/img/VT00xzr08nem_0pA.jpg",
+					"url": "https://t.co/bg5rDWOdJY",
+					"display_url": "pic.twitter.com/bg5rDWOdJY",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225263971000672256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225263947617423400,
+					"id_str": "1225263947617423361",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225263947617423361/pu/img/VT00xzr08nem_0pA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225263947617423361/pu/img/VT00xzr08nem_0pA.jpg",
+					"url": "https://t.co/bg5rDWOdJY",
+					"display_url": "pic.twitter.com/bg5rDWOdJY",
+					"expanded_url": "https://twitter.com/rollinghall/status/1225263971000672256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225263947617423361/pu/vid/320x320/Hp0OlUnHnL7Jb0R8.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225263947617423361/pu/vid/720x720/osvmukweWN9bGIkN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225263947617423361/pu/vid/480x480/QbzCutJQmcR2TUWm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1225263947617423361/pu/pl/9O4KZVd-T6ac_faK.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3361,
+			"friends_count": 787,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 25주년 기념 공연 vol.21 최예근 단독 공연 : 내가 서있는 곳 나의 겨울에게&gt;\n\n· 일시 : 2020년 3월 6일 (금) 오후 8시\n· 장소 : 롤링홀 \n· 출연 : 최예근\n· 예매 :🍈멜론티켓 https://t.co/wAu73W93hA\n\nDesign by @studio.himp\n\n#최예근 #롤링홀 https://t.co/bg5rDWOdJY"
+	},
+	{
+		"created_at": "Thu Feb 06 04:29:38 +0000 2020",
+		"id": 1225263521874641000,
+		"id_str": "1225275330740523008",
+		"full_text": "-\n[Listen here]\nMelon - https://t.co/sh8D7m9NNS\nGenie - https://t.co/gJfrOTcNMd\nBugs - https://t.co/Dih9h8qomJ\nVibe - https://t.co/2veTtUh3TS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sh8D7m9NNS",
+					"expanded_url": "https://bit.ly/3bidReK",
+					"display_url": "bit.ly/3bidReK",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/gJfrOTcNMd",
+					"expanded_url": "https://bit.ly/2H4oIuV",
+					"display_url": "bit.ly/2H4oIuV",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/Dih9h8qomJ",
+					"expanded_url": "https://bit.ly/2vbMWAJ",
+					"display_url": "bit.ly/2vbMWAJ",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/2veTtUh3TS",
+					"expanded_url": "https://bit.ly/2ulMtMk",
+					"display_url": "bit.ly/2ulMtMk",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1225263519194501000,
+		"in_reply_to_status_id_str": "1225263519194501120",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9767,
+			"friends_count": 2975,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "-\n[Listen here]\nMelon - https://t.co/sh8D7m9NNS\nGenie - https://t.co/gJfrOTcNMd\nBugs - https://t.co/Dih9h8qomJ\nVibe - https://t.co/2veTtUh3TS"
+	},
+	{
+		"created_at": "Thu Feb 06 04:29:33 +0000 2020",
+		"id": 1225263519194501000,
+		"id_str": "1225275313430679552",
+		"full_text": "🆕 New Release February 6\n-\n💿 정승제, 육중완밴드\n[잘될 거야]\n\n대한민국 대표 수학 강사 정승제 X 레트로감성듀오 육중완 밴드\n이 시대를 살아가는 모든 이들을 위한 노래 “잘될 거야”\n\n✚ 앨범 자세히 보기: https://t.co/fSIA2jwte8 https://t.co/gxw0vbxXY5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fSIA2jwte8",
+					"expanded_url": "https://bit.ly/39fy4QT",
+					"display_url": "bit.ly/39fy4QT",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225263506963890200,
+					"id_str": "1225263506963890178",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQECqvjVAAIODah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQECqvjVAAIODah.jpg",
+					"url": "https://t.co/gxw0vbxXY5",
+					"display_url": "pic.twitter.com/gxw0vbxXY5",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1225263519194501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225263506963890200,
+					"id_str": "1225263506963890178",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQECqvjVAAIODah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQECqvjVAAIODah.jpg",
+					"url": "https://t.co/gxw0vbxXY5",
+					"display_url": "pic.twitter.com/gxw0vbxXY5",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1225263519194501120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9767,
+			"friends_count": 2975,
+			"listed_count": 270,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release February 6\n-\n💿 정승제, 육중완밴드\n[잘될 거야]\n\n대한민국 대표 수학 강사 정승제 X 레트로감성듀오 육중완 밴드\n이 시대를 살아가는 모든 이들을 위한 노래 “잘될 거야”\n\n✚ 앨범 자세히 보기: https://t.co/fSIA2jwte8 https://t.co/gxw0vbxXY5"
+	},
+	{
 		"created_at": "Thu Feb 06 04:05:06 +0000 2020",
 		"id": 1225269159023562800,
 		"id_str": "1225269159023562752",
