@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 03:01:15 +0000 2020",
+		"id": 1225615477688410000,
+		"id_str": "1225615477688410114",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Feb 7) https://t.co/X0SxtK20LU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X0SxtK20LU",
+					"expanded_url": "https://nzzl.us/LKEZtdy",
+					"display_url": "nzzl.us/LKEZtdy",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Feb 7) https://t.co/X0SxtK20LU"
+	},
+	{
+		"created_at": "Fri Feb 07 02:29:37 +0000 2020",
+		"id": 1225605130289987600,
+		"id_str": "1225607515410518018",
+		"full_text": "오늘 아침 (2/7), CBS ‘김현정의 뉴스쇼’를 통해 방송된 #정재일 음악감독의 인터뷰 영상입니다. 영화 #기생충 과 재일님의 음악에 대한 이야기를 확인해 주세요! \n\nhttps://t.co/NWID38zMcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재일",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "기생충",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NWID38zMcL",
+					"expanded_url": "https://m.youtube.com/watch?v=RKWMX5QwbR4",
+					"display_url": "m.youtube.com/watch?v=RKWMX5…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1342,
+			"friends_count": 194,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 아침 (2/7), CBS ‘김현정의 뉴스쇼’를 통해 방송된 #정재일 음악감독의 인터뷰 영상입니다. 영화 #기생충 과 재일님의 음악에 대한 이야기를 확인해 주세요! \n\nhttps://t.co/NWID38zMcL"
+	},
+	{
+		"created_at": "Fri Feb 07 02:29:33 +0000 2020",
+		"id": 1225596342979813400,
+		"id_str": "1225607502152204289",
+		"full_text": "[#스튜디오음악당] 러블리즈 베이비소울·케이·류수정, '음악당' 11일 출격..보컬라인의 '설렘 라이브'\n&gt; https://t.co/wvf7v7VLVf\n\n#음악당 #Mnet #음악토크쇼 #음악예능 #김희철 #김이나 #배순탁 #러블리즈 #베이비소울 #케이 #류수정 https://t.co/3KsCHAvMFs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오음악당",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "음악당",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "음악토크쇼",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "음악예능",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "배순탁",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "베이비소울",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "케이",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvf7v7VLVf",
+					"expanded_url": "https://bit.ly/2verVFW",
+					"display_url": "bit.ly/2verVFW",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225596332200484900,
+					"id_str": "1225596332200484864",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIxXuLU4AADwXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIxXuLU4AADwXe.jpg",
+					"url": "https://t.co/3KsCHAvMFs",
+					"display_url": "pic.twitter.com/3KsCHAvMFs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1225596342979813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225596332200484900,
+					"id_str": "1225596332200484864",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIxXuLU4AADwXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIxXuLU4AADwXe.jpg",
+					"url": "https://t.co/3KsCHAvMFs",
+					"display_url": "pic.twitter.com/3KsCHAvMFs",
+					"expanded_url": "https://twitter.com/themysticstory/status/1225596342979813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18060,
+			"friends_count": 16,
+			"listed_count": 256,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109834047319007232/OXOjaNlZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#스튜디오음악당] 러블리즈 베이비소울·케이·류수정, '음악당' 11일 출격..보컬라인의 '설렘 라이브'\n&gt; https://t.co/wvf7v7VLVf\n\n#음악당 #Mnet #음악토크쇼 #음악예능 #김희철 #김이나 #배순탁 #러블리즈 #베이비소울 #케이 #류수정 https://t.co/3KsCHAvMFs"
+	},
+	{
+		"created_at": "Fri Feb 07 02:29:24 +0000 2020",
+		"id": 1225594389507928000,
+		"id_str": "1225607463883419648",
+		"full_text": "혁오(HYUKOH) \n새 앨범 [사랑으로]를 기대한 \n또 하나의 이유, 패션 ❥ (출처 : DRDR ARTIST COMPANY | 네이버 포스트) https://t.co/XiNMBX7yc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XiNMBX7yc7",
+					"expanded_url": "http://naver.me/xOscFvSs",
+					"display_url": "naver.me/xOscFvSs",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3564,
+			"friends_count": 5,
+			"listed_count": 96,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "혁오(HYUKOH) \n새 앨범 [사랑으로]를 기대한 \n또 하나의 이유, 패션 ❥ (출처 : DRDR ARTIST COMPANY | 네이버 포스트) https://t.co/XiNMBX7yc7"
+	},
+	{
 		"created_at": "Fri Feb 07 01:41:04 +0000 2020",
 		"id": 1225595300636696600,
 		"id_str": "1225595300636696577",
