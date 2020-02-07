@@ -1,6 +1,1339 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 07:58:15 +0000 2020",
+		"id": 1225677297463615500,
+		"id_str": "1225690218969231360",
+		"full_text": "#올댓뮤직\n\n어젯밤 방송된\n#불나방스타쏘세지클럽 #향니 편의\n미방곡 #누구보단 은 지금 바로\n올댓뮤직 유튜브 채널에서 확인할 수 있습니다\n(바로가기👉 https://t.co/JOqTeMWIve)\n\n모두 건강 조심하세요😷😷\n\n#ALLTHATMUSIC\n#조까를로스 #유미 #후르츠김 #까르푸황 #김간지\n#hyangi #이지향 #이준규 https://t.co/gaimQFrKqW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "불나방스타쏘세지클럽",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "향니",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "누구보단",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "조까를로스",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "유미",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "후르츠김",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "까르푸황",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "김간지",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "hyangi",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "이지향",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "이준규",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOqTeMWIve",
+					"expanded_url": "https://youtu.be/wqEAOcv01q8",
+					"display_url": "youtu.be/wqEAOcv01q8",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225677288856944600,
+					"id_str": "1225677288856944640",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJ7ABOVAAA1aOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJ7ABOVAAA1aOR.jpg",
+					"url": "https://t.co/gaimQFrKqW",
+					"display_url": "pic.twitter.com/gaimQFrKqW",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1225677297463615492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225677288856944600,
+					"id_str": "1225677288856944640",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJ7ABOVAAA1aOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJ7ABOVAAA1aOR.jpg",
+					"url": "https://t.co/gaimQFrKqW",
+					"display_url": "pic.twitter.com/gaimQFrKqW",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1225677297463615492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3750,
+			"friends_count": 944,
+			"listed_count": 93,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직\n\n어젯밤 방송된\n#불나방스타쏘세지클럽 #향니 편의\n미방곡 #누구보단 은 지금 바로\n올댓뮤직 유튜브 채널에서 확인할 수 있습니다\n(바로가기👉 https://t.co/JOqTeMWIve)\n\n모두 건강 조심하세요😷😷\n\n#ALLTHATMUSIC\n#조까를로스 #유미 #후르츠김 #까르푸황 #김간지\n#hyangi #이지향 #이준규 https://t.co/gaimQFrKqW"
+	},
+	{
+		"created_at": "Fri Feb 07 07:41:47 +0000 2020",
+		"id": 1225672400571781000,
+		"id_str": "1225686076305526790",
+		"full_text": "[#씬디라이브 : 사우스카니발 - Chaos]\n\n&lt;in 2020 제주뮤직위켄드&gt;에서 혼돈을 주제로 표현한 사우스카니발의 라이브입니다.🎤\n\n하단 링크를 통해 함께 감상해보셔요 ˘◡˘\n▶️https://t.co/breebZnxTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디라이브",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/breebZnxTY",
+					"expanded_url": "https://c11.kr/d5rx",
+					"display_url": "c11.kr/d5rx",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2873,
+			"friends_count": 2752,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디라이브 : 사우스카니발 - Chaos]\n\n&lt;in 2020 제주뮤직위켄드&gt;에서 혼돈을 주제로 표현한 사우스카니발의 라이브입니다.🎤\n\n하단 링크를 통해 함께 감상해보셔요 ˘◡˘\n▶️https://t.co/breebZnxTY"
+	},
+	{
+		"created_at": "Fri Feb 07 07:41:45 +0000 2020",
+		"id": 1225672134078292000,
+		"id_str": "1225686067015106562",
+		"full_text": "[#씬디라이브 : 김슬기 - 아빠이야기]\n\n&lt;in 2020 제주뮤직위켄드&gt;에서 진솔한 가사를 바탕으로 노래하는 김슬기님의 라이브입니다🎤\n\n하단 링크를 통해 함께 감상해보셔요 ˘◡˘\n▶️https://t.co/MXsUZywXL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디라이브",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MXsUZywXL6",
+					"expanded_url": "https://c11.kr/d5rn",
+					"display_url": "c11.kr/d5rn",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2873,
+			"friends_count": 2752,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디라이브 : 김슬기 - 아빠이야기]\n\n&lt;in 2020 제주뮤직위켄드&gt;에서 진솔한 가사를 바탕으로 노래하는 김슬기님의 라이브입니다🎤\n\n하단 링크를 통해 함께 감상해보셔요 ˘◡˘\n▶️https://t.co/MXsUZywXL6"
+	},
+	{
+		"created_at": "Fri Feb 07 07:41:38 +0000 2020",
+		"id": 1225664503313907700,
+		"id_str": "1225686040574169089",
+		"full_text": "신종 코로나 확산 방지,\n#서울시문화시설특별방역\n서울시 지원으로 민간 소규모 공연장인 \n본 공연장의 1,2,3관 로비, 객석, 분장실 등 전 구역 방역을 완료 하였습니다. \n서울시 지원에 따라 매주 방역을 실시하며, 매 공연 전/후로 전 구역 소독제를 살포 하고 있으니 안심하고 이용해주세요! https://t.co/lmCEcsApRB https://t.co/ztql1ZCnx9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울시문화시설특별방역",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lmCEcsApRB",
+					"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520",
+					"display_url": "twitter.com/seoulmania/sta…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225664490609336300,
+					"id_str": "1225664490609336322",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJvXECUYAI5uzl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJvXECUYAI5uzl.jpg",
+					"url": "https://t.co/ztql1ZCnx9",
+					"display_url": "pic.twitter.com/ztql1ZCnx9",
+					"expanded_url": "https://twitter.com/yes24stage/status/1225664503313907714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225664490609336300,
+					"id_str": "1225664490609336322",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJvXECUYAI5uzl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJvXECUYAI5uzl.jpg",
+					"url": "https://t.co/ztql1ZCnx9",
+					"display_url": "pic.twitter.com/ztql1ZCnx9",
+					"expanded_url": "https://twitter.com/yes24stage/status/1225664503313907714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225664490609336300,
+					"id_str": "1225664490609336321",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJvXECUYAEr1-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJvXECUYAEr1-b.jpg",
+					"url": "https://t.co/ztql1ZCnx9",
+					"display_url": "pic.twitter.com/ztql1ZCnx9",
+					"expanded_url": "https://twitter.com/yes24stage/status/1225664503313907714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225664490605174800,
+					"id_str": "1225664490605174785",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJvXEBU4AE-2SU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJvXEBU4AE-2SU.jpg",
+					"url": "https://t.co/ztql1ZCnx9",
+					"display_url": "pic.twitter.com/ztql1ZCnx9",
+					"expanded_url": "https://twitter.com/yes24stage/status/1225664503313907714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225664490630340600,
+					"id_str": "1225664490630340614",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJvXEHU4AYJm9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJvXEHU4AYJm9j.jpg",
+					"url": "https://t.co/ztql1ZCnx9",
+					"display_url": "pic.twitter.com/ztql1ZCnx9",
+					"expanded_url": "https://twitter.com/yes24stage/status/1225664503313907714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 동숭동 대학로12길 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/O7KKxkPl2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7KKxkPl2c",
+							"expanded_url": "http://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2759,
+			"friends_count": 29,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1552216594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225377425355243500,
+		"quoted_status_id_str": "1225377425355243520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lmCEcsApRB",
+			"expanded": "https://twitter.com/seoulmania/status/1225377425355243520",
+			"display": "twitter.com/seoulmania/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 06 11:15:19 +0000 2020",
+			"id": 1225377425355243500,
+			"id_str": "1225377425355243520",
+			"full_text": "신종 #코로나 확산 방지,\n#서울시문화시설특별방역‼️\n\n☝️세종문화회관·DDP·대학로소극장 등 문화시설 202개소 방역소독을 매주 실시하고(완료시설에는 방역인증 스티커 부착),\n✌️손세정제 등 방역물품 비치, 시민 접점 직원 마스크·장갑착용 등 직원교육도 정기 진행합니다.\n🔎https://t.co/WStzLl4koD https://t.co/kvGGNIGuNy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "코로나",
+						"indices": [
+							3,
+							7
+						]
+					},
+					{
+						"text": "서울시문화시설특별방역",
+						"indices": [
+							15,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WStzLl4koD",
+						"expanded_url": "http://mediahub.seoul.go.kr/archives/1267953",
+						"display_url": "mediahub.seoul.go.kr/archives/12679…",
+						"indices": [
+							154,
+							177
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1225377342245109800,
+						"id_str": "1225377342245109760",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFqM1BVAAACR4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFqM1BVAAACR4A.jpg",
+						"url": "https://t.co/kvGGNIGuNy",
+						"display_url": "pic.twitter.com/kvGGNIGuNy",
+						"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1367,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225377342245109800,
+						"id_str": "1225377342245109760",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFqM1BVAAACR4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFqM1BVAAACR4A.jpg",
+						"url": "https://t.co/kvGGNIGuNy",
+						"display_url": "pic.twitter.com/kvGGNIGuNy",
+						"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1367,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225377342253498400,
+						"id_str": "1225377342253498368",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFqM1DVAAA97Or.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFqM1DVAAA97Or.jpg",
+						"url": "https://t.co/kvGGNIGuNy",
+						"display_url": "pic.twitter.com/kvGGNIGuNy",
+						"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225377342253461500,
+						"id_str": "1225377342253461504",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFqM1DUcAAvPD6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFqM1DUcAAvPD6.jpg",
+						"url": "https://t.co/kvGGNIGuNy",
+						"display_url": "pic.twitter.com/kvGGNIGuNy",
+						"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225377342253482000,
+						"id_str": "1225377342253481984",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFqM1DUwAAIAkb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFqM1DUwAAIAkb.jpg",
+						"url": "https://t.co/kvGGNIGuNy",
+						"display_url": "pic.twitter.com/kvGGNIGuNy",
+						"expanded_url": "https://twitter.com/seoulmania/status/1225377425355243520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 428,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 755,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1910,
+								"h": 1202,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93794912,
+				"id_str": "93794912",
+				"name": "서울시",
+				"screen_name": "seoulmania",
+				"location": "대한민국 서울",
+				"description": "서울특별시에서 운영하는 대표 트위터입니다. 시민분들과 서울의 소식을 함께 나누고자 합니다. \"내 삶이 행복한 서울, 시민이 주인인 서울\"!!",
+				"url": "https://t.co/VBZ8BW24xq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VBZ8BW24xq",
+								"expanded_url": "http://www.seoul.go.kr",
+								"display_url": "seoul.go.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 225708,
+				"friends_count": 49541,
+				"listed_count": 1678,
+				"created_at": "Tue Dec 01 05:10:38 +0000 2009",
+				"favourites_count": 1271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27032,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93794912/1580703588",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 154,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신종 코로나 확산 방지,\n#서울시문화시설특별방역\n서울시 지원으로 민간 소규모 공연장인 \n본 공연장의 1,2,3관 로비, 객석, 분장실 등 전 구역 방역을 완료 하였습니다. \n서울시 지원에 따라 매주 방역을 실시하며, 매 공연 전/후로 전 구역 소독제를 살포 하고 있으니 안심하고 이용해주세요! https://t.co/lmCEcsApRB https://t.co/ztql1ZCnx9"
+	},
+	{
+		"created_at": "Fri Feb 07 07:39:27 +0000 2020",
+		"id": 1225685488184393700,
+		"id_str": "1225685488184393730",
+		"full_text": "#Melon #멜론 #멜론매거진\n지금까지 이런 트로트 맛은 없었다!\nhttps://t.co/xzbwTuYcCi https://t.co/fer9dpaidP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzbwTuYcCi",
+					"expanded_url": "http://bit.ly/2S3eb9I",
+					"display_url": "bit.ly/2S3eb9I",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225685486980587500,
+					"id_str": "1225685486980587521",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKCdNnUYAEaAO8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKCdNnUYAEaAO8.jpg",
+					"url": "https://t.co/fer9dpaidP",
+					"display_url": "pic.twitter.com/fer9dpaidP",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225685488184393730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225685486980587500,
+					"id_str": "1225685486980587521",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EQKCdNnUYAEaAO8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQKCdNnUYAEaAO8.jpg",
+					"url": "https://t.co/fer9dpaidP",
+					"display_url": "pic.twitter.com/fer9dpaidP",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1225685488184393730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n지금까지 이런 트로트 맛은 없었다!\nhttps://t.co/xzbwTuYcCi https://t.co/fer9dpaidP"
+	},
+	{
 		"created_at": "Fri Feb 07 06:59:32 +0000 2020",
 		"id": 1225675443669328000,
 		"id_str": "1225675443669327872",
