@@ -1,6 +1,1304 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 14:05:46 +0000 2020",
+		"id": 1225782710624493600,
+		"id_str": "1225782710624493568",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n스튜디오에 비치된 백만원❗️짜리 커피머신의 맛은?☕️ [비밀상담소]\nhttps://t.co/UnZMerKaKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UnZMerKaKH",
+					"expanded_url": "https://youtu.be/H618qYbud-Q",
+					"display_url": "youtu.be/H618qYbud-Q",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n스튜디오에 비치된 백만원❗️짜리 커피머신의 맛은?☕️ [비밀상담소]\nhttps://t.co/UnZMerKaKH"
+	},
+	{
+		"created_at": "Fri Feb 07 13:58:28 +0000 2020",
+		"id": 1225780806548766700,
+		"id_str": "1225780872554700801",
+		"full_text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#장명선\n페기 구(#PeggyGou) \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/f4c3m8pGFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "장명선",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "PeggyGou",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "댄스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "일렉트로닉",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "2020한대음",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "KMA",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "한국대중음악상시상식",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "시상식",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "17회한대음",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "후보",
+					"indices": [
+						167,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225780728761213000,
+					"id_str": "1225780728761212930",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLZFA5U4AITqTU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLZFA5U4AITqTU.jpg",
+					"url": "https://t.co/f4c3m8pGFN",
+					"display_url": "pic.twitter.com/f4c3m8pGFN",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780806548766726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225780728761213000,
+					"id_str": "1225780728761212930",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLZFA5U4AITqTU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLZFA5U4AITqTU.jpg",
+					"url": "https://t.co/f4c3m8pGFN",
+					"display_url": "pic.twitter.com/f4c3m8pGFN",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780806548766726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780728777986000,
+					"id_str": "1225780728777986048",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLZFA9U0AAcCyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLZFA9U0AAcCyH.jpg",
+					"url": "https://t.co/f4c3m8pGFN",
+					"display_url": "pic.twitter.com/f4c3m8pGFN",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780806548766726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780728782131200,
+					"id_str": "1225780728782131200",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLZFA-UEAAjrsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLZFA-UEAAjrsh.jpg",
+					"url": "https://t.co/f4c3m8pGFN",
+					"display_url": "pic.twitter.com/f4c3m8pGFN",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780806548766726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3378,
+			"friends_count": 276,
+			"listed_count": 71,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#장명선\n페기 구(#PeggyGou) \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/f4c3m8pGFN"
+	},
+	{
+		"created_at": "Fri Feb 07 13:58:21 +0000 2020",
+		"id": 1225780542378918000,
+		"id_str": "1225780842640879616",
+		"full_text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#PierreBlanche / 피에르블랑쉐\n#TwoToneShape \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/HcIMwnBOht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "PierreBlanche",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"text": "TwoToneShape",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "댄스",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "일렉트로닉",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "2020한대음",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "KMA",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "한국대중음악상시상식",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "시상식",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "17회한대음",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "후보",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225780472619233300,
+					"id_str": "1225780472619233280",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLY2GsUcAARgyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLY2GsUcAARgyU.jpg",
+					"url": "https://t.co/HcIMwnBOht",
+					"display_url": "pic.twitter.com/HcIMwnBOht",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780542378917888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225780472619233300,
+					"id_str": "1225780472619233280",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLY2GsUcAARgyU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLY2GsUcAARgyU.jpg",
+					"url": "https://t.co/HcIMwnBOht",
+					"display_url": "pic.twitter.com/HcIMwnBOht",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780542378917888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780472606670800,
+					"id_str": "1225780472606670848",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLY2GpUwAA7tIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLY2GpUwAA7tIK.jpg",
+					"url": "https://t.co/HcIMwnBOht",
+					"display_url": "pic.twitter.com/HcIMwnBOht",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780542378917888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780472610840600,
+					"id_str": "1225780472610840576",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLY2GqUYAA16dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLY2GqUYAA16dg.jpg",
+					"url": "https://t.co/HcIMwnBOht",
+					"display_url": "pic.twitter.com/HcIMwnBOht",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780542378917888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3378,
+			"friends_count": 276,
+			"listed_count": 71,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#PierreBlanche / 피에르블랑쉐\n#TwoToneShape \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/HcIMwnBOht"
+	},
+	{
+		"created_at": "Fri Feb 07 13:58:15 +0000 2020",
+		"id": 1225780214573101000,
+		"id_str": "1225780816858558464",
+		"full_text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#Davotab Records / 다보탑레코즈\n#LIMKIM\n#NETGALA \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/szQvvGWNAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국대중음악상",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "Davotab",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "LIMKIM",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "NETGALA",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "댄스",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "일렉트로닉",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "2020한대음",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "KMA",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "한국대중음악상시상식",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "시상식",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "17회한대음",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "후보",
+					"indices": [
+						189,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225780131207082000,
+					"id_str": "1225780131207081985",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLYiO1UcAEGhsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLYiO1UcAEGhsY.jpg",
+					"url": "https://t.co/szQvvGWNAn",
+					"display_url": "pic.twitter.com/szQvvGWNAn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780214573101056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225780131207082000,
+					"id_str": "1225780131207081985",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLYiO1UcAEGhsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLYiO1UcAEGhsY.jpg",
+					"url": "https://t.co/szQvvGWNAn",
+					"display_url": "pic.twitter.com/szQvvGWNAn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780214573101056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780131215495200,
+					"id_str": "1225780131215495168",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLYiO3U0AAPhiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLYiO3U0AAPhiu.jpg",
+					"url": "https://t.co/szQvvGWNAn",
+					"display_url": "pic.twitter.com/szQvvGWNAn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780214573101056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780131223892000,
+					"id_str": "1225780131223891969",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLYiO5U8AEooZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLYiO5U8AEooZ9.jpg",
+					"url": "https://t.co/szQvvGWNAn",
+					"display_url": "pic.twitter.com/szQvvGWNAn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780214573101056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225780131228086300,
+					"id_str": "1225780131228086273",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EQLYiO6U8AE-L4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQLYiO6U8AE-L4V.jpg",
+					"url": "https://t.co/szQvvGWNAn",
+					"display_url": "pic.twitter.com/szQvvGWNAn",
+					"expanded_url": "https://twitter.com/kmusicawards/status/1225780214573101056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3378,
+			"friends_count": 276,
+			"listed_count": 71,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡️ 제17회 #한국대중음악상 \n최우수 댄스&amp;일렉트로닉 후보를 소개합니다 ⚡️\n\n#Davotab Records / 다보탑레코즈\n#LIMKIM\n#NETGALA \n\n최우수 #댄스 &amp; #일렉트로닉 후보들의 \n음악과 함께 불금을 ヾ(⌐■_■)ノ 🎶\n\n#2020한대음 #KMA #한국대중음악상시상식 #시상식 #음악추천 #17회한대음 #후보 https://t.co/szQvvGWNAn"
+	},
+	{
+		"created_at": "Fri Feb 07 13:42:56 +0000 2020",
+		"id": 1225776961714348000,
+		"id_str": "1225776961714348033",
+		"full_text": "#민트페이퍼 #MINTPAPER\n[HOME LIVE] 조소정 '물음표가 가득한 나의 밤'\nhttps://t.co/CQfpMWizRT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CQfpMWizRT",
+					"expanded_url": "https://youtu.be/Jj3X16Sf5qs",
+					"display_url": "youtu.be/Jj3X16Sf5qs",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n[HOME LIVE] 조소정 '물음표가 가득한 나의 밤'\nhttps://t.co/CQfpMWizRT"
+	},
+	{
 		"created_at": "Fri Feb 07 13:06:29 +0000 2020",
 		"id": 1225767790080032800,
 		"id_str": "1225767790080032768",
@@ -273,7 +1571,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
