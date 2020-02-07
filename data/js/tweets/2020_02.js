@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 01:41:04 +0000 2020",
+		"id": 1225595300636696600,
+		"id_str": "1225595300636696577",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n소정 (Sojeong) - 찬바람결에 흩어져 가듯이 Cold wind (간택: 여인들의 전쟁 OST) [Music Video]\nhttps://t.co/6eAkrYEbAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eAkrYEbAT",
+					"expanded_url": "https://youtu.be/OEqxx2IL2oo",
+					"display_url": "youtu.be/OEqxx2IL2oo",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n소정 (Sojeong) - 찬바람결에 흩어져 가듯이 Cold wind (간택: 여인들의 전쟁 OST) [Music Video]\nhttps://t.co/6eAkrYEbAT"
+	},
+	{
+		"created_at": "Fri Feb 07 01:29:37 +0000 2020",
+		"id": 1225589807218184200,
+		"id_str": "1225592418864640000",
+		"full_text": "[널리 아티스트를 이롭게] 두루두루 아티스트 컴퍼니 인턴 채용\n\nhttps://t.co/6hDV1Gfita\n\nhttps://t.co/15fivQEJOK https://t.co/gP3Qqvd8QM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6hDV1Gfita",
+					"expanded_url": "http://www.jobkorea.co.kr/Recruit/Co_Read/C/drdrac",
+					"display_url": "jobkorea.co.kr/Recruit/Co_Rea…",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/15fivQEJOK",
+					"expanded_url": "http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=37697906&view_type=search",
+					"display_url": "saramin.co.kr/zf_user/jobs/r…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225589792642986000,
+					"id_str": "1225589792642985984",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIrbEbUcAANXCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIrbEbUcAANXCI.jpg",
+					"url": "https://t.co/gP3Qqvd8QM",
+					"display_url": "pic.twitter.com/gP3Qqvd8QM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1225589807218184193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225589792642986000,
+					"id_str": "1225589792642985984",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIrbEbUcAANXCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIrbEbUcAANXCI.jpg",
+					"url": "https://t.co/gP3Qqvd8QM",
+					"display_url": "pic.twitter.com/gP3Qqvd8QM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1225589807218184193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225589792647237600,
+					"id_str": "1225589792647237633",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIrbEcVUAEbjFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIrbEcVUAEbjFW.jpg",
+					"url": "https://t.co/gP3Qqvd8QM",
+					"display_url": "pic.twitter.com/gP3Qqvd8QM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1225589807218184193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225589792655597600,
+					"id_str": "1225589792655597568",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIrbEeU4AAwoTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIrbEeU4AAwoTr.jpg",
+					"url": "https://t.co/gP3Qqvd8QM",
+					"display_url": "pic.twitter.com/gP3Qqvd8QM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1225589807218184193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225589792655626200,
+					"id_str": "1225589792655626240",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIrbEeVUAABid6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIrbEeVUAABid6.jpg",
+					"url": "https://t.co/gP3Qqvd8QM",
+					"display_url": "pic.twitter.com/gP3Qqvd8QM",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1225589807218184193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3564,
+			"friends_count": 5,
+			"listed_count": 96,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[널리 아티스트를 이롭게] 두루두루 아티스트 컴퍼니 인턴 채용\n\nhttps://t.co/6hDV1Gfita\n\nhttps://t.co/15fivQEJOK https://t.co/gP3Qqvd8QM"
+	},
+	{
+		"created_at": "Fri Feb 07 01:29:28 +0000 2020",
+		"id": 1225585608950575000,
+		"id_str": "1225592380453269511",
+		"full_text": "선우정아가 부르는 셀린 디온의 \"Courage\"\n풀영상을 꼭 확인 해보세요👏\n\n@celinedion @sunwooJeongA \nhttps://t.co/MZtR0bkdzS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "celinedion",
+					"name": "Celine Dion",
+					"id": 106854950,
+					"id_str": "106854950",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "sunwooJeongA",
+					"name": "선우정아 / sunwoojunga",
+					"id": 253607159,
+					"id_str": "253607159",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZtR0bkdzS",
+					"expanded_url": "https://youtu.be/D9w3hj0Hw48",
+					"display_url": "youtu.be/D9w3hj0Hw48",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14831,
+			"friends_count": 266,
+			"listed_count": 382,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1581037568",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선우정아가 부르는 셀린 디온의 \"Courage\"\n풀영상을 꼭 확인 해보세요👏\n\n@celinedion @sunwooJeongA \nhttps://t.co/MZtR0bkdzS"
+	},
+	{
+		"created_at": "Fri Feb 07 01:29:25 +0000 2020",
+		"id": 1225580043687972900,
+		"id_str": "1225592367346003969",
+		"full_text": "[#하현우] JTBC 드라마 이태원 클라쓰 OST part.3 하현우의 &lt;돌덩이&gt;가 오늘 오후 6시 발매됩니다👏 https://t.co/Au4XKogGtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하현우",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225580032917041200,
+					"id_str": "1225580032917041153",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIii-nU8AEDgsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIii-nU8AEDgsA.jpg",
+					"url": "https://t.co/Au4XKogGtf",
+					"display_url": "pic.twitter.com/Au4XKogGtf",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1225580043687972864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225580032917041200,
+					"id_str": "1225580032917041153",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIii-nU8AEDgsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQIii-nU8AEDgsA.jpg",
+					"url": "https://t.co/Au4XKogGtf",
+					"display_url": "pic.twitter.com/Au4XKogGtf",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1225580043687972864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1642,
+			"friends_count": 12,
+			"listed_count": 4,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하현우] JTBC 드라마 이태원 클라쓰 OST part.3 하현우의 &lt;돌덩이&gt;가 오늘 오후 6시 발매됩니다👏 https://t.co/Au4XKogGtf"
+	},
+	{
 		"created_at": "Thu Feb 06 15:58:23 +0000 2020",
 		"id": 1225434032097263600,
 		"id_str": "1225448662270169089",
@@ -114,7 +855,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
