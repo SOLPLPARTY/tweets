@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 05:58:15 +0000 2020",
+		"id": 1226015635353682000,
+		"id_str": "1226022409804943360",
+		"full_text": "#점심어택 ✨주말 몰아듣기 &amp; 공지타임✨\n내 안의💥파이터💥본능을 깨우는 짜증 유발 고구마 답답한 모든 것! 그게 뭔지 알려주세요🥊 #지오디 데니 호영 호스트와 시원하게 터트려봅시다! 문자 #7117 (정보이용료 100원) #NOW온에어 #god #런치파이터대모집 https://t.co/AQDArPLKQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "점심어택",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "지오디",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "런치파이터대모집",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226015624507216000,
+					"id_str": "1226015624507215872",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EQOutvvU0AA_vsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQOutvvU0AA_vsq.jpg",
+					"url": "https://t.co/AQDArPLKQu",
+					"display_url": "pic.twitter.com/AQDArPLKQu",
+					"expanded_url": "https://twitter.com/kr_now/status/1226015635353681921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1128,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226015624507216000,
+					"id_str": "1226015624507215872",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EQOutvvU0AA_vsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQOutvvU0AA_vsq.jpg",
+					"url": "https://t.co/AQDArPLKQu",
+					"display_url": "pic.twitter.com/AQDArPLKQu",
+					"expanded_url": "https://twitter.com/kr_now/status/1226015635353681921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1128,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21330,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#점심어택 ✨주말 몰아듣기 &amp; 공지타임✨\n내 안의💥파이터💥본능을 깨우는 짜증 유발 고구마 답답한 모든 것! 그게 뭔지 알려주세요🥊 #지오디 데니 호영 호스트와 시원하게 터트려봅시다! 문자 #7117 (정보이용료 100원) #NOW온에어 #god #런치파이터대모집 https://t.co/AQDArPLKQu"
+	},
+	{
 		"created_at": "Sat Feb 08 03:26:23 +0000 2020",
 		"id": 1225984189079736300,
 		"id_str": "1225984189079736321",
