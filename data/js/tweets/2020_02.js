@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 07:58:14 +0000 2020",
+		"id": 1226038182166159400,
+		"id_str": "1226052605165613057",
+		"full_text": "🔥월요일 오후 7시🔥 #이달의소녀쇼 가 첫방송 됩니다. 1년 만에 #해시 로 컴백한 #이달의소녀 ❤️ 궁금한 것 많~은 #오빛 들을 위해 ‘이달의소녀쇼’가 아니면 #알수없는비밀 #이달소 TMI 탈탈 털었습니다!!! 이달소를 한 발짝 더 가깝게 만날 수 있는 시간💕 놓치지 마세요 #LOONA #NOW온에어 https://t.co/LKIgNzh97J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀쇼",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "해시",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "알수없는비밀",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226038179884462000,
+					"id_str": "1226038179884462080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQPDOpEUcAAIprA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQPDOpEUcAAIprA.jpg",
+					"url": "https://t.co/LKIgNzh97J",
+					"display_url": "pic.twitter.com/LKIgNzh97J",
+					"expanded_url": "https://twitter.com/kr_now/status/1226038182166159361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226038179884462000,
+					"id_str": "1226038179884462080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EQPDOpEUcAAIprA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQPDOpEUcAAIprA.jpg",
+					"url": "https://t.co/LKIgNzh97J",
+					"display_url": "pic.twitter.com/LKIgNzh97J",
+					"expanded_url": "https://twitter.com/kr_now/status/1226038182166159361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21339,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥월요일 오후 7시🔥 #이달의소녀쇼 가 첫방송 됩니다. 1년 만에 #해시 로 컴백한 #이달의소녀 ❤️ 궁금한 것 많~은 #오빛 들을 위해 ‘이달의소녀쇼’가 아니면 #알수없는비밀 #이달소 TMI 탈탈 털었습니다!!! 이달소를 한 발짝 더 가깝게 만날 수 있는 시간💕 놓치지 마세요 #LOONA #NOW온에어 https://t.co/LKIgNzh97J"
+	},
+	{
 		"created_at": "Sat Feb 08 06:59:31 +0000 2020",
 		"id": 1226037827693092900,
 		"id_str": "1226037827693092864",
