@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 23:58:15 +0000 2020",
+		"id": 1225917356485959700,
+		"id_str": "1225931811525726208",
+		"full_text": "☀️잠시 후 10시부터☀️ #들려주고싶어서 가 다시 한번 온에어 됩니다. 이번 주 나우의 플레이리스트를 다양한 색으로 가득 채워준 #릴보이 #VINCE #서지음 #김원중 #황현 의 선곡들을 10시부터 2시까지 연속해서 들려드립니다. #NOW온에어 https://t.co/AimbsyXJUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "VINCE",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "서지음",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "김원중",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225917344213393400,
+					"id_str": "1225917344213393409",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNVVFHUYAEDdu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNVVFHUYAEDdu1.jpg",
+					"url": "https://t.co/AimbsyXJUY",
+					"display_url": "pic.twitter.com/AimbsyXJUY",
+					"expanded_url": "https://twitter.com/kr_now/status/1225917356485959682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225917344213393400,
+					"id_str": "1225917344213393409",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNVVFHUYAEDdu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNVVFHUYAEDdu1.jpg",
+					"url": "https://t.co/AimbsyXJUY",
+					"display_url": "pic.twitter.com/AimbsyXJUY",
+					"expanded_url": "https://twitter.com/kr_now/status/1225917356485959682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225917347535323100,
+					"id_str": "1225917347535323136",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNVVRfVAAAjIfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNVVRfVAAAjIfq.jpg",
+					"url": "https://t.co/AimbsyXJUY",
+					"display_url": "pic.twitter.com/AimbsyXJUY",
+					"expanded_url": "https://twitter.com/kr_now/status/1225917356485959682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225917350848811000,
+					"id_str": "1225917350848811008",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNVVd1U0AAzMEi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNVVd1U0AAzMEi.jpg",
+					"url": "https://t.co/AimbsyXJUY",
+					"display_url": "pic.twitter.com/AimbsyXJUY",
+					"expanded_url": "https://twitter.com/kr_now/status/1225917356485959682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225917354053210000,
+					"id_str": "1225917354053210112",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNVVpxUEAAlhxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNVVpxUEAAlhxF.jpg",
+					"url": "https://t.co/AimbsyXJUY",
+					"display_url": "pic.twitter.com/AimbsyXJUY",
+					"expanded_url": "https://twitter.com/kr_now/status/1225917356485959682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21322,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☀️잠시 후 10시부터☀️ #들려주고싶어서 가 다시 한번 온에어 됩니다. 이번 주 나우의 플레이리스트를 다양한 색으로 가득 채워준 #릴보이 #VINCE #서지음 #김원중 #황현 의 선곡들을 10시부터 2시까지 연속해서 들려드립니다. #NOW온에어 https://t.co/AimbsyXJUY"
+	},
+	{
 		"created_at": "Fri Feb 07 20:51:17 +0000 2020",
 		"id": 1225884762625183700,
 		"id_str": "1225884762625183746",
