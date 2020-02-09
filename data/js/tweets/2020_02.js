@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 15:29:25 +0000 2020",
+		"id": 1226521183517937700,
+		"id_str": "1226528534518169602",
+		"full_text": "[#MUE_ㅊㅋㅊㅋ🎊]\n　\n선미의 데뷔 13주년을 진심으로 축하합니다!\nSUNMI 13th Anniversary 🎉\n　\n미야네, 앞으로도 선미와 함께 행복한 추억 많이 만들어가요 🤟🏻\n　\n#선미 #SUNMI\n#선미_데뷔13주년_축하해\n#SUNMI_13th_Anniversary https://t.co/uQS0lMJGQ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUE_ㅊㅋㅊㅋ",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "선미_데뷔13주년_축하해",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "SUNMI_13th_Anniversary",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226521177956311000,
+					"id_str": "1226521177956311040",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EQV6g1GUYAAgz1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQV6g1GUYAAgz1v.jpg",
+					"url": "https://t.co/uQS0lMJGQ0",
+					"display_url": "pic.twitter.com/uQS0lMJGQ0",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1226521183517937664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226521177956311000,
+					"id_str": "1226521177956311040",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EQV6g1GUYAAgz1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQV6g1GUYAAgz1v.jpg",
+					"url": "https://t.co/uQS0lMJGQ0",
+					"display_url": "pic.twitter.com/uQS0lMJGQ0",
+					"expanded_url": "https://twitter.com/MAKEUS_Ent/status/1226521183517937664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "MAKEUS_Ent",
+			"screen_name": "MAKEUS_Ent",
+			"location": "",
+			"description": "MAKEUS Entertainment 공식 트위터 입니다. [https://t.co/rVAme5caJr] [https://t.co/UICLMo31bs] [https://t.co/KckpUWVrbi]",
+			"url": "https://t.co/cKAGkoYHot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cKAGkoYHot",
+							"expanded_url": "http://www.makeusent.com/",
+							"display_url": "makeusent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rVAme5caJr",
+							"expanded_url": "http://facebook.com/makeusent",
+							"display_url": "facebook.com/makeusent",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/UICLMo31bs",
+							"expanded_url": "http://Instagram.com/makeus_ent",
+							"display_url": "Instagram.com/makeus_ent",
+							"indices": [
+								60,
+								83
+							]
+						},
+						{
+							"url": "https://t.co/KckpUWVrbi",
+							"expanded_url": "http://youtube.com/c/MAKEUSEntertainment",
+							"display_url": "youtube.com/c/MAKEUSEntert…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9770,
+			"friends_count": 3,
+			"listed_count": 82,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748381195558391810/9ivMrEb__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1554110227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 692,
+		"favorite_count": 1515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MUE_ㅊㅋㅊㅋ🎊]\n　\n선미의 데뷔 13주년을 진심으로 축하합니다!\nSUNMI 13th Anniversary 🎉\n　\n미야네, 앞으로도 선미와 함께 행복한 추억 많이 만들어가요 🤟🏻\n　\n#선미 #SUNMI\n#선미_데뷔13주년_축하해\n#SUNMI_13th_Anniversary https://t.co/uQS0lMJGQ0"
+	},
+	{
 		"created_at": "Sun Feb 09 14:58:28 +0000 2020",
 		"id": 1226518610719326200,
 		"id_str": "1226520747411197954",
