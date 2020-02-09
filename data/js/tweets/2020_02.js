@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 13:29:25 +0000 2020",
+		"id": 1226492583666303000,
+		"id_str": "1226498336510926848",
+		"full_text": "백예린 단독공연 'Turn on that Blue Vinyl' 공연이 마무리되었습니다. 이틀간 공연장을 찾아주신 모든분들 진심으로 감사드립니다. 곧 다시 찾아올게요🕊\n⠀\n#백예린 #yerinbaek https://t.co/ZCDFcmgWuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226492573444739000,
+					"id_str": "1226492573444739073",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQVgf0_UEAEJrl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQVgf0_UEAEJrl8.jpg",
+					"url": "https://t.co/ZCDFcmgWuz",
+					"display_url": "pic.twitter.com/ZCDFcmgWuz",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226492583666302977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226492573444739000,
+					"id_str": "1226492573444739073",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQVgf0_UEAEJrl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQVgf0_UEAEJrl8.jpg",
+					"url": "https://t.co/ZCDFcmgWuz",
+					"display_url": "pic.twitter.com/ZCDFcmgWuz",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226492583666302977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226492573444792300,
+					"id_str": "1226492573444792321",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQVgf0_U4AEbuyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQVgf0_U4AEbuyN.jpg",
+					"url": "https://t.co/ZCDFcmgWuz",
+					"display_url": "pic.twitter.com/ZCDFcmgWuz",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226492583666302977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226492573453176800,
+					"id_str": "1226492573453176832",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQVgf1BU0AArVdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQVgf1BU0AArVdP.jpg",
+					"url": "https://t.co/ZCDFcmgWuz",
+					"display_url": "pic.twitter.com/ZCDFcmgWuz",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226492583666302977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226492573453144000,
+					"id_str": "1226492573453144066",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQVgf1BUUAIwHa9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQVgf1BUUAIwHa9.jpg",
+					"url": "https://t.co/ZCDFcmgWuz",
+					"display_url": "pic.twitter.com/ZCDFcmgWuz",
+					"expanded_url": "https://twitter.com/bluevinylneedle/status/1226492583666302977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5611,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 단독공연 'Turn on that Blue Vinyl' 공연이 마무리되었습니다. 이틀간 공연장을 찾아주신 모든분들 진심으로 감사드립니다. 곧 다시 찾아올게요🕊\n⠀\n#백예린 #yerinbaek https://t.co/ZCDFcmgWuz"
+	},
+	{
 		"created_at": "Sun Feb 09 12:58:14 +0000 2020",
 		"id": 1226479389992317000,
 		"id_str": "1226490491153285121",
