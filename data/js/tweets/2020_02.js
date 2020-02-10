@@ -1,6 +1,1305 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 05:58:38 +0000 2020",
+		"id": 1226741417029951500,
+		"id_str": "1226747282063855616",
+		"full_text": "#헤이즈일기 #발렌타인데이 하루 전! 13일 목요일에 #헤이즈 와 프로듀싱팀623이 고백송을 만들어 드립니다💌 달달한 고백🍫, 맴찢 짝사랑 고백😢, 심쿵 프러포즈🥰, 허공에 띄워보는 속마음 고백😌 등등 세상의 모든 고백을 보내주세요 :) #익명보장도OK👌 (문자번호 #7117 정보이용료 100원)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈일기",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "발렌타인데이",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "익명보장도OK",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21402,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#헤이즈일기 #발렌타인데이 하루 전! 13일 목요일에 #헤이즈 와 프로듀싱팀623이 고백송을 만들어 드립니다💌 달달한 고백🍫, 맴찢 짝사랑 고백😢, 심쿵 프러포즈🥰, 허공에 띄워보는 속마음 고백😌 등등 세상의 모든 고백을 보내주세요 :) #익명보장도OK👌 (문자번호 #7117 정보이용료 100원)"
+	},
+	{
+		"created_at": "Mon Feb 10 05:58:29 +0000 2020",
+		"id": 1226732648434765800,
+		"id_str": "1226747243757260800",
+		"full_text": "[신인그린프렌즈 모집 시작]\n\n실력을 겸비한 뮤지션들에게 그린플러그드 서울 공식 스테이지에서 공연할 기회를 제공하는 신인그린프렌즈. 여러분도 페스티벌 무대의 주인공이 될 수 있습니다! \n\n신인 아티스트 여러분의 많은 참여를 기다립니다🙌\n\n모집공고 확인하기➡\nhttps://t.co/BqFollx9lk https://t.co/pSHyq15CUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqFollx9lk",
+					"expanded_url": "https://bit.ly/39qwNXf",
+					"display_url": "bit.ly/39qwNXf",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226732638578212900,
+					"id_str": "1226732638578212865",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY61dTVAAEO8CT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY61dTVAAEO8CT.jpg",
+					"url": "https://t.co/pSHyq15CUT",
+					"display_url": "pic.twitter.com/pSHyq15CUT",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1226732648434765824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226732638578212900,
+					"id_str": "1226732638578212865",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY61dTVAAEO8CT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY61dTVAAEO8CT.jpg",
+					"url": "https://t.co/pSHyq15CUT",
+					"display_url": "pic.twitter.com/pSHyq15CUT",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1226732648434765824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12380,
+			"friends_count": 167,
+			"listed_count": 252,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신인그린프렌즈 모집 시작]\n\n실력을 겸비한 뮤지션들에게 그린플러그드 서울 공식 스테이지에서 공연할 기회를 제공하는 신인그린프렌즈. 여러분도 페스티벌 무대의 주인공이 될 수 있습니다! \n\n신인 아티스트 여러분의 많은 참여를 기다립니다🙌\n\n모집공고 확인하기➡\nhttps://t.co/BqFollx9lk https://t.co/pSHyq15CUT"
+	},
+	{
+		"created_at": "Mon Feb 10 05:58:21 +0000 2020",
+		"id": 1226732368364363800,
+		"id_str": "1226747209695342593",
+		"full_text": "잊혀지지 않을 순간을 함께해요🙌\n8월 15일, 16일 #EDCKorea 가 기다리고 있어요🎉\n\nBe here for the unforgettable moments!🙌\nWe are waiting for you🎉\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/p3mgAxmmVp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCKorea",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "이디씨코리아",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os9S6h6izZ",
+					"expanded_url": "https://korea.electricdaisycarnival.com/tickets",
+					"display_url": "korea.electricdaisycarnival.com/tickets",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226732350895087600,
+					"id_str": "1226732350895087617",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY6ktmU4AENVw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY6ktmU4AENVw4.jpg",
+					"url": "https://t.co/p3mgAxmmVp",
+					"display_url": "pic.twitter.com/p3mgAxmmVp",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1226732368364363776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226732350895087600,
+					"id_str": "1226732350895087617",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY6ktmU4AENVw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY6ktmU4AENVw4.jpg",
+					"url": "https://t.co/p3mgAxmmVp",
+					"display_url": "pic.twitter.com/p3mgAxmmVp",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1226732368364363776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\nAugust 15+16, 2020 #EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 9,
+			"listed_count": 3,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1578877398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잊혀지지 않을 순간을 함께해요🙌\n8월 15일, 16일 #EDCKorea 가 기다리고 있어요🎉\n\nBe here for the unforgettable moments!🙌\nWe are waiting for you🎉\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/p3mgAxmmVp"
+	},
+	{
+		"created_at": "Mon Feb 10 05:58:15 +0000 2020",
+		"id": 1226732261946491000,
+		"id_str": "1226747184076541952",
+		"full_text": "☁️오늘 저녁 5시 55분☁️ #6시5분전 #길구봉구 편이 온에어 됩니다. 2개월 만에 초고속으로 컴백한 길구봉구. 신곡 #쉬는날 부터 앨범 비하인드스토리까지 6시 5분전에서 만나보세요! #NOW온에어 https://t.co/uWaYArOjiw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "6시5분전",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "길구봉구",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "쉬는날",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226732242392645600,
+					"id_str": "1226732242392645632",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY6eZZVAAA3Tjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY6eZZVAAA3Tjd.jpg",
+					"url": "https://t.co/uWaYArOjiw",
+					"display_url": "pic.twitter.com/uWaYArOjiw",
+					"expanded_url": "https://twitter.com/kr_now/status/1226732261946490881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226732242392645600,
+					"id_str": "1226732242392645632",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EQY6eZZVAAA3Tjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQY6eZZVAAA3Tjd.jpg",
+					"url": "https://t.co/uWaYArOjiw",
+					"display_url": "pic.twitter.com/uWaYArOjiw",
+					"expanded_url": "https://twitter.com/kr_now/status/1226732261946490881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21402,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☁️오늘 저녁 5시 55분☁️ #6시5분전 #길구봉구 편이 온에어 됩니다. 2개월 만에 초고속으로 컴백한 길구봉구. 신곡 #쉬는날 부터 앨범 비하인드스토리까지 6시 5분전에서 만나보세요! #NOW온에어 https://t.co/uWaYArOjiw"
+	},
+	{
+		"created_at": "Mon Feb 10 05:54:58 +0000 2020",
+		"id": 1226746359719628800,
+		"id_str": "1226746359719628801",
+		"full_text": "#예스24공연\n‘2020 LOVESOME - 내 옆에 있는 사람’ 공식 티켓 오픈안내 : 2020.02.17(월) 14:00\n▶ https://t.co/pM6kolELsD\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/wQcv666Mo6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pM6kolELsD",
+					"expanded_url": "http://bit.ly/31HD4ec",
+					"display_url": "bit.ly/31HD4ec",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226746358696157200,
+					"id_str": "1226746358696157185",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZHUEuWoAEWo3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZHUEuWoAEWo3Q.jpg",
+					"url": "https://t.co/wQcv666Mo6",
+					"display_url": "pic.twitter.com/wQcv666Mo6",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1226746359719628801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226746358696157200,
+					"id_str": "1226746358696157185",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZHUEuWoAEWo3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZHUEuWoAEWo3Q.jpg",
+					"url": "https://t.co/wQcv666Mo6",
+					"display_url": "pic.twitter.com/wQcv666Mo6",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1226746359719628801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n‘2020 LOVESOME - 내 옆에 있는 사람’ 공식 티켓 오픈안내 : 2020.02.17(월) 14:00\n▶ https://t.co/pM6kolELsD\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/wQcv666Mo6"
+	},
+	{
+		"created_at": "Mon Feb 10 05:54:54 +0000 2020",
+		"id": 1226746344213221400,
+		"id_str": "1226746344213221378",
+		"full_text": "#예스24공연\n2020 THE신승훈SHOW [미소속에 비친 그대] - 부산 티켓오픈 안내 : 2020.02.13(목) 15:00\n▶ https://t.co/yUkvz5eHeM\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/vIv4pf7TWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						115,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUkvz5eHeM",
+					"expanded_url": "http://bit.ly/3bp4FWb",
+					"display_url": "bit.ly/3bp4FWb",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226746343210782700,
+					"id_str": "1226746343210782721",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZHTLCWkAEF5Rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZHTLCWkAEF5Rs.jpg",
+					"url": "https://t.co/vIv4pf7TWi",
+					"display_url": "pic.twitter.com/vIv4pf7TWi",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1226746344213221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226746343210782700,
+					"id_str": "1226746343210782721",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZHTLCWkAEF5Rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZHTLCWkAEF5Rs.jpg",
+					"url": "https://t.co/vIv4pf7TWi",
+					"display_url": "pic.twitter.com/vIv4pf7TWi",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1226746344213221378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n2020 THE신승훈SHOW [미소속에 비친 그대] - 부산 티켓오픈 안내 : 2020.02.13(목) 15:00\n▶ https://t.co/yUkvz5eHeM\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/vIv4pf7TWi"
+	},
+	{
+		"created_at": "Mon Feb 10 05:29:24 +0000 2020",
+		"id": 1226739032031297500,
+		"id_str": "1226739926290640896",
+		"full_text": "[#리슨] 안녕하세요. 미스틱스토리입니다.\n\n신종 코로나바이러스가 확산되는 현 상황을 고려하여 당분간 리슨스테이지는 1층 오픈공간 대신 비공개 공간에서 유튜브 실시간스트리밍을 통해서 진행될 예정입니다.\n\n아티스트와 팬 분들의 안전을 위해 내린 결정이니 너른 양해 부탁드립니다. 감사합니다. https://t.co/iaEMJNhrFE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리슨",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226739027480436700,
+					"id_str": "1226739027480436738",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZApV0UYAI2vZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZApV0UYAI2vZg.jpg",
+					"url": "https://t.co/iaEMJNhrFE",
+					"display_url": "pic.twitter.com/iaEMJNhrFE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1226739032031297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226739027480436700,
+					"id_str": "1226739027480436738",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQZApV0UYAI2vZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQZApV0UYAI2vZg.jpg",
+					"url": "https://t.co/iaEMJNhrFE",
+					"display_url": "pic.twitter.com/iaEMJNhrFE",
+					"expanded_url": "https://twitter.com/themysticstory/status/1226739032031297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18070,
+			"friends_count": 16,
+			"listed_count": 256,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#리슨] 안녕하세요. 미스틱스토리입니다.\n\n신종 코로나바이러스가 확산되는 현 상황을 고려하여 당분간 리슨스테이지는 1층 오픈공간 대신 비공개 공간에서 유튜브 실시간스트리밍을 통해서 진행될 예정입니다.\n\n아티스트와 팬 분들의 안전을 위해 내린 결정이니 너른 양해 부탁드립니다. 감사합니다. https://t.co/iaEMJNhrFE"
+	},
+	{
 		"created_at": "Mon Feb 10 05:14:19 +0000 2020",
 		"id": 1226736131137589200,
 		"id_str": "1226736131137589248",
