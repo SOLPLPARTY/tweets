@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 16:25:51 +0000 2020",
+		"id": 1226870465450266600,
+		"id_str": "1226905126683607049",
+		"full_text": "아카데미의 작품상, 감독상, 각본상 그리고 국제 장편 영화상까지 4관왕의 역사를 쓴 영화 &lt;기생충&gt;, 축하드립니다! 빌보드 코리아 매거진 창간호에서 '기생충'의 정재일 음악 감독님이 꼽은 &lt;기생충&gt;의 명장면은 무엇이었을까요? https://t.co/91QrhFP6qj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226870458202521600,
+					"id_str": "1226870458202521602",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQa4LnaVAAIrafx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQa4LnaVAAIrafx.jpg",
+					"url": "https://t.co/91QrhFP6qj",
+					"display_url": "pic.twitter.com/91QrhFP6qj",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1226870465450266625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226870458202521600,
+					"id_str": "1226870458202521602",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQa4LnaVAAIrafx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQa4LnaVAAIrafx.jpg",
+					"url": "https://t.co/91QrhFP6qj",
+					"display_url": "pic.twitter.com/91QrhFP6qj",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1226870465450266625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226870458206703600,
+					"id_str": "1226870458206703616",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EQa4LnbU0AAxEFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQa4LnbU0AAxEFk.jpg",
+					"url": "https://t.co/91QrhFP6qj",
+					"display_url": "pic.twitter.com/91QrhFP6qj",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1226870465450266625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/lFvxnC1SAV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lFvxnC1SAV",
+							"expanded_url": "http://billboard.co.kr/",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19179,
+			"friends_count": 8,
+			"listed_count": 78,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1580807189",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아카데미의 작품상, 감독상, 각본상 그리고 국제 장편 영화상까지 4관왕의 역사를 쓴 영화 &lt;기생충&gt;, 축하드립니다! 빌보드 코리아 매거진 창간호에서 '기생충'의 정재일 음악 감독님이 꼽은 &lt;기생충&gt;의 명장면은 무엇이었을까요? https://t.co/91QrhFP6qj"
+	},
+	{
 		"created_at": "Mon Feb 10 15:58:14 +0000 2020",
 		"id": 1226883548121952300,
 		"id_str": "1226898177497935872",
@@ -114,7 +324,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
