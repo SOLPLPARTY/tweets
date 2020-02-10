@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 13:58:21 +0000 2020",
+		"id": 1226860444096139300,
+		"id_str": "1226868005591797761",
+		"full_text": "#키Sing부스 \n배경도, 꾸디도, 여러분들도 완벽했던 키싱부스💕 매주 월요일 우리의 힐링부스 다음주도 함께해주실거죠😆❤️ (약속)\n\n12일은 꾸디의 쌍둥이동생(?)이 컴백한대요🤭 ㅎㅎㅎㅎㅎㅎ 우리 모두 다음주에 만나요🙇🏻‍♀️\n\n#펜타곤 #PENTAGON #키노 #KINO https://t.co/LxVtQiw8DF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "키Sing부스",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "키노",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "KINO",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226860433849479200,
+					"id_str": "1226860433849479168",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQavEHyUcAANQmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQavEHyUcAANQmN.jpg",
+					"url": "https://t.co/LxVtQiw8DF",
+					"display_url": "pic.twitter.com/LxVtQiw8DF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1226860444096139264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226860433849479200,
+					"id_str": "1226860433849479168",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EQavEHyUcAANQmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQavEHyUcAANQmN.jpg",
+					"url": "https://t.co/LxVtQiw8DF",
+					"display_url": "pic.twitter.com/LxVtQiw8DF",
+					"expanded_url": "https://twitter.com/casperradio_/status/1226860444096139264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 2436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#키Sing부스 \n배경도, 꾸디도, 여러분들도 완벽했던 키싱부스💕 매주 월요일 우리의 힐링부스 다음주도 함께해주실거죠😆❤️ (약속)\n\n12일은 꾸디의 쌍둥이동생(?)이 컴백한대요🤭 ㅎㅎㅎㅎㅎㅎ 우리 모두 다음주에 만나요🙇🏻‍♀️\n\n#펜타곤 #PENTAGON #키노 #KINO https://t.co/LxVtQiw8DF"
+	},
+	{
+		"created_at": "Mon Feb 10 13:58:15 +0000 2020",
+		"id": 1226854626651074600,
+		"id_str": "1226867979729690625",
+		"full_text": "비타민 필요하신 분?! #오마이걸 #효정 이 왔어요✨ 이번주 #어벤걸스 는 🍓발렌타인 위크🍫 월요일의 사랑맛은 #스위티 입니당💖 여러분이 생각하는 사랑맛도 알려주세효! 문자 7117 (정보이용료 100원) #NOW온에어 #OHMYGIRL https://t.co/Jvi4eyUJg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오마이걸",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "어벤걸스",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "스위티",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226854599295811600,
+					"id_str": "1226854599295811584",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EQapwgYUwAACdOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQapwgYUwAACdOH.jpg",
+					"url": "https://t.co/Jvi4eyUJg3",
+					"display_url": "pic.twitter.com/Jvi4eyUJg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1226854626651074560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226854599295811600,
+					"id_str": "1226854599295811584",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EQapwgYUwAACdOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQapwgYUwAACdOH.jpg",
+					"url": "https://t.co/Jvi4eyUJg3",
+					"display_url": "pic.twitter.com/Jvi4eyUJg3",
+					"expanded_url": "https://twitter.com/kr_now/status/1226854626651074560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21418,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 743,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비타민 필요하신 분?! #오마이걸 #효정 이 왔어요✨ 이번주 #어벤걸스 는 🍓발렌타인 위크🍫 월요일의 사랑맛은 #스위티 입니당💖 여러분이 생각하는 사랑맛도 알려주세효! 문자 7117 (정보이용료 100원) #NOW온에어 #OHMYGIRL https://t.co/Jvi4eyUJg3"
+	},
+	{
 		"created_at": "Mon Feb 10 12:59:41 +0000 2020",
 		"id": 1226853241402613800,
 		"id_str": "1226853241402613761",
