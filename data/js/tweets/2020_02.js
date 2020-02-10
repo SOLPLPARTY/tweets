@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 01:58:15 +0000 2020",
+		"id": 1226674004552904700,
+		"id_str": "1226686785922703360",
+		"full_text": "#NOW온에어 2월 10일(월) 오늘의 타임테이블📌 https://t.co/zVADwPFTXa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOW온에어",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226673991089152000,
+					"id_str": "1226673991089152001",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EQYFfuYUYAEjTTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQYFfuYUYAEjTTH.jpg",
+					"url": "https://t.co/zVADwPFTXa",
+					"display_url": "pic.twitter.com/zVADwPFTXa",
+					"expanded_url": "https://twitter.com/kr_now/status/1226674004552904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226673991089152000,
+					"id_str": "1226673991089152001",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EQYFfuYUYAEjTTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQYFfuYUYAEjTTH.jpg",
+					"url": "https://t.co/zVADwPFTXa",
+					"display_url": "pic.twitter.com/zVADwPFTXa",
+					"expanded_url": "https://twitter.com/kr_now/status/1226674004552904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21402,
+			"friends_count": 0,
+			"listed_count": 47,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#NOW온에어 2월 10일(월) 오늘의 타임테이블📌 https://t.co/zVADwPFTXa"
+	},
+	{
+		"created_at": "Mon Feb 10 01:57:40 +0000 2020",
+		"id": 1226686641789718500,
+		"id_str": "1226686641789718528",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n2월 8일 | ClaD\nhttps://t.co/9NTt5owzCb\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						78,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9NTt5owzCb",
+					"expanded_url": "http://bit.ly/31H9mGA",
+					"display_url": "bit.ly/31H9mGA",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n2월 8일 | ClaD\nhttps://t.co/9NTt5owzCb\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Mon Feb 10 01:41:40 +0000 2020",
+		"id": 1226673461994483700,
+		"id_str": "1226682614637002752",
+		"full_text": "[제비다방]공연일정\n2/13목 연희별곡\n14금 정우\n15토 모호프로젝트\n16일 우리같은사람들\n20목 도마\n21금 야간비행\n22토 YOJA\n23일 리썬\n27목 Audrey No\n28금 Damon’s Jazz Club\n29토 이장혁\n3/1일 하헌진\n5목 BROWN\n6금 오헬렌&amp;최솔\n7토 뷰티핸섬\nhttps://t.co/26naRsWK8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26naRsWK8D",
+					"expanded_url": "https://www.ctrplus.com/blank-2",
+					"display_url": "ctrplus.com/blank-2",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 549070511,
+			"id_str": "549070511",
+			"name": "제비다방",
+			"screen_name": "ctrjebi",
+			"location": "아침10시-새벽2시",
+			"description": "낮에는 [제비다방] 어두워지면 [취한제비] 어쩌면 낮에도 [취한제비다방] 홍대 마포구 상수동 330-12(와우산로 24) tel 02 325 1969 | 문화지형연구소 씨티알 | 전신 씨티알 레몬쌀롱",
+			"url": "http://t.co/4LbZOqFTeN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4LbZOqFTeN",
+							"expanded_url": "http://www.jebidabang.com",
+							"display_url": "jebidabang.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9862,
+			"friends_count": 2628,
+			"listed_count": 126,
+			"created_at": "Mon Apr 09 09:02:16 +0000 2012",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2103660111/__________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549070511/1361153638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[제비다방]공연일정\n2/13목 연희별곡\n14금 정우\n15토 모호프로젝트\n16일 우리같은사람들\n20목 도마\n21금 야간비행\n22토 YOJA\n23일 리썬\n27목 Audrey No\n28금 Damon’s Jazz Club\n29토 이장혁\n3/1일 하헌진\n5목 BROWN\n6금 오헬렌&amp;최솔\n7토 뷰티핸섬\nhttps://t.co/26naRsWK8D"
+	},
+	{
+		"created_at": "Mon Feb 10 01:31:19 +0000 2020",
+		"id": 1226680007487053800,
+		"id_str": "1226680007487053825",
+		"full_text": "#문화가있는날 #블로그\n발렌타인데이가 근사해지는 서울 데이트코스\nhttps://t.co/ETwHbxy5sB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ETwHbxy5sB",
+					"expanded_url": "http://bit.ly/3boQ9Oe",
+					"display_url": "bit.ly/3boQ9Oe",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 350,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n발렌타인데이가 근사해지는 서울 데이트코스\nhttps://t.co/ETwHbxy5sB"
+	},
+	{
 		"created_at": "Sun Feb 09 20:23:40 +0000 2020",
 		"id": 1226602588767948800,
 		"id_str": "1226602588767948803",
