@@ -1,6 +1,893 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 13:58:15 +0000 2020",
+		"id": 1227216042625134600,
+		"id_str": "1227230367393943554",
+		"full_text": "👉잠시 후 12시👈 #들려주고싶어서 #빌리어코스티 편이 온에어 됩니다. #토이 의 #어쩌면우리는만약에 , #녕인 의 #겨울 , #옥수사진관 의 #안녕 등 감성 싱어송라이터 빌리어코스티가 직접 선곡한 겨울 감성의 노래들 네이버앱에서 들려드립니다. #NOW온에어 https://t.co/kckyehiqoq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "빌리어코스티",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "토이",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "어쩌면우리는만약에",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "녕인",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "겨울",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "옥수사진관",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227216040196591600,
+					"id_str": "1227216040196591616",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfyfIqUUAAVyLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfyfIqUUAAVyLB.jpg",
+					"url": "https://t.co/kckyehiqoq",
+					"display_url": "pic.twitter.com/kckyehiqoq",
+					"expanded_url": "https://twitter.com/kr_now/status/1227216042625134594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227216040196591600,
+					"id_str": "1227216040196591616",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfyfIqUUAAVyLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfyfIqUUAAVyLB.jpg",
+					"url": "https://t.co/kckyehiqoq",
+					"display_url": "pic.twitter.com/kckyehiqoq",
+					"expanded_url": "https://twitter.com/kr_now/status/1227216042625134594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21447,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👉잠시 후 12시👈 #들려주고싶어서 #빌리어코스티 편이 온에어 됩니다. #토이 의 #어쩌면우리는만약에 , #녕인 의 #겨울 , #옥수사진관 의 #안녕 등 감성 싱어송라이터 빌리어코스티가 직접 선곡한 겨울 감성의 노래들 네이버앱에서 들려드립니다. #NOW온에어 https://t.co/kckyehiqoq"
+	},
+	{
+		"created_at": "Tue Feb 11 13:07:46 +0000 2020",
+		"id": 1227217664742957000,
+		"id_str": "1227217664742957060",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |'마지막까지 작가가 하고 싶은 말은?'| 키노(KINO)가 읽어주는 '레몬'\nhttps://t.co/cmAc9nH4kT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cmAc9nH4kT",
+					"expanded_url": "https://youtu.be/45IgoY-o8Is",
+					"display_url": "youtu.be/45IgoY-o8Is",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |'마지막까지 작가가 하고 싶은 말은?'| 키노(KINO)가 읽어주는 '레몬'\nhttps://t.co/cmAc9nH4kT"
+	},
+	{
+		"created_at": "Tue Feb 11 12:58:15 +0000 2020",
+		"id": 1227214037840101400,
+		"id_str": "1227215269032054784",
+		"full_text": "#어벤걸스 는 발렌타인 위크 중💕 화요일의 호스트 #러블리즈 #지애 가 들려줄 사랑맛은 러블리💖 드라마 영화 속 달콤 명대사를 읽어드려욤💘 문자 #7117 (정보이용료 100원) #NOW온에어 오늘의 스페셜 게스트💝는 #베리베리 #계현 #연호 #동헌 https://t.co/OhrgNoiNAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "지애",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "베리베리",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "계현",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "연호",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "동헌",
+					"indices": [
+						136,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227214010359005200,
+					"id_str": "1227214010359005184",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfwo-7UwAAzMnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfwo-7UwAAzMnp.jpg",
+					"url": "https://t.co/OhrgNoiNAn",
+					"display_url": "pic.twitter.com/OhrgNoiNAn",
+					"expanded_url": "https://twitter.com/kr_now/status/1227214037840101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227214010359005200,
+					"id_str": "1227214010359005184",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfwo-7UwAAzMnp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfwo-7UwAAzMnp.jpg",
+					"url": "https://t.co/OhrgNoiNAn",
+					"display_url": "pic.twitter.com/OhrgNoiNAn",
+					"expanded_url": "https://twitter.com/kr_now/status/1227214037840101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21447,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#어벤걸스 는 발렌타인 위크 중💕 화요일의 호스트 #러블리즈 #지애 가 들려줄 사랑맛은 러블리💖 드라마 영화 속 달콤 명대사를 읽어드려욤💘 문자 #7117 (정보이용료 100원) #NOW온에어 오늘의 스페셜 게스트💝는 #베리베리 #계현 #연호 #동헌 https://t.co/OhrgNoiNAn"
+	},
+	{
+		"created_at": "Tue Feb 11 12:51:53 +0000 2020",
+		"id": 1227213666933780500,
+		"id_str": "1227213666933780480",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 크르르 (krr) - 사려니 (Saryeoni)\nhttps://t.co/75EBtKxX1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75EBtKxX1V",
+					"expanded_url": "https://youtu.be/8wnWxTZZ3M8",
+					"display_url": "youtu.be/8wnWxTZZ3M8",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 크르르 (krr) - 사려니 (Saryeoni)\nhttps://t.co/75EBtKxX1V"
+	},
+	{
+		"created_at": "Tue Feb 11 12:41:37 +0000 2020",
+		"id": 1227196835577630700,
+		"id_str": "1227211085725470722",
+		"full_text": "[#채널씬디 시즌2]\n\n2월 18일, Dasutt (밴드 다섯)ⅹ채널씬디\n\n𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 https://t.co/DFgZZUu0Gw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "채널씬디",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227196820998148000,
+					"id_str": "1227196820998148096",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfhAbkVUAAEQUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfhAbkVUAAEQUM.jpg",
+					"url": "https://t.co/DFgZZUu0Gw",
+					"display_url": "pic.twitter.com/DFgZZUu0Gw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1227196835577630721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227196820998148000,
+					"id_str": "1227196820998148096",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EQfhAbkVUAAEQUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQfhAbkVUAAEQUM.jpg",
+					"url": "https://t.co/DFgZZUu0Gw",
+					"display_url": "pic.twitter.com/DFgZZUu0Gw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1227196835577630721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2873,
+			"friends_count": 2756,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#채널씬디 시즌2]\n\n2월 18일, Dasutt (밴드 다섯)ⅹ채널씬디\n\n𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 https://t.co/DFgZZUu0Gw"
+	},
+	{
 		"created_at": "Tue Feb 11 12:01:37 +0000 2020",
 		"id": 1227201016237613000,
 		"id_str": "1227201016237613056",
