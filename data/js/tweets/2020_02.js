@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 10:41:38 +0000 2020",
+		"id": 1227166051458150400,
+		"id_str": "1227180887344910337",
+		"full_text": "세계적인 드러머 #아론스피어스 가 \n상상마당 홍대로 출격합니다!!!\n\n2020년 2월 14일(금), 오후 7시\n@KT&amp;G 상상마당 홍대 Live Hall\n\n자세한 내용은 홈페이지 참고!\nhttps://t.co/wIJEMbvuC4 https://t.co/3yeoW7ZW3X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아론스피어스",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kt",
+					"name": "Katie Trogner",
+					"id": 1396750680,
+					"id_str": "1396750680",
+					"indices": [
+						62,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wIJEMbvuC4",
+					"expanded_url": "http://bit.ly/2tMG1xH",
+					"display_url": "bit.ly/2tMG1xH",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227165967576223700,
+					"id_str": "1227165967576223744",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227165967576223744/pu/img/Os2D-bwx_4uebDIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227165967576223744/pu/img/Os2D-bwx_4uebDIR.jpg",
+					"url": "https://t.co/3yeoW7ZW3X",
+					"display_url": "pic.twitter.com/3yeoW7ZW3X",
+					"expanded_url": "https://twitter.com/SSmadang/status/1227166051458150402/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227165967576223700,
+					"id_str": "1227165967576223744",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227165967576223744/pu/img/Os2D-bwx_4uebDIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227165967576223744/pu/img/Os2D-bwx_4uebDIR.jpg",
+					"url": "https://t.co/3yeoW7ZW3X",
+					"display_url": "pic.twitter.com/3yeoW7ZW3X",
+					"expanded_url": "https://twitter.com/SSmadang/status/1227166051458150402/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 33198,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227165967576223744/pu/vid/404x720/FxpzZNjt_rY7Dv3V.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227165967576223744/pu/pl/N8Syco5WeMb1rVdx.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227165967576223744/pu/vid/320x570/AMgej2DZXBKMhGE2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18935,
+			"friends_count": 1991,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계적인 드러머 #아론스피어스 가 \n상상마당 홍대로 출격합니다!!!\n\n2020년 2월 14일(금), 오후 7시\n@KT&amp;G 상상마당 홍대 Live Hall\n\n자세한 내용은 홈페이지 참고!\nhttps://t.co/wIJEMbvuC4 https://t.co/3yeoW7ZW3X"
+	},
+	{
 		"created_at": "Tue Feb 11 10:08:12 +0000 2020",
 		"id": 1227172474430853000,
 		"id_str": "1227172474430853120",
