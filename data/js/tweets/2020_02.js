@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 11:58:14 +0000 2020",
+		"id": 1227547607586635800,
+		"id_str": "1227562555796807680",
+		"full_text": "#비밀상담소\n잠시 후 9시 #딕펑스 의 비밀상담소 3회가 생방송 됩니다 오늘도 기대되는 두 소장님의 입담😯 과 연기🥳 (오늘의 연기왕은..?) 여러분들의 활발한 댓글 참여도 부탁드립니다😇🔥\n\n#딕펑스 #김태현 #김재흥 #캐스퍼라디오 \n\nhttps://t.co/inqdbuMLTr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비밀상담소",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "딕펑스",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "딕펑스",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "김태현",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "김재흥",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inqdbuMLTr",
+					"expanded_url": "https://www.vlive.tv/video/174135",
+					"display_url": "vlive.tv/video/174135",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1987,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#비밀상담소\n잠시 후 9시 #딕펑스 의 비밀상담소 3회가 생방송 됩니다 오늘도 기대되는 두 소장님의 입담😯 과 연기🥳 (오늘의 연기왕은..?) 여러분들의 활발한 댓글 참여도 부탁드립니다😇🔥\n\n#딕펑스 #김태현 #김재흥 #캐스퍼라디오 \n\nhttps://t.co/inqdbuMLTr"
+	},
+	{
 		"created_at": "Wed Feb 12 11:16:25 +0000 2020",
 		"id": 1227552029033234400,
 		"id_str": "1227552029033234432",
