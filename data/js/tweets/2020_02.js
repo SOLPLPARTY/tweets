@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 13:58:21 +0000 2020",
+		"id": 1227578543774691300,
+		"id_str": "1227592781062955013",
+		"full_text": "🌟잠시 후 12시🌟 #들려주고싶어서 #스윗소로우 #인호진 편이 온에어 됩니다. #지코 의 #아무노래 부터 #박효신 의 #추억은사랑을닮아 까지 인호진이 직접 선곡한 곡들을 네이버앱에서 만나보아요 #NOW온에어 https://t.co/jHNMSxFA0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "들려주고싶어서",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "스윗소로우",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "인호진",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "아무노래",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "박효신",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "추억은사랑을닮아",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227578541392322600,
+					"id_str": "1227578541392322560",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EQk8Le2U4AACMLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQk8Le2U4AACMLH.jpg",
+					"url": "https://t.co/jHNMSxFA0H",
+					"display_url": "pic.twitter.com/jHNMSxFA0H",
+					"expanded_url": "https://twitter.com/kr_now/status/1227578543774691329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227578541392322600,
+					"id_str": "1227578541392322560",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EQk8Le2U4AACMLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQk8Le2U4AACMLH.jpg",
+					"url": "https://t.co/jHNMSxFA0H",
+					"display_url": "pic.twitter.com/jHNMSxFA0H",
+					"expanded_url": "https://twitter.com/kr_now/status/1227578543774691329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21521,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟잠시 후 12시🌟 #들려주고싶어서 #스윗소로우 #인호진 편이 온에어 됩니다. #지코 의 #아무노래 부터 #박효신 의 #추억은사랑을닮아 까지 인호진이 직접 선곡한 곡들을 네이버앱에서 만나보아요 #NOW온에어 https://t.co/jHNMSxFA0H"
+	},
+	{
+		"created_at": "Wed Feb 12 13:58:15 +0000 2020",
+		"id": 1227577857154502700,
+		"id_str": "1227592755272208384",
+		"full_text": "수요일의 #어벤걸스 오늘 #여자친구 #은하 가 들려줄 사랑맛💖은 딸기초콜릿! 🍓와 🍫처럼 어울려도 너무 잘 어울리는 여러분의 #단짝 은 누구인가욤?! 문자 #7117 (정보이용료 100원) #NOW온에어 #반모알지 #GFRIEND 네이버 앱에서 들을 수 있는 거 RG? https://t.co/il9pfuDceZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "은하",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "단짝",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "반모알지",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "GFRIEND",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227577842419949600,
+					"id_str": "1227577842419949570",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EQk7iy-U4AINX5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQk7iy-U4AINX5z.jpg",
+					"url": "https://t.co/il9pfuDceZ",
+					"display_url": "pic.twitter.com/il9pfuDceZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1227577857154502656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227577842419949600,
+					"id_str": "1227577842419949570",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EQk7iy-U4AINX5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQk7iy-U4AINX5z.jpg",
+					"url": "https://t.co/il9pfuDceZ",
+					"display_url": "pic.twitter.com/il9pfuDceZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1227577857154502656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227577842432503800,
+					"id_str": "1227577842432503808",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EQk7izBUcAAnfsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQk7izBUcAAnfsU.jpg",
+					"url": "https://t.co/il9pfuDceZ",
+					"display_url": "pic.twitter.com/il9pfuDceZ",
+					"expanded_url": "https://twitter.com/kr_now/status/1227577857154502656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21521,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1014,
+		"favorite_count": 3304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수요일의 #어벤걸스 오늘 #여자친구 #은하 가 들려줄 사랑맛💖은 딸기초콜릿! 🍓와 🍫처럼 어울려도 너무 잘 어울리는 여러분의 #단짝 은 누구인가욤?! 문자 #7117 (정보이용료 100원) #NOW온에어 #반모알지 #GFRIEND 네이버 앱에서 들을 수 있는 거 RG? https://t.co/il9pfuDceZ"
+	},
+	{
 		"created_at": "Wed Feb 12 12:59:37 +0000 2020",
 		"id": 1227578002877354000,
 		"id_str": "1227578002877353984",
@@ -533,7 +998,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
