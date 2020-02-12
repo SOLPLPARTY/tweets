@@ -1,6 +1,1473 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 10:03:22 +0000 2020",
+		"id": 1227533646841745400,
+		"id_str": "1227533646841745413",
+		"full_text": "#genie #지니 #지니매거진\n'RED MOON'으로 돌아온 KARD 자켓 촬영 현장\nhttps://t.co/w9apEuK3vF https://t.co/2nCFBlwBCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w9apEuK3vF",
+					"expanded_url": "http://bit.ly/2UN16mK",
+					"display_url": "bit.ly/2UN16mK",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227533645705076700,
+					"id_str": "1227533645705076736",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EQkTWNYXYAAMSwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQkTWNYXYAAMSwW.jpg",
+					"url": "https://t.co/2nCFBlwBCy",
+					"display_url": "pic.twitter.com/2nCFBlwBCy",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1227533646841745413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227533645705076700,
+					"id_str": "1227533645705076736",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EQkTWNYXYAAMSwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQkTWNYXYAAMSwW.jpg",
+					"url": "https://t.co/2nCFBlwBCy",
+					"display_url": "pic.twitter.com/2nCFBlwBCy",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1227533646841745413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n'RED MOON'으로 돌아온 KARD 자켓 촬영 현장\nhttps://t.co/w9apEuK3vF https://t.co/2nCFBlwBCy"
+	},
+	{
+		"created_at": "Wed Feb 12 09:58:23 +0000 2020",
+		"id": 1227531626172694500,
+		"id_str": "1227532391624867840",
+		"full_text": "#올댓뮤직 #본방사수\n02월 13일 목요일 밤 11시 40분 KBS1 TV\n\n내일 밤 11시 40분\n확실한 음색으로 다양한 음악을 들려주는 \n뮤지션들의 뮤지션 #선우정아 편이 방송됩니다🥳\n\n📍#wavve 를 통해 만날 수 있는\n#뮤직멀티뷰서비스 도 놓치지마세요\n\n#ALLTHATMUSIC \n#고영배 #Sunwoojunga #SWJA https://t.co/VUwXCfNXLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"text": "고영배",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "SWJA",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227531527203852300,
+					"id_str": "1227531527203852288",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227531527203852288/pu/img/kmQu2oPTLxDMJTaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227531527203852288/pu/img/kmQu2oPTLxDMJTaF.jpg",
+					"url": "https://t.co/VUwXCfNXLZ",
+					"display_url": "pic.twitter.com/VUwXCfNXLZ",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1227531626172694528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227531527203852300,
+					"id_str": "1227531527203852288",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227531527203852288/pu/img/kmQu2oPTLxDMJTaF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227531527203852288/pu/img/kmQu2oPTLxDMJTaF.jpg",
+					"url": "https://t.co/VUwXCfNXLZ",
+					"display_url": "pic.twitter.com/VUwXCfNXLZ",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1227531626172694528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 42417,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227531527203852288/pu/vid/480x270/nGJOwhK7dD1p9P-_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227531527203852288/pu/vid/854x480/U0FIB6G7gg6vBpYa.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227531527203852288/pu/vid/640x360/kwoIUDmx_z6uRXT3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227531527203852288/pu/pl/9BSJSvBZLhFFsEqC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "Explore K-band world! MC #고영배 와 함께 떠나는 음악여행🎧 Live Music Show #AllThatMusic #올댓뮤직 매주 목요일 밤 11:40 KBS1 TV 방송",
+			"url": "https://t.co/WPmrO6hXfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6hXfx",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3736,
+			"friends_count": 918,
+			"listed_count": 93,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151023519502753792/gArC9DIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1563259587",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n02월 13일 목요일 밤 11시 40분 KBS1 TV\n\n내일 밤 11시 40분\n확실한 음색으로 다양한 음악을 들려주는 \n뮤지션들의 뮤지션 #선우정아 편이 방송됩니다🥳\n\n📍#wavve 를 통해 만날 수 있는\n#뮤직멀티뷰서비스 도 놓치지마세요\n\n#ALLTHATMUSIC \n#고영배 #Sunwoojunga #SWJA https://t.co/VUwXCfNXLZ"
+	},
+	{
+		"created_at": "Wed Feb 12 09:58:15 +0000 2020",
+		"id": 1227525553420300300,
+		"id_str": "1227532357412032512",
+		"full_text": "#노래추천\n\n#펜타곤 (#PENTAGON) 이라고 하는 팀의 정규 1집 앨범이 나왔대요🤔 노래가 아주 좋던데..!! 타이틀 #닥터베베 말고도 수록곡들도 엄청 좋으니 다들 들어보시길 추천드려요🥳\n\n#도망가자 라던지 #Die_For_You 도..\n#사실모든곡이띵곡❤️\n\n#꾸디화이팅💜 https://t.co/1XP2KeDVOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노래추천",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "닥터베베",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "도망가자",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "Die_For_You",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "사실모든곡이띵곡",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "꾸디화이팅",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227525543215526000,
+					"id_str": "1227525543215525893",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EQkL-lQUcAUOF6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQkL-lQUcAUOF6P.jpg",
+					"url": "https://t.co/1XP2KeDVOo",
+					"display_url": "pic.twitter.com/1XP2KeDVOo",
+					"expanded_url": "https://twitter.com/casperradio_/status/1227525553420300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227525543215526000,
+					"id_str": "1227525543215525893",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EQkL-lQUcAUOF6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQkL-lQUcAUOF6P.jpg",
+					"url": "https://t.co/1XP2KeDVOo",
+					"display_url": "pic.twitter.com/1XP2KeDVOo",
+					"expanded_url": "https://twitter.com/casperradio_/status/1227525553420300289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022765899126730800,
+			"id_str": "1022765899126730752",
+			"name": "CASPERRADIO",
+			"screen_name": "casperradio_",
+			"location": "",
+			"description": "CASPER RADIO Official Twitter ✨ 키노의 키Sing부스/ 권정열고영배의 십란한밤/ 딕펑스의 비밀상담소/김간지의 인간실격/ 김앤박의 Best New K-Pop / 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 with special DJ",
+			"url": "https://t.co/nXQtEyzRyE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXQtEyzRyE",
+							"expanded_url": "http://www.youtube.com/caspervideomusic",
+							"display_url": "youtube.com/caspervideomus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1989,
+			"friends_count": 7,
+			"listed_count": 6,
+			"created_at": "Fri Jul 27 08:49:27 +0000 2018",
+			"favourites_count": 378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224696571901566976/Jk6CvjUR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022765899126730752/1576143782",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#노래추천\n\n#펜타곤 (#PENTAGON) 이라고 하는 팀의 정규 1집 앨범이 나왔대요🤔 노래가 아주 좋던데..!! 타이틀 #닥터베베 말고도 수록곡들도 엄청 좋으니 다들 들어보시길 추천드려요🥳\n\n#도망가자 라던지 #Die_For_You 도..\n#사실모든곡이띵곡❤️\n\n#꾸디화이팅💜 https://t.co/1XP2KeDVOo"
+	},
+	{
+		"created_at": "Wed Feb 12 09:29:33 +0000 2020",
+		"id": 1227520621745016800,
+		"id_str": "1227525136707989506",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/owcDVI0VpO\n-\n[Listen here]\nMelon - https://t.co/K1utuQ9zq4\nGenie - https://t.co/BzdcjGkyxT\nBugs - https://t.co/V2WUut6NH0\nVibe - https://t.co/NpLyeuD7cN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/owcDVI0VpO",
+					"expanded_url": "https://bit.ly/3bvE2Ps",
+					"display_url": "bit.ly/3bvE2Ps",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/K1utuQ9zq4",
+					"expanded_url": "https://bit.ly/2waUwfH",
+					"display_url": "bit.ly/2waUwfH",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/BzdcjGkyxT",
+					"expanded_url": "https://bit.ly/2vp0KrR",
+					"display_url": "bit.ly/2vp0KrR",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/V2WUut6NH0",
+					"expanded_url": "https://bit.ly/31ObNXN",
+					"display_url": "bit.ly/31ObNXN",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/NpLyeuD7cN",
+					"expanded_url": "https://bit.ly/2SEekzx",
+					"display_url": "bit.ly/2SEekzx",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1227520620432253000,
+		"in_reply_to_status_id_str": "1227520620432252928",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9738,
+			"friends_count": 2973,
+			"listed_count": 268,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/owcDVI0VpO\n-\n[Listen here]\nMelon - https://t.co/K1utuQ9zq4\nGenie - https://t.co/BzdcjGkyxT\nBugs - https://t.co/V2WUut6NH0\nVibe - https://t.co/NpLyeuD7cN"
+	},
+	{
+		"created_at": "Wed Feb 12 09:29:31 +0000 2020",
+		"id": 1227520620432253000,
+		"id_str": "1227525127371476992",
+		"full_text": "🆕 New Release February 12\n-\n💿 열두달 (12DAL)\n[Mr. Nobody]\n\n여성 듀오 열두달(12DAL)이 발렌타인데이를 겨냥해 열두달표 사랑곡 ‘Mr. Nobody’로 돌아왔습니다.\n\nhttps://t.co/9AIBVdavsf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9AIBVdavsf",
+					"expanded_url": "https://youtu.be/cvJ3nQFUfN4",
+					"display_url": "youtu.be/cvJ3nQFUfN4",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9738,
+			"friends_count": 2973,
+			"listed_count": 268,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release February 12\n-\n💿 열두달 (12DAL)\n[Mr. Nobody]\n\n여성 듀오 열두달(12DAL)이 발렌타인데이를 겨냥해 열두달표 사랑곡 ‘Mr. Nobody’로 돌아왔습니다.\n\nhttps://t.co/9AIBVdavsf"
+	},
+	{
+		"created_at": "Wed Feb 12 09:29:29 +0000 2020",
+		"id": 1227520367322755000,
+		"id_str": "1227525118534045696",
+		"full_text": "'Turn on that Blue Vinyl' Encore VCR (Berlin Ver.) \n\n백예린 단곡공연 앵콜 VCR (Berlin 음원 버전)을 공개합니다🕊 \n\nhttps://t.co/bsKZqgqwzq - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bsKZqgqwzq",
+					"expanded_url": "https://youtu.be/CNAMj2CbP5Q",
+					"display_url": "youtu.be/CNAMj2CbP5Q",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "블루바이닐 / Blue Vinyl",
+			"screen_name": "bluevinylneedle",
+			"location": "",
+			"description": "Blue Vinyl Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5727,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191358468281683968/yKamAYrx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1572876969",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'Turn on that Blue Vinyl' Encore VCR (Berlin Ver.) \n\n백예린 단곡공연 앵콜 VCR (Berlin 음원 버전)을 공개합니다🕊 \n\nhttps://t.co/bsKZqgqwzq - @YouTube"
+	},
+	{
+		"created_at": "Wed Feb 12 09:29:25 +0000 2020",
+		"id": 1227517698692780000,
+		"id_str": "1227525101048025088",
+		"full_text": "[D-5]\n⠀\n레터 플로우 '참 좋았었는데' Lyrics Teaser\n(Feat. 레터 플로우 손글씨 🖋)\n⠀\n'너도 가끔 생각나니\n아름답던 우리 지난날\n잊혀진 척 살아가다가\n네 생각에 휘청이는 그런 날'\n⠀\n🎧 2020.02.17. 6PM Release\n⠀\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/R1giK42Eac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "Shofarmusic",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "레터플로우",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "참좋았었는데",
+					"indices": [
+						172,
+						179
+					]
+				},
+				{
+					"text": "LetterFlow",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227486366172250000,
+					"id_str": "1227486366172250112",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjoWLZVAAAWPQo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjoWLZVAAAWPQo.jpg",
+					"url": "https://t.co/R1giK42Eac",
+					"display_url": "pic.twitter.com/R1giK42Eac",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227517698692780033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227486366172250000,
+					"id_str": "1227486366172250112",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjoWLZVAAAWPQo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjoWLZVAAAWPQo.jpg",
+					"url": "https://t.co/R1giK42Eac",
+					"display_url": "pic.twitter.com/R1giK42Eac",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227517698692780033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7799,
+			"friends_count": 10,
+			"listed_count": 71,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-5]\n⠀\n레터 플로우 '참 좋았었는데' Lyrics Teaser\n(Feat. 레터 플로우 손글씨 🖋)\n⠀\n'너도 가끔 생각나니\n아름답던 우리 지난날\n잊혀진 척 살아가다가\n네 생각에 휘청이는 그런 날'\n⠀\n🎧 2020.02.17. 6PM Release\n⠀\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/R1giK42Eac"
+	},
+	{
+		"created_at": "Wed Feb 12 09:29:08 +0000 2020",
+		"id": 1227525030768267300,
+		"id_str": "1227525030768267264",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n2월 12일 | 열두달\nhttps://t.co/nUAFugxvfk\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						78,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nUAFugxvfk",
+					"expanded_url": "http://bit.ly/38lenqH",
+					"display_url": "bit.ly/38lenqH",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n2월 12일 | 열두달\nhttps://t.co/nUAFugxvfk\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
 		"created_at": "Wed Feb 12 09:16:37 +0000 2020",
 		"id": 1227521880753569800,
 		"id_str": "1227521880753569792",
