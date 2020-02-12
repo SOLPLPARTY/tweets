@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 06:16:29 +0000 2020",
+		"id": 1227476550045634600,
+		"id_str": "1227476550045634561",
+		"full_text": "#Melon #멜론 #멜론매거진\n오디오에서 간과하기 쉬운 요소, 전기\nhttps://t.co/dXNdREQPEy https://t.co/etcGl83PvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXNdREQPEy",
+					"expanded_url": "http://bit.ly/2UM5FxU",
+					"display_url": "bit.ly/2UM5FxU",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227476549017927700,
+					"id_str": "1227476549017927685",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjfavpWAAUlwRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjfavpWAAUlwRF.jpg",
+					"url": "https://t.co/etcGl83PvW",
+					"display_url": "pic.twitter.com/etcGl83PvW",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1227476550045634561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227476549017927700,
+					"id_str": "1227476549017927685",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjfavpWAAUlwRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjfavpWAAUlwRF.jpg",
+					"url": "https://t.co/etcGl83PvW",
+					"display_url": "pic.twitter.com/etcGl83PvW",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1227476550045634561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n오디오에서 간과하기 쉬운 요소, 전기\nhttps://t.co/dXNdREQPEy https://t.co/etcGl83PvW"
+	},
+	{
+		"created_at": "Wed Feb 12 05:58:19 +0000 2020",
+		"id": 1227468109780594700,
+		"id_str": "1227471975901286400",
+		"full_text": "🎶알파벳으로 보는 #EDCKorea🎶\n\nG는 Giving💗 배려하는 마음으로 주위를 둘러봐요!\nG is Giving💗 Look around and care for each other!\n\n▶Tickets: https://t.co/Os9S6gOHIr\n#이디씨코리아 https://t.co/f8zUsK0GL7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCKorea",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"text": "이디씨코리아",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os9S6gOHIr",
+					"expanded_url": "https://korea.electricdaisycarnival.com/tickets",
+					"display_url": "korea.electricdaisycarnival.com/tickets",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227467827248074800,
+					"id_str": "1227467827248074752",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227467827248074752/pu/img/tGTNPLMGC2Um5ud_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227467827248074752/pu/img/tGTNPLMGC2Um5ud_.jpg",
+					"url": "https://t.co/f8zUsK0GL7",
+					"display_url": "pic.twitter.com/f8zUsK0GL7",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1227468109780594689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227467827248074800,
+					"id_str": "1227467827248074752",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227467827248074752/pu/img/tGTNPLMGC2Um5ud_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227467827248074752/pu/img/tGTNPLMGC2Um5ud_.jpg",
+					"url": "https://t.co/f8zUsK0GL7",
+					"display_url": "pic.twitter.com/f8zUsK0GL7",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1227468109780594689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10844,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227467827248074752/pu/vid/720x720/Mw_R5UEUJI-OqYJW.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227467827248074752/pu/vid/320x320/JCndPfOLTrblcsuu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227467827248074752/pu/pl/kWJ8Cdh92ZFTMsu4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227467827248074752/pu/vid/480x480/K4aFLDiCcX0o7aOP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\nAugust 15+16, 2020 #EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 9,
+			"listed_count": 3,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1578877398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎶알파벳으로 보는 #EDCKorea🎶\n\nG는 Giving💗 배려하는 마음으로 주위를 둘러봐요!\nG is Giving💗 Look around and care for each other!\n\n▶Tickets: https://t.co/Os9S6gOHIr\n#이디씨코리아 https://t.co/f8zUsK0GL7"
+	},
+	{
+		"created_at": "Wed Feb 12 05:58:14 +0000 2020",
+		"id": 1227457287503188000,
+		"id_str": "1227471958469677056",
+		"full_text": "오늘은! 밴드 #아이즈 가 #심야아이돌 에 놀러옵니다. 아이즈 하면 모다? 라이브ㄷㅏ~~🎤  여러분 사연에 어울리는 노래 불러드릴게요🥰 문자번호 #7117 (정보이용료100원) 사연고고🤳 아이즈, 어쿠스틱라이브, 셍스트,,,,꿀조합🍯 #IZ #하성운 #NOW온에어 #초콜릿선물도준비했지 🍫 https://t.co/igrQfNbADg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이즈",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "심야아이돌",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "IZ",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "초콜릿선물도준비했지",
+					"indices": [
+						148,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227457276576964600,
+					"id_str": "1227457276576964609",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjN48NWoAEHWfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjN48NWoAEHWfZ.jpg",
+					"url": "https://t.co/igrQfNbADg",
+					"display_url": "pic.twitter.com/igrQfNbADg",
+					"expanded_url": "https://twitter.com/kr_now/status/1227457287503187968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227457276576964600,
+					"id_str": "1227457276576964609",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjN48NWoAEHWfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjN48NWoAEHWfZ.jpg",
+					"url": "https://t.co/igrQfNbADg",
+					"display_url": "pic.twitter.com/igrQfNbADg",
+					"expanded_url": "https://twitter.com/kr_now/status/1227457287503187968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21486,
+			"friends_count": 0,
+			"listed_count": 48,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은! 밴드 #아이즈 가 #심야아이돌 에 놀러옵니다. 아이즈 하면 모다? 라이브ㄷㅏ~~🎤  여러분 사연에 어울리는 노래 불러드릴게요🥰 문자번호 #7117 (정보이용료100원) 사연고고🤳 아이즈, 어쿠스틱라이브, 셍스트,,,,꿀조합🍯 #IZ #하성운 #NOW온에어 #초콜릿선물도준비했지 🍫 https://t.co/igrQfNbADg"
+	},
+	{
+		"created_at": "Wed Feb 12 05:29:27 +0000 2020",
+		"id": 1227452871656038400,
+		"id_str": "1227464715095416833",
+		"full_text": "*목소리 기부를 통해 소리책을 제작하는 ‘소리를 선물합니다’ 캠페인의 일환으로 진행되었습니다. 캠페인 수익금의 일부는 ‘사랑의 달팽이 재단’에 기부됩니다.\n-\n#성진환 #오디오북 #나조차나를사랑하지못하고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성진환",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "오디오북",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "나조차나를사랑하지못하고",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227452852416712700,
+		"in_reply_to_status_id_str": "1227452852416712706",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YourSummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1778,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "*목소리 기부를 통해 소리책을 제작하는 ‘소리를 선물합니다’ 캠페인의 일환으로 진행되었습니다. 캠페인 수익금의 일부는 ‘사랑의 달팽이 재단’에 기부됩니다.\n-\n#성진환 #오디오북 #나조차나를사랑하지못하고"
+	},
+	{
+		"created_at": "Wed Feb 12 05:29:24 +0000 2020",
+		"id": 1227452852416712700,
+		"id_str": "1227464702009192449",
+		"full_text": "성진환이 낭독으로 참여한 여행 에세이 &lt;나조차 나를 사랑하지 못하고&gt; 오디오북을 팟빵과 네이버 오디오클립에서 들으실 수 있어요✨\n\n• 팟빵▶️ https://t.co/MwSAEW0YeX\n• 네이버 오디오클립▶️ https://t.co/i6GveYw90G https://t.co/MY6cDhe09d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MwSAEW0YeX",
+					"expanded_url": "http://bit.ly/2vthTR3",
+					"display_url": "bit.ly/2vthTR3",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/i6GveYw90G",
+					"expanded_url": "http://bit.ly/2HgJWG9",
+					"display_url": "bit.ly/2HgJWG9",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227452844632133600,
+					"id_str": "1227452844632133633",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjJ297XUAEIihl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjJ297XUAEIihl.jpg",
+					"url": "https://t.co/MY6cDhe09d",
+					"display_url": "pic.twitter.com/MY6cDhe09d",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1227452852416712706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227452844632133600,
+					"id_str": "1227452844632133633",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EQjJ297XUAEIihl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQjJ297XUAEIihl.jpg",
+					"url": "https://t.co/MY6cDhe09d",
+					"display_url": "pic.twitter.com/MY6cDhe09d",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1227452852416712706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1778,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성진환이 낭독으로 참여한 여행 에세이 &lt;나조차 나를 사랑하지 못하고&gt; 오디오북을 팟빵과 네이버 오디오클립에서 들으실 수 있어요✨\n\n• 팟빵▶️ https://t.co/MwSAEW0YeX\n• 네이버 오디오클립▶️ https://t.co/i6GveYw90G https://t.co/MY6cDhe09d"
+	},
+	{
 		"created_at": "Wed Feb 12 05:08:38 +0000 2020",
 		"id": 1227459474803302400,
 		"id_str": "1227459474803302402",
