@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 11:29:25 +0000 2020",
+		"id": 1227910287719895000,
+		"id_str": "1227917688351096832",
+		"full_text": "[Live Clip] 레터 플로우 - 참 좋았었는데 (공중전화 Ver. Teaser)\n\n🖇 https://t.co/Vsy0JZBMVj\n🎧 2020.02.17. 6PM Release\n\n✔ 레터 플로우 페이스북: https://t.co/1n1wZBuxa4\n✔ 쇼파르뮤직 페이스북: https://t.co/Sq1ZtZ7N9Y\n\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/RWnewBPliD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Shofarmusic",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"text": "레터플로우",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "참좋았었는데",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "LetterFlow",
+					"indices": [
+						215,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vsy0JZBMVj",
+					"expanded_url": "https://youtu.be/e0JhrbGtbCU",
+					"display_url": "youtu.be/e0JhrbGtbCU",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/1n1wZBuxa4",
+					"expanded_url": "https://bit.ly/2vrIcHt",
+					"display_url": "bit.ly/2vrIcHt",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/Sq1ZtZ7N9Y",
+					"expanded_url": "https://bit.ly/2SEK9Zc",
+					"display_url": "bit.ly/2SEK9Zc",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227875377831280600,
+					"id_str": "1227875377831280642",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpKJowVAAIwwdt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpKJowVAAIwwdt.jpg",
+					"url": "https://t.co/RWnewBPliD",
+					"display_url": "pic.twitter.com/RWnewBPliD",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227910287719895041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227875377831280600,
+					"id_str": "1227875377831280642",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpKJowVAAIwwdt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpKJowVAAIwwdt.jpg",
+					"url": "https://t.co/RWnewBPliD",
+					"display_url": "pic.twitter.com/RWnewBPliD",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227910287719895041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7798,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live Clip] 레터 플로우 - 참 좋았었는데 (공중전화 Ver. Teaser)\n\n🖇 https://t.co/Vsy0JZBMVj\n🎧 2020.02.17. 6PM Release\n\n✔ 레터 플로우 페이스북: https://t.co/1n1wZBuxa4\n✔ 쇼파르뮤직 페이스북: https://t.co/Sq1ZtZ7N9Y\n\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/RWnewBPliD"
+	},
+	{
 		"created_at": "Thu Feb 13 11:09:50 +0000 2020",
 		"id": 1227912761541304300,
 		"id_str": "1227912761541304321",
