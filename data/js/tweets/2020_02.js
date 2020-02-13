@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 13:14:54 +0000 2020",
+		"id": 1227944236848500700,
+		"id_str": "1227944236848500736",
+		"full_text": "#쇼파르뮤직 #Shofar_Music\n[Live Clip] 레터 플로우 - 참 좋았었는데 (흑백포스터 Ver. Teaser)\nhttps://t.co/DYy3GopAXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Shofar_Music",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DYy3GopAXT",
+					"expanded_url": "https://youtu.be/6khurvjXU7E",
+					"display_url": "youtu.be/6khurvjXU7E",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼파르뮤직 #Shofar_Music\n[Live Clip] 레터 플로우 - 참 좋았었는데 (흑백포스터 Ver. Teaser)\nhttps://t.co/DYy3GopAXT"
+	},
+	{
+		"created_at": "Thu Feb 13 12:58:23 +0000 2020",
+		"id": 1227937748809445400,
+		"id_str": "1227940077705342977",
+		"full_text": "목요일 #어벤걸스 는 #우주소녀 #다영 데이😍 오늘 들려줄 사랑맛은 #로맨틱💖💘💝 지금 여러분은 누구(혹은 무엇)때문에 두근두근 설레고 스윗한지 알려주세욤💓 문자 #7117 (정보이용료 100원) #NOW온에어 #WJSN #뽀삐기다린다💕 https://t.co/faZahieGmv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어벤걸스",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "다영",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "로맨틱",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "뽀삐기다린다",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227937736155205600,
+					"id_str": "1227937736155205632",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqC3XnUEAAAwrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqC3XnUEAAAwrZ.jpg",
+					"url": "https://t.co/faZahieGmv",
+					"display_url": "pic.twitter.com/faZahieGmv",
+					"expanded_url": "https://twitter.com/kr_now/status/1227937748809445378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227937736155205600,
+					"id_str": "1227937736155205632",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqC3XnUEAAAwrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqC3XnUEAAAwrZ.jpg",
+					"url": "https://t.co/faZahieGmv",
+					"display_url": "pic.twitter.com/faZahieGmv",
+					"expanded_url": "https://twitter.com/kr_now/status/1227937748809445378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21586,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "목요일 #어벤걸스 는 #우주소녀 #다영 데이😍 오늘 들려줄 사랑맛은 #로맨틱💖💘💝 지금 여러분은 누구(혹은 무엇)때문에 두근두근 설레고 스윗한지 알려주세욤💓 문자 #7117 (정보이용료 100원) #NOW온에어 #WJSN #뽀삐기다린다💕 https://t.co/faZahieGmv"
+	},
+	{
+		"created_at": "Thu Feb 13 12:58:15 +0000 2020",
+		"id": 1227935424745631700,
+		"id_str": "1227940043584569350",
+		"full_text": "#헤이즈일기 생방에서 작사작곡 뚝딱 하는 이런 사랑스러운 사람들🤦🏻‍♀️ 헤이삼 트리오! #헤이즈 #프로듀싱팀623 발렌타인데이를 맞아 즉석고백송 만들어드렸습니다 🍫💕 진짜 꿀같은 날이다~! #저위에올라간호스트_우리꿀호떡이처음 #NOW온에어 https://t.co/CL4HsF1ppP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈일기",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "프로듀싱팀623",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "저위에올라간호스트_우리꿀호떡이처음",
+					"indices": [
+						107,
+						126
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227935413467115500,
+					"id_str": "1227935413467115521",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqAwK7UcAEnF-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqAwK7UcAEnF-L.jpg",
+					"url": "https://t.co/CL4HsF1ppP",
+					"display_url": "pic.twitter.com/CL4HsF1ppP",
+					"expanded_url": "https://twitter.com/kr_now/status/1227935424745631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227935413467115500,
+					"id_str": "1227935413467115521",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqAwK7UcAEnF-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqAwK7UcAEnF-L.jpg",
+					"url": "https://t.co/CL4HsF1ppP",
+					"display_url": "pic.twitter.com/CL4HsF1ppP",
+					"expanded_url": "https://twitter.com/kr_now/status/1227935424745631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "네이버 나우.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21586,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1566358241",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#헤이즈일기 생방에서 작사작곡 뚝딱 하는 이런 사랑스러운 사람들🤦🏻‍♀️ 헤이삼 트리오! #헤이즈 #프로듀싱팀623 발렌타인데이를 맞아 즉석고백송 만들어드렸습니다 🍫💕 진짜 꿀같은 날이다~! #저위에올라간호스트_우리꿀호떡이처음 #NOW온에어 https://t.co/CL4HsF1ppP"
+	},
+	{
 		"created_at": "Thu Feb 13 11:29:25 +0000 2020",
 		"id": 1227910287719895000,
 		"id_str": "1227917688351096832",
