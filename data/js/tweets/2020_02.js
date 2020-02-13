@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 02:04:49 +0000 2020",
+		"id": 1227775603719495700,
+		"id_str": "1227775603719495682",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - 응달\nhttps://t.co/VKrbxnN7y1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKrbxnN7y1",
+					"expanded_url": "https://youtu.be/7YzU-mKaIwQ",
+					"display_url": "youtu.be/7YzU-mKaIwQ",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - 응달\nhttps://t.co/VKrbxnN7y1"
+	},
+	{
+		"created_at": "Thu Feb 13 02:04:48 +0000 2020",
+		"id": 1227775600666038300,
+		"id_str": "1227775600666038272",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - Circle\nhttps://t.co/ZsbeXD2W3D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZsbeXD2W3D",
+					"expanded_url": "https://youtu.be/VM8kWkKxm6Y",
+					"display_url": "youtu.be/VM8kWkKxm6Y",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - Circle\nhttps://t.co/ZsbeXD2W3D"
+	},
+	{
+		"created_at": "Thu Feb 13 02:04:48 +0000 2020",
+		"id": 1227775600569573400,
+		"id_str": "1227775600569573377",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - I+Floor\nhttps://t.co/aeQy3s6rHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aeQy3s6rHo",
+					"expanded_url": "https://youtu.be/my3NCnEGwuk",
+					"display_url": "youtu.be/my3NCnEGwuk",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 351,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] OurR(아월) - I+Floor\nhttps://t.co/aeQy3s6rHo"
+	},
+	{
+		"created_at": "Thu Feb 13 01:29:33 +0000 2020",
+		"id": 1227763749538320400,
+		"id_str": "1227766727540428801",
+		"full_text": "Producer #SOOMANLEE will participate as the keynote speaker of the 'SXSW conference' to talk about the future of the music industry as well as his producing experiences as the representative producer of K-Pop!\n\n#이수만 #SMEntertainment #SXSW #South_by_Southwest #SXSW_Conference",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						211,
+						215
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						216,
+						232
+					]
+				},
+				{
+					"text": "SXSW",
+					"indices": [
+						233,
+						238
+					]
+				},
+				{
+					"text": "South_by_Southwest",
+					"indices": [
+						239,
+						258
+					]
+				},
+				{
+					"text": "SXSW_Conference",
+					"indices": [
+						259,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8125475,
+			"friends_count": 49,
+			"listed_count": 9849,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 348,
+		"favorite_count": 1468,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Producer #SOOMANLEE will participate as the keynote speaker of the 'SXSW conference' to talk about the future of the music industry as well as his producing experiences as the representative producer of K-Pop!\n\n#이수만 #SMEntertainment #SXSW #South_by_Southwest #SXSW_Conference"
+	},
+	{
+		"created_at": "Thu Feb 13 01:29:25 +0000 2020",
+		"id": 1227761728575787000,
+		"id_str": "1227766693344301056",
+		"full_text": "[#윤종신] 이방인 윤종신은 '롱디'중…'월간 윤종신' 2월호 'Long D.' 17일 공개\n&gt; https://t.co/QgQ386QyCm\n\n#2020월간윤종신 #월간윤종신 #2월호 #LongD #롱디 #윤종신 #YoonJongshin #발라드 https://t.co/6ho2sL0doe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "2020월간윤종신",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "2월호",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "LongD",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "롱디",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "YoonJongshin",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"text": "발라드",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgQ386QyCm",
+					"expanded_url": "https://bit.ly/2uHKaTZ",
+					"display_url": "bit.ly/2uHKaTZ",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227761718786326500,
+					"id_str": "1227761718786326528",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQnixz0VAAAU01t.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQnixz0VAAAU01t.png",
+					"url": "https://t.co/6ho2sL0doe",
+					"display_url": "pic.twitter.com/6ho2sL0doe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1227761728575787009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227761718786326500,
+					"id_str": "1227761718786326528",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQnixz0VAAAU01t.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQnixz0VAAAU01t.png",
+					"url": "https://t.co/6ho2sL0doe",
+					"display_url": "pic.twitter.com/6ho2sL0doe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1227761728575787009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 563,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18045,
+			"friends_count": 16,
+			"listed_count": 255,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 이방인 윤종신은 '롱디'중…'월간 윤종신' 2월호 'Long D.' 17일 공개\n&gt; https://t.co/QgQ386QyCm\n\n#2020월간윤종신 #월간윤종신 #2월호 #LongD #롱디 #윤종신 #YoonJongshin #발라드 https://t.co/6ho2sL0doe"
+	},
+	{
 		"created_at": "Wed Feb 12 15:58:15 +0000 2020",
 		"id": 1227608327418343400,
 		"id_str": "1227622954122514432",
@@ -114,7 +893,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
