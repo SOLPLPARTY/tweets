@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 09:29:59 +0000 2020",
+		"id": 1227883786328653800,
+		"id_str": "1227887634720133120",
+		"full_text": "@SHIRTSBOYFRIEND 납득해주셔서 감사드립니다. ^^",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHIRTSBOYFRIEND",
+					"name": "냥주",
+					"id": 1156154803845648400,
+					"id_str": "1156154803845648384",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227880933501522000,
+		"in_reply_to_status_id_str": "1227880933501521920",
+		"in_reply_to_user_id": 1156154803845648400,
+		"in_reply_to_user_id_str": "1156154803845648384",
+		"in_reply_to_screen_name": "SHIRTSBOYFRIEND",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "원디비 싱글 Youth 발매!",
+			"url": "https://t.co/0g7pbn5XW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0g7pbn5XW4",
+							"expanded_url": "https://bit.ly/2NPwD3j",
+							"display_url": "bit.ly/2NPwD3j",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 39,
+			"listed_count": 7,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SHIRTSBOYFRIEND 납득해주셔서 감사드립니다. ^^"
+	},
+	{
+		"created_at": "Thu Feb 13 09:29:56 +0000 2020",
+		"id": 1227880339952898000,
+		"id_str": "1227887621659033600",
+		"full_text": "@SHIRTSBOYFRIEND 저는 인디킹의 병맛력과 음악적 재능, 그리고 (쓸쓸스에 서만 발휘되는) 기획력은 믿지만 행정적인 능력은 믿지 않습니다. 맡겼다가는 도장을 잃어버리거나 그럴 수 았기 때문에 쿠폰은 선장님한테 받으시고 인디킹에게는 웃음만 받아가세요..",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHIRTSBOYFRIEND",
+					"name": "냥주",
+					"id": 1156154803845648400,
+					"id_str": "1156154803845648384",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227879838549074000,
+		"in_reply_to_status_id_str": "1227879838549073921",
+		"in_reply_to_user_id": 1156154803845648400,
+		"in_reply_to_user_id_str": "1156154803845648384",
+		"in_reply_to_screen_name": "SHIRTSBOYFRIEND",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "원디비 싱글 Youth 발매!",
+			"url": "https://t.co/0g7pbn5XW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0g7pbn5XW4",
+							"expanded_url": "https://bit.ly/2NPwD3j",
+							"display_url": "bit.ly/2NPwD3j",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 39,
+			"listed_count": 7,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SHIRTSBOYFRIEND 저는 인디킹의 병맛력과 음악적 재능, 그리고 (쓸쓸스에 서만 발휘되는) 기획력은 믿지만 행정적인 능력은 믿지 않습니다. 맡겼다가는 도장을 잃어버리거나 그럴 수 았기 때문에 쿠폰은 선장님한테 받으시고 인디킹에게는 웃음만 받아가세요.."
+	},
+	{
+		"created_at": "Thu Feb 13 09:29:47 +0000 2020",
+		"id": 1227880089729237000,
+		"id_str": "1227887583121805312",
+		"full_text": "[Live Clip] 레터 플로우 - 참 좋았었는데 (스튜디오Ver. Teaser)\n\n🖇 https://t.co/BlWrXjXlwb\n🎧 2020.02.17. 6PM Release\n\n✔ 레터 플로우 페이스북: https://t.co/1n1wZBuxa4\n✔ 쇼파르뮤직 페이스북:\nhttps://t.co/Sq1ZtZ7N9Y\n\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/yWWef5GN39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "Shofarmusic",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "레터플로우",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "참좋았었는데",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"text": "LetterFlow",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BlWrXjXlwb",
+					"expanded_url": "https://youtu.be/Iqn2qXvzt9g",
+					"display_url": "youtu.be/Iqn2qXvzt9g",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/1n1wZBuxa4",
+					"expanded_url": "https://bit.ly/2vrIcHt",
+					"display_url": "bit.ly/2vrIcHt",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/Sq1ZtZ7N9Y",
+					"expanded_url": "https://bit.ly/2SEK9Zc",
+					"display_url": "bit.ly/2SEK9Zc",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227863324118810600,
+					"id_str": "1227863324118810625",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EQo_MBLVAAEv2oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQo_MBLVAAEv2oA.jpg",
+					"url": "https://t.co/yWWef5GN39",
+					"display_url": "pic.twitter.com/yWWef5GN39",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227880089729236992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227863324118810600,
+					"id_str": "1227863324118810625",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EQo_MBLVAAEv2oA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQo_MBLVAAEv2oA.jpg",
+					"url": "https://t.co/yWWef5GN39",
+					"display_url": "pic.twitter.com/yWWef5GN39",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1227880089729236992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다. 가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기,김지수, 레터플로우, 스무살 소속사. https://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7798,
+			"friends_count": 10,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1444715019",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live Clip] 레터 플로우 - 참 좋았었는데 (스튜디오Ver. Teaser)\n\n🖇 https://t.co/BlWrXjXlwb\n🎧 2020.02.17. 6PM Release\n\n✔ 레터 플로우 페이스북: https://t.co/1n1wZBuxa4\n✔ 쇼파르뮤직 페이스북:\nhttps://t.co/Sq1ZtZ7N9Y\n\n#쇼파르뮤직 #Shofarmusic\n#레터플로우 #참좋았었는데 #LetterFlow https://t.co/yWWef5GN39"
+	},
+	{
+		"created_at": "Thu Feb 13 09:29:39 +0000 2020",
+		"id": 1227879251895935000,
+		"id_str": "1227887549122850816",
+		"full_text": "짤방은 2017년, 제1회 불가마 싸운드 연말 공연에서 찍힌 사진입니다. 누군진 기억 안나는데 아무튼 불가마의 정신 나간 누군가가 만든 짤방입니다. 저는 아닙니다. \n\n#요절복통불가마",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "요절복통불가마",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227879248653766700,
+		"in_reply_to_status_id_str": "1227879248653766656",
+		"in_reply_to_user_id": 1145007465907359700,
+		"in_reply_to_user_id_str": "1145007465907359744",
+		"in_reply_to_screen_name": "bullgamasound",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "원디비 싱글 Youth 발매!",
+			"url": "https://t.co/0g7pbn5XW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0g7pbn5XW4",
+							"expanded_url": "https://bit.ly/2NPwD3j",
+							"display_url": "bit.ly/2NPwD3j",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 39,
+			"listed_count": 7,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "짤방은 2017년, 제1회 불가마 싸운드 연말 공연에서 찍힌 사진입니다. 누군진 기억 안나는데 아무튼 불가마의 정신 나간 누군가가 만든 짤방입니다. 저는 아닙니다. \n\n#요절복통불가마"
+	},
+	{
+		"created_at": "Thu Feb 13 09:29:30 +0000 2020",
+		"id": 1227879248653766700,
+		"id_str": "1227887510795231232",
+		"full_text": "▶️ 쓸쓸스 네스트 나다 쿠폰 발급 안내 ◀️\n\n내일 열릴 쓸쓸스의 네스트 나다 “Spicy Valentine” 공연 쿠폰 발급 안내입니다. 내일 쿠폰 발급 담당자는 교감선장님, 캡틴정 정승구님입니다. 불가마 싸운드 쿠폰을 소지하시고 계시거나 발급을 원하시는 분들은 교감선장님을 찾아주세요. https://t.co/J43donRPUI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227879237836607500,
+					"id_str": "1227879237836607488",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpNqUZUEAAh16J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpNqUZUEAAh16J.jpg",
+					"url": "https://t.co/J43donRPUI",
+					"display_url": "pic.twitter.com/J43donRPUI",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1227879248653766656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227879237836607500,
+					"id_str": "1227879237836607488",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpNqUZUEAAh16J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpNqUZUEAAh16J.jpg",
+					"url": "https://t.co/J43donRPUI",
+					"display_url": "pic.twitter.com/J43donRPUI",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1227879248653766656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227879237853409300,
+					"id_str": "1227879237853409281",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpNqUdUcAEuYT1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpNqUdUcAEuYT1.jpg",
+					"url": "https://t.co/J43donRPUI",
+					"display_url": "pic.twitter.com/J43donRPUI",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1227879248653766656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "원디비 싱글 Youth 발매!",
+			"url": "https://t.co/0g7pbn5XW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0g7pbn5XW4",
+							"expanded_url": "https://bit.ly/2NPwD3j",
+							"display_url": "bit.ly/2NPwD3j",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 39,
+			"listed_count": 7,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▶️ 쓸쓸스 네스트 나다 쿠폰 발급 안내 ◀️\n\n내일 열릴 쓸쓸스의 네스트 나다 “Spicy Valentine” 공연 쿠폰 발급 안내입니다. 내일 쿠폰 발급 담당자는 교감선장님, 캡틴정 정승구님입니다. 불가마 싸운드 쿠폰을 소지하시고 계시거나 발급을 원하시는 분들은 교감선장님을 찾아주세요. https://t.co/J43donRPUI"
+	},
+	{
 		"created_at": "Thu Feb 13 09:16:20 +0000 2020",
 		"id": 1227884197588721700,
 		"id_str": "1227884197588721666",
@@ -772,7 +1545,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
@@ -901,7 +1674,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
