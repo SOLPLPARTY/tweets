@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 14:41:38 +0000 2020",
+		"id": 1227953044903514000,
+		"id_str": "1227966062479761408",
+		"full_text": "we love cake https://t.co/ljyYESf3NH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljyYESf3NH",
+					"expanded_url": "https://twitter.com/pictureplane/status/1227941048149823489",
+					"display_url": "twitter.com/pictureplane/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2679,
+			"friends_count": 550,
+			"listed_count": 24,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227941048149823500,
+		"quoted_status_id_str": "1227941048149823489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ljyYESf3NH",
+			"expanded": "https://twitter.com/pictureplane/status/1227941048149823489",
+			"display": "twitter.com/pictureplane/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 13 13:02:14 +0000 2020",
+			"id": 1227941048149823500,
+			"id_str": "1227941048149823489",
+			"full_text": "I love and respect art and creativity of all kinds but really... what is the point of this. Do people really love cake this much? https://t.co/qG25wlo7gz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qG25wlo7gz",
+						"expanded_url": "https://twitter.com/rossmac212/status/1226206864666394626",
+						"display_url": "twitter.com/rossmac212/sta…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33737369,
+				"id_str": "33737369",
+				"name": "PICTUREPLANE🌙",
+				"screen_name": "pictureplane",
+				"location": "pictureplanes@gmail.com",
+				"description": "https://t.co/frUDQRF6Q2",
+				"url": "https://t.co/wHY56orZLp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wHY56orZLp",
+								"expanded_url": "http://TRAVISEGEDY.COM",
+								"display_url": "TRAVISEGEDY.COM",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/frUDQRF6Q2",
+								"expanded_url": "http://WWW.ALIENBODY.COM",
+								"display_url": "ALIENBODY.COM",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18593,
+				"friends_count": 3078,
+				"listed_count": 425,
+				"created_at": "Tue Apr 21 00:35:27 +0000 2009",
+				"favourites_count": 39488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37055,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216872034288001030/miHW9alx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216872034288001030/miHW9alx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33737369/1580192829",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1226206864666394600,
+			"quoted_status_id_str": "1226206864666394626",
+			"quoted_status_permalink": {
+				"url": "https://t.co/qG25wlo7gz",
+				"expanded": "https://twitter.com/rossmac212/status/1226206864666394626",
+				"display": "twitter.com/rossmac212/sta…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we love cake https://t.co/ljyYESf3NH"
+	},
+	{
 		"created_at": "Thu Feb 13 13:58:14 +0000 2020",
 		"id": 1227940967979745300,
 		"id_str": "1227955141736837120",
@@ -135,7 +370,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "네이버 나우.",
 			"screen_name": "kr_now",
 			"location": "",
-			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어⁣",
+			"description": "어디에도 없었던 새로운 오디오 쇼 #NOW온에어",
 			"url": null,
 			"entities": {
 				"description": {
