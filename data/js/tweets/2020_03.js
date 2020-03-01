@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 16:16:58 +0000 2020",
+		"id": 1234054350344876000,
+		"id_str": "1234150649601773568",
+		"full_text": "[Official]\n\"레시피(Recipe)\" 발매!💫\n\n모노트리와 함께 한 노래 \"레시피\"가 발매되었습니다. 스텔라장은 가창으로 참여했습니다🎵 뮤비에서는 열심히 커피를 저었다는 비하인드가☺️☕️ 즐겁게 들어주세요!\n\n[MV] https://t.co/VmfBod5HGP\n\n#스텔라장 #Stellajang https://t.co/y0YLZ26pap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스텔라장",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "Stellajang",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VmfBod5HGP",
+					"expanded_url": "https://youtu.be/WMunOu6NBr4",
+					"display_url": "youtu.be/WMunOu6NBr4",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234054336847601700,
+					"id_str": "1234054336847601664",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ESA94Y1U4AAxamz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESA94Y1U4AAxamz.jpg",
+					"url": "https://t.co/y0YLZ26pap",
+					"display_url": "pic.twitter.com/y0YLZ26pap",
+					"expanded_url": "https://twitter.com/interstellajang/status/1234054350344876032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234054336847601700,
+					"id_str": "1234054336847601664",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ESA94Y1U4AAxamz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESA94Y1U4AAxamz.jpg",
+					"url": "https://t.co/y0YLZ26pap",
+					"display_url": "pic.twitter.com/y0YLZ26pap",
+					"expanded_url": "https://twitter.com/interstellajang/status/1234054350344876032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1460678490,
+			"id_str": "1460678490",
+			"name": "스텔라장 Stella Jang",
+			"screen_name": "interstellajang",
+			"location": "대한민국",
+			"description": "Official account💙 Stella Jang's IG : @interstellajang",
+			"url": "https://t.co/hwB1hpI2gc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hwB1hpI2gc",
+							"expanded_url": "https://www.youtube.com/stellajangtv",
+							"display_url": "youtube.com/stellajangtv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 863,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Sun May 26 21:40:33 +0000 2013",
+			"favourites_count": 604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191153819305926656/IqjqEU8p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191153819305926656/IqjqEU8p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1460678490/1572828131",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official]\n\"레시피(Recipe)\" 발매!💫\n\n모노트리와 함께 한 노래 \"레시피\"가 발매되었습니다. 스텔라장은 가창으로 참여했습니다🎵 뮤비에서는 열심히 커피를 저었다는 비하인드가☺️☕️ 즐겁게 들어주세요!\n\n[MV] https://t.co/VmfBod5HGP\n\n#스텔라장 #Stellajang https://t.co/y0YLZ26pap"
+	},
+	{
 		"created_at": "Sun Mar 01 14:41:37 +0000 2020",
 		"id": 1234112712176586800,
 		"id_str": "1234126653821014019",
