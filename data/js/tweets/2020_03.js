@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 04:41:37 +0000 2020",
+		"id": 1233960987549556700,
+		"id_str": "1233975658591801344",
+		"full_text": "KT&amp;G 상상마당 시네마 &amp; 논산 아트캠핑 빌리지\n임시 휴관 연장안내💁🏻\n\n• 변경 내용 : 3/1까지 휴관 ➡️ 별도 공지 시까지 휴관\n※ 추후, 코로나19 상황에 따라 공지예정\n\n코로나19로 인한 피해 및 확산 방지를 위한 조치이오니 관람객 여러분의 넓은 이해 부탁드립니다.\n불편을 드려 죄송합니다. https://t.co/siEUabj8Ot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233960978322092000,
+					"id_str": "1233960978322092032",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ER_o-NOU8AAHxpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER_o-NOU8AAHxpa.jpg",
+					"url": "https://t.co/siEUabj8Ot",
+					"display_url": "pic.twitter.com/siEUabj8Ot",
+					"expanded_url": "https://twitter.com/SSmadang/status/1233960987549556736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233960978322092000,
+					"id_str": "1233960978322092032",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ER_o-NOU8AAHxpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER_o-NOU8AAHxpa.jpg",
+					"url": "https://t.co/siEUabj8Ot",
+					"display_url": "pic.twitter.com/siEUabj8Ot",
+					"expanded_url": "https://twitter.com/SSmadang/status/1233960987549556736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18899,
+			"friends_count": 1992,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 시네마 &amp; 논산 아트캠핑 빌리지\n임시 휴관 연장안내💁🏻\n\n• 변경 내용 : 3/1까지 휴관 ➡️ 별도 공지 시까지 휴관\n※ 추후, 코로나19 상황에 따라 공지예정\n\n코로나19로 인한 피해 및 확산 방지를 위한 조치이오니 관람객 여러분의 넓은 이해 부탁드립니다.\n불편을 드려 죄송합니다. https://t.co/siEUabj8Ot"
+	},
+	{
 		"created_at": "Sun Mar 01 03:41:37 +0000 2020",
 		"id": 1233958613237919700,
 		"id_str": "1233960559634153473",
