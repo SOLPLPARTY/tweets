@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 12:41:41 +0000 2020",
+		"id": 1234091200530927600,
+		"id_str": "1234096468413337600",
+		"full_text": "3/3(화)~3/12(목) [3/9(월) 제외]\n\n물품보관함 운영 안내\n평일 ~ 22:15까지\n토요일 ~21:15까지\n일요일 ~20:15까지\nB1 중간층(1관 매표소 앞) 물품보관함을 운영하오니 많은 이용 부탁드립니다! \n(3층 이용불가)\n이용 불편사항 및 문의: 02-742-9637 https://t.co/wzm19oTbhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234091188312916000,
+					"id_str": "1234091188312915968",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBfZbPUwAAyrjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBfZbPUwAAyrjI.jpg",
+					"url": "https://t.co/wzm19oTbhe",
+					"display_url": "pic.twitter.com/wzm19oTbhe",
+					"expanded_url": "https://twitter.com/yes24stage/status/1234091200530927616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234091188312916000,
+					"id_str": "1234091188312915968",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBfZbPUwAAyrjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBfZbPUwAAyrjI.jpg",
+					"url": "https://t.co/wzm19oTbhe",
+					"display_url": "pic.twitter.com/wzm19oTbhe",
+					"expanded_url": "https://twitter.com/yes24stage/status/1234091200530927616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 동숭동 대학로12길 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/O7KKxkPl2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7KKxkPl2c",
+							"expanded_url": "http://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2915,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1552216594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/3(화)~3/12(목) [3/9(월) 제외]\n\n물품보관함 운영 안내\n평일 ~ 22:15까지\n토요일 ~21:15까지\n일요일 ~20:15까지\nB1 중간층(1관 매표소 앞) 물품보관함을 운영하오니 많은 이용 부탁드립니다! \n(3층 이용불가)\n이용 불편사항 및 문의: 02-742-9637 https://t.co/wzm19oTbhe"
+	},
+	{
+		"created_at": "Sun Mar 01 12:41:38 +0000 2020",
+		"id": 1234087115354300400,
+		"id_str": "1234096455289360384",
+		"full_text": "뮤지컬 #빈센트반고흐 \n뮤지컬 #쓰릴미\n~2020.03.01 \n#YES24STAGE\n\n#예스24스테이지 1관,2관은\n3월3일(화)부터 3월7일(토)까지 \n공연장 정기 점검 기간입니다\n\n안전한 설비와 고객 편의를 위해 \n꼼꼼히 점검, 보수하겠습니다!\n\n찾아주신 관객분들과 함께 해주신 모든분들께 감사드립니다! https://t.co/KzceKMDtwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빈센트반고흐",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "쓰릴미",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "YES24STAGE",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "예스24스테이지",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234087087881638000,
+					"id_str": "1234087087881637888",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBbqv8U0AAAisr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBbqv8U0AAAisr.jpg",
+					"url": "https://t.co/KzceKMDtwJ",
+					"display_url": "pic.twitter.com/KzceKMDtwJ",
+					"expanded_url": "https://twitter.com/yes24stage/status/1234087115354300417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 1098,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234087087881638000,
+					"id_str": "1234087087881637888",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ESBbqv8U0AAAisr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESBbqv8U0AAAisr.jpg",
+					"url": "https://t.co/KzceKMDtwJ",
+					"display_url": "pic.twitter.com/KzceKMDtwJ",
+					"expanded_url": "https://twitter.com/yes24stage/status/1234087115354300417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 1098,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 동숭동 대학로12길 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/O7KKxkPl2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7KKxkPl2c",
+							"expanded_url": "http://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2915,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104695602405728256/FQ50_eUl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1552216594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤지컬 #빈센트반고흐 \n뮤지컬 #쓰릴미\n~2020.03.01 \n#YES24STAGE\n\n#예스24스테이지 1관,2관은\n3월3일(화)부터 3월7일(토)까지 \n공연장 정기 점검 기간입니다\n\n안전한 설비와 고객 편의를 위해 \n꼼꼼히 점검, 보수하겠습니다!\n\n찾아주신 관객분들과 함께 해주신 모든분들께 감사드립니다! https://t.co/KzceKMDtwJ"
+	},
+	{
 		"created_at": "Sun Mar 01 12:11:07 +0000 2020",
 		"id": 1234088776084967400,
 		"id_str": "1234088776084967424",
