@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 04:48:36 +0000 2020",
+		"id": 1233403598832144400,
+		"id_str": "1234339803270766592",
+		"full_text": "뉴노멀 𝘕𝘦𝘸 𝘕𝘰𝘳𝘮𝘢𝘭 \n구은정, 이우성, 허니듀, 황예지\n𝟤𝟢𝟤𝟢.𝟤.𝟤𝟪.—𝟤𝟢𝟤𝟢.𝟥.𝟤𝟢.\n⠀\n장소. 오래된 집, 서울시 성북구 성북로 18길 16\n관람시간. 𝟣𝟢:𝟢𝟢—𝟣𝟪:𝟢𝟢, 일요일 및 공휴일 휴무 https://t.co/kxoqBf2r8S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233403587981525000,
+					"id_str": "1233403587981524992",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3uB0ZUwAAmoZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3uB0ZUwAAmoZB.jpg",
+					"url": "https://t.co/kxoqBf2r8S",
+					"display_url": "pic.twitter.com/kxoqBf2r8S",
+					"expanded_url": "https://twitter.com/_wuzu/status/1233403598832144384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233403587981525000,
+					"id_str": "1233403587981524992",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/ER3uB0ZUwAAmoZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER3uB0ZUwAAmoZB.jpg",
+					"url": "https://t.co/kxoqBf2r8S",
+					"display_url": "pic.twitter.com/kxoqBf2r8S",
+					"expanded_url": "https://twitter.com/_wuzu/status/1233403598832144384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1233403075630522400,
+		"in_reply_to_status_id_str": "1233403075630522374",
+		"in_reply_to_user_id": 542499563,
+		"in_reply_to_user_id_str": "542499563",
+		"in_reply_to_screen_name": "_wuzu",
+		"user": {
+			"id": 542499563,
+			"id_str": "542499563",
+			"name": "김해원",
+			"screen_name": "_wuzu",
+			"location": "",
+			"description": "음악가. 김사월X김해원. 셔틀콕, 소셜포비아, 피의 연대기, 살아남은 아이, 움직임의 사전, 윤희에게 kimhaewonmusic@gmail.com",
+			"url": "https://t.co/lNXRSRSm9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lNXRSRSm9j",
+							"expanded_url": "http://naver.me/FfmIfLft",
+							"display_url": "naver.me/FfmIfLft",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641,
+			"friends_count": 355,
+			"listed_count": 13,
+			"created_at": "Sun Apr 01 12:15:08 +0000 2012",
+			"favourites_count": 1063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/542499563/1573719499",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴노멀 𝘕𝘦𝘸 𝘕𝘰𝘳𝘮𝘢𝘭 \n구은정, 이우성, 허니듀, 황예지\n𝟤𝟢𝟤𝟢.𝟤.𝟤𝟪.—𝟤𝟢𝟤𝟢.𝟥.𝟤𝟢.\n⠀\n장소. 오래된 집, 서울시 성북구 성북로 18길 16\n관람시간. 𝟣𝟢:𝟢𝟢—𝟣𝟪:𝟢𝟢, 일요일 및 공휴일 휴무 https://t.co/kxoqBf2r8S"
+	},
+	{
+		"created_at": "Mon Mar 02 04:48:31 +0000 2020",
+		"id": 1233403075630522400,
+		"id_str": "1234339781464616960",
+		"full_text": "황예지 사진가와의 새 작업 소식을 전해드려요.\n구은정, 이우성, 허니듀, 황예지의 전시 뉴노멀 𝘕𝘦𝘸 𝘕𝘰𝘳𝘮𝘢𝘭 입니다.\n저는 황예지 씨의 신작 &lt;Dead-slow&gt;의 사운드를 담당했어요.\n모두 건강하시길, 힘든 시기를 함께 잘 견뎌내길 기원합니다. https://t.co/31oklQwPJ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233402981569060900,
+					"id_str": "1233402981569060864",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1233402981569060864/pu/img/e9XXY2kVauZouDdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1233402981569060864/pu/img/e9XXY2kVauZouDdH.jpg",
+					"url": "https://t.co/31oklQwPJ7",
+					"display_url": "pic.twitter.com/31oklQwPJ7",
+					"expanded_url": "https://twitter.com/_wuzu/status/1233403075630522374/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 984,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233402981569060900,
+					"id_str": "1233402981569060864",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1233402981569060864/pu/img/e9XXY2kVauZouDdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1233402981569060864/pu/img/e9XXY2kVauZouDdH.jpg",
+					"url": "https://t.co/31oklQwPJ7",
+					"display_url": "pic.twitter.com/31oklQwPJ7",
+					"expanded_url": "https://twitter.com/_wuzu/status/1233403075630522374/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 984,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							123,
+							160
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1233402981569060864/pu/vid/320x416/UVk98s_FE7lUDEC3.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1233402981569060864/pu/vid/360x468/QRimT3YflyF6mCwE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1233402981569060864/pu/vid/720x936/kFTatROfuRL2zPb6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1233402981569060864/pu/pl/RZuCDl-BJThfhUsJ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 542499563,
+			"id_str": "542499563",
+			"name": "김해원",
+			"screen_name": "_wuzu",
+			"location": "",
+			"description": "음악가. 김사월X김해원. 셔틀콕, 소셜포비아, 피의 연대기, 살아남은 아이, 움직임의 사전, 윤희에게 kimhaewonmusic@gmail.com",
+			"url": "https://t.co/lNXRSRSm9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lNXRSRSm9j",
+							"expanded_url": "http://naver.me/FfmIfLft",
+							"display_url": "naver.me/FfmIfLft",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641,
+			"friends_count": 355,
+			"listed_count": 13,
+			"created_at": "Sun Apr 01 12:15:08 +0000 2012",
+			"favourites_count": 1063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/542499563/1573719499",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "황예지 사진가와의 새 작업 소식을 전해드려요.\n구은정, 이우성, 허니듀, 황예지의 전시 뉴노멀 𝘕𝘦𝘸 𝘕𝘰𝘳𝘮𝘢𝘭 입니다.\n저는 황예지 씨의 신작 &lt;Dead-slow&gt;의 사운드를 담당했어요.\n모두 건강하시길, 힘든 시기를 함께 잘 견뎌내길 기원합니다. https://t.co/31oklQwPJ7"
+	},
+	{
+		"created_at": "Mon Mar 02 04:41:38 +0000 2020",
+		"id": 1234325487884750800,
+		"id_str": "1234338047732387840",
+		"full_text": "다가오는 금~토요일 진행 예정이었던 3월 팝업숍을 연기하게 되었습니다. \n\n너른 마음으로 양해 부탁드립니다. https://t.co/tT6NkIgt88",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234325473179689000,
+					"id_str": "1234325473179688962",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ESE0emYXYAIJWPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESE0emYXYAIJWPw.jpg",
+					"url": "https://t.co/tT6NkIgt88",
+					"display_url": "pic.twitter.com/tT6NkIgt88",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1234325487884750848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 847,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234325473179689000,
+					"id_str": "1234325473179688962",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ESE0emYXYAIJWPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESE0emYXYAIJWPw.jpg",
+					"url": "https://t.co/tT6NkIgt88",
+					"display_url": "pic.twitter.com/tT6NkIgt88",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1234325487884750848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 847,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229984699688206300,
+		"in_reply_to_status_id_str": "1229984699688206336",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8251,
+			"friends_count": 600,
+			"listed_count": 110,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다가오는 금~토요일 진행 예정이었던 3월 팝업숍을 연기하게 되었습니다. \n\n너른 마음으로 양해 부탁드립니다. https://t.co/tT6NkIgt88"
+	},
+	{
 		"created_at": "Mon Mar 02 04:07:09 +0000 2020",
 		"id": 1234329370120069000,
 		"id_str": "1234329370120069122",
