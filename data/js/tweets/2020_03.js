@@ -1,6 +1,1166 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 05:58:17 +0000 2020",
+		"id": 1234351159625650200,
+		"id_str": "1234357338066341889",
+		"full_text": "[그린메이트 모집공지]\n\n'그린플러그드 서울 2020'을 함께 만들어갈 그린메이트를 모집합니다. 음악과 공연, 페스티벌을 좋아하는 분들은 망설이지 말고 지원해주세요🙌\n\n자세한 내용은 아래 페이지에서 확인!\nhttps://t.co/1rI0iLF8Wg https://t.co/xAMfdr14c4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1rI0iLF8Wg",
+					"expanded_url": "https://www.gpsfestival.com/greenmate-2",
+					"display_url": "gpsfestival.com/greenmate-2",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234349739878932500,
+					"id_str": "1234349739878932481",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFKjG4UYAEyJKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFKjG4UYAEyJKA.jpg",
+					"url": "https://t.co/xAMfdr14c4",
+					"display_url": "pic.twitter.com/xAMfdr14c4",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1234351159625650176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234349739878932500,
+					"id_str": "1234349739878932481",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFKjG4UYAEyJKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFKjG4UYAEyJKA.jpg",
+					"url": "https://t.co/xAMfdr14c4",
+					"display_url": "pic.twitter.com/xAMfdr14c4",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1234351159625650176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12345,
+			"friends_count": 166,
+			"listed_count": 253,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린메이트 모집공지]\n\n'그린플러그드 서울 2020'을 함께 만들어갈 그린메이트를 모집합니다. 음악과 공연, 페스티벌을 좋아하는 분들은 망설이지 말고 지원해주세요🙌\n\n자세한 내용은 아래 페이지에서 확인!\nhttps://t.co/1rI0iLF8Wg https://t.co/xAMfdr14c4"
+	},
+	{
+		"created_at": "Mon Mar 02 05:58:15 +0000 2020",
+		"id": 1234342731494768600,
+		"id_str": "1234357329266696192",
+		"full_text": "twinkle twinkle✨ 밤에도 빛나는 #EDCKorea 로 오세요\ntwinkle twinkle✨ EDC Korea shines in the night!\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/2B5L36dVWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCKorea",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "이디씨코리아",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os9S6h6izZ",
+					"expanded_url": "https://korea.electricdaisycarnival.com/tickets",
+					"display_url": "korea.electricdaisycarnival.com/tickets",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234334211210768400,
+					"id_str": "1234334211210768385",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ESE8bOFUcAEkxc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESE8bOFUcAEkxc5.jpg",
+					"url": "https://t.co/2B5L36dVWN",
+					"display_url": "pic.twitter.com/2B5L36dVWN",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1234342731494768641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234334211210768400,
+					"id_str": "1234334211210768385",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ESE8bOFUcAEkxc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESE8bOFUcAEkxc5.jpg",
+					"url": "https://t.co/2B5L36dVWN",
+					"display_url": "pic.twitter.com/2B5L36dVWN",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1234342731494768641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\nAugust 15+16, 2020 #EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 703,
+			"friends_count": 9,
+			"listed_count": 3,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1578877398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "twinkle twinkle✨ 밤에도 빛나는 #EDCKorea 로 오세요\ntwinkle twinkle✨ EDC Korea shines in the night!\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/2B5L36dVWN"
+	},
+	{
+		"created_at": "Mon Mar 02 05:47:45 +0000 2020",
+		"id": 1234354687857565700,
+		"id_str": "1234354687857565696",
+		"full_text": "#그린플러그드 #Greenplugged \n그린플러그드 서울 2020 - 그린메이트 모집\nhttps://t.co/iZTa7eqD94\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Greenplugged",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iZTa7eqD94",
+					"expanded_url": "http://bit.ly/2VCDv8I",
+					"display_url": "bit.ly/2VCDv8I",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #Greenplugged \n그린플러그드 서울 2020 - 그린메이트 모집\nhttps://t.co/iZTa7eqD94\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Mon Mar 02 05:46:08 +0000 2020",
+		"id": 1234354281408532500,
+		"id_str": "1234354281408532480",
+		"full_text": "#Melon #멜론 #멜론매거진\n코로나19, 그리고 내한 뮤지션들의 행방\nhttps://t.co/vVDLwbLQOA https://t.co/FQjcwrdQAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVDLwbLQOA",
+					"expanded_url": "http://bit.ly/2PyzP4b",
+					"display_url": "bit.ly/2PyzP4b",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234354280372547600,
+					"id_str": "1234354280372547585",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFOrZiWsAESJnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFOrZiWsAESJnF.jpg",
+					"url": "https://t.co/FQjcwrdQAY",
+					"display_url": "pic.twitter.com/FQjcwrdQAY",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1234354281408532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234354280372547600,
+					"id_str": "1234354280372547585",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ESFOrZiWsAESJnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESFOrZiWsAESJnF.jpg",
+					"url": "https://t.co/FQjcwrdQAY",
+					"display_url": "pic.twitter.com/FQjcwrdQAY",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1234354281408532480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n코로나19, 그리고 내한 뮤지션들의 행방\nhttps://t.co/vVDLwbLQOA https://t.co/FQjcwrdQAY"
+	},
+	{
+		"created_at": "Mon Mar 02 05:29:42 +0000 2020",
+		"id": 1234348745715675100,
+		"id_str": "1234350144818208768",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/fQbephUNWA\n-\n[Listen here]\nMelon - https://t.co/YCDiWxPrHu\nGenie - https://t.co/btsoSGoxGG\nBugs - https://t.co/HUTG1LpcPt\nVibe - https://t.co/gHIw7Qyf8a\n\nYouTube - https://t.co/D9Xqy3fwZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQbephUNWA",
+					"expanded_url": "https://bit.ly/2Tdct6f",
+					"display_url": "bit.ly/2Tdct6f",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/YCDiWxPrHu",
+					"expanded_url": "https://bit.ly/3amWska",
+					"display_url": "bit.ly/3amWska",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/btsoSGoxGG",
+					"expanded_url": "https://bit.ly/2PCLChW",
+					"display_url": "bit.ly/2PCLChW",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/HUTG1LpcPt",
+					"expanded_url": "https://bit.ly/2TeLlE7",
+					"display_url": "bit.ly/2TeLlE7",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/gHIw7Qyf8a",
+					"expanded_url": "https://bit.ly/2woYYr5",
+					"display_url": "bit.ly/2woYYr5",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/D9Xqy3fwZJ",
+					"expanded_url": "https://youtu.be/n1a-tKENhdU",
+					"display_url": "youtu.be/n1a-tKENhdU",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234348744469962800,
+		"in_reply_to_status_id_str": "1234348744469962752",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9741,
+			"friends_count": 2969,
+			"listed_count": 272,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/fQbephUNWA\n-\n[Listen here]\nMelon - https://t.co/YCDiWxPrHu\nGenie - https://t.co/btsoSGoxGG\nBugs - https://t.co/HUTG1LpcPt\nVibe - https://t.co/gHIw7Qyf8a\n\nYouTube - https://t.co/D9Xqy3fwZJ"
+	},
+	{
+		"created_at": "Mon Mar 02 05:29:40 +0000 2020",
+		"id": 1234348744469962800,
+		"id_str": "1234350135968174080",
+		"full_text": "🆕 New Release March 2\n-\n💿 Levi Party [당연한 불안 (feat. Hyoni)]\n\n불안을 사는 이들에게 위로의 메세지로 다가갈 ‘레비파티‘의 ‘당연한 불안’ \n키에르케고르의 불안에 대한 질문을 노인과 바다의 산티아고로 답하는 당연한 불안\n나에게 언제나 따뜻한 위로가 되어주는 My Love Joshua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9741,
+			"friends_count": 2969,
+			"listed_count": 272,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🆕 New Release March 2\n-\n💿 Levi Party [당연한 불안 (feat. Hyoni)]\n\n불안을 사는 이들에게 위로의 메세지로 다가갈 ‘레비파티‘의 ‘당연한 불안’ \n키에르케고르의 불안에 대한 질문을 노인과 바다의 산티아고로 답하는 당연한 불안\n나에게 언제나 따뜻한 위로가 되어주는 My Love Joshua"
+	},
+	{
+		"created_at": "Mon Mar 02 05:29:34 +0000 2020",
+		"id": 1234346455449530400,
+		"id_str": "1234350110349373441",
+		"full_text": "[존박]\n더블유 3월호(@wkorea)에서\n새로운 존박의 화보 및 인터뷰를 확인해보세요🔥\nhttps://t.co/qum4wLfeTm\n\n#존박 #JohnPark #3월같은너 #MarchLover",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "3월같은너",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "MarchLover",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wkorea",
+					"name": "W Korea",
+					"id": 78262636,
+					"id_str": "78262636",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qum4wLfeTm",
+					"expanded_url": "http://www.wkorea.com/2020/03/01/%ea%b2%a8%ec%9a%b8-%ea%b7%b8-%ed%9b%84/",
+					"display_url": "wkorea.com/2020/03/01/%ea…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9583,
+			"friends_count": 6,
+			"listed_count": 120,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[존박]\n더블유 3월호(@wkorea)에서\n새로운 존박의 화보 및 인터뷰를 확인해보세요🔥\nhttps://t.co/qum4wLfeTm\n\n#존박 #JohnPark #3월같은너 #MarchLover"
+	},
+	{
 		"created_at": "Mon Mar 02 04:48:36 +0000 2020",
 		"id": 1233403598832144400,
 		"id_str": "1234339803270766592",
