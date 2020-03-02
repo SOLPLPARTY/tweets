@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 18:03:51 +0000 2020",
+		"id": 1234493093337948200,
+		"id_str": "1234539932175044608",
+		"full_text": "https://t.co/sJsUPsHGZN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sJsUPsHGZN",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLtAQOow8zMxC1WAMR06OiAUVcD6fxSEpX",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234459522502025200,
+		"in_reply_to_status_id_str": "1234459522502025216",
+		"in_reply_to_user_id": 542499563,
+		"in_reply_to_user_id_str": "542499563",
+		"in_reply_to_screen_name": "_wuzu",
+		"user": {
+			"id": 542499563,
+			"id_str": "542499563",
+			"name": "김해원",
+			"screen_name": "_wuzu",
+			"location": "",
+			"description": "음악가. 김사월X김해원. 셔틀콕, 소셜포비아, 피의 연대기, 살아남은 아이, 움직임의 사전, 윤희에게 kimhaewonmusic@gmail.com",
+			"url": "https://t.co/lNXRSRSm9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lNXRSRSm9j",
+							"expanded_url": "http://naver.me/FfmIfLft",
+							"display_url": "naver.me/FfmIfLft",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641,
+			"friends_count": 355,
+			"listed_count": 13,
+			"created_at": "Sun Apr 01 12:15:08 +0000 2012",
+			"favourites_count": 1067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194967328049418240/b0nNVBUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/542499563/1573719499",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sJsUPsHGZN"
+	},
+	{
 		"created_at": "Mon Mar 02 16:41:38 +0000 2020",
 		"id": 1234508493064818700,
 		"id_str": "1234519241497497601",
