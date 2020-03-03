@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 01:29:29 +0000 2020",
+		"id": 1234647215156519000,
+		"id_str": "1234652079710441472",
+		"full_text": "▶Date : Aug. 29, 2020(Sat) 7pm / Aug. 30, 2020(Sun) 6pm\n▶Venue : YES24 LIVE HALL\n▶Ticket Price: KRW 77,000 \n▶Ticket : YES24 Booking available after sign up. \n▶ Please visit Private Curve's webpage and social media for details on the show postponement.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234647213361393700,
+		"in_reply_to_status_id_str": "1234647213361393664",
+		"in_reply_to_user_id": 116748623,
+		"in_reply_to_user_id_str": "116748623",
+		"in_reply_to_screen_name": "privatecurve",
+		"user": {
+			"id": 116748623,
+			"id_str": "116748623",
+			"name": "PRIVATE CURVE",
+			"screen_name": "privatecurve",
+			"location": "seoul, korea",
+			"description": "The Beautiful Singer-Songwriter Series / Seoul Jazz Festival / The Artiste etc. | Entertainment",
+			"url": "http://t.co/R4SwAE3Ull",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/R4SwAE3Ull",
+							"expanded_url": "http://www.privatecurve.com",
+							"display_url": "privatecurve.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 76,
+			"listed_count": 93,
+			"created_at": "Tue Feb 23 13:14:51 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E011C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116748623/1583197214",
+			"profile_link_color": "180133",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0E2F5",
+			"profile_text_color": "0D031F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "▶Date : Aug. 29, 2020(Sat) 7pm / Aug. 30, 2020(Sun) 6pm\n▶Venue : YES24 LIVE HALL\n▶Ticket Price: KRW 77,000 \n▶Ticket : YES24 Booking available after sign up. \n▶ Please visit Private Curve's webpage and social media for details on the show postponement."
+	},
+	{
+		"created_at": "Tue Mar 03 01:29:25 +0000 2020",
+		"id": 1234647213361393700,
+		"id_str": "1234652062476046336",
+		"full_text": "▶공연일시: 2020. 08. 29.(토) 오후 7시 / 2020. 08. 30.(일) 오후 6시\n▶공연장소: YES24 라이브홀\n▶티켓가격: 전석 77,000원\n▶예매처: YES24 회원가입 후 예매 가능, 1인 4매 한정\n▶공연연기 관련 안내사항은 프라이빗커브 홈페이지 및 SNS계정을 통해 확인하시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234647210731524000,
+		"in_reply_to_status_id_str": "1234647210731524097",
+		"in_reply_to_user_id": 116748623,
+		"in_reply_to_user_id_str": "116748623",
+		"in_reply_to_screen_name": "privatecurve",
+		"user": {
+			"id": 116748623,
+			"id_str": "116748623",
+			"name": "PRIVATE CURVE",
+			"screen_name": "privatecurve",
+			"location": "seoul, korea",
+			"description": "The Beautiful Singer-Songwriter Series / Seoul Jazz Festival / The Artiste etc. | Entertainment",
+			"url": "http://t.co/R4SwAE3Ull",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/R4SwAE3Ull",
+							"expanded_url": "http://www.privatecurve.com",
+							"display_url": "privatecurve.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 76,
+			"listed_count": 93,
+			"created_at": "Tue Feb 23 13:14:51 +0000 2010",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E011C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3313858868/d1f25bd3f8340fcf06576b8bc44d1a97_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116748623/1583197214",
+			"profile_link_color": "180133",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0E2F5",
+			"profile_text_color": "0D031F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▶공연일시: 2020. 08. 29.(토) 오후 7시 / 2020. 08. 30.(일) 오후 6시\n▶공연장소: YES24 라이브홀\n▶티켓가격: 전석 77,000원\n▶예매처: YES24 회원가입 후 예매 가능, 1인 4매 한정\n▶공연연기 관련 안내사항은 프라이빗커브 홈페이지 및 SNS계정을 통해 확인하시기 바랍니다."
+	},
+	{
 		"created_at": "Tue Mar 03 00:54:49 +0000 2020",
 		"id": 1234641906933518300,
 		"id_str": "1234643358431055873",
