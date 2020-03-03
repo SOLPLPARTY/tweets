@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 00:54:49 +0000 2020",
+		"id": 1234641906933518300,
+		"id_str": "1234643358431055873",
+		"full_text": "답답한 실내생활이 이어지는 요즘.\n그래도 문화생활은 계속되어야 한다!👍   \n\n작품 감상하고 국악도 배우고 공연도 보고~\n집에서 즐길 수 있는 #문화생활 꿀팁 대방출!\n✔️내용 자세히 보기 ▶https://t.co/x6EoEkW8il\n\n#국립중앙박물관 #국립국악원 #아르코 #인문360 #꿀팁 #이뮤지엄 #아카이브 https://t.co/VZA0kSLxf9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화생활",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "국립중앙박물관",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "국립국악원",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "아르코",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "인문360",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "꿀팁",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "이뮤지엄",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "아카이브",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x6EoEkW8il",
+					"expanded_url": "https://bit.ly/3aqzrwn",
+					"display_url": "bit.ly/3aqzrwn",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234641533879505000,
+					"id_str": "1234641533879504896",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ESJT7wPU0AASlOO.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESJT7wPU0AASlOO.png",
+					"url": "https://t.co/VZA0kSLxf9",
+					"display_url": "pic.twitter.com/VZA0kSLxf9",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1234641906933518336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234641533879505000,
+					"id_str": "1234641533879504896",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ESJT7wPU0AASlOO.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESJT7wPU0AASlOO.png",
+					"url": "https://t.co/VZA0kSLxf9",
+					"display_url": "pic.twitter.com/VZA0kSLxf9",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1234641906933518336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132835,
+			"friends_count": 23242,
+			"listed_count": 1083,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1575849834",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "답답한 실내생활이 이어지는 요즘.\n그래도 문화생활은 계속되어야 한다!👍   \n\n작품 감상하고 국악도 배우고 공연도 보고~\n집에서 즐길 수 있는 #문화생활 꿀팁 대방출!\n✔️내용 자세히 보기 ▶https://t.co/x6EoEkW8il\n\n#국립중앙박물관 #국립국악원 #아르코 #인문360 #꿀팁 #이뮤지엄 #아카이브 https://t.co/VZA0kSLxf9"
+	},
+	{
 		"created_at": "Mon Mar 02 18:03:51 +0000 2020",
 		"id": 1234493093337948200,
 		"id_str": "1234539932175044608",
