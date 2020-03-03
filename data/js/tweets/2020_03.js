@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 05:58:15 +0000 2020",
+		"id": 1234705624232947700,
+		"id_str": "1234719716289236998",
+		"full_text": "[GPS2020-그린프렌즈]\n\n에이프릴세컨드는 유니크한 음색과 개성있는 창법으로 사랑받는 팀인데요, 특히 보컬의 중성적인 목소리와 섬세한 표현력이 대중적이면서도 몽환적인 분위기를 더욱 살려줍니다. '흥부자 밴드'의 넘치는 흥을 그린플러그드 서울에서 만나보세요!\n\n🎧https://t.co/7ea78XwPfL https://t.co/YMcrIqW2ak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ea78XwPfL",
+					"expanded_url": "https://bit.ly/2uD7HWn",
+					"display_url": "bit.ly/2uD7HWn",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1234705469043703800,
+					"id_str": "1234705469043703808",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234705469043703808/pu/img/X2VNGM7tMVIciAtz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234705469043703808/pu/img/X2VNGM7tMVIciAtz.jpg",
+					"url": "https://t.co/YMcrIqW2ak",
+					"display_url": "pic.twitter.com/YMcrIqW2ak",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1234705624232947712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234705469043703800,
+					"id_str": "1234705469043703808",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234705469043703808/pu/img/X2VNGM7tMVIciAtz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234705469043703808/pu/img/X2VNGM7tMVIciAtz.jpg",
+					"url": "https://t.co/YMcrIqW2ak",
+					"display_url": "pic.twitter.com/YMcrIqW2ak",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1234705624232947712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234705469043703808/pu/pl/uULDD5_6PAwlP8kY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234705469043703808/pu/vid/480x480/CrYfSBHrAGYkEYpl.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234705469043703808/pu/vid/320x320/xl26dNbMgcIM4LAf.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234705469043703808/pu/vid/720x720/ulWG4pBQ24s-R_BY.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12334,
+			"friends_count": 166,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GPS2020-그린프렌즈]\n\n에이프릴세컨드는 유니크한 음색과 개성있는 창법으로 사랑받는 팀인데요, 특히 보컬의 중성적인 목소리와 섬세한 표현력이 대중적이면서도 몽환적인 분위기를 더욱 살려줍니다. '흥부자 밴드'의 넘치는 흥을 그린플러그드 서울에서 만나보세요!\n\n🎧https://t.co/7ea78XwPfL https://t.co/YMcrIqW2ak"
+	},
+	{
+		"created_at": "Tue Mar 03 05:48:34 +0000 2020",
+		"id": 1234717283538362400,
+		"id_str": "1234717283538362374",
+		"full_text": "#그린플러그드 #Greenplugged \n그린플러그드 서울 2020 그린프렌즈 - 에이프릴세컨드\nhttps://t.co/rgCySt1Nut\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Greenplugged",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rgCySt1Nut",
+					"expanded_url": "http://bit.ly/3ar12gX",
+					"display_url": "bit.ly/3ar12gX",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #Greenplugged \n그린플러그드 서울 2020 그린프렌즈 - 에이프릴세컨드\nhttps://t.co/rgCySt1Nut\n#블로그 #페스티벌 #Festival"
+	},
+	{
 		"created_at": "Tue Mar 03 05:01:33 +0000 2020",
 		"id": 1234705450471391200,
 		"id_str": "1234705450471391233",
