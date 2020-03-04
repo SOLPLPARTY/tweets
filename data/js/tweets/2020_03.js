@@ -1,6 +1,2566 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 05:50:40 +0000 2020",
+		"id": 1235080197180805000,
+		"id_str": "1235080197180805120",
+		"full_text": "#Melon #멜론 #멜론매거진\n7 그리고, 방탄소년단\nhttps://t.co/tiuJcGOouH https://t.co/a3FsmGXN0b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiuJcGOouH",
+					"expanded_url": "http://bit.ly/38nxBLv",
+					"display_url": "bit.ly/38nxBLv",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235080196031537200,
+					"id_str": "1235080196031537152",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPi5QGUYAAqK5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPi5QGUYAAqK5-.jpg",
+					"url": "https://t.co/a3FsmGXN0b",
+					"display_url": "pic.twitter.com/a3FsmGXN0b",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1235080197180805120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235080196031537200,
+					"id_str": "1235080196031537152",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPi5QGUYAAqK5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPi5QGUYAAqK5-.jpg",
+					"url": "https://t.co/a3FsmGXN0b",
+					"display_url": "pic.twitter.com/a3FsmGXN0b",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1235080197180805120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n7 그리고, 방탄소년단\nhttps://t.co/tiuJcGOouH https://t.co/a3FsmGXN0b"
+	},
+	{
+		"created_at": "Wed Mar 04 05:44:12 +0000 2020",
+		"id": 1235045425696010200,
+		"id_str": "1235078571992870913",
+		"full_text": "Melon ▶ https://t.co/mE3zs9br86\nGenie ▶ https://t.co/hrnSjQFvwl\nBugs ▶ https://t.co/5WWZmHiBk4\nFLO ▶ https://t.co/oUlnYkWxIk\nVIBE ▶ https://t.co/rUY1aCWnYr\niTunes/Apple Music ▶ https://t.co/OQ2En2a5zp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mE3zs9br86",
+					"expanded_url": "https://bit.ly/2Iu18J7",
+					"display_url": "bit.ly/2Iu18J7",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/hrnSjQFvwl",
+					"expanded_url": "https://bit.ly/2wmPk8x",
+					"display_url": "bit.ly/2wmPk8x",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/5WWZmHiBk4",
+					"expanded_url": "https://bit.ly/3aua3Wz",
+					"display_url": "bit.ly/3aua3Wz",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/oUlnYkWxIk",
+					"expanded_url": "https://bit.ly/2PHPpdW",
+					"display_url": "bit.ly/2PHPpdW",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/rUY1aCWnYr",
+					"expanded_url": "https://bit.ly/2VGd95J",
+					"display_url": "bit.ly/2VGd95J",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/OQ2En2a5zp",
+					"expanded_url": "https://apple.co/2vATMR1",
+					"display_url": "apple.co/2vATMR1",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235037948078260200,
+		"in_reply_to_status_id_str": "1235037948078260224",
+		"in_reply_to_user_id": 132133313,
+		"in_reply_to_user_id_str": "132133313",
+		"in_reply_to_screen_name": "sunwashere_",
+		"user": {
+			"id": 132133313,
+			"id_str": "132133313",
+			"name": "sunwashere",
+			"screen_name": "sunwashere_",
+			"location": "Seoul",
+			"description": "3rd single - 밤과 낮 (with 이이언)🔻",
+			"url": "https://t.co/ovAPHLpACc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ovAPHLpACc",
+							"expanded_url": "https://youtu.be/fQAPobULvVo",
+							"display_url": "youtu.be/fQAPobULvVo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 188,
+			"listed_count": 21,
+			"created_at": "Mon Apr 12 11:06:26 +0000 2010",
+			"favourites_count": 6636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132133313/1562573189",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/mE3zs9br86\nGenie ▶ https://t.co/hrnSjQFvwl\nBugs ▶ https://t.co/5WWZmHiBk4\nFLO ▶ https://t.co/oUlnYkWxIk\nVIBE ▶ https://t.co/rUY1aCWnYr\niTunes/Apple Music ▶ https://t.co/OQ2En2a5zp"
+	},
+	{
+		"created_at": "Wed Mar 04 05:44:06 +0000 2020",
+		"id": 1235037948078260200,
+		"id_str": "1235078547045109760",
+		"full_text": "sunwashere / 이선\nfeaturing Vocal. 이이언\n⠀\nComposed by sunwashere\nLyrics by sunwashere\nArranged by 이이언, sunwashere\n⠀\nProduced by 이이언\nElectric Piano by 이하윤\nRecorded by 이이언 \nMixed by 이이언 \nMastering by 이이언 \n⠀\nCover Artwork by 류수현\nM/V Animation by 류수현",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235037943791628300,
+		"in_reply_to_status_id_str": "1235037943791628289",
+		"in_reply_to_user_id": 132133313,
+		"in_reply_to_user_id_str": "132133313",
+		"in_reply_to_screen_name": "sunwashere_",
+		"user": {
+			"id": 132133313,
+			"id_str": "132133313",
+			"name": "sunwashere",
+			"screen_name": "sunwashere_",
+			"location": "Seoul",
+			"description": "3rd single - 밤과 낮 (with 이이언)🔻",
+			"url": "https://t.co/ovAPHLpACc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ovAPHLpACc",
+							"expanded_url": "https://youtu.be/fQAPobULvVo",
+							"display_url": "youtu.be/fQAPobULvVo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 188,
+			"listed_count": 21,
+			"created_at": "Mon Apr 12 11:06:26 +0000 2010",
+			"favourites_count": 6636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132133313/1562573189",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "sunwashere / 이선\nfeaturing Vocal. 이이언\n⠀\nComposed by sunwashere\nLyrics by sunwashere\nArranged by 이이언, sunwashere\n⠀\nProduced by 이이언\nElectric Piano by 이하윤\nRecorded by 이이언 \nMixed by 이이언 \nMastering by 이이언 \n⠀\nCover Artwork by 류수현\nM/V Animation by 류수현"
+	},
+	{
+		"created_at": "Wed Mar 04 05:44:00 +0000 2020",
+		"id": 1235037943791628300,
+		"id_str": "1235078518901362689",
+		"full_text": "모든 음원사이트에 발매되었습니다.\n\n밤과 낮 (with.이이언) \n\n우리 아무 말 없이\n스러져가는 해를 보며\n어디로 가나 해 지면은\n\n해 지고 달 뜨면\n어둠 속으로 몸을 숨겨\n언제나 올까 아침은\n\n어둠도 빛도 아닌\n어느 순간에 나즈막히\n영원히 여긴 밤과 낮 https://t.co/v69dwGoLJJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235037779483955200,
+					"id_str": "1235037779483955201",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235037779483955201/pu/img/8qf-b1rrn4sG_QWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235037779483955201/pu/img/8qf-b1rrn4sG_QWb.jpg",
+					"url": "https://t.co/v69dwGoLJJ",
+					"display_url": "pic.twitter.com/v69dwGoLJJ",
+					"expanded_url": "https://twitter.com/sunwashere_/status/1235037943791628289/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235037779483955200,
+					"id_str": "1235037779483955201",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235037779483955201/pu/img/8qf-b1rrn4sG_QWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235037779483955201/pu/img/8qf-b1rrn4sG_QWb.jpg",
+					"url": "https://t.co/v69dwGoLJJ",
+					"display_url": "pic.twitter.com/v69dwGoLJJ",
+					"expanded_url": "https://twitter.com/sunwashere_/status/1235037943791628289/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 138789,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235037779483955201/pu/pl/mNlGffAqtEj1Mhb4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235037779483955201/pu/vid/320x320/LbfQIjfGbLquY88R.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235037779483955201/pu/vid/480x480/FILePtPtMM29x0-N.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132133313,
+			"id_str": "132133313",
+			"name": "sunwashere",
+			"screen_name": "sunwashere_",
+			"location": "Seoul",
+			"description": "3rd single - 밤과 낮 (with 이이언)🔻",
+			"url": "https://t.co/ovAPHLpACc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ovAPHLpACc",
+							"expanded_url": "https://youtu.be/fQAPobULvVo",
+							"display_url": "youtu.be/fQAPobULvVo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 188,
+			"listed_count": 21,
+			"created_at": "Mon Apr 12 11:06:26 +0000 2010",
+			"favourites_count": 6636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148065830250242049/1Y4c9tsv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132133313/1562573189",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 음원사이트에 발매되었습니다.\n\n밤과 낮 (with.이이언) \n\n우리 아무 말 없이\n스러져가는 해를 보며\n어디로 가나 해 지면은\n\n해 지고 달 뜨면\n어둠 속으로 몸을 숨겨\n언제나 올까 아침은\n\n어둠도 빛도 아닌\n어느 순간에 나즈막히\n영원히 여긴 밤과 낮 https://t.co/v69dwGoLJJ"
+	},
+	{
+		"created_at": "Wed Mar 04 05:42:42 +0000 2020",
+		"id": 1235061344786722800,
+		"id_str": "1235078194526441472",
+		"full_text": "재미공작소 세미씨와 진행한 인터뷰가 네이버 뮤직 컨텐츠에 링크되었습니다. &lt;사랑&gt;의 두 번째 타이틀곡 “내 마음은 밀림” 비디오도 공개됐어요:) @studio_zemi \nhttps://t.co/tfCmpzQBvv\nhttps://t.co/Khu7wJLuRh https://t.co/wIyyRmeWVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio_zemi",
+					"name": "재미공작소",
+					"id": 282449618,
+					"id_str": "282449618",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tfCmpzQBvv",
+					"expanded_url": "http://bitly.kr/tEKiCGIt",
+					"display_url": "bitly.kr/tEKiCGIt",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/Khu7wJLuRh",
+					"expanded_url": "https://youtu.be/GG1qrGxBU7o",
+					"display_url": "youtu.be/GG1qrGxBU7o",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235061335236341800,
+					"id_str": "1235061335236341760",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPRvaKU8AAlbvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPRvaKU8AAlbvs.jpg",
+					"url": "https://t.co/wIyyRmeWVH",
+					"display_url": "pic.twitter.com/wIyyRmeWVH",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1235061344786722817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235061335236341800,
+					"id_str": "1235061335236341760",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPRvaKU8AAlbvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPRvaKU8AAlbvs.jpg",
+					"url": "https://t.co/wIyyRmeWVH",
+					"display_url": "pic.twitter.com/wIyyRmeWVH",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1235061344786722817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 963,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 963,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "bigbabydriver@yahoo.com",
+			"description": "3rd full length album Love 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2221,
+			"friends_count": 930,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 11960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미공작소 세미씨와 진행한 인터뷰가 네이버 뮤직 컨텐츠에 링크되었습니다. &lt;사랑&gt;의 두 번째 타이틀곡 “내 마음은 밀림” 비디오도 공개됐어요:) @studio_zemi \nhttps://t.co/tfCmpzQBvv\nhttps://t.co/Khu7wJLuRh https://t.co/wIyyRmeWVH"
+	},
+	{
+		"created_at": "Wed Mar 04 05:42:03 +0000 2020",
+		"id": 1235061792788734000,
+		"id_str": "1235078027580592128",
+		"full_text": "[New Release]\n소울소스 meets 김율희- (Who Knows) The Swallow Knows (Digital/ 7inch)\n\n해외 3월 17일/ 7inch 4월 20일\nBandcamp(Download) https://t.co/iti0CsvHF1\nMelon https://t.co/NNnGRTk8nx\nBugs https://t.co/5HlcSm0c7Y\nGenie https://t.co/QyxFK3XvJY\nNaver https://t.co/5ccwwLaydW https://t.co/iyn8T9uWpw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iti0CsvHF1",
+					"expanded_url": "https://is.gd/XjZfzT",
+					"display_url": "is.gd/XjZfzT",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/NNnGRTk8nx",
+					"expanded_url": "https://is.gd/tm89fA",
+					"display_url": "is.gd/tm89fA",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/5HlcSm0c7Y",
+					"expanded_url": "https://is.gd/CBDhdJ",
+					"display_url": "is.gd/CBDhdJ",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/QyxFK3XvJY",
+					"expanded_url": "https://is.gd/3Rfogt",
+					"display_url": "is.gd/3Rfogt",
+					"indices": [
+						210,
+						233
+					]
+				},
+				{
+					"url": "https://t.co/5ccwwLaydW",
+					"expanded_url": "https://is.gd/SC33hV",
+					"display_url": "is.gd/SC33hV",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235061769527165000,
+					"id_str": "1235061769527164933",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPSIsBVAAUqLNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPSIsBVAAUqLNs.jpg",
+					"url": "https://t.co/iyn8T9uWpw",
+					"display_url": "pic.twitter.com/iyn8T9uWpw",
+					"expanded_url": "https://twitter.com/NST_SoulSauce/status/1235061792788733952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235061769527165000,
+					"id_str": "1235061769527164933",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPSIsBVAAUqLNs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPSIsBVAAUqLNs.jpg",
+					"url": "https://t.co/iyn8T9uWpw",
+					"display_url": "pic.twitter.com/iyn8T9uWpw",
+					"expanded_url": "https://twitter.com/NST_SoulSauce/status/1235061792788733952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705103462069981200,
+			"id_str": "705103462069981184",
+			"name": "소울소스 meets 김율희 / The Soul Sauce meets Kim Yulhee",
+			"screen_name": "NST_SoulSauce",
+			"location": "대한민국 서울",
+			"description": "NST & The Soul Sauce meets Kim Yulhee - Swallow Knows (2020.3.4) 📺 https://t.co/LlndOpKjCo",
+			"url": "https://t.co/yPY1yMfbx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yPY1yMfbx1",
+							"expanded_url": "http://www.nst-thesoulsauce.com",
+							"display_url": "nst-thesoulsauce.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LlndOpKjCo",
+							"expanded_url": "https://youtu.be/FnvGzH3FQMk",
+							"display_url": "youtu.be/FnvGzH3FQMk",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 662,
+			"listed_count": 3,
+			"created_at": "Wed Mar 02 18:52:20 +0000 2016",
+			"favourites_count": 206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114872586863693824/hwiiApc8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114872586863693824/hwiiApc8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705103462069981184/1568054775",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release]\n소울소스 meets 김율희- (Who Knows) The Swallow Knows (Digital/ 7inch)\n\n해외 3월 17일/ 7inch 4월 20일\nBandcamp(Download) https://t.co/iti0CsvHF1\nMelon https://t.co/NNnGRTk8nx\nBugs https://t.co/5HlcSm0c7Y\nGenie https://t.co/QyxFK3XvJY\nNaver https://t.co/5ccwwLaydW https://t.co/iyn8T9uWpw"
+	},
+	{
+		"created_at": "Wed Mar 04 05:41:50 +0000 2020",
+		"id": 1234686319579693000,
+		"id_str": "1235077975126638592",
+		"full_text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 https://t.co/mZjreEpkKl",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bomroya",
+					"name": "봄로야",
+					"id": 147451536,
+					"id_str": "147451536",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "E_hyeji",
+					"name": "이혜지 / E Hyeji",
+					"id": 3108469850,
+					"id_str": "3108469850",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "mi__ong",
+					"name": "음악사람 미옹",
+					"id": 211554576,
+					"id_str": "211554576",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "bassistDJ",
+					"name": "이동준 Lee dongjun",
+					"id": 153318685,
+					"id_str": "153318685",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "kchae",
+					"name": "케이채 (K. Chae)",
+					"id": 166094321,
+					"id_str": "166094321",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "sickboys84",
+					"name": "음악가 김신영 🌵",
+					"id": 770638008,
+					"id_str": "770638008",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mZjreEpkKl",
+					"expanded_url": "https://www.genie.co.kr/magazine/subMain?ctid=1&mgz_seq=8116",
+					"display_url": "genie.co.kr/magazine/subMa…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1234685083698614300,
+		"in_reply_to_status_id_str": "1234685083698614277",
+		"in_reply_to_user_id": 176585662,
+		"in_reply_to_user_id_str": "176585662",
+		"in_reply_to_screen_name": "BigBabyDriver",
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "bigbabydriver@yahoo.com",
+			"description": "3rd full length album Love 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2221,
+			"friends_count": 930,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 11960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 https://t.co/mZjreEpkKl"
+	},
+	{
+		"created_at": "Wed Mar 04 05:41:45 +0000 2020",
+		"id": 1234685083698614300,
+		"id_str": "1235077954884886528",
+		"full_text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 VIBE ▶ https://t.co/w7yNL82R3w",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bomroya",
+					"name": "봄로야",
+					"id": 147451536,
+					"id_str": "147451536",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "E_hyeji",
+					"name": "이혜지 / E Hyeji",
+					"id": 3108469850,
+					"id_str": "3108469850",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "mi__ong",
+					"name": "음악사람 미옹",
+					"id": 211554576,
+					"id_str": "211554576",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "bassistDJ",
+					"name": "이동준 Lee dongjun",
+					"id": 153318685,
+					"id_str": "153318685",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "kchae",
+					"name": "케이채 (K. Chae)",
+					"id": 166094321,
+					"id_str": "166094321",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "sickboys84",
+					"name": "음악가 김신영 🌵",
+					"id": 770638008,
+					"id_str": "770638008",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w7yNL82R3w",
+					"expanded_url": "https://bit.ly/2VDPcfq",
+					"display_url": "bit.ly/2VDPcfq",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1234685058457297000,
+		"in_reply_to_status_id_str": "1234685058457296896",
+		"in_reply_to_user_id": 176585662,
+		"in_reply_to_user_id_str": "176585662",
+		"in_reply_to_screen_name": "BigBabyDriver",
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "bigbabydriver@yahoo.com",
+			"description": "3rd full length album Love 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2221,
+			"friends_count": 930,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 11960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 VIBE ▶ https://t.co/w7yNL82R3w"
+	},
+	{
+		"created_at": "Wed Mar 04 05:41:43 +0000 2020",
+		"id": 1234685058457297000,
+		"id_str": "1235077944000704512",
+		"full_text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 Melon ▶ https://t.co/MBmgvSBn2R\nGenie ▶ https://t.co/hyAUZjCq9W\nBugs ▶ https://t.co/ROx7b1NuCE\nFLO ▶ https://t.co/LeTmSJKx9S",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bomroya",
+					"name": "봄로야",
+					"id": 147451536,
+					"id_str": "147451536",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "E_hyeji",
+					"name": "이혜지 / E Hyeji",
+					"id": 3108469850,
+					"id_str": "3108469850",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "mi__ong",
+					"name": "음악사람 미옹",
+					"id": 211554576,
+					"id_str": "211554576",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "bassistDJ",
+					"name": "이동준 Lee dongjun",
+					"id": 153318685,
+					"id_str": "153318685",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "kchae",
+					"name": "케이채 (K. Chae)",
+					"id": 166094321,
+					"id_str": "166094321",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "sickboys84",
+					"name": "음악가 김신영 🌵",
+					"id": 770638008,
+					"id_str": "770638008",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MBmgvSBn2R",
+					"expanded_url": "https://bit.ly/32I4lxI",
+					"display_url": "bit.ly/32I4lxI",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/hyAUZjCq9W",
+					"expanded_url": "https://bit.ly/2IclYfA",
+					"display_url": "bit.ly/2IclYfA",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/ROx7b1NuCE",
+					"expanded_url": "https://bit.ly/2VBdXZL",
+					"display_url": "bit.ly/2VBdXZL",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/LeTmSJKx9S",
+					"expanded_url": "https://bit.ly/2PGE7Xe",
+					"display_url": "bit.ly/2PGE7Xe",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1234684930791075800,
+		"in_reply_to_status_id_str": "1234684930791075846",
+		"in_reply_to_user_id": 176585662,
+		"in_reply_to_user_id_str": "176585662",
+		"in_reply_to_screen_name": "BigBabyDriver",
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "bigbabydriver@yahoo.com",
+			"description": "3rd full length album Love 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2221,
+			"friends_count": 930,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 11960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 Melon ▶ https://t.co/MBmgvSBn2R\nGenie ▶ https://t.co/hyAUZjCq9W\nBugs ▶ https://t.co/ROx7b1NuCE\nFLO ▶ https://t.co/LeTmSJKx9S"
+	},
+	{
+		"created_at": "Wed Mar 04 05:41:39 +0000 2020",
+		"id": 1234684930791075800,
+		"id_str": "1235077928808886272",
+		"full_text": "정규앨범 &lt;사랑&gt;이 발매되었어요. 기다려주신 분들 고맙습니다:) 함께 고생해준 동료들에게도 감사의 말을 전합니다.\n천천히 들어봐주세요. @bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 https://t.co/AOvVDHpR5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bomroya",
+					"name": "봄로야",
+					"id": 147451536,
+					"id_str": "147451536",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "E_hyeji",
+					"name": "이혜지 / E Hyeji",
+					"id": 3108469850,
+					"id_str": "3108469850",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "mi__ong",
+					"name": "음악사람 미옹",
+					"id": 211554576,
+					"id_str": "211554576",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "bassistDJ",
+					"name": "이동준 Lee dongjun",
+					"id": 153318685,
+					"id_str": "153318685",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "kchae",
+					"name": "케이채 (K. Chae)",
+					"id": 166094321,
+					"id_str": "166094321",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"screen_name": "sickboys84",
+					"name": "음악가 김신영 🌵",
+					"id": 770638008,
+					"id_str": "770638008",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234684922121486300,
+					"id_str": "1234684922121486339",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ESJ7ZSCVAAMBpd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESJ7ZSCVAAMBpd-.jpg",
+					"url": "https://t.co/AOvVDHpR5j",
+					"display_url": "pic.twitter.com/AOvVDHpR5j",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1234684930791075846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234684922121486300,
+					"id_str": "1234684922121486339",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/ESJ7ZSCVAAMBpd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESJ7ZSCVAAMBpd-.jpg",
+					"url": "https://t.co/AOvVDHpR5j",
+					"display_url": "pic.twitter.com/AOvVDHpR5j",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1234684930791075846/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "bigbabydriver@yahoo.com",
+			"description": "3rd full length album Love 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2221,
+			"friends_count": 930,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 11960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정규앨범 &lt;사랑&gt;이 발매되었어요. 기다려주신 분들 고맙습니다:) 함께 고생해준 동료들에게도 감사의 말을 전합니다.\n천천히 들어봐주세요. @bomroya @E_hyeji @mi__ong @bassistDJ @kchae @sickboys84 https://t.co/AOvVDHpR5j"
+	},
+	{
+		"created_at": "Wed Mar 04 05:39:21 +0000 2020",
+		"id": 1235077349722353700,
+		"id_str": "1235077349722353664",
+		"full_text": "#genie #지니 #지니매거진\n힙합 따라잡기 ＃28 - 2010년대 힙합을 대표하는 문제적 인물 4\nhttps://t.co/xDZWb6aC02 https://t.co/qW2Z1ydYWw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xDZWb6aC02",
+					"expanded_url": "http://bit.ly/2TiRRtn",
+					"display_url": "bit.ly/2TiRRtn",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235077348514345000,
+					"id_str": "1235077348514344960",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPgTgRUMAAG8og.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPgTgRUMAAG8og.jpg",
+					"url": "https://t.co/qW2Z1ydYWw",
+					"display_url": "pic.twitter.com/qW2Z1ydYWw",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1235077349722353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235077348514345000,
+					"id_str": "1235077348514344960",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPgTgRUMAAG8og.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPgTgRUMAAG8og.jpg",
+					"url": "https://t.co/qW2Z1ydYWw",
+					"display_url": "pic.twitter.com/qW2Z1ydYWw",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1235077349722353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n힙합 따라잡기 ＃28 - 2010년대 힙합을 대표하는 문제적 인물 4\nhttps://t.co/xDZWb6aC02 https://t.co/qW2Z1ydYWw"
+	},
+	{
+		"created_at": "Wed Mar 04 05:29:33 +0000 2020",
+		"id": 1235073856953442300,
+		"id_str": "1235074882754326533",
+		"full_text": "[Listen here]\nMelon - https://t.co/gOYFIDuQyE\nGenie - https://t.co/l8ieMCpZZX\nBugs - https://t.co/wjh2GMLuit\nVibe - https://t.co/M4zdYvzyEJ\n\nhttps://t.co/xUqH0vguDG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gOYFIDuQyE",
+					"expanded_url": "https://bit.ly/2IkfKuu",
+					"display_url": "bit.ly/2IkfKuu",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/l8ieMCpZZX",
+					"expanded_url": "https://bit.ly/2InwpNr",
+					"display_url": "bit.ly/2InwpNr",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/wjh2GMLuit",
+					"expanded_url": "https://bit.ly/2PFfEl9",
+					"display_url": "bit.ly/2PFfEl9",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/M4zdYvzyEJ",
+					"expanded_url": "https://bit.ly/3ctHiLH",
+					"display_url": "bit.ly/3ctHiLH",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/xUqH0vguDG",
+					"expanded_url": "https://youtu.be/VeKNPcpK4x4",
+					"display_url": "youtu.be/VeKNPcpK4x4",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1235073855594455000,
+		"in_reply_to_status_id_str": "1235073855594455040",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9739,
+			"friends_count": 2969,
+			"listed_count": 273,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/gOYFIDuQyE\nGenie - https://t.co/l8ieMCpZZX\nBugs - https://t.co/wjh2GMLuit\nVibe - https://t.co/M4zdYvzyEJ\n\nhttps://t.co/xUqH0vguDG"
+	},
+	{
+		"created_at": "Wed Mar 04 05:29:25 +0000 2020",
+		"id": 1235073855594455000,
+		"id_str": "1235074848470093826",
+		"full_text": "🆕 New Release March 4\n-\n💿 김도진\n[WAYS]\n\n\"안녕하세요, 김도진입니다.\n저의 스물에게 감사하며,\n남은 제 청춘에게, 모든 청춘에게 하고 싶은 이야기를 담은 곡입니다.\n앞으로의 청춘을 응원하며!\"\n\n​✚ 앨범 자세히 보기: https://t.co/5WGm76jZzM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5WGm76jZzM",
+					"expanded_url": "https://bit.ly/38j4Dwo",
+					"display_url": "bit.ly/38j4Dwo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9739,
+			"friends_count": 2969,
+			"listed_count": 273,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release March 4\n-\n💿 김도진\n[WAYS]\n\n\"안녕하세요, 김도진입니다.\n저의 스물에게 감사하며,\n남은 제 청춘에게, 모든 청춘에게 하고 싶은 이야기를 담은 곡입니다.\n앞으로의 청춘을 응원하며!\"\n\n​✚ 앨범 자세히 보기: https://t.co/5WGm76jZzM"
+	},
+	{
+		"created_at": "Wed Mar 04 05:20:21 +0000 2020",
+		"id": 1235055994381598700,
+		"id_str": "1235072568903647232",
+		"full_text": "빠르고 강력한 드링킹소년소녀합창단의 2020 뉴 싱글 \n[OK, Bye/Start Again] 2020.03.06 정오 발매\n\n1. OK, Bye (01:42)\n2. Start Again (01:38) https://t.co/YgeI7xkgmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235055980087365600,
+					"id_str": "1235055980087365633",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPM3srUUAEo1Yv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPM3srUUAEo1Yv.jpg",
+					"url": "https://t.co/YgeI7xkgmN",
+					"display_url": "pic.twitter.com/YgeI7xkgmN",
+					"expanded_url": "https://twitter.com/BandDBGC/status/1235055994381598720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235055980087365600,
+					"id_str": "1235055980087365633",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPM3srUUAEo1Yv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPM3srUUAEo1Yv.jpg",
+					"url": "https://t.co/YgeI7xkgmN",
+					"display_url": "pic.twitter.com/YgeI7xkgmN",
+					"expanded_url": "https://twitter.com/BandDBGC/status/1235055994381598720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1875,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 944548838731157500,
+			"id_str": "944548838731157506",
+			"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+			"screen_name": "BandDBGC",
+			"location": "대한민국 대구",
+			"description": "“Keep Drinking”releases March8-order at https://t.co/gOyRU9UqRD ⚡️ PR:Nathan@riotactmedia.com MGMT:george@damnably.com electricmuse@naver.com",
+			"url": "https://t.co/zbt8bIAMEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbt8bIAMEc",
+							"expanded_url": "https://damnably.bandcamp.com/album/drinking-boys-and-girls-choir-keep-drinking",
+							"display_url": "damnably.bandcamp.com/album/drinking…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gOyRU9UqRD",
+							"expanded_url": "https://bit.ly/2QDOvBm",
+							"display_url": "bit.ly/2QDOvBm",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 573,
+			"listed_count": 12,
+			"created_at": "Sat Dec 23 12:42:46 +0000 2017",
+			"favourites_count": 2552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944548838731157506/1558774342",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르고 강력한 드링킹소년소녀합창단의 2020 뉴 싱글 \n[OK, Bye/Start Again] 2020.03.06 정오 발매\n\n1. OK, Bye (01:42)\n2. Start Again (01:38) https://t.co/YgeI7xkgmN"
+	},
+	{
 		"created_at": "Wed Mar 04 04:29:33 +0000 2020",
 		"id": 1235058008679309300,
 		"id_str": "1235059783062839297",
