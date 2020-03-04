@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 11:41:38 +0000 2020",
+		"id": 1235160032695599000,
+		"id_str": "1235168519404367872",
+		"full_text": "[#씬디매거진 3월호]\n⠀\n3월호 씬디매거진의 표지모델은 유어썸머의 김사월님입니다👏🏻 김사월님의 인터뷰와 다양한 소식이 담긴 씬디매거진 3월호는 씬디 티켓라운지에서 만나보실 수 있습니다😘\n\n아래 블로그 링크에서 원본 이미지 파일을 확인하실 수 있습니다.\n➡️https://t.co/d9fzjuJKuC https://t.co/Kjtd39r1jk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디매거진",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d9fzjuJKuC",
+					"expanded_url": "http://www.c11.kr/dpht",
+					"display_url": "c11.kr/dpht",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235158302364807200,
+					"id_str": "1235158302364807169",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ESQp7o3UMAEuVd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESQp7o3UMAEuVd_.jpg",
+					"url": "https://t.co/Kjtd39r1jk",
+					"display_url": "pic.twitter.com/Kjtd39r1jk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1235160032695599104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235158302364807200,
+					"id_str": "1235158302364807169",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ESQp7o3UMAEuVd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESQp7o3UMAEuVd_.jpg",
+					"url": "https://t.co/Kjtd39r1jk",
+					"display_url": "pic.twitter.com/Kjtd39r1jk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1235160032695599104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235158313152610300,
+					"id_str": "1235158313152610305",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ESQp8RDVAAEYBxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESQp8RDVAAEYBxu.jpg",
+					"url": "https://t.co/Kjtd39r1jk",
+					"display_url": "pic.twitter.com/Kjtd39r1jk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1235160032695599104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235158362699862000,
+					"id_str": "1235158362699862024",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ESQp_JoUEAgAOgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESQp_JoUEAgAOgL.jpg",
+					"url": "https://t.co/Kjtd39r1jk",
+					"display_url": "pic.twitter.com/Kjtd39r1jk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1235160032695599104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235158362708258800,
+					"id_str": "1235158362708258816",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ESQp_JqUMAAtB5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESQp_JqUMAAtB5o.jpg",
+					"url": "https://t.co/Kjtd39r1jk",
+					"display_url": "pic.twitter.com/Kjtd39r1jk",
+					"expanded_url": "https://twitter.com/xindieticket/status/1235160032695599104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2882,
+			"friends_count": 2761,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디매거진 3월호]\n⠀\n3월호 씬디매거진의 표지모델은 유어썸머의 김사월님입니다👏🏻 김사월님의 인터뷰와 다양한 소식이 담긴 씬디매거진 3월호는 씬디 티켓라운지에서 만나보실 수 있습니다😘\n\n아래 블로그 링크에서 원본 이미지 파일을 확인하실 수 있습니다.\n➡️https://t.co/d9fzjuJKuC https://t.co/Kjtd39r1jk"
+	},
+	{
 		"created_at": "Wed Mar 04 11:07:12 +0000 2020",
 		"id": 1235159857109618700,
 		"id_str": "1235159857109618688",
