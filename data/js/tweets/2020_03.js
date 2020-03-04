@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 03:01:03 +0000 2020",
+		"id": 1235037510402814000,
+		"id_str": "1235037510402813952",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Mar 4) https://t.co/EuWjvaV3E0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EuWjvaV3E0",
+					"expanded_url": "https://nzzl.us/48s0J8q",
+					"display_url": "nzzl.us/48s0J8q",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Mar 4) https://t.co/EuWjvaV3E0"
+	},
+	{
+		"created_at": "Wed Mar 04 02:29:36 +0000 2020",
+		"id": 1235028943087865900,
+		"id_str": "1235029597634232320",
+		"full_text": "류희천 Rhizome(리좀) Part 1. Articulation (teaser)\nrelease 2020. 03. 05(Thu.) PM 12 https://t.co/0Ddspa0jKx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235028664208601000,
+					"id_str": "1235028664208601089",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235028664208601089/pu/img/2D3RdpLcLDnWs41Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235028664208601089/pu/img/2D3RdpLcLDnWs41Y.jpg",
+					"url": "https://t.co/0Ddspa0jKx",
+					"display_url": "pic.twitter.com/0Ddspa0jKx",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1235028943087865857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235028664208601000,
+					"id_str": "1235028664208601089",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235028664208601089/pu/img/2D3RdpLcLDnWs41Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235028664208601089/pu/img/2D3RdpLcLDnWs41Y.jpg",
+					"url": "https://t.co/0Ddspa0jKx",
+					"display_url": "pic.twitter.com/0Ddspa0jKx",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1235028943087865857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22489,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235028664208601089/pu/vid/1280x720/V-IGG_j5qVRUMiAR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235028664208601089/pu/pl/KxSm2uMS4sLphtgT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235028664208601089/pu/vid/640x360/ALmzoPR9C0yIjz2q.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235028664208601089/pu/vid/480x270/AaOQvijHxo3v-xoc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2177785068,
+			"id_str": "2177785068",
+			"name": "모던보이엔터테인먼트",
+			"screen_name": "m_boyrecord",
+			"location": "",
+			"description": "소속아티스트 몽니, 고고보이스, 숨의숲, 윤기타, 빨간의자, 로썸 / 뮤지컬배우 김신의",
+			"url": "https://t.co/wzug4Je0hj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wzug4Je0hj",
+							"expanded_url": "http://modernboyent.com",
+							"display_url": "modernboyent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1327,
+			"friends_count": 1382,
+			"listed_count": 10,
+			"created_at": "Wed Nov 06 10:06:17 +0000 2013",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177785068/1561506274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "류희천 Rhizome(리좀) Part 1. Articulation (teaser)\nrelease 2020. 03. 05(Thu.) PM 12 https://t.co/0Ddspa0jKx"
+	},
+	{
+		"created_at": "Wed Mar 04 02:29:33 +0000 2020",
+		"id": 1235024963335151600,
+		"id_str": "1235029584287916035",
+		"full_text": "[New Single D-DAY]\n\n네이버 NOW. &lt;6시 5분전&gt;\n존박의 신곡 ‘3월 같은 너’ 최초 공개 및 발매의 순간을 함께! 오늘 오후 5시 55분부터 네이버앱을 통해 생방송으로 진행됩니다📻\n⠀⠀\n#존박 #JohnPark #3월같은너 #MarchLover https://t.co/J144p1E3Bk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						125,
+						134
+					]
+				},
+				{
+					"text": "3월같은너",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "MarchLover",
+					"indices": [
+						142,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235024955831505000,
+					"id_str": "1235024955831504896",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ESOwp2UUUAAcgKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESOwp2UUUAAcgKe.jpg",
+					"url": "https://t.co/J144p1E3Bk",
+					"display_url": "pic.twitter.com/J144p1E3Bk",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1235024963335151617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1060,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1060,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235024955831505000,
+					"id_str": "1235024955831504896",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ESOwp2UUUAAcgKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESOwp2UUUAAcgKe.jpg",
+					"url": "https://t.co/J144p1E3Bk",
+					"display_url": "pic.twitter.com/J144p1E3Bk",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1235024963335151617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1060,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1060,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9580,
+			"friends_count": 6,
+			"listed_count": 120,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Single D-DAY]\n\n네이버 NOW. &lt;6시 5분전&gt;\n존박의 신곡 ‘3월 같은 너’ 최초 공개 및 발매의 순간을 함께! 오늘 오후 5시 55분부터 네이버앱을 통해 생방송으로 진행됩니다📻\n⠀⠀\n#존박 #JohnPark #3월같은너 #MarchLover https://t.co/J144p1E3Bk"
+	},
+	{
 		"created_at": "Tue Mar 03 16:29:25 +0000 2020",
 		"id": 1234868777352777700,
 		"id_str": "1234878555546361858",
