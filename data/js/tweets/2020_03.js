@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 04:29:33 +0000 2020",
+		"id": 1235058008679309300,
+		"id_str": "1235059783062839297",
+		"full_text": "빠르고 강력한 드링킹소년소녀합창단의 2020 뉴 싱글 \n[OK, Bye/Start Again] 2020.03.06 정오 발매\n\n1. OK, Bye (01:42)\n2. Start Again (01:38) https://t.co/poMt3IVgrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235057992388579300,
+					"id_str": "1235057992388579329",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPOs1FUEAERIoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPOs1FUEAERIoD.jpg",
+					"url": "https://t.co/poMt3IVgrc",
+					"display_url": "pic.twitter.com/poMt3IVgrc",
+					"expanded_url": "https://twitter.com/electric_muse/status/1235058008679309312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235057992388579300,
+					"id_str": "1235057992388579329",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ESPOs1FUEAERIoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESPOs1FUEAERIoD.jpg",
+					"url": "https://t.co/poMt3IVgrc",
+					"display_url": "pic.twitter.com/poMt3IVgrc",
+					"expanded_url": "https://twitter.com/electric_muse/status/1235058008679309312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3488,
+			"friends_count": 1332,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르고 강력한 드링킹소년소녀합창단의 2020 뉴 싱글 \n[OK, Bye/Start Again] 2020.03.06 정오 발매\n\n1. OK, Bye (01:42)\n2. Start Again (01:38) https://t.co/poMt3IVgrc"
+	},
+	{
 		"created_at": "Wed Mar 04 03:44:42 +0000 2020",
 		"id": 1235048497180631000,
 		"id_str": "1235048497180631041",
