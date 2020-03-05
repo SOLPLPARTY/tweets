@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 04:29:36 +0000 2020",
+		"id": 1235420762963492900,
+		"id_str": "1235422183121473536",
+		"full_text": "[HAPPY SOL DAY] 오늘은 솔루션스 - 박솔 님의 생일입니다! 함께 축하해주세요 🍰❤️ https://t.co/teICXY3M71",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235420687759593500,
+					"id_str": "1235420687759593472",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUYkeoUUAAzFBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUYkeoUUAAzFBv.jpg",
+					"url": "https://t.co/teICXY3M71",
+					"display_url": "pic.twitter.com/teICXY3M71",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235420762963492873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235420687759593500,
+					"id_str": "1235420687759593472",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUYkeoUUAAzFBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUYkeoUUAAzFBv.jpg",
+					"url": "https://t.co/teICXY3M71",
+					"display_url": "pic.twitter.com/teICXY3M71",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235420762963492873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13499,
+			"friends_count": 2460,
+			"listed_count": 295,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[HAPPY SOL DAY] 오늘은 솔루션스 - 박솔 님의 생일입니다! 함께 축하해주세요 🍰❤️ https://t.co/teICXY3M71"
+	},
+	{
+		"created_at": "Thu Mar 05 04:29:28 +0000 2020",
+		"id": 1235418790529101800,
+		"id_str": "1235422149072084992",
+		"full_text": "'Motte' has turned her new single \"ELEVATOR\" into ASMR for listeners who suffer from insomnia.\n[Motte's ASMR] 'ELEVATOR' (Gentle rain sound + Voice track Only)\n ▶ \nhttps://t.co/ggJypLlmcX\n-\n음원듣기\nMelon ▶ https://t.co/aVCII3nTJE\nGenie ▶ https://t.co/AXoOvkoY1Q https://t.co/BUbSQy7PPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ggJypLlmcX",
+					"expanded_url": "https://youtu.be/4NDbNiBlxfY",
+					"display_url": "youtu.be/4NDbNiBlxfY",
+					"indices": [
+						164,
+						187
+					]
+				},
+				{
+					"url": "https://t.co/aVCII3nTJE",
+					"expanded_url": "https://bit.ly/2HOqi4z",
+					"display_url": "bit.ly/2HOqi4z",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"url": "https://t.co/AXoOvkoY1Q",
+					"expanded_url": "https://bit.ly/2upMXkP",
+					"display_url": "bit.ly/2upMXkP",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235417626949513200,
+					"id_str": "1235417626949513216",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUVyUOU8AA1NnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUVyUOU8AA1NnO.jpg",
+					"url": "https://t.co/BUbSQy7PPo",
+					"display_url": "pic.twitter.com/BUbSQy7PPo",
+					"expanded_url": "https://twitter.com/ruby_records/status/1235418790529101824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1842,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235417626949513200,
+					"id_str": "1235417626949513216",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/ESUVyUOU8AA1NnO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESUVyUOU8AA1NnO.jpg",
+					"url": "https://t.co/BUbSQy7PPo",
+					"display_url": "pic.twitter.com/BUbSQy7PPo",
+					"expanded_url": "https://twitter.com/ruby_records/status/1235418790529101824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1842,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은음악 찾아요, 제보는 rubyrecords@rubyrecord.com\n#루비레코드 #인천여관X루비살롱 #루비스테이제주 #사운드바운드 #단란한쫑파티 #레이블픽 #모트 #랜드오브피스 #오리엔탈쇼커스 #레인보우노트",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8171,
+			"friends_count": 8819,
+			"listed_count": 226,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Motte' has turned her new single \"ELEVATOR\" into ASMR for listeners who suffer from insomnia.\n[Motte's ASMR] 'ELEVATOR' (Gentle rain sound + Voice track Only)\n ▶ \nhttps://t.co/ggJypLlmcX\n-\n음원듣기\nMelon ▶ https://t.co/aVCII3nTJE\nGenie ▶ https://t.co/AXoOvkoY1Q https://t.co/BUbSQy7PPo"
+	},
+	{
+		"created_at": "Thu Mar 05 04:29:24 +0000 2020",
+		"id": 1235417133560942600,
+		"id_str": "1235422136023556096",
+		"full_text": "Drinking Boys And Girls Choir - [OK, Bye/Start Again]\n**Coming Out Tomorrow!!!\n\n\"...2020년 봄을 맞이해 발표하는 [OK, Bye/Start Again]은 지나온 시간에 안녕하고 새로운 시작을 다짐하는 싱글이다. BPM 200 이하는 취급하지 않는 드링킹소년소녀합창단의 짧고 간결한, 그들다운 인사이다....\" https://t.co/7ebDMc907p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235416789426696200,
+					"id_str": "1235416789426696193",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235416789426696193/pu/img/xG1RBI_2Wtm5f3Po.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235416789426696193/pu/img/xG1RBI_2Wtm5f3Po.jpg",
+					"url": "https://t.co/7ebDMc907p",
+					"display_url": "pic.twitter.com/7ebDMc907p",
+					"expanded_url": "https://twitter.com/electric_muse/status/1235417133560942592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235416789426696200,
+					"id_str": "1235416789426696193",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235416789426696193/pu/img/xG1RBI_2Wtm5f3Po.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235416789426696193/pu/img/xG1RBI_2Wtm5f3Po.jpg",
+					"url": "https://t.co/7ebDMc907p",
+					"display_url": "pic.twitter.com/7ebDMc907p",
+					"expanded_url": "https://twitter.com/electric_muse/status/1235417133560942592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235416789426696193/pu/vid/480x270/2ON6g6SpeN-RG-al.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235416789426696193/pu/pl/-SQIc5m_dirpMrQr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235416789426696193/pu/vid/1280x720/py_j97IKuES-mLom.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235416789426696193/pu/vid/640x360/mDnZ5QlZ0uu1_sp4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3487,
+			"friends_count": 1332,
+			"listed_count": 123,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895149144909729792/0y_CTuqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Drinking Boys And Girls Choir - [OK, Bye/Start Again]\n**Coming Out Tomorrow!!!\n\n\"...2020년 봄을 맞이해 발표하는 [OK, Bye/Start Again]은 지나온 시간에 안녕하고 새로운 시작을 다짐하는 싱글이다. BPM 200 이하는 취급하지 않는 드링킹소년소녀합창단의 짧고 간결한, 그들다운 인사이다....\" https://t.co/7ebDMc907p"
+	},
+	{
 		"created_at": "Thu Mar 05 03:50:33 +0000 2020",
 		"id": 1235412357305831400,
 		"id_str": "1235412357305831424",
