@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 16:29:24 +0000 2020",
+		"id": 1235592753469247500,
+		"id_str": "1235603329868345345",
+		"full_text": "@zzi__tol 성진이랑 앨범 작업 하느라 하루 종일 트위터를 못 봤습니다.... https://t.co/vY6zVUViZD",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zzi__tol",
+					"name": "지톨🐛",
+					"id": 1165640177693315000,
+					"id_str": "1165640177693315073",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235592744048840700,
+					"id_str": "1235592744048840706",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESW1DeQU0AIyOA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESW1DeQU0AIyOA7.jpg",
+					"url": "https://t.co/vY6zVUViZD",
+					"display_url": "pic.twitter.com/vY6zVUViZD",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1235592753469247489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235592744048840700,
+					"id_str": "1235592744048840706",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESW1DeQU0AIyOA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESW1DeQU0AIyOA7.jpg",
+					"url": "https://t.co/vY6zVUViZD",
+					"display_url": "pic.twitter.com/vY6zVUViZD",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1235592753469247489/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 210,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							35
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESW1DeQU0AIyOA7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235509796620488700,
+		"in_reply_to_status_id_str": "1235509796620488704",
+		"in_reply_to_user_id": 1165640177693315000,
+		"in_reply_to_user_id_str": "1165640177693315073",
+		"in_reply_to_screen_name": "zzi__tol",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@zzi__tol 성진이랑 앨범 작업 하느라 하루 종일 트위터를 못 봤습니다.... https://t.co/vY6zVUViZD"
+	},
+	{
 		"created_at": "Thu Mar 05 13:29:25 +0000 2020",
 		"id": 1235545661598134300,
 		"id_str": "1235558033700216833",
