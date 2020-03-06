@@ -1,6 +1,792 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 09:16:55 +0000 2020",
+		"id": 1235856876429926400,
+		"id_str": "1235856876429926400",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n자막 by HIPHOPLE | H.E.R., YG - Slide\nhttps://t.co/RDd3uhYjW1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RDd3uhYjW1",
+					"expanded_url": "https://youtu.be/1PDaNe-tK9g",
+					"display_url": "youtu.be/1PDaNe-tK9g",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n자막 by HIPHOPLE | H.E.R., YG - Slide\nhttps://t.co/RDd3uhYjW1"
+	},
+	{
+		"created_at": "Fri Mar 06 09:12:14 +0000 2020",
+		"id": 1235855700925923300,
+		"id_str": "1235855700925923329",
+		"full_text": "#LISTEN by #MYSTIC\n핱시 과몰입하다 여기까지 온 사람?｜하트시그널 BGM｜연애세포 깨우는 달달한 음악\nhttps://t.co/QN8NNnX6CU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISTEN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QN8NNnX6CU",
+					"expanded_url": "https://youtu.be/LZd33h3IaHk",
+					"display_url": "youtu.be/LZd33h3IaHk",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LISTEN by #MYSTIC\n핱시 과몰입하다 여기까지 온 사람?｜하트시그널 BGM｜연애세포 깨우는 달달한 음악\nhttps://t.co/QN8NNnX6CU"
+	},
+	{
+		"created_at": "Fri Mar 06 09:11:16 +0000 2020",
+		"id": 1235855455127134200,
+		"id_str": "1235855455127134208",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 영웨이브 (Yung Wave) - HIKOOKI / Official Music Video\nhttps://t.co/jzi6p92AGi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jzi6p92AGi",
+					"expanded_url": "https://youtu.be/GajNkYfoJv0",
+					"display_url": "youtu.be/GajNkYfoJv0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 영웨이브 (Yung Wave) - HIKOOKI / Official Music Video\nhttps://t.co/jzi6p92AGi"
+	},
+	{
+		"created_at": "Fri Mar 06 08:58:59 +0000 2020",
+		"id": 1235840424004046800,
+		"id_str": "1235852363828584449",
+		"full_text": "DPR LIVE 본인등판 오셨다! 존버는 승리했다! | DPR LIVE(디피알 라이브)_Legacy(레거시)  | 본인등판 | L... https://t.co/ueQKlUBwJi - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ueQKlUBwJi",
+					"expanded_url": "https://youtu.be/VVfByhmbC38",
+					"display_url": "youtu.be/VVfByhmbC38",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226852476,
+			"id_str": "226852476",
+			"name": "권석정",
+			"screen_name": "moribe2",
+			"location": "",
+			"description": "음악 밖에 모르는 바보",
+			"url": "https://t.co/IHQEDJtCPn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHQEDJtCPn",
+							"expanded_url": "http://www.facebook.com/#!/profile.php?id=100002083120123&sk=wall",
+							"display_url": "facebook.com/#!/profile.php…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1288,
+			"friends_count": 882,
+			"listed_count": 19,
+			"created_at": "Wed Dec 15 07:15:29 +0000 2010",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2157966361/untitled_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2157966361/untitled_normal.JPG",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DPR LIVE 본인등판 오셨다! 존버는 승리했다! | DPR LIVE(디피알 라이브)_Legacy(레거시)  | 본인등판 | L... https://t.co/ueQKlUBwJi - @YouTube"
+	},
+	{
+		"created_at": "Fri Mar 06 08:55:33 +0000 2020",
+		"id": 1235768249939300400,
+		"id_str": "1235851501412601858",
+		"full_text": "멜론 https://t.co/PLkuCSQFkk\n지니 https://t.co/7ktv2wUwv5\n플로 https://t.co/oRsujPIvTn\n벅스 https://t.co/Ioj8qtUBUb\n바이브 https://t.co/5MQ5CQYdis\n애플 https://t.co/p47PvkwEdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PLkuCSQFkk",
+					"expanded_url": "https://bit.ly/2IkvL3z",
+					"display_url": "bit.ly/2IkvL3z",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/7ktv2wUwv5",
+					"expanded_url": "https://bit.ly/39vp4aS",
+					"display_url": "bit.ly/39vp4aS",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/oRsujPIvTn",
+					"expanded_url": "https://bit.ly/2uW9XYL",
+					"display_url": "bit.ly/2uW9XYL",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/Ioj8qtUBUb",
+					"expanded_url": "https://bit.ly/2TK6lkT",
+					"display_url": "bit.ly/2TK6lkT",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/5MQ5CQYdis",
+					"expanded_url": "https://bit.ly/3avJnF1",
+					"display_url": "bit.ly/3avJnF1",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/p47PvkwEdG",
+					"expanded_url": "https://apple.co/2PQZCVw",
+					"display_url": "apple.co/2PQZCVw",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235768247548604400,
+		"in_reply_to_status_id_str": "1235768247548604419",
+		"in_reply_to_user_id": 944548838731157500,
+		"in_reply_to_user_id_str": "944548838731157506",
+		"in_reply_to_screen_name": "BandDBGC",
+		"user": {
+			"id": 944548838731157500,
+			"id_str": "944548838731157506",
+			"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+			"screen_name": "BandDBGC",
+			"location": "대한민국 대구",
+			"description": "“Keep Drinking”releases March8-order at https://t.co/gOyRU9UqRD ⚡️ PR:Nathan@riotactmedia.com MGMT:george@damnably.com electricmuse@naver.com",
+			"url": "https://t.co/zbt8bIAMEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbt8bIAMEc",
+							"expanded_url": "https://damnably.bandcamp.com/album/drinking-boys-and-girls-choir-keep-drinking",
+							"display_url": "damnably.bandcamp.com/album/drinking…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gOyRU9UqRD",
+							"expanded_url": "https://bit.ly/2QDOvBm",
+							"display_url": "bit.ly/2QDOvBm",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 653,
+			"friends_count": 573,
+			"listed_count": 12,
+			"created_at": "Sat Dec 23 12:42:46 +0000 2017",
+			"favourites_count": 2585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944548838731157506/1558774342",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/PLkuCSQFkk\n지니 https://t.co/7ktv2wUwv5\n플로 https://t.co/oRsujPIvTn\n벅스 https://t.co/Ioj8qtUBUb\n바이브 https://t.co/5MQ5CQYdis\n애플 https://t.co/p47PvkwEdG"
+	},
+	{
+		"created_at": "Fri Mar 06 08:55:29 +0000 2020",
+		"id": 1235768247548604400,
+		"id_str": "1235851484832526341",
+		"full_text": "Drinking Boys And Girls Choir [OK, Bye/Start Again] (2020)\n\n\"지난 1년 동안 5개 국가 20개 도시에서 49회의 공연을 했다. 2020년 봄을 맞이해 발표하는 [OK, Bye/Start Again]은 지나온 시간에 안녕하고 새로운 시작을 다짐하는 싱글이다.\"\n\nhttps://t.co/FSR5p8M4zS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FSR5p8M4zS",
+					"expanded_url": "https://youtu.be/6CnxlCqM3TM",
+					"display_url": "youtu.be/6CnxlCqM3TM",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 944548838731157500,
+			"id_str": "944548838731157506",
+			"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+			"screen_name": "BandDBGC",
+			"location": "대한민국 대구",
+			"description": "“Keep Drinking”releases March8-order at https://t.co/gOyRU9UqRD ⚡️ PR:Nathan@riotactmedia.com MGMT:george@damnably.com electricmuse@naver.com",
+			"url": "https://t.co/zbt8bIAMEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zbt8bIAMEc",
+							"expanded_url": "https://damnably.bandcamp.com/album/drinking-boys-and-girls-choir-keep-drinking",
+							"display_url": "damnably.bandcamp.com/album/drinking…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gOyRU9UqRD",
+							"expanded_url": "https://bit.ly/2QDOvBm",
+							"display_url": "bit.ly/2QDOvBm",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 653,
+			"friends_count": 573,
+			"listed_count": 12,
+			"created_at": "Sat Dec 23 12:42:46 +0000 2017",
+			"favourites_count": 2585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216645283989225473/1z3U9tC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/944548838731157506/1558774342",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Drinking Boys And Girls Choir [OK, Bye/Start Again] (2020)\n\n\"지난 1년 동안 5개 국가 20개 도시에서 49회의 공연을 했다. 2020년 봄을 맞이해 발표하는 [OK, Bye/Start Again]은 지나온 시간에 안녕하고 새로운 시작을 다짐하는 싱글이다.\"\n\nhttps://t.co/FSR5p8M4zS"
+	},
+	{
 		"created_at": "Fri Mar 06 08:14:53 +0000 2020",
 		"id": 1235841265092006000,
 		"id_str": "1235841265092005889",
