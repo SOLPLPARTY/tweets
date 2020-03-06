@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 10:58:21 +0000 2020",
+		"id": 1235882403433869300,
+		"id_str": "1235882403433869312",
+		"full_text": "#BBC코리아\n백예린 인터뷰: 'JYP와 지금 회사, 너무 달라… 두려운 마음 컸다'\nhttps://t.co/8djhXZzTyP\n백예린은 지난해 10년 넘게 몸담았던 JYP를 떠났다. 그는 \"많은 게 달라졌다\"고 말한다.\n\n#백예린 #YerinBaek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC코리아",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8djhXZzTyP",
+					"expanded_url": "https://www.bbc.com/korean/news-51754782",
+					"display_url": "bbc.com/korean/news-51…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			4531360753
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BBC코리아\n백예린 인터뷰: 'JYP와 지금 회사, 너무 달라… 두려운 마음 컸다'\nhttps://t.co/8djhXZzTyP\n백예린은 지난해 10년 넘게 몸담았던 JYP를 떠났다. 그는 \"많은 게 달라졌다\"고 말한다.\n\n#백예린 #YerinBaek"
+	},
+	{
+		"created_at": "Fri Mar 06 10:29:33 +0000 2020",
+		"id": 1235872369379438600,
+		"id_str": "1235875156414865408",
+		"full_text": "잠시 후 8시, 네스트 나다 김동렬쇼! 못 오시는 분들을 위해 불가마 싸운드 인스타그램 라이브 방송을 통해 생중계 하겠습니다. 🥳🥳 https://t.co/nIJMsaZvJV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235872357677273000,
+					"id_str": "1235872357677273091",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ESazXIMUEAMFJfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESazXIMUEAMFJfe.jpg",
+					"url": "https://t.co/nIJMsaZvJV",
+					"display_url": "pic.twitter.com/nIJMsaZvJV",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1235872369379438592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235872357677273000,
+					"id_str": "1235872357677273091",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ESazXIMUEAMFJfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESazXIMUEAMFJfe.jpg",
+					"url": "https://t.co/nIJMsaZvJV",
+					"display_url": "pic.twitter.com/nIJMsaZvJV",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1235872369379438592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 8시, 네스트 나다 김동렬쇼! 못 오시는 분들을 위해 불가마 싸운드 인스타그램 라이브 방송을 통해 생중계 하겠습니다. 🥳🥳 https://t.co/nIJMsaZvJV"
+	},
+	{
+		"created_at": "Fri Mar 06 10:29:31 +0000 2020",
+		"id": 1235868258776912000,
+		"id_str": "1235875147489218560",
+		"full_text": "📖 LIVE PERFORMANCE\n\n루시드폴(Lucid Fall) 9집 발매 공연\n&lt; 눈 오는 날의 동화 &gt;\n\n국경의 밤(Night At the Border)\n❄️ https://t.co/Vxg6hOkYPM\n\n사람이었네(Was a Man)\n❄️ https://t.co/15iWpaqC29\n\n#루시드폴 #LucidFall #국경의밤 #사람이었네\n@lucid_fall_jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "국경의밤",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "사람이었네",
+					"indices": [
+						191,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						198,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vxg6hOkYPM",
+					"expanded_url": "https://youtu.be/xnKEDEoL1t0",
+					"display_url": "youtu.be/xnKEDEoL1t0",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/15iWpaqC29",
+					"expanded_url": "https://youtu.be/GQeRCtYuh3U",
+					"display_url": "youtu.be/GQeRCtYuh3U",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34664,
+			"friends_count": 11,
+			"listed_count": 407,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1582881097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📖 LIVE PERFORMANCE\n\n루시드폴(Lucid Fall) 9집 발매 공연\n&lt; 눈 오는 날의 동화 &gt;\n\n국경의 밤(Night At the Border)\n❄️ https://t.co/Vxg6hOkYPM\n\n사람이었네(Was a Man)\n❄️ https://t.co/15iWpaqC29\n\n#루시드폴 #LucidFall #국경의밤 #사람이었네\n@lucid_fall_jo"
+	},
+	{
+		"created_at": "Fri Mar 06 10:29:28 +0000 2020",
+		"id": 1235865733088723000,
+		"id_str": "1235875134403211266",
+		"full_text": "[#헤르쯔아날로그] 신곡 ‘Love Song (feat. 별은)’이 3월 10일 정오 발매됩니다💕 https://t.co/JDK4iXv526",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤르쯔아날로그",
+					"indices": [
+						1,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235865721709551600,
+					"id_str": "1235865721709551616",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ESatU3SUYAAbRqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESatU3SUYAAbRqR.jpg",
+					"url": "https://t.co/JDK4iXv526",
+					"display_url": "pic.twitter.com/JDK4iXv526",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1235865733088722944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235865721709551600,
+					"id_str": "1235865721709551616",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ESatU3SUYAAbRqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESatU3SUYAAbRqR.jpg",
+					"url": "https://t.co/JDK4iXv526",
+					"display_url": "pic.twitter.com/JDK4iXv526",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1235865733088722944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1645,
+			"friends_count": 12,
+			"listed_count": 4,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#헤르쯔아날로그] 신곡 ‘Love Song (feat. 별은)’이 3월 10일 정오 발매됩니다💕 https://t.co/JDK4iXv526"
+	},
+	{
+		"created_at": "Fri Mar 06 10:29:24 +0000 2020",
+		"id": 1235862501138391000,
+		"id_str": "1235875121148997634",
+		"full_text": "Artist comment about [Connected]✨\n⠀⠀\n권순관 정규 2집 [Connected]\n2020.03.09 12PM Release https://t.co/Gpw5CIQ9dc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235862487997636600,
+					"id_str": "1235862487997636614",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESaqYoxUYAYLsWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESaqYoxUYAYLsWH.jpg",
+					"url": "https://t.co/Gpw5CIQ9dc",
+					"display_url": "pic.twitter.com/Gpw5CIQ9dc",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235862501138391040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235862487997636600,
+					"id_str": "1235862487997636614",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESaqYoxUYAYLsWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESaqYoxUYAYLsWH.jpg",
+					"url": "https://t.co/Gpw5CIQ9dc",
+					"display_url": "pic.twitter.com/Gpw5CIQ9dc",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235862501138391040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235862488266113000,
+					"id_str": "1235862488266113024",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESaqYpxVAAAdyuX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESaqYpxVAAAdyuX.jpg",
+					"url": "https://t.co/Gpw5CIQ9dc",
+					"display_url": "pic.twitter.com/Gpw5CIQ9dc",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235862501138391040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235862488953925600,
+					"id_str": "1235862488953925637",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESaqYsVUMAU2daQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESaqYsVUMAU2daQ.jpg",
+					"url": "https://t.co/Gpw5CIQ9dc",
+					"display_url": "pic.twitter.com/Gpw5CIQ9dc",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235862501138391040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235862489247539200,
+					"id_str": "1235862489247539200",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/ESaqYtbUYAA4izl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESaqYtbUYAA4izl.jpg",
+					"url": "https://t.co/Gpw5CIQ9dc",
+					"display_url": "pic.twitter.com/Gpw5CIQ9dc",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1235862501138391040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13499,
+			"friends_count": 2460,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Artist comment about [Connected]✨\n⠀⠀\n권순관 정규 2집 [Connected]\n2020.03.09 12PM Release https://t.co/Gpw5CIQ9dc"
+	},
+	{
 		"created_at": "Fri Mar 06 09:55:57 +0000 2020",
 		"id": 1235769734370603000,
 		"id_str": "1235866699078840324",
@@ -117,7 +1037,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "하박국HAVAQQUQ",
 			"screen_name": "HAVAQQUQ",
 			"location": "트라팔마도어",
-			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻‍♂️ceo@naverdaumnate.com 🤷🏿‍♂️havaqquq@younggiftedwack.com🧖🏻‍♂️",
+			"description": "@YOUNGGIFTEDWACK @technhuman💁🏻♂️ceo@naverdaumnate.com 🤷🏿♂️havaqquq@younggiftedwack.com🧖🏻♂️",
 			"url": "https://t.co/gavmddaAVg",
 			"entities": {
 				"url": {
