@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 16:29:24 +0000 2020",
+		"id": 1235962745851240400,
+		"id_str": "1235965717935243266",
+		"full_text": "@boomkatonline Hello! want to get this list. Helicopter.seoul@gmail.com, thanks!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boomkatonline",
+					"name": "Boomkat.com",
+					"id": 24713430,
+					"id_str": "24713430",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235958434018754600,
+		"in_reply_to_status_id_str": "1235958434018754561",
+		"in_reply_to_user_id": 24713430,
+		"in_reply_to_user_id_str": "24713430",
+		"in_reply_to_screen_name": "boomkatonline",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3270,
+			"friends_count": 1659,
+			"listed_count": 52,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@boomkatonline Hello! want to get this list. Helicopter.seoul@gmail.com, thanks!"
+	},
+	{
 		"created_at": "Fri Mar 06 15:08:33 +0000 2020",
 		"id": 1235945369382662100,
 		"id_str": "1235945369382662145",
