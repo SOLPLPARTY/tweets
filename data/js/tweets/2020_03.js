@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 00:53:12 +0000 2020",
+		"id": 1236083379373777000,
+		"id_str": "1236092503276679173",
+		"full_text": "20세기 재즈를 대표하는 재즈 피아니스트 중 하나인 맥코이 타이너가 81세로 사망. 존 콜트레인 쿼텟의 마지막 남은 맴버이기도 한데 개인적으로도 많이 좋아하는 아티스트. 작년 시애틀에서 공연을 할 때 꼭 가보고 싶었는데 못가본게 너무 아쉬움. 고인의 명복을 빕니다 https://t.co/LyXHIYMINS https://t.co/6l3U6lxvSI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LyXHIYMINS",
+					"expanded_url": "https://www.npr.org/2020/03/06/812940062/mccoy-tyner-groundbreaking-pianist-of-20th-century-jazz-dies-at-81",
+					"display_url": "npr.org/2020/03/06/812…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236083377486336000,
+					"id_str": "1236083377486336003",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ESdzSGPWkAMobb3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESdzSGPWkAMobb3.jpg",
+					"url": "https://t.co/6l3U6lxvSI",
+					"display_url": "pic.twitter.com/6l3U6lxvSI",
+					"expanded_url": "https://twitter.com/minist/status/1236083379373776897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236083377486336000,
+					"id_str": "1236083377486336003",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ESdzSGPWkAMobb3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESdzSGPWkAMobb3.jpg",
+					"url": "https://t.co/6l3U6lxvSI",
+					"display_url": "pic.twitter.com/6l3U6lxvSI",
+					"expanded_url": "https://twitter.com/minist/status/1236083379373776897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 787,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13113612,
+			"id_str": "13113612",
+			"name": "박수민 / Soomin Park",
+			"screen_name": "minist",
+			"location": "Seattle, WA, USA",
+			"description": "WizeIoT / 블루홀, 크래프톤 / 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트, 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64627,
+			"friends_count": 720,
+			"listed_count": 929,
+			"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+			"favourites_count": 736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "402021",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+			"profile_link_color": "260D03",
+			"profile_sidebar_border_color": "8A7167",
+			"profile_sidebar_fill_color": "8A7167",
+			"profile_text_color": "341617",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "20세기 재즈를 대표하는 재즈 피아니스트 중 하나인 맥코이 타이너가 81세로 사망. 존 콜트레인 쿼텟의 마지막 남은 맴버이기도 한데 개인적으로도 많이 좋아하는 아티스트. 작년 시애틀에서 공연을 할 때 꼭 가보고 싶었는데 못가본게 너무 아쉬움. 고인의 명복을 빕니다 https://t.co/LyXHIYMINS https://t.co/6l3U6lxvSI"
+	},
+	{
+		"created_at": "Sat Mar 07 00:53:07 +0000 2020",
+		"id": 1236085774203773000,
+		"id_str": "1236092480090591232",
+		"full_text": "RIP. McCoy Tyner.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집 [그리움도 병] 정규2집 [은하수] 싱글 [무명] [꽃] [언제나그댈]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 458,
+			"friends_count": 90,
+			"listed_count": 6,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1507011741",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "RIP. McCoy Tyner."
+	},
+	{
+		"created_at": "Sat Mar 07 00:52:49 +0000 2020",
+		"id": 1236089781542457300,
+		"id_str": "1236092403984912386",
+		"full_text": "3월 20일부터 3일간 미국 플로리다주 마이애미에서 개최될 예정이었던 'Ultra Music Festival 2020'이 코로나19 바이러스의 영향으로 연기되었습니다. 추가로 2021년 3월로 연기된 일정을 알렸습니다.\nhttps://t.co/YDneOlfAua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDneOlfAua",
+					"expanded_url": "https://www.billboard.com/articles/news/dance/9329484/ultra-officially-postponed-2021?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19916,
+			"friends_count": 16,
+			"listed_count": 77,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1583207273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3월 20일부터 3일간 미국 플로리다주 마이애미에서 개최될 예정이었던 'Ultra Music Festival 2020'이 코로나19 바이러스의 영향으로 연기되었습니다. 추가로 2021년 3월로 연기된 일정을 알렸습니다.\nhttps://t.co/YDneOlfAua"
+	},
+	{
 		"created_at": "Fri Mar 06 16:29:24 +0000 2020",
 		"id": 1235962745851240400,
 		"id_str": "1235965717935243266",
