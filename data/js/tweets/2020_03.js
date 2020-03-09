@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 01:58:15 +0000 2020",
+		"id": 1236820045629554700,
+		"id_str": "1236833645782011904",
+		"full_text": "‼Early Owl Low Ticket Warning‼\n\n#EDCKorea 의 Early Owl 티켓 수량이 얼마 남지 않았습니다! \n한정된 수량이 모두 판매되면 가격이 오른 Wise Owl 티켓이 오픈 됩니다. 가장 저렴한 가격에 EDC KOREA를 경험 할 기회를 놓치지 마세요!\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/EVmkrNs9Cu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDCKorea",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "이디씨코리아",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Os9S6h6izZ",
+					"expanded_url": "https://korea.electricdaisycarnival.com/tickets",
+					"display_url": "korea.electricdaisycarnival.com/tickets",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236809022189105200,
+					"id_str": "1236809022189105154",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ESoHQLaUcAIVS-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESoHQLaUcAIVS-F.jpg",
+					"url": "https://t.co/EVmkrNs9Cu",
+					"display_url": "pic.twitter.com/EVmkrNs9Cu",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1236820045629554689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236809022189105200,
+					"id_str": "1236809022189105154",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ESoHQLaUcAIVS-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESoHQLaUcAIVS-F.jpg",
+					"url": "https://t.co/EVmkrNs9Cu",
+					"display_url": "pic.twitter.com/EVmkrNs9Cu",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1236820045629554689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\nAugust 15+16, 2020 #EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 703,
+			"friends_count": 9,
+			"listed_count": 3,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1578877398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‼Early Owl Low Ticket Warning‼\n\n#EDCKorea 의 Early Owl 티켓 수량이 얼마 남지 않았습니다! \n한정된 수량이 모두 판매되면 가격이 오른 Wise Owl 티켓이 오픈 됩니다. 가장 저렴한 가격에 EDC KOREA를 경험 할 기회를 놓치지 마세요!\n\n▶Tickets: https://t.co/Os9S6h6izZ\n#이디씨코리아 https://t.co/EVmkrNs9Cu"
+	},
+	{
 		"created_at": "Sun Mar 08 15:29:27 +0000 2020",
 		"id": 1236675404699701200,
 		"id_str": "1236675404699701248",
