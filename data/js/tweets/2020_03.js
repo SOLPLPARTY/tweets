@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 15:16:47 +0000 2020",
+		"id": 1236969540317089800,
+		"id_str": "1237034607171653634",
+		"full_text": "음악왕 김학선 평론가님과의 인터뷰가 지니 매거진 '인디가이드'에 공개 되었습니다.  https://t.co/aabC61PlPu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aabC61PlPu",
+					"expanded_url": "http://mw.genie.co.kr/magazine/magazineView?ctid=22&mgz_seq=8115",
+					"display_url": "mw.genie.co.kr/magazine/magaz…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 972696595035664400,
+			"id_str": "972696595035664384",
+			"name": "천용성",
+			"screen_name": "000yongsung",
+			"location": "대한민국 서울",
+			"description": "19.06.26 1집 《김일성이 죽던 해》발매.\n\n완판인.",
+			"url": "https://t.co/WaCx0Ljfgg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WaCx0Ljfgg",
+							"expanded_url": "https://linktr.ee/000yongsung",
+							"display_url": "linktr.ee/000yongsung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 121,
+			"listed_count": 1,
+			"created_at": "Sun Mar 11 04:51:54 +0000 2018",
+			"favourites_count": 1500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143735464907509760/udrMNixj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143735464907509760/udrMNixj_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악왕 김학선 평론가님과의 인터뷰가 지니 매거진 '인디가이드'에 공개 되었습니다.  https://t.co/aabC61PlPu"
+	},
+	{
+		"created_at": "Mon Mar 09 15:03:17 +0000 2020",
+		"id": 1236844529040294000,
+		"id_str": "1237031207348523009",
+		"full_text": "내가 낸 스트리밍 요금,\n내가 듣는 아티스트에게 가지 않는다는 사실 아셨어요?\n⠀\n이제 내가 낸 돈은 내가 듣는 음악에만! #내돈내듣 이용자와 아티스트 모두를 생각하는 새로운 정산 방식 #네이버VIBE 가 시작 합니다.\n\nhttps://t.co/dv5Yy8eDAL https://t.co/AUDm2TdeNp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내돈내듣",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "네이버VIBE",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dv5Yy8eDAL",
+					"expanded_url": "http://bit.ly/2TPRe9I",
+					"display_url": "bit.ly/2TPRe9I",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236844520030916600,
+					"id_str": "1236844520030916608",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ESonibLU0AAQT0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESonibLU0AAQT0X.jpg",
+					"url": "https://t.co/AUDm2TdeNp",
+					"display_url": "pic.twitter.com/AUDm2TdeNp",
+					"expanded_url": "https://twitter.com/vibemusic_kr/status/1236844529040293889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236844520030916600,
+					"id_str": "1236844520030916608",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ESonibLU0AAQT0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESonibLU0AAQT0X.jpg",
+					"url": "https://t.co/AUDm2TdeNp",
+					"display_url": "pic.twitter.com/AUDm2TdeNp",
+					"expanded_url": "https://twitter.com/vibemusic_kr/status/1236844529040293889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024559432116523000,
+			"id_str": "1024559432116523008",
+			"name": "NAVER VIBE",
+			"screen_name": "vibemusic_kr",
+			"location": "Republic of Korea",
+			"description": "VIBE앱에 로그인만 하고, 모든 첫 곡을 무료로 들으세요.",
+			"url": "https://t.co/BmYPtOFDD6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmYPtOFDD6",
+							"expanded_url": "http://vibe.naver.com",
+							"display_url": "vibe.naver.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 53,
+			"listed_count": 3,
+			"created_at": "Wed Aug 01 07:36:18 +0000 2018",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027213971101609984/jRKolahN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027213971101609984/jRKolahN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024559432116523008/1571883925",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 낸 스트리밍 요금,\n내가 듣는 아티스트에게 가지 않는다는 사실 아셨어요?\n⠀\n이제 내가 낸 돈은 내가 듣는 음악에만! #내돈내듣 이용자와 아티스트 모두를 생각하는 새로운 정산 방식 #네이버VIBE 가 시작 합니다.\n\nhttps://t.co/dv5Yy8eDAL https://t.co/AUDm2TdeNp"
+	},
+	{
 		"created_at": "Mon Mar 09 13:41:28 +0000 2020",
 		"id": 1237010616906326000,
 		"id_str": "1237010616906326019",
