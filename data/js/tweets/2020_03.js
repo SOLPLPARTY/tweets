@@ -1,6 +1,1274 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 10:05:21 +0000 2020",
+		"id": 1236956231799050200,
+		"id_str": "1236956231799050240",
+		"full_text": "#SMTOWN\nNCT 127 THE STAGE\nhttps://t.co/vtwuneLNFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vtwuneLNFY",
+					"expanded_url": "https://youtu.be/_tnErTK1GJw",
+					"display_url": "youtu.be/_tnErTK1GJw",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN\nNCT 127 THE STAGE\nhttps://t.co/vtwuneLNFY"
+	},
+	{
+		"created_at": "Mon Mar 09 09:41:49 +0000 2020",
+		"id": 1236950307369889800,
+		"id_str": "1236950307369889792",
+		"full_text": "#민트페이퍼 #MINTPAPER\n[BML2020] 다시 보는 뷰민라 2탄 AWARDS 편\nhttps://t.co/cU4m8nErOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cU4m8nErOv",
+					"expanded_url": "https://youtu.be/CMywOzXZB4A",
+					"display_url": "youtu.be/CMywOzXZB4A",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n[BML2020] 다시 보는 뷰민라 2탄 AWARDS 편\nhttps://t.co/cU4m8nErOv"
+	},
+	{
+		"created_at": "Mon Mar 09 09:41:38 +0000 2020",
+		"id": 1236938678439538700,
+		"id_str": "1236950260951535617",
+		"full_text": "3/14 (sat)  St. Patrick’s Day “Rock N Roll” Party @클럽ff  - 7pm 시작\n\n데디오레디오,토크뱃츠,더 사운드,쟈니스파크,스모킹구스,틸더,유수림,극동아시아타이거즈\n&lt;All Bands Will Cover  Irish Songs :  U2, Thin Lizzy, The Cranberries, The Pogues, Ash, Dropkick Murphys, The Undertones&gt; https://t.co/29okXqVXQv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236938667198832600,
+					"id_str": "1236938667198832640",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/ESp9KgtU4AAuvC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESp9KgtU4AAuvC-.jpg",
+					"url": "https://t.co/29okXqVXQv",
+					"display_url": "pic.twitter.com/29okXqVXQv",
+					"expanded_url": "https://twitter.com/clubFF_/status/1236938678439538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1628,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236938667198832600,
+					"id_str": "1236938667198832640",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/ESp9KgtU4AAuvC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESp9KgtU4AAuvC-.jpg",
+					"url": "https://t.co/29okXqVXQv",
+					"display_url": "pic.twitter.com/29okXqVXQv",
+					"expanded_url": "https://twitter.com/clubFF_/status/1236938678439538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1628,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 954,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6627,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3/14 (sat)  St. Patrick’s Day “Rock N Roll” Party @클럽ff  - 7pm 시작\n\n데디오레디오,토크뱃츠,더 사운드,쟈니스파크,스모킹구스,틸더,유수림,극동아시아타이거즈\n&lt;All Bands Will Cover  Irish Songs :  U2, Thin Lizzy, The Cranberries, The Pogues, Ash, Dropkick Murphys, The Undertones&gt; https://t.co/29okXqVXQv"
+	},
+	{
+		"created_at": "Mon Mar 09 09:29:28 +0000 2020",
+		"id": 1236943885072347100,
+		"id_str": "1236947199226937344",
+		"full_text": "“언젠가 문득 물 대신 커피를 마시고 있는 게 아닌가 하는 생각을 했습니다. 동시에 잠이 안 올 걸 알면서도 계속 마셔야만 하는 이유가 있는 사람도 있을 거란 생각도 했습니다.” https://t.co/9IuPdmSMf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236943702796292000,
+					"id_str": "1236943702796292096",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqBvnxUUAAdw7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqBvnxUUAAdw7c.jpg",
+					"url": "https://t.co/9IuPdmSMf3",
+					"display_url": "pic.twitter.com/9IuPdmSMf3",
+					"expanded_url": "https://twitter.com/orm_ent/status/1236943885072347136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236943702796292000,
+					"id_str": "1236943702796292096",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqBvnxUUAAdw7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqBvnxUUAAdw7c.jpg",
+					"url": "https://t.co/9IuPdmSMf3",
+					"display_url": "pic.twitter.com/9IuPdmSMf3",
+					"expanded_url": "https://twitter.com/orm_ent/status/1236943885072347136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1236943883239448600,
+		"in_reply_to_status_id_str": "1236943883239448576",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 342,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1583119377",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“언젠가 문득 물 대신 커피를 마시고 있는 게 아닌가 하는 생각을 했습니다. 동시에 잠이 안 올 걸 알면서도 계속 마셔야만 하는 이유가 있는 사람도 있을 거란 생각도 했습니다.” https://t.co/9IuPdmSMf3"
+	},
+	{
+		"created_at": "Mon Mar 09 09:29:25 +0000 2020",
+		"id": 1236943883239448600,
+		"id_str": "1236947185834627072",
+		"full_text": "D-1\n\" 난 커피를 물처럼 마시는 사람이니까~\"\n유정목 2020년 첫 싱글 \n'커피를 물처럼 마시는 아이' \n2020.03.10 정오 발매 됩니다.\n\n영상: D_ONE(이지현) \n\n#유정목 #커피를물처럼마시는아이 #내일발매 #커물아 https://t.co/Ind0AxRc5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "커피를물처럼마시는아이",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "내일발매",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "커물아",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236943333496221700,
+					"id_str": "1236943333496221696",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236943333496221696/pu/img/yQZJuDrxNBeMJxHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236943333496221696/pu/img/yQZJuDrxNBeMJxHs.jpg",
+					"url": "https://t.co/Ind0AxRc5G",
+					"display_url": "pic.twitter.com/Ind0AxRc5G",
+					"expanded_url": "https://twitter.com/orm_ent/status/1236943883239448576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236943333496221700,
+					"id_str": "1236943333496221696",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236943333496221696/pu/img/yQZJuDrxNBeMJxHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236943333496221696/pu/img/yQZJuDrxNBeMJxHs.jpg",
+					"url": "https://t.co/Ind0AxRc5G",
+					"display_url": "pic.twitter.com/Ind0AxRc5G",
+					"expanded_url": "https://twitter.com/orm_ent/status/1236943883239448576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11578,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236943333496221696/pu/vid/320x320/UkcDms_lOrEmobMT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1236943333496221696/pu/pl/oro5C7pioU8uvSQE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236943333496221696/pu/vid/720x720/c4NbL7D17aLE0UxB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236943333496221696/pu/vid/480x480/390GUGbwvt4Hh921.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 342,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1583119377",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-1\n\" 난 커피를 물처럼 마시는 사람이니까~\"\n유정목 2020년 첫 싱글 \n'커피를 물처럼 마시는 아이' \n2020.03.10 정오 발매 됩니다.\n\n영상: D_ONE(이지현) \n\n#유정목 #커피를물처럼마시는아이 #내일발매 #커물아 https://t.co/Ind0AxRc5G"
+	},
+	{
+		"created_at": "Mon Mar 09 09:24:31 +0000 2020",
+		"id": 1236945953522925600,
+		"id_str": "1236945953522925568",
+		"full_text": "#Melon #멜론 #멜론매거진\n끝난 사랑을 향한 슬픈 울부짖음, VICTON (빅톤) [Continuous]\nhttps://t.co/amMecvgV5M https://t.co/fYuClCPjqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amMecvgV5M",
+					"expanded_url": "http://bit.ly/3cGrIfK",
+					"display_url": "bit.ly/3cGrIfK",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236945952428220400,
+					"id_str": "1236945952428220416",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqDykTXYAAQZpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqDykTXYAAQZpW.jpg",
+					"url": "https://t.co/fYuClCPjqK",
+					"display_url": "pic.twitter.com/fYuClCPjqK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236945953522925568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236945952428220400,
+					"id_str": "1236945952428220416",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqDykTXYAAQZpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqDykTXYAAQZpW.jpg",
+					"url": "https://t.co/fYuClCPjqK",
+					"display_url": "pic.twitter.com/fYuClCPjqK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236945953522925568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n끝난 사랑을 향한 슬픈 울부짖음, VICTON (빅톤) [Continuous]\nhttps://t.co/amMecvgV5M https://t.co/fYuClCPjqK"
+	},
+	{
+		"created_at": "Mon Mar 09 09:18:39 +0000 2020",
+		"id": 1236944476612026400,
+		"id_str": "1236944476612026369",
+		"full_text": "#genie #지니 #지니매거진\n세상에 단 하나뿐인 ITZY다운 ITZY를 보여줄 새 앨범 [IT'z ME]\nhttps://t.co/t1CNIeLP7h https://t.co/RpxeAldCku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t1CNIeLP7h",
+					"expanded_url": "http://bit.ly/336FTGK",
+					"display_url": "bit.ly/336FTGK",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236944475357958100,
+					"id_str": "1236944475357958144",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqCclyX0AAQgLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqCclyX0AAQgLw.jpg",
+					"url": "https://t.co/RpxeAldCku",
+					"display_url": "pic.twitter.com/RpxeAldCku",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236944476612026369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236944475357958100,
+					"id_str": "1236944475357958144",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ESqCclyX0AAQgLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESqCclyX0AAQgLw.jpg",
+					"url": "https://t.co/RpxeAldCku",
+					"display_url": "pic.twitter.com/RpxeAldCku",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236944476612026369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n세상에 단 하나뿐인 ITZY다운 ITZY를 보여줄 새 앨범 [IT'z ME]\nhttps://t.co/t1CNIeLP7h https://t.co/RpxeAldCku"
+	},
+	{
 		"created_at": "Mon Mar 09 09:10:56 +0000 2020",
 		"id": 1236942534917664800,
 		"id_str": "1236942534917664768",
