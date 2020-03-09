@@ -1,6 +1,873 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 05:43:16 +0000 2020",
+		"id": 1236890276691693600,
+		"id_str": "1236890276691693568",
+		"full_text": "#예스24공연\n버스크 음악극 [432Hz] 2차 : 2020.03.13(금) 14:00\n▶ https://t.co/Qj2UzKMK1s\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/4WR7LNRK8R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qj2UzKMK1s",
+					"expanded_url": "http://bit.ly/2PWOI0e",
+					"display_url": "bit.ly/2PWOI0e",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236890275655626800,
+					"id_str": "1236890275655626752",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ESpRJwKWsAAAeNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESpRJwKWsAAAeNm.jpg",
+					"url": "https://t.co/4WR7LNRK8R",
+					"display_url": "pic.twitter.com/4WR7LNRK8R",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236890276691693568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236890275655626800,
+					"id_str": "1236890275655626752",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ESpRJwKWsAAAeNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESpRJwKWsAAAeNm.jpg",
+					"url": "https://t.co/4WR7LNRK8R",
+					"display_url": "pic.twitter.com/4WR7LNRK8R",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1236890276691693568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n버스크 음악극 [432Hz] 2차 : 2020.03.13(금) 14:00\n▶ https://t.co/Qj2UzKMK1s\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/4WR7LNRK8R"
+	},
+	{
+		"created_at": "Mon Mar 09 05:29:40 +0000 2020",
+		"id": 1236885840883638300,
+		"id_str": "1236886853053267968",
+		"full_text": "직접 취소하실 경우에는 취소 수수료가 발생할 수 있으니 이 점 유의하시기 바랍니다.\n⠀\n추후 진행될 콘서트의 일정은 예매처인 멜론티켓 및 로다운 30 공식 채널을 통해 공지할 예정입니다.\n⠀\n모두들 건강하시길 바라겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1236885839080128500,
+		"in_reply_to_status_id_str": "1236885839080128512",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 4894,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "직접 취소하실 경우에는 취소 수수료가 발생할 수 있으니 이 점 유의하시기 바랍니다.\n⠀\n추후 진행될 콘서트의 일정은 예매처인 멜론티켓 및 로다운 30 공식 채널을 통해 공지할 예정입니다.\n⠀\n모두들 건강하시길 바라겠습니다."
+	},
+	{
+		"created_at": "Mon Mar 09 05:29:35 +0000 2020",
+		"id": 1236885839080128500,
+		"id_str": "1236886831595229184",
+		"full_text": "아무쪼록 이러한 결정에 양해 부탁드리며, 구매하신 티켓의 환불은 예매처인 멜론티켓을 통해 진행될 예정입니다. 관련하여 예매 시 등록하신 전화번호로 안내 문자가 발송되었습니다. \n\n만약 연락을 못 받으신 경우에는 멜론티켓 고객센터(1899-0042) 및 1:1 문의하기로 연락주시기 바랍니다.\n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1236885837490446300,
+		"in_reply_to_status_id_str": "1236885837490446336",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 4894,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아무쪼록 이러한 결정에 양해 부탁드리며, 구매하신 티켓의 환불은 예매처인 멜론티켓을 통해 진행될 예정입니다. 관련하여 예매 시 등록하신 전화번호로 안내 문자가 발송되었습니다. \n\n만약 연락을 못 받으신 경우에는 멜론티켓 고객센터(1899-0042) 및 1:1 문의하기로 연락주시기 바랍니다.\n⠀"
+	},
+	{
+		"created_at": "Mon Mar 09 05:29:30 +0000 2020",
+		"id": 1236885837490446300,
+		"id_str": "1236886808937541632",
+		"full_text": "오랜만의 단독 콘서트로 팬 여러분들을 만나뵐 예정이었으나 추가적인 확산에 대한 가능성을 예측할 수 없는 상황에서 출연진과 관람객의 건강 보호를 위해 내린 결정입니다.\n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1236885834369884200,
+		"in_reply_to_status_id_str": "1236885834369884161",
+		"in_reply_to_user_id": 63451638,
+		"in_reply_to_user_id_str": "63451638",
+		"in_reply_to_screen_name": "BGBGrecord",
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 4894,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오랜만의 단독 콘서트로 팬 여러분들을 만나뵐 예정이었으나 추가적인 확산에 대한 가능성을 예측할 수 없는 상황에서 출연진과 관람객의 건강 보호를 위해 내린 결정입니다.\n⠀"
+	},
+	{
+		"created_at": "Mon Mar 09 05:29:28 +0000 2020",
+		"id": 1236885834369884200,
+		"id_str": "1236886800070848512",
+		"full_text": "[로다운 30 단독 콘서트 \"GREEN BLOOD\" 연기 안내]\n안녕하세요. 붕가붕가레코드입니다.\n⠀\n2020년 3월 22일(일) 벨로주 홍대에서 진행될 예정이었던 로다운 30의 단독 콘서트 \" GREEN BLOOD \"가 코로나 19 확산 우려로 인해 잠정 연기됨을 알려드립니다.⠀ https://t.co/EaOPMJXJcC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236885652777480200,
+					"id_str": "1236885652777480192",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ESpM8qmUMAAS3iB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESpM8qmUMAAS3iB.jpg",
+					"url": "https://t.co/EaOPMJXJcC",
+					"display_url": "pic.twitter.com/EaOPMJXJcC",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1236885834369884161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236885652777480200,
+					"id_str": "1236885652777480192",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ESpM8qmUMAAS3iB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESpM8qmUMAAS3iB.jpg",
+					"url": "https://t.co/EaOPMJXJcC",
+					"display_url": "pic.twitter.com/EaOPMJXJcC",
+					"expanded_url": "https://twitter.com/BGBGrecord/status/1236885834369884161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "[붕가붕가레코드 10주년] 소속 뮤지션 10팀의 10개 타이틀 발매 예정.",
+			"url": "http://t.co/DqnnDDzm25",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DqnnDDzm25",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10375,
+			"friends_count": 4894,
+			"listed_count": 306,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63451638/1480172264",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[로다운 30 단독 콘서트 \"GREEN BLOOD\" 연기 안내]\n안녕하세요. 붕가붕가레코드입니다.\n⠀\n2020년 3월 22일(일) 벨로주 홍대에서 진행될 예정이었던 로다운 30의 단독 콘서트 \" GREEN BLOOD \"가 코로나 19 확산 우려로 인해 잠정 연기됨을 알려드립니다.⠀ https://t.co/EaOPMJXJcC"
+	},
+	{
+		"created_at": "Mon Mar 09 05:29:24 +0000 2020",
+		"id": 1236881263400632300,
+		"id_str": "1236886787009794048",
+		"full_text": "@DrVpSbHoSsLv9 아니 그렇게까진 아닌데... (인디킹) https://t.co/FwiHQdAu63",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrVpSbHoSsLv9",
+					"name": "잇츠 싸이언수(링피트)(~3.29)",
+					"id": 1125699123410194400,
+					"id_str": "1125699123410194432",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236881253334315000,
+					"id_str": "1236881253334315008",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESpI8lZU8AAqacO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESpI8lZU8AAqacO.jpg",
+					"url": "https://t.co/FwiHQdAu63",
+					"display_url": "pic.twitter.com/FwiHQdAu63",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1236881263400632321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236881253334315000,
+					"id_str": "1236881253334315008",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESpI8lZU8AAqacO.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESpI8lZU8AAqacO.jpg",
+					"url": "https://t.co/FwiHQdAu63",
+					"display_url": "pic.twitter.com/FwiHQdAu63",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1236881263400632321/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							19
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESpI8lZU8AAqacO.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1236876774773944300,
+		"in_reply_to_status_id_str": "1236876774773944320",
+		"in_reply_to_user_id": 1125699123410194400,
+		"in_reply_to_user_id_str": "1125699123410194432",
+		"in_reply_to_screen_name": "DrVpSbHoSsLv9",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@DrVpSbHoSsLv9 아니 그렇게까진 아닌데... (인디킹) https://t.co/FwiHQdAu63"
+	},
+	{
 		"created_at": "Mon Mar 09 05:04:21 +0000 2020",
 		"id": 1236880481519636500,
 		"id_str": "1236880481519636480",
