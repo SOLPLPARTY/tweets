@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 14:29:25 +0000 2020",
+		"id": 1237380002510819300,
+		"id_str": "1237385071138680834",
+		"full_text": "@SokbakNGulre @neighbordavid 아 숭하다.. 자중해라 핫산 https://t.co/Vv9Dn6c6rq",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SokbakNGulre",
+					"name": "굴레",
+					"id": 1189960097054654500,
+					"id_str": "1189960097054654464",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "neighbordavid",
+					"name": "복실복실 데이빗",
+					"id": 1158007200029167600,
+					"id_str": "1158007200029167616",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237379986190766000,
+					"id_str": "1237379986190766081",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESwOiqEUEAEmTWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESwOiqEUEAEmTWa.jpg",
+					"url": "https://t.co/Vv9Dn6c6rq",
+					"display_url": "pic.twitter.com/Vv9Dn6c6rq",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1237380002510819328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237379986190766000,
+					"id_str": "1237379986190766081",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESwOiqEUEAEmTWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESwOiqEUEAEmTWa.jpg",
+					"url": "https://t.co/Vv9Dn6c6rq",
+					"display_url": "pic.twitter.com/Vv9Dn6c6rq",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1237380002510819328/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 240,
+							"h": 228,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							19
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESwOiqEUEAEmTWa.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1236188401524600800,
+		"in_reply_to_status_id_str": "1236188401524600835",
+		"in_reply_to_user_id": 1189960097054654500,
+		"in_reply_to_user_id_str": "1189960097054654464",
+		"in_reply_to_screen_name": "SokbakNGulre",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@SokbakNGulre @neighbordavid 아 숭하다.. 자중해라 핫산 https://t.co/Vv9Dn6c6rq"
+	},
+	{
 		"created_at": "Tue Mar 10 13:56:34 +0000 2020",
 		"id": 1237352457774092300,
 		"id_str": "1237376804756701184",
