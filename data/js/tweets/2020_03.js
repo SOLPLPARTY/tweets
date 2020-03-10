@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 13:56:34 +0000 2020",
+		"id": 1237352457774092300,
+		"id_str": "1237376804756701184",
+		"full_text": "선우정아 '욕의 여행' 뮤직비디오가 공개되었습니다!🎥\n\nFul ver. M/V🔗 https://t.co/d7hy5HIKvW\n\n#매스사 #매직스트로베리사운드 #선우정아 #욕의_여행 https://t.co/YoOieq11nM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매스사",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "욕의_여행",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7hy5HIKvW",
+					"expanded_url": "https://youtu.be/blu_L0ucV7g",
+					"display_url": "youtu.be/blu_L0ucV7g",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237350959543550000,
+					"id_str": "1237350959543549953",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237350959543549953/pu/img/FRw8hP6Tv609Nioy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237350959543549953/pu/img/FRw8hP6Tv609Nioy.jpg",
+					"url": "https://t.co/YoOieq11nM",
+					"display_url": "pic.twitter.com/YoOieq11nM",
+					"expanded_url": "https://twitter.com/msbsound/status/1237352457774092290/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237350959543550000,
+					"id_str": "1237350959543549953",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237350959543549953/pu/img/FRw8hP6Tv609Nioy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237350959543549953/pu/img/FRw8hP6Tv609Nioy.jpg",
+					"url": "https://t.co/YoOieq11nM",
+					"display_url": "pic.twitter.com/YoOieq11nM",
+					"expanded_url": "https://twitter.com/msbsound/status/1237352457774092290/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237350959543549953/pu/vid/480x270/Ie7S9JL31CnhoP-Q.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237350959543549953/pu/vid/640x360/NLgJLpmVHweukuGY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237350959543549953/pu/vid/1280x720/SvPf_jIacgEpSYXW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1237350959543549953/pu/pl/8_3VkNRi2RYLwlZ1.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8266,
+			"friends_count": 6580,
+			"listed_count": 109,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "선우정아 '욕의 여행' 뮤직비디오가 공개되었습니다!🎥\n\nFul ver. M/V🔗 https://t.co/d7hy5HIKvW\n\n#매스사 #매직스트로베리사운드 #선우정아 #욕의_여행 https://t.co/YoOieq11nM"
+	},
+	{
 		"created_at": "Tue Mar 10 13:06:30 +0000 2020",
 		"id": 1237364204451102700,
 		"id_str": "1237364204451102720",
