@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 03:01:35 +0000 2020",
+		"id": 1237936750661644300,
+		"id_str": "1237936750661644288",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Mar 12) https://t.co/DbNKIUxk3I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbNKIUxk3I",
+					"expanded_url": "https://nzzl.us/9N4CLmV",
+					"display_url": "nzzl.us/9N4CLmV",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Mar 12) https://t.co/DbNKIUxk3I"
+	},
+	{
+		"created_at": "Thu Mar 12 02:29:24 +0000 2020",
+		"id": 1237917023352438800,
+		"id_str": "1237928652366626816",
+		"full_text": "모던보이 아티스트들의 음반부터 MD까지 온라인으로 구매가 가능한 MBOY SHOP이 오픈되었습니다.\n오픈 기념 이벤트도 준비되어 있으니 많은 관심 부탁드립니다!\n\n✔️ 오픈 기념 기간 한정 이벤트\n하나, MBOY SHOP LUCKY BOX!\n둘, 친필 사인 CD 옵션 선택 가능!\n\nMBOY SHOP : https://t.co/m7eFMysdDi https://t.co/NNLKP3WQ1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7eFMysdDi",
+					"expanded_url": "https://smartstore.naver.com/mboyrecord",
+					"display_url": "smartstore.naver.com/mboyrecord",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237915799089627100,
+					"id_str": "1237915799089627137",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ES313EqUwAEU8_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES313EqUwAEU8_s.jpg",
+					"url": "https://t.co/NNLKP3WQ1h",
+					"display_url": "pic.twitter.com/NNLKP3WQ1h",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1237917023352438786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237915799089627100,
+					"id_str": "1237915799089627137",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/ES313EqUwAEU8_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES313EqUwAEU8_s.jpg",
+					"url": "https://t.co/NNLKP3WQ1h",
+					"display_url": "pic.twitter.com/NNLKP3WQ1h",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1237917023352438786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2177785068,
+			"id_str": "2177785068",
+			"name": "모던보이엔터테인먼트",
+			"screen_name": "m_boyrecord",
+			"location": "",
+			"description": "소속아티스트 몽니, 고고보이스, 숨의숲, 윤기타, 빨간의자, 로썸 / 뮤지컬배우 김신의",
+			"url": "https://t.co/wzug4Je0hj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wzug4Je0hj",
+							"expanded_url": "http://modernboyent.com",
+							"display_url": "modernboyent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1325,
+			"friends_count": 1380,
+			"listed_count": 10,
+			"created_at": "Wed Nov 06 10:06:17 +0000 2013",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177785068/1561506274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모던보이 아티스트들의 음반부터 MD까지 온라인으로 구매가 가능한 MBOY SHOP이 오픈되었습니다.\n오픈 기념 이벤트도 준비되어 있으니 많은 관심 부탁드립니다!\n\n✔️ 오픈 기념 기간 한정 이벤트\n하나, MBOY SHOP LUCKY BOX!\n둘, 친필 사인 CD 옵션 선택 가능!\n\nMBOY SHOP : https://t.co/m7eFMysdDi https://t.co/NNLKP3WQ1h"
+	},
+	{
 		"created_at": "Thu Mar 12 01:18:28 +0000 2020",
 		"id": 1237910800557387800,
 		"id_str": "1237910800557387777",
