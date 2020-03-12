@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 14:00:35 +0000 2020",
+		"id": 1238050785050550300,
+		"id_str": "1238102594288889858",
+		"full_text": "D-3\n\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kim moon dog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Beautiful Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/aZKHSTZ9LR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238050774833193000,
+					"id_str": "1238050774833192960",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"url": "https://t.co/aZKHSTZ9LR",
+					"display_url": "pic.twitter.com/aZKHSTZ9LR",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238050785050550277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238050774833193000,
+					"id_str": "1238050774833192960",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5wnsfUYAAeo_H.jpg",
+					"url": "https://t.co/aZKHSTZ9LR",
+					"display_url": "pic.twitter.com/aZKHSTZ9LR",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1238050785050550277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 2,
+			"listed_count": 9,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026823160602095619/8gD_B9Xv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1533648695",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "D-3\n\n\"Beautiful Creature\"\n\n2020.03.15 12PM (KST)\n\nPhoto by Kim moon dog\nH&amp;M by Lee eun seo\nStyling by Mo eun seo\nThx to Beautiful Eyewear by godsomware\n\nProduced by YESEO\nComposed by YESEO\nArranged by YESEO\nLyrics by YESEO\n\nMixed &amp; Mastered by IMLAY\nDistributionby Poclanos https://t.co/aZKHSTZ9LR"
+	},
+	{
+		"created_at": "Thu Mar 12 13:29:31 +0000 2020",
+		"id": 1238092789495156700,
+		"id_str": "1238094773283631105",
+		"full_text": "... https://t.co/0RMI7VW6f0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238092777835004000,
+					"id_str": "1238092777835003904",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6W0l3VAAAOTNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6W0l3VAAAOTNO.jpg",
+					"url": "https://t.co/0RMI7VW6f0",
+					"display_url": "pic.twitter.com/0RMI7VW6f0",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1238092789495156736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238092777835004000,
+					"id_str": "1238092777835003904",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6W0l3VAAAOTNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6W0l3VAAAOTNO.jpg",
+					"url": "https://t.co/0RMI7VW6f0",
+					"display_url": "pic.twitter.com/0RMI7VW6f0",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1238092789495156736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238091082048536600,
+		"in_reply_to_status_id_str": "1238091082048536580",
+		"in_reply_to_user_id": 1145007465907359700,
+		"in_reply_to_user_id_str": "1145007465907359744",
+		"in_reply_to_screen_name": "bullgamasound",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364,
+			"friends_count": 38,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "... https://t.co/0RMI7VW6f0"
+	},
+	{
+		"created_at": "Thu Mar 12 13:29:28 +0000 2020",
+		"id": 1238091082048536600,
+		"id_str": "1238094760205746177",
+		"full_text": "#요절복통불가마\n닥터스 녹음 한창 진행 중에 전해온 인디킹의 절규.. https://t.co/zOSKwwvbx5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "요절복통불가마",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238091075102716000,
+					"id_str": "1238091075102715909",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6VResUMAUqZ7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6VResUMAUqZ7s.jpg",
+					"url": "https://t.co/zOSKwwvbx5",
+					"display_url": "pic.twitter.com/zOSKwwvbx5",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1238091082048536580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 709,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238091075102716000,
+					"id_str": "1238091075102715909",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ES6VResUMAUqZ7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES6VResUMAUqZ7s.jpg",
+					"url": "https://t.co/zOSKwwvbx5",
+					"display_url": "pic.twitter.com/zOSKwwvbx5",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1238091082048536580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 709,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364,
+			"friends_count": 38,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#요절복통불가마\n닥터스 녹음 한창 진행 중에 전해온 인디킹의 절규.. https://t.co/zOSKwwvbx5"
+	},
+	{
 		"created_at": "Thu Mar 12 13:00:17 +0000 2020",
 		"id": 1238087417330106400,
 		"id_str": "1238087417330106368",
