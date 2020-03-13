@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 00:48:51 +0000 2020",
+		"id": 1237626535059705900,
+		"id_str": "1238265735631130624",
+		"full_text": "https://t.co/AK7jdCIRs7\n\n한국대중음악상을 지켜봐 주시는 여러분의 비판과 의견을 겸허히 듣고 발전의 계기로 삼아 앞으로도 신중히 개선해나가겠습니다. 고맙습니다.\n\n- 한국대중음악상 선정위원회 -",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AK7jdCIRs7",
+					"expanded_url": "http://bitly.kr/NZsNEJhX",
+					"display_url": "bitly.kr/NZsNEJhX",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456487957,
+			"id_str": "456487957",
+			"name": "한국대중음악상",
+			"screen_name": "kmusicawards",
+			"location": "Everywhere",
+			"description": "2020 제17회 한국대중음악상 시상식",
+			"url": "https://t.co/WbaqJd68sV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WbaqJd68sV",
+							"expanded_url": "http://www.koreanmusicawards.com",
+							"display_url": "koreanmusicawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3434,
+			"friends_count": 276,
+			"listed_count": 73,
+			"created_at": "Fri Jan 06 09:22:11 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214484058329079809/nmV_Xe-4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456487957/1578390540",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/AK7jdCIRs7\n\n한국대중음악상을 지켜봐 주시는 여러분의 비판과 의견을 겸허히 듣고 발전의 계기로 삼아 앞으로도 신중히 개선해나가겠습니다. 고맙습니다.\n\n- 한국대중음악상 선정위원회 -"
+	},
+	{
 		"created_at": "Fri Mar 13 00:16:08 +0000 2020",
 		"id": 1238257500383858700,
 		"id_str": "1238257500383858688",
