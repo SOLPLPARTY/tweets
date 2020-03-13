@@ -1,10 +1,92 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 17:29:25 +0000 2020",
+		"id": 1238508445420028000,
+		"id_str": "1238517534783086599",
+		"full_text": "늦은 시간까지 라방 시청해주신 분들께 진심으로 감사드립니다! 저희는 이제 술 마십니다.. 간간히 근황 전하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "뜨겁고 시원한 뮤지션들의 레이블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "늦은 시간까지 라방 시청해주신 분들께 진심으로 감사드립니다! 저희는 이제 술 마십니다.. 간간히 근황 전하겠습니다."
+	},
+	{
 		"created_at": "Fri Mar 13 16:29:33 +0000 2020",
 		"id": 1238495453303332900,
 		"id_str": "1238502468411166723",
-		"full_text": "유스케 스물 일곱 번째 목소리, 권진아! (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/HpdT7Aa0XK #권진아 #유희열의스케치북 #유스케X권진아 🧚🏼‍♂️✨〰️",
+		"full_text": "유스케 스물 일곱 번째 목소리, 권진아! (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/HpdT7Aa0XK #권진아 #유희열의스케치북 #유스케X권진아 🧚🏼♂️✨〰️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -126,7 +208,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "유스케 스물 일곱 번째 목소리, 권진아! (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/HpdT7Aa0XK #권진아 #유희열의스케치북 #유스케X권진아 🧚🏼‍♂️✨〰️"
+		"text": "유스케 스물 일곱 번째 목소리, 권진아! (출처 : 유희열의 스케치북 | 네이버TV) https://t.co/HpdT7Aa0XK #권진아 #유희열의스케치북 #유스케X권진아 🧚🏼♂️✨〰️"
 	},
 	{
 		"created_at": "Fri Mar 13 15:29:28 +0000 2020",
