@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 09:29:24 +0000 2020",
+		"id": 1238753397810925600,
+		"id_str": "1238759124185362432",
+		"full_text": "[Release]\nSBS 드라마 '하이에나' OST Part 6\n#정승환  - 나는 너야\n\nMelon https://t.co/2nqJfrvIHa\nBugs https://t.co/3CPgHTLE5G\nGenie https://t.co/H6DdoNH8CR\n\n#JungSeungHwan #나는너야\n#하이에나 #HYENA https://t.co/Gq1PJ8sI6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"text": "나는너야",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "하이에나",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "HYENA",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2nqJfrvIHa",
+					"expanded_url": "https://bit.ly/38KY4CN",
+					"display_url": "bit.ly/38KY4CN",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/3CPgHTLE5G",
+					"expanded_url": "https://bit.ly/38RsyDj",
+					"display_url": "bit.ly/38RsyDj",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/H6DdoNH8CR",
+					"expanded_url": "https://bit.ly/2xCWRkh",
+					"display_url": "bit.ly/2xCWRkh",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238753386243051500,
+					"id_str": "1238753386243051520",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDvpD9UUAAaD-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDvpD9UUAAaD-8.jpg",
+					"url": "https://t.co/Gq1PJ8sI6D",
+					"display_url": "pic.twitter.com/Gq1PJ8sI6D",
+					"expanded_url": "https://twitter.com/antennamusic/status/1238753397810925568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238753386243051500,
+					"id_str": "1238753386243051520",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDvpD9UUAAaD-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDvpD9UUAAaD-8.jpg",
+					"url": "https://t.co/Gq1PJ8sI6D",
+					"display_url": "pic.twitter.com/Gq1PJ8sI6D",
+					"expanded_url": "https://twitter.com/antennamusic/status/1238753397810925568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34660,
+			"friends_count": 12,
+			"listed_count": 408,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1582881097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\nSBS 드라마 '하이에나' OST Part 6\n#정승환  - 나는 너야\n\nMelon https://t.co/2nqJfrvIHa\nBugs https://t.co/3CPgHTLE5G\nGenie https://t.co/H6DdoNH8CR\n\n#JungSeungHwan #나는너야\n#하이에나 #HYENA https://t.co/Gq1PJ8sI6D"
+	},
+	{
 		"created_at": "Sat Mar 14 09:08:08 +0000 2020",
 		"id": 1238753770063818800,
 		"id_str": "1238753770063818754",
