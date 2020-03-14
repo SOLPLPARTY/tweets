@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 09:08:08 +0000 2020",
+		"id": 1238753770063818800,
+		"id_str": "1238753770063818754",
+		"full_text": "지금 지음갓 서지음 작사가님 인스타 라이브 하고 있어요!!!!\nhttps://t.co/53Z1hBicEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53Z1hBicEW",
+					"expanded_url": "https://www.instagram.com/jieum__s/",
+					"display_url": "instagram.com/jieum__s/",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			4531360753
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 지음갓 서지음 작사가님 인스타 라이브 하고 있어요!!!!\nhttps://t.co/53Z1hBicEW"
+	},
+	{
+		"created_at": "Sat Mar 14 08:29:30 +0000 2020",
+		"id": 1238736623283699700,
+		"id_str": "1238744047214354433",
+		"full_text": "[Playlist]\n\n화이트데이 기념! 사탕처럼 달콤한 곡들만 모아 본🍭🍬 바닐라 어쿠스틱의 &lt;화이트데이 추천 플레이리스트&gt;\n(마지막엔 신곡 스포일러까지👀?!)\n\n플레이리스트와 함께 더욱 달달한 하루 되세요💝\n\n🎧https://t.co/kFp8ucKYZb\n\n#바닐라어쿠스틱 #화이트데이 #플레이리스트 https://t.co/xZPOZUzevf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바닐라어쿠스틱",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "화이트데이",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kFp8ucKYZb",
+					"expanded_url": "https://youtu.be/neb3dXQokCE",
+					"display_url": "youtu.be/neb3dXQokCE",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238729141337215000,
+					"id_str": "1238729141337214976",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDZl0pUUAADKGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDZl0pUUAADKGv.jpg",
+					"url": "https://t.co/xZPOZUzevf",
+					"display_url": "pic.twitter.com/xZPOZUzevf",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1238736623283699713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238729141337215000,
+					"id_str": "1238729141337214976",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDZl0pUUAADKGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDZl0pUUAADKGv.jpg",
+					"url": "https://t.co/xZPOZUzevf",
+					"display_url": "pic.twitter.com/xZPOZUzevf",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1238736623283699713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7825,
+			"friends_count": 11,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n화이트데이 기념! 사탕처럼 달콤한 곡들만 모아 본🍭🍬 바닐라 어쿠스틱의 &lt;화이트데이 추천 플레이리스트&gt;\n(마지막엔 신곡 스포일러까지👀?!)\n\n플레이리스트와 함께 더욱 달달한 하루 되세요💝\n\n🎧https://t.co/kFp8ucKYZb\n\n#바닐라어쿠스틱 #화이트데이 #플레이리스트 https://t.co/xZPOZUzevf"
+	},
+	{
 		"created_at": "Sat Mar 14 08:06:25 +0000 2020",
 		"id": 1238738237239316500,
 		"id_str": "1238738237239316480",
