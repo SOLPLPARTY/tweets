@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 12:41:47 +0000 2020",
+		"id": 1239163948051488800,
+		"id_str": "1239169923491995650",
+		"full_text": "👍🏼👍🏼 https://t.co/zLCqzZmBXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLCqzZmBXA",
+					"expanded_url": "https://twitter.com/beansoupllive/status/1239163726533505027",
+					"display_url": "twitter.com/beansoupllive/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295474993,
+			"id_str": "295474993",
+			"name": "카페 언플러그드",
+			"screen_name": "cafe_unplugged",
+			"location": "서울시 마포구 서교동 326-18 1층, 지하 1층",
+			"description": "070-4200-9251",
+			"url": "https://t.co/9lPmySTRmo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lPmySTRmo",
+							"expanded_url": "http://cafe.naver.com/cafeunplugged",
+							"display_url": "cafe.naver.com/cafeunplugged",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1139,
+			"listed_count": 45,
+			"created_at": "Mon May 09 03:05:19 +0000 2011",
+			"favourites_count": 254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295474993/1525645770",
+			"profile_link_color": "FF2450",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239163726533505000,
+		"quoted_status_id_str": "1239163726533505027",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zLCqzZmBXA",
+			"expanded": "https://twitter.com/beansoupllive/status/1239163726533505027",
+			"display": "twitter.com/beansoupllive/…"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👍🏼👍🏼 https://t.co/zLCqzZmBXA"
+	},
+	{
+		"created_at": "Sun Mar 15 12:41:37 +0000 2020",
+		"id": 1239158011559477200,
+		"id_str": "1239169885231595522",
+		"full_text": "클럽FF 공연일정\n\n3/20 금 - 7:30pm  태아,티치,묘리,배드램,러블레스,크랙샷,워킹애프터유\n\n3/21 토 - 7pm  컨파인드화이트,리도어, 이글루베이,별보라,헤이맨,꼬리물기,Pop Ent.\n\n3/22 일 - 6pm  이븐이프,인텍,긍정편향,무릉도원,본디\n\n포스터는 곧 나옵니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6620,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "클럽FF 공연일정\n\n3/20 금 - 7:30pm  태아,티치,묘리,배드램,러블레스,크랙샷,워킹애프터유\n\n3/21 토 - 7pm  컨파인드화이트,리도어, 이글루베이,별보라,헤이맨,꼬리물기,Pop Ent.\n\n3/22 일 - 6pm  이븐이프,인텍,긍정편향,무릉도원,본디\n\n포스터는 곧 나옵니다!"
+	},
+	{
 		"created_at": "Sun Mar 15 12:10:09 +0000 2020",
 		"id": 1239161963550310400,
 		"id_str": "1239161963550310401",
