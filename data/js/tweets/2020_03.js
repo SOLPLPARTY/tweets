@@ -1,6 +1,1331 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 04:08:06 +0000 2020",
+		"id": 1239403039259320300,
+		"id_str": "1239403039259320321",
+		"full_text": "#genie #지니 #지니매거진\n솔로 아티스트로 돌아온 '홍은기'의 첫 EP [UNDEFINABLE:LOVE]\nhttps://t.co/fOKJOBcHwD https://t.co/n3fqe4zAnX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fOKJOBcHwD",
+					"expanded_url": "http://bit.ly/2U7O4ym",
+					"display_url": "bit.ly/2U7O4ym",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239403037929754600,
+					"id_str": "1239403037929754626",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-fxFX0AIR7dO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-fxFX0AIR7dO.jpg",
+					"url": "https://t.co/n3fqe4zAnX",
+					"display_url": "pic.twitter.com/n3fqe4zAnX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239403039259320321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239403037929754600,
+					"id_str": "1239403037929754626",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-fxFX0AIR7dO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-fxFX0AIR7dO.jpg",
+					"url": "https://t.co/n3fqe4zAnX",
+					"display_url": "pic.twitter.com/n3fqe4zAnX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239403039259320321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n솔로 아티스트로 돌아온 '홍은기'의 첫 EP [UNDEFINABLE:LOVE]\nhttps://t.co/fOKJOBcHwD https://t.co/n3fqe4zAnX"
+	},
+	{
+		"created_at": "Mon Mar 16 04:07:53 +0000 2020",
+		"id": 1239402984959815700,
+		"id_str": "1239402984959815680",
+		"full_text": "#genie #지니 #지니매거진\n영국 출신의 월드 팝 스타 Amir의 [ALL OR NOTHING] 뮤직비디오 탐방기\nhttps://t.co/TA5dQYvPZG https://t.co/4JkmHLVl1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TA5dQYvPZG",
+					"expanded_url": "http://bit.ly/3d3HXne",
+					"display_url": "bit.ly/3d3HXne",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239402983676424200,
+					"id_str": "1239402983676424192",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-cm-XsAAyI7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-cm-XsAAyI7X.jpg",
+					"url": "https://t.co/4JkmHLVl1f",
+					"display_url": "pic.twitter.com/4JkmHLVl1f",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402984959815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239402983676424200,
+					"id_str": "1239402983676424192",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-cm-XsAAyI7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-cm-XsAAyI7X.jpg",
+					"url": "https://t.co/4JkmHLVl1f",
+					"display_url": "pic.twitter.com/4JkmHLVl1f",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402984959815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n영국 출신의 월드 팝 스타 Amir의 [ALL OR NOTHING] 뮤직비디오 탐방기\nhttps://t.co/TA5dQYvPZG https://t.co/4JkmHLVl1f"
+	},
+	{
+		"created_at": "Mon Mar 16 04:07:40 +0000 2020",
+		"id": 1239402929792180200,
+		"id_str": "1239402929792180224",
+		"full_text": "#genie #지니 #지니매거진\nDONGKIZ, 싱글 [LUPIN] 발매 기념 독점 인터뷰\nhttps://t.co/TsrqXBULz9 https://t.co/Ezscv6vF60",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsrqXBULz9",
+					"expanded_url": "http://bit.ly/2U6UKgg",
+					"display_url": "bit.ly/2U6UKgg",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239402928403873800,
+					"id_str": "1239402928403873792",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-ZZEXgAA3SfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-ZZEXgAA3SfS.jpg",
+					"url": "https://t.co/Ezscv6vF60",
+					"display_url": "pic.twitter.com/Ezscv6vF60",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402929792180224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239402928403873800,
+					"id_str": "1239402928403873792",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-ZZEXgAA3SfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-ZZEXgAA3SfS.jpg",
+					"url": "https://t.co/Ezscv6vF60",
+					"display_url": "pic.twitter.com/Ezscv6vF60",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402929792180224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\nDONGKIZ, 싱글 [LUPIN] 발매 기념 독점 인터뷰\nhttps://t.co/TsrqXBULz9 https://t.co/Ezscv6vF60"
+	},
+	{
+		"created_at": "Mon Mar 16 04:07:24 +0000 2020",
+		"id": 1239402866269458400,
+		"id_str": "1239402866269458433",
+		"full_text": "#genie #지니 #지니매거진\n나상현씨밴드의 프론트 퍼슨, ‘나상현’의 솔로 EP [스마일] 작업기!\nhttps://t.co/aSHub2Oarp https://t.co/DCWBYLYlEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aSHub2Oarp",
+					"expanded_url": "http://bit.ly/2TRUceZ",
+					"display_url": "bit.ly/2TRUceZ",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239402865082478600,
+					"id_str": "1239402865082478599",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-VtLXsAc0Ofm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-VtLXsAc0Ofm.jpg",
+					"url": "https://t.co/DCWBYLYlEj",
+					"display_url": "pic.twitter.com/DCWBYLYlEj",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402866269458433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239402865082478600,
+					"id_str": "1239402865082478599",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM-VtLXsAc0Ofm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM-VtLXsAc0Ofm.jpg",
+					"url": "https://t.co/DCWBYLYlEj",
+					"display_url": "pic.twitter.com/DCWBYLYlEj",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239402866269458433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n나상현씨밴드의 프론트 퍼슨, ‘나상현’의 솔로 EP [스마일] 작업기!\nhttps://t.co/aSHub2Oarp https://t.co/DCWBYLYlEj"
+	},
+	{
+		"created_at": "Mon Mar 16 03:58:15 +0000 2020",
+		"id": 1239386178777952300,
+		"id_str": "1239400560341770240",
+		"full_text": "[World DJ Festival 2020 Artist #5]\n유명 K-POP 아티스트와의 협업을 진행하며 활발한 활동을 선보이는 Justin OH. 5월 30일 Justin OH만의 트렌디하고 화려한 일렉트로닉 사운드를 월디페에서 만날수 있습니다.\n\n🎫TICKET : https://t.co/8jXfmSb4A6 https://t.co/PumOy118R9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8jXfmSb4A6",
+					"expanded_url": "http://wdjfest.com",
+					"display_url": "wdjfest.com",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239386007637721000,
+					"id_str": "1239386007637721088",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMvAeTWAAAeU8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMvAeTWAAAeU8A.jpg",
+					"url": "https://t.co/PumOy118R9",
+					"display_url": "pic.twitter.com/PumOy118R9",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1239386178777952256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239386007637721000,
+					"id_str": "1239386007637721088",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/ETMvAeTWAAAeU8A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETMvAeTWAAAeU8A.jpg",
+					"url": "https://t.co/PumOy118R9",
+					"display_url": "pic.twitter.com/PumOy118R9",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1239386178777952256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 278,
+			"listed_count": 82,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1557579790",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[World DJ Festival 2020 Artist #5]\n유명 K-POP 아티스트와의 협업을 진행하며 활발한 활동을 선보이는 Justin OH. 5월 30일 Justin OH만의 트렌디하고 화려한 일렉트로닉 사운드를 월디페에서 만날수 있습니다.\n\n🎫TICKET : https://t.co/8jXfmSb4A6 https://t.co/PumOy118R9"
+	},
+	{
+		"created_at": "Mon Mar 16 03:29:27 +0000 2020",
+		"id": 1239390435220455400,
+		"id_str": "1239393313972772866",
+		"full_text": "[Listen here]\nMelon - https://t.co/MW9CBl83rU\nGenie - https://t.co/aCKuPEVbyc\nBugs - https://t.co/HM8KxtDk2E\nVibe - https://t.co/48RpdkD8vs\nFLO - https://t.co/qyAeiI7UNu\nhttps://t.co/DQZ6yEtMQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MW9CBl83rU",
+					"expanded_url": "https://bit.ly/2Wf8fNn",
+					"display_url": "bit.ly/2Wf8fNn",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/aCKuPEVbyc",
+					"expanded_url": "https://bit.ly/3aSqhJo",
+					"display_url": "bit.ly/3aSqhJo",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/HM8KxtDk2E",
+					"expanded_url": "https://bit.ly/39RLMKg",
+					"display_url": "bit.ly/39RLMKg",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/48RpdkD8vs",
+					"expanded_url": "https://bit.ly/39Rr7pS",
+					"display_url": "bit.ly/39Rr7pS",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/qyAeiI7UNu",
+					"expanded_url": "https://bit.ly/3aZnBK9",
+					"display_url": "bit.ly/3aZnBK9",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/DQZ6yEtMQH",
+					"expanded_url": "https://youtu.be/BroHxaerGfE",
+					"display_url": "youtu.be/BroHxaerGfE",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239390433882460200,
+		"in_reply_to_status_id_str": "1239390433882460161",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9735,
+			"friends_count": 2961,
+			"listed_count": 0,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/MW9CBl83rU\nGenie - https://t.co/aCKuPEVbyc\nBugs - https://t.co/HM8KxtDk2E\nVibe - https://t.co/48RpdkD8vs\nFLO - https://t.co/qyAeiI7UNu\nhttps://t.co/DQZ6yEtMQH"
+	},
+	{
+		"created_at": "Mon Mar 16 03:29:25 +0000 2020",
+		"id": 1239390433882460200,
+		"id_str": "1239393305084993536",
+		"full_text": "🆕 New Release March 16\n-\n💿 Animal Divers\n[Openwater (Jayden Klight Remix)]\n\n애니멀다이버스의 첫 번째 정규앨범 ‘Monsoon’의 수록곡인 Openwater를 미국 LA를 기반으로 활동하는 프로듀서 Jayden Klight이 리믹스 한 chill out 풍의 트랙.\n\n✚ 앨범 자세히 보기: https://t.co/qNY8Q1UpbW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qNY8Q1UpbW",
+					"expanded_url": "https://bit.ly/2U6PYiQ",
+					"display_url": "bit.ly/2U6PYiQ",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9735,
+			"friends_count": 2961,
+			"listed_count": 0,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release March 16\n-\n💿 Animal Divers\n[Openwater (Jayden Klight Remix)]\n\n애니멀다이버스의 첫 번째 정규앨범 ‘Monsoon’의 수록곡인 Openwater를 미국 LA를 기반으로 활동하는 프로듀서 Jayden Klight이 리믹스 한 chill out 풍의 트랙.\n\n✚ 앨범 자세히 보기: https://t.co/qNY8Q1UpbW"
+	},
+	{
 		"created_at": "Mon Mar 16 03:10:19 +0000 2020",
 		"id": 1239388500622966800,
 		"id_str": "1239388500622966784",
