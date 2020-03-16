@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 15:29:32 +0000 2020",
+		"id": 1239564436664234000,
+		"id_str": "1239574528277319683",
+		"full_text": "@_ssssng2 안성진이 합주인 걸 까먹고 자기 베이스를 안 가져와서 제가 가진 베이스를 가져왔습니다. 뮤직맨의 스팅레이라는 베이스입니다.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_ssssng2",
+					"name": "💫쓰응💫",
+					"id": 1098217125213130800,
+					"id_str": "1098217125213130759",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239564077023654000,
+		"in_reply_to_status_id_str": "1239564077023653888",
+		"in_reply_to_user_id": 1098217125213130800,
+		"in_reply_to_user_id_str": "1098217125213130759",
+		"in_reply_to_screen_name": "_ssssng2",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 37,
+			"listed_count": 5,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@_ssssng2 안성진이 합주인 걸 까먹고 자기 베이스를 안 가져와서 제가 가진 베이스를 가져왔습니다. 뮤직맨의 스팅레이라는 베이스입니다."
+	},
+	{
+		"created_at": "Mon Mar 16 15:29:27 +0000 2020",
+		"id": 1239564320071024600,
+		"id_str": "1239574506814963712",
+		"full_text": "짧은 일렉트론 연주 영상입니다. https://t.co/yHKsf01JGO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239564151199916000,
+					"id_str": "1239564151199916032",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239564151199916032/pu/img/Pc5CY2BA8Fck-e8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239564151199916032/pu/img/Pc5CY2BA8Fck-e8M.jpg",
+					"url": "https://t.co/yHKsf01JGO",
+					"display_url": "pic.twitter.com/yHKsf01JGO",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1239564320071024641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239564151199916000,
+					"id_str": "1239564151199916032",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239564151199916032/pu/img/Pc5CY2BA8Fck-e8M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239564151199916032/pu/img/Pc5CY2BA8Fck-e8M.jpg",
+					"url": "https://t.co/yHKsf01JGO",
+					"display_url": "pic.twitter.com/yHKsf01JGO",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1239564320071024641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29823,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239564151199916032/pu/vid/480x270/MO71g_DhpFral3Q8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239564151199916032/pu/vid/1280x720/mXrclNVDlE9TgiWq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239564151199916032/pu/pl/76HAkooxYjhVdlUY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239564151199916032/pu/vid/640x360/BDIfQVx2XmpbZQPI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 37,
+			"listed_count": 5,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짧은 일렉트론 연주 영상입니다. https://t.co/yHKsf01JGO"
+	},
+	{
 		"created_at": "Mon Mar 16 13:29:24 +0000 2020",
 		"id": 1239542422821982200,
 		"id_str": "1239544298284122113",
