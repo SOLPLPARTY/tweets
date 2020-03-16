@@ -1,6 +1,1799 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 09:58:20 +0000 2020",
+		"id": 1239477318973657000,
+		"id_str": "1239491178183172096",
+		"full_text": "이번 '그린플러그드 서울 2020'을 빛내줄 신인 그린프렌즈 본선 진출 8팀을 공개합니다!\n\n여러분의 투표가 최종 선발에 반영될 예정이니, \n응원하는 팀이 있다면 얼른 투표해주세요!\n'그린플러그드 서울 2020'의 무대를 채워줄 팀은 누가 될까요?🤔\n\n↘ 응원하러가기\nhttps://t.co/QvPnYTod1e https://t.co/mL1TwbXXpc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QvPnYTod1e",
+					"expanded_url": "https://bit.ly/38MKcbm",
+					"display_url": "bit.ly/38MKcbm",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239477285859647500,
+					"id_str": "1239477285859647488",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOCBkLUYAA64iM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOCBkLUYAA64iM.jpg",
+					"url": "https://t.co/mL1TwbXXpc",
+					"display_url": "pic.twitter.com/mL1TwbXXpc",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239477318973657089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239477285859647500,
+					"id_str": "1239477285859647488",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOCBkLUYAA64iM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOCBkLUYAA64iM.jpg",
+					"url": "https://t.co/mL1TwbXXpc",
+					"display_url": "pic.twitter.com/mL1TwbXXpc",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239477318973657089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239477292679622700,
+					"id_str": "1239477292679622659",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOCB9lU8AMilQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOCB9lU8AMilQg.jpg",
+					"url": "https://t.co/mL1TwbXXpc",
+					"display_url": "pic.twitter.com/mL1TwbXXpc",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239477318973657089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239477302750105600,
+					"id_str": "1239477302750105600",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOCCjGUUAA9fWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOCCjGUUAA9fWE.jpg",
+					"url": "https://t.co/mL1TwbXXpc",
+					"display_url": "pic.twitter.com/mL1TwbXXpc",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239477318973657089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239477310136316000,
+					"id_str": "1239477310136315905",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOCC-nU8AEBgrO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOCC-nU8AEBgrO.jpg",
+					"url": "https://t.co/mL1TwbXXpc",
+					"display_url": "pic.twitter.com/mL1TwbXXpc",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239477318973657089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239476909844488200,
+		"in_reply_to_status_id_str": "1239476909844488192",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12310,
+			"friends_count": 164,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 '그린플러그드 서울 2020'을 빛내줄 신인 그린프렌즈 본선 진출 8팀을 공개합니다!\n\n여러분의 투표가 최종 선발에 반영될 예정이니, \n응원하는 팀이 있다면 얼른 투표해주세요!\n'그린플러그드 서울 2020'의 무대를 채워줄 팀은 누가 될까요?🤔\n\n↘ 응원하러가기\nhttps://t.co/QvPnYTod1e https://t.co/mL1TwbXXpc"
+	},
+	{
+		"created_at": "Mon Mar 16 09:58:15 +0000 2020",
+		"id": 1239476909844488200,
+		"id_str": "1239491156762902529",
+		"full_text": "이번 '그린플러그드 서울 2020'을 빛내줄 신인 그린프렌즈 본선 진출 8팀을 공개합니다!\n\n여러분의 투표가 최종 선발에 반영될 예정이니, 응원하는 팀이 있다면 얼른 투표해주세요!\n'그린플러그드 서울 2020'의 무대를 채워줄 팀은 누가 될까요?🤔\n\n↘ 응원하러가기\nhttps://t.co/QvPnYTod1e https://t.co/1rmMDC3wiJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QvPnYTod1e",
+					"expanded_url": "https://bit.ly/38MKcbm",
+					"display_url": "bit.ly/38MKcbm",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239476873534398500,
+					"id_str": "1239476873534398464",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOBpkJUYAAQnlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOBpkJUYAAQnlR.jpg",
+					"url": "https://t.co/1rmMDC3wiJ",
+					"display_url": "pic.twitter.com/1rmMDC3wiJ",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239476909844488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239476873534398500,
+					"id_str": "1239476873534398464",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOBpkJUYAAQnlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOBpkJUYAAQnlR.jpg",
+					"url": "https://t.co/1rmMDC3wiJ",
+					"display_url": "pic.twitter.com/1rmMDC3wiJ",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239476909844488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239476884464795600,
+					"id_str": "1239476884464795648",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOBqM3VAAABHrh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOBqM3VAAABHrh.jpg",
+					"url": "https://t.co/1rmMDC3wiJ",
+					"display_url": "pic.twitter.com/1rmMDC3wiJ",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239476909844488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239476895361597400,
+					"id_str": "1239476895361597440",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOBq1dVAAAkMoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOBq1dVAAAkMoJ.jpg",
+					"url": "https://t.co/1rmMDC3wiJ",
+					"display_url": "pic.twitter.com/1rmMDC3wiJ",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239476909844488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239476902638653400,
+					"id_str": "1239476902638653440",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOBrQkUEAAe89c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOBrQkUEAAe89c.jpg",
+					"url": "https://t.co/1rmMDC3wiJ",
+					"display_url": "pic.twitter.com/1rmMDC3wiJ",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239476909844488192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12310,
+			"friends_count": 164,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 '그린플러그드 서울 2020'을 빛내줄 신인 그린프렌즈 본선 진출 8팀을 공개합니다!\n\n여러분의 투표가 최종 선발에 반영될 예정이니, 응원하는 팀이 있다면 얼른 투표해주세요!\n'그린플러그드 서울 2020'의 무대를 채워줄 팀은 누가 될까요?🤔\n\n↘ 응원하러가기\nhttps://t.co/QvPnYTod1e https://t.co/1rmMDC3wiJ"
+	},
+	{
+		"created_at": "Mon Mar 16 09:56:19 +0000 2020",
+		"id": 1239490670022111200,
+		"id_str": "1239490670022111233",
+		"full_text": "#Melon #멜론 #멜론매거진\n꿈과 현실, 돌고 도는 관람차, SURL (설) 'Ferris Wheel'\nhttps://t.co/IjzzQQCD7u https://t.co/4ecuwn1XLK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IjzzQQCD7u",
+					"expanded_url": "http://bit.ly/2WhtQ7O",
+					"display_url": "bit.ly/2WhtQ7O",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239490668604481500,
+					"id_str": "1239490668604481537",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOOMiyU4AESNu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOOMiyU4AESNu7.jpg",
+					"url": "https://t.co/4ecuwn1XLK",
+					"display_url": "pic.twitter.com/4ecuwn1XLK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239490670022111233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239490668604481500,
+					"id_str": "1239490668604481537",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOOMiyU4AESNu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOOMiyU4AESNu7.jpg",
+					"url": "https://t.co/4ecuwn1XLK",
+					"display_url": "pic.twitter.com/4ecuwn1XLK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239490670022111233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n꿈과 현실, 돌고 도는 관람차, SURL (설) 'Ferris Wheel'\nhttps://t.co/IjzzQQCD7u https://t.co/4ecuwn1XLK"
+	},
+	{
+		"created_at": "Mon Mar 16 09:51:32 +0000 2020",
+		"id": 1239489469159559200,
+		"id_str": "1239489469159559168",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n자막 by HIPHOPLE | AWA - F**kin' Love Songs ft. Ebenezer\nhttps://t.co/0FuauRxrM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0FuauRxrM9",
+					"expanded_url": "https://youtu.be/RewBo9FPN3U",
+					"display_url": "youtu.be/RewBo9FPN3U",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n자막 by HIPHOPLE | AWA - F**kin' Love Songs ft. Ebenezer\nhttps://t.co/0FuauRxrM9"
+	},
+	{
+		"created_at": "Mon Mar 16 09:32:27 +0000 2020",
+		"id": 1239484666710818800,
+		"id_str": "1239484666710818817",
+		"full_text": "【 #프롬 】 #Fromm\n그린플러그드 서울 2020 (2020.05.16 ~ 2020.05.17) at 추후 공지\n▶ https://t.co/yajzo1WLO2\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/vsKMkUx3DA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yajzo1WLO2",
+					"expanded_url": "http://bit.ly/2uidIHn",
+					"display_url": "bit.ly/2uidIHn",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239484665611853800,
+					"id_str": "1239484665611853824",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOIvH5WoAARW0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOIvH5WoAARW0F.jpg",
+					"url": "https://t.co/vsKMkUx3DA",
+					"display_url": "pic.twitter.com/vsKMkUx3DA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239484666710818817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239484665611853800,
+					"id_str": "1239484665611853824",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ETOIvH5WoAARW0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETOIvH5WoAARW0F.jpg",
+					"url": "https://t.co/vsKMkUx3DA",
+					"display_url": "pic.twitter.com/vsKMkUx3DA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239484666710818817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬 】 #Fromm\n그린플러그드 서울 2020 (2020.05.16 ~ 2020.05.17) at 추후 공지\n▶ https://t.co/yajzo1WLO2\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/vsKMkUx3DA"
+	},
+	{
+		"created_at": "Mon Mar 16 09:29:31 +0000 2020",
+		"id": 1239477835657400300,
+		"id_str": "1239483926885863424",
+		"full_text": "[#신승훈] '이 또한 지나가리라' 선공개곡 발매\nSpecial Album [My Personas]의 '이 또한 지나가리라'가 발매되었습니다.\n\nMelon https://t.co/NvpZ6Olaab\nGenie https://t.co/aXoseFENCs\nBugs https://t.co/6Tjdew2mQ2\nVIBE https://t.co/itPPCo9ehb\n\n#신승훈 #My_Personas #이또한지나가리라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "My_Personas",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "이또한지나가리라",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NvpZ6Olaab",
+					"expanded_url": "https://bit.ly/2TQwO1w",
+					"display_url": "bit.ly/2TQwO1w",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/aXoseFENCs",
+					"expanded_url": "https://bit.ly/3d0Etlu",
+					"display_url": "bit.ly/3d0Etlu",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/6Tjdew2mQ2",
+					"expanded_url": "https://bit.ly/2WhiRLC",
+					"display_url": "bit.ly/2WhiRLC",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/itPPCo9ehb",
+					"expanded_url": "https://bit.ly/2IQJfUM",
+					"display_url": "bit.ly/2IQJfUM",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 1,
+			"listed_count": 21,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신승훈] '이 또한 지나가리라' 선공개곡 발매\nSpecial Album [My Personas]의 '이 또한 지나가리라'가 발매되었습니다.\n\nMelon https://t.co/NvpZ6Olaab\nGenie https://t.co/aXoseFENCs\nBugs https://t.co/6Tjdew2mQ2\nVIBE https://t.co/itPPCo9ehb\n\n#신승훈 #My_Personas #이또한지나가리라"
+	},
+	{
+		"created_at": "Mon Mar 16 09:29:29 +0000 2020",
+		"id": 1239476877623877600,
+		"id_str": "1239483918094647296",
+		"full_text": "[Release]\n'꿈과 현실, 돌고 도는 관람차'\nSURL (설) Single [Ferris Wheel] 발매\n⠀\n현재 모든 음원사이트에서 확인하실 수 있습니다.\n(Official M/V ▶️ https://t.co/DH9piX3HRA)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DH9piX3HRA",
+					"expanded_url": "https://youtu.be/k9SLCFR9ieE",
+					"display_url": "youtu.be/k9SLCFR9ieE",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13485,
+			"friends_count": 2458,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n'꿈과 현실, 돌고 도는 관람차'\nSURL (설) Single [Ferris Wheel] 발매\n⠀\n현재 모든 음원사이트에서 확인하실 수 있습니다.\n(Official M/V ▶️ https://t.co/DH9piX3HRA)"
+	},
+	{
+		"created_at": "Mon Mar 16 09:29:27 +0000 2020",
+		"id": 1239476676209197000,
+		"id_str": "1239483909269839873",
+		"full_text": "[#신승훈] 🎥 '이 또한 지나가리라' Official Lyric Video\n\n🔗 https://t.co/nfEweDd9lp\n\n#신승훈 #SpecialAlbum\n#My_Personas #이또한지나가리라\n#LyricVideo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "SpecialAlbum",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"text": "My_Personas",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "이또한지나가리라",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "LyricVideo",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nfEweDd9lp",
+					"expanded_url": "https://youtu.be/cMiauqOgCNw",
+					"display_url": "youtu.be/cMiauqOgCNw",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 1,
+			"listed_count": 21,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신승훈] 🎥 '이 또한 지나가리라' Official Lyric Video\n\n🔗 https://t.co/nfEweDd9lp\n\n#신승훈 #SpecialAlbum\n#My_Personas #이또한지나가리라\n#LyricVideo"
+	},
+	{
+		"created_at": "Mon Mar 16 09:29:25 +0000 2020",
+		"id": 1239476501768093700,
+		"id_str": "1239483900461752321",
+		"full_text": "[D-3] \n\n바닐라 어쿠스틱 '아닌 척 말하기가' Lyric Image\n\n매일 아침 난 소란스러워져\n너를 만날 기다림으로\n아닌 척 말하기가 이제는 어려워요 \n사실 나 I like you\n\n🎧 𝟐𝟎𝟐𝟎.𝟎𝟑.𝟏𝟗. 𝟔𝐏𝐌 𝐑𝐞𝐥𝐞𝐚𝐬𝐞\n\n#바닐라어쿠스틱 #아닌척말하기가 #쇼파르뮤직 #ShofarMusic #VanillaAcoustic https://t.co/fEBxAFThEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바닐라어쿠스틱",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "아닌척말하기가",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "VanillaAcoustic",
+					"indices": [
+						171,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239473708265164800,
+					"id_str": "1239473708265164801",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/ETN-xUmU0AEM5Hd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETN-xUmU0AEM5Hd.jpg",
+					"url": "https://t.co/fEBxAFThEf",
+					"display_url": "pic.twitter.com/fEBxAFThEf",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1239476501768093697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239473708265164800,
+					"id_str": "1239473708265164801",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/ETN-xUmU0AEM5Hd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETN-xUmU0AEM5Hd.jpg",
+					"url": "https://t.co/fEBxAFThEf",
+					"display_url": "pic.twitter.com/fEBxAFThEf",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1239476501768093697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7826,
+			"friends_count": 11,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-3] \n\n바닐라 어쿠스틱 '아닌 척 말하기가' Lyric Image\n\n매일 아침 난 소란스러워져\n너를 만날 기다림으로\n아닌 척 말하기가 이제는 어려워요 \n사실 나 I like you\n\n🎧 𝟐𝟎𝟐𝟎.𝟎𝟑.𝟏𝟗. 𝟔𝐏𝐌 𝐑𝐞𝐥𝐞𝐚𝐬𝐞\n\n#바닐라어쿠스틱 #아닌척말하기가 #쇼파르뮤직 #ShofarMusic #VanillaAcoustic https://t.co/fEBxAFThEf"
+	},
+	{
 		"created_at": "Mon Mar 16 09:15:12 +0000 2020",
 		"id": 1239480326587629600,
 		"id_str": "1239480326587629568",
