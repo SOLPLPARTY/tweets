@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 07:41:37 +0000 2020",
+		"id": 1239442939626963000,
+		"id_str": "1239456775369351168",
+		"full_text": "공연을 앞둔 아티스트 분들 혹은 공연업 사장님들은 확인해보시면 좋을 것 같아요. 언플러그드 네이버 카페에서도 주문이 가능하고 디엠으로도 예약이 가능합니다! @pierpaperpapier https://t.co/MQZYFESuIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pierpaperpapier",
+					"name": "hyejinshin",
+					"id": 1215286589238038500,
+					"id_str": "1215286589238038528",
+					"indices": [
+						87,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MQZYFESuIC",
+					"expanded_url": "https://twitter.com/pierpaperpapier/status/1239442145498415104",
+					"display_url": "twitter.com/pierpaperpapie…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295474993,
+			"id_str": "295474993",
+			"name": "카페 언플러그드",
+			"screen_name": "cafe_unplugged",
+			"location": "서울시 마포구 서교동 326-18 1층, 지하 1층",
+			"description": "070-4200-9251",
+			"url": "https://t.co/9lPmySTRmo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9lPmySTRmo",
+							"expanded_url": "http://cafe.naver.com/cafeunplugged",
+							"display_url": "cafe.naver.com/cafeunplugged",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1141,
+			"listed_count": 45,
+			"created_at": "Mon May 09 03:05:19 +0000 2011",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950439490631352320/q6E5We2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295474993/1525645770",
+			"profile_link_color": "FF2450",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239442145498415000,
+		"quoted_status_id_str": "1239442145498415104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MQZYFESuIC",
+			"expanded": "https://twitter.com/pierpaperpapier/status/1239442145498415104",
+			"display": "twitter.com/pierpaperpapie…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 06:43:29 +0000 2020",
+			"id": 1239442145498415000,
+			"id_str": "1239442145498415104",
+			"full_text": "코로나로 공연 취소 등 제약이 많지만 남은 이벤트 진행을 할 수 밖에 없는 아티스트 분들과 공연장 사장님들을 위한 관객 나눔용 마스크 공유합니다. 예약 후 홍대 카페 언플러그드에서 픽업 혹은 택배 배송이 가능합니다. https://t.co/TPJJCX9Zav",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1239442129543409700,
+						"id_str": "1239442129543409664",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/ETNiDMsWsAAejfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETNiDMsWsAAejfk.jpg",
+						"url": "https://t.co/TPJJCX9Zav",
+						"display_url": "pic.twitter.com/TPJJCX9Zav",
+						"expanded_url": "https://twitter.com/pierpaperpapier/status/1239442145498415104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239442129543409700,
+						"id_str": "1239442129543409664",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/ETNiDMsWsAAejfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETNiDMsWsAAejfk.jpg",
+						"url": "https://t.co/TPJJCX9Zav",
+						"display_url": "pic.twitter.com/TPJJCX9Zav",
+						"expanded_url": "https://twitter.com/pierpaperpapier/status/1239442145498415104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1239442129555984400,
+						"id_str": "1239442129555984385",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/ETNiDMvWkAEccfX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETNiDMvWkAEccfX.jpg",
+						"url": "https://t.co/TPJJCX9Zav",
+						"display_url": "pic.twitter.com/TPJJCX9Zav",
+						"expanded_url": "https://twitter.com/pierpaperpapier/status/1239442145498415104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 946,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1215286589238038500,
+				"id_str": "1215286589238038528",
+				"name": "hyejinshin",
+				"screen_name": "pierpaperpapier",
+				"location": "대한민국",
+				"description": "Sound artist of Artexte",
+				"url": "https://t.co/E70UFHYdtf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E70UFHYdtf",
+								"expanded_url": "http://soundcloud.com/hyejinsin",
+								"display_url": "soundcloud.com/hyejinsin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 68,
+				"listed_count": 0,
+				"created_at": "Thu Jan 09 14:58:03 +0000 2020",
+				"favourites_count": 136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1239398731239186433/O2lQJQ8v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239398731239186433/O2lQJQ8v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1215286589238038528/1584326982",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연을 앞둔 아티스트 분들 혹은 공연업 사장님들은 확인해보시면 좋을 것 같아요. 언플러그드 네이버 카페에서도 주문이 가능하고 디엠으로도 예약이 가능합니다! @pierpaperpapier https://t.co/MQZYFESuIC"
+	},
+	{
+		"created_at": "Mon Mar 16 07:29:41 +0000 2020",
+		"id": 1239451544157737000,
+		"id_str": "1239453770905509888",
+		"full_text": "@DrVpSbHoSsLv9 의도가 들어간 영상입니다. 😊",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrVpSbHoSsLv9",
+					"name": "잇츠 싸이언수(링피트)(~3.29)",
+					"id": 1125699123410194400,
+					"id_str": "1125699123410194432",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239450582944845800,
+		"in_reply_to_status_id_str": "1239450582944845824",
+		"in_reply_to_user_id": 1125699123410194400,
+		"in_reply_to_user_id_str": "1125699123410194432",
+		"in_reply_to_screen_name": "DrVpSbHoSsLv9",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@DrVpSbHoSsLv9 의도가 들어간 영상입니다. 😊"
+	},
+	{
+		"created_at": "Mon Mar 16 07:29:39 +0000 2020",
+		"id": 1239451298216308700,
+		"id_str": "1239453762026160128",
+		"full_text": "@caneleluv 아직 확정은 아닙니다. 상품 디자인은 확정되는대로 공유해드릴 예정입니다. 티켓은 절개선 없이 확인되면 소장 가능하도록 제작할 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caneleluv",
+					"name": "냥주",
+					"id": 1156154803845648400,
+					"id_str": "1156154803845648384",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239446099674321000,
+		"in_reply_to_status_id_str": "1239446099674320896",
+		"in_reply_to_user_id": 1156154803845648400,
+		"in_reply_to_user_id_str": "1156154803845648384",
+		"in_reply_to_screen_name": "caneleluv",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@caneleluv 아직 확정은 아닙니다. 상품 디자인은 확정되는대로 공유해드릴 예정입니다. 티켓은 절개선 없이 확인되면 소장 가능하도록 제작할 예정입니다."
+	},
+	{
+		"created_at": "Mon Mar 16 07:29:30 +0000 2020",
+		"id": 1239444693898809300,
+		"id_str": "1239453723715305472",
+		"full_text": "@yun_forband 공연 당일 원할한 입장을 위해 티켓 포함 모든 상품을 배송해드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yun_forband",
+					"name": "윤재",
+					"id": 1161486834364485600,
+					"id_str": "1161486834364485633",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239442052183556000,
+		"in_reply_to_status_id_str": "1239442052183556097",
+		"in_reply_to_user_id": 1161486834364485600,
+		"in_reply_to_user_id_str": "1161486834364485633",
+		"in_reply_to_screen_name": "yun_forband",
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@yun_forband 공연 당일 원할한 입장을 위해 티켓 포함 모든 상품을 배송해드립니다."
+	},
+	{
 		"created_at": "Mon Mar 16 07:11:52 +0000 2020",
 		"id": 1239449288733835300,
 		"id_str": "1239449288733835267",
