@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 13:29:24 +0000 2020",
+		"id": 1239542422821982200,
+		"id_str": "1239544298284122113",
+		"full_text": "일렉트론 건반 녹음이 끝나고 지금은 합주를 하러 왔습니다. 녹음이 만족스럽게 끝나서 모두 즐거워하고 있습니다. https://t.co/iNg6437Mkn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239542409102418000,
+					"id_str": "1239542409102417921",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ETO9QPKU4AEvxWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETO9QPKU4AEvxWD.jpg",
+					"url": "https://t.co/iNg6437Mkn",
+					"display_url": "pic.twitter.com/iNg6437Mkn",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1239542422821982209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239542409102418000,
+					"id_str": "1239542409102417921",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ETO9QPKU4AEvxWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETO9QPKU4AEvxWD.jpg",
+					"url": "https://t.co/iNg6437Mkn",
+					"display_url": "pic.twitter.com/iNg6437Mkn",
+					"expanded_url": "https://twitter.com/bullgamasound/status/1239542422821982209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1145007465907359700,
+			"id_str": "1145007465907359744",
+			"name": "불가마 싸운드",
+			"screen_name": "bullgamasound",
+			"location": "",
+			"description": "가장 사랑스러운 매드 사이언티스트, 닥터스의 새로운 앨범 제작을 위한 텀블벅 프로젝트 시작!\r \r 🔽펀딩하러 가기🔽",
+			"url": "https://t.co/dt2eJwFkRr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dt2eJwFkRr",
+							"expanded_url": "https://www.tumblbug.com/newdoctors",
+							"display_url": "tumblbug.com/newdoctors",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Sat Jun 29 16:33:47 +0000 2019",
+			"favourites_count": 2585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145008127139385344/XLXOwx6p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1145007465907359744/1562598295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일렉트론 건반 녹음이 끝나고 지금은 합주를 하러 왔습니다. 녹음이 만족스럽게 끝나서 모두 즐거워하고 있습니다. https://t.co/iNg6437Mkn"
+	},
+	{
 		"created_at": "Mon Mar 16 12:59:37 +0000 2020",
 		"id": 1239536800202469400,
 		"id_str": "1239536800202469377",
