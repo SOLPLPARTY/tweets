@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 12:01:26 +0000 2020",
+		"id": 1239884546348376000,
+		"id_str": "1239884546348376064",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n뮤\nhttps://t.co/GuUXbVDLhJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GuUXbVDLhJ",
+					"expanded_url": "https://youtu.be/kYdM-L_aG1M",
+					"display_url": "youtu.be/kYdM-L_aG1M",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n뮤\nhttps://t.co/GuUXbVDLhJ"
+	},
+	{
+		"created_at": "Tue Mar 17 11:31:17 +0000 2020",
+		"id": 1239876958298701800,
+		"id_str": "1239876958298701824",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\nK-INDIE CHART VOL.168\nhttps://t.co/OSNOOScrH6\n#케이인디차트 #K_INDIE_CHART",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "케이인디차트",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "K_INDIE_CHART",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OSNOOScrH6",
+					"expanded_url": "http://bit.ly/33vtYCn",
+					"display_url": "bit.ly/33vtYCn",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#미러볼뮤직 #Mirrorball_Music\nK-INDIE CHART VOL.168\nhttps://t.co/OSNOOScrH6\n#케이인디차트 #K_INDIE_CHART"
+	},
+	{
+		"created_at": "Tue Mar 17 11:29:39 +0000 2020",
+		"id": 1239874881631600600,
+		"id_str": "1239876546976002049",
+		"full_text": "Dub Pulse\n+\nTHSS  \n\n최태현(쾅프로그램), 민성식 으로 구성된 즉흥 전자 음악 듀오. 노이즈, 엠비언트, 댄스음악에 영향받음. &lt;HOP HOP HOP (2017)&gt; , &lt;CARGO CULT (2020)&gt; https://t.co/GOmWp1ow4e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239874875168133000,
+					"id_str": "1239874875168133121",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTroTxUEAEvVYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTroTxUEAEvVYg.jpg",
+					"url": "https://t.co/GOmWp1ow4e",
+					"display_url": "pic.twitter.com/GOmWp1ow4e",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239874881631600642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239874875168133000,
+					"id_str": "1239874875168133121",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTroTxUEAEvVYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTroTxUEAEvVYg.jpg",
+					"url": "https://t.co/GOmWp1ow4e",
+					"display_url": "pic.twitter.com/GOmWp1ow4e",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239874881631600642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239862888019275800,
+		"in_reply_to_status_id_str": "1239862888019275776",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 66,
+			"listed_count": 9,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dub Pulse\n+\nTHSS  \n\n최태현(쾅프로그램), 민성식 으로 구성된 즉흥 전자 음악 듀오. 노이즈, 엠비언트, 댄스음악에 영향받음. &lt;HOP HOP HOP (2017)&gt; , &lt;CARGO CULT (2020)&gt; https://t.co/GOmWp1ow4e"
+	},
+	{
+		"created_at": "Tue Mar 17 11:29:32 +0000 2020",
+		"id": 1239864448250085400,
+		"id_str": "1239876516907008000",
+		"full_text": "Beats, Bombs &amp; Noise Wall by:\n\nTHSS (Live)\nHeejin Jang (Live)\nQuandol\nVon Bueno\n\n* 입장료 15000\n* 입장시 그리고 관람시 반드시 마스크를 착용해주세요\n* 미성년 입장불가\n\n#DubPulseSeoul\n#THSS\n#HeejinJang https://t.co/a8oRDiGSsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DubPulseSeoul",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "THSS",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "HeejinJang",
+					"indices": [
+						160,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239864428398444500,
+					"id_str": "1239864428398444545",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTiIOhVAAE37lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTiIOhVAAE37lw.jpg",
+					"url": "https://t.co/a8oRDiGSsE",
+					"display_url": "pic.twitter.com/a8oRDiGSsE",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239864448250085376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 775,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 775,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239864428398444500,
+					"id_str": "1239864428398444545",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTiIOhVAAE37lw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTiIOhVAAE37lw.jpg",
+					"url": "https://t.co/a8oRDiGSsE",
+					"display_url": "pic.twitter.com/a8oRDiGSsE",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239864448250085376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 775,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 775,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239864431229591600,
+					"id_str": "1239864431229591552",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTiIZEU4AAmTk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTiIZEU4AAmTk6.jpg",
+					"url": "https://t.co/a8oRDiGSsE",
+					"display_url": "pic.twitter.com/a8oRDiGSsE",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239864448250085376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239864441786601500,
+					"id_str": "1239864441786601474",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTiJAZUEAIOVre.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTiJAZUEAIOVre.jpg",
+					"url": "https://t.co/a8oRDiGSsE",
+					"display_url": "pic.twitter.com/a8oRDiGSsE",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239864448250085376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239864445557338000,
+					"id_str": "1239864445557338115",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTiJOcU8AMkg-R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTiJOcU8AMkg-R.jpg",
+					"url": "https://t.co/a8oRDiGSsE",
+					"display_url": "pic.twitter.com/a8oRDiGSsE",
+					"expanded_url": "https://twitter.com/bombino_records/status/1239864448250085376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239862888019275800,
+		"in_reply_to_status_id_str": "1239862888019275776",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 66,
+			"listed_count": 9,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Beats, Bombs &amp; Noise Wall by:\n\nTHSS (Live)\nHeejin Jang (Live)\nQuandol\nVon Bueno\n\n* 입장료 15000\n* 입장시 그리고 관람시 반드시 마스크를 착용해주세요\n* 미성년 입장불가\n\n#DubPulseSeoul\n#THSS\n#HeejinJang https://t.co/a8oRDiGSsE"
+	},
+	{
 		"created_at": "Tue Mar 17 10:58:31 +0000 2020",
 		"id": 1239855277878304800,
 		"id_str": "1239868712355868672",
