@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 09:58:15 +0000 2020",
+		"id": 1239848542761451500,
+		"id_str": "1239853545073127424",
+		"full_text": "☮ DMZ PEACE TRAIN MUSIC FESTIVAL 2020\n\n지금 우리, 눈부신 평화와 만날 때! \nPEACEFUL BODY, DANCEFUL MIND!\n\n서울 플랫폼창동61 06.10-06.11\n강원 철원군 고석정 일대 06.12-06.14\n\n1차 큐레이션 [WATCH!] 공개 D-1\n\n*DMZ 피스트레인 뮤직 페스티벌의 디자인은 트라이앵글-스튜디오와 함께합니다. https://t.co/GDJa0y1Dco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239848477737111600,
+					"id_str": "1239848477737111552",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTTnxrUUAAUDQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTTnxrUUAAUDQ-.jpg",
+					"url": "https://t.co/GDJa0y1Dco",
+					"display_url": "pic.twitter.com/GDJa0y1Dco",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1239848542761451521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239848477737111600,
+					"id_str": "1239848477737111552",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTTnxrUUAAUDQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTTnxrUUAAUDQ-.jpg",
+					"url": "https://t.co/GDJa0y1Dco",
+					"display_url": "pic.twitter.com/GDJa0y1Dco",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1239848542761451521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 32,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮ DMZ PEACE TRAIN MUSIC FESTIVAL 2020\n\n지금 우리, 눈부신 평화와 만날 때! \nPEACEFUL BODY, DANCEFUL MIND!\n\n서울 플랫폼창동61 06.10-06.11\n강원 철원군 고석정 일대 06.12-06.14\n\n1차 큐레이션 [WATCH!] 공개 D-1\n\n*DMZ 피스트레인 뮤직 페스티벌의 디자인은 트라이앵글-스튜디오와 함께합니다. https://t.co/GDJa0y1Dco"
+	},
+	{
+		"created_at": "Tue Mar 17 09:41:38 +0000 2020",
+		"id": 1239835696619081700,
+		"id_str": "1239849362861232130",
+		"full_text": "[대관지원 이벤트] \n\n&lt;구름아래소극장 개관 1주년 기념 '대관지원 이벤트'&gt;가 진행된다고 합니다🎉\n무대를 사랑하는 많은 분들의 관심 부탁드립니다!🔥\n\n📍 모집기간:  ~ 3/22(일)\n📍 지원부문: 신인뮤지션 / 경력뮤지션 / 평일 / 제안 / 랜선라이브\n📍 지원내용: 이미지 참고\n📍 문의: 02-3280-8800 https://t.co/Ge74zmaYRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239835435100016600,
+					"id_str": "1239835435100016640",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239835435100016600,
+					"id_str": "1239835435100016640",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHwmEUEAAg51o.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835474279059500,
+					"id_str": "1239835474279059456",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHy4BU0AARNTQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHy4BU0AARNTQ.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 945,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835482751557600,
+					"id_str": "1239835482751557633",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTHzXlU4AE2efE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTHzXlU4AE2efE.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1417,
+							"h": 884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239835494076133400,
+					"id_str": "1239835494076133376",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTH0BxUMAAcCTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTH0BxUMAAcCTP.jpg",
+					"url": "https://t.co/Ge74zmaYRn",
+					"display_url": "pic.twitter.com/Ge74zmaYRn",
+					"expanded_url": "https://twitter.com/xindieticket/status/1239835696619081728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2877,
+			"friends_count": 2766,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[대관지원 이벤트] \n\n&lt;구름아래소극장 개관 1주년 기념 '대관지원 이벤트'&gt;가 진행된다고 합니다🎉\n무대를 사랑하는 많은 분들의 관심 부탁드립니다!🔥\n\n📍 모집기간:  ~ 3/22(일)\n📍 지원부문: 신인뮤지션 / 경력뮤지션 / 평일 / 제안 / 랜선라이브\n📍 지원내용: 이미지 참고\n📍 문의: 02-3280-8800 https://t.co/Ge74zmaYRn"
+	},
+	{
+		"created_at": "Tue Mar 17 09:35:32 +0000 2020",
+		"id": 1239847831176953900,
+		"id_str": "1239847831176953856",
+		"full_text": "#genie #지니 #지니매거진\n한층 성숙해진 느낌으로 돌아온 세정이의 [화분] 자켓 촬영 비하인드 대공개!\nhttps://t.co/n8Ir5veBDH https://t.co/4Ja5Q6AxuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n8Ir5veBDH",
+					"expanded_url": "http://bit.ly/2x5Bqbq",
+					"display_url": "bit.ly/2x5Bqbq",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239847830048702500,
+					"id_str": "1239847830048702464",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTTCE2XgAAXtaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTTCE2XgAAXtaU.jpg",
+					"url": "https://t.co/4Ja5Q6AxuJ",
+					"display_url": "pic.twitter.com/4Ja5Q6AxuJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239847831176953856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239847830048702500,
+					"id_str": "1239847830048702464",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTTCE2XgAAXtaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTTCE2XgAAXtaU.jpg",
+					"url": "https://t.co/4Ja5Q6AxuJ",
+					"display_url": "pic.twitter.com/4Ja5Q6AxuJ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1239847831176953856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 352,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n한층 성숙해진 느낌으로 돌아온 세정이의 [화분] 자켓 촬영 비하인드 대공개!\nhttps://t.co/n8Ir5veBDH https://t.co/4Ja5Q6AxuJ"
+	},
+	{
+		"created_at": "Tue Mar 17 09:29:25 +0000 2020",
+		"id": 1239840321460031500,
+		"id_str": "1239846289107451905",
+		"full_text": "지니매거진에 싱글 ‘한숨’ 발매 기념 인터뷰가 공개되었습니다🚀\n⠀\n💿감상평 이벤트도 함께 진행중입니다\n응모 기간 : ~3/31까지\n당첨 발표 : 4/7\n당첨 선물 : 사인CD (3명)\n⠀\n*링크 : https://t.co/Vd4A1Wh6Ik\n-\n#우주왕복선싸이드미러 #싱글 #한숨 #지니매거진 https://t.co/V24TdvDO2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "한숨",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vd4A1Wh6Ik",
+					"expanded_url": "http://genie.co.kr/GR27J9",
+					"display_url": "genie.co.kr/GR27J9",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239840315034370000,
+					"id_str": "1239840315034370048",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTMMpPVAAAp7ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTMMpPVAAAp7ap.jpg",
+					"url": "https://t.co/V24TdvDO2G",
+					"display_url": "pic.twitter.com/V24TdvDO2G",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1239840321460031488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239840315034370000,
+					"id_str": "1239840315034370048",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTMMpPVAAAp7ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTMMpPVAAAp7ap.jpg",
+					"url": "https://t.co/V24TdvDO2G",
+					"display_url": "pic.twitter.com/V24TdvDO2G",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1239840321460031488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239840315004948500,
+					"id_str": "1239840315004948481",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTMMpIUEAEFg5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTMMpIUEAEFg5j.jpg",
+					"url": "https://t.co/V24TdvDO2G",
+					"display_url": "pic.twitter.com/V24TdvDO2G",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1239840321460031488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 725,
+							"h": 725,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 725,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1784,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지니매거진에 싱글 ‘한숨’ 발매 기념 인터뷰가 공개되었습니다🚀\n⠀\n💿감상평 이벤트도 함께 진행중입니다\n응모 기간 : ~3/31까지\n당첨 발표 : 4/7\n당첨 선물 : 사인CD (3명)\n⠀\n*링크 : https://t.co/Vd4A1Wh6Ik\n-\n#우주왕복선싸이드미러 #싱글 #한숨 #지니매거진 https://t.co/V24TdvDO2G"
+	},
+	{
 		"created_at": "Tue Mar 17 09:16:05 +0000 2020",
 		"id": 1239842935098814500,
 		"id_str": "1239842935098814467",
