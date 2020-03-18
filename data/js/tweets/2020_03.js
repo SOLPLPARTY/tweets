@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 14:07:24 +0000 2020",
+		"id": 1240269646248333300,
+		"id_str": "1240278633488330752",
+		"full_text": "코토바는 글래스톤베리페스티벌 출연 섭외를 받은 상태였는데, 방금 취소 공지가 올라왔습니다. 정말 아쉽습니다. 좋은 곳에서 만나길 기대합니다. \n\nGlastonbury Festivalからcotoba出演オファーがありましたが、先程開催中止をお知らせしました。とても心が痛むことです。またの機会に会いましょう。 https://t.co/BqywQYcPcN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqywQYcPcN",
+					"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569",
+					"display_url": "twitter.com/glastonbury/st…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1045232269303066600,
+			"id_str": "1045232269303066624",
+			"name": "コトバ cotoba 코토바 🌿 5/30 🌦️",
+			"screen_name": "bandcotoba",
+			"location": "",
+			"description": "🐧math&post rock band コトバ cotoba 코토바 🍃 vo.DyoN gt.DAFNE dr.Marker ba.euPhemia dr.17 🌿\n\nNEW LIVE CLIP ⬇️⬇️⬇️",
+			"url": "https://t.co/h8EVZVtT6b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h8EVZVtT6b",
+							"expanded_url": "https://youtu.be/n8NGDo4Ioyg",
+							"display_url": "youtu.be/n8NGDo4Ioyg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 100,
+			"listed_count": 5,
+			"created_at": "Thu Sep 27 08:42:47 +0000 2018",
+			"favourites_count": 2932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096065385877495809/8DShcWQV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096065385877495809/8DShcWQV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045232269303066624/1538038639",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240230721060589600,
+		"quoted_status_id_str": "1240230721060589569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BqywQYcPcN",
+			"expanded": "https://twitter.com/glastonbury/status/1240230721060589569",
+			"display": "twitter.com/glastonbury/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 10:57:00 +0000 2020",
+			"id": 1240230721060589600,
+			"id_str": "1240230721060589569",
+			"full_text": "We are so sorry to announce this, but we are going to have to cancel Glastonbury 2020. Tickets for this year will roll over to next year. Full statement below and on our website. Michael &amp; Emily https://t.co/ox8kcQ0HoB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240230620653146000,
+						"id_str": "1240230620653146113",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"url": "https://t.co/ox8kcQ0HoB",
+						"display_url": "pic.twitter.com/ox8kcQ0HoB",
+						"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240230620653146000,
+						"id_str": "1240230620653146113",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETYvLa-X0AE30P7.png",
+						"url": "https://t.co/ox8kcQ0HoB",
+						"display_url": "pic.twitter.com/ox8kcQ0HoB",
+						"expanded_url": "https://twitter.com/glastonbury/status/1240230721060589569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863867,
+				"id_str": "18863867",
+				"name": "Glastonbury Festival",
+				"screen_name": "glastonbury",
+				"location": "Worthy Farm, Pilton",
+				"description": "Official Glastonbury Festival. We can't answer all Qs asked here, but they should be answered at our website (link below), where there's also a contact form.",
+				"url": "https://t.co/RnEGnca2dP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RnEGnca2dP",
+								"expanded_url": "http://www.glastonburyfestivals.co.uk",
+								"display_url": "glastonburyfestivals.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 746608,
+				"friends_count": 294,
+				"listed_count": 4879,
+				"created_at": "Sun Jan 11 11:07:24 +0000 2009",
+				"favourites_count": 608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6267,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238178472083820546/bidq1QoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238178472083820546/bidq1QoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863867/1556897842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6317,
+			"favorite_count": 12985,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "코토바는 글래스톤베리페스티벌 출연 섭외를 받은 상태였는데, 방금 취소 공지가 올라왔습니다. 정말 아쉽습니다. 좋은 곳에서 만나길 기대합니다. \n\nGlastonbury Festivalからcotoba出演オファーがありましたが、先程開催中止をお知らせしました。とても心が痛むことです。またの機会に会いましょう。 https://t.co/BqywQYcPcN"
+	},
+	{
 		"created_at": "Wed Mar 18 12:59:42 +0000 2020",
 		"id": 1240261597072932900,
 		"id_str": "1240261597072932866",
