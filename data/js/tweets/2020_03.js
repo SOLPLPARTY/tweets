@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 14:24:11 +0000 2020",
+		"id": 1240008947639169000,
+		"id_str": "1240282857483821062",
+		"full_text": "To support musicians during the Covid-19 pandemic, Bandcamp is waiving our revenue share on all sales this Friday, March 20, from midnight to midnight PST. \n\nRead more here: https://t.co/hPhgm7WBR4 https://t.co/HDyjdvBQet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hPhgm7WBR4",
+					"expanded_url": "https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser",
+					"display_url": "daily.bandcamp.com/features/bandc…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240008548207284200,
+					"id_str": "1240008548207284224",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVlNGpX0AAm5oe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETVlNGpX0AAm5oe.jpg",
+					"url": "https://t.co/HDyjdvBQet",
+					"display_url": "pic.twitter.com/HDyjdvBQet",
+					"expanded_url": "https://twitter.com/Bandcamp/status/1240008947639169025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240008548207284200,
+					"id_str": "1240008548207284224",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVlNGpX0AAm5oe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETVlNGpX0AAm5oe.jpg",
+					"url": "https://t.co/HDyjdvBQet",
+					"display_url": "pic.twitter.com/HDyjdvBQet",
+					"expanded_url": "https://twitter.com/Bandcamp/status/1240008947639169025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16705752,
+			"id_str": "16705752",
+			"name": "bandcamp",
+			"screen_name": "Bandcamp",
+			"location": "",
+			"description": "We're Bandcamp, a publishing platform for musicians.\n🎧 Got a question? Please email support@bandcamp.com.",
+			"url": "http://t.co/l1v7r0YCHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l1v7r0YCHl",
+							"expanded_url": "http://bandcamp.com",
+							"display_url": "bandcamp.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135810,
+			"friends_count": 354,
+			"listed_count": 2972,
+			"created_at": "Sun Oct 12 07:27:04 +0000 2008",
+			"favourites_count": 8995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16705752/1553018855",
+			"profile_link_color": "1DA0C3",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4683,
+		"favorite_count": 7397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To support musicians during the Covid-19 pandemic, Bandcamp is waiving our revenue share on all sales this Friday, March 20, from midnight to midnight PST. \n\nRead more here: https://t.co/hPhgm7WBR4 https://t.co/HDyjdvBQet"
+	},
+	{
 		"created_at": "Wed Mar 18 14:07:24 +0000 2020",
 		"id": 1240269646248333300,
 		"id_str": "1240278633488330752",
