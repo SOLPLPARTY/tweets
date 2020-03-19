@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 05:34:17 +0000 2020",
+		"id": 1240511892701040600,
+		"id_str": "1240511892701040646",
+		"full_text": "#Melon #멜론 #멜론매거진\n윤상이 꿈꾸는 일렉트로닉 음악의 미래, '디지털리언 믹스업 Vol.2'\nhttps://t.co/GUxoNpzYu9 https://t.co/XCmQKEoNZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GUxoNpzYu9",
+					"expanded_url": "http://bit.ly/2xQO91X",
+					"display_url": "bit.ly/2xQO91X",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240511891706982400,
+					"id_str": "1240511891706982400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcu_jTXsAAj6E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcu_jTXsAAj6E3.jpg",
+					"url": "https://t.co/XCmQKEoNZi",
+					"display_url": "pic.twitter.com/XCmQKEoNZi",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240511892701040646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240511891706982400,
+					"id_str": "1240511891706982400",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcu_jTXsAAj6E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcu_jTXsAAj6E3.jpg",
+					"url": "https://t.co/XCmQKEoNZi",
+					"display_url": "pic.twitter.com/XCmQKEoNZi",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240511892701040646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n윤상이 꿈꾸는 일렉트로닉 음악의 미래, '디지털리언 믹스업 Vol.2'\nhttps://t.co/GUxoNpzYu9 https://t.co/XCmQKEoNZi"
+	},
+	{
+		"created_at": "Thu Mar 19 05:29:34 +0000 2020",
+		"id": 1240507861299368000,
+		"id_str": "1240510704014286848",
+		"full_text": "기존 4월 11일(토) 진행 예정이었던 [Have A Nice Day #8]는 코로나 19의 감염 피해 우려로 인해 4월 30일(목) 으로 변경되었습니다. 자세한 사항은 아래 링크를 통해 확인해 주시기 바랍니다.\n✔️ 상세 안내  https://t.co/5eoixt64OD https://t.co/EzExCRmfEr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5eoixt64OD",
+					"expanded_url": "https://www.instagram.com/h.an.d/",
+					"display_url": "instagram.com/h.an.d/",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/EzExCRmfEr",
+					"expanded_url": "https://twitter.com/antennamusic/status/1216949613640372225",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34583,
+			"friends_count": 12,
+			"listed_count": 409,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1582881097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216949613640372200,
+		"quoted_status_id_str": "1216949613640372225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EzExCRmfEr",
+			"expanded": "https://twitter.com/antennamusic/status/1216949613640372225",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 05:06:12 +0000 2020",
+			"id": 1216949613640372200,
+			"id_str": "1216949613640372225",
+			"full_text": "[Have A Nice Day #8] 라인업 발표\n\n#정승환\n#권진아\n\n✈️ Have A Nice Day #8\n일시: 2020년 4월 11일(토)\n장소: 서울 난지한강공원\n가격: 77,000원\n예매: 인터파크 / 위메프\n⠀\n✈️ 티켓 오픈: 1월 28일(화) 오후 2시\n✈️ 타임테이블 공개: 2월 20일(목)\n⠀\n#haveaniceday #해브어나이스데이 #핸드 #8 https://t.co/Hf7JPmqYwT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "정승환",
+						"indices": [
+							29,
+							33
+						]
+					},
+					{
+						"text": "권진아",
+						"indices": [
+							34,
+							38
+						]
+					},
+					{
+						"text": "haveaniceday",
+						"indices": [
+							176,
+							189
+						]
+					},
+					{
+						"text": "해브어나이스데이",
+						"indices": [
+							190,
+							199
+						]
+					},
+					{
+						"text": "핸드",
+						"indices": [
+							200,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216949599249678300,
+						"id_str": "1216949599249678337",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/EON5NnzUwAErqJR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EON5NnzUwAErqJR.jpg",
+						"url": "https://t.co/Hf7JPmqYwT",
+						"display_url": "pic.twitter.com/Hf7JPmqYwT",
+						"expanded_url": "https://twitter.com/antennamusic/status/1216949613640372225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1191,
+								"h": 1684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216949599249678300,
+						"id_str": "1216949599249678337",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/EON5NnzUwAErqJR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EON5NnzUwAErqJR.jpg",
+						"url": "https://t.co/Hf7JPmqYwT",
+						"display_url": "pic.twitter.com/Hf7JPmqYwT",
+						"expanded_url": "https://twitter.com/antennamusic/status/1216949613640372225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1191,
+								"h": 1684,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+				"url": "https://t.co/CqfXN7It7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CqfXN7It7U",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34583,
+				"friends_count": 12,
+				"listed_count": 409,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 58,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2995,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1582881097",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기존 4월 11일(토) 진행 예정이었던 [Have A Nice Day #8]는 코로나 19의 감염 피해 우려로 인해 4월 30일(목) 으로 변경되었습니다. 자세한 사항은 아래 링크를 통해 확인해 주시기 바랍니다.\n✔️ 상세 안내  https://t.co/5eoixt64OD https://t.co/EzExCRmfEr"
+	},
+	{
 		"created_at": "Thu Mar 19 04:41:54 +0000 2020",
 		"id": 1240494413773549600,
 		"id_str": "1240498708912967680",
