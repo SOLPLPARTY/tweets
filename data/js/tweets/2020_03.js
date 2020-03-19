@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 03:56:49 +0000 2020",
+		"id": 1240476758782046200,
+		"id_str": "1240487365719633920",
+		"full_text": "코로나19 바이러스로 인해 사회적 거리두기 중인 사람들을 위해 콜드플레이(@coldplay)의 크리스 마틴은 인스타그램 라이브를 통해 #TogetherAtHome 콘서트를 열었습니다. 존 레전드(@johnlegend)도 뒤이어 #TogetherAtHome '방구석 콘서트'를 개최할 예정입니다.\n\nhttps://t.co/2EDqMRY1Md",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"text": "TogetherAtHome",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay🌙☀️",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "johnlegend",
+					"name": "John Legend",
+					"id": 18228898,
+					"id_str": "18228898",
+					"indices": [
+						109,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2EDqMRY1Md",
+					"expanded_url": "https://www.billboard.com/articles/news/9336191/coldplaychris-martin-live-stream-concert?utm_medium=social&utm_source=twitter",
+					"display_url": "billboard.com/articles/news/…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20039,
+			"friends_count": 16,
+			"listed_count": 78,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1583207273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19 바이러스로 인해 사회적 거리두기 중인 사람들을 위해 콜드플레이(@coldplay)의 크리스 마틴은 인스타그램 라이브를 통해 #TogetherAtHome 콘서트를 열었습니다. 존 레전드(@johnlegend)도 뒤이어 #TogetherAtHome '방구석 콘서트'를 개최할 예정입니다.\n\nhttps://t.co/2EDqMRY1Md"
+	},
+	{
+		"created_at": "Thu Mar 19 03:56:19 +0000 2020",
+		"id": 1240475030938464300,
+		"id_str": "1240487237269082112",
+		"full_text": "안녕하세요 여러분\n보수동쿨러의 야심찬 싱글,\n“We Live In The Jurassic Park”\n\n오늘부터 온갖 음원사이트에서 들으실 수 있어요🦖🦕🦖🦕\n\n이번주 주말과 다음주 주말은 보수동쿨러의 단독공연이 있답니다\n\n다들 몸 조심하고 좀있다 만나요🙆‍♂️🙆‍♀️🙆‍♂️🙆‍♂️\n\nhttps://t.co/8JYZUXr6Ub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JYZUXr6Ub",
+					"expanded_url": "https://youtu.be/ISXp2xz_xo8",
+					"display_url": "youtu.be/ISXp2xz_xo8",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764366851161763800,
+			"id_str": "764366851161763840",
+			"name": "보수동쿨러",
+			"screen_name": "bosudongcooler",
+			"location": "",
+			"description": "부산에서 활동중인 밴드. 보수동쿨러.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Sat Aug 13 07:43:53 +0000 2016",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147893688565039104/jK28QJ3v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147893688565039104/jK28QJ3v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764366851161763840/1570881092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 여러분\n보수동쿨러의 야심찬 싱글,\n“We Live In The Jurassic Park”\n\n오늘부터 온갖 음원사이트에서 들으실 수 있어요🦖🦕🦖🦕\n\n이번주 주말과 다음주 주말은 보수동쿨러의 단독공연이 있답니다\n\n다들 몸 조심하고 좀있다 만나요🙆‍♂️🙆‍♀️🙆‍♂️🙆‍♂️\n\nhttps://t.co/8JYZUXr6Ub"
+	},
+	{
+		"created_at": "Thu Mar 19 03:55:16 +0000 2020",
+		"id": 1240458199200714800,
+		"id_str": "1240486974156242944",
+		"full_text": "[MV] V(BTS) - 'Sweet Night'\n&lt;이태원 클라쓰&gt; OST Part.12♪\n\n쓰리고 아픈 밤을 만난 박새로이를\n위로하는 스윗한 뷔의 목소리...💜\n\n#이태원클라쓰 #이태원클라쓰OST \n#SweetNight #방탄소년단 #BTS #V #뷔\n#박서준 #김다미 #권나라 #유재명 https://t.co/BmITaYEnRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이태원클라쓰",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "이태원클라쓰OST",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "SweetNight",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "V",
+					"indices": [
+						142,
+						144
+					]
+				},
+				{
+					"text": "뷔",
+					"indices": [
+						145,
+						147
+					]
+				},
+				{
+					"text": "박서준",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "김다미",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "권나라",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "유재명",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240456833388568600,
+					"id_str": "1240456833388568577",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ETb-IYKU8AAwLoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETb-IYKU8AAwLoK.jpg",
+					"url": "https://t.co/BmITaYEnRX",
+					"display_url": "pic.twitter.com/BmITaYEnRX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1240458199200714752/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240456833388568600,
+					"id_str": "1240456833388568577",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ETb-IYKU8AAwLoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETb-IYKU8AAwLoK.jpg",
+					"url": "https://t.co/BmITaYEnRX",
+					"display_url": "pic.twitter.com/BmITaYEnRX",
+					"expanded_url": "https://twitter.com/jtbclove/status/1240458199200714752/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 209109,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1240456833388568577/pl/6jnitB5oF5QHIe-o.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240456833388568577/vid/1280x720/TYWncCGRN9z3Pwy3.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240456833388568577/vid/480x270/8virX725ACHeVxjG.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1240456833388568577/vid/640x360/r_8AxxveV2uPoGfg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[MV] V(BTS) - 'Sweet Night' <이태원 클라쓰> OST Part.12♪",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011148/pm10056702/vo10360040/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "JTBC",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433906,
+			"friends_count": 112,
+			"listed_count": 755,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/813661224802009088/sSSxXuV5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/813661224802009088/sSSxXuV5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1581469262",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1382,
+		"favorite_count": 2269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[MV] V(BTS) - 'Sweet Night'\n&lt;이태원 클라쓰&gt; OST Part.12♪\n\n쓰리고 아픈 밤을 만난 박새로이를\n위로하는 스윗한 뷔의 목소리...💜\n\n#이태원클라쓰 #이태원클라쓰OST \n#SweetNight #방탄소년단 #BTS #V #뷔\n#박서준 #김다미 #권나라 #유재명 https://t.co/BmITaYEnRX"
+	},
+	{
+		"created_at": "Thu Mar 19 03:41:25 +0000 2020",
+		"id": 1240483491067953200,
+		"id_str": "1240483491067953152",
+		"full_text": "#genie #지니 #지니매거진\n시우, 새 싱글 [기다리는 비]로 찾아온 라이브 영상, 프로필 촬영 현장!\nhttps://t.co/Z8ZNXAil7u https://t.co/Z8onrWNzBA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z8ZNXAil7u",
+					"expanded_url": "http://bit.ly/2WlZ0v3",
+					"display_url": "bit.ly/2WlZ0v3",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240483489969037300,
+					"id_str": "1240483489969037312",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcVKWlXYAAPI-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcVKWlXYAAPI-S.jpg",
+					"url": "https://t.co/Z8onrWNzBA",
+					"display_url": "pic.twitter.com/Z8onrWNzBA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240483491067953152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240483489969037300,
+					"id_str": "1240483489969037312",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcVKWlXYAAPI-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcVKWlXYAAPI-S.jpg",
+					"url": "https://t.co/Z8onrWNzBA",
+					"display_url": "pic.twitter.com/Z8onrWNzBA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240483491067953152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 353,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n시우, 새 싱글 [기다리는 비]로 찾아온 라이브 영상, 프로필 촬영 현장!\nhttps://t.co/Z8ZNXAil7u https://t.co/Z8onrWNzBA"
+	},
+	{
 		"created_at": "Thu Mar 19 03:00:54 +0000 2020",
 		"id": 1240473292995256300,
 		"id_str": "1240473292995256320",
