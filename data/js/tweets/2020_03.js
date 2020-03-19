@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 09:38:15 +0000 2020",
+		"id": 1240573290411896800,
+		"id_str": "1240573290411896832",
+		"full_text": "#가온차트 #칼럼\nGAON's 관찰노트\n▶ https://t.co/VtmuAT9NNR\n　\n#GaonChart #가온 #Gaon https://t.co/iPS0rq3SRF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "가온",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtmuAT9NNR",
+					"expanded_url": "http://bit.ly/391aNS3",
+					"display_url": "bit.ly/391aNS3",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240573289061322800,
+					"id_str": "1240573289061322752",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/ETdm1WRWkAAs6W_.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETdm1WRWkAAs6W_.png",
+					"url": "https://t.co/iPS0rq3SRF",
+					"display_url": "pic.twitter.com/iPS0rq3SRF",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240573290411896832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240573289061322800,
+					"id_str": "1240573289061322752",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/ETdm1WRWkAAs6W_.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETdm1WRWkAAs6W_.png",
+					"url": "https://t.co/iPS0rq3SRF",
+					"display_url": "pic.twitter.com/iPS0rq3SRF",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1240573290411896832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 636,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #칼럼\nGAON's 관찰노트\n▶ https://t.co/VtmuAT9NNR\n　\n#GaonChart #가온 #Gaon https://t.co/iPS0rq3SRF"
+	},
+	{
+		"created_at": "Thu Mar 19 09:29:44 +0000 2020",
+		"id": 1240569216987574300,
+		"id_str": "1240571145008578561",
+		"full_text": "[최낙타] 오늘 저녁 9시 브이앱 '유어썸머' 채널에서 유썸패치 최낙타편 생중계가 있습니다 🐪\n⠀\n실시간으로 최낙타를 낱낱이 파헤쳐보아요!\n맛있는 야식과 함께해요 😘\n*라이브 링크 : https://t.co/WRl90glMvh\n-\n#유썸패치 #최낙타 #브이앱 https://t.co/5HLa5kcbBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유썸패치",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "최낙타",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WRl90glMvh",
+					"expanded_url": "http://vlive.tv/video/180940",
+					"display_url": "vlive.tv/video/180940",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240569208448024600,
+					"id_str": "1240569208448024577",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ETdjH0zVAAE3ojy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETdjH0zVAAE3ojy.jpg",
+					"url": "https://t.co/5HLa5kcbBN",
+					"display_url": "pic.twitter.com/5HLa5kcbBN",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1240569216987574272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240569208448024600,
+					"id_str": "1240569208448024577",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ETdjH0zVAAE3ojy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETdjH0zVAAE3ojy.jpg",
+					"url": "https://t.co/5HLa5kcbBN",
+					"display_url": "pic.twitter.com/5HLa5kcbBN",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1240569216987574272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1782,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최낙타] 오늘 저녁 9시 브이앱 '유어썸머' 채널에서 유썸패치 최낙타편 생중계가 있습니다 🐪\n⠀\n실시간으로 최낙타를 낱낱이 파헤쳐보아요!\n맛있는 야식과 함께해요 😘\n*라이브 링크 : https://t.co/WRl90glMvh\n-\n#유썸패치 #최낙타 #브이앱 https://t.co/5HLa5kcbBN"
+	},
+	{
+		"created_at": "Thu Mar 19 09:29:37 +0000 2020",
+		"id": 1240566952117956600,
+		"id_str": "1240571114973278210",
+		"full_text": "[바닐라 어쿠스틱 - '아닌 척 말하기가' 바로듣기]\n\n멜론 https://t.co/wSBYqMrQcB\n지니 https://t.co/LVb1Ya1Xbn\n플로 https://t.co/1tmnAn6FZO\n벅스 https://t.co/bZn7Fb0DQe\n소리바다 https://t.co/b05K7oE0T0\n네이버뮤직 https://t.co/2EflspJyPU\n\n#쇼파르뮤직 #바닐라어쿠스틱 #아닌척말하기가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "바닐라어쿠스틱",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "아닌척말하기가",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wSBYqMrQcB",
+					"expanded_url": "https://bit.ly/2IYPN3Q",
+					"display_url": "bit.ly/2IYPN3Q",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/LVb1Ya1Xbn",
+					"expanded_url": "https://bit.ly/33sJij4",
+					"display_url": "bit.ly/33sJij4",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/1tmnAn6FZO",
+					"expanded_url": "https://bit.ly/2vy57Bj",
+					"display_url": "bit.ly/2vy57Bj",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/bZn7Fb0DQe",
+					"expanded_url": "https://bit.ly/3b2HlfQ",
+					"display_url": "bit.ly/3b2HlfQ",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/b05K7oE0T0",
+					"expanded_url": "https://bit.ly/3dhLfnh",
+					"display_url": "bit.ly/3dhLfnh",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/2EflspJyPU",
+					"expanded_url": "https://bit.ly/3a3AyTc",
+					"display_url": "bit.ly/3a3AyTc",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240563661791318000,
+		"in_reply_to_status_id_str": "1240563661791318016",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7824,
+			"friends_count": 11,
+			"listed_count": 72,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[바닐라 어쿠스틱 - '아닌 척 말하기가' 바로듣기]\n\n멜론 https://t.co/wSBYqMrQcB\n지니 https://t.co/LVb1Ya1Xbn\n플로 https://t.co/1tmnAn6FZO\n벅스 https://t.co/bZn7Fb0DQe\n소리바다 https://t.co/b05K7oE0T0\n네이버뮤직 https://t.co/2EflspJyPU\n\n#쇼파르뮤직 #바닐라어쿠스틱 #아닌척말하기가"
+	},
+	{
+		"created_at": "Thu Mar 19 09:29:28 +0000 2020",
+		"id": 1240563719462998000,
+		"id_str": "1240571076708577280",
+		"full_text": "[영상소식][VLOG]달고나 커피 가장 빠른 도구는?? | 다이소 반죽기 vs 거품기 vs 나무숟가락 영상이 업데이트 되었습니다. -에이프릴 세컨드&gt;&gt;https://t.co/yuFZsr5Bbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yuFZsr5Bbs",
+					"expanded_url": "http://kko.to/RGS7Iw6jM",
+					"display_url": "kko.to/RGS7Iw6jM",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://partner.melon.com/\" rel=\"nofollow\">Melon Partner Center</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2203,
+			"friends_count": 2470,
+			"listed_count": 75,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[영상소식][VLOG]달고나 커피 가장 빠른 도구는?? | 다이소 반죽기 vs 거품기 vs 나무숟가락 영상이 업데이트 되었습니다. -에이프릴 세컨드&gt;&gt;https://t.co/yuFZsr5Bbs"
+	},
+	{
 		"created_at": "Thu Mar 19 09:16:14 +0000 2020",
 		"id": 1240567747899281400,
 		"id_str": "1240567747899281410",
