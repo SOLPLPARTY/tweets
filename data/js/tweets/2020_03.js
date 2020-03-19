@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 01:34:01 +0000 2020",
+		"id": 1240280677699862500,
+		"id_str": "1240451427299811328",
+		"full_text": "[SECRET FESTA]의 아이덴티티 디자인을 했습니다. \n_______________________________________\n2020/03/28(SAT) 5:30-9:30PM(KST)\n#MAGICSTRAWBERRYSOUND OFFICIAL YOUTUBE LIVE STREAMING #SECRETFESTA #SF https://t.co/UPYSZ5PU7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAGICSTRAWBERRYSOUND",
+					"indices": [
+						107,
+						128
+					]
+				},
+				{
+					"text": "SECRETFESTA",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "SF",
+					"indices": [
+						174,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240280658414465000,
+					"id_str": "1240280658414465025",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETZcsAKU8AEjS5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETZcsAKU8AEjS5p.jpg",
+					"url": "https://t.co/UPYSZ5PU7f",
+					"display_url": "pic.twitter.com/UPYSZ5PU7f",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1240280677699862528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240280658414465000,
+					"id_str": "1240280658414465025",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETZcsAKU8AEjS5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETZcsAKU8AEjS5p.jpg",
+					"url": "https://t.co/UPYSZ5PU7f",
+					"display_url": "pic.twitter.com/UPYSZ5PU7f",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1240280677699862528/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ETZcsAKU8AEjS5p.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719202626638774300,
+			"id_str": "719202626638774272",
+			"name": "SUPERSALADSTUFF",
+			"screen_name": "supersaladstuff",
+			"location": "",
+			"description": "그래픽디자인을 합니다. 책과 포스터, 진, 무가지 등의 인쇄물을 주기적으로 만들고 소개합니다. 음악 관련 디자인과 움직이는 것들도 가끔 만듭니다. info@supersaladstuff.com",
+			"url": "https://t.co/A8t1l6lfYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A8t1l6lfYG",
+							"expanded_url": "http://supersaladstuff.com",
+							"display_url": "supersaladstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 124,
+			"listed_count": 5,
+			"created_at": "Sun Apr 10 16:37:23 +0000 2016",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719202626638774272/1583942293",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SECRET FESTA]의 아이덴티티 디자인을 했습니다. \n_______________________________________\n2020/03/28(SAT) 5:30-9:30PM(KST)\n#MAGICSTRAWBERRYSOUND OFFICIAL YOUTUBE LIVE STREAMING #SECRETFESTA #SF https://t.co/UPYSZ5PU7f"
+	},
+	{
 		"created_at": "Wed Mar 18 14:24:11 +0000 2020",
 		"id": 1240008947639169000,
 		"id_str": "1240282857483821062",
