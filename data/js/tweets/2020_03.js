@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 10:38:48 +0000 2020",
+		"id": 1240563661862813700,
+		"id_str": "1240588529001844739",
+		"full_text": "[코드 쿤스트 (CODE KUNST)], 2nd Single [KnoCK]\n-\n'KnoCK (Feat. 백예린)'의 뮤직비디오가 AOMGOFFICIAL 유튜브 채널에 공개되었습니다.\n'KnoCK (Feat. Yerin Baek)' Official MV is now on the AOMGOFFICIAL YouTube Channel.\n-\n#코드쿤스트 #CODEKUNST\n#백예린 #YerinBaek\n#KnoCK\n#PEOPLE\n#AOMG https://t.co/8IXxxEIvGd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코드쿤스트",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "CODEKUNST",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"text": "KnoCK",
+					"indices": [
+						221,
+						227
+					]
+				},
+				{
+					"text": "PEOPLE",
+					"indices": [
+						228,
+						235
+					]
+				},
+				{
+					"text": "AOMG",
+					"indices": [
+						236,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240550993869148200,
+					"id_str": "1240550993869148160",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240550993869148160/pu/img/aj1ce1NHqcGh5pd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240550993869148160/pu/img/aj1ce1NHqcGh5pd4.jpg",
+					"url": "https://t.co/8IXxxEIvGd",
+					"display_url": "pic.twitter.com/8IXxxEIvGd",
+					"expanded_url": "https://twitter.com/AOMGOFFICIAL/status/1240563661862813700/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240550993869148200,
+					"id_str": "1240550993869148160",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240550993869148160/pu/img/aj1ce1NHqcGh5pd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240550993869148160/pu/img/aj1ce1NHqcGh5pd4.jpg",
+					"url": "https://t.co/8IXxxEIvGd",
+					"display_url": "pic.twitter.com/8IXxxEIvGd",
+					"expanded_url": "https://twitter.com/AOMGOFFICIAL/status/1240563661862813700/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240550993869148160/pu/vid/1280x720/sgSfnvY14QokGr8O.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240550993869148160/pu/vid/480x270/ezcjzmSZRo8Lo70t.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240550993869148160/pu/vid/640x360/A0rCzXX1Q2qT9bnQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1240550993869148160/pu/pl/-vH-baz93Xdo0wzS.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1559687305,
+			"id_str": "1559687305",
+			"name": "AOMG",
+			"screen_name": "AOMGOFFICIAL",
+			"location": "₩orld₩ide",
+			"description": "Contact : info@aomgofficial.comㅤ\nsogumm & dress, DS '내 입맛 (Feat. ZICO)' ↙ㅤ\nhttps://t.co/FsAjHcrWT7",
+			"url": "https://t.co/Rm2P6l9pXZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rm2P6l9pXZ",
+							"expanded_url": "http://WWW.AOMGOFFICIAL.COM",
+							"display_url": "AOMGOFFICIAL.COM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FsAjHcrWT7",
+							"expanded_url": "http://aomgofficial.lnk.to/MyTaste",
+							"display_url": "aomgofficial.lnk.to/MyTaste",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 121835,
+			"friends_count": 33,
+			"listed_count": 432,
+			"created_at": "Mon Jul 01 04:52:29 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940178936247414784/gC9kpePx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940178936247414784/gC9kpePx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1559687305/1512991073",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코드 쿤스트 (CODE KUNST)], 2nd Single [KnoCK]\n-\n'KnoCK (Feat. 백예린)'의 뮤직비디오가 AOMGOFFICIAL 유튜브 채널에 공개되었습니다.\n'KnoCK (Feat. Yerin Baek)' Official MV is now on the AOMGOFFICIAL YouTube Channel.\n-\n#코드쿤스트 #CODEKUNST\n#백예린 #YerinBaek\n#KnoCK\n#PEOPLE\n#AOMG https://t.co/8IXxxEIvGd"
+	},
+	{
 		"created_at": "Thu Mar 19 09:38:15 +0000 2020",
 		"id": 1240573290411896800,
 		"id_str": "1240573290411896832",
