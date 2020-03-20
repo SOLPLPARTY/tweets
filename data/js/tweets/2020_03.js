@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 06:01:28 +0000 2020",
+		"id": 1240881123078606800,
+		"id_str": "1240881123078606848",
+		"full_text": "#DMZ_Peace_Train_Music_Festival\nPEACE TRAIN 2020 ARTIST - 나윤선 (Nah Youn Sun)\nhttps://t.co/VevQpSIb6P\n#DMZ피스트레인 #디엠지피스트레인\n#Festival #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DMZ_Peace_Train_Music_Festival",
+					"indices": [
+						0,
+						31
+					]
+				},
+				{
+					"text": "DMZ피스트레인",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "디엠지피스트레인",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VevQpSIb6P",
+					"expanded_url": "https://youtu.be/Piwu88CZ7HY",
+					"display_url": "youtu.be/Piwu88CZ7HY",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @EntRecruitKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 353,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#DMZ_Peace_Train_Music_Festival\nPEACE TRAIN 2020 ARTIST - 나윤선 (Nah Youn Sun)\nhttps://t.co/VevQpSIb6P\n#DMZ피스트레인 #디엠지피스트레인\n#Festival #페스티벌"
+	},
+	{
+		"created_at": "Fri Mar 20 05:29:34 +0000 2020",
+		"id": 1240870610898579500,
+		"id_str": "1240873093079412736",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/ltKwUiBUhM\n-\n[Listen here]\nApple Music - https://t.co/VKplj6YkKg\nMelon - https://t.co/9zXEwsYlJW\nGenie - https://t.co/ZKLM5N1bdJ\nBugs - https://t.co/YozsO60LwY\nVibe - https://t.co/WAluYJiHsQ\nFLO - https://t.co/xcQAbhDBns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ltKwUiBUhM",
+					"expanded_url": "https://bit.ly/32g4DeV",
+					"display_url": "bit.ly/32g4DeV",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/VKplj6YkKg",
+					"expanded_url": "https://apple.co/37TBuYb",
+					"display_url": "apple.co/37TBuYb",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/9zXEwsYlJW",
+					"expanded_url": "https://bit.ly/2vV32iw",
+					"display_url": "bit.ly/2vV32iw",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/ZKLM5N1bdJ",
+					"expanded_url": "https://bit.ly/2HGYK0X",
+					"display_url": "bit.ly/2HGYK0X",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/YozsO60LwY",
+					"expanded_url": "https://bit.ly/2uhircF",
+					"display_url": "bit.ly/2uhircF",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/WAluYJiHsQ",
+					"expanded_url": "https://bit.ly/2HI8RCO",
+					"display_url": "bit.ly/2HI8RCO",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/xcQAbhDBns",
+					"expanded_url": "https://bit.ly/2Uk0ymF",
+					"display_url": "bit.ly/2Uk0ymF",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240870609577373700,
+		"in_reply_to_status_id_str": "1240870609577373696",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9711,
+			"friends_count": 2960,
+			"listed_count": 273,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/ltKwUiBUhM\n-\n[Listen here]\nApple Music - https://t.co/VKplj6YkKg\nMelon - https://t.co/9zXEwsYlJW\nGenie - https://t.co/ZKLM5N1bdJ\nBugs - https://t.co/YozsO60LwY\nVibe - https://t.co/WAluYJiHsQ\nFLO - https://t.co/xcQAbhDBns"
+	},
+	{
 		"created_at": "Fri Mar 20 05:12:14 +0000 2020",
 		"id": 1240868730504204300,
 		"id_str": "1240868730504204288",
