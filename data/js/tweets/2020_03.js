@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 07:29:24 +0000 2020",
+		"id": 1240897523662729200,
+		"id_str": "1240903252549472261",
+		"full_text": "[#신승훈][#로시] 🔔 Mnet '너의 목소리가 보여7'\n\n오늘 오후 7시 30분, Mnet '너의 목소리가보여7'에 신승훈 님과 로시가 함께 출연합니다.\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #로시 #Rothy #Mnet #너의목소리가보여7 #너목보7 #본방사수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "로시",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "로시",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "Rothy",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "너의목소리가보여7",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "너목보7",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1943,
+			"friends_count": 1,
+			"listed_count": 21,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#신승훈][#로시] 🔔 Mnet '너의 목소리가 보여7'\n\n오늘 오후 7시 30분, Mnet '너의 목소리가보여7'에 신승훈 님과 로시가 함께 출연합니다.\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #로시 #Rothy #Mnet #너의목소리가보여7 #너목보7 #본방사수"
+	},
+	{
 		"created_at": "Fri Mar 20 07:05:12 +0000 2020",
 		"id": 1240897159790309400,
 		"id_str": "1240897159790309376",
