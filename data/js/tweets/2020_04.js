@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 12:02:32 +0000 2020",
+		"id": 1245300394781061000,
+		"id_str": "1245320641319858176",
+		"full_text": "안녕 4월의 첫날 잘 지내고 있나요. 오늘은 &lt;꾸꾸꾸&gt; 악보를 준비했습니다! 어제 발매 된 비사이드 두번째파트 음원들도 많이 들어주세요. 고맙습니다(੭•̀ᴗ•̀)੭ https://t.co/cuvPNP8AaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245300382667956200,
+					"id_str": "1245300382667956224",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"url": "https://t.co/cuvPNP8AaN",
+					"display_url": "pic.twitter.com/cuvPNP8AaN",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1245300394781061121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245300382667956200,
+					"id_str": "1245300382667956224",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUgyGaOU4AAJjst.jpg",
+					"url": "https://t.co/cuvPNP8AaN",
+					"display_url": "pic.twitter.com/cuvPNP8AaN",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1245300394781061121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1133,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 929392287053836300,
+			"id_str": "929392287053836288",
+			"name": "브로콜리너마저",
+			"screen_name": "studiobroccoli",
+			"location": "",
+			"description": "밴드 브로콜리너마저 입니다. 070-7745-3003 broccoliyoutoo@gmail.com https://t.co/tLNzk6AXwx",
+			"url": "https://t.co/MBSb6ZMhK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MBSb6ZMhK7",
+							"expanded_url": "http://broccoliyoutoo.com",
+							"display_url": "broccoliyoutoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tLNzk6AXwx",
+							"expanded_url": "http://www.youtube.com/VIDEOBROCCOLIYOUTOO",
+							"display_url": "youtube.com/VIDEOBROCCOLIY…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 475,
+			"friends_count": 315,
+			"listed_count": 1,
+			"created_at": "Sat Nov 11 16:56:03 +0000 2017",
+			"favourites_count": 2195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929393624239939584/Czlxz7k4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929393624239939584/Czlxz7k4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929392287053836288/1579254457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "안녕 4월의 첫날 잘 지내고 있나요. 오늘은 &lt;꾸꾸꾸&gt; 악보를 준비했습니다! 어제 발매 된 비사이드 두번째파트 음원들도 많이 들어주세요. 고맙습니다(੭•̀ᴗ•̀)੭ https://t.co/cuvPNP8AaN"
+	},
+	{
+		"created_at": "Wed Apr 01 11:29:55 +0000 2020",
+		"id": 1245311690985443300,
+		"id_str": "1245312431494176768",
+		"full_text": "백예린 단독공연 'Turn on that Blue Vinyl'의 라이브영상이 공개되었습니다. 그날의 생생한 감동을 'Yerin Baek' 유튜브에서 지금 바로 만나보세요🕊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245311640628650000,
+		"in_reply_to_status_id_str": "1245311640628649985",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "백예린 단독공연 'Turn on that Blue Vinyl'의 라이브영상이 공개되었습니다. 그날의 생생한 감동을 'Yerin Baek' 유튜브에서 지금 바로 만나보세요🕊"
+	},
+	{
+		"created_at": "Wed Apr 01 11:29:47 +0000 2020",
+		"id": 1245311640628650000,
+		"id_str": "1245312401626542083",
+		"full_text": "[LIVE] Intro + Rest + Popo (How deep is our love?) : Turn on that Blue Vinyl\n\nLive performance videos from the Yerin Baek solo concert ‘Turn on that Blue Vinyl’ are now released. Come join the crowd!\n\nhttps://t.co/AlLCEnaFbF\n⠀\n#백예린 #Yerinbaek #백예린단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						227,
+						231
+					]
+				},
+				{
+					"text": "Yerinbaek",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"text": "백예린단독공연",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AlLCEnaFbF",
+					"expanded_url": "https://www.youtube.com/watch?v=LOBLsUld-4I",
+					"display_url": "youtube.com/watch?v=LOBLsU…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9214,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LIVE] Intro + Rest + Popo (How deep is our love?) : Turn on that Blue Vinyl\n\nLive performance videos from the Yerin Baek solo concert ‘Turn on that Blue Vinyl’ are now released. Come join the crowd!\n\nhttps://t.co/AlLCEnaFbF\n⠀\n#백예린 #Yerinbaek #백예린단독공연"
+	},
+	{
 		"created_at": "Wed Apr 01 11:05:54 +0000 2020",
 		"id": 1245306389427376000,
 		"id_str": "1245306389427376129",
