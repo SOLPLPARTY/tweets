@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 12:51:52 +0000 2020",
+		"id": 1245333057617485800,
+		"id_str": "1245333057617485826",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] Floating Moments - dive\nhttps://t.co/Wf4lBXdjuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wf4lBXdjuT",
+					"expanded_url": "https://youtu.be/VLejXdgkJBI",
+					"display_url": "youtu.be/VLejXdgkJBI",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 202,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] Floating Moments - dive\nhttps://t.co/Wf4lBXdjuT"
+	},
+	{
+		"created_at": "Wed Apr 01 12:41:37 +0000 2020",
+		"id": 1245317948773765000,
+		"id_str": "1245330478950952962",
+		"full_text": "2020.04.11 Sat 7pm at club FF \n민트그레이의 복귀공연 [Movie] 는 그대로 진행합니다 \n-본 공연은 현매만 가능하며 선착순 입장 스탠딩공연입니다\n-티켓의 환불은 불가합니다\n-입장은 6시부터 진행됩니다\n-공연 시작 10분 전까지 입장완료해 주시기 바랍니다\n3년만에 돌아온 민트그레이와 함께하세요 https://t.co/d5uC9sSXDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245317939772838000,
+					"id_str": "1245317939772837888",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhCEXiU0AAaYp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhCEXiU0AAaYp9.jpg",
+					"url": "https://t.co/d5uC9sSXDj",
+					"display_url": "pic.twitter.com/d5uC9sSXDj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1245317948773765120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245317939772838000,
+					"id_str": "1245317939772837888",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUhCEXiU0AAaYp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUhCEXiU0AAaYp9.jpg",
+					"url": "https://t.co/d5uC9sSXDj",
+					"display_url": "pic.twitter.com/d5uC9sSXDj",
+					"expanded_url": "https://twitter.com/clubFF_/status/1245317948773765120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6544,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020.04.11 Sat 7pm at club FF \n민트그레이의 복귀공연 [Movie] 는 그대로 진행합니다 \n-본 공연은 현매만 가능하며 선착순 입장 스탠딩공연입니다\n-티켓의 환불은 불가합니다\n-입장은 6시부터 진행됩니다\n-공연 시작 10분 전까지 입장완료해 주시기 바랍니다\n3년만에 돌아온 민트그레이와 함께하세요 https://t.co/d5uC9sSXDj"
+	},
+	{
+		"created_at": "Wed Apr 01 12:29:47 +0000 2020",
+		"id": 1245320746705883100,
+		"id_str": "1245327499279708161",
+		"full_text": "🌼💫\n\n권진아(Kwon Jin Ah) - '뭔가 잘못됐어 (Something's Wrong)' LIVE CLIP\nhttps://t.co/Xoy4EF7qsc\n\n#권진아 #뭔가잘못됐어 \n#KwonJinAh #SomethingsWrong",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "뭔가잘못됐어",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "SomethingsWrong",
+					"indices": [
+						113,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xoy4EF7qsc",
+					"expanded_url": "https://youtu.be/CMlBTkZk-sM",
+					"display_url": "youtu.be/CMlBTkZk-sM",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34454,
+			"friends_count": 11,
+			"listed_count": 407,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌼💫\n\n권진아(Kwon Jin Ah) - '뭔가 잘못됐어 (Something's Wrong)' LIVE CLIP\nhttps://t.co/Xoy4EF7qsc\n\n#권진아 #뭔가잘못됐어 \n#KwonJinAh #SomethingsWrong"
+	},
+	{
+		"created_at": "Wed Apr 01 12:29:41 +0000 2020",
+		"id": 1245313758462763000,
+		"id_str": "1245327473518272517",
+		"full_text": "[LIVE] Square (2017) : Turn on that Blue Vinyl\n\nhttps://t.co/IzYib6R85l\n\n#YerinBaek #백예린 #백예린단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "백예린단독공연",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IzYib6R85l",
+					"expanded_url": "https://www.youtube.com/watch?v=cwtw_f1fqkU",
+					"display_url": "youtube.com/watch?v=cwtw_f…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LIVE] Square (2017) : Turn on that Blue Vinyl\n\nhttps://t.co/IzYib6R85l\n\n#YerinBaek #백예린 #백예린단독공연"
+	},
+	{
+		"created_at": "Wed Apr 01 12:29:39 +0000 2020",
+		"id": 1245313322271912000,
+		"id_str": "1245327464626376704",
+		"full_text": "[LIVE] Berlin + 야간비행 + Our love is great : Turn on that Blue Vinyl \n\nhttps://t.co/vcxu5IE87U\n\n#YerinBaek #백예린 #백예린단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "백예린단독공연",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vcxu5IE87U",
+					"expanded_url": "https://www.youtube.com/watch?v=0sQYv-NFI1s",
+					"display_url": "youtube.com/watch?v=0sQYv-…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LIVE] Berlin + 야간비행 + Our love is great : Turn on that Blue Vinyl \n\nhttps://t.co/vcxu5IE87U\n\n#YerinBaek #백예린 #백예린단독공연"
+	},
+	{
+		"created_at": "Wed Apr 01 12:29:31 +0000 2020",
+		"id": 1245313019606777900,
+		"id_str": "1245327430581137408",
+		"full_text": "[LIVE] Point (Feat. Loopy) : Turn on that Blue Vinyl\n\nhttps://t.co/RyDEpsRqN6\n\n#YerinBaek #백예린 #백예린단독공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YerinBaek",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "백예린단독공연",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RyDEpsRqN6",
+					"expanded_url": "https://www.youtube.com/watch?v=NaQZqefXroE",
+					"display_url": "youtube.com/watch?v=NaQZqe…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9223,
+			"friends_count": 0,
+			"listed_count": 74,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LIVE] Point (Feat. Loopy) : Turn on that Blue Vinyl\n\nhttps://t.co/RyDEpsRqN6\n\n#YerinBaek #백예린 #백예린단독공연"
+	},
+	{
 		"created_at": "Wed Apr 01 12:02:32 +0000 2020",
 		"id": 1245300394781061000,
 		"id_str": "1245320641319858176",
