@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 15:29:25 +0000 2020",
+		"id": 1245365447903424500,
+		"id_str": "1245372703722344448",
+		"full_text": "[#신승훈] Special Album [My Personas] Teaser 2. 늦어도 11월에는\n\n🔗 https://t.co/2d1fugQYyM\n🔗 https://t.co/YnUbfuXh2i\n\n#신승훈 #Special_Album #My_Personas #늦어도_11월에는 #20200408_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "Special_Album",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "My_Personas",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "늦어도_11월에는",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "20200408_6PM",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2d1fugQYyM",
+					"expanded_url": "https://youtu.be/-YoWH7kwsEk",
+					"display_url": "youtu.be/-YoWH7kwsEk",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/YnUbfuXh2i",
+					"expanded_url": "https://www.vlive.tv/video/182217",
+					"display_url": "vlive.tv/video/182217",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1,
+			"listed_count": 22,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신승훈] Special Album [My Personas] Teaser 2. 늦어도 11월에는\n\n🔗 https://t.co/2d1fugQYyM\n🔗 https://t.co/YnUbfuXh2i\n\n#신승훈 #Special_Album #My_Personas #늦어도_11월에는 #20200408_6PM"
+	},
+	{
 		"created_at": "Wed Apr 01 13:41:44 +0000 2020",
 		"id": 1245338043990429700,
 		"id_str": "1245345605582544898",
