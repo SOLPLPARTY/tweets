@@ -1,6 +1,1513 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 09:58:15 +0000 2020",
+		"id": 1245637580655218700,
+		"id_str": "1245651751828459522",
+		"full_text": "To CAPSULA, peace is [freedom].\nㅤㅤ\n🇪🇸/🇦🇷 개러지-글램 록의 정수, 사이키델릭 록밴드 캡슐라\nㅤㅤ\nA dynamic compression of the who, the Cramps and Sonic Youth in a high tide of psychedelia, CAPSULA https://t.co/OIfBN3ncHQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245635910705631200,
+					"id_str": "1245635910705631232",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245635910705631232/pu/img/ALQuJDESX0VJJnj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245635910705631232/pu/img/ALQuJDESX0VJJnj0.jpg",
+					"url": "https://t.co/OIfBN3ncHQ",
+					"display_url": "pic.twitter.com/OIfBN3ncHQ",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1245637580655218692/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245635910705631200,
+					"id_str": "1245635910705631232",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245635910705631232/pu/img/ALQuJDESX0VJJnj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245635910705631232/pu/img/ALQuJDESX0VJJnj0.jpg",
+					"url": "https://t.co/OIfBN3ncHQ",
+					"display_url": "pic.twitter.com/OIfBN3ncHQ",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1245637580655218692/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 30364,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245635910705631232/pu/vid/720x900/5NZFQJD-TUcN2HrS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245635910705631232/pu/pl/d7p5mZfEpCoFiMKW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245635910705631232/pu/vid/360x450/rstUlk11faCZ0r-o.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245635910705631232/pu/vid/320x400/l5rBp_8NPafEHh-P.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245547286165196800,
+		"in_reply_to_status_id_str": "1245547286165196803",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "To CAPSULA, peace is [freedom].\nㅤㅤ\n🇪🇸/🇦🇷 개러지-글램 록의 정수, 사이키델릭 록밴드 캡슐라\nㅤㅤ\nA dynamic compression of the who, the Cramps and Sonic Youth in a high tide of psychedelia, CAPSULA https://t.co/OIfBN3ncHQ"
+	},
+	{
+		"created_at": "Thu Apr 02 09:55:21 +0000 2020",
+		"id": 1245651023919640600,
+		"id_str": "1245651023919640577",
+		"full_text": "#Melon #멜론 #멜론매거진\n코로나가 가져다준 랜선 콘서트\nhttps://t.co/CYXOvRNOTk https://t.co/vj5jbHGFHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CYXOvRNOTk",
+					"expanded_url": "https://bit.ly/3aCMxYa",
+					"display_url": "bit.ly/3aCMxYa",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245651022439018500,
+					"id_str": "1245651022439018497",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlxAVKUcAEB2IA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlxAVKUcAEB2IA.jpg",
+					"url": "https://t.co/vj5jbHGFHa",
+					"display_url": "pic.twitter.com/vj5jbHGFHa",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245651023919640577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245651022439018500,
+					"id_str": "1245651022439018497",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlxAVKUcAEB2IA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlxAVKUcAEB2IA.jpg",
+					"url": "https://t.co/vj5jbHGFHa",
+					"display_url": "pic.twitter.com/vj5jbHGFHa",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245651023919640577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n코로나가 가져다준 랜선 콘서트\nhttps://t.co/CYXOvRNOTk https://t.co/vj5jbHGFHa"
+	},
+	{
+		"created_at": "Thu Apr 02 09:55:13 +0000 2020",
+		"id": 1245650989182402600,
+		"id_str": "1245650989182402566",
+		"full_text": "#Melon #멜론 #멜론매거진\n실력파 보이밴드 원위 (ONEWE)의 색다른 시도 [3/4 (Feat. 화사)]\nhttps://t.co/gltQeJ20xr https://t.co/kDdgMbkfmQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gltQeJ20xr",
+					"expanded_url": "https://bit.ly/3bMFkEO",
+					"display_url": "bit.ly/3bMFkEO",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245650987269812200,
+					"id_str": "1245650987269812225",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlw-SJU8AEOuf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlw-SJU8AEOuf_.jpg",
+					"url": "https://t.co/kDdgMbkfmQ",
+					"display_url": "pic.twitter.com/kDdgMbkfmQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245650989182402566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245650987269812200,
+					"id_str": "1245650987269812225",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlw-SJU8AEOuf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlw-SJU8AEOuf_.jpg",
+					"url": "https://t.co/kDdgMbkfmQ",
+					"display_url": "pic.twitter.com/kDdgMbkfmQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245650989182402566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n실력파 보이밴드 원위 (ONEWE)의 색다른 시도 [3/4 (Feat. 화사)]\nhttps://t.co/gltQeJ20xr https://t.co/kDdgMbkfmQ"
+	},
+	{
+		"created_at": "Thu Apr 02 09:32:09 +0000 2020",
+		"id": 1245645185960181800,
+		"id_str": "1245645185960181760",
+		"full_text": "#루비레코드 #Ruby_Records\n[Live Clip]  여자이니까 (COVER)  - 레인보우 노트(Rainbow note)\nhttps://t.co/e3RmcBlkTd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e3RmcBlkTd",
+					"expanded_url": "https://youtu.be/aklBhtwzV4A",
+					"display_url": "youtu.be/aklBhtwzV4A",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[Live Clip]  여자이니까 (COVER)  - 레인보우 노트(Rainbow note)\nhttps://t.co/e3RmcBlkTd"
+	},
+	{
+		"created_at": "Thu Apr 02 09:29:45 +0000 2020",
+		"id": 1245643074820132900,
+		"id_str": "1245644581472886787",
+		"full_text": "오늘 저녁 8시 브이앱 '유어썸머' 채널에 우주인과 이방인이 찾아옵니다 👽👾\n⠀\n무엇을 할까요? 8시에 직접 확인 고고!\n*라이브 링크▶︎https://t.co/K9tdZonaWn\n-\n#우주인과이방인 #우주인 #이방인 #유어썸머 #브이라이브 https://t.co/vJQn6JvNc6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주인과이방인",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "우주인",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "이방인",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9tdZonaWn",
+					"expanded_url": "http://vlive.tv/video/183133",
+					"display_url": "vlive.tv/video/183133",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245643063315165200,
+					"id_str": "1245643063315165189",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlpxDHUcAUegzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlpxDHUcAUegzq.jpg",
+					"url": "https://t.co/vJQn6JvNc6",
+					"display_url": "pic.twitter.com/vJQn6JvNc6",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1245643074820132865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245643063315165200,
+					"id_str": "1245643063315165189",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlpxDHUcAUegzq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlpxDHUcAUegzq.jpg",
+					"url": "https://t.co/vJQn6JvNc6",
+					"display_url": "pic.twitter.com/vJQn6JvNc6",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1245643074820132865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1770,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 8시 브이앱 '유어썸머' 채널에 우주인과 이방인이 찾아옵니다 👽👾\n⠀\n무엇을 할까요? 8시에 직접 확인 고고!\n*라이브 링크▶︎https://t.co/K9tdZonaWn\n-\n#우주인과이방인 #우주인 #이방인 #유어썸머 #브이라이브 https://t.co/vJQn6JvNc6"
+	},
+	{
+		"created_at": "Thu Apr 02 09:29:42 +0000 2020",
+		"id": 1245639264219459600,
+		"id_str": "1245644567837212673",
+		"full_text": "NIve x Sam Kim ‘LIKE A FOOL’\nis OUT NOW.\n\nMelon https://t.co/Se1MgYpW6k\nGenie https://t.co/fKTSBRvwHP\nBugs https://t.co/BClXgzugqu\n\n#SamKim #샘김 #NIve #LIKEAFOOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "NIve",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "LIKEAFOOL",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Se1MgYpW6k",
+					"expanded_url": "https://bit.ly/2X1jHN9",
+					"display_url": "bit.ly/2X1jHN9",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/fKTSBRvwHP",
+					"expanded_url": "https://bit.ly/2JtY006",
+					"display_url": "bit.ly/2JtY006",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/BClXgzugqu",
+					"expanded_url": "https://bit.ly/344bfhv",
+					"display_url": "bit.ly/344bfhv",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245639128290447400,
+		"in_reply_to_status_id_str": "1245639128290447361",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34479,
+			"friends_count": 11,
+			"listed_count": 406,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NIve x Sam Kim ‘LIKE A FOOL’\nis OUT NOW.\n\nMelon https://t.co/Se1MgYpW6k\nGenie https://t.co/fKTSBRvwHP\nBugs https://t.co/BClXgzugqu\n\n#SamKim #샘김 #NIve #LIKEAFOOL"
+	},
+	{
+		"created_at": "Thu Apr 02 09:29:33 +0000 2020",
+		"id": 1245639128290447400,
+		"id_str": "1245644529216020482",
+		"full_text": "[Release]\nNIve x Sam Kim ‘LIKE A FOOL’ Official MV\nhttps://t.co/CGiqrSFg1E\n\n#SamKim #샘김 #NIve #LIKEAFOOL\n@LeegitItsSam ✨ https://t.co/v7En7ILCbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "NIve",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "LIKEAFOOL",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CGiqrSFg1E",
+					"expanded_url": "https://youtu.be/J2gpmYhX3zc",
+					"display_url": "youtu.be/J2gpmYhX3zc",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245639119801217000,
+					"id_str": "1245639119801217026",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlmLgYU8AI48BB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlmLgYU8AI48BB.jpg",
+					"url": "https://t.co/v7En7ILCbL",
+					"display_url": "pic.twitter.com/v7En7ILCbL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1245639128290447361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245639119801217000,
+					"id_str": "1245639119801217026",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EUlmLgYU8AI48BB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUlmLgYU8AI48BB.jpg",
+					"url": "https://t.co/v7En7ILCbL",
+					"display_url": "pic.twitter.com/v7En7ILCbL",
+					"expanded_url": "https://twitter.com/antennamusic/status/1245639128290447361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34479,
+			"friends_count": 11,
+			"listed_count": 406,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release]\nNIve x Sam Kim ‘LIKE A FOOL’ Official MV\nhttps://t.co/CGiqrSFg1E\n\n#SamKim #샘김 #NIve #LIKEAFOOL\n@LeegitItsSam ✨ https://t.co/v7En7ILCbL"
+	},
+	{
+		"created_at": "Thu Apr 02 09:29:25 +0000 2020",
+		"id": 1245638377556209700,
+		"id_str": "1245644494956986368",
+		"full_text": "[우효]\n2018년 우효의 첫 단독공연 중\n‘민들레' LIVE 가 공개되었습니다 🌼\n\n#OOHYO #우효 #민들레 #봄 #집콕\n\n🎬 풀영상은 우효 유튜브채널에서 확인하세요!\n\nhttps://t.co/psGsHFq4ma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OOHYO",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "우효",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "민들레",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "봄",
+					"indices": [
+						64,
+						66
+					]
+				},
+				{
+					"text": "집콕",
+					"indices": [
+						67,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/psGsHFq4ma",
+					"expanded_url": "https://youtu.be/gEquU4kYaxw",
+					"display_url": "youtu.be/gEquU4kYaxw",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/앤츠/알레프/에버루아/로지/아일",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 654,
+			"friends_count": 4,
+			"listed_count": 14,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[우효]\n2018년 우효의 첫 단독공연 중\n‘민들레' LIVE 가 공개되었습니다 🌼\n\n#OOHYO #우효 #민들레 #봄 #집콕\n\n🎬 풀영상은 우효 유튜브채널에서 확인하세요!\n\nhttps://t.co/psGsHFq4ma"
+	},
+	{
 		"created_at": "Thu Apr 02 09:12:10 +0000 2020",
 		"id": 1245640155970453500,
 		"id_str": "1245640155970453504",
