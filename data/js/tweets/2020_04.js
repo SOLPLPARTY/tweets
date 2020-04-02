@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 03:58:23 +0000 2020",
+		"id": 1245547286165196800,
+		"id_str": "1245561188181819392",
+		"full_text": "To The Inspector Cluzo, peace is[being self-sufficent where you are living].\nㅤㅤ\n🇫🇷 농사 짓는 프랑스 록밴드 인스펙터 클루조\nㅤㅤ\nActing Local, Thinking Global, Rockfarmers The Inspector Cluzo https://t.co/cL3xknKoX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245546959915499500,
+					"id_str": "1245546959915499520",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245546959915499520/pu/img/5dZLd9-a9SUUY_KS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245546959915499520/pu/img/5dZLd9-a9SUUY_KS.jpg",
+					"url": "https://t.co/cL3xknKoX0",
+					"display_url": "pic.twitter.com/cL3xknKoX0",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1245547286165196803/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245546959915499500,
+					"id_str": "1245546959915499520",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245546959915499520/pu/img/5dZLd9-a9SUUY_KS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245546959915499520/pu/img/5dZLd9-a9SUUY_KS.jpg",
+					"url": "https://t.co/cL3xknKoX0",
+					"display_url": "pic.twitter.com/cL3xknKoX0",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1245547286165196803/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 42809,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546959915499520/pu/vid/320x400/xb2q0DbD8swxUeER.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546959915499520/pu/vid/360x450/rSNWbgOOXky7Lt4Y.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546959915499520/pu/vid/720x900/2rQ63smIBH7KW4NE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245546959915499520/pu/pl/Yatx6SzLq4xDa8To.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245276654521344000,
+		"in_reply_to_status_id_str": "1245276654521344000",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "To The Inspector Cluzo, peace is[being self-sufficent where you are living].\nㅤㅤ\n🇫🇷 농사 짓는 프랑스 록밴드 인스펙터 클루조\nㅤㅤ\nActing Local, Thinking Global, Rockfarmers The Inspector Cluzo https://t.co/cL3xknKoX0"
+	},
+	{
+		"created_at": "Thu Apr 02 03:58:15 +0000 2020",
+		"id": 1245546726834004000,
+		"id_str": "1245561154174418946",
+		"full_text": "[World DJ Festival 2020 Official Video #5]\n5월 30일 월드 디제이 페스티벌에서 #HABSTRAKT 의\n무대를 만나보세요.\n\n월디페 X Monstercat Stage만의 특별한 무대를 기대해 주세요!\n\n🎫TICKET : https://t.co/pFmo1AWpe0\n당신의 삶에 문화를 더하다. life with culture. \n㈜비이피씨탄젠트 https://t.co/2aTZCl7Lz0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HABSTRAKT",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFmo1AWpe0",
+					"expanded_url": "http://www.wdjfest.com/tickets",
+					"display_url": "wdjfest.com/tickets",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245546517664071700,
+					"id_str": "1245546517664071681",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245546517664071681/pu/img/4ADRp_0ui5PYJ2Ja.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245546517664071681/pu/img/4ADRp_0ui5PYJ2Ja.jpg",
+					"url": "https://t.co/2aTZCl7Lz0",
+					"display_url": "pic.twitter.com/2aTZCl7Lz0",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1245546726834003969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245546517664071700,
+					"id_str": "1245546517664071681",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245546517664071681/pu/img/4ADRp_0ui5PYJ2Ja.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245546517664071681/pu/img/4ADRp_0ui5PYJ2Ja.jpg",
+					"url": "https://t.co/2aTZCl7Lz0",
+					"display_url": "pic.twitter.com/2aTZCl7Lz0",
+					"expanded_url": "https://twitter.com/worlddjfestival/status/1245546726834003969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36760,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245546517664071681/pu/pl/_vA16iR0SCu03uXp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546517664071681/pu/vid/320x320/RVpS2-cpFs40H8RN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546517664071681/pu/vid/480x480/WuS0PnHvwINmlGCn.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245546517664071681/pu/vid/720x720/PzRvmvQmTton74Zd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118709138,
+			"id_str": "118709138",
+			"name": "World DJ Festival",
+			"screen_name": "worlddjfestival",
+			"location": "South Korea",
+			"description": "May 13-14 at Seoul. \n\nKorea's no.1 and first Electronic Music Festival since 2007.\nYou're the BEST LINEUP!",
+			"url": "https://t.co/2Ad9I2Ywc7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2Ad9I2Ywc7",
+							"expanded_url": "http://www.wdjfest.com",
+							"display_url": "wdjfest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 278,
+			"listed_count": 81,
+			"created_at": "Mon Mar 01 14:35:44 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127196654304542720/bik6JJU9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118709138/1557579790",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[World DJ Festival 2020 Official Video #5]\n5월 30일 월드 디제이 페스티벌에서 #HABSTRAKT 의\n무대를 만나보세요.\n\n월디페 X Monstercat Stage만의 특별한 무대를 기대해 주세요!\n\n🎫TICKET : https://t.co/pFmo1AWpe0\n당신의 삶에 문화를 더하다. life with culture. \n㈜비이피씨탄젠트 https://t.co/2aTZCl7Lz0"
+	},
+	{
+		"created_at": "Thu Apr 02 03:41:38 +0000 2020",
+		"id": 1245544619770695700,
+		"id_str": "1245556972776312837",
+		"full_text": "[신규입고]\n옥탑방 부엉이 4월 공연일정 포스터🦉\n\n홍대 라이브 다이닝 펍, 옥탑방부엉이의 4월 공연 일정 및 휴관일 안내 포스터가 입고되었습니다🤗 4월 이후 당분간 영업일을 매주 '수목금토일'부터 단축 운영하니 방문에 착오없으시길 바랍니다😉\n\n▶️ https://t.co/IoncPCaFSM https://t.co/aB4OzbtXyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IoncPCaFSM",
+					"expanded_url": "https://c11.kr/edd1",
+					"display_url": "c11.kr/edd1",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245544510974615600,
+					"id_str": "1245544510974615552",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkQIjCUYAAsjGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkQIjCUYAAsjGP.jpg",
+					"url": "https://t.co/aB4OzbtXyQ",
+					"display_url": "pic.twitter.com/aB4OzbtXyQ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1245544619770695680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245544510974615600,
+					"id_str": "1245544510974615552",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkQIjCUYAAsjGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkQIjCUYAAsjGP.jpg",
+					"url": "https://t.co/aB4OzbtXyQ",
+					"display_url": "pic.twitter.com/aB4OzbtXyQ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1245544619770695680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245544536719290400,
+					"id_str": "1245544536719290368",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EUkQKC8U8AAKKLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUkQKC8U8AAKKLQ.jpg",
+					"url": "https://t.co/aB4OzbtXyQ",
+					"display_url": "pic.twitter.com/aB4OzbtXyQ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1245544619770695680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2865,
+			"friends_count": 2762,
+			"listed_count": 27,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n옥탑방 부엉이 4월 공연일정 포스터🦉\n\n홍대 라이브 다이닝 펍, 옥탑방부엉이의 4월 공연 일정 및 휴관일 안내 포스터가 입고되었습니다🤗 4월 이후 당분간 영업일을 매주 '수목금토일'부터 단축 운영하니 방문에 착오없으시길 바랍니다😉\n\n▶️ https://t.co/IoncPCaFSM https://t.co/aB4OzbtXyQ"
+	},
+	{
 		"created_at": "Thu Apr 02 03:14:49 +0000 2020",
 		"id": 1245550225877536800,
 		"id_str": "1245550225877536769",
