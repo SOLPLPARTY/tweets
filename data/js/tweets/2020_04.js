@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 06:10:21 +0000 2020",
+		"id": 1245956789151117300,
+		"id_str": "1245956789151117312",
+		"full_text": "#Melon #멜론 #멜론매거진\n월드디제이페스티벌 2020 미리보기 (Pt. 1)\nhttps://t.co/6pR0AmGIQq https://t.co/vMcPxDaHWn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6pR0AmGIQq",
+					"expanded_url": "https://bit.ly/2R82ePh",
+					"display_url": "bit.ly/2R82ePh",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245956787511181300,
+					"id_str": "1245956787511181312",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqHGM0XQAAfRkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqHGM0XQAAfRkw.jpg",
+					"url": "https://t.co/vMcPxDaHWn",
+					"display_url": "pic.twitter.com/vMcPxDaHWn",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245956789151117312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245956787511181300,
+					"id_str": "1245956787511181312",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqHGM0XQAAfRkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqHGM0XQAAfRkw.jpg",
+					"url": "https://t.co/vMcPxDaHWn",
+					"display_url": "pic.twitter.com/vMcPxDaHWn",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1245956789151117312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n월드디제이페스티벌 2020 미리보기 (Pt. 1)\nhttps://t.co/6pR0AmGIQq https://t.co/vMcPxDaHWn"
+	},
+	{
+		"created_at": "Fri Apr 03 06:06:03 +0000 2020",
+		"id": 1245942939563352000,
+		"id_str": "1245955706366226432",
+		"full_text": "11일 KT가 주최하는 #LiveKConcert 무료 생중계됩니다. 이 콘서트는 코로나19로 지친 국민들에게 활력을 불어넣자는 취지에서 시작되어 MAMAMOO, 김재환, APRIL, B.O.Y 등의 아티스트들이 적극적으로 재능기부에 나섰습니다. ‘사회적 거리두기’를 반영해 관객의 참여 없이 진행될 예정입니다. https://t.co/8yqN4Ubj1K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LiveKConcert",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245942235616534500,
+					"id_str": "1245942235616534528",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EUp53KyUYAAWq4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUp53KyUYAAWq4N.jpg",
+					"url": "https://t.co/8yqN4Ubj1K",
+					"display_url": "pic.twitter.com/8yqN4Ubj1K",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1245942939563352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245942235616534500,
+					"id_str": "1245942235616534528",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EUp53KyUYAAWq4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUp53KyUYAAWq4N.jpg",
+					"url": "https://t.co/8yqN4Ubj1K",
+					"display_url": "pic.twitter.com/8yqN4Ubj1K",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1245942939563352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245942257594667000,
+					"id_str": "1245942257594667008",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EUp54cqUEAAfsYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUp54cqUEAAfsYl.jpg",
+					"url": "https://t.co/8yqN4Ubj1K",
+					"display_url": "pic.twitter.com/8yqN4Ubj1K",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1245942939563352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245942269036777500,
+					"id_str": "1245942269036777473",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EUp55HSU0AEnKeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUp55HSU0AEnKeP.jpg",
+					"url": "https://t.co/8yqN4Ubj1K",
+					"display_url": "pic.twitter.com/8yqN4Ubj1K",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1245942939563352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1245942294357749800,
+					"id_str": "1245942294357749760",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EUp56lnUMAAmCYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUp56lnUMAAmCYQ.jpg",
+					"url": "https://t.co/8yqN4Ubj1K",
+					"display_url": "pic.twitter.com/8yqN4Ubj1K",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1245942939563352065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20993,
+			"friends_count": 17,
+			"listed_count": 81,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11일 KT가 주최하는 #LiveKConcert 무료 생중계됩니다. 이 콘서트는 코로나19로 지친 국민들에게 활력을 불어넣자는 취지에서 시작되어 MAMAMOO, 김재환, APRIL, B.O.Y 등의 아티스트들이 적극적으로 재능기부에 나섰습니다. ‘사회적 거리두기’를 반영해 관객의 참여 없이 진행될 예정입니다. https://t.co/8yqN4Ubj1K"
+	},
+	{
+		"created_at": "Fri Apr 03 05:29:32 +0000 2020",
+		"id": 1245942900489240600,
+		"id_str": "1245946514633035776",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/4Pb88fLP6d\n-\n[Listen here]\nMelon - https://t.co/ioLMF7xDRX\nGenie - https://t.co/hh4XxPDlNo\nBugs - https://t.co/8lWCwTXkOn\nVibe - https://t.co/qcyLGmVHQz\nFLO - https://t.co/1q1DYzx4CK\nhttps://t.co/AXYGNrKbhp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Pb88fLP6d",
+					"expanded_url": "https://bit.ly/2R48kzZ",
+					"display_url": "bit.ly/2R48kzZ",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/ioLMF7xDRX",
+					"expanded_url": "https://bit.ly/3aGfsur",
+					"display_url": "bit.ly/3aGfsur",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/hh4XxPDlNo",
+					"expanded_url": "https://bit.ly/2R6FzCK",
+					"display_url": "bit.ly/2R6FzCK",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/8lWCwTXkOn",
+					"expanded_url": "https://bit.ly/3aI36li",
+					"display_url": "bit.ly/3aI36li",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/qcyLGmVHQz",
+					"expanded_url": "https://bit.ly/3bIo1oo",
+					"display_url": "bit.ly/3bIo1oo",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/1q1DYzx4CK",
+					"expanded_url": "https://bit.ly/2wP2CeL",
+					"display_url": "bit.ly/2wP2CeL",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/AXYGNrKbhp",
+					"expanded_url": "https://youtu.be/H5R_38Mints",
+					"display_url": "youtu.be/H5R_38Mints",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245942899306418200,
+		"in_reply_to_status_id_str": "1245942899306418176",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9674,
+			"friends_count": 2954,
+			"listed_count": 275,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/4Pb88fLP6d\n-\n[Listen here]\nMelon - https://t.co/ioLMF7xDRX\nGenie - https://t.co/hh4XxPDlNo\nBugs - https://t.co/8lWCwTXkOn\nVibe - https://t.co/qcyLGmVHQz\nFLO - https://t.co/1q1DYzx4CK\nhttps://t.co/AXYGNrKbhp"
+	},
+	{
 		"created_at": "Fri Apr 03 04:58:14 +0000 2020",
 		"id": 1245926984464531500,
 		"id_str": "1245938640477356036",
