@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 11:15:27 +0000 2020",
+		"id": 1245977947472679000,
+		"id_str": "1246033567563431936",
+		"full_text": "드디어 하루 앞으로 다가온 예술의전당의 첫번째 &lt;제한적 콘서트&gt;!🥳\n\n내일 오후 3시, 바이올리니스트 김재영, 김영욱, 비올리스트 이한나, 첼리스트 박유신, 피아니스트 김태형 다섯 명의 아티스트가 관객이 없는 음악당 콘서트홀 무대에서 색다른 연주를 선보일 예정인데요.👀 https://t.co/iRTbdZcJMe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245977824105648000,
+					"id_str": "1245977824105648129",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245977824105648129/pu/img/MT45Nj5T1shOL1u0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245977824105648129/pu/img/MT45Nj5T1shOL1u0.jpg",
+					"url": "https://t.co/iRTbdZcJMe",
+					"display_url": "pic.twitter.com/iRTbdZcJMe",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1245977947472678912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245977824105648000,
+					"id_str": "1245977824105648129",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245977824105648129/pu/img/MT45Nj5T1shOL1u0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245977824105648129/pu/img/MT45Nj5T1shOL1u0.jpg",
+					"url": "https://t.co/iRTbdZcJMe",
+					"display_url": "pic.twitter.com/iRTbdZcJMe",
+					"expanded_url": "https://twitter.com/I_Love_SAC/status/1245977947472678912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245977824105648129/pu/vid/1280x720/B0JmjU6Vce3QfevE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245977824105648129/pu/pl/zKCr4Ymp7r2xAjvr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245977824105648129/pu/vid/480x270/zGV__EufEvcO-WYV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245977824105648129/pu/vid/640x360/9kkEFruaHvwrZHQF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221266876,
+			"id_str": "221266876",
+			"name": "예술의전당",
+			"screen_name": "I_Love_SAC",
+			"location": "",
+			"description": "1년 365일 공연과 전시가 끊이지 않는 국내 최대 최고 복합문화예술기관 예술의전당 공식 트위터입니다.",
+			"url": "https://t.co/SkFLaKOQ2K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SkFLaKOQ2K",
+							"expanded_url": "http://www.sac.or.kr",
+							"display_url": "sac.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97985,
+			"friends_count": 1,
+			"listed_count": 666,
+			"created_at": "Tue Nov 30 05:33:35 +0000 2010",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802027505683034112/nPUn4Wzg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221266876/1580449550",
+			"profile_link_color": "5C9BB0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4A0000",
+			"profile_text_color": "F4F6F7",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 하루 앞으로 다가온 예술의전당의 첫번째 &lt;제한적 콘서트&gt;!🥳\n\n내일 오후 3시, 바이올리니스트 김재영, 김영욱, 비올리스트 이한나, 첼리스트 박유신, 피아니스트 김태형 다섯 명의 아티스트가 관객이 없는 음악당 콘서트홀 무대에서 색다른 연주를 선보일 예정인데요.👀 https://t.co/iRTbdZcJMe"
+	},
+	{
+		"created_at": "Fri Apr 03 11:15:20 +0000 2020",
+		"id": 1245931810028060700,
+		"id_str": "1246033539121827840",
+		"full_text": "[News]\n\nFuji Rock이 일자별 라인업과 추가 라인업을 공개했습니다. \n\nFour Tet, Bruno Major, Elephant Gym, Hinds 등의 해외 라인업과, King Gnu, Number Girl, Yogee New Waves, Denims, MONO NO AWARE, Sunnyday Service 등 일본 뮤지션들이 추가되었습니다.\n\nhttps://t.co/zXKADvARD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zXKADvARD7",
+					"expanded_url": "https://www.highjinkxmm.com/news/fuji-rock-2020-second-lineup",
+					"display_url": "highjinkxmm.com/news/fuji-rock…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 418,
+			"friends_count": 19,
+			"listed_count": 2,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\nFuji Rock이 일자별 라인업과 추가 라인업을 공개했습니다. \n\nFour Tet, Bruno Major, Elephant Gym, Hinds 등의 해외 라인업과, King Gnu, Number Girl, Yogee New Waves, Denims, MONO NO AWARE, Sunnyday Service 등 일본 뮤지션들이 추가되었습니다.\n\nhttps://t.co/zXKADvARD7"
+	},
+	{
+		"created_at": "Fri Apr 03 11:10:16 +0000 2020",
+		"id": 1246032262942077000,
+		"id_str": "1246032262942076928",
+		"full_text": "#Melon #멜론 #멜론매거진\n십대들을 위한, 십대들에 의한\nhttps://t.co/ChsojMz5Ib https://t.co/iHXtYbZKRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChsojMz5Ib",
+					"expanded_url": "https://bit.ly/3bL2g7B",
+					"display_url": "bit.ly/3bL2g7B",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246032261704802300,
+					"id_str": "1246032261704802304",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUrLvYGXYAAf2vt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUrLvYGXYAAf2vt.jpg",
+					"url": "https://t.co/iHXtYbZKRe",
+					"display_url": "pic.twitter.com/iHXtYbZKRe",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1246032262942076928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246032261704802300,
+					"id_str": "1246032261704802304",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EUrLvYGXYAAf2vt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUrLvYGXYAAf2vt.jpg",
+					"url": "https://t.co/iHXtYbZKRe",
+					"display_url": "pic.twitter.com/iHXtYbZKRe",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1246032262942076928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n문의 contact@solplparty.com\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 355,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n십대들을 위한, 십대들에 의한\nhttps://t.co/ChsojMz5Ib https://t.co/iHXtYbZKRe"
+	},
+	{
 		"created_at": "Fri Apr 03 10:11:00 +0000 2020",
 		"id": 1246017350912151600,
 		"id_str": "1246017350912151552",
