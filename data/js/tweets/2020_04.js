@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 07:29:25 +0000 2020",
+		"id": 1246334992642277400,
+		"id_str": "1246339070885838849",
+		"full_text": "from ‘jung jaeil in concert’\n\n#2.\n\nno exceptions \n\n#옥자 #okja \n#정재일 #jungjaeil #jaeiljung \n\nhttps://t.co/n3hfGCDtS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "옥자",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "okja",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "정재일",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "jungjaeil",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "jaeiljung",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n3hfGCDtS6",
+					"expanded_url": "https://youtu.be/HoMPpI-1-UI",
+					"display_url": "youtu.be/HoMPpI-1-UI",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1349,
+			"friends_count": 192,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "from ‘jung jaeil in concert’\n\n#2.\n\nno exceptions \n\n#옥자 #okja \n#정재일 #jungjaeil #jaeiljung \n\nhttps://t.co/n3hfGCDtS6"
+	},
+	{
 		"created_at": "Sat Apr 04 07:12:51 +0000 2020",
 		"id": 1246334903760945200,
 		"id_str": "1246334903760945152",
