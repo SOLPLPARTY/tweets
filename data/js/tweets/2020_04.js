@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 11:29:42 +0000 2020",
+		"id": 1246396431952261000,
+		"id_str": "1246399541630435330",
+		"full_text": "[유튜브 온리] 이자람 - 심청가(뮤지컬 서편제 中) | 방구석 콘서트 직캠 4분할 FULL VER. https://t.co/Q99NahIepF - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube #StayHome",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q99NahIepF",
+					"expanded_url": "https://youtu.be/CU-zV9JShmY",
+					"display_url": "youtu.be/CU-zV9JShmY",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1349,
+			"friends_count": 192,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유튜브 온리] 이자람 - 심청가(뮤지컬 서편제 中) | 방구석 콘서트 직캠 4분할 FULL VER. https://t.co/Q99NahIepF - @YouTube"
+	},
+	{
+		"created_at": "Sat Apr 04 11:29:33 +0000 2020",
+		"id": 1246396200133095400,
+		"id_str": "1246399503437049861",
+		"full_text": "이자람&amp;이준형 -노인과 바다 , 넋을 잃게 만드는 압도적인 무대 (출처 : 놀면 뭐하니? | 네이버TV) https://t.co/z8eqpFIloK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8eqpFIloK",
+					"expanded_url": "http://naver.me/51BAcduV",
+					"display_url": "naver.me/51BAcduV",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1349,
+			"friends_count": 192,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이자람&amp;이준형 -노인과 바다 , 넋을 잃게 만드는 압도적인 무대 (출처 : 놀면 뭐하니? | 네이버TV) https://t.co/z8eqpFIloK"
+	},
+	{
 		"created_at": "Sat Apr 04 10:41:48 +0000 2020",
 		"id": 1246386242368835600,
 		"id_str": "1246387487074902017",
