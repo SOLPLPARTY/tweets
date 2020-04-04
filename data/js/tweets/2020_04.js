@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 10:41:48 +0000 2020",
+		"id": 1246386242368835600,
+		"id_str": "1246387487074902017",
+		"full_text": "공간과 아티스트 모두에게 여러분의 응원이 필요한 시기입니다. 그동안 재미공작소에서 열린 공연들의 영상이 재미공작소 유튜브 채널에 아카이빙 되어 있으니 방문하셔서 공연 영상도 보시고 ❣️구독도 해주시면❣️ 정말 감사하겠습니다🙏 \nhttps://t.co/R5XCrcwWkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R5XCrcwWkE",
+					"expanded_url": "https://www.youtube.com/studiozemi",
+					"display_url": "youtube.com/studiozemi",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246386238728200200,
+		"in_reply_to_status_id_str": "1246386238728200194",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8202,
+			"friends_count": 594,
+			"listed_count": 110,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공간과 아티스트 모두에게 여러분의 응원이 필요한 시기입니다. 그동안 재미공작소에서 열린 공연들의 영상이 재미공작소 유튜브 채널에 아카이빙 되어 있으니 방문하셔서 공연 영상도 보시고 ❣️구독도 해주시면❣️ 정말 감사하겠습니다🙏 \nhttps://t.co/R5XCrcwWkE"
+	},
+	{
+		"created_at": "Sat Apr 04 10:41:44 +0000 2020",
+		"id": 1246386238728200200,
+		"id_str": "1246387469802749952",
+		"full_text": "또 하나, 이런 어려운 상황 속에서 나름의 해결책을 강구하고자 재미공작소 온라인 라이브를 준비하고 있습니다. 빅베이비드라이버와 김목인의 공연이 첫 시도가 될 예정입니다. 준비를 마치는 대로 일정과 진행 방식에 대해 공지하도록 하겠습니다. https://t.co/RcZi57ZGaK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246385547683041300,
+					"id_str": "1246385547683041280",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwNDU7UEAAdTmp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwNDU7UEAAdTmp.jpg",
+					"url": "https://t.co/RcZi57ZGaK",
+					"display_url": "pic.twitter.com/RcZi57ZGaK",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1246386238728200194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246385547683041300,
+					"id_str": "1246385547683041280",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwNDU7UEAAdTmp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwNDU7UEAAdTmp.jpg",
+					"url": "https://t.co/RcZi57ZGaK",
+					"display_url": "pic.twitter.com/RcZi57ZGaK",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1246386238728200194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246385577462624300,
+					"id_str": "1246385577462624256",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwNFD3UcAAP5th.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwNFD3UcAAP5th.jpg",
+					"url": "https://t.co/RcZi57ZGaK",
+					"display_url": "pic.twitter.com/RcZi57ZGaK",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1246386238728200194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246386235028828200,
+		"in_reply_to_status_id_str": "1246386235028828160",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8202,
+			"friends_count": 594,
+			"listed_count": 110,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 하나, 이런 어려운 상황 속에서 나름의 해결책을 강구하고자 재미공작소 온라인 라이브를 준비하고 있습니다. 빅베이비드라이버와 김목인의 공연이 첫 시도가 될 예정입니다. 준비를 마치는 대로 일정과 진행 방식에 대해 공지하도록 하겠습니다. https://t.co/RcZi57ZGaK"
+	},
+	{
 		"created_at": "Sat Apr 04 09:31:20 +0000 2020",
 		"id": 1246362020183588900,
 		"id_str": "1246369755813961729",
