@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 15:29:24 +0000 2020",
+		"id": 1246452630487879700,
+		"id_str": "1246459866467753984",
+		"full_text": "[#신승훈] Special Album [My Personas] 자켓 메이킹 필름\n\n🔗 https://t.co/vBjx8zIg0U\n🔗 https://t.co/yvZlHXqF8v\n\n#신승훈 #Special_Album #My_Personas\n#자켓_메이킹_필름 #20200408_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "Special_Album",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "My_Personas",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "자켓_메이킹_필름",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "20200408_6PM",
+					"indices": [
+						143,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vBjx8zIg0U",
+					"expanded_url": "https://youtu.be/5dm7_47bpxo",
+					"display_url": "youtu.be/5dm7_47bpxo",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/yvZlHXqF8v",
+					"expanded_url": "https://www.vlive.tv/video/183086",
+					"display_url": "vlive.tv/video/183086",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 1,
+			"listed_count": 23,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신승훈] Special Album [My Personas] 자켓 메이킹 필름\n\n🔗 https://t.co/vBjx8zIg0U\n🔗 https://t.co/yvZlHXqF8v\n\n#신승훈 #Special_Album #My_Personas\n#자켓_메이킹_필름 #20200408_6PM"
+	},
+	{
 		"created_at": "Sat Apr 04 14:49:32 +0000 2020",
 		"id": 1246449832325271600,
 		"id_str": "1246449832325271554",
