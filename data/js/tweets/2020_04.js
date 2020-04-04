@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 05:43:31 +0000 2020",
+		"id": 1246283444218409000,
+		"id_str": "1246312423700623361",
+		"full_text": "[사랑] 시디 예약 판매중입니다. 봄로야 작가의 예쁜 드로잉과 저의 짧은 메모가 곁들어진 책같은 부클릿과 엽서가 포함되어 있습니다. 판매처는 링크 타래로:) 저에게 직접 문의 주셔도 좋아요^^ \n\n#ARREST_NTHROOM 😡😾 https://t.co/0Fn6g3oXJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARREST_NTHROOM",
+					"indices": [
+						110,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246283431207567400,
+					"id_str": "1246283431207567361",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuwLXaVAAECduN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuwLXaVAAECduN.jpg",
+					"url": "https://t.co/0Fn6g3oXJW",
+					"display_url": "pic.twitter.com/0Fn6g3oXJW",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1246283444218408961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 919,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 919,
+							"h": 698,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246283431207567400,
+					"id_str": "1246283431207567361",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuwLXaVAAECduN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuwLXaVAAECduN.jpg",
+					"url": "https://t.co/0Fn6g3oXJW",
+					"display_url": "pic.twitter.com/0Fn6g3oXJW",
+					"expanded_url": "https://twitter.com/BigBabyDriver/status/1246283444218408961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 919,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 919,
+							"h": 698,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "",
+			"description": "사랑 2020.03.03. Lead Sister☝️@bigbet_music",
+			"url": "https://t.co/JwZ3cozRVb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwZ3cozRVb",
+							"expanded_url": "https://youtu.be/STDVtrvjffE",
+							"display_url": "youtu.be/STDVtrvjffE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2217,
+			"friends_count": 932,
+			"listed_count": 44,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 12614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181525574897958913/xgNxcMDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1583233077",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[사랑] 시디 예약 판매중입니다. 봄로야 작가의 예쁜 드로잉과 저의 짧은 메모가 곁들어진 책같은 부클릿과 엽서가 포함되어 있습니다. 판매처는 링크 타래로:) 저에게 직접 문의 주셔도 좋아요^^ \n\n#ARREST_NTHROOM 😡😾 https://t.co/0Fn6g3oXJW"
+	},
+	{
 		"created_at": "Sat Apr 04 04:29:24 +0000 2020",
 		"id": 1246287090431561700,
 		"id_str": "1246293772322865153",
