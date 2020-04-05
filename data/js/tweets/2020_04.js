@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 19:33:58 +0000 2020",
+		"id": 1246724258455326700,
+		"id_str": "1246883800979664896",
+		"full_text": "MAX 최강창민 'Chocolate' MV Teaser #2\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #당도MAX_최강창민초콜릿_D_1 https://t.co/ZNSDQj8ADC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "최강창민",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "MAX_Chocolate",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "최강창민_Chocolate",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"text": "Chocolate",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "당도MAX_최강창민초콜릿_D_1",
+					"indices": [
+						159,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59xFlLPZWX",
+					"expanded_url": "http://max.smtown.com",
+					"display_url": "max.smtown.com",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246303800018649000,
+					"id_str": "1246303800018649090",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"url": "https://t.co/ZNSDQj8ADC",
+					"display_url": "pic.twitter.com/ZNSDQj8ADC",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246724258455326720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246303800018649000,
+					"id_str": "1246303800018649090",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvD7y5UUAAAUhD.jpg",
+					"url": "https://t.co/ZNSDQj8ADC",
+					"display_url": "pic.twitter.com/ZNSDQj8ADC",
+					"expanded_url": "https://twitter.com/TVXQ/status/1246724258455326720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14348,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/480x270/_iurzSV71kKkjw76.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/pl/-K_a2yW-h-D7W8ht.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/1280x720/ZChNQIVTXiIQ3N3I.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1246303800018649090/vid/640x360/Bn9APnxLBQXkjWv9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266570,
+			"friends_count": 1,
+			"listed_count": 933,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241879424493973504/AT3gH_Pg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8238,
+		"favorite_count": 16347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX 최강창민 'Chocolate' MV Teaser #2\n\n🎧 2020.04.06. 6PM (KST)\n👉🏻 https://t.co/59xFlLPZWX\n\n#MAX #최강창민 #TVXQ! #동방신기 #東方神起 #MAX_Chocolate #최강창민_Chocolate #Chocolate #당도MAX_최강창민초콜릿_D_1 https://t.co/ZNSDQj8ADC"
+	},
+	{
+		"created_at": "Sun Apr 05 19:33:06 +0000 2020",
+		"id": 1246814934740037600,
+		"id_str": "1246883580342501376",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser\n\n▶ https://t.co/bvANG9447r\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod https://t.co/OBmRpUhvxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bvANG9447r",
+					"expanded_url": "https://youtu.be/OT-pQiWt_A0",
+					"display_url": "youtu.be/OT-pQiWt_A0",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246814923654434800,
+					"id_str": "1246814923654434818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"url": "https://t.co/OBmRpUhvxj",
+					"display_url": "pic.twitter.com/OBmRpUhvxj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814934740037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246814923654434800,
+					"id_str": "1246814923654434818",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU2TkTEUEAIJJAQ.jpg",
+					"url": "https://t.co/OBmRpUhvxj",
+					"display_url": "pic.twitter.com/OBmRpUhvxj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814934740037632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612452,
+			"friends_count": 28,
+			"listed_count": 2833,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10503,
+		"favorite_count": 19464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser\n\n▶ https://t.co/bvANG9447r\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod https://t.co/OBmRpUhvxj"
+	},
+	{
+		"created_at": "Sun Apr 05 19:33:01 +0000 2020",
+		"id": 1246814855983779800,
+		"id_str": "1246883558825721856",
+		"full_text": "'나는 나를 믿는다'\n(여자)아이들 'Oh my god'\n\n🎧 Release On \n2020.04.06 18:00 (KST)\n\n#여자아이들 #GIDLE\n#아이들_오마이갓 #GIDLE_OMG\n#I_trust #Ohmygod https://t.co/FmBFN4FNEV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "아이들_오마이갓",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "GIDLE_OMG",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245957234493755400,
+					"id_str": "1245957234493755397",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqLccFUYAA5T1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqLccFUYAA5T1o.jpg",
+					"url": "https://t.co/FmBFN4FNEV",
+					"display_url": "pic.twitter.com/FmBFN4FNEV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814855983779843/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245957234493755400,
+					"id_str": "1245957234493755397",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUqLccFUYAA5T1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUqLccFUYAA5T1o.jpg",
+					"url": "https://t.co/FmBFN4FNEV",
+					"display_url": "pic.twitter.com/FmBFN4FNEV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1246814855983779843/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31949,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245957234493755397/vid/640x360/Ehs0v8AHC47pikSq.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1245957234493755397/pl/DOxyoRjuptPkJcSP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245957234493755397/vid/480x270/Xz7I8YaUkkDnEEMf.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1245957234493755397/vid/1280x720/t75jQ3vnC3ZlVoWz.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' M/V Teaser",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.youtube.com/gidleofficial"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612452,
+			"friends_count": 28,
+			"listed_count": 2833,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26804,
+		"favorite_count": 32298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'나는 나를 믿는다'\n(여자)아이들 'Oh my god'\n\n🎧 Release On \n2020.04.06 18:00 (KST)\n\n#여자아이들 #GIDLE\n#아이들_오마이갓 #GIDLE_OMG\n#I_trust #Ohmygod https://t.co/FmBFN4FNEV"
+	},
+	{
 		"created_at": "Sun Apr 05 16:14:42 +0000 2020",
 		"id": 1246833651486208000,
 		"id_str": "1246833651486208001",
