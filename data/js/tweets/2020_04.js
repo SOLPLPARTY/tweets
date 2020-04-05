@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 09:29:25 +0000 2020",
+		"id": 1246724255590617000,
+		"id_str": "1246731657710878721",
+		"full_text": "[Special Clip] 보라미유 - 10분 전 Dance Practice\n\n보라미유 2nd Mini Album\n'Dear My Color' Released 💛🌸\n\n📽 https://t.co/f2P58XvJvW\n\n[바로듣기]\n\n멜론 https://t.co/Pe5MzQxgyh\n지니 https://t.co/AskeuFA2Hh\n플로 https://t.co/fMz7xCenTm\n벅스 https://t.co/bBgoJo7Wl0\n\n#보라미유 https://t.co/qvq07g6OKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						237,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f2P58XvJvW",
+					"expanded_url": "http://youtu.be/2bAp0O7ux6g",
+					"display_url": "youtu.be/2bAp0O7ux6g",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/Pe5MzQxgyh",
+					"expanded_url": "https://bit.ly/2QVdezq",
+					"display_url": "bit.ly/2QVdezq",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/AskeuFA2Hh",
+					"expanded_url": "https://bit.ly/3avhjSB",
+					"display_url": "bit.ly/3avhjSB",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/fMz7xCenTm",
+					"expanded_url": "https://bit.ly/39sgysh",
+					"display_url": "bit.ly/39sgysh",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/bBgoJo7Wl0",
+					"expanded_url": "https://bit.ly/3bzoaKN",
+					"display_url": "bit.ly/3bzoaKN",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246016047561371600,
+					"id_str": "1246016047561371649",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EUq8_ltU8AEwsq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUq8_ltU8AEwsq1.jpg",
+					"url": "https://t.co/qvq07g6OKF",
+					"display_url": "pic.twitter.com/qvq07g6OKF",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1246724255590617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246016047561371600,
+					"id_str": "1246016047561371649",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EUq8_ltU8AEwsq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUq8_ltU8AEwsq1.jpg",
+					"url": "https://t.co/qvq07g6OKF",
+					"display_url": "pic.twitter.com/qvq07g6OKF",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1246724255590617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7886,
+			"friends_count": 11,
+			"listed_count": 75,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Special Clip] 보라미유 - 10분 전 Dance Practice\n\n보라미유 2nd Mini Album\n'Dear My Color' Released 💛🌸\n\n📽 https://t.co/f2P58XvJvW\n\n[바로듣기]\n\n멜론 https://t.co/Pe5MzQxgyh\n지니 https://t.co/AskeuFA2Hh\n플로 https://t.co/fMz7xCenTm\n벅스 https://t.co/bBgoJo7Wl0\n\n#보라미유 https://t.co/qvq07g6OKF"
+	},
+	{
 		"created_at": "Sun Apr 05 09:14:16 +0000 2020",
 		"id": 1246711208465461200,
 		"id_str": "1246727847516889088",
@@ -53,7 +291,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 372242250,
 			"id_str": "372242250",
-			"name": "Billy Carter🏳️‍🌈🎗빌리카터",
+			"name": "Billy Carter🏳️🌈🎗빌리카터",
 			"screen_name": "billy_carter_",
 			"location": "",
 			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
@@ -128,7 +366,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Sun Apr 05 09:14:12 +0000 2020",
 		"id": 1246711206640930800,
 		"id_str": "1246727831389782020",
-		"full_text": "전세계가 사회적 거리두기에 동참하고 있는 이 시기, 모두 건강하게 견뎌내기를 바라며,\n\n오랜만에 공연으로 찾아습니다! 화요일, 실시간 라이브 스트리밍 서비를 통해 여러분의 안방으로 찾아갈 예정이니 여러분 랜선을 통해 만나요❤️ 보고싶어요!\n​\n세종문화회관 힘내라 콘서트\n(공연정보 아래)",
+		"full_text": "전세계가 사회적 거리두기에 동참하고 있는 이 시기, 모두 건강하게 견뎌내기를 바라며,\n\n오랜만에 공연으로 찾아습니다! 화요일, 실시간 라이브 스트리밍 서비를 통해 여러분의 안방으로 찾아갈 예정이니 여러분 랜선을 통해 만나요❤️ 보고싶어요!\n\n세종문화회관 힘내라 콘서트\n(공연정보 아래)",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -149,7 +387,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 372242250,
 			"id_str": "372242250",
-			"name": "Billy Carter🏳️‍🌈🎗빌리카터",
+			"name": "Billy Carter🏳️🌈🎗빌리카터",
 			"screen_name": "billy_carter_",
 			"location": "",
 			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
@@ -217,7 +455,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "전세계가 사회적 거리두기에 동참하고 있는 이 시기, 모두 건강하게 견뎌내기를 바라며,\n\n오랜만에 공연으로 찾아습니다! 화요일, 실시간 라이브 스트리밍 서비를 통해 여러분의 안방으로 찾아갈 예정이니 여러분 랜선을 통해 만나요❤️ 보고싶어요!\n​\n세종문화회관 힘내라 콘서트\n(공연정보 아래)"
+		"text": "전세계가 사회적 거리두기에 동참하고 있는 이 시기, 모두 건강하게 견뎌내기를 바라며,\n\n오랜만에 공연으로 찾아습니다! 화요일, 실시간 라이브 스트리밍 서비를 통해 여러분의 안방으로 찾아갈 예정이니 여러분 랜선을 통해 만나요❤️ 보고싶어요!\n\n세종문화회관 힘내라 콘서트\n(공연정보 아래)"
 	},
 	{
 		"created_at": "Sun Apr 05 09:13:55 +0000 2020",
