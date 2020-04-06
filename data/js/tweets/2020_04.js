@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 03:58:14 +0000 2020",
+		"id": 1246996304296697900,
+		"id_str": "1247010704378470400",
+		"full_text": "To Starcrawler, Peace is [a place in which we live commutatively, equally, and honestly. Peace means the world to us because theres no world without peace].\nㅤㅤ\n🇺🇸 궁극의 록음악을 추구하는 스타크롤러\nㅤㅤ\nStarcrawler, who can bring a new life to rock music. https://t.co/5hmk0UZb5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246986390694326300,
+					"id_str": "1246986390694326272",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246986390694326272/pu/img/N096BSFYsVBXMW0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246986390694326272/pu/img/N096BSFYsVBXMW0c.jpg",
+					"url": "https://t.co/5hmk0UZb5u",
+					"display_url": "pic.twitter.com/5hmk0UZb5u",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1246996304296697858/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246986390694326300,
+					"id_str": "1246986390694326272",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246986390694326272/pu/img/N096BSFYsVBXMW0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246986390694326272/pu/img/N096BSFYsVBXMW0c.jpg",
+					"url": "https://t.co/5hmk0UZb5u",
+					"display_url": "pic.twitter.com/5hmk0UZb5u",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1246996304296697858/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 41375,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246986390694326272/pu/vid/720x900/k6_7LeZL4CPI5tVW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246986390694326272/pu/vid/360x450/CNzgmkt3d5mnWZUm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246986390694326272/pu/pl/Tx-E8TLKfJM1cFL9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246986390694326272/pu/vid/320x400/-NIDGszKo_pz9b0I.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245999895175037000,
+		"in_reply_to_status_id_str": "1245999895175036930",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 35,
+			"listed_count": 0,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "To Starcrawler, Peace is [a place in which we live commutatively, equally, and honestly. Peace means the world to us because theres no world without peace].\nㅤㅤ\n🇺🇸 궁극의 록음악을 추구하는 스타크롤러\nㅤㅤ\nStarcrawler, who can bring a new life to rock music. https://t.co/5hmk0UZb5u"
+	},
+	{
+		"created_at": "Mon Apr 06 03:41:38 +0000 2020",
+		"id": 1246996929130586000,
+		"id_str": "1247006523961851904",
+		"full_text": "&lt;롤링 25주년 기념 공연 : 열두달 단독 콘서트 '시작해봄'&gt;\n⠀\n· 일시 : 2020년 5월 3일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 열두달\n· 예매 : 멜론티켓 2020년 4월 13일 (월) 오후 8시 예매오픈\n⠀\nDesign by @studio.himp\n⠀\n#열두달 #12DAL #열두달_단독콘서트 #단독콘서트 #롤링홀 #멜론티켓 https://t.co/GPkgd1xqu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "열두달",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "12DAL",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "열두달_단독콘서트",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						198,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246996920238669800,
+					"id_str": "1246996920238669824",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EU45F5LVAAA5Ota.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU45F5LVAAA5Ota.jpg",
+					"url": "https://t.co/GPkgd1xqu7",
+					"display_url": "pic.twitter.com/GPkgd1xqu7",
+					"expanded_url": "https://twitter.com/rollinghall/status/1246996929130586112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246996920238669800,
+					"id_str": "1246996920238669824",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EU45F5LVAAA5Ota.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU45F5LVAAA5Ota.jpg",
+					"url": "https://t.co/GPkgd1xqu7",
+					"display_url": "pic.twitter.com/GPkgd1xqu7",
+					"expanded_url": "https://twitter.com/rollinghall/status/1246996929130586112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 776,
+			"listed_count": 45,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 : 열두달 단독 콘서트 '시작해봄'&gt;\n⠀\n· 일시 : 2020년 5월 3일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 열두달\n· 예매 : 멜론티켓 2020년 4월 13일 (월) 오후 8시 예매오픈\n⠀\nDesign by @studio.himp\n⠀\n#열두달 #12DAL #열두달_단독콘서트 #단독콘서트 #롤링홀 #멜론티켓 https://t.co/GPkgd1xqu7"
+	},
+	{
 		"created_at": "Mon Apr 06 03:12:08 +0000 2020",
 		"id": 1246999101524381700,
 		"id_str": "1246999101524381697",
