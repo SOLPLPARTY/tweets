@@ -1,6 +1,797 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 07:29:36 +0000 2020",
+		"id": 1247063513517813800,
+		"id_str": "1247063896529215488",
+		"full_text": "🎀🎂🎉\n한국시간 4월 7일 밤 10시! #앤마리 #생일 기념 라이브 스트리밍이 앤-마리 유튜브에서 진행됩니다😍\n\n👉 https://t.co/FdvBFIRHBc https://t.co/6aA1QXDCN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앤마리",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "생일",
+					"indices": [
+						27,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FdvBFIRHBc",
+					"expanded_url": "https://youtu.be/92CWZ26X8aE",
+					"display_url": "youtu.be/92CWZ26X8aE",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/6aA1QXDCN6",
+					"expanded_url": "https://twitter.com/AnneMarie/status/1246832952740380672",
+					"display_url": "twitter.com/AnneMarie/stat…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9652,
+			"friends_count": 560,
+			"listed_count": 131,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800527316610752512/RWApzxk__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1571967210",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246832952740380700,
+		"quoted_status_id_str": "1246832952740380672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6aA1QXDCN6",
+			"expanded": "https://twitter.com/AnneMarie/status/1246832952740380672",
+			"display": "twitter.com/AnneMarie/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 16:11:55 +0000 2020",
+			"id": 1246832952740380700,
+			"id_str": "1246832952740380672",
+			"full_text": "IT’S MY BIRTHDAY ON TUESDAY!!! Let’s celebrate it all together! I’m going LIVE on my @youtube channel at 2pm UK time to sing some songs and answer your questions. I CAN’T WAIT TO SPEND MY DAY WITH YOU !! Click this link to set a reminder https://t.co/YFZVbZumDz. 💓💓💓 https://t.co/M3yMetJ4j2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube #StayHome",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							85,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YFZVbZumDz",
+						"expanded_url": "https://youtu.be/92CWZ26X8aE",
+						"display_url": "youtu.be/92CWZ26X8aE",
+						"indices": [
+							238,
+							261
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1246832946956374000,
+						"id_str": "1246832946956374019",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EU2j9ZGWkAM-S_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU2j9ZGWkAM-S_W.jpg",
+						"url": "https://t.co/M3yMetJ4j2",
+						"display_url": "pic.twitter.com/M3yMetJ4j2",
+						"expanded_url": "https://twitter.com/AnneMarie/status/1246832952740380672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246832946956374000,
+						"id_str": "1246832946956374019",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EU2j9ZGWkAM-S_W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU2j9ZGWkAM-S_W.jpg",
+						"url": "https://t.co/M3yMetJ4j2",
+						"display_url": "pic.twitter.com/M3yMetJ4j2",
+						"expanded_url": "https://twitter.com/AnneMarie/status/1246832952740380672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 339755472,
+				"id_str": "339755472",
+				"name": "ANNE-MARIE",
+				"screen_name": "AnneMarie",
+				"location": "My own head",
+				"description": "HER is out NOW https://t.co/vo6s9Y0xEs & BIRTHDAY is out NOW too 🎈 https://t.co/tKDzXjRkRN",
+				"url": "https://t.co/Wq2Jn4Yv4k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wq2Jn4Yv4k",
+								"expanded_url": "http://iamannemarie.com",
+								"display_url": "iamannemarie.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vo6s9Y0xEs",
+								"expanded_url": "https://ad.gt/Her",
+								"display_url": "ad.gt/Her",
+								"indices": [
+									15,
+									38
+								]
+							},
+							{
+								"url": "https://t.co/tKDzXjRkRN",
+								"expanded_url": "https://ad.gt/BIRTHDAY",
+								"display_url": "ad.gt/BIRTHDAY",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 699008,
+				"friends_count": 741,
+				"listed_count": 1025,
+				"created_at": "Thu Jul 21 16:14:57 +0000 2011",
+				"favourites_count": 18698,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339755472/1581066286",
+				"profile_link_color": "8BBAD8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 2029,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎀🎂🎉\n한국시간 4월 7일 밤 10시! #앤마리 #생일 기념 라이브 스트리밍이 앤-마리 유튜브에서 진행됩니다😍\n\n👉 https://t.co/FdvBFIRHBc https://t.co/6aA1QXDCN6"
+	},
+	{
+		"created_at": "Mon Apr 06 07:29:33 +0000 2020",
+		"id": 1247052316382912500,
+		"id_str": "1247063882008584194",
+		"full_text": "[스케줄 안내] 4월 2째주 스케줄 🔍\n\n모바일 ☞ https://t.co/vfOLz9RKrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfOLz9RKrZ",
+					"expanded_url": "http://bit.ly/39NES7W",
+					"display_url": "bit.ly/39NES7W",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13373,
+			"friends_count": 2443,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 4월 2째주 스케줄 🔍\n\n모바일 ☞ https://t.co/vfOLz9RKrZ"
+	},
+	{
+		"created_at": "Mon Apr 06 07:29:25 +0000 2020",
+		"id": 1247049672079724500,
+		"id_str": "1247063848265318400",
+		"full_text": "자유리듬과 자유리듬 리믹스 🕺🏻\nhttps://t.co/g25gi9IimK \n\n#윤석철 #YunSeokCheol @SCJAZZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤석철",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g25gi9IimK",
+					"expanded_url": "https://youtu.be/obi-kwpFPcA",
+					"display_url": "youtu.be/obi-kwpFPcA",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34453,
+			"friends_count": 11,
+			"listed_count": 408,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자유리듬과 자유리듬 리믹스 🕺🏻\nhttps://t.co/g25gi9IimK \n\n#윤석철 #YunSeokCheol @SCJAZZY"
+	},
+	{
+		"created_at": "Mon Apr 06 07:18:23 +0000 2020",
+		"id": 1247061072462430200,
+		"id_str": "1247061072462430208",
+		"full_text": "#Melon #멜론 #멜론매거진\n최고의 아티스트들 뒤에는 그가 있었다\nhttps://t.co/Orci0nVB9m https://t.co/iFPrCqzLUs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Orci0nVB9m",
+					"expanded_url": "https://bit.ly/3e0JniK",
+					"display_url": "bit.ly/3e0JniK",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247061071141232600,
+					"id_str": "1247061071141232645",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5zb96XYAU_GBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5zb96XYAU_GBd.jpg",
+					"url": "https://t.co/iFPrCqzLUs",
+					"display_url": "pic.twitter.com/iFPrCqzLUs",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1247061072462430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247061071141232600,
+					"id_str": "1247061071141232645",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EU5zb96XYAU_GBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU5zb96XYAU_GBd.jpg",
+					"url": "https://t.co/iFPrCqzLUs",
+					"display_url": "pic.twitter.com/iFPrCqzLUs",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1247061072462430208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n최고의 아티스트들 뒤에는 그가 있었다\nhttps://t.co/Orci0nVB9m https://t.co/iFPrCqzLUs"
+	},
+	{
 		"created_at": "Mon Apr 06 07:14:22 +0000 2020",
 		"id": 1247060061308027000,
 		"id_str": "1247060061308026881",
