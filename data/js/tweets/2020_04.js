@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 05:29:30 +0000 2020",
+		"id": 1247024248335425500,
+		"id_str": "1247033672596889600",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/bfjWga96CY\n-\n[Listen here]\nMelon - https://t.co/9MEBdSOuKE\nGenie - https://t.co/wSXyiwNEzS\nBugs - https://t.co/WF7a5m57Dn\nVibe - https://t.co/UdUMuw1myB\nFLO - https://t.co/oZLtpR7XWU\nhttps://t.co/lhDtsiu9do",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bfjWga96CY",
+					"expanded_url": "https://bit.ly/3dZGBuo",
+					"display_url": "bit.ly/3dZGBuo",
+					"indices": [
+						13,
+						36
+					]
+				},
+				{
+					"url": "https://t.co/9MEBdSOuKE",
+					"expanded_url": "https://bit.ly/39NwMfH",
+					"display_url": "bit.ly/39NwMfH",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/wSXyiwNEzS",
+					"expanded_url": "https://bit.ly/2V68t7u",
+					"display_url": "bit.ly/2V68t7u",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/WF7a5m57Dn",
+					"expanded_url": "https://bit.ly/2V3Tb34",
+					"display_url": "bit.ly/2V3Tb34",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/UdUMuw1myB",
+					"expanded_url": "https://bit.ly/2UIsKAS",
+					"display_url": "bit.ly/2UIsKAS",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/oZLtpR7XWU",
+					"expanded_url": "https://bit.ly/2ULP64t",
+					"display_url": "bit.ly/2ULP64t",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/lhDtsiu9do",
+					"expanded_url": "https://youtu.be/WojeJssXDFI",
+					"display_url": "youtu.be/WojeJssXDFI",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247024247194521600,
+		"in_reply_to_status_id_str": "1247024247194521600",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9670,
+			"friends_count": 2954,
+			"listed_count": 275,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/bfjWga96CY\n-\n[Listen here]\nMelon - https://t.co/9MEBdSOuKE\nGenie - https://t.co/wSXyiwNEzS\nBugs - https://t.co/WF7a5m57Dn\nVibe - https://t.co/UdUMuw1myB\nFLO - https://t.co/oZLtpR7XWU\nhttps://t.co/lhDtsiu9do"
+	},
+	{
 		"created_at": "Mon Apr 06 04:41:38 +0000 2020",
 		"id": 1247009729932488700,
 		"id_str": "1247021625696047105",
