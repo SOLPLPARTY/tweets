@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 02:08:25 +0000 2020",
+		"id": 1246983067622924300,
+		"id_str": "1246983067622924288",
+		"full_text": "#문화가있는날\n사천가 中 - 이자람&amp;판소리만들기-자 | 문화가 있는 날 집콘 | 2015.10.28\nhttps://t.co/Ssjlri4rmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ssjlri4rmn",
+					"expanded_url": "https://youtu.be/j_VbgfskA_c",
+					"display_url": "youtu.be/j_VbgfskA_c",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 354,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날\n사천가 中 - 이자람&amp;판소리만들기-자 | 문화가 있는 날 집콘 | 2015.10.28\nhttps://t.co/Ssjlri4rmn"
+	},
+	{
+		"created_at": "Mon Apr 06 01:29:27 +0000 2020",
+		"id": 1246969727588548600,
+		"id_str": "1246973258190204931",
+		"full_text": "[#스튜디오음악당] '음악당' 스텔라장-HYNN, 최종회 게스트 출격…루프장인x폭주보컬 만남\n&gt; https://t.co/QPbYcA6YgY\n\n#음악당 #Mnet #음악토크쇼 #음악예능 #김희철 #김이나 #배순탁 #스텔라장 #흰 #HYNN #박혜원 #Colors #시든꽃에물을주듯 https://t.co/KgGOO32c7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오음악당",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "음악당",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "음악토크쇼",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "음악예능",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "배순탁",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "흰",
+					"indices": [
+						127,
+						129
+					]
+				},
+				{
+					"text": "HYNN",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "박혜원",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "Colors",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "시든꽃에물을주듯",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QPbYcA6YgY",
+					"expanded_url": "https://bit.ly/39EKH7O",
+					"display_url": "bit.ly/39EKH7O",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246968341610107000,
+					"id_str": "1246968341610106880",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4fGZfUEAAeTLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU4fGZfUEAAeTLv.jpg",
+					"url": "https://t.co/KgGOO32c7n",
+					"display_url": "pic.twitter.com/KgGOO32c7n",
+					"expanded_url": "https://twitter.com/themysticstory/status/1246969727588548608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246968341610107000,
+					"id_str": "1246968341610106880",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EU4fGZfUEAAeTLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU4fGZfUEAAeTLv.jpg",
+					"url": "https://t.co/KgGOO32c7n",
+					"display_url": "pic.twitter.com/KgGOO32c7n",
+					"expanded_url": "https://twitter.com/themysticstory/status/1246969727588548608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1206,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18996,
+			"friends_count": 17,
+			"listed_count": 276,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#스튜디오음악당] '음악당' 스텔라장-HYNN, 최종회 게스트 출격…루프장인x폭주보컬 만남\n&gt; https://t.co/QPbYcA6YgY\n\n#음악당 #Mnet #음악토크쇼 #음악예능 #김희철 #김이나 #배순탁 #스텔라장 #흰 #HYNN #박혜원 #Colors #시든꽃에물을주듯 https://t.co/KgGOO32c7n"
+	},
+	{
 		"created_at": "Mon Apr 06 00:29:25 +0000 2020",
 		"id": 1246951512812605400,
 		"id_str": "1246958150156156928",
