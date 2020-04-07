@@ -1,6 +1,971 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 05:05:55 +0000 2020",
+		"id": 1247390122829545500,
+		"id_str": "1247390122829545472",
+		"full_text": "#Bugs #벅스 #뮤직포스트\n[뮤직포커스] 낯선 청춘의 행복한 재즈 듣기 - 14. 피아노로 서정시를 썼던 연주자 빌 에반스 (2020.04.07)\nhttps://t.co/jiMVN7It5z https://t.co/HSC42a9cwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jiMVN7It5z",
+					"expanded_url": "https://bit.ly/3dZsftZ",
+					"display_url": "bit.ly/3dZsftZ",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247390121776820200,
+					"id_str": "1247390121776820224",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-etPDWsAAwK-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-etPDWsAAwK-b.jpg",
+					"url": "https://t.co/HSC42a9cwK",
+					"display_url": "pic.twitter.com/HSC42a9cwK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1247390122829545472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247390121776820200,
+					"id_str": "1247390121776820224",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-etPDWsAAwK-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-etPDWsAAwK-b.jpg",
+					"url": "https://t.co/HSC42a9cwK",
+					"display_url": "pic.twitter.com/HSC42a9cwK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1247390122829545472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Bugs #벅스 #뮤직포스트\n[뮤직포커스] 낯선 청춘의 행복한 재즈 듣기 - 14. 피아노로 서정시를 썼던 연주자 빌 에반스 (2020.04.07)\nhttps://t.co/jiMVN7It5z https://t.co/HSC42a9cwK"
+	},
+	{
+		"created_at": "Tue Apr 07 04:58:15 +0000 2020",
+		"id": 1247379110680088600,
+		"id_str": "1247388193139417088",
+		"full_text": "@2lang2 \"가능하면 더 많은 노래를 ‘모두’에 가까운 많은 사람들과 함께 즐기고 싶다. 무대를 향해 의자가 가지런히 놓인 공연장이 아닌 곳에서 노래하고 싶다. 무대와 객석이 비슷하게 시끄러울 때야말로 제일 평화로운 공연의 순간이 아닐까.\"_이랑 &lt;함께 소리 낼 수 있는 평화로운 공연장을 찾아서&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2lang2",
+					"name": "이랑｜Lang Lee｜イ・ラン",
+					"id": 213091891,
+					"id_str": "213091891",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247358716824846300,
+		"in_reply_to_status_id_str": "1247358716824846336",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@2lang2 \"가능하면 더 많은 노래를 ‘모두’에 가까운 많은 사람들과 함께 즐기고 싶다. 무대를 향해 의자가 가지런히 놓인 공연장이 아닌 곳에서 노래하고 싶다. 무대와 객석이 비슷하게 시끄러울 때야말로 제일 평화로운 공연의 순간이 아닐까.\"_이랑 &lt;함께 소리 낼 수 있는 평화로운 공연장을 찾아서&gt;"
+	},
+	{
+		"created_at": "Tue Apr 07 04:39:40 +0000 2020",
+		"id": 1247376074356314000,
+		"id_str": "1247383519199768578",
+		"full_text": "코로나 19 극복을 위한 무관중 온라인 콘서트 &lt;힘내라 콘서트&gt;를 진행합니다.\n이번주 금요일 저녁 7시 30분 네이버 TV를 통해 만나요!!\n⠀\n세종문화회관 ‘힘콘’\n&lt;ADOY 콘서트&gt; 생중계\n일시 : 4월10일(금) 저녁 7시30분\n네이버 TV : https://t.co/fphCYv92O0\n네이버 V라이브 :https://t.co/yVaYH60H0v https://t.co/dUaNtSoo3w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fphCYv92O0",
+					"expanded_url": "https://tv.naver.com/theater",
+					"display_url": "tv.naver.com/theater",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/yVaYH60H0v",
+					"expanded_url": "https://www.vlive.tv/video/181615",
+					"display_url": "vlive.tv/video/181615",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247376060485750800,
+					"id_str": "1247376060485750784",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-R6wqUUAAh2Dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-R6wqUUAAh2Dz.jpg",
+					"url": "https://t.co/dUaNtSoo3w",
+					"display_url": "pic.twitter.com/dUaNtSoo3w",
+					"expanded_url": "https://twitter.com/adoyband/status/1247376074356314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247376060485750800,
+					"id_str": "1247376060485750784",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-R6wqUUAAh2Dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-R6wqUUAAh2Dz.jpg",
+					"url": "https://t.co/dUaNtSoo3w",
+					"display_url": "pic.twitter.com/dUaNtSoo3w",
+					"expanded_url": "https://twitter.com/adoyband/status/1247376074356314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3629,
+			"friends_count": 541,
+			"listed_count": 35,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 19 극복을 위한 무관중 온라인 콘서트 &lt;힘내라 콘서트&gt;를 진행합니다.\n이번주 금요일 저녁 7시 30분 네이버 TV를 통해 만나요!!\n⠀\n세종문화회관 ‘힘콘’\n&lt;ADOY 콘서트&gt; 생중계\n일시 : 4월10일(금) 저녁 7시30분\n네이버 TV : https://t.co/fphCYv92O0\n네이버 V라이브 :https://t.co/yVaYH60H0v https://t.co/dUaNtSoo3w"
+	},
+	{
+		"created_at": "Tue Apr 07 04:29:41 +0000 2020",
+		"id": 1247374652051034000,
+		"id_str": "1247381005876563969",
+		"full_text": "[BML2020] 뷰티풀 민트 라이프 2020 최종 라인업이 발표되었습니다!\n⠀\n🌷5/16(토)\n𝗠𝗕𝗦\n데이브레이크, 소란\n⠀\n🌷5/17(일)\n𝗠𝗕𝗦\n권순관, SURL\n⠀\n𝗰𝗕𝗛\n쏜애플\n⠀\n𝗟𝗙𝗚\nLambC https://t.co/xj6Mj8VH43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247374352925905000,
+					"id_str": "1247374352925904896",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-QXXgU0AA-nwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-QXXgU0AA-nwQ.jpg",
+					"url": "https://t.co/xj6Mj8VH43",
+					"display_url": "pic.twitter.com/xj6Mj8VH43",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1247374652051034112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247374352925905000,
+					"id_str": "1247374352925904896",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-QXXgU0AA-nwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-QXXgU0AA-nwQ.jpg",
+					"url": "https://t.co/xj6Mj8VH43",
+					"display_url": "pic.twitter.com/xj6Mj8VH43",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1247374652051034112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13363,
+			"friends_count": 2442,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[BML2020] 뷰티풀 민트 라이프 2020 최종 라인업이 발표되었습니다!\n⠀\n🌷5/16(토)\n𝗠𝗕𝗦\n데이브레이크, 소란\n⠀\n🌷5/17(일)\n𝗠𝗕𝗦\n권순관, SURL\n⠀\n𝗰𝗕𝗛\n쏜애플\n⠀\n𝗟𝗙𝗚\nLambC https://t.co/xj6Mj8VH43"
+	},
+	{
+		"created_at": "Tue Apr 07 04:29:34 +0000 2020",
+		"id": 1247373226042208300,
+		"id_str": "1247380975488839683",
+		"full_text": "[#스튜디오음악당]\n12회 게스트 스텔라장X흰(HYNN)에게 응원 댓글을 달아주세요🧡\n참여 링크 &gt; https://t.co/ofoBWvDopy\n\n추첨을 통해 '싸인 폴라로이드+피크닉 의자'를 드립니다🌿\n\n#음악당 #미스틱스토리 #FLO #김희철 #김이나 #배순탁 #스텔라장 #StellaJang #흰 #HYNN #박혜원 #음악토크쇼 https://t.co/LnGmPvxSNS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스튜디오음악당",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "음악당",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "배순탁",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "StellaJang",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "흰",
+					"indices": [
+						168,
+						170
+					]
+				},
+				{
+					"text": "HYNN",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "박혜원",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "음악토크쇼",
+					"indices": [
+						182,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofoBWvDopy",
+					"expanded_url": "https://bit.ly/2RgsU0o",
+					"display_url": "bit.ly/2RgsU0o",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247373216038785000,
+					"id_str": "1247373216038785025",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-PVMRUEAEzxoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-PVMRUEAEzxoN.jpg",
+					"url": "https://t.co/LnGmPvxSNS",
+					"display_url": "pic.twitter.com/LnGmPvxSNS",
+					"expanded_url": "https://twitter.com/themysticstory/status/1247373226042208256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1018,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1738,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247373216038785000,
+					"id_str": "1247373216038785025",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-PVMRUEAEzxoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-PVMRUEAEzxoN.jpg",
+					"url": "https://t.co/LnGmPvxSNS",
+					"display_url": "pic.twitter.com/LnGmPvxSNS",
+					"expanded_url": "https://twitter.com/themysticstory/status/1247373226042208256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1018,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1738,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18991,
+			"friends_count": 17,
+			"listed_count": 279,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#스튜디오음악당]\n12회 게스트 스텔라장X흰(HYNN)에게 응원 댓글을 달아주세요🧡\n참여 링크 &gt; https://t.co/ofoBWvDopy\n\n추첨을 통해 '싸인 폴라로이드+피크닉 의자'를 드립니다🌿\n\n#음악당 #미스틱스토리 #FLO #김희철 #김이나 #배순탁 #스텔라장 #StellaJang #흰 #HYNN #박혜원 #음악토크쇼 https://t.co/LnGmPvxSNS"
+	},
+	{
 		"created_at": "Tue Apr 07 03:41:38 +0000 2020",
 		"id": 1247364506839183400,
 		"id_str": "1247368911307358212",
