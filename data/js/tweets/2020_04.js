@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 13:14:44 +0000 2020",
+		"id": 1247513140172128300,
+		"id_str": "1247513140172128258",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |'나를 메고 있는 끈을 가끔은 느슨하게 해보자'| 키노(KINO)가 읽어주는 '나를 뺀 세상의 전부'\nhttps://t.co/pk6p6yEuw7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pk6p6yEuw7",
+					"expanded_url": "https://youtu.be/Rgftjo-NOTI",
+					"display_url": "youtu.be/Rgftjo-NOTI",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |'나를 메고 있는 끈을 가끔은 느슨하게 해보자'| 키노(KINO)가 읽어주는 '나를 뺀 세상의 전부'\nhttps://t.co/pk6p6yEuw7"
+	},
+	{
+		"created_at": "Tue Apr 07 12:29:25 +0000 2020",
+		"id": 1247493829353017300,
+		"id_str": "1247501733993029632",
+		"full_text": "#20200407\n#임이랑 #조금괴로운당신에게식물을추천합니다 \n잡혀있던 일정들 모두 취소되고\n하나 남은 소규모 #땡스북스 #북콘서트 \n어려운 발걸음 해주셔서 감사합니다\n#이랑 #디어클라우드 #조당식 \n#책추천 #도서추천 #식물 #가드너 https://t.co/BazhYKucRq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임이랑",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "조금괴로운당신에게식물을추천합니다",
+					"indices": [
+						15,
+						33
+					]
+				},
+				{
+					"text": "땡스북스",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "북콘서트",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "조당식",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "책추천",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "도서추천",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "식물",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "가드너",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247493803809767400,
+					"id_str": "1247493803809767426",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_9AUuVAAIEOAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_9AUuVAAIEOAL.jpg",
+					"url": "https://t.co/BazhYKucRq",
+					"display_url": "pic.twitter.com/BazhYKucRq",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1247493829353017344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247493803809767400,
+					"id_str": "1247493803809767426",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_9AUuVAAIEOAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_9AUuVAAIEOAL.jpg",
+					"url": "https://t.co/BazhYKucRq",
+					"display_url": "pic.twitter.com/BazhYKucRq",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1247493829353017344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 357,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 16165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20200407\n#임이랑 #조금괴로운당신에게식물을추천합니다 \n잡혀있던 일정들 모두 취소되고\n하나 남은 소규모 #땡스북스 #북콘서트 \n어려운 발걸음 해주셔서 감사합니다\n#이랑 #디어클라우드 #조당식 \n#책추천 #도서추천 #식물 #가드너 https://t.co/BazhYKucRq"
+	},
+	{
 		"created_at": "Tue Apr 07 11:29:40 +0000 2020",
 		"id": 1247438563571982300,
 		"id_str": "1247486696255438857",
@@ -25,7 +407,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 372242250,
 			"id_str": "372242250",
-			"name": "Billy Carter🏳️‍🌈🎗빌리카터",
+			"name": "Billy Carter🏳️🌈🎗빌리카터",
 			"screen_name": "billy_carter_",
 			"location": "",
 			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
