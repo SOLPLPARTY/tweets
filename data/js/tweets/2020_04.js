@@ -1,6 +1,3186 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 03:12:54 +0000 2020",
+		"id": 1247107015421210600,
+		"id_str": "1247361682277425153",
+		"full_text": "40명 한정 무선헤드폰을 활용하며 원하시는 자리에서 보고 들으실 수 있는 공연입니다.\n무대를 보셔도 되고 루프탑에서 경희궁 안뜰을 보실 수 있다고 합니다..\n안전을 위해 마스크를 착용, 공연 중에는 가급적 간격 2미터 이상 유지 필수. . .",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247107010165747700,
+		"in_reply_to_status_id_str": "1247107010165747715",
+		"in_reply_to_user_id": 48782362,
+		"in_reply_to_user_id_str": "48782362",
+		"in_reply_to_screen_name": "haheonjin",
+		"user": {
+			"id": 48782362,
+			"id_str": "48782362",
+			"name": "헌진",
+			"screen_name": "haheonjin",
+			"location": "",
+			"description": "하헌진 밴드 ‘신나게 놀아보자’ 앨범 발매 / 섭외 문의 : haheonjin@gmail.com",
+			"url": "https://t.co/beNdVdHSVS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/beNdVdHSVS",
+							"expanded_url": "https://music.apple.com/us/album/lets-have-a-ball/1498740548",
+							"display_url": "music.apple.com/us/album/lets-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7784,
+			"friends_count": 3038,
+			"listed_count": 153,
+			"created_at": "Fri Jun 19 18:18:25 +0000 2009",
+			"favourites_count": 3071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946638457522106369/ze_cqSNN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946638457522106369/ze_cqSNN_normal.jpg",
+			"profile_link_color": "EB6E34",
+			"profile_sidebar_border_color": "AFCFAD",
+			"profile_sidebar_fill_color": "FDCB21",
+			"profile_text_color": "136B64",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "40명 한정 무선헤드폰을 활용하며 원하시는 자리에서 보고 들으실 수 있는 공연입니다.\n무대를 보셔도 되고 루프탑에서 경희궁 안뜰을 보실 수 있다고 합니다..\n안전을 위해 마스크를 착용, 공연 중에는 가급적 간격 2미터 이상 유지 필수. . ."
+	},
+	{
+		"created_at": "Tue Apr 07 03:12:16 +0000 2020",
+		"id": 1247130307653845000,
+		"id_str": "1247361524655517697",
+		"full_text": "*공연 음향은 헤드폰에 최적화해 세팅됩니다. \n\n*공연 일정은 추가될 수 있습니다. \n\n*공연 장비와 헤드셋은 사용 전후 철저한 소독 과정을 거칩니다. \n\n*서로의 안전을 위해 입장 시 꼭 마스크를 착용해주시고 공연 중에는 가급적 개인 간의 거리를 2미터 이상으로 유지해주시면 좋습니다. https://t.co/VSm3Mvq6Ye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247130300636729300,
+					"id_str": "1247130300636729345",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6yZp4UEAET_Pu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6yZp4UEAET_Pu.jpg",
+					"url": "https://t.co/VSm3Mvq6Ye",
+					"display_url": "pic.twitter.com/VSm3Mvq6Ye",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247130307653844993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247130300636729300,
+					"id_str": "1247130300636729345",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6yZp4UEAET_Pu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6yZp4UEAET_Pu.jpg",
+					"url": "https://t.co/VSm3Mvq6Ye",
+					"display_url": "pic.twitter.com/VSm3Mvq6Ye",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247130307653844993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247129661621993500,
+		"in_reply_to_status_id_str": "1247129661621993479",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*공연 음향은 헤드폰에 최적화해 세팅됩니다. \n\n*공연 일정은 추가될 수 있습니다. \n\n*공연 장비와 헤드셋은 사용 전후 철저한 소독 과정을 거칩니다. \n\n*서로의 안전을 위해 입장 시 꼭 마스크를 착용해주시고 공연 중에는 가급적 개인 간의 거리를 2미터 이상으로 유지해주시면 좋습니다. https://t.co/VSm3Mvq6Ye"
+	},
+	{
+		"created_at": "Tue Apr 07 03:12:13 +0000 2020",
+		"id": 1247129661621993500,
+		"id_str": "1247361511682523137",
+		"full_text": "입장 시 대여해드리는 무선헤드폰을 착용하고 '복합문화공간 에무' 안팎에서 자신에게 가장 편안해 보이는 자리를 찾아 가장 편안한 자세로 공연을 즐겨주세요. \n\n*무선헤드폰의 유효 거리는 약 1km입니다만 이동 중에는 수신이 원활하지 않을 수도 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247129466964299800,
+		"in_reply_to_status_id_str": "1247129466964299776",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "입장 시 대여해드리는 무선헤드폰을 착용하고 '복합문화공간 에무' 안팎에서 자신에게 가장 편안해 보이는 자리를 찾아 가장 편안한 자세로 공연을 즐겨주세요. \n\n*무선헤드폰의 유효 거리는 약 1km입니다만 이동 중에는 수신이 원활하지 않을 수도 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:12:05 +0000 2020",
+		"id": 1247129466964299800,
+		"id_str": "1247361477859618817",
+		"full_text": "⭐️중요⭐️\n*무선헤드폰을 활용한 공연입니다. 무대를 바라보셔도, 루프탑에 올라 경희궁 안뜰을 내려다 보셔도 좋습니다. 카페 테이블에 앉아 커피 한 잔을 앞에 두고 소리에 집중하셔도 좋습니다. https://t.co/UIg0WY99YN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247129454813446100,
+					"id_str": "1247129454813446146",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6xoa8VAAI_MJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6xoa8VAAI_MJn.jpg",
+					"url": "https://t.co/UIg0WY99YN",
+					"display_url": "pic.twitter.com/UIg0WY99YN",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247129466964299776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247129454813446100,
+					"id_str": "1247129454813446146",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6xoa8VAAI_MJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6xoa8VAAI_MJn.jpg",
+					"url": "https://t.co/UIg0WY99YN",
+					"display_url": "pic.twitter.com/UIg0WY99YN",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247129466964299776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247129034468671500,
+		"in_reply_to_status_id_str": "1247129034468671489",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐️중요⭐️\n*무선헤드폰을 활용한 공연입니다. 무대를 바라보셔도, 루프탑에 올라 경희궁 안뜰을 내려다 보셔도 좋습니다. 카페 테이블에 앉아 커피 한 잔을 앞에 두고 소리에 집중하셔도 좋습니다. https://t.co/UIg0WY99YN"
+	},
+	{
+		"created_at": "Tue Apr 07 03:12:01 +0000 2020",
+		"id": 1247129034468671500,
+		"id_str": "1247361461271195649",
+		"full_text": "*공연장 팡타게라지를 비롯한 복합문화공간 에무의 전 공간은 수시로 소독을 진행하고 있습니다. \n\n*충분한 거리 유지를 위해 각 공연은 40명 한정으로 진행됩니다. \n\n*입장 시 체온을 비롯한 간략한 개인정보를 요청드릴 수도 있습니다. \n\n*공연 시작 시간은 오후 4시입니다. https://t.co/91Wv1kfyEp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247129025736093700,
+					"id_str": "1247129025736093697",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6xPcgUMAEIu8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6xPcgUMAEIu8I.jpg",
+					"url": "https://t.co/91Wv1kfyEp",
+					"display_url": "pic.twitter.com/91Wv1kfyEp",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247129034468671489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247129025736093700,
+					"id_str": "1247129025736093697",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6xPcgUMAEIu8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6xPcgUMAEIu8I.jpg",
+					"url": "https://t.co/91Wv1kfyEp",
+					"display_url": "pic.twitter.com/91Wv1kfyEp",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247129034468671489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247128751428649000,
+		"in_reply_to_status_id_str": "1247128751428648962",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "*공연장 팡타게라지를 비롯한 복합문화공간 에무의 전 공간은 수시로 소독을 진행하고 있습니다. \n\n*충분한 거리 유지를 위해 각 공연은 40명 한정으로 진행됩니다. \n\n*입장 시 체온을 비롯한 간략한 개인정보를 요청드릴 수도 있습니다. \n\n*공연 시작 시간은 오후 4시입니다. https://t.co/91Wv1kfyEp"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:56 +0000 2020",
+		"id": 1247128751428649000,
+		"id_str": "1247361438546448384",
+		"full_text": "4/26(일) 생각의 여름\n5/2(토) 정우\n5/3(일) 빅베이비드라이버\n5/5(화) 곽푸른하늘\n5/10(일) 이랑\n5/23(토) 천용성 https://t.co/BKEhK6GHZr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247128741458763800,
+					"id_str": "1247128741458763776",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6w-5fUYAAtpVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6w-5fUYAAtpVV.jpg",
+					"url": "https://t.co/BKEhK6GHZr",
+					"display_url": "pic.twitter.com/BKEhK6GHZr",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247128751428648962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247128741458763800,
+					"id_str": "1247128741458763776",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EU6w-5fUYAAtpVV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU6w-5fUYAAtpVV.jpg",
+					"url": "https://t.co/BKEhK6GHZr",
+					"display_url": "pic.twitter.com/BKEhK6GHZr",
+					"expanded_url": "https://twitter.com/ruloorala/status/1247128751428648962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247128543227555800,
+		"in_reply_to_status_id_str": "1247128543227555840",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4/26(일) 생각의 여름\n5/2(토) 정우\n5/3(일) 빅베이비드라이버\n5/5(화) 곽푸른하늘\n5/10(일) 이랑\n5/23(토) 천용성 https://t.co/BKEhK6GHZr"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:52 +0000 2020",
+		"id": 1247128543227555800,
+		"id_str": "1247361424013193216",
+		"full_text": "&lt;격조하지만 격조 있게, 거리두기 콘서트&gt;\n\n격조(떨어져 있어 서로 어울리지 못함)\n격조(사람의 품격과 취향, 격식과 운치에 어울리는 가락)\n\n1차 라인업\n4/19(일) 하헌진\nhttps://t.co/g5vjFrreRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g5vjFrreRm",
+					"expanded_url": "https://booking.naver.com/booking/5/bizes/339900/items/3383652?preview=1",
+					"display_url": "booking.naver.com/booking/5/bize…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247128339099181000,
+		"in_reply_to_status_id_str": "1247128339099181057",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;격조하지만 격조 있게, 거리두기 콘서트&gt;\n\n격조(떨어져 있어 서로 어울리지 못함)\n격조(사람의 품격과 취향, 격식과 운치에 어울리는 가락)\n\n1차 라인업\n4/19(일) 하헌진\nhttps://t.co/g5vjFrreRm"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:49 +0000 2020",
+		"id": 1247128339099181000,
+		"id_str": "1247361410079703042",
+		"full_text": "다소 실험적일 수도 있는 공연임에도 함께 하기로 해주신 음악가분들께 감사드립니다. 많은 분들의 노고가 결과를 이루어 안전하게 지금의 상황이 마무리되기를 바랍니다.\n\n다만 주의를 다해서 \n서로를 배려하며-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247128168210649000,
+		"in_reply_to_status_id_str": "1247128168210649089",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다소 실험적일 수도 있는 공연임에도 함께 하기로 해주신 음악가분들께 감사드립니다. 많은 분들의 노고가 결과를 이루어 안전하게 지금의 상황이 마무리되기를 바랍니다.\n\n다만 주의를 다해서 \n서로를 배려하며-"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:45 +0000 2020",
+		"id": 1247128168210649000,
+		"id_str": "1247361392228720643",
+		"full_text": "기획되었던 공연들이 무산되거나 연기되고 있는 상황들을 보면서 이럴 때 할 수 있는 일이 없을까 고민하며 조심스레 한 발을 내딛어 봅니다. \n\n관객분들과 음악가분들의 건강과 안전을 최우선으로 고민해서 준비하고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247127974458978300,
+		"in_reply_to_status_id_str": "1247127974458978304",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기획되었던 공연들이 무산되거나 연기되고 있는 상황들을 보면서 이럴 때 할 수 있는 일이 없을까 고민하며 조심스레 한 발을 내딛어 봅니다. \n\n관객분들과 음악가분들의 건강과 안전을 최우선으로 고민해서 준비하고 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:42 +0000 2020",
+		"id": 1247127974458978300,
+		"id_str": "1247361379507376128",
+		"full_text": "거리를 두는 일이 파편화되어 고립되는 의미가 아닌, 함께 하기 위한 최소한의 배려의 의미로 자리잡기를 바래봅니다. \n\n코로나19로 인해 공연문화가 주춤해진 지금, '복합문화공간 에무'에서는 새로운 시도를 위해 준비하고 있던 기획을 조금 앞당겨 진행하기로 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247127670250303500,
+		"in_reply_to_status_id_str": "1247127670250303489",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc35ca8d2d5b002",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc35ca8d2d5b002.json",
+			"place_type": "poi",
+			"name": "복합문화공간 에무",
+			"full_name": "복합문화공간 에무",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						],
+						[
+							126.96899647218952,
+							37.5720405099983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거리를 두는 일이 파편화되어 고립되는 의미가 아닌, 함께 하기 위한 최소한의 배려의 의미로 자리잡기를 바래봅니다. \n\n코로나19로 인해 공연문화가 주춤해진 지금, '복합문화공간 에무'에서는 새로운 시도를 위해 준비하고 있던 기획을 조금 앞당겨 진행하기로 했습니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:38 +0000 2020",
+		"id": 1247127670250303500,
+		"id_str": "1247361361530638337",
+		"full_text": "코로나19 이후 사용되고 있는 '사회적 거리두기'라는 말에서 저희는 서로에 대한 배려를 읽을 수 있었습니다. 타인에 대한, 그리고 나 자신에 대한 배려. 서로 떨어짐으로써 존중하고, 거리를 둠으로써 함께 할 수 있는 시대.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247127470379126800,
+		"in_reply_to_status_id_str": "1247127470379126784",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "코로나19 이후 사용되고 있는 '사회적 거리두기'라는 말에서 저희는 서로에 대한 배려를 읽을 수 있었습니다. 타인에 대한, 그리고 나 자신에 대한 배려. 서로 떨어짐으로써 존중하고, 거리를 둠으로써 함께 할 수 있는 시대."
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:35 +0000 2020",
+		"id": 1247361350520705000,
+		"id_str": "1247361350520705025",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n4월 7일 | 황다빈, Jermada, 송남현, Korean Poetic Jazz\nhttps://t.co/tlUfGEny96\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tlUfGEny96",
+					"expanded_url": "https://bit.ly/3bSnNes",
+					"display_url": "bit.ly/3bSnNes",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n4월 7일 | 황다빈, Jermada, 송남현, Korean Poetic Jazz\nhttps://t.co/tlUfGEny96\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:34 +0000 2020",
+		"id": 1247127243697967000,
+		"id_str": "1247361346166915073",
+		"full_text": "함께 무언가를 해보자고 제안해주시는 분들이 간혹 있어서, 운 좋게도 몇 가지 프로젝트를 준비하고 있습니다. 준비가 되는대로 하나씩 소식 전할게요. 오늘은 그 중 하나. 어려운 시기, 만남의 방법을 고민하며 준비한 공연 소식입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247126891019948000,
+		"in_reply_to_status_id_str": "1247126891019948032",
+		"in_reply_to_user_id": 118141218,
+		"in_reply_to_user_id_str": "118141218",
+		"in_reply_to_screen_name": "ruloorala",
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "함께 무언가를 해보자고 제안해주시는 분들이 간혹 있어서, 운 좋게도 몇 가지 프로젝트를 준비하고 있습니다. 준비가 되는대로 하나씩 소식 전할게요. 오늘은 그 중 하나. 어려운 시기, 만남의 방법을 고민하며 준비한 공연 소식입니다."
+	},
+	{
+		"created_at": "Tue Apr 07 03:11:31 +0000 2020",
+		"id": 1247126891019948000,
+		"id_str": "1247361332548005889",
+		"full_text": "아직 홍대 언저리에 머물고 있는 탓에 길에서 아는 분들을 마주치곤 합니다. 그럴 때면 요즘 어떻게 지내느냐고, 근황을 물어주곤 하세요. 10년여 동안 한잔의 룰루랄라를 지키고 있었을 때는 들어보지 못 했던 질문. ㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집...이었던 곳. #여기저기룰루랄라",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10357,
+			"friends_count": 4913,
+			"listed_count": 254,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158058126710431744/Q_vt_n___normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아직 홍대 언저리에 머물고 있는 탓에 길에서 아는 분들을 마주치곤 합니다. 그럴 때면 요즘 어떻게 지내느냐고, 근황을 물어주곤 하세요. 10년여 동안 한잔의 룰루랄라를 지키고 있었을 때는 들어보지 못 했던 질문. ㅎㅎ"
+	},
+	{
+		"created_at": "Tue Apr 07 03:10:13 +0000 2020",
+		"id": 1247313174543478800,
+		"id_str": "1247361005220327425",
+		"full_text": "#WINNER 'Remember' M/V TEASER #1\n\n3rd FULL ALBUM ‘Remember’\n✅2020.04.09 6PM\n\n📺NAVER TV: https://t.co/hPLfA0nuM2\n🎬YouTube: https://t.co/qMgXsWfRUc\n\n#Wemember_Remember #위너 #3rdFullAlbum #Remember #MVTEASER_VER1 #AlbumRelease #20200409_6pm #YG https://t.co/yldvYz8cHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINNER",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Wemember_Remember",
+					"indices": [
+						147,
+						165
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "3rdFullAlbum",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"text": "Remember",
+					"indices": [
+						184,
+						193
+					]
+				},
+				{
+					"text": "MVTEASER_VER1",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"text": "AlbumRelease",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"text": "20200409_6pm",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						237,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hPLfA0nuM2",
+					"expanded_url": "https://tv.naver.com/v/13232419",
+					"display_url": "tv.naver.com/v/13232419",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/qMgXsWfRUc",
+					"expanded_url": "https://youtu.be/zwe8BHi8we0",
+					"display_url": "youtu.be/zwe8BHi8we0",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247306270442270700,
+					"id_str": "1247306270442270722",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9TCCuU4AAAbAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9TCCuU4AAAbAt.jpg",
+					"url": "https://t.co/yldvYz8cHk",
+					"display_url": "pic.twitter.com/yldvYz8cHk",
+					"expanded_url": "https://twitter.com/ygent_official/status/1247313174543478785/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247306270442270700,
+					"id_str": "1247306270442270722",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9TCCuU4AAAbAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9TCCuU4AAAbAt.jpg",
+					"url": "https://t.co/yldvYz8cHk",
+					"display_url": "pic.twitter.com/yldvYz8cHk",
+					"expanded_url": "https://twitter.com/ygent_official/status/1247313174543478785/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29446,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247306270442270722/vid/640x360/Tu2QeM0Vi4KhCTo_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247306270442270722/vid/1280x720/tmoTbGlU7fl0rCl3.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1247306270442270722/vid/480x270/33KRmpLHOToNJ_i6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1247306270442270722/pl/2bOuFbytWMJNsXra.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "WINNER  'Remember' M/V TEASER #1",
+						"description": "WINNER  'Remember' M/V TEASER #1",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5828067,
+			"friends_count": 38,
+			"listed_count": 7933,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4014,
+		"favorite_count": 8429,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WINNER 'Remember' M/V TEASER #1\n\n3rd FULL ALBUM ‘Remember’\n✅2020.04.09 6PM\n\n📺NAVER TV: https://t.co/hPLfA0nuM2\n🎬YouTube: https://t.co/qMgXsWfRUc\n\n#Wemember_Remember #위너 #3rdFullAlbum #Remember #MVTEASER_VER1 #AlbumRelease #20200409_6pm #YG https://t.co/yldvYz8cHk"
+	},
+	{
+		"created_at": "Tue Apr 07 03:08:54 +0000 2020",
+		"id": 1247358716824846300,
+		"id_str": "1247360676995018752",
+		"full_text": "평화에 관한 가장 사적인 글 [Peace, blank]\n두번째 에세이 &lt;함께 소리 낼 수 있는 평화로운 공연장을 찾아서&gt;\n글 | 이랑 (아티스트)\n전문 ▶ https://t.co/haOFhwc11x https://t.co/1qy30YG7aj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/haOFhwc11x",
+					"expanded_url": "https://bit.ly/3dZcdAj",
+					"display_url": "bit.ly/3dZcdAj",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247358714564108300,
+					"id_str": "1247358714564108288",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-CJGEU4AABpgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-CJGEU4AABpgj.jpg",
+					"url": "https://t.co/1qy30YG7aj",
+					"display_url": "pic.twitter.com/1qy30YG7aj",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1247358716824846336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247358714564108300,
+					"id_str": "1247358714564108288",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-CJGEU4AABpgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-CJGEU4AABpgj.jpg",
+					"url": "https://t.co/1qy30YG7aj",
+					"display_url": "pic.twitter.com/1qy30YG7aj",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1247358716824846336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평화에 관한 가장 사적인 글 [Peace, blank]\n두번째 에세이 &lt;함께 소리 낼 수 있는 평화로운 공연장을 찾아서&gt;\n글 | 이랑 (아티스트)\n전문 ▶ https://t.co/haOFhwc11x https://t.co/1qy30YG7aj"
+	},
+	{
+		"created_at": "Tue Apr 07 03:08:34 +0000 2020",
+		"id": 1247355838567612400,
+		"id_str": "1247360590743363588",
+		"full_text": "안테나 뮤직은 릴레이 라이브 스트리밍 'Everything Is OK, with Antenna'으로 코로나19 바이러스 감염증으로 지친 밤에 위로를 전할 예정입니다. 안테나의 모든 아티스트가 참여할 이 랜선 페스티벌은 오는 11일과 12일, 18일과 19일 작은 녹음실 안에서 진행될 예정입니다. @antennamusic https://t.co/R5XQxghnDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "antennamusic",
+					"name": "안테나 Antenna",
+					"id": 266004552,
+					"id_str": "266004552",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247354841191436300,
+					"id_str": "1247354841191436288",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"url": "https://t.co/R5XQxghnDl",
+					"display_url": "pic.twitter.com/R5XQxghnDl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247355838567612416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247354841191436300,
+					"id_str": "1247354841191436288",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9-nooUUAAb8Ky.jpg",
+					"url": "https://t.co/R5XQxghnDl",
+					"display_url": "pic.twitter.com/R5XQxghnDl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1247355838567612416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CJken4eczB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CJken4eczB",
+							"expanded_url": "https://billkpop.com/",
+							"display_url": "billkpop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22075,
+			"friends_count": 17,
+			"listed_count": 82,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안테나 뮤직은 릴레이 라이브 스트리밍 'Everything Is OK, with Antenna'으로 코로나19 바이러스 감염증으로 지친 밤에 위로를 전할 예정입니다. 안테나의 모든 아티스트가 참여할 이 랜선 페스티벌은 오는 11일과 12일, 18일과 19일 작은 녹음실 안에서 진행될 예정입니다. @antennamusic https://t.co/R5XQxghnDl"
+	},
+	{
+		"created_at": "Tue Apr 07 03:01:05 +0000 2020",
+		"id": 1247358708167868400,
+		"id_str": "1247358708167868416",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Apr 7) https://t.co/6x94FBRlKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6x94FBRlKN",
+					"expanded_url": "https://nzzl.us/hmbvfHy",
+					"display_url": "nzzl.us/hmbvfHy",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Apr 7) https://t.co/6x94FBRlKN"
+	},
+	{
+		"created_at": "Tue Apr 07 02:29:28 +0000 2020",
+		"id": 1247347848192147500,
+		"id_str": "1247350749970993152",
+		"full_text": "[Beautiful Mint Life 2020]\n⠀\n뷰티풀민트라이프 최종 라인업이 발표되었습니다!\n⠀\n05.16 (SAT)\n보라미유🆕, WH3N(웬)\n⠀\n05.17 (SUN)\n볼빨간사춘기\n⠀\n▼예매처▼\n인터파크, 멜론티켓, 위메프\n⠀\n#뷰티풀민트라이프 #뷰민라 #BML2020\n#볼빨간사춘기 #WH3N(웬) #보라미유 #쇼파르뮤직 https://t.co/X81YtGWY2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티풀민트라이프",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "뷰민라",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "BML2020",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "WH3N",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "보라미유",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247347597947179000,
+					"id_str": "1247347597947179008",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EU94CBcUEAA4IVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU94CBcUEAA4IVD.jpg",
+					"url": "https://t.co/X81YtGWY2p",
+					"display_url": "pic.twitter.com/X81YtGWY2p",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1247347848192147456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247347597947179000,
+					"id_str": "1247347597947179008",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EU94CBcUEAA4IVD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU94CBcUEAA4IVD.jpg",
+					"url": "https://t.co/X81YtGWY2p",
+					"display_url": "pic.twitter.com/X81YtGWY2p",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1247347848192147456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247347649197432800,
+					"id_str": "1247347649197432833",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EU94FAXU4AEwTwj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU94FAXU4AEwTwj.jpg",
+					"url": "https://t.co/X81YtGWY2p",
+					"display_url": "pic.twitter.com/X81YtGWY2p",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1247347848192147456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7892,
+			"friends_count": 11,
+			"listed_count": 74,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Beautiful Mint Life 2020]\n⠀\n뷰티풀민트라이프 최종 라인업이 발표되었습니다!\n⠀\n05.16 (SAT)\n보라미유🆕, WH3N(웬)\n⠀\n05.17 (SUN)\n볼빨간사춘기\n⠀\n▼예매처▼\n인터파크, 멜론티켓, 위메프\n⠀\n#뷰티풀민트라이프 #뷰민라 #BML2020\n#볼빨간사춘기 #WH3N(웬) #보라미유 #쇼파르뮤직 https://t.co/X81YtGWY2p"
+	},
+	{
 		"created_at": "Tue Apr 07 02:14:31 +0000 2020",
 		"id": 1247346990448545800,
 		"id_str": "1247346990448545792",
