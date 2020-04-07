@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 14:02:20 +0000 2020",
+		"id": 1247501214964736000,
+		"id_str": "1247525117191524353",
+		"full_text": "I'm going LIVE on @YouTube for my BIRTHDAY at 2PM today!! https://t.co/YFZVbZumDz Tweet me your questions and I'll answer them on the live stream! https://t.co/AGGczqI2oJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YFZVbZumDz",
+					"expanded_url": "https://youtu.be/92CWZ26X8aE",
+					"display_url": "youtu.be/92CWZ26X8aE",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247501209432440800,
+					"id_str": "1247501209432440833",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVADvY0XQAEXJ4B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVADvY0XQAEXJ4B.jpg",
+					"url": "https://t.co/AGGczqI2oJ",
+					"display_url": "pic.twitter.com/AGGczqI2oJ",
+					"expanded_url": "https://twitter.com/AnneMarie/status/1247501214964736005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247501209432440800,
+					"id_str": "1247501209432440833",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVADvY0XQAEXJ4B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVADvY0XQAEXJ4B.jpg",
+					"url": "https://t.co/AGGczqI2oJ",
+					"display_url": "pic.twitter.com/AGGczqI2oJ",
+					"expanded_url": "https://twitter.com/AnneMarie/status/1247501214964736005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339755472,
+			"id_str": "339755472",
+			"name": "ANNE-MARIE",
+			"screen_name": "AnneMarie",
+			"location": "My own head",
+			"description": "HER is out NOW https://t.co/vo6s9Y0xEs & BIRTHDAY is out NOW too 🎈 https://t.co/tKDzXjRkRN",
+			"url": "https://t.co/Wq2Jn4Yv4k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wq2Jn4Yv4k",
+							"expanded_url": "http://iamannemarie.com",
+							"display_url": "iamannemarie.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vo6s9Y0xEs",
+							"expanded_url": "https://ad.gt/Her",
+							"display_url": "ad.gt/Her",
+							"indices": [
+								15,
+								38
+							]
+						},
+						{
+							"url": "https://t.co/tKDzXjRkRN",
+							"expanded_url": "https://ad.gt/BIRTHDAY",
+							"display_url": "ad.gt/BIRTHDAY",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 700546,
+			"friends_count": 742,
+			"listed_count": 1028,
+			"created_at": "Thu Jul 21 16:14:57 +0000 2011",
+			"favourites_count": 18722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221812030438625287/34mSR8iE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339755472/1581066286",
+			"profile_link_color": "8BBAD8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 1086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm going LIVE on @YouTube for my BIRTHDAY at 2PM today!! https://t.co/YFZVbZumDz Tweet me your questions and I'll answer them on the live stream! https://t.co/AGGczqI2oJ"
+	},
+	{
 		"created_at": "Tue Apr 07 13:14:44 +0000 2020",
 		"id": 1247513140172128300,
 		"id_str": "1247513140172128258",
