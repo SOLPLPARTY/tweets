@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 16:30:51 +0000 2020",
+		"id": 1247529426809532400,
+		"id_str": "1247924881255043072",
+		"full_text": "다음주 초쯤에 오소영 3집 텀블벅이 오픈할 듯 합니다. 많은 관심 부탁드립니다! #오소영3집 #사진은재주소년경환이인스타스토리 https://t.co/bjtdmHCHJH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오소영3집",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "사진은재주소년경환이인스타스토리",
+					"indices": [
+						52,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247529416428671000,
+					"id_str": "1247529416428670976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EVAdZQEU0AAC6Qd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVAdZQEU0AAC6Qd.jpg",
+					"url": "https://t.co/bjtdmHCHJH",
+					"display_url": "pic.twitter.com/bjtdmHCHJH",
+					"expanded_url": "https://twitter.com/oso0/status/1247529426809532416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247529416428671000,
+					"id_str": "1247529416428670976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EVAdZQEU0AAC6Qd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVAdZQEU0AAC6Qd.jpg",
+					"url": "https://t.co/bjtdmHCHJH",
+					"display_url": "pic.twitter.com/bjtdmHCHJH",
+					"expanded_url": "https://twitter.com/oso0/status/1247529426809532416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111006347,
+			"id_str": "111006347",
+			"name": "순둥씨 모시며 기타치는 오소영",
+			"screen_name": "oso0",
+			"location": "마켓컬리 sleepyo",
+			"description": "사랑해 내 아가 순둥씨🐾(2002.3~2019.8.26) / 레슨등각종문의는 osoyoung.com@gmail.com 섭외 김상구 yo2yo@nate.com 01029280865/ 유튜브 https://t.co/RFhuFSmKtR",
+			"url": "https://t.co/ARAzaNAfqZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ARAzaNAfqZ",
+							"expanded_url": "http://osoyoung.com",
+							"display_url": "osoyoung.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RFhuFSmKtR",
+							"expanded_url": "https://m.youtube.com/channel/UCw2lh-3TrzoTyx7l_AjfqMQ",
+							"display_url": "m.youtube.com/channel/UCw2lh…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5402,
+			"friends_count": 671,
+			"listed_count": 168,
+			"created_at": "Wed Feb 03 14:05:59 +0000 2010",
+			"favourites_count": 13344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937847692033638400/WAE3C5DW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937847692033638400/WAE3C5DW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111006347/1452100198",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다음주 초쯤에 오소영 3집 텀블벅이 오픈할 듯 합니다. 많은 관심 부탁드립니다! #오소영3집 #사진은재주소년경환이인스타스토리 https://t.co/bjtdmHCHJH"
+	},
+	{
 		"created_at": "Wed Apr 08 15:59:17 +0000 2020",
 		"id": 1247916934647201800,
 		"id_str": "1247916934647201795",
@@ -1020,7 +1219,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 116421374,
 			"id_str": "116421374",
-			"name": "시와 🏳️‍🌈",
+			"name": "시와 🏳️🌈",
 			"screen_name": "withsiwa",
 			"location": "우리집",
 			"description": "4집 ‘다녀왔습니다’ 디지털싱글이 두달에 한곡씩 나오고있지요 그런데 섭외는 withsiwa@hanmail.net",
