@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 11:38:24 +0000 2020",
+		"id": 1247851284864151600,
+		"id_str": "1247851284864151553",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n손태진\nhttps://t.co/IYUl7wcvsq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IYUl7wcvsq",
+					"expanded_url": "https://youtu.be/zNrwfe1DA7g",
+					"display_url": "youtu.be/zNrwfe1DA7g",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 354,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n손태진\nhttps://t.co/IYUl7wcvsq"
+	},
+	{
+		"created_at": "Wed Apr 08 11:29:44 +0000 2020",
+		"id": 1247848040854999000,
+		"id_str": "1247849103129796608",
+		"full_text": "못가니 더더 가고시퍼요ㅠㅠ 리썬 (LEES2UN) - 파타야 (PATTAYA) Official M/V https://t.co/kCkXEFc1ux @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kCkXEFc1ux",
+					"expanded_url": "https://youtu.be/jGQvtQi33s0",
+					"display_url": "youtu.be/jGQvtQi33s0",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#뷰티핸섬 #리썬 #데일리노트 #마리슈 #모브닝 #이찬솔 #입술을깨물다 #원셋 #선데이레스트 #엔분의일 #당기시오 #우리같은사람들 과 함께하는 슈가레코드",
+			"url": "https://t.co/MaZwhWtsct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWtsct",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565,
+			"friends_count": 50,
+			"listed_count": 11,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "못가니 더더 가고시퍼요ㅠㅠ 리썬 (LEES2UN) - 파타야 (PATTAYA) Official M/V https://t.co/kCkXEFc1ux @YouTube 님이 공유"
+	},
+	{
+		"created_at": "Wed Apr 08 11:29:42 +0000 2020",
+		"id": 1247839250554355700,
+		"id_str": "1247849093579386880",
+		"full_text": "[#신승훈] SBS 본격연예 한밤\n\n오늘 오후 8시 55분 , SBS '본격연예 한밤'에 신승훈 님이 출연합니다 :)\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #SBS #본격연예_한밤 #인터뷰 #본방사수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "본격연예_한밤",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 1,
+			"listed_count": 23,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#신승훈] SBS 본격연예 한밤\n\n오늘 오후 8시 55분 , SBS '본격연예 한밤'에 신승훈 님이 출연합니다 :)\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #SBS #본격연예_한밤 #인터뷰 #본방사수"
+	},
+	{
+		"created_at": "Wed Apr 08 11:29:34 +0000 2020",
+		"id": 1247834300776505300,
+		"id_str": "1247849059504750597",
+		"full_text": "[김사월] KBS &lt;올댓뮤직&gt; 김사월 편이 4월 9일 목요일 밤 12시 10분 KBS1 TV에서 방송됩니다 🎸🎤\n⠀\n봄밤을 따뜻하게 만들어줄 무대\n기대 많이 해주세요✨\n⠀\n#wavve 를 통해 만날 수 있는 #뮤직멀티뷰서비스 도 놓치지마세요💙\n-\n#김사월 #올댓뮤직 https://t.co/KpnS1RToEi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wavve",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "뮤직멀티뷰서비스",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247834256878928000,
+					"id_str": "1247834256878927873",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247834256878927873/pu/img/G4X_igi5x2KgMDjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247834256878927873/pu/img/G4X_igi5x2KgMDjL.jpg",
+					"url": "https://t.co/KpnS1RToEi",
+					"display_url": "pic.twitter.com/KpnS1RToEi",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1247834300776505350/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247834256878928000,
+					"id_str": "1247834256878927873",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247834256878927873/pu/img/G4X_igi5x2KgMDjL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247834256878927873/pu/img/G4X_igi5x2KgMDjL.jpg",
+					"url": "https://t.co/KpnS1RToEi",
+					"display_url": "pic.twitter.com/KpnS1RToEi",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1247834300776505350/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 41375,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247834256878927873/pu/vid/640x360/QpzAWo2X71MAhxwM.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247834256878927873/pu/vid/854x480/rCZbflh_zFMCCPA5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1247834256878927873/pu/pl/xZXB75BI3TKszWux.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1247834256878927873/pu/vid/480x270/7dm_C0n4WWDqqHdV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1773,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월] KBS &lt;올댓뮤직&gt; 김사월 편이 4월 9일 목요일 밤 12시 10분 KBS1 TV에서 방송됩니다 🎸🎤\n⠀\n봄밤을 따뜻하게 만들어줄 무대\n기대 많이 해주세요✨\n⠀\n#wavve 를 통해 만날 수 있는 #뮤직멀티뷰서비스 도 놓치지마세요💙\n-\n#김사월 #올댓뮤직 https://t.co/KpnS1RToEi"
+	},
+	{
 		"created_at": "Wed Apr 08 11:15:59 +0000 2020",
 		"id": 1247845641549643800,
 		"id_str": "1247845641549643776",
