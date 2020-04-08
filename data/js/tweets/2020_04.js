@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 13:41:39 +0000 2020",
+		"id": 1247876624311136300,
+		"id_str": "1247882299145891841",
+		"full_text": "[재미공작소 4월 강독회 : 이설빈 시인과의 작고 가까운 테이블] 2020.4.23(목) PM 8:00 https://t.co/Mw01fzH0pu https://t.co/HZFBDHvfV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mw01fzH0pu",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/221897369809",
+					"display_url": "m.blog.naver.com/studiozemi/221…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247876575988600800,
+					"id_str": "1247876575988600833",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFZImNU0AE--7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFZImNU0AE--7s.jpg",
+					"url": "https://t.co/HZFBDHvfV3",
+					"display_url": "pic.twitter.com/HZFBDHvfV3",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1247876624311136256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247876575988600800,
+					"id_str": "1247876575988600833",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFZImNU0AE--7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFZImNU0AE--7s.jpg",
+					"url": "https://t.co/HZFBDHvfV3",
+					"display_url": "pic.twitter.com/HZFBDHvfV3",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1247876624311136256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8208,
+			"friends_count": 593,
+			"listed_count": 110,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재미공작소 4월 강독회 : 이설빈 시인과의 작고 가까운 테이블] 2020.4.23(목) PM 8:00 https://t.co/Mw01fzH0pu https://t.co/HZFBDHvfV3"
+	},
+	{
+		"created_at": "Wed Apr 08 13:29:27 +0000 2020",
+		"id": 1247874064556781600,
+		"id_str": "1247879228466630656",
+		"full_text": "[#신승훈] KBS 아침뉴스타임\n\n내일 아침 8시, KBS '아침뉴스타임'에 신승훈 님이 출연합니다 :)\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #Special_Album #My_Personas #KBS #아침뉴스타임 #본방사수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신승훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "신승훈",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "Special_Album",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "My_Personas",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "아침뉴스타임",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "Dorothy Company",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "도로시컴퍼니 공식 계정/ 신승훈, 로시(Rothy) 소속",
+			"url": "https://t.co/I5K9KkKQb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I5K9KkKQb2",
+							"expanded_url": "http://www.dorothycp.com",
+							"display_url": "dorothycp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 1,
+			"listed_count": 23,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1513765441",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#신승훈] KBS 아침뉴스타임\n\n내일 아침 8시, KBS '아침뉴스타임'에 신승훈 님이 출연합니다 :)\n본방사수로 많은 응원 부탁드립니다.\n\n#신승훈 #Special_Album #My_Personas #KBS #아침뉴스타임 #본방사수"
+	},
+	{
 		"created_at": "Wed Apr 08 12:51:52 +0000 2020",
 		"id": 1247869771577688000,
 		"id_str": "1247869771577688065",
