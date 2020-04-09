@@ -1,6 +1,788 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 05:58:51 +0000 2020",
+		"id": 1248117109755768800,
+		"id_str": "1248128220995731457",
+		"full_text": "백현진에게 평화는 [시들어가는 식물에게 주는 물과 같은 것]이다.\nㅤㅤ\n🇰🇷  가수, 작곡가, 화가, 설치 미술가, 퍼포먼스 아티스트, 시인, 배우, 감독으로 활동하는 백현진\nㅤㅤ\nA deep breath mixed with dissonances and little laments, Bek Hyunjin https://t.co/YbYvJ24W8H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248117034115666000,
+					"id_str": "1248117034115665921",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248117034115665921/pu/img/esiwMXRGlT86umZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248117034115665921/pu/img/esiwMXRGlT86umZt.jpg",
+					"url": "https://t.co/YbYvJ24W8H",
+					"display_url": "pic.twitter.com/YbYvJ24W8H",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1248117109755768832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248117034115666000,
+					"id_str": "1248117034115665921",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248117034115665921/pu/img/esiwMXRGlT86umZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248117034115665921/pu/img/esiwMXRGlT86umZt.jpg",
+					"url": "https://t.co/YbYvJ24W8H",
+					"display_url": "pic.twitter.com/YbYvJ24W8H",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1248117109755768832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 26727,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248117034115665921/pu/vid/320x400/wPseq1UTOvdw5IxG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248117034115665921/pu/vid/720x900/Fji7SBazz06Dv228.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248117034115665921/pu/pl/VtoLnQQDcNEy85aZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248117034115665921/pu/vid/360x450/mbF-bGSfTdW7uP9V.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247811319861891000,
+		"in_reply_to_status_id_str": "1247811319861891072",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백현진에게 평화는 [시들어가는 식물에게 주는 물과 같은 것]이다.\nㅤㅤ\n🇰🇷  가수, 작곡가, 화가, 설치 미술가, 퍼포먼스 아티스트, 시인, 배우, 감독으로 활동하는 백현진\nㅤㅤ\nA deep breath mixed with dissonances and little laments, Bek Hyunjin https://t.co/YbYvJ24W8H"
+	},
+	{
+		"created_at": "Thu Apr 09 05:41:38 +0000 2020",
+		"id": 1248117339976904700,
+		"id_str": "1248123886539026432",
+		"full_text": "[#씬디매거진 4월호]\n⠀\n4월호의 표지모델은 자연주의 보컬 홍이삭님입니다👏🏻 홍이삭님의 인터뷰와 다양한 소식이 담긴 씬디매거진 4월호는 씬디 티켓라운지에서 만나보실 수 있습니다☺️\n\n아래 링크에서 원본 이미지 파일을 확인하실 수 있습니다.\n\n☑️ https://t.co/YLvyAG0dHj https://t.co/GBDBAi0ILi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디매거진",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YLvyAG0dHj",
+					"expanded_url": "https://c11.kr/elli",
+					"display_url": "c11.kr/elli",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248100478107259000,
+					"id_str": "1248100478107258882",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIkxamUEAIswcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIkxamUEAIswcd.jpg",
+					"url": "https://t.co/GBDBAi0ILi",
+					"display_url": "pic.twitter.com/GBDBAi0ILi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248117339976904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248100478107259000,
+					"id_str": "1248100478107258882",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIkxamUEAIswcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIkxamUEAIswcd.jpg",
+					"url": "https://t.co/GBDBAi0ILi",
+					"display_url": "pic.twitter.com/GBDBAi0ILi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248117339976904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248100489062801400,
+					"id_str": "1248100489062801409",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIkyDaUYAEFmOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIkyDaUYAEFmOx.jpg",
+					"url": "https://t.co/GBDBAi0ILi",
+					"display_url": "pic.twitter.com/GBDBAi0ILi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248117339976904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248100501360500700,
+					"id_str": "1248100501360500737",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIkyxOUYAEIwo5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIkyxOUYAEIwo5.jpg",
+					"url": "https://t.co/GBDBAi0ILi",
+					"display_url": "pic.twitter.com/GBDBAi0ILi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248117339976904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248100513456906200,
+					"id_str": "1248100513456906242",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIkzeSU4AIrts1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIkzeSU4AIrts1.jpg",
+					"url": "https://t.co/GBDBAi0ILi",
+					"display_url": "pic.twitter.com/GBDBAi0ILi",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248117339976904704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2853,
+			"friends_count": 2755,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디매거진 4월호]\n⠀\n4월호의 표지모델은 자연주의 보컬 홍이삭님입니다👏🏻 홍이삭님의 인터뷰와 다양한 소식이 담긴 씬디매거진 4월호는 씬디 티켓라운지에서 만나보실 수 있습니다☺️\n\n아래 링크에서 원본 이미지 파일을 확인하실 수 있습니다.\n\n☑️ https://t.co/YLvyAG0dHj https://t.co/GBDBAi0ILi"
+	},
+	{
+		"created_at": "Thu Apr 09 05:29:30 +0000 2020",
+		"id": 1248109029915627500,
+		"id_str": "1248120832850829312",
+		"full_text": "https://t.co/KqVmEQjFnP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KqVmEQjFnP",
+					"expanded_url": "https://youtu.be/JJblNCeXq9w",
+					"display_url": "youtu.be/JJblNCeXq9w",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248109028376334300,
+		"in_reply_to_status_id_str": "1248109028376334337",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9662,
+			"friends_count": 2949,
+			"listed_count": 274,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/KqVmEQjFnP"
+	},
+	{
+		"created_at": "Thu Apr 09 05:29:25 +0000 2020",
+		"id": 1248109028376334300,
+		"id_str": "1248120811300552705",
+		"full_text": "🆕 New Release April 9\n-\n💿 이소 (e_so) [나는 어디]\n\n✚ 앨범 자세히 보기: https://t.co/rJGtVsKmys\n-\n[Listen here]\nMelon - https://t.co/60gFN7NwQ0\nGenie - https://t.co/jaMC2GJ68l\nBugs - https://t.co/VTSKsRQsQt\nVibe - https://t.co/HFyjigJx1p\nFLO - https://t.co/5u9t1Lz4qX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJGtVsKmys",
+					"expanded_url": "https://bit.ly/3aWuBHY",
+					"display_url": "bit.ly/3aWuBHY",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/60gFN7NwQ0",
+					"expanded_url": "https://bit.ly/2VcFmiR",
+					"display_url": "bit.ly/2VcFmiR",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/jaMC2GJ68l",
+					"expanded_url": "https://bit.ly/2RnyWMJ",
+					"display_url": "bit.ly/2RnyWMJ",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/VTSKsRQsQt",
+					"expanded_url": "https://bit.ly/3e8K2z1",
+					"display_url": "bit.ly/3e8K2z1",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/HFyjigJx1p",
+					"expanded_url": "https://bit.ly/3c4simA",
+					"display_url": "bit.ly/3c4simA",
+					"indices": [
+						200,
+						223
+					]
+				},
+				{
+					"url": "https://t.co/5u9t1Lz4qX",
+					"expanded_url": "https://bit.ly/39TMeqA",
+					"display_url": "bit.ly/39TMeqA",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9662,
+			"friends_count": 2949,
+			"listed_count": 274,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release April 9\n-\n💿 이소 (e_so) [나는 어디]\n\n✚ 앨범 자세히 보기: https://t.co/rJGtVsKmys\n-\n[Listen here]\nMelon - https://t.co/60gFN7NwQ0\nGenie - https://t.co/jaMC2GJ68l\nBugs - https://t.co/VTSKsRQsQt\nVibe - https://t.co/HFyjigJx1p\nFLO - https://t.co/5u9t1Lz4qX"
+	},
+	{
 		"created_at": "Thu Apr 09 05:10:19 +0000 2020",
 		"id": 1248116005936812000,
 		"id_str": "1248116005936812033",
