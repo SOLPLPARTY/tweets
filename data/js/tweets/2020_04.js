@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 10:29:24 +0000 2020",
+		"id": 1248186877384872000,
+		"id_str": "1248196308139233281",
+		"full_text": "#우주왕복선싸이드미러 싱글 ‘한숨’이 빅이슈 4월호를 통해 소개되었어요 ❤️\n빅이슈 매거진은 유동인구가 많은 1~9호선 출구와 대학가 앞에서 구매 가능하며, 판매시간은 오후 4시부터 7시입니다.\n*매거진 판매가: 5,000원 (2,500원은 홈리스 판매원에게 돌아갑니다.)\n-\n#우싸미 #한숨 #빅이슈 https://t.co/eNYcKVLqwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "한숨",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248186848645509000,
+					"id_str": "1248186848645509121",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EVJzU17UcAEMgjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVJzU17UcAEMgjO.jpg",
+					"url": "https://t.co/eNYcKVLqwX",
+					"display_url": "pic.twitter.com/eNYcKVLqwX",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1248186877384871937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248186848645509000,
+					"id_str": "1248186848645509121",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EVJzU17UcAEMgjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVJzU17UcAEMgjO.jpg",
+					"url": "https://t.co/eNYcKVLqwX",
+					"display_url": "pic.twitter.com/eNYcKVLqwX",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1248186877384871937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248186848649687000,
+					"id_str": "1248186848649687040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EVJzU18UMAAKRNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVJzU18UMAAKRNP.jpg",
+					"url": "https://t.co/eNYcKVLqwX",
+					"display_url": "pic.twitter.com/eNYcKVLqwX",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1248186877384871937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우주왕복선싸이드미러 싱글 ‘한숨’이 빅이슈 4월호를 통해 소개되었어요 ❤️\n빅이슈 매거진은 유동인구가 많은 1~9호선 출구와 대학가 앞에서 구매 가능하며, 판매시간은 오후 4시부터 7시입니다.\n*매거진 판매가: 5,000원 (2,500원은 홈리스 판매원에게 돌아갑니다.)\n-\n#우싸미 #한숨 #빅이슈 https://t.co/eNYcKVLqwX"
+	},
+	{
 		"created_at": "Thu Apr 09 09:55:10 +0000 2020",
 		"id": 1248187691684040700,
 		"id_str": "1248187691684040705",
