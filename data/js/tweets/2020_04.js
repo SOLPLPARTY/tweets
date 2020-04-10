@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 09:02:00 +0000 2020",
+		"id": 1248536699287883800,
+		"id_str": "1248536699287883779",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nColde (콜드) - 사랑은 그곳에서 (유별나! 문셰프 OST)\nhttps://t.co/6bAGrSYTTX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6bAGrSYTTX",
+					"expanded_url": "https://youtu.be/oO0_6GU526U",
+					"display_url": "youtu.be/oO0_6GU526U",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nColde (콜드) - 사랑은 그곳에서 (유별나! 문셰프 OST)\nhttps://t.co/6bAGrSYTTX"
+	},
+	{
+		"created_at": "Fri Apr 10 08:41:37 +0000 2020",
+		"id": 1248523436114112500,
+		"id_str": "1248531571205984256",
+		"full_text": "[#네이버포스트 - 플레이리스트]\n\n지난주 \"네이버 포스트\"로 새롭게 돌아와 다채로운 주제에 맞춘 인디음악 플레이리스트를 선보이고 있는데요 ෆ\n\n이번 주제는 \"조금만 더 힘내자고 누가 말해줬으면 좋겠을 때\"입니다. 같이 감상해볼까요?\n\n👀씬디포스트 구경 : https://t.co/RxR2t5M7hP https://t.co/PnYCxXMoFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버포스트",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RxR2t5M7hP",
+					"expanded_url": "http://naver.me/Go6gonRd",
+					"display_url": "naver.me/Go6gonRd",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248521544369750000,
+					"id_str": "1248521544369750019",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOjusqUwAMQs73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOjusqUwAMQs73.jpg",
+					"url": "https://t.co/PnYCxXMoFq",
+					"display_url": "pic.twitter.com/PnYCxXMoFq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248523436114112513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248521544369750000,
+					"id_str": "1248521544369750019",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOjusqUwAMQs73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOjusqUwAMQs73.jpg",
+					"url": "https://t.co/PnYCxXMoFq",
+					"display_url": "pic.twitter.com/PnYCxXMoFq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248523436114112513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248521565827780600,
+					"id_str": "1248521565827780608",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOjv8mUUAAGZTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOjv8mUUAAGZTR.jpg",
+					"url": "https://t.co/PnYCxXMoFq",
+					"display_url": "pic.twitter.com/PnYCxXMoFq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248523436114112513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248521579153084400,
+					"id_str": "1248521579153084416",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOjwuPUUAAT-kh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOjwuPUUAAT-kh.jpg",
+					"url": "https://t.co/PnYCxXMoFq",
+					"display_url": "pic.twitter.com/PnYCxXMoFq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248523436114112513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248521594785300500,
+					"id_str": "1248521594785300481",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOjxoeVAAERZOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOjxoeVAAERZOc.jpg",
+					"url": "https://t.co/PnYCxXMoFq",
+					"display_url": "pic.twitter.com/PnYCxXMoFq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1248523436114112513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2849,
+			"friends_count": 2754,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#네이버포스트 - 플레이리스트]\n\n지난주 \"네이버 포스트\"로 새롭게 돌아와 다채로운 주제에 맞춘 인디음악 플레이리스트를 선보이고 있는데요 ෆ\n\n이번 주제는 \"조금만 더 힘내자고 누가 말해줬으면 좋겠을 때\"입니다. 같이 감상해볼까요?\n\n👀씬디포스트 구경 : https://t.co/RxR2t5M7hP https://t.co/PnYCxXMoFq"
+	},
+	{
 		"created_at": "Fri Apr 10 08:05:33 +0000 2020",
 		"id": 1248522492790087700,
 		"id_str": "1248522492790087681",
