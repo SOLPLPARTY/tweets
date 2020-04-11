@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 10:29:25 +0000 2020",
+		"id": 1248914740597801000,
+		"id_str": "1248921085007007744",
+		"full_text": "“ 무대도 조명도 대본도 없는 릴레이 라이브 스트리밍⠀\n⠀⠀ ⠀ [Everything is OK, with Antenna] “\n\n[DAY 1] LIVE STREAMING URL\n👉🏻 https://t.co/0qMWOPkacH\n\n#EverythingIsOK #withAntenna\n#안테나 #Antenna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EverythingIsOK",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"text": "withAntenna",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0qMWOPkacH",
+					"expanded_url": "https://youtu.be/EE1Ym8HXgP4",
+					"display_url": "youtu.be/EE1Ym8HXgP4",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34405,
+			"friends_count": 12,
+			"listed_count": 409,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“ 무대도 조명도 대본도 없는 릴레이 라이브 스트리밍⠀\n⠀⠀ ⠀ [Everything is OK, with Antenna] “\n\n[DAY 1] LIVE STREAMING URL\n👉🏻 https://t.co/0qMWOPkacH\n\n#EverythingIsOK #withAntenna\n#안테나 #Antenna"
+	},
+	{
 		"created_at": "Sat Apr 11 07:12:30 +0000 2020",
 		"id": 1248871532845322200,
 		"id_str": "1248871532845322241",
