@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 12:41:28 +0000 2020",
+		"id": 1249315088739139600,
+		"id_str": "1249316705257402369",
+		"full_text": "눙눙의 피아노 연주곡 특집 4번째 곡 pit-a-pat 🥳✨봄느낌을 가득 담아 작업한 곡입니다 ! 집에서도 봄맞이 🌸🌼 이번에도 그림🎨은 leesujee .com 님께서 작업해주셨습니다 https://t.co/zJvAaHBwFO - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zJvAaHBwFO",
+					"expanded_url": "http://youtu.be/nQflB3tczOY",
+					"display_url": "youtu.be/nQflB3tczOY",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149570762,
+			"id_str": "149570762",
+			"name": "눙눙",
+			"screen_name": "Heyzzi",
+			"location": "베이스 렛슨합니다! leehyezee@gmail.com",
+			"description": "NUNNUN✨ @band_blackbag / @theelectriceels bass🎸",
+			"url": "https://t.co/71nGtAxkXu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/71nGtAxkXu",
+							"expanded_url": "https://www.youtube.com/channel/UCqFgShT-KFViLFCBpAo8B9A",
+							"display_url": "youtube.com/channel/UCqFgS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105,
+			"friends_count": 117,
+			"listed_count": 27,
+			"created_at": "Sat May 29 16:42:17 +0000 2010",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148107262218518528/qJmg9mN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148107262218518528/qJmg9mN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149570762/1562205982",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눙눙의 피아노 연주곡 특집 4번째 곡 pit-a-pat 🥳✨봄느낌을 가득 담아 작업한 곡입니다 ! 집에서도 봄맞이 🌸🌼 이번에도 그림🎨은 leesujee .com 님께서 작업해주셨습니다 https://t.co/zJvAaHBwFO - @YouTube"
+	},
+	{
+		"created_at": "Sun Apr 12 12:30:56 +0000 2020",
+		"id": 1249260735990923300,
+		"id_str": "1249314054113394692",
+		"full_text": "“1719- 잠겨 있던 시간들에 대하여” 는 글과 음악이 엮인 묶음집이에요. 글마다 김지윤 @jyoomn 작가님이 작업해주신 삽화가 붙어있고 산문, 시, 일기, 동화 등 각각 다른 이야기들이 담겨 있어요🙏🏻\n'1719' Special Item 'BOOK'\n\n_\n#핫펠트 #HATFELT #예은\n#1719 #잠겨있던시간들에대하여 #200423_6pm https://t.co/rpcu5mdciC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫펠트",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "HATFELT",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "예은",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "잠겨있던시간들에대하여",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "200423_6pm",
+					"indices": [
+						183,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249260724741746700,
+					"id_str": "1249260724741746688",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZEAqIUMAAvXl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZEAqIUMAAvXl8.jpg",
+					"url": "https://t.co/rpcu5mdciC",
+					"display_url": "pic.twitter.com/rpcu5mdciC",
+					"expanded_url": "https://twitter.com/HATFELT731/status/1249260735990923264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249260724741746700,
+					"id_str": "1249260724741746688",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZEAqIUMAAvXl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZEAqIUMAAvXl8.jpg",
+					"url": "https://t.co/rpcu5mdciC",
+					"display_url": "pic.twitter.com/rpcu5mdciC",
+					"expanded_url": "https://twitter.com/HATFELT731/status/1249260735990923264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21409208,
+			"id_str": "21409208",
+			"name": "HA:TFELT",
+			"screen_name": "HATFELT731",
+			"location": "",
+			"description": "“1719” 4/23 6pm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 434461,
+			"friends_count": 2,
+			"listed_count": 5254,
+			"created_at": "Fri Feb 20 16:17:10 +0000 2009",
+			"favourites_count": 2260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248200727626829824/eG-YXw0m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248200727626829824/eG-YXw0m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21409208/1586429219",
+			"profile_link_color": "F00524",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "FDFFFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“1719- 잠겨 있던 시간들에 대하여” 는 글과 음악이 엮인 묶음집이에요. 글마다 김지윤 @jyoomn 작가님이 작업해주신 삽화가 붙어있고 산문, 시, 일기, 동화 등 각각 다른 이야기들이 담겨 있어요🙏🏻\n'1719' Special Item 'BOOK'\n\n_\n#핫펠트 #HATFELT #예은\n#1719 #잠겨있던시간들에대하여 #200423_6pm https://t.co/rpcu5mdciC"
+	},
+	{
+		"created_at": "Sun Apr 12 12:30:40 +0000 2020",
+		"id": 1249291306267848700,
+		"id_str": "1249313986933211142",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video)\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod\n\n▶️ https://t.co/8ARwWNx5xH https://t.co/efNpDQkqnR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "I_trust",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "Ohmygod",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ARwWNx5xH",
+					"expanded_url": "https://youtu.be/wLlKktf0ZWE",
+					"display_url": "youtu.be/wLlKktf0ZWE",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249291293223616500,
+					"id_str": "1249291293223616512",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZfz-mVAAAO-ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZfz-mVAAAO-ag.jpg",
+					"url": "https://t.co/efNpDQkqnR",
+					"display_url": "pic.twitter.com/efNpDQkqnR",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1249291306267848705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249291293223616500,
+					"id_str": "1249291293223616512",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZfz-mVAAAO-ag.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZfz-mVAAAO-ag.jpg",
+					"url": "https://t.co/efNpDQkqnR",
+					"display_url": "pic.twitter.com/efNpDQkqnR",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1249291306267848705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/vlOOsTe0LQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vlOOsTe0LQ",
+							"expanded_url": "http://cafe.daum.net/cube-g-i-dle",
+							"display_url": "cafe.daum.net/cube-g-i-dle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 641164,
+			"friends_count": 33,
+			"listed_count": 2886,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1585668529",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3282,
+		"favorite_count": 7286,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - 'Oh my god' (Choreography Practice Video)\n\n#여자아이들 #GIDLE\n#I_trust #Ohmygod\n\n▶️ https://t.co/8ARwWNx5xH https://t.co/efNpDQkqnR"
+	},
+	{
 		"created_at": "Sun Apr 12 09:29:24 +0000 2020",
 		"id": 1249261000366293000,
 		"id_str": "1249268372191285249",
