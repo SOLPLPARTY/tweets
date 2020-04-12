@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 09:29:24 +0000 2020",
+		"id": 1249261000366293000,
+		"id_str": "1249268372191285249",
+		"full_text": "[#박재정] 박재정이 부른 tvN &lt;하이바이, 마마!&gt; OST 'In The Night' 음원이 공개됐습니다!\n\n따뜻하고 포근한 박재정의 목소리를 담은 어쿠스틱 발라드 곡, 각 음원사이트에서 지금 바로 확인하세요😊\n\n#tvn #하이바이마마 #하이바이마마OST #InTheNight #parcjaejung #박재정발라드 #드라마OST https://t.co/mkfWKXjvFS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박재정",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "tvn",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "하이바이마마",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "하이바이마마OST",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "InTheNight",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "parcjaejung",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "박재정발라드",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "드라마OST",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249260984708939800,
+					"id_str": "1249260984708939776",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZEPylUwAAPGYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZEPylUwAAPGYk.jpg",
+					"url": "https://t.co/mkfWKXjvFS",
+					"display_url": "pic.twitter.com/mkfWKXjvFS",
+					"expanded_url": "https://twitter.com/themysticstory/status/1249261000366292993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249260984708939800,
+					"id_str": "1249260984708939776",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZEPylUwAAPGYk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZEPylUwAAPGYk.jpg",
+					"url": "https://t.co/mkfWKXjvFS",
+					"display_url": "pic.twitter.com/mkfWKXjvFS",
+					"expanded_url": "https://twitter.com/themysticstory/status/1249261000366292993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19117,
+			"friends_count": 17,
+			"listed_count": 285,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#박재정] 박재정이 부른 tvN &lt;하이바이, 마마!&gt; OST 'In The Night' 음원이 공개됐습니다!\n\n따뜻하고 포근한 박재정의 목소리를 담은 어쿠스틱 발라드 곡, 각 음원사이트에서 지금 바로 확인하세요😊\n\n#tvn #하이바이마마 #하이바이마마OST #InTheNight #parcjaejung #박재정발라드 #드라마OST https://t.co/mkfWKXjvFS"
+	},
+	{
 		"created_at": "Sun Apr 12 06:51:53 +0000 2020",
 		"id": 1249228730020610000,
 		"id_str": "1249228730020610049",
