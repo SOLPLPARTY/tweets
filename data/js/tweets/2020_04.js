@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 04:29:25 +0000 2020",
+		"id": 1249188941732950000,
+		"id_str": "1249192875306487810",
+		"full_text": "4월30일 목요일 여러분의 저녁을 유정목이 책임집니다! \n단독 공연 '목요일을 부탁해' 에서 만나요~!\n\n일시. 4월30일 (목) 7:00pm\n장소. 재미공작소\n티켓오픈. 4월13일(월)오후 1시 \n재미공작소 블로그에서 공연 정보 공지와 함께 티켓오픈 됩니다.\n링크. https://t.co/rJFoFnlcBp https://t.co/ycfPblvOC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rJFoFnlcBp",
+					"expanded_url": "https://blog.naver.com/studiozemi",
+					"display_url": "blog.naver.com/studiozemi",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249188848732500000,
+					"id_str": "1249188848732499968",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYCo7IUcAAqfyZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYCo7IUcAAqfyZ.jpg",
+					"url": "https://t.co/ycfPblvOC9",
+					"display_url": "pic.twitter.com/ycfPblvOC9",
+					"expanded_url": "https://twitter.com/orm_ent/status/1249188941732950017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249188848732500000,
+					"id_str": "1249188848732499968",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYCo7IUcAAqfyZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYCo7IUcAAqfyZ.jpg",
+					"url": "https://t.co/ycfPblvOC9",
+					"display_url": "pic.twitter.com/ycfPblvOC9",
+					"expanded_url": "https://twitter.com/orm_ent/status/1249188941732950017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 대표 최인희여사. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 728,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1583810814",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4월30일 목요일 여러분의 저녁을 유정목이 책임집니다! \n단독 공연 '목요일을 부탁해' 에서 만나요~!\n\n일시. 4월30일 (목) 7:00pm\n장소. 재미공작소\n티켓오픈. 4월13일(월)오후 1시 \n재미공작소 블로그에서 공연 정보 공지와 함께 티켓오픈 됩니다.\n링크. https://t.co/rJFoFnlcBp https://t.co/ycfPblvOC9"
+	},
+	{
 		"created_at": "Sun Apr 12 03:38:53 +0000 2020",
 		"id": 1248967625910014000,
 		"id_str": "1249180161414778881",
