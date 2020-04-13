@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 10:29:33 +0000 2020",
+		"id": 1249638473771790300,
+		"id_str": "1249645894233927680",
+		"full_text": "징짱의 서프라이즈💌\n\n갑작스럽게 아이유 보니까\n세상이 유애나 것 같지?\n조금만 기다리면 온 우주가\n전부 유애나 것처럼 될 거다💛\n\n#아이유 #IU #유애나_기다려 https://t.co/mg4AwPjs7V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "유애나_기다려",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249635158484906000,
+					"id_str": "1249635158484905985",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EVeYjkhU8AEvk2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVeYjkhU8AEvk2N.jpg",
+					"url": "https://t.co/mg4AwPjs7V",
+					"display_url": "pic.twitter.com/mg4AwPjs7V",
+					"expanded_url": "https://twitter.com/edam_ent/status/1249638473771790338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249635158484906000,
+					"id_str": "1249635158484905985",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EVeYjkhU8AEvk2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVeYjkhU8AEvk2N.jpg",
+					"url": "https://t.co/mg4AwPjs7V",
+					"display_url": "pic.twitter.com/mg4AwPjs7V",
+					"expanded_url": "https://twitter.com/edam_ent/status/1249638473771790338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9020,
+			"friends_count": 1,
+			"listed_count": 20,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1724,
+		"favorite_count": 4301,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "징짱의 서프라이즈💌\n\n갑작스럽게 아이유 보니까\n세상이 유애나 것 같지?\n조금만 기다리면 온 우주가\n전부 유애나 것처럼 될 거다💛\n\n#아이유 #IU #유애나_기다려 https://t.co/mg4AwPjs7V"
+	},
+	{
 		"created_at": "Mon Apr 13 10:17:24 +0000 2020",
 		"id": 1249642838616391700,
 		"id_str": "1249642838616391686",
