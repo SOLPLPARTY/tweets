@@ -1,6 +1,1251 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 06:17:17 +0000 2020",
+		"id": 1249582412318859300,
+		"id_str": "1249582412318859265",
+		"full_text": "#그린플러그드 #Greenplugged \n[EVENT] 신인 그린프렌즈 최종 경연-마지막 순서 공연팀을 맞혀라!\nhttps://t.co/BJcof4Rfd8\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Greenplugged",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BJcof4Rfd8",
+					"expanded_url": "https://bit.ly/3b89x1w",
+					"display_url": "bit.ly/3b89x1w",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #Greenplugged \n[EVENT] 신인 그린프렌즈 최종 경연-마지막 순서 공연팀을 맞혀라!\nhttps://t.co/BJcof4Rfd8\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Mon Apr 13 05:58:15 +0000 2020",
+		"id": 1249563543352955000,
+		"id_str": "1249577619512856579",
+		"full_text": "🇬🇧 강렬한 문학적 지성과 느와르적 선율을 통해 음악의 정치성을 서슴치 않고 드러내는 더 블라인더스\n \nThe Blinders, boasting firebrand political righteousness, noir melodicism and a fierce cultural intelligence https://t.co/SezR2RA4HP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249563278583328800,
+					"id_str": "1249563278583328768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249563278583328768/pu/img/0eKUf0RHjPo9mTpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249563278583328768/pu/img/0eKUf0RHjPo9mTpV.jpg",
+					"url": "https://t.co/SezR2RA4HP",
+					"display_url": "pic.twitter.com/SezR2RA4HP",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1249563543352954880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249563278583328800,
+					"id_str": "1249563278583328768",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249563278583328768/pu/img/0eKUf0RHjPo9mTpV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249563278583328768/pu/img/0eKUf0RHjPo9mTpV.jpg",
+					"url": "https://t.co/SezR2RA4HP",
+					"display_url": "pic.twitter.com/SezR2RA4HP",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1249563543352954880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 39206,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249563278583328768/pu/vid/720x900/XzwbU1NOD4wefBXI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249563278583328768/pu/vid/360x450/AIzeFoeT4nG0a5Wp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249563278583328768/pu/pl/3_SJ1GykD89NPhiK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249563278583328768/pu/vid/320x400/USbnuA-D1FCtdg9P.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🇬🇧 강렬한 문학적 지성과 느와르적 선율을 통해 음악의 정치성을 서슴치 않고 드러내는 더 블라인더스\n \nThe Blinders, boasting firebrand political righteousness, noir melodicism and a fierce cultural intelligence https://t.co/SezR2RA4HP"
+	},
+	{
+		"created_at": "Mon Apr 13 05:36:28 +0000 2020",
+		"id": 1249572140988403700,
+		"id_str": "1249572140988403712",
+		"full_text": "#예스24공연\n[부산] 뮤지컬＜레베카＞ : 2020.04.16(목) 14:00\n▶ https://t.co/WfqjMe9SFe\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/BxdIijuBZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24공연",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "티켓오픈공지",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfqjMe9SFe",
+					"expanded_url": "https://bit.ly/34x1GI9",
+					"display_url": "bit.ly/34x1GI9",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249572139679862800,
+					"id_str": "1249572139679862786",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdfPZLX0AIiQUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdfPZLX0AIiQUu.jpg",
+					"url": "https://t.co/BxdIijuBZz",
+					"display_url": "pic.twitter.com/BxdIijuBZz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1249572140988403712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249572139679862800,
+					"id_str": "1249572139679862786",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdfPZLX0AIiQUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdfPZLX0AIiQUu.jpg",
+					"url": "https://t.co/BxdIijuBZz",
+					"display_url": "pic.twitter.com/BxdIijuBZz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1249572140988403712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24공연\n[부산] 뮤지컬＜레베카＞ : 2020.04.16(목) 14:00\n▶ https://t.co/WfqjMe9SFe\n　\n#YES24 #티켓오픈공지 #티켓공지 https://t.co/BxdIijuBZz"
+	},
+	{
+		"created_at": "Mon Apr 13 05:29:32 +0000 2020",
+		"id": 1249569037203341300,
+		"id_str": "1249570393012215808",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\n'LOUNGE M. SPECIAL LIVE'\n\n- OurR 'eye,eye,eye'\n2020. 4. 22(수) 8PM \n\n- 권순관 'Salón de moment'\n2020. 4. 30(목) 5PM \n⠀\n자세한 정보는 상세 이미지 및 해피로봇 홈페이지를 참고해주세요 ! (🕶 https://t.co/aaXnLhdCPK) https://t.co/xxSyJVUHAe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aaXnLhdCPK",
+					"expanded_url": "http://hoy.kr/ye2Kz",
+					"display_url": "hoy.kr/ye2Kz",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249568218554847200,
+					"id_str": "1249568218554847234",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdbrJ2UUAIvxc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdbrJ2UUAIvxc5.jpg",
+					"url": "https://t.co/xxSyJVUHAe",
+					"display_url": "pic.twitter.com/xxSyJVUHAe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249569037203341313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249568218554847200,
+					"id_str": "1249568218554847234",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdbrJ2UUAIvxc5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdbrJ2UUAIvxc5.jpg",
+					"url": "https://t.co/xxSyJVUHAe",
+					"display_url": "pic.twitter.com/xxSyJVUHAe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249569037203341313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249568263496806400,
+					"id_str": "1249568263496806400",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdbtxRUMAAP3zL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdbtxRUMAAP3zL.jpg",
+					"url": "https://t.co/xxSyJVUHAe",
+					"display_url": "pic.twitter.com/xxSyJVUHAe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249569037203341313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249568275752562700,
+					"id_str": "1249568275752562688",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdbue7UMAAOeJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdbue7UMAAOeJl.jpg",
+					"url": "https://t.co/xxSyJVUHAe",
+					"display_url": "pic.twitter.com/xxSyJVUHAe",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249569037203341313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13354,
+			"friends_count": 2434,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\n'LOUNGE M. SPECIAL LIVE'\n\n- OurR 'eye,eye,eye'\n2020. 4. 22(수) 8PM \n\n- 권순관 'Salón de moment'\n2020. 4. 30(목) 5PM \n⠀\n자세한 정보는 상세 이미지 및 해피로봇 홈페이지를 참고해주세요 ! (🕶 https://t.co/aaXnLhdCPK) https://t.co/xxSyJVUHAe"
+	},
+	{
+		"created_at": "Mon Apr 13 05:29:29 +0000 2020",
+		"id": 1249566204039024600,
+		"id_str": "1249570379921788929",
+		"full_text": "랜드오브피스 Digital EP [Underground] \n4월 14일 오후 12시 발매됩니다.  랜오피의 새로운앨범 내일 모든 음원플랫폼에서 만나주세요~!\n\nLand of Peace's New album EP [Undergound] will come out tomorrow 12pm, korean time. plz check it out,\n#landofpeace #랜드오브피스 https://t.co/C0bABMlCsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "landofpeace",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "랜드오브피스",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249565574478188500,
+					"id_str": "1249565574478188544",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdZRP5UUAAgE4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdZRP5UUAAgE4S.jpg",
+					"url": "https://t.co/C0bABMlCsb",
+					"display_url": "pic.twitter.com/C0bABMlCsb",
+					"expanded_url": "https://twitter.com/ruby_records/status/1249566204039024640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249565574478188500,
+					"id_str": "1249565574478188544",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdZRP5UUAAgE4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdZRP5UUAAgE4S.jpg",
+					"url": "https://t.co/C0bABMlCsb",
+					"display_url": "pic.twitter.com/C0bABMlCsb",
+					"expanded_url": "https://twitter.com/ruby_records/status/1249566204039024640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은음악 찾아요, 제보는 rubyrecords@rubyrecord.com\n#루비레코드 #인천여관X루비살롱 #루비스테이제주 #사운드바운드 #단란한쫑파티 #레이블픽 #모트 #랜드오브피스 #오리엔탈쇼커스 #레인보우노트",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8063,
+			"friends_count": 8725,
+			"listed_count": 221,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "랜드오브피스 Digital EP [Underground] \n4월 14일 오후 12시 발매됩니다.  랜오피의 새로운앨범 내일 모든 음원플랫폼에서 만나주세요~!\n\nLand of Peace's New album EP [Undergound] will come out tomorrow 12pm, korean time. plz check it out,\n#landofpeace #랜드오브피스 https://t.co/C0bABMlCsb"
+	},
+	{
+		"created_at": "Mon Apr 13 05:29:25 +0000 2020",
+		"id": 1249564179935051800,
+		"id_str": "1249570362628726784",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\nSURL - 설 『CCTV 합주』\n\"CCTV를 통해 보는 SURL의 합주. 리얼하게 펼쳐지는 멤버들의 열정적인 합주 실황을 확인해보세요.\"\n\n📎 https://t.co/WvOBBFa8oX https://t.co/amY4P9DJBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WvOBBFa8oX",
+					"expanded_url": "http://youtu.be/OFGytC9WT2s",
+					"display_url": "youtu.be/OFGytC9WT2s",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249564146166726700,
+					"id_str": "1249564146166726656",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdX-HBVAAA5g6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdX-HBVAAA5g6y.jpg",
+					"url": "https://t.co/amY4P9DJBt",
+					"display_url": "pic.twitter.com/amY4P9DJBt",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249564179935051776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249564146166726700,
+					"id_str": "1249564146166726656",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdX-HBVAAA5g6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdX-HBVAAA5g6y.jpg",
+					"url": "https://t.co/amY4P9DJBt",
+					"display_url": "pic.twitter.com/amY4P9DJBt",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249564179935051776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249564146284159000,
+					"id_str": "1249564146284158976",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdX-HdU4AAzhNQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdX-HdU4AAzhNQ.jpg",
+					"url": "https://t.co/amY4P9DJBt",
+					"display_url": "pic.twitter.com/amY4P9DJBt",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249564179935051776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13354,
+			"friends_count": 2434,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\nSURL - 설 『CCTV 합주』\n\"CCTV를 통해 보는 SURL의 합주. 리얼하게 펼쳐지는 멤버들의 열정적인 합주 실황을 확인해보세요.\"\n\n📎 https://t.co/WvOBBFa8oX https://t.co/amY4P9DJBt"
+	},
+	{
 		"created_at": "Mon Apr 13 04:49:06 +0000 2020",
 		"id": 1249560220474327000,
 		"id_str": "1249560220474327042",
