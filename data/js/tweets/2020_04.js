@@ -1,6 +1,1852 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 03:58:23 +0000 2020",
+		"id": 1249534751800561700,
+		"id_str": "1249547454250389504",
+		"full_text": "The 14th Seoul Jazz Festival 2020 Postponed\n\nIn light of the COVID-19 outbreak, we have made the decision to postpone ‘SJF 2020’ which was scheduled for May 23rd &amp; 24th to fall 2020. \nFor more information, please follow the link below.\n\n▶ https://t.co/0mKmyaReAO https://t.co/f26nE59EdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mKmyaReAO",
+					"expanded_url": "https://bit.ly/2wEJDDy",
+					"display_url": "bit.ly/2wEJDDy",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249534091352891400,
+					"id_str": "1249534091352891394",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc8osHUYAIEwhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc8osHUYAIEwhP.jpg",
+					"url": "https://t.co/f26nE59EdJ",
+					"display_url": "pic.twitter.com/f26nE59EdJ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249534751800561665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249534091352891400,
+					"id_str": "1249534091352891394",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc8osHUYAIEwhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc8osHUYAIEwhP.jpg",
+					"url": "https://t.co/f26nE59EdJ",
+					"display_url": "pic.twitter.com/f26nE59EdJ",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249534751800561665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3693,
+			"friends_count": 40,
+			"listed_count": 36,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1582081596",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 14th Seoul Jazz Festival 2020 Postponed\n\nIn light of the COVID-19 outbreak, we have made the decision to postpone ‘SJF 2020’ which was scheduled for May 23rd &amp; 24th to fall 2020. \nFor more information, please follow the link below.\n\n▶ https://t.co/0mKmyaReAO https://t.co/f26nE59EdJ"
+	},
+	{
+		"created_at": "Mon Apr 13 03:53:55 +0000 2020",
+		"id": 1249533356116607000,
+		"id_str": "1249546330222891008",
+		"full_text": "제14회 서울재즈페스티벌 2020 공지 1차 - 개최 일정 연기 및 티켓 관련 안내\n\n'서재페2020'을 관심과 애정으로 기다려 주신 여러분께 깊이 감사드리며 코로나19로 인한 현재까지의 진행 상황을 알려드립니다. 자세한 사항은 아래의 링크에서 확인해주십시오.\n\n▶https://t.co/yBOctRX1Tl https://t.co/FqHW6FqnEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBOctRX1Tl",
+					"expanded_url": "https://bit.ly/2xhpCmS",
+					"display_url": "bit.ly/2xhpCmS",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249531132862840800,
+					"id_str": "1249531132862840832",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"url": "https://t.co/FqHW6FqnEa",
+					"display_url": "pic.twitter.com/FqHW6FqnEa",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249533356116606977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249531132862840800,
+					"id_str": "1249531132862840832",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc58e4UwAATORU.jpg",
+					"url": "https://t.co/FqHW6FqnEa",
+					"display_url": "pic.twitter.com/FqHW6FqnEa",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1249533356116606977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3693,
+			"friends_count": 40,
+			"listed_count": 36,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1582081596",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제14회 서울재즈페스티벌 2020 공지 1차 - 개최 일정 연기 및 티켓 관련 안내\n\n'서재페2020'을 관심과 애정으로 기다려 주신 여러분께 깊이 감사드리며 코로나19로 인한 현재까지의 진행 상황을 알려드립니다. 자세한 사항은 아래의 링크에서 확인해주십시오.\n\n▶https://t.co/yBOctRX1Tl https://t.co/FqHW6FqnEa"
+	},
+	{
+		"created_at": "Mon Apr 13 03:53:52 +0000 2020",
+		"id": 1249546317702951000,
+		"id_str": "1249546317702950914",
+		"full_text": "@SeoulJazzFest 감사합니다. 서재패의 선택을 존중합니다.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeoulJazzFest",
+					"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+					"id": 2324658823,
+					"id_str": "2324658823",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1249533356116607000,
+		"in_reply_to_status_id_str": "1249533356116606977",
+		"in_reply_to_user_id": 2324658823,
+		"in_reply_to_user_id_str": "2324658823",
+		"in_reply_to_screen_name": "SeoulJazzFest",
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@SeoulJazzFest 감사합니다. 서재패의 선택을 존중합니다."
+	},
+	{
+		"created_at": "Mon Apr 13 03:41:51 +0000 2020",
+		"id": 1249535927480770600,
+		"id_str": "1249543293865689088",
+		"full_text": "&lt;이글루베이 단독 공연 : 중력&gt;\n⠀\n· 일시 : 2020년 4월 23일 (목) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 이글루베이\n· 예매 : 멜론티켓 2020년 4월 15일 (수) 오후 8시 예매오픈\n⠀\n#이글루베이 #IGLooBaY\n#이글루베이_단독공연\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/4Ad8KOhd5e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이글루베이",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "IGLooBaY",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "이글루베이_단독공연",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249535915879325700,
+					"id_str": "1249535915879325696",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc-S5AUYAAW7rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc-S5AUYAAW7rH.jpg",
+					"url": "https://t.co/4Ad8KOhd5e",
+					"display_url": "pic.twitter.com/4Ad8KOhd5e",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535927480770561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249535915879325700,
+					"id_str": "1249535915879325696",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc-S5AUYAAW7rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc-S5AUYAAW7rH.jpg",
+					"url": "https://t.co/4Ad8KOhd5e",
+					"display_url": "pic.twitter.com/4Ad8KOhd5e",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535927480770561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3377,
+			"friends_count": 775,
+			"listed_count": 45,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이글루베이 단독 공연 : 중력&gt;\n⠀\n· 일시 : 2020년 4월 23일 (목) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 이글루베이\n· 예매 : 멜론티켓 2020년 4월 15일 (수) 오후 8시 예매오픈\n⠀\n#이글루베이 #IGLooBaY\n#이글루베이_단독공연\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/4Ad8KOhd5e"
+	},
+	{
+		"created_at": "Mon Apr 13 03:41:43 +0000 2020",
+		"id": 1249535615810424800,
+		"id_str": "1249543259812237312",
+		"full_text": "&lt;롤링 25주년 기념 공연 : 네이브로 단독 콘서트&gt;\n⠀\n· 일시 : 2020년 5월 9일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 네이브로\n· 예매 : 멜론티켓 2020년 4월 17일 (금) 오후 8시 예매오픈\n⠀\nDesign by @studio.himp\n⠀\n#네이브로 #NeighBro #네이브로_단독콘서트 #롤링25주년기념공연 #롤링홀 https://t.co/qdzlxQm7pj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이브로",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "NeighBro",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "네이브로_단독콘서트",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "롤링25주년기념공연",
+					"indices": [
+						185,
+						196
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249535608508178400,
+					"id_str": "1249535608508178432",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc-A_9U4AA3aKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc-A_9U4AA3aKZ.jpg",
+					"url": "https://t.co/qdzlxQm7pj",
+					"display_url": "pic.twitter.com/qdzlxQm7pj",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535615810424832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249535608508178400,
+					"id_str": "1249535608508178432",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EVc-A_9U4AA3aKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVc-A_9U4AA3aKZ.jpg",
+					"url": "https://t.co/qdzlxQm7pj",
+					"display_url": "pic.twitter.com/qdzlxQm7pj",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535615810424832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3377,
+			"friends_count": 775,
+			"listed_count": 45,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 25주년 기념 공연 : 네이브로 단독 콘서트&gt;\n⠀\n· 일시 : 2020년 5월 9일 (토) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 네이브로\n· 예매 : 멜론티켓 2020년 4월 17일 (금) 오후 8시 예매오픈\n⠀\nDesign by @studio.himp\n⠀\n#네이브로 #NeighBro #네이브로_단독콘서트 #롤링25주년기념공연 #롤링홀 https://t.co/qdzlxQm7pj"
+	},
+	{
+		"created_at": "Mon Apr 13 03:41:38 +0000 2020",
+		"id": 1249535430967476200,
+		"id_str": "1249543238060564480",
+		"full_text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n⠀\n&lt;롤링 25주년 기념 공연 : 열두달 단독 콘서트 '시작해봄'&gt;\n· 일시 : 2020년 5월 3일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 열두달\n· 예매 :🍈멜론티켓 https://t.co/Ia8VnU30XM\n⠀\nDesign by @studio.himp\n⠀\n#열두달 #12DAL #나율 #예림 #롤링홀 https://t.co/5Vaj2sTixI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "열두달",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "12DAL",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "나율",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "예림",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ia8VnU30XM",
+					"expanded_url": "https://vo.la/6bq2",
+					"display_url": "vo.la/6bq2",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249535418418098200,
+					"id_str": "1249535418418098177",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249535418418098177/pu/img/dBDQSXtiQr2uJbh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249535418418098177/pu/img/dBDQSXtiQr2uJbh8.jpg",
+					"url": "https://t.co/5Vaj2sTixI",
+					"display_url": "pic.twitter.com/5Vaj2sTixI",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535430967476229/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249535418418098200,
+					"id_str": "1249535418418098177",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249535418418098177/pu/img/dBDQSXtiQr2uJbh8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249535418418098177/pu/img/dBDQSXtiQr2uJbh8.jpg",
+					"url": "https://t.co/5Vaj2sTixI",
+					"display_url": "pic.twitter.com/5Vaj2sTixI",
+					"expanded_url": "https://twitter.com/rollinghall/status/1249535430967476229/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249535418418098177/pu/vid/480x480/QH6auqh4eja-GTT0.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249535418418098177/pu/vid/320x320/jGEp8ljBLzBJP9bl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249535418418098177/pu/pl/m_hkLmEUGzwc5Zjj.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3377,
+			"friends_count": 775,
+			"listed_count": 45,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n⠀\n&lt;롤링 25주년 기념 공연 : 열두달 단독 콘서트 '시작해봄'&gt;\n· 일시 : 2020년 5월 3일 (일) 오후 5시\n· 장소 : 롤링홀\n· 출연 : 열두달\n· 예매 :🍈멜론티켓 https://t.co/Ia8VnU30XM\n⠀\nDesign by @studio.himp\n⠀\n#열두달 #12DAL #나율 #예림 #롤링홀 https://t.co/5Vaj2sTixI"
+	},
+	{
+		"created_at": "Mon Apr 13 03:35:04 +0000 2020",
+		"id": 1249541391526408200,
+		"id_str": "1249541589505986565",
+		"full_text": "티켓 가이드(TICKET GUIDE)\nhttps://t.co/DZ0Wf5mh9P\n\n티켓 사기 예방법, 티켓 양도 주의사항 수록.\n티켓 양도 및 거래 전 반드시 정독하세요.\n공연기획사, 매니지먼트, 아티스트, 소비자 필독.\n\n#티켓양도 #양도 #대리구매 \n#공연안내 #공연소식 #티켓오픈 #스케줄\n#안전거래 #티켓가이드 https://t.co/uHZQqnqaPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티켓양도",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "양도",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "대리구매",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "공연소식",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "안전거래",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "티켓가이드",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZ0Wf5mh9P",
+					"expanded_url": "https://solplparty.com/transfer",
+					"display_url": "solplparty.com/transfer",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249540283366174700,
+					"id_str": "1249540283366174722",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"url": "https://t.co/uHZQqnqaPR",
+					"display_url": "pic.twitter.com/uHZQqnqaPR",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1249541391526408197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249540283366174700,
+					"id_str": "1249540283366174722",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVdCRHKU8AIAGhK.jpg",
+					"url": "https://t.co/uHZQqnqaPR",
+					"display_url": "pic.twitter.com/uHZQqnqaPR",
+					"expanded_url": "https://twitter.com/TicketOpen/status/1249541391526408197/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881516922294067200,
+			"id_str": "881516922294067201",
+			"name": "티켓오픈 봇",
+			"screen_name": "TicketOpen",
+			"location": "",
+			"description": "#티켓오픈\n#하나티켓 #티켓링크 #위메프공연티켓\n\n* 예매처와 어떤 이해관계도 없습니다.\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n▶ 참가하기\nhttps://t.co/mr16mdiyD3",
+			"url": "https://t.co/jjKHK7qmS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jjKHK7qmS0",
+							"expanded_url": "https://twitter.com/SOLPLPARTY/lists/ticket",
+							"display_url": "twitter.com/SOLPLPARTY/lis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Sun Jul 02 14:16:26 +0000 2017",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881516922294067201/1586083867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티켓 가이드(TICKET GUIDE)\nhttps://t.co/DZ0Wf5mh9P\n\n티켓 사기 예방법, 티켓 양도 주의사항 수록.\n티켓 양도 및 거래 전 반드시 정독하세요.\n공연기획사, 매니지먼트, 아티스트, 소비자 필독.\n\n#티켓양도 #양도 #대리구매 \n#공연안내 #공연소식 #티켓오픈 #스케줄\n#안전거래 #티켓가이드 https://t.co/uHZQqnqaPR"
+	},
+	{
+		"created_at": "Mon Apr 13 03:29:32 +0000 2020",
+		"id": 1249533844904018000,
+		"id_str": "1249540194245791744",
+		"full_text": "[스케줄 안내] 4월 3째주 스케줄 🔍\n\n모바일 ☞ https://t.co/Mz5W6bfMXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mz5W6bfMXA",
+					"expanded_url": "http://hoy.kr/V1n0m",
+					"display_url": "hoy.kr/V1n0m",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13352,
+			"friends_count": 2434,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 4월 3째주 스케줄 🔍\n\n모바일 ☞ https://t.co/Mz5W6bfMXA"
+	},
+	{
+		"created_at": "Mon Apr 13 03:29:25 +0000 2020",
+		"id": 1249531232141979600,
+		"id_str": "1249540164415881217",
+		"full_text": "from ‘jung jaeil in concert’\n\n#5.\n\nso do i \n\n#정재일 #jungjaeil  #도리안그레이의초상 #thepictureofdoriangray \n\nhttps://t.co/OsN2Aqr2nI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재일",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "jungjaeil",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "도리안그레이의초상",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "thepictureofdoriangray",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OsN2Aqr2nI",
+					"expanded_url": "https://youtu.be/cAy85CxgofY",
+					"display_url": "youtu.be/cAy85CxgofY",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 192,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "from ‘jung jaeil in concert’\n\n#5.\n\nso do i \n\n#정재일 #jungjaeil  #도리안그레이의초상 #thepictureofdoriangray \n\nhttps://t.co/OsN2Aqr2nI"
+	},
+	{
+		"created_at": "Mon Apr 13 03:26:29 +0000 2020",
+		"id": 1249539428340637700,
+		"id_str": "1249539428340637696",
+		"full_text": "#PrivateCurve #프라이빗커브\n[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2020 1차 공지 - 개최 일정 연기 및 티켓 관련 안내\nhttps://t.co/QAiuoCqNzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QAiuoCqNzk",
+					"expanded_url": "https://bit.ly/2JZxmwj",
+					"display_url": "bit.ly/2JZxmwj",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 353,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PrivateCurve #프라이빗커브\n[SJF ANNOUNCEMENT] 제14회 서울재즈페스티벌 2020 1차 공지 - 개최 일정 연기 및 티켓 관련 안내\nhttps://t.co/QAiuoCqNzk"
+	},
+	{
 		"created_at": "Mon Apr 13 03:16:17 +0000 2020",
 		"id": 1249536862311637000,
 		"id_str": "1249536862311636994",
