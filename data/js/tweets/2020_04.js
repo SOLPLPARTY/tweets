@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 11:29:25 +0000 2020",
+		"id": 1249651910283387000,
+		"id_str": "1249660962086543360",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n쏜애플 『mini talk concert (with coffee)』\n\"쏜애플과의 실시간 소통. 그동안 못다 한 이야기를 마음껏 나눠요. 커피 한 잔의 여유와 함께!\"\n\n📎https://t.co/3cxsLmt0vF https://t.co/ys9CaiGo0h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3cxsLmt0vF",
+					"expanded_url": "http://youtu.be/kC9RQqpl-DQ",
+					"display_url": "youtu.be/kC9RQqpl-DQ",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249651901638905900,
+					"id_str": "1249651901638905856",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EVenyJoUEAAiX-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVenyJoUEAAiX-F.jpg",
+					"url": "https://t.co/ys9CaiGo0h",
+					"display_url": "pic.twitter.com/ys9CaiGo0h",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249651910283386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249651901638905900,
+					"id_str": "1249651901638905856",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EVenyJoUEAAiX-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVenyJoUEAAiX-F.jpg",
+					"url": "https://t.co/ys9CaiGo0h",
+					"display_url": "pic.twitter.com/ys9CaiGo0h",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1249651910283386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13350,
+			"friends_count": 2433,
+			"listed_count": 294,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n쏜애플 『mini talk concert (with coffee)』\n\"쏜애플과의 실시간 소통. 그동안 못다 한 이야기를 마음껏 나눠요. 커피 한 잔의 여유와 함께!\"\n\n📎https://t.co/3cxsLmt0vF https://t.co/ys9CaiGo0h"
+	},
+	{
 		"created_at": "Mon Apr 13 10:29:33 +0000 2020",
 		"id": 1249638473771790300,
 		"id_str": "1249645894233927680",
