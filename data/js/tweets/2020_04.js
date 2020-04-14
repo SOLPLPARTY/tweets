@@ -1,6 +1,1499 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 09:58:14 +0000 2020",
+		"id": 1249985828777951200,
+		"id_str": "1250000404601069568",
+		"full_text": "DJ DOC에게 평화는 [코로나 없는 세상, 전쟁 없는 세상, 無頉(무탈)]이다.\nㅤㅤ\n🇰🇷 음악을 통해 정치, 사회, 언론, 공권력에 정면으로 대항하는 DJ DOC\nㅤㅤ\nCleverly criticizing the dark sides of Korean society through music, DJ DOC https://t.co/zrTrrJcGl2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249982225086443500,
+					"id_str": "1249982225086443522",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249982225086443522/pu/img/JRgEozUW5rFGFm9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249982225086443522/pu/img/JRgEozUW5rFGFm9M.jpg",
+					"url": "https://t.co/zrTrrJcGl2",
+					"display_url": "pic.twitter.com/zrTrrJcGl2",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1249985828777951233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249982225086443500,
+					"id_str": "1249982225086443522",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249982225086443522/pu/img/JRgEozUW5rFGFm9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249982225086443522/pu/img/JRgEozUW5rFGFm9M.jpg",
+					"url": "https://t.co/zrTrrJcGl2",
+					"display_url": "pic.twitter.com/zrTrrJcGl2",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1249985828777951233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 30764,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249982225086443522/pu/vid/720x900/DsZ6qIO3Jutj6HQV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249982225086443522/pu/vid/360x450/R7WfdzHEye7jVCCP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1249982225086443522/pu/pl/4Ww1IcblTnsI4rKf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1249982225086443522/pu/vid/320x400/vu3ISRjLlFOaDoHW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249975748300947500,
+		"in_reply_to_status_id_str": "1249975748300947456",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DJ DOC에게 평화는 [코로나 없는 세상, 전쟁 없는 세상, 無頉(무탈)]이다.\nㅤㅤ\n🇰🇷 음악을 통해 정치, 사회, 언론, 공권력에 정면으로 대항하는 DJ DOC\nㅤㅤ\nCleverly criticizing the dark sides of Korean society through music, DJ DOC https://t.co/zrTrrJcGl2"
+	},
+	{
+		"created_at": "Tue Apr 14 09:37:40 +0000 2020",
+		"id": 1249995226019696600,
+		"id_str": "1249995226019696642",
+		"full_text": "#Melon #멜론 #멜론매거진\n감각적인 래핑과 독보적 플로우의 루피 (Loopy) [NO FEAR]\nhttps://t.co/0RAXKFfRux https://t.co/f9NuXIeIpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0RAXKFfRux",
+					"expanded_url": "https://bit.ly/3a6r2xG",
+					"display_url": "bit.ly/3a6r2xG",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249995224870523000,
+					"id_str": "1249995224870522880",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjgCMVXkAAQb1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjgCMVXkAAQb1l.jpg",
+					"url": "https://t.co/f9NuXIeIpK",
+					"display_url": "pic.twitter.com/f9NuXIeIpK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1249995226019696642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249995224870523000,
+					"id_str": "1249995224870522880",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjgCMVXkAAQb1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjgCMVXkAAQb1l.jpg",
+					"url": "https://t.co/f9NuXIeIpK",
+					"display_url": "pic.twitter.com/f9NuXIeIpK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1249995226019696642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n감각적인 래핑과 독보적 플로우의 루피 (Loopy) [NO FEAR]\nhttps://t.co/0RAXKFfRux https://t.co/f9NuXIeIpK"
+	},
+	{
+		"created_at": "Tue Apr 14 09:29:41 +0000 2020",
+		"id": 1249990801498591200,
+		"id_str": "1249993218202181632",
+		"full_text": "백예린이 피처링으로 참여한 루피(Loopy) 정규앨범 [NO FEAR] 'NEO SEOUL LOVE' (Feat. 백예린)'가 발매되었습니다.\n지금 바로 모든 음원 사이트에서 감상하실 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249990692937457700,
+		"in_reply_to_status_id_str": "1249990692937457664",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek_bv",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9865,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "백예린이 피처링으로 참여한 루피(Loopy) 정규앨범 [NO FEAR] 'NEO SEOUL LOVE' (Feat. 백예린)'가 발매되었습니다.\n지금 바로 모든 음원 사이트에서 감상하실 수 있습니다."
+	},
+	{
+		"created_at": "Tue Apr 14 09:29:39 +0000 2020",
+		"id": 1249990692937457700,
+		"id_str": "1249993209121554432",
+		"full_text": "[Release] 루피 (Loopy) [NO FEAR] 'NEO SEOUL LOVE (Feat. 백예린)'\n\nLoopy’s 'NEO SEOUL LOVE (Feat. Yerin Baek)' is now available on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/ev5lnp1nVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ev5lnp1nVr",
+					"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313",
+					"display_url": "twitter.com/MKITRAIN/statu…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9865,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249987818731917300,
+		"quoted_status_id_str": "1249987818731917313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ev5lnp1nVr",
+			"expanded": "https://twitter.com/MKITRAIN/status/1249987818731917313",
+			"display": "twitter.com/MKITRAIN/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 09:08:14 +0000 2020",
+			"id": 1249987818731917300,
+			"id_str": "1249987818731917313",
+			"full_text": "LOOPY LP [NO FEAR] OUT NOW!\n\nhttps://t.co/kaXBcOrlqc\n\n▶Bugs - https://t.co/0GvnaHVbHU\n▶Melon - https://t.co/4GsXBiITFJ\n▶Naver Music - https://t.co/hzfv8LRPgp\n▶genie - https://t.co/n57ZMfBcBO\n▶FLO - https://t.co/fhU731dnOa\n\n#LOOPY\n#NOFEAR #LP\n#MKITRAIN https://t.co/Ivg0Lpgt6w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LOOPY",
+						"indices": [
+							223,
+							229
+						]
+					},
+					{
+						"text": "NOFEAR",
+						"indices": [
+							230,
+							237
+						]
+					},
+					{
+						"text": "LP",
+						"indices": [
+							238,
+							241
+						]
+					},
+					{
+						"text": "MKITRAIN",
+						"indices": [
+							242,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kaXBcOrlqc",
+						"expanded_url": "http://MKITRAIN.COM/LOOPY",
+						"display_url": "MKITRAIN.COM/LOOPY",
+						"indices": [
+							29,
+							52
+						]
+					},
+					{
+						"url": "https://t.co/0GvnaHVbHU",
+						"expanded_url": "http://bit.ly/2RzYbLW",
+						"display_url": "bit.ly/2RzYbLW",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/4GsXBiITFJ",
+						"expanded_url": "http://bit.ly/2XywLcV",
+						"display_url": "bit.ly/2XywLcV",
+						"indices": [
+							95,
+							118
+						]
+					},
+					{
+						"url": "https://t.co/hzfv8LRPgp",
+						"expanded_url": "http://bit.ly/34DvH9s",
+						"display_url": "bit.ly/34DvH9s",
+						"indices": [
+							134,
+							157
+						]
+					},
+					{
+						"url": "https://t.co/n57ZMfBcBO",
+						"expanded_url": "http://bit.ly/3en5BvB",
+						"display_url": "bit.ly/3en5BvB",
+						"indices": [
+							167,
+							190
+						]
+					},
+					{
+						"url": "https://t.co/fhU731dnOa",
+						"expanded_url": "http://bit.ly/2K0yNdR",
+						"display_url": "bit.ly/2K0yNdR",
+						"indices": [
+							198,
+							221
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1249987800314728400,
+						"id_str": "1249987800314728451",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"url": "https://t.co/Ivg0Lpgt6w",
+						"display_url": "pic.twitter.com/Ivg0Lpgt6w",
+						"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249987800314728400,
+						"id_str": "1249987800314728451",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjZSBtU0AMI3je.jpg",
+						"url": "https://t.co/Ivg0Lpgt6w",
+						"display_url": "pic.twitter.com/Ivg0Lpgt6w",
+						"expanded_url": "https://twitter.com/MKITRAIN/status/1249987818731917313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3242889247,
+				"id_str": "3242889247",
+				"name": "MKIT RAIN",
+				"screen_name": "MKITRAIN",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/awrDWPQ2Nk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/awrDWPQ2Nk",
+								"expanded_url": "http://mkitrain.com/",
+								"display_url": "mkitrain.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8605,
+				"friends_count": 6,
+				"listed_count": 74,
+				"created_at": "Fri Jun 12 02:48:34 +0000 2015",
+				"favourites_count": 85,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 572,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071430909994233856/rMf_C8T6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071430909994233856/rMf_C8T6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3242889247/1574741666",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 135,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release] 루피 (Loopy) [NO FEAR] 'NEO SEOUL LOVE (Feat. 백예린)'\n\nLoopy’s 'NEO SEOUL LOVE (Feat. Yerin Baek)' is now available on all streaming sites!\n\n#백예린 #yerinbaek https://t.co/ev5lnp1nVr"
+	},
+	{
+		"created_at": "Tue Apr 14 09:29:34 +0000 2020",
+		"id": 1249987930128437200,
+		"id_str": "1249993187625766912",
+		"full_text": "#오지은 싱글 ‘룸비니’ 발매!\n\n지금 모든 음원사이트에서 감상하실 수 있어요 🎧\n-\nFLO ▶️https://t.co/qBEQt5yKVh\nVIBE ▶️https://t.co/qr1FIruTyQ\n멜론 ▶️https://t.co/H9MeQNDQXB\n벅스 ▶️https://t.co/umEALcvvsl\n지니 ▶️https://t.co/6ErG9iZWAj https://t.co/I2Dmd3PhV0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qBEQt5yKVh",
+					"expanded_url": "http://bit.ly/2XzLLYk",
+					"display_url": "bit.ly/2XzLLYk",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/qr1FIruTyQ",
+					"expanded_url": "http://bit.ly/2Vm4XG8",
+					"display_url": "bit.ly/2Vm4XG8",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/H9MeQNDQXB",
+					"expanded_url": "http://bit.ly/2VxrBeW",
+					"display_url": "bit.ly/2VxrBeW",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/umEALcvvsl",
+					"expanded_url": "http://bit.ly/3elRoiw",
+					"display_url": "bit.ly/3elRoiw",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/6ErG9iZWAj",
+					"expanded_url": "http://bit.ly/3casAIq",
+					"display_url": "bit.ly/3casAIq",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249987900848013300,
+					"id_str": "1249987900848013312",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjZX4OVAAAFprE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjZX4OVAAAFprE.jpg",
+					"url": "https://t.co/I2Dmd3PhV0",
+					"display_url": "pic.twitter.com/I2Dmd3PhV0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1249987930128437251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249987900848013300,
+					"id_str": "1249987900848013312",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjZX4OVAAAFprE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjZX4OVAAAFprE.jpg",
+					"url": "https://t.co/I2Dmd3PhV0",
+					"display_url": "pic.twitter.com/I2Dmd3PhV0",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1249987930128437251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1775,
+			"friends_count": 25,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오지은 싱글 ‘룸비니’ 발매!\n\n지금 모든 음원사이트에서 감상하실 수 있어요 🎧\n-\nFLO ▶️https://t.co/qBEQt5yKVh\nVIBE ▶️https://t.co/qr1FIruTyQ\n멜론 ▶️https://t.co/H9MeQNDQXB\n벅스 ▶️https://t.co/umEALcvvsl\n지니 ▶️https://t.co/6ErG9iZWAj https://t.co/I2Dmd3PhV0"
+	},
+	{
+		"created_at": "Tue Apr 14 09:29:25 +0000 2020",
+		"id": 1249987873358508000,
+		"id_str": "1249993149428256768",
+		"full_text": "#정준일 -너라고 생각해 \nTVN드라마 #반의반 (#정해인 #채수빈)\nhttps://t.co/Y1hCfHEVRk by Melon https://t.co/1p46f27B38",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정준일",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "반의반",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "정해인",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "채수빈",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y1hCfHEVRk",
+					"expanded_url": "http://kko.to/8UhnemRjj",
+					"display_url": "kko.to/8UhnemRjj",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249987872347672600,
+					"id_str": "1249987872347672577",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjZWODUUAEYNpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjZWODUUAEYNpJ.jpg",
+					"url": "https://t.co/1p46f27B38",
+					"display_url": "pic.twitter.com/1p46f27B38",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1249987873358508035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249987872347672600,
+					"id_str": "1249987872347672577",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EVjZWODUUAEYNpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVjZWODUUAEYNpJ.jpg",
+					"url": "https://t.co/1p46f27B38",
+					"display_url": "pic.twitter.com/1p46f27B38",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1249987873358508035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.melon.com\" rel=\"nofollow\">MelonMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 357,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 16106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#정준일 -너라고 생각해 \nTVN드라마 #반의반 (#정해인 #채수빈)\nhttps://t.co/Y1hCfHEVRk by Melon https://t.co/1p46f27B38"
+	},
+	{
+		"created_at": "Tue Apr 14 09:21:13 +0000 2020",
+		"id": 1249991088854745000,
+		"id_str": "1249991088854745090",
+		"full_text": "#DMZ_Peace_Train_Music_Festival\nPEACE TRAIN 2020 ARTIST - 디제이디오씨(DJ DOC)\nhttps://t.co/jqZSJ3ApJA\n#DMZ피스트레인 #디엠지피스트레인\n#Festival #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DMZ_Peace_Train_Music_Festival",
+					"indices": [
+						0,
+						31
+					]
+				},
+				{
+					"text": "DMZ피스트레인",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "디엠지피스트레인",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jqZSJ3ApJA",
+					"expanded_url": "https://youtu.be/fv6YdVYpP1s",
+					"display_url": "youtu.be/fv6YdVYpP1s",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#DMZ_Peace_Train_Music_Festival\nPEACE TRAIN 2020 ARTIST - 디제이디오씨(DJ DOC)\nhttps://t.co/jqZSJ3ApJA\n#DMZ피스트레인 #디엠지피스트레인\n#Festival #페스티벌"
+	},
+	{
 		"created_at": "Tue Apr 14 09:05:27 +0000 2020",
 		"id": 1249987118497226800,
 		"id_str": "1249987118497226752",
