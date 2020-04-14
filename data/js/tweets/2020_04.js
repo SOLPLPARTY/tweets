@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 07:41:38 +0000 2020",
+		"id": 1249955977677303800,
+		"id_str": "1249966024830705664",
+		"full_text": "#제로페이가맹점\n안녕하세요, 상상마당입니다:)\n지역 경제 활성화를 위해 국민들에게 제공되는\n#지역화폐 및 #지역상품권 이\nKT&amp;G 상상마당에서도 사용 가능하다는 사실!\n알고 계셨나요?☺️\n카드 뉴스를 밀어서 사용처를 확인해 주세요👉🏼\n-\nKT&amp;G 상상마당에서 제로페이로\n슬기로운 문화생활 하세요🌸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제로페이가맹점",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "지역화폐",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "지역상품권",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18708,
+			"friends_count": 1968,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#제로페이가맹점\n안녕하세요, 상상마당입니다:)\n지역 경제 활성화를 위해 국민들에게 제공되는\n#지역화폐 및 #지역상품권 이\nKT&amp;G 상상마당에서도 사용 가능하다는 사실!\n알고 계셨나요?☺️\n카드 뉴스를 밀어서 사용처를 확인해 주세요👉🏼\n-\nKT&amp;G 상상마당에서 제로페이로\n슬기로운 문화생활 하세요🌸"
+	},
+	{
 		"created_at": "Tue Apr 14 07:14:16 +0000 2020",
 		"id": 1249959140710944800,
 		"id_str": "1249959140710944769",
