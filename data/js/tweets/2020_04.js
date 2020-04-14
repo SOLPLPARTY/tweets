@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 04:41:38 +0000 2020",
+		"id": 1249918214420566000,
+		"id_str": "1249920725420519424",
+		"full_text": "#제로페이가맹점\n안녕하세요, 상상마당입니다:)\n지역 경제 활성화를 위해 국민들에게 제공되는\n#지역화폐 및 #지역상품권 이\nKT&amp;G 상상마당에서도 사용 가능하다는 사실!\n알고 계셨나요?☺️\n카드 뉴스를 밀어서 사용처를 확인해 주세요👉🏼\n-\nKT&amp;G 상상마당에서 제로페이로\n슬기로 문화생활 하세요🌸 https://t.co/N46QSSy8WH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제로페이가맹점",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "지역화폐",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "지역상품권",
+					"indices": [
+						59,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249918150990160000,
+					"id_str": "1249918150990159872",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EViZ75wU4AABUa4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViZ75wU4AABUa4.jpg",
+					"url": "https://t.co/N46QSSy8WH",
+					"display_url": "pic.twitter.com/N46QSSy8WH",
+					"expanded_url": "https://twitter.com/SSmadang/status/1249918214420566018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249918150990160000,
+					"id_str": "1249918150990159872",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EViZ75wU4AABUa4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViZ75wU4AABUa4.jpg",
+					"url": "https://t.co/N46QSSy8WH",
+					"display_url": "pic.twitter.com/N46QSSy8WH",
+					"expanded_url": "https://twitter.com/SSmadang/status/1249918214420566018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249918150990160000,
+					"id_str": "1249918150990159873",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EViZ75wU4AEcIzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViZ75wU4AEcIzU.jpg",
+					"url": "https://t.co/N46QSSy8WH",
+					"display_url": "pic.twitter.com/N46QSSy8WH",
+					"expanded_url": "https://twitter.com/SSmadang/status/1249918214420566018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249918150994325500,
+					"id_str": "1249918150994325504",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EViZ75xUcAAPVr_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViZ75xUcAAPVr_.jpg",
+					"url": "https://t.co/N46QSSy8WH",
+					"display_url": "pic.twitter.com/N46QSSy8WH",
+					"expanded_url": "https://twitter.com/SSmadang/status/1249918214420566018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249918150998548500,
+					"id_str": "1249918150998548480",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EViZ75yU4AAZ5X_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViZ75yU4AAZ5X_.jpg",
+					"url": "https://t.co/N46QSSy8WH",
+					"display_url": "pic.twitter.com/N46QSSy8WH",
+					"expanded_url": "https://twitter.com/SSmadang/status/1249918214420566018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18709,
+			"friends_count": 1968,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제로페이가맹점\n안녕하세요, 상상마당입니다:)\n지역 경제 활성화를 위해 국민들에게 제공되는\n#지역화폐 및 #지역상품권 이\nKT&amp;G 상상마당에서도 사용 가능하다는 사실!\n알고 계셨나요?☺️\n카드 뉴스를 밀어서 사용처를 확인해 주세요👉🏼\n-\nKT&amp;G 상상마당에서 제로페이로\n슬기로 문화생활 하세요🌸 https://t.co/N46QSSy8WH"
+	},
+	{
+		"created_at": "Tue Apr 14 04:29:28 +0000 2020",
+		"id": 1249917168906416000,
+		"id_str": "1249917664140689408",
+		"full_text": "원준(보컬)과 해리(드럼)의 듀오 음악 활동을 전개한 랜드오브피스. 평화의 땅에서 펼쳐지는 이들의 음악적 반란을 주목하자! https://t.co/l77zZeUavW\n\n타이틀곡 Get Into You Lyric MV \nhttps://t.co/kdg1KM1Ixd\n\n#네이버연예탭메인노출 #Landofpeace #랜드오브피스 @ruby_records https://t.co/SNJxbY8RHy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버연예탭메인노출",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "Landofpeace",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "랜드오브피스",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ruby_records",
+					"name": "Ruby records",
+					"id": 110930534,
+					"id_str": "110930534",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l77zZeUavW",
+					"expanded_url": "http://naver.me/xRVqVR0n",
+					"display_url": "naver.me/xRVqVR0n",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/kdg1KM1Ixd",
+					"expanded_url": "http://youtu.be/9GTrss_NkwQ",
+					"display_url": "youtu.be/9GTrss_NkwQ",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249917116884476000,
+					"id_str": "1249917116884475904",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EViY_taUYAAVRYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViY_taUYAAVRYD.jpg",
+					"url": "https://t.co/SNJxbY8RHy",
+					"display_url": "pic.twitter.com/SNJxbY8RHy",
+					"expanded_url": "https://twitter.com/ruby_records/status/1249917168906416128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249917116884476000,
+					"id_str": "1249917116884475904",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EViY_taUYAAVRYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EViY_taUYAAVRYD.jpg",
+					"url": "https://t.co/SNJxbY8RHy",
+					"display_url": "pic.twitter.com/SNJxbY8RHy",
+					"expanded_url": "https://twitter.com/ruby_records/status/1249917168906416128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 272,
+							"h": 285,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은음악 찾아요, 제보는 rubyrecords@rubyrecord.com\n#루비레코드 #인천여관X루비살롱 #루비스테이제주 #사운드바운드 #단란한쫑파티 #레이블픽 #모트 #랜드오브피스 #오리엔탈쇼커스 #레인보우노트",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8057,
+			"friends_count": 8721,
+			"listed_count": 222,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원준(보컬)과 해리(드럼)의 듀오 음악 활동을 전개한 랜드오브피스. 평화의 땅에서 펼쳐지는 이들의 음악적 반란을 주목하자! https://t.co/l77zZeUavW\n\n타이틀곡 Get Into You Lyric MV \nhttps://t.co/kdg1KM1Ixd\n\n#네이버연예탭메인노출 #Landofpeace #랜드오브피스 @ruby_records https://t.co/SNJxbY8RHy"
+	},
+	{
 		"created_at": "Tue Apr 14 03:58:28 +0000 2020",
 		"id": 1249896622990880800,
 		"id_str": "1249909863976701952",
