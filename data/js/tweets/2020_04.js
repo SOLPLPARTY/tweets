@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 03:41:38 +0000 2020",
+		"id": 1250258580588003300,
+		"id_str": "1250268015951667201",
+		"full_text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n⠀\n&lt;이글루베이 단독 공연 : 중력&gt;\n· 일시 : 2020년 4월 23일 (목) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 이글루베이\n· 예매 :🍈멜론티켓 https://t.co/7LmmkaAgON\n⠀\n#이글루베이 #IGLooBaY\n#이글루베이_단독공연 #중력\n#롤링홀 #멜론티켓 https://t.co/OwD8NV8XEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이글루베이",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "IGLooBaY",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "이글루베이_단독공연",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"text": "중력",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7LmmkaAgON",
+					"expanded_url": "https://vo.la/SXAp",
+					"display_url": "vo.la/SXAp",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250258567170384000,
+					"id_str": "1250258567170383872",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250258567170383872/pu/img/FP8ZzmXSK_5MyVlq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250258567170383872/pu/img/FP8ZzmXSK_5MyVlq.jpg",
+					"url": "https://t.co/OwD8NV8XEN",
+					"display_url": "pic.twitter.com/OwD8NV8XEN",
+					"expanded_url": "https://twitter.com/rollinghall/status/1250258580588003329/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250258567170384000,
+					"id_str": "1250258567170383872",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250258567170383872/pu/img/FP8ZzmXSK_5MyVlq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250258567170383872/pu/img/FP8ZzmXSK_5MyVlq.jpg",
+					"url": "https://t.co/OwD8NV8XEN",
+					"display_url": "pic.twitter.com/OwD8NV8XEN",
+					"expanded_url": "https://twitter.com/rollinghall/status/1250258580588003329/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250258567170383872/pu/pl/omxhUh4B2DK0Z46O.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250258567170383872/pu/vid/320x320/W4K0Mhngu8DzQdAd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250258567170383872/pu/vid/480x480/GgML3zmD3v_3vOqi.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3374,
+			"friends_count": 775,
+			"listed_count": 45,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n⠀\n&lt;이글루베이 단독 공연 : 중력&gt;\n· 일시 : 2020년 4월 23일 (목) 오후 8시\n· 장소 : 롤링홀\n· 출연 : 이글루베이\n· 예매 :🍈멜론티켓 https://t.co/7LmmkaAgON\n⠀\n#이글루베이 #IGLooBaY\n#이글루베이_단독공연 #중력\n#롤링홀 #멜론티켓 https://t.co/OwD8NV8XEN"
+	},
+	{
+		"created_at": "Wed Apr 15 03:29:24 +0000 2020",
+		"id": 1250253924180754400,
+		"id_str": "1250264939115294720",
+		"full_text": "🎁4/15(수) 입고\nOurR - Desert 싸인 CD\nOurR - Swing 싸인 CD\nLambC - YOU 싸인 CD\nLambC - 기도 싸인 CD\n\n🌼카페 리카르도: 서울 마포구 서강로 78 https://t.co/mq5HimiNqA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250253916031185000,
+					"id_str": "1250253916031184896",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EVnLUAAUcAAgjPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVnLUAAUcAAgjPQ.jpg",
+					"url": "https://t.co/mq5HimiNqA",
+					"display_url": "pic.twitter.com/mq5HimiNqA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250253924180754433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250253916031185000,
+					"id_str": "1250253916031184896",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EVnLUAAUcAAgjPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVnLUAAUcAAgjPQ.jpg",
+					"url": "https://t.co/mq5HimiNqA",
+					"display_url": "pic.twitter.com/mq5HimiNqA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250253924180754433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1249901303402094600,
+		"in_reply_to_status_id_str": "1249901303402094593",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13344,
+			"friends_count": 2431,
+			"listed_count": 296,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎁4/15(수) 입고\nOurR - Desert 싸인 CD\nOurR - Swing 싸인 CD\nLambC - YOU 싸인 CD\nLambC - 기도 싸인 CD\n\n🌼카페 리카르도: 서울 마포구 서강로 78 https://t.co/mq5HimiNqA"
+	},
+	{
 		"created_at": "Wed Apr 15 03:00:37 +0000 2020",
 		"id": 1250257694390354000,
 		"id_str": "1250257694390353921",
