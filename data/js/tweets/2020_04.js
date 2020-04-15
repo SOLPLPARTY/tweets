@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 00:29:25 +0000 2020",
+		"id": 1250217598098083800,
+		"id_str": "1250219641890385922",
+		"full_text": "노래가좋아서 FB page posted our [MV Cherry Blossom] this morning, awesome~!!\n\nhttps://t.co/nMAfJsQxfe\n\nConnect with\nYoutube | https://t.co/6F6HqX9gbG\n\n#레인보우노트 #rainbownote #kpopMV #kpop #citypop #dailymusic #musikharian #เพลงประจำวัน #日常音樂 #cherryblossom \n@ruby_records",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "rainbownote",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "kpopMV",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "citypop",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "dailymusic",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"text": "musikharian",
+					"indices": [
+						201,
+						213
+					]
+				},
+				{
+					"text": "เพลงประจำวัน",
+					"indices": [
+						214,
+						227
+					]
+				},
+				{
+					"text": "日常音樂",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "cherryblossom",
+					"indices": [
+						234,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ruby_records",
+					"name": "Ruby records",
+					"id": 110930534,
+					"id_str": "110930534",
+					"indices": [
+						250,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nMAfJsQxfe",
+					"expanded_url": "https://bit.ly/34B7d0o",
+					"display_url": "bit.ly/34B7d0o",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/6F6HqX9gbG",
+					"expanded_url": "http://youtube.com/user/rubysalon",
+					"display_url": "youtube.com/user/rubysalon",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은음악 찾아요, 제보는 rubyrecords@rubyrecord.com\n#루비레코드 #인천여관X루비살롱 #루비스테이제주 #사운드바운드 #단란한쫑파티 #레이블픽 #모트 #랜드오브피스 #오리엔탈쇼커스 #레인보우노트",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8059,
+			"friends_count": 8712,
+			"listed_count": 222,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "노래가좋아서 FB page posted our [MV Cherry Blossom] this morning, awesome~!!\n\nhttps://t.co/nMAfJsQxfe\n\nConnect with\nYoutube | https://t.co/6F6HqX9gbG\n\n#레인보우노트 #rainbownote #kpopMV #kpop #citypop #dailymusic #musikharian #เพลงประจำวัน #日常音樂 #cherryblossom \n@ruby_records"
+	},
+	{
 		"created_at": "Tue Apr 14 23:13:08 +0000 2020",
 		"id": 1250200446838419500,
 		"id_str": "1250200446838419457",
