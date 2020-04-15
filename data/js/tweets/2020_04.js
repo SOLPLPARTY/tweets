@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 14:30:45 +0000 2020",
+		"id": 1248264411510263800,
+		"id_str": "1250431372998500355",
+		"full_text": "방에서 즐기는 방탄소년단 콘서트\n🔍방.방.콘🔎\n\nComing Soon!\n#방방콘 #방에서즐기는방탄소년단콘서트 https://t.co/ENnbTwMojL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방방콘",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "방에서즐기는방탄소년단콘서트",
+					"indices": [
+						45,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248261901693243400,
+					"id_str": "1248261901693243392",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK3lgUUUAA6npU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK3lgUUUAA6npU.jpg",
+					"url": "https://t.co/ENnbTwMojL",
+					"display_url": "pic.twitter.com/ENnbTwMojL",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1248264411510263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248261901693243400,
+					"id_str": "1248261901693243392",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK3lgUUUAA6npU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK3lgUUUAA6npU.jpg",
+					"url": "https://t.co/ENnbTwMojL",
+					"display_url": "pic.twitter.com/ENnbTwMojL",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1248264411510263809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "http://cafe.daum.net/BANGTAN",
+			"description": "#방탄소년단 공식 트위터 입니다.",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19812318,
+			"friends_count": 21,
+			"listed_count": 29680,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227608752095813634/gbGy_uWK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1581519710",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315068,
+		"favorite_count": 1047085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방에서 즐기는 방탄소년단 콘서트\n🔍방.방.콘🔎\n\nComing Soon!\n#방방콘 #방에서즐기는방탄소년단콘서트 https://t.co/ENnbTwMojL"
+	},
+	{
 		"created_at": "Wed Apr 15 14:07:16 +0000 2020",
 		"id": 1250425462288871400,
 		"id_str": "1250425462288871424",
