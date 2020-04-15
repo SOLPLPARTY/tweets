@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 10:58:15 +0000 2020",
+		"id": 1250364014279843800,
+		"id_str": "1250377892699213824",
+		"full_text": "⭐투표 후엔 신그프 티저 보기⭐\n그린플러그드 서울 2020을 빛내줄 신인 그린프렌즈 최종 경연이 일요일(4월 19일) 오후 8시에 진행됩니다!\n\n여러분의 투표를 통해 2020 신인 그린프렌즈가 선발되는것도 아시죠? 푸짐한 선물🎁도 가득한 신인 그린프렌즈 최종 경연 함께해요 ⁽⁽◝( ˙ ꒳ ˙ )◜⁾⁾ https://t.co/tqFjmf9w3X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250363768023867400,
+					"id_str": "1250363768023867392",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250363768023867392/pu/img/SFIq96z8ZleggFqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250363768023867392/pu/img/SFIq96z8ZleggFqf.jpg",
+					"url": "https://t.co/tqFjmf9w3X",
+					"display_url": "pic.twitter.com/tqFjmf9w3X",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1250364014279843840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250363768023867400,
+					"id_str": "1250363768023867392",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250363768023867392/pu/img/SFIq96z8ZleggFqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250363768023867392/pu/img/SFIq96z8ZleggFqf.jpg",
+					"url": "https://t.co/tqFjmf9w3X",
+					"display_url": "pic.twitter.com/tqFjmf9w3X",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1250364014279843840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50317,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250363768023867392/pu/vid/480x270/rXym3JoILXqazy3j.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250363768023867392/pu/vid/640x360/JqWJHTlq3gWlzZc5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250363768023867392/pu/pl/6XPgvSBHi1T1TAKE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250363768023867392/pu/vid/1280x720/lQIwQBTkvur017pA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12253,
+			"friends_count": 161,
+			"listed_count": 256,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐투표 후엔 신그프 티저 보기⭐\n그린플러그드 서울 2020을 빛내줄 신인 그린프렌즈 최종 경연이 일요일(4월 19일) 오후 8시에 진행됩니다!\n\n여러분의 투표를 통해 2020 신인 그린프렌즈가 선발되는것도 아시죠? 푸짐한 선물🎁도 가득한 신인 그린프렌즈 최종 경연 함께해요 ⁽⁽◝( ˙ ꒳ ˙ )◜⁾⁾ https://t.co/tqFjmf9w3X"
+	},
+	{
 		"created_at": "Wed Apr 15 09:58:15 +0000 2020",
 		"id": 1250348151354998800,
 		"id_str": "1250362793250803712",
