@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 09:58:15 +0000 2020",
+		"id": 1250348151354998800,
+		"id_str": "1250362793250803712",
+		"full_text": "To Fickle Friends, peace is [a state of mind free from disturbance, and stress &amp; anxiety, a tranquil world].\nㅤㅤ\n🇬🇧 80년대 신스팝의 청량감과 특유의 그루브가 드러나는 세련된 팝을 선보이는 피클 프렌즈\nㅤㅤ\nSparkling music, euphoria-pursuing indie pop band Fickle Friends https://t.co/iTil51lDrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250348060523163600,
+					"id_str": "1250348060523163648",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250348060523163648/pu/img/9PVr_uL034AbzVDa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250348060523163648/pu/img/9PVr_uL034AbzVDa.jpg",
+					"url": "https://t.co/iTil51lDrr",
+					"display_url": "pic.twitter.com/iTil51lDrr",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1250348151354998786/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250348060523163600,
+					"id_str": "1250348060523163648",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250348060523163648/pu/img/9PVr_uL034AbzVDa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250348060523163648/pu/img/9PVr_uL034AbzVDa.jpg",
+					"url": "https://t.co/iTil51lDrr",
+					"display_url": "pic.twitter.com/iTil51lDrr",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1250348151354998786/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 38709,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250348060523163648/pu/vid/384x480/6vOTYqJUUq6Fbcxe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250348060523163648/pu/pl/hyAAcMk5n1KUfr_f.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250348060523163648/pu/vid/320x400/Ot0dvabNx2iRllqP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1250288003869626400,
+		"in_reply_to_status_id_str": "1250288003869626369",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.6.10~6.14 Cheorwon&Seoul, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 35,
+			"listed_count": 7,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "To Fickle Friends, peace is [a state of mind free from disturbance, and stress &amp; anxiety, a tranquil world].\nㅤㅤ\n🇬🇧 80년대 신스팝의 청량감과 특유의 그루브가 드러나는 세련된 팝을 선보이는 피클 프렌즈\nㅤㅤ\nSparkling music, euphoria-pursuing indie pop band Fickle Friends https://t.co/iTil51lDrr"
+	},
+	{
+		"created_at": "Wed Apr 15 09:35:23 +0000 2020",
+		"id": 1250357038338543600,
+		"id_str": "1250357038338543617",
+		"full_text": "#딩고뮤직 #dingo_music\n[NORAE] 스텔라장 - villain l 스텔라장의 '노래' l LIVEㅣ나도 누군가에게는 빌런일 수 있어ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/CBsDQW1kF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CBsDQW1kF0",
+					"expanded_url": "https://youtu.be/i6Rb0d3f0SI",
+					"display_url": "youtu.be/i6Rb0d3f0SI",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[NORAE] 스텔라장 - villain l 스텔라장의 '노래' l LIVEㅣ나도 누군가에게는 빌런일 수 있어ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/CBsDQW1kF0"
+	},
+	{
+		"created_at": "Wed Apr 15 09:29:25 +0000 2020",
+		"id": 1250348137002094600,
+		"id_str": "1250355539202035712",
+		"full_text": "[D-1]\n\n스웨덴세탁소 '사월' Lyric Video Teaser\n🎧 2020. 04. 16. 6PM Release\n\n📽 https://t.co/cuUXlSjZYS\n\n✔ OFFICIAL FACEBOOK https://t.co/npQwLjKoAy\n✔ OFFICIAL FANCAFE https://t.co/IunDv9afnJ\n✔ INSTAGRAM https://t.co/aqyIVciIzC\n\n#스웨덴세탁소\n#쇼파르뮤직 #Sweden_Laundry https://t.co/NaBB0F52QZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "Sweden_Laundry",
+					"indices": [
+						233,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cuUXlSjZYS",
+					"expanded_url": "https://youtu.be/0ounohnSzak",
+					"display_url": "youtu.be/0ounohnSzak",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/npQwLjKoAy",
+					"expanded_url": "https://bit.ly/2y3YVBY",
+					"display_url": "bit.ly/2y3YVBY",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/IunDv9afnJ",
+					"expanded_url": "https://bit.ly/2RqEE0o",
+					"display_url": "bit.ly/2RqEE0o",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/aqyIVciIzC",
+					"expanded_url": "https://bit.ly/3b0atEV",
+					"display_url": "bit.ly/3b0atEV",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250344427542855700,
+					"id_str": "1250344427542855691",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EVododqUwAsL2Ot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVododqUwAsL2Ot.jpg",
+					"url": "https://t.co/NaBB0F52QZ",
+					"display_url": "pic.twitter.com/NaBB0F52QZ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1250348137002094592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250344427542855700,
+					"id_str": "1250344427542855691",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EVododqUwAsL2Ot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVododqUwAsL2Ot.jpg",
+					"url": "https://t.co/NaBB0F52QZ",
+					"display_url": "pic.twitter.com/NaBB0F52QZ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1250348137002094592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수, \n레터플로우, 스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7893,
+			"friends_count": 12,
+			"listed_count": 76,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]\n\n스웨덴세탁소 '사월' Lyric Video Teaser\n🎧 2020. 04. 16. 6PM Release\n\n📽 https://t.co/cuUXlSjZYS\n\n✔ OFFICIAL FACEBOOK https://t.co/npQwLjKoAy\n✔ OFFICIAL FANCAFE https://t.co/IunDv9afnJ\n✔ INSTAGRAM https://t.co/aqyIVciIzC\n\n#스웨덴세탁소\n#쇼파르뮤직 #Sweden_Laundry https://t.co/NaBB0F52QZ"
+	},
+	{
 		"created_at": "Wed Apr 15 09:09:55 +0000 2020",
 		"id": 1250350632323575800,
 		"id_str": "1250350632323575808",
