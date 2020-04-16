@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 05:58:15 +0000 2020",
+		"id": 1250652931570806800,
+		"id_str": "1250664782501498880",
+		"full_text": "신인 그린프렌즈 최종 경연 D-3,\n2015 신인 그린프렌즈였던 잔나비의 그린플러그드 서울 무대 보고 가세요!\n\n8팀의 예비 신인 그린프렌즈가 준비한 우리만의 작은 페스티벌, 4월 19일 일요일 오후 8시 네이버TV에서 함께해요🤗\n\n👉네이버TV에서 그린플러그드를 검색하세요! https://t.co/1jhVxLSbij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250652575365427200,
+					"id_str": "1250652575365427201",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250652575365427201/pu/img/mt8O1v3_v_6Jf9QB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250652575365427201/pu/img/mt8O1v3_v_6Jf9QB.jpg",
+					"url": "https://t.co/1jhVxLSbij",
+					"display_url": "pic.twitter.com/1jhVxLSbij",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1250652931570806784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250652575365427200,
+					"id_str": "1250652575365427201",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250652575365427201/pu/img/mt8O1v3_v_6Jf9QB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250652575365427201/pu/img/mt8O1v3_v_6Jf9QB.jpg",
+					"url": "https://t.co/1jhVxLSbij",
+					"display_url": "pic.twitter.com/1jhVxLSbij",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1250652931570806784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250652575365427201/pu/pl/8lqMi02Md8OL9xLL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250652575365427201/pu/vid/640x360/jVfe5ex5rBKw2t3Z.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250652575365427201/pu/vid/480x270/wsOfJT0-uXaWQ8YW.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250652575365427201/pu/vid/1280x720/QoNtRzgEhrwrPTe0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12251,
+			"friends_count": 161,
+			"listed_count": 256,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신인 그린프렌즈 최종 경연 D-3,\n2015 신인 그린프렌즈였던 잔나비의 그린플러그드 서울 무대 보고 가세요!\n\n8팀의 예비 신인 그린프렌즈가 준비한 우리만의 작은 페스티벌, 4월 19일 일요일 오후 8시 네이버TV에서 함께해요🤗\n\n👉네이버TV에서 그린플러그드를 검색하세요! https://t.co/1jhVxLSbij"
+	},
+	{
+		"created_at": "Thu Apr 16 05:41:47 +0000 2020",
+		"id": 1250645502464364500,
+		"id_str": "1250660639632171009",
+		"full_text": "○ 신청 기간 : ~ 5/20 (수)\n○ 지원 분야 : 공연 포스터 디자인, 프로필 디자인\n○ 지원 대상 : 현재 활동 중인 솔로/그룹 인디뮤지션\n○ 자세히 알아보기 👉 https://t.co/Y67scUl2I3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y67scUl2I3",
+					"expanded_url": "https://c11.kr/eqsi",
+					"display_url": "c11.kr/eqsi",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250645499322884000,
+		"in_reply_to_status_id_str": "1250645499322884097",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 2743,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "○ 신청 기간 : ~ 5/20 (수)\n○ 지원 분야 : 공연 포스터 디자인, 프로필 디자인\n○ 지원 대상 : 현재 활동 중인 솔로/그룹 인디뮤지션\n○ 자세히 알아보기 👉 https://t.co/Y67scUl2I3"
+	},
+	{
+		"created_at": "Thu Apr 16 05:41:38 +0000 2020",
+		"id": 1250645499322884000,
+		"id_str": "1250660601283706881",
+		"full_text": "[지원 사업]\n\n인디스폰서(스폰서 - Sponsor)에서 청년예술가가 겪는 다양한 어려움에 대해 공감하고 이를 해결하기 위한 일환 중 하나로 디자인 지원사업을 진행한다고 합니다😍 4∙5월 지원 분야별 2팀을 선착순으로 선정한다고 하니 많은 신청과 관심 바랍니다🤗 https://t.co/2sj9SSN2XT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250637605005217800,
+					"id_str": "1250637605005217797",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsoRo0U0AUXJb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsoRo0U0AUXJb-.jpg",
+					"url": "https://t.co/2sj9SSN2XT",
+					"display_url": "pic.twitter.com/2sj9SSN2XT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1250645499322884097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250637605005217800,
+					"id_str": "1250637605005217797",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsoRo0U0AUXJb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsoRo0U0AUXJb-.jpg",
+					"url": "https://t.co/2sj9SSN2XT",
+					"display_url": "pic.twitter.com/2sj9SSN2XT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1250645499322884097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250637690711625700,
+					"id_str": "1250637690711625729",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsoWoGU0AEdNxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsoWoGU0AEdNxk.jpg",
+					"url": "https://t.co/2sj9SSN2XT",
+					"display_url": "pic.twitter.com/2sj9SSN2XT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1250645499322884097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1352,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250637714036158500,
+					"id_str": "1250637714036158466",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsoX-_U8AIk0-L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsoX-_U8AIk0-L.jpg",
+					"url": "https://t.co/2sj9SSN2XT",
+					"display_url": "pic.twitter.com/2sj9SSN2XT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1250645499322884097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250637740711936000,
+					"id_str": "1250637740711936000",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsoZiXVAAARAA2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsoZiXVAAARAA2.jpg",
+					"url": "https://t.co/2sj9SSN2XT",
+					"display_url": "pic.twitter.com/2sj9SSN2XT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1250645499322884097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 2743,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[지원 사업]\n\n인디스폰서(스폰서 - Sponsor)에서 청년예술가가 겪는 다양한 어려움에 대해 공감하고 이를 해결하기 위한 일환 중 하나로 디자인 지원사업을 진행한다고 합니다😍 4∙5월 지원 분야별 2팀을 선착순으로 선정한다고 하니 많은 신청과 관심 바랍니다🤗 https://t.co/2sj9SSN2XT"
+	},
+	{
+		"created_at": "Thu Apr 16 05:29:25 +0000 2020",
+		"id": 1250649185486925800,
+		"id_str": "1250657526431055872",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n솔루션스, THE SOLUTIONS\n『secret RECORDING』\n\n“EP 릴리즈를 위한 레코딩 작업 중인 솔루션스의 녹음실을 방문합니다. 곧 발매될 EP 내용에 대한 힌트를 얻을 수도 있습니다! 솔루션스의 녹음 실황을 확인해보세요.”\n\n📎 https://t.co/gcRSTMgo5w https://t.co/79nBxJnznE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcRSTMgo5w",
+					"expanded_url": "http://youtu.be/PRLVUoYK2w0",
+					"display_url": "youtu.be/PRLVUoYK2w0",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250649177719050200,
+					"id_str": "1250649177719050240",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsyzQiUEAAthXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsyzQiUEAAthXg.jpg",
+					"url": "https://t.co/79nBxJnznE",
+					"display_url": "pic.twitter.com/79nBxJnznE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250649185486925824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250649177719050200,
+					"id_str": "1250649177719050240",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsyzQiUEAAthXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsyzQiUEAAthXg.jpg",
+					"url": "https://t.co/79nBxJnznE",
+					"display_url": "pic.twitter.com/79nBxJnznE",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250649185486925824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13346,
+			"friends_count": 2430,
+			"listed_count": 296,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n솔루션스, THE SOLUTIONS\n『secret RECORDING』\n\n“EP 릴리즈를 위한 레코딩 작업 중인 솔루션스의 녹음실을 방문합니다. 곧 발매될 EP 내용에 대한 힌트를 얻을 수도 있습니다! 솔루션스의 녹음 실황을 확인해보세요.”\n\n📎 https://t.co/gcRSTMgo5w https://t.co/79nBxJnznE"
+	},
+	{
 		"created_at": "Thu Apr 16 04:29:25 +0000 2020",
 		"id": 1250635405096915000,
 		"id_str": "1250642426953433088",
