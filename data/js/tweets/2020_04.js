@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 11:29:24 +0000 2020",
+		"id": 1250739896890937300,
+		"id_str": "1250748123040940032",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n램씨, LambC 『밤, 서강로 LIVE』\n\n\"운치 있는 옥상에서 펼쳐지는 램씨의 라이브. 기분 좋은 바람이 부는 봄날 밤에 어울리는 램씨의 노래와 토크를 기대해 주세요.\"\n\n📎 https://t.co/BYEYebBfLi https://t.co/CqwVcINUWY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYEYebBfLi",
+					"expanded_url": "http://youtu.be/bxwMfSAMKs4",
+					"display_url": "youtu.be/bxwMfSAMKs4",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250739810030903300,
+					"id_str": "1250739810030903297",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250739810030903297/pu/img/me0zNS8NpW5Yw6C7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250739810030903297/pu/img/me0zNS8NpW5Yw6C7.jpg",
+					"url": "https://t.co/CqwVcINUWY",
+					"display_url": "pic.twitter.com/CqwVcINUWY",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250739896890937345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250739810030903300,
+					"id_str": "1250739810030903297",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250739810030903297/pu/img/me0zNS8NpW5Yw6C7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250739810030903297/pu/img/me0zNS8NpW5Yw6C7.jpg",
+					"url": "https://t.co/CqwVcINUWY",
+					"display_url": "pic.twitter.com/CqwVcINUWY",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1250739896890937345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16404,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250739810030903297/pu/vid/480x270/qNjjF_jhxWZBSL16.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250739810030903297/pu/vid/1280x720/36eWo_itGdTpkb_k.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250739810030903297/pu/vid/640x360/5S_kpSz7oND4OkPu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250739810030903297/pu/pl/VNPhZz3JHThGfsvw.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13344,
+			"friends_count": 2430,
+			"listed_count": 296,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n램씨, LambC 『밤, 서강로 LIVE』\n\n\"운치 있는 옥상에서 펼쳐지는 램씨의 라이브. 기분 좋은 바람이 부는 봄날 밤에 어울리는 램씨의 노래와 토크를 기대해 주세요.\"\n\n📎 https://t.co/BYEYebBfLi https://t.co/CqwVcINUWY"
+	},
+	{
 		"created_at": "Thu Apr 16 10:49:22 +0000 2020",
 		"id": 1250738045776728000,
 		"id_str": "1250738045776728065",
