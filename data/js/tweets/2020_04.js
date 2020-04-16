@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 01:41:37 +0000 2020",
+		"id": 1250592644306137000,
+		"id_str": "1250600202513330178",
+		"full_text": "목요일, 오늘도 힘내자구요!💪🏻\n.\n.\n#오늘도눈치없이날씨가좋네요\n#힘내자구요\n#감사합니다\n#상상마당 https://t.co/6IfVjd3nUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘도눈치없이날씨가좋네요",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"text": "힘내자구요",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "감사합니다",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250592632952156200,
+					"id_str": "1250592632952156162",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EVr_X63VcAIMkYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVr_X63VcAIMkYX.jpg",
+					"url": "https://t.co/6IfVjd3nUT",
+					"display_url": "pic.twitter.com/6IfVjd3nUT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1250592644306137088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250592632952156200,
+					"id_str": "1250592632952156162",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EVr_X63VcAIMkYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVr_X63VcAIMkYX.jpg",
+					"url": "https://t.co/6IfVjd3nUT",
+					"display_url": "pic.twitter.com/6IfVjd3nUT",
+					"expanded_url": "https://twitter.com/SSmadang/status/1250592644306137088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18693,
+			"friends_count": 1964,
+			"listed_count": 315,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "목요일, 오늘도 힘내자구요!💪🏻\n.\n.\n#오늘도눈치없이날씨가좋네요\n#힘내자구요\n#감사합니다\n#상상마당 https://t.co/6IfVjd3nUT"
+	},
+	{
 		"created_at": "Wed Apr 15 15:29:32 +0000 2020",
 		"id": 1250446163683299300,
 		"id_str": "1250446163683299329",
