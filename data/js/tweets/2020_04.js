@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 14:49:42 +0000 2020",
+		"id": 1250261357829558300,
+		"id_str": "1250798526407208960",
+		"full_text": "#뮤지컬 #드라큘라 #DRACULA\n⠀\n𝓜/𝓥\nThe Longer I Live #김준수\n⠀\n“그대 없는 영원 허무해”\n⠀\n브로드웨이 역사상 가장 매혹적인 입맞춤\n𝐃𝐑𝐀𝐂𝐔𝐋𝐀 : 𝐓𝐡𝐞 𝐌𝐮𝐬𝐢𝐜𝐚𝐥\n⠀\nhttps://t.co/7oHvOTmwwE\n⠀\n#뮤지컬드라큘라\n2020.2.11 - 6.7 #샤롯데씨어터",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "드라큘라",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "DRACULA",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "김준수",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "뮤지컬드라큘라",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "샤롯데씨어터",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7oHvOTmwwE",
+					"expanded_url": "https://youtu.be/cNrb8rkeKuw",
+					"display_url": "youtu.be/cNrb8rkeKuw",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158706470,
+			"id_str": "158706470",
+			"name": "오디컴퍼니",
+			"screen_name": "od_musical",
+			"location": "서울시 강남구 삼성동",
+			"description": "오디컴퍼니 공식 트위터 OFFICIAL TWITTER ACCOUNT OF OD COMPANY",
+			"url": "https://t.co/CkNHAjVgbR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CkNHAjVgbR",
+							"expanded_url": "http://www.odmusical.com",
+							"display_url": "odmusical.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32263,
+			"friends_count": 4,
+			"listed_count": 355,
+			"created_at": "Wed Jun 23 11:31:59 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222719719137873920/fvFOUMvp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222719719137873920/fvFOUMvp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158706470/1580358546",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1221,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뮤지컬 #드라큘라 #DRACULA\n⠀\n𝓜/𝓥\nThe Longer I Live #김준수\n⠀\n“그대 없는 영원 허무해”\n⠀\n브로드웨이 역사상 가장 매혹적인 입맞춤\n𝐃𝐑𝐀𝐂𝐔𝐋𝐀 : 𝐓𝐡𝐞 𝐌𝐮𝐬𝐢𝐜𝐚𝐥\n⠀\nhttps://t.co/7oHvOTmwwE\n⠀\n#뮤지컬드라큘라\n2020.2.11 - 6.7 #샤롯데씨어터"
+	},
+	{
 		"created_at": "Thu Apr 16 13:03:59 +0000 2020",
 		"id": 1250771923933499400,
 		"id_str": "1250771923933499392",
