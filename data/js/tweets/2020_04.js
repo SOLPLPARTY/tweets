@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 11:29:31 +0000 2020",
+		"id": 1251102018246041600,
+		"id_str": "1251110537158709248",
+		"full_text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n아월, OurR \n『오천만의 노래방』\n\n“OurR 멤버들의 노래방 애창곡을 함께 불러보는 시간. 잠시 악기를 내려놓고 노래 실력을 뽐내는 멤버들의 색다른 모습을 확인해보세요.”\n\n📎 https://t.co/Q3LKGYvlmm https://t.co/UVwfwGDqgW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q3LKGYvlmm",
+					"expanded_url": "http://youtu.be/NCM9GGwmzSc",
+					"display_url": "youtu.be/NCM9GGwmzSc",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251101950243823600,
+					"id_str": "1251101950243823616",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251101950243823616/pu/img/hKiX5BKimD0Fb2o0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251101950243823616/pu/img/hKiX5BKimD0Fb2o0.jpg",
+					"url": "https://t.co/UVwfwGDqgW",
+					"display_url": "pic.twitter.com/UVwfwGDqgW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1251102018246041600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251101950243823600,
+					"id_str": "1251101950243823616",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251101950243823616/pu/img/hKiX5BKimD0Fb2o0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251101950243823616/pu/img/hKiX5BKimD0Fb2o0.jpg",
+					"url": "https://t.co/UVwfwGDqgW",
+					"display_url": "pic.twitter.com/UVwfwGDqgW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1251102018246041600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5122,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251101950243823616/pu/vid/360x640/lvb6GPPsxu3yE8kv.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251101950243823616/pu/vid/320x568/V5XmAolMSy8wc2xd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251101950243823616/pu/pl/bdgA73Fo2fW2Ip_U.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251101950243823616/pu/vid/720x1280/LWuJd5wDf6jfl3u-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크(DAYBREAK), 솔루션스(THE SOLUTIONS), 소란, 노리플라이, 쏜애플(THORNAPPLE), 램씨(LambC), 설(SURL), 아월(OurR)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13337,
+			"friends_count": 2429,
+			"listed_count": 296,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101138907528257537/2sNzE372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1514732649",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MPMG NEW OFFICE : OPEN CEREMONY\nON AIR PROGRAM\n\n아월, OurR \n『오천만의 노래방』\n\n“OurR 멤버들의 노래방 애창곡을 함께 불러보는 시간. 잠시 악기를 내려놓고 노래 실력을 뽐내는 멤버들의 색다른 모습을 확인해보세요.”\n\n📎 https://t.co/Q3LKGYvlmm https://t.co/UVwfwGDqgW"
+	},
+	{
 		"created_at": "Fri Apr 17 11:04:25 +0000 2020",
 		"id": 1251104220696252400,
 		"id_str": "1251104220696252422",
