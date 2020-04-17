@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 11:04:25 +0000 2020",
+		"id": 1251104220696252400,
+		"id_str": "1251104220696252422",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n[ENG] (여자)아이들 (G)I-DLE / 시그니처 (Cignature) [베뉴팝#107]\nhttps://t.co/fvjCBAWNzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fvjCBAWNzP",
+					"expanded_url": "https://youtu.be/RWxa4J0HkVI",
+					"display_url": "youtu.be/RWxa4J0HkVI",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n[ENG] (여자)아이들 (G)I-DLE / 시그니처 (Cignature) [베뉴팝#107]\nhttps://t.co/fvjCBAWNzP"
+	},
+	{
+		"created_at": "Fri Apr 17 10:44:24 +0000 2020",
+		"id": 1251099186147274800,
+		"id_str": "1251099186147274754",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n술탄 오브 더 디스코, 잠수파VS간지파 불화설?! [뮤직코리아#1]\nhttps://t.co/IvknpvOPrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IvknpvOPrk",
+					"expanded_url": "https://youtu.be/lpccPYpIZzc",
+					"display_url": "youtu.be/lpccPYpIZzc",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n술탄 오브 더 디스코, 잠수파VS간지파 불화설?! [뮤직코리아#1]\nhttps://t.co/IvknpvOPrk"
+	},
+	{
+		"created_at": "Fri Apr 17 10:41:38 +0000 2020",
+		"id": 1251084357625766000,
+		"id_str": "1251098486965059584",
+		"full_text": "[#네이버포스트 - 플레이리스트]\n\n씬디가 추천하는 이번 주 플레이리스트🎵\n사회적 거리 두기로 지쳤을 여러분을 위한 이번 주제는 “언제까지 내적댄스만 추게 할 거야”입니다! \n\n아래 링크에서 둠칫둠칫 감상해볼까요?💃\n⏩ https://t.co/8OsL20yAER https://t.co/YjYEup7YiO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버포스트",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OsL20yAER",
+					"expanded_url": "http://reurl.kr/1A17826BWT",
+					"display_url": "reurl.kr/1A17826BWT",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251077483031478300,
+					"id_str": "1251077483031478278",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVy4V6KUwAYhdET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVy4V6KUwAYhdET.jpg",
+					"url": "https://t.co/YjYEup7YiO",
+					"display_url": "pic.twitter.com/YjYEup7YiO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1251084357625765889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251077483031478300,
+					"id_str": "1251077483031478278",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVy4V6KUwAYhdET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVy4V6KUwAYhdET.jpg",
+					"url": "https://t.co/YjYEup7YiO",
+					"display_url": "pic.twitter.com/YjYEup7YiO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1251084357625765889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251077494414794800,
+					"id_str": "1251077494414794754",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVy4WkkUYAIsSSD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVy4WkkUYAIsSSD.jpg",
+					"url": "https://t.co/YjYEup7YiO",
+					"display_url": "pic.twitter.com/YjYEup7YiO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1251084357625765889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251077507014484000,
+					"id_str": "1251077507014483970",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVy4XTgUYAIZNgx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVy4XTgUYAIZNgx.jpg",
+					"url": "https://t.co/YjYEup7YiO",
+					"display_url": "pic.twitter.com/YjYEup7YiO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1251084357625765889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251077519421276200,
+					"id_str": "1251077519421276163",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EVy4YBuVAAMPPH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVy4YBuVAAMPPH2.jpg",
+					"url": "https://t.co/YjYEup7YiO",
+					"display_url": "pic.twitter.com/YjYEup7YiO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1251084357625765889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM (단, 화요일은 3:30–8:30PM) / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2843,
+			"friends_count": 2742,
+			"listed_count": 26,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#네이버포스트 - 플레이리스트]\n\n씬디가 추천하는 이번 주 플레이리스트🎵\n사회적 거리 두기로 지쳤을 여러분을 위한 이번 주제는 “언제까지 내적댄스만 추게 할 거야”입니다! \n\n아래 링크에서 둠칫둠칫 감상해볼까요?💃\n⏩ https://t.co/8OsL20yAER https://t.co/YjYEup7YiO"
+	},
+	{
+		"created_at": "Fri Apr 17 10:37:18 +0000 2020",
+		"id": 1251097396060262400,
+		"id_str": "1251097396060262400",
+		"full_text": "#MonoTree #모노트리\n[작곡가 클라쓰] 작곡가들이 음악 영화를 본다면? / 2부 \"원스\", \"스쿨오브락\" 편\nhttps://t.co/oQtDlXayk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQtDlXayk1",
+					"expanded_url": "https://youtu.be/-oOOTzOC-Jg",
+					"display_url": "youtu.be/-oOOTzOC-Jg",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MonoTree #모노트리\n[작곡가 클라쓰] 작곡가들이 음악 영화를 본다면? / 2부 \"원스\", \"스쿨오브락\" 편\nhttps://t.co/oQtDlXayk1"
+	},
+	{
+		"created_at": "Fri Apr 17 10:29:24 +0000 2020",
+		"id": 1251082117183705000,
+		"id_str": "1251095411198173190",
+		"full_text": "잠시  후 8시 450 폰서트 '봄처럼 내게 와 (Come To Me Like Spring vol.1)' https://t.co/ubyKv1TSeA @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ubyKv1TSeA",
+					"expanded_url": "https://youtu.be/wn9RjvL1e7U",
+					"display_url": "youtu.be/wn9RjvL1e7U",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#뷰티핸섬 #리썬 #데일리노트 #마리슈 #모브닝 #이찬솔 #입술을깨물다 #원셋 #선데이레스트 #엔분의일 #당기시오 #우리같은사람들 과 함께하는 슈가레코드",
+			"url": "https://t.co/MaZwhWtsct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWtsct",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 50,
+			"listed_count": 11,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시  후 8시 450 폰서트 '봄처럼 내게 와 (Come To Me Like Spring vol.1)' https://t.co/ubyKv1TSeA @YouTube 님이 공유"
+	},
+	{
 		"created_at": "Fri Apr 17 10:04:30 +0000 2020",
 		"id": 1251089141598650400,
 		"id_str": "1251089141598650369",
