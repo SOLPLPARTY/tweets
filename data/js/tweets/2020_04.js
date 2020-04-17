@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 04:29:30 +0000 2020",
+		"id": 1251004837334048800,
+		"id_str": "1251004837334048768",
+		"full_text": "#PrivateCurve #프라이빗커브\n['Rex Orange County 1st Live in Seoul' 잠정 연기 안내]\nhttps://t.co/ywTHQD4qOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrivateCurve",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ywTHQD4qOC",
+					"expanded_url": "https://bit.ly/2RLl2nQ",
+					"display_url": "bit.ly/2RLl2nQ",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PrivateCurve #프라이빗커브\n['Rex Orange County 1st Live in Seoul' 잠정 연기 안내]\nhttps://t.co/ywTHQD4qOC"
+	},
+	{
+		"created_at": "Fri Apr 17 04:29:27 +0000 2020",
+		"id": 1251003537502244900,
+		"id_str": "1251004824440709121",
+		"full_text": "📢 2020 PARK MUSIC FESTIVAL\n[모트] PMF 4차 라인업 공개!\n&lt; 6.20 SAT &gt; 모트의 공연을 찾아주세요🐤\n\nWho plays at PARK MUSIC FESTIVAL? \n\nThe Complete PMF 2020 Lineup include \"Motte\" and who's Performing at PMF is here. https://t.co/zoiBWTdRw1\n#Motte #PMF #musicfestival #어서와 #slush https://t.co/FtKYbMRS4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Motte",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "PMF",
+					"indices": [
+						231,
+						235
+					]
+				},
+				{
+					"text": "musicfestival",
+					"indices": [
+						236,
+						250
+					]
+				},
+				{
+					"text": "어서와",
+					"indices": [
+						251,
+						255
+					]
+				},
+				{
+					"text": "slush",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zoiBWTdRw1",
+					"expanded_url": "http://pmf.co.kr",
+					"display_url": "pmf.co.kr",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251000650089062400,
+					"id_str": "1251000650089062400",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVxydpJXYAAw_18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVxydpJXYAAw_18.jpg",
+					"url": "https://t.co/FtKYbMRS4g",
+					"display_url": "pic.twitter.com/FtKYbMRS4g",
+					"expanded_url": "https://twitter.com/ruby_records/status/1251003537502244865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251000650089062400,
+					"id_str": "1251000650089062400",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVxydpJXYAAw_18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVxydpJXYAAw_18.jpg",
+					"url": "https://t.co/FtKYbMRS4g",
+					"display_url": "pic.twitter.com/FtKYbMRS4g",
+					"expanded_url": "https://twitter.com/ruby_records/status/1251003537502244865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 461,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "보석같은음악 찾아요, 제보는 rubyrecords@rubyrecord.com\n#루비레코드 #인천여관X루비살롱 #루비스테이제주 #사운드바운드 #단란한쫑파티 #레이블픽 #모트 #랜드오브피스 #오리엔탈쇼커스 #레인보우노트",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8053,
+			"friends_count": 8700,
+			"listed_count": 222,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 2020 PARK MUSIC FESTIVAL\n[모트] PMF 4차 라인업 공개!\n&lt; 6.20 SAT &gt; 모트의 공연을 찾아주세요🐤\n\nWho plays at PARK MUSIC FESTIVAL? \n\nThe Complete PMF 2020 Lineup include \"Motte\" and who's Performing at PMF is here. https://t.co/zoiBWTdRw1\n#Motte #PMF #musicfestival #어서와 #slush https://t.co/FtKYbMRS4g"
+	},
+	{
 		"created_at": "Fri Apr 17 03:41:38 +0000 2020",
 		"id": 1250983011471913000,
 		"id_str": "1250992790500249601",
