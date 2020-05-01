@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 05:58:15 +0000 2020",
+		"id": 1256087419188686800,
+		"id_str": "1256100600653271041",
+		"full_text": "연휴를 더 행복하게 만들어줄 더베인의 라이브영상을 공개합니다!\n더베인의 광합성은 역대 SUM[숨∞] 중 다시 만나고 싶은 곡 1위에 올라, 이번 열 번째 SUM[숨∞]에 수록되었어요.\n\n열 번째 SUM[숨∞] BEST는 현재 피지컬앨범으로 만날 수 있는데요, 곧 음원으로도 공개되니 조금만 기다려주세요! https://t.co/yDrzeCRYEI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256087271754723300,
+					"id_str": "1256087271754723331",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256087271754723331/pu/img/SemDqQdx30kPjBUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256087271754723331/pu/img/SemDqQdx30kPjBUZ.jpg",
+					"url": "https://t.co/yDrzeCRYEI",
+					"display_url": "pic.twitter.com/yDrzeCRYEI",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1256087419188686848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256087271754723300,
+					"id_str": "1256087271754723331",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256087271754723331/pu/img/SemDqQdx30kPjBUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256087271754723331/pu/img/SemDqQdx30kPjBUZ.jpg",
+					"url": "https://t.co/yDrzeCRYEI",
+					"display_url": "pic.twitter.com/yDrzeCRYEI",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1256087419188686848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 44958,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256087271754723331/pu/pl/__gGkqgO4_uOTksu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256087271754723331/pu/vid/640x360/gdaJzLTKBVmE3n3C.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256087271754723331/pu/vid/854x480/olzScAayxJhGWReG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256087271754723331/pu/vid/480x270/_MDlfij7QZ61Rd9O.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12189,
+			"friends_count": 161,
+			"listed_count": 255,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연휴를 더 행복하게 만들어줄 더베인의 라이브영상을 공개합니다!\n더베인의 광합성은 역대 SUM[숨∞] 중 다시 만나고 싶은 곡 1위에 올라, 이번 열 번째 SUM[숨∞]에 수록되었어요.\n\n열 번째 SUM[숨∞] BEST는 현재 피지컬앨범으로 만날 수 있는데요, 곧 음원으로도 공개되니 조금만 기다려주세요! https://t.co/yDrzeCRYEI"
+	},
+	{
+		"created_at": "Fri May 01 05:30:25 +0000 2020",
+		"id": 1256093599189655600,
+		"id_str": "1256093599189655552",
+		"full_text": "#그린플러그드 #Greenplugged \n열 번째 SUM[숨∞] 더베인-광합성 LIVE\nhttps://t.co/3mF2Ai0mFt\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Greenplugged",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mF2Ai0mFt",
+					"expanded_url": "https://bit.ly/3d52hnq",
+					"display_url": "bit.ly/3d52hnq",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 365,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #Greenplugged \n열 번째 SUM[숨∞] 더베인-광합성 LIVE\nhttps://t.co/3mF2Ai0mFt\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Fri May 01 05:29:31 +0000 2020",
+		"id": 1256085942332469200,
+		"id_str": "1256093370537201664",
+		"full_text": "[📺] 좋아하면 울림🔔\n\n울림 아티스트들의 봄을 부르는 울림🌸\n▶ https://t.co/qyQgRi6lMJ\n\n#Woollim #울림 \n#INFINITE #인피니트 #Lovelyz #러블리즈 #GoldenChild #골든차일드\n#좋아하면울림 https://t.co/wUtYIUaJUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Woollim",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "울림",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "좋아하면울림",
+					"indices": [
+						127,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyQgRi6lMJ",
+					"expanded_url": "https://youtu.be/1lTIU5UhI-Q",
+					"display_url": "youtu.be/1lTIU5UhI-Q",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256083213614583800,
+					"id_str": "1256083213614583809",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EW6BBxvUEAESEnw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW6BBxvUEAESEnw.jpg",
+					"url": "https://t.co/wUtYIUaJUl",
+					"display_url": "pic.twitter.com/wUtYIUaJUl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1256085942332469250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256083213614583800,
+					"id_str": "1256083213614583809",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EW6BBxvUEAESEnw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW6BBxvUEAESEnw.jpg",
+					"url": "https://t.co/wUtYIUaJUl",
+					"display_url": "pic.twitter.com/wUtYIUaJUl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1256085942332469250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414465,
+			"friends_count": 9,
+			"listed_count": 2161,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1587364006",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1468,
+		"favorite_count": 2478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] 좋아하면 울림🔔\n\n울림 아티스트들의 봄을 부르는 울림🌸\n▶ https://t.co/qyQgRi6lMJ\n\n#Woollim #울림 \n#INFINITE #인피니트 #Lovelyz #러블리즈 #GoldenChild #골든차일드\n#좋아하면울림 https://t.co/wUtYIUaJUl"
+	},
+	{
 		"created_at": "Fri May 01 04:29:32 +0000 2020",
 		"id": 1256074414707228700,
 		"id_str": "1256078274616340481",
