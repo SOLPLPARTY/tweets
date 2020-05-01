@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 22:48:21 +0000 2020",
+		"id": 1256237171813441500,
+		"id_str": "1256354801991864320",
+		"full_text": "⠀IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\nMoving Teaser\n⠀\n#IUxSUGA #아이유 #eight #에잇 https://t.co/pwfVrYtNjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IUxSUGA",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "eight",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "에잇",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256237119359590400,
+					"id_str": "1256237119359590401",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"url": "https://t.co/pwfVrYtNjs",
+					"display_url": "pic.twitter.com/pwfVrYtNjs",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1256237171813441536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256237119359590400,
+					"id_str": "1256237119359590401",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256237119359590401/pu/img/PdVS0FXFYx0dQ5sj.jpg",
+					"url": "https://t.co/pwfVrYtNjs",
+					"display_url": "pic.twitter.com/pwfVrYtNjs",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1256237171813441536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 17792,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/478x270/d7HqD86P5lRPsDWS.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/852x480/rCduBBzvvK2iu6cr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/vid/638x360/xkX5S5JLNois4u4B.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256237119359590401/pu/pl/e9ydvF06X__A8NXa.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460063,
+			"friends_count": 0,
+			"listed_count": 1099,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196356951333957632/kxrWyUzJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196356951333957632/kxrWyUzJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124463,
+		"favorite_count": 220134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⠀IU Digital Single\n&lt;에잇(Prod. &amp; Feat. SUGA of BTS)&gt;\nMoving Teaser\n⠀\n#IUxSUGA #아이유 #eight #에잇 https://t.co/pwfVrYtNjs"
+	},
+	{
 		"created_at": "Fri May 01 15:29:33 +0000 2020",
 		"id": 1256244374566043600,
 		"id_str": "1256244374566043648",
