@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 04:29:32 +0000 2020",
+		"id": 1256074414707228700,
+		"id_str": "1256078274616340481",
+		"full_text": "어제 유정목 '목요일을 부탁해' 공연에 와주신 모든 분들 감사합니다. \n즐거운 시간이셨길 바래요. 🙏\n재미공작소 여러분 열심히 준비해 주셔서 감사합니다!! 💕💕 https://t.co/qEuxGl5pA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256074381286969300,
+					"id_str": "1256074381286969345",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EW54_qwUEAEhrHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW54_qwUEAEhrHF.jpg",
+					"url": "https://t.co/qEuxGl5pA6",
+					"display_url": "pic.twitter.com/qEuxGl5pA6",
+					"expanded_url": "https://twitter.com/orm_ent/status/1256074414707228673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256074381286969300,
+					"id_str": "1256074381286969345",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EW54_qwUEAEhrHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW54_qwUEAEhrHF.jpg",
+					"url": "https://t.co/qEuxGl5pA6",
+					"display_url": "pic.twitter.com/qEuxGl5pA6",
+					"expanded_url": "https://twitter.com/orm_ent/status/1256074414707228673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256074381278670800,
+					"id_str": "1256074381278670849",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EW54_quVcAEAMrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW54_quVcAEAMrb.jpg",
+					"url": "https://t.co/qEuxGl5pA6",
+					"display_url": "pic.twitter.com/qEuxGl5pA6",
+					"expanded_url": "https://twitter.com/orm_ent/status/1256074414707228673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256074381282832400,
+					"id_str": "1256074381282832384",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EW54_qvU8AAO3hU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW54_qvU8AAO3hU.jpg",
+					"url": "https://t.co/qEuxGl5pA6",
+					"display_url": "pic.twitter.com/qEuxGl5pA6",
+					"expanded_url": "https://twitter.com/orm_ent/status/1256074414707228673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1256074381278605300,
+					"id_str": "1256074381278605313",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EW54_quUcAEP8ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW54_quUcAEP8ib.jpg",
+					"url": "https://t.co/qEuxGl5pA6",
+					"display_url": "pic.twitter.com/qEuxGl5pA6",
+					"expanded_url": "https://twitter.com/orm_ent/status/1256074414707228673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 726,
+			"friends_count": 337,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1587958427",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 유정목 '목요일을 부탁해' 공연에 와주신 모든 분들 감사합니다. \n즐거운 시간이셨길 바래요. 🙏\n재미공작소 여러분 열심히 준비해 주셔서 감사합니다!! 💕💕 https://t.co/qEuxGl5pA6"
+	},
+	{
 		"created_at": "Fri May 01 03:41:38 +0000 2020",
 		"id": 1256057048921329700,
 		"id_str": "1256066219846885376",
