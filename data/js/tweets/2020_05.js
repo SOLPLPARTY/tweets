@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 13:53:36 +0000 2020",
+		"id": 1256027322940981200,
+		"id_str": "1256582616611844096",
+		"full_text": "🌼GW期間限定『赤頬思春期(BOL4)JAPAN DEBUT PREMIUM SHOWCASE』無料プレミア配信決定❗\n\n⏰配信期間\n2020年5月2日(土)20:00～5月6日(水)23時59分まで視聴可能\n\n⏩https://t.co/9mCh8W24BR\n\nGWぜひご自宅で赤頬思春期の歌声に癒されて下さい♥️\n\n#赤頬思春期 #BOL4\n#StayHome https://t.co/7hAds6YaD3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "赤頬思春期",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "StayHome",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9mCh8W24BR",
+					"expanded_url": "https://youtu.be/1sE71R5lBSQ",
+					"display_url": "youtu.be/1sE71R5lBSQ",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256027317953953800,
+					"id_str": "1256027317953953793",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EW5OMOLVAAElV-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW5OMOLVAAElV-9.jpg",
+					"url": "https://t.co/7hAds6YaD3",
+					"display_url": "pic.twitter.com/7hAds6YaD3",
+					"expanded_url": "https://twitter.com/bol4_japan/status/1256027322940981250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256027317953953800,
+					"id_str": "1256027317953953793",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EW5OMOLVAAElV-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW5OMOLVAAElV-9.jpg",
+					"url": "https://t.co/7hAds6YaD3",
+					"display_url": "pic.twitter.com/7hAds6YaD3",
+					"expanded_url": "https://twitter.com/bol4_japan/status/1256027322940981250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1007190056816136200,
+			"id_str": "1007190056816136192",
+			"name": "赤頬思春期(BOL4) JAPAN OFFICIAL",
+			"screen_name": "bol4_japan",
+			"location": "",
+			"description": "“音源女王”赤頬思春期(BOL4)の日本オフィシャルTwitterです。/ “loBoly JAPAN”FC会員受付中📢",
+			"url": "https://t.co/z9djVwgsPd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z9djVwgsPd",
+							"expanded_url": "https://bol4.jp",
+							"display_url": "bol4.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13640,
+			"friends_count": 4,
+			"listed_count": 62,
+			"created_at": "Thu Jun 14 09:16:37 +0000 2018",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253519472259821569/Bm6EmmWK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253519472259821569/Bm6EmmWK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007190056816136192/1587697306",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 358,
+		"favorite_count": 1482,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🌼GW期間限定『赤頬思春期(BOL4)JAPAN DEBUT PREMIUM SHOWCASE』無料プレミア配信決定❗\n\n⏰配信期間\n2020年5月2日(土)20:00～5月6日(水)23時59分まで視聴可能\n\n⏩https://t.co/9mCh8W24BR\n\nGWぜひご自宅で赤頬思春期の歌声に癒されて下さい♥️\n\n#赤頬思春期 #BOL4\n#StayHome https://t.co/7hAds6YaD3"
+	},
+	{
 		"created_at": "Sat May 02 12:14:54 +0000 2020",
 		"id": 1256412693960904700,
 		"id_str": "1256557776165191681",
