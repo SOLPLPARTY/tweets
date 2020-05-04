@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 11:41:47 +0000 2020",
+		"id": 1257265269308702700,
+		"id_str": "1257274218657579008",
+		"full_text": "5/16(sat) [clubFF - Faint]\n바투 Batu\n묘리 Myori\n뉴클리어이디엇츠 Nuclear idiots\n아디오스오디오 Adios audio\n피해의식 Victim mentality\n+1 more(5/10 open)\n\nstart 8:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/nLWofMJNLP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257265259850502100,
+					"id_str": "1257265259850502144",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK0F7HUEAAFXwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK0F7HUEAAFXwt.jpg",
+					"url": "https://t.co/nLWofMJNLP",
+					"display_url": "pic.twitter.com/nLWofMJNLP",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257265269308702720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257265259850502100,
+					"id_str": "1257265259850502144",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK0F7HUEAAFXwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK0F7HUEAAFXwt.jpg",
+					"url": "https://t.co/nLWofMJNLP",
+					"display_url": "pic.twitter.com/nLWofMJNLP",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257265269308702720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257265259846357000,
+					"id_str": "1257265259846356992",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EXK0F7GU0AAZcYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXK0F7GU0AAZcYA.jpg",
+					"url": "https://t.co/nLWofMJNLP",
+					"display_url": "pic.twitter.com/nLWofMJNLP",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257265269308702720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6497,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/16(sat) [clubFF - Faint]\n바투 Batu\n묘리 Myori\n뉴클리어이디엇츠 Nuclear idiots\n아디오스오디오 Adios audio\n피해의식 Victim mentality\n+1 more(5/10 open)\n\nstart 8:00pm\n*공연 순서는 추후 공개됩니다. https://t.co/nLWofMJNLP"
+	},
+	{
+		"created_at": "Mon May 04 11:41:41 +0000 2020",
+		"id": 1257263065868824600,
+		"id_str": "1257274193135230977",
+		"full_text": "5/6(wed) [clubFF - Live bands]\n하다. 데이글로우. 더 윌리엄즈. 로우하이로우\n\nstart 8:00pm https://t.co/rb16XsfwCD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257263058340085800,
+					"id_str": "1257263058340085760",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKyFx2VAAA23rF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKyFx2VAAA23rF.jpg",
+					"url": "https://t.co/rb16XsfwCD",
+					"display_url": "pic.twitter.com/rb16XsfwCD",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257263065868824576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257263058340085800,
+					"id_str": "1257263058340085760",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKyFx2VAAA23rF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKyFx2VAAA23rF.jpg",
+					"url": "https://t.co/rb16XsfwCD",
+					"display_url": "pic.twitter.com/rb16XsfwCD",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257263065868824576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6497,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/6(wed) [clubFF - Live bands]\n하다. 데이글로우. 더 윌리엄즈. 로우하이로우\n\nstart 8:00pm https://t.co/rb16XsfwCD"
+	},
+	{
+		"created_at": "Mon May 04 11:41:38 +0000 2020",
+		"id": 1257262442297454600,
+		"id_str": "1257274180153815040",
+		"full_text": "5/5(tue) [clubFF - Happy children's day]\n\nLive Bands : 6pm - 9:40pm\n\n후디니 Houdini\n틸더 Tilde\n웨이브투어스 Wave to earth\n플래그 Flag\n잭킹콩 Jackingcong\n\n*공연 순서는 위와 같습니다. https://t.co/Eoii2LeFGM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257262431899811800,
+					"id_str": "1257262431899811841",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKxhULVAAEh7EL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKxhULVAAEh7EL.jpg",
+					"url": "https://t.co/Eoii2LeFGM",
+					"display_url": "pic.twitter.com/Eoii2LeFGM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257262442297454595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257262431899811800,
+					"id_str": "1257262431899811841",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKxhULVAAEh7EL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKxhULVAAEh7EL.jpg",
+					"url": "https://t.co/Eoii2LeFGM",
+					"display_url": "pic.twitter.com/Eoii2LeFGM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257262442297454595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257262431891386400,
+					"id_str": "1257262431891386373",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EXKxhUJUcAUdprK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXKxhUJUcAUdprK.jpg",
+					"url": "https://t.co/Eoii2LeFGM",
+					"display_url": "pic.twitter.com/Eoii2LeFGM",
+					"expanded_url": "https://twitter.com/clubFF_/status/1257262442297454595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6497,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/5(tue) [clubFF - Happy children's day]\n\nLive Bands : 6pm - 9:40pm\n\n후디니 Houdini\n틸더 Tilde\n웨이브투어스 Wave to earth\n플래그 Flag\n잭킹콩 Jackingcong\n\n*공연 순서는 위와 같습니다. https://t.co/Eoii2LeFGM"
+	},
+	{
 		"created_at": "Mon May 04 11:03:24 +0000 2020",
 		"id": 1257264561209688000,
 		"id_str": "1257264561209688064",
