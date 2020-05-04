@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 07:29:25 +0000 2020",
+		"id": 1257206135246864400,
+		"id_str": "1257210707021631488",
+		"full_text": "#모트 #Motte #시차 #새앨범\nThere was a live clip shoot for the new single 'Time Lag' scheduled to be released at noon on May 8.\n\n5월 8일 정오에 발매 예정인 새로운 싱글 ‘시차’를 위한 라이브 클립 촬영이 있었어요\n\nPlease wait for the new single 'Time Lag' and related Motte contents! https://t.co/GNzOFoBkz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Motte",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "시차",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257205764545843200,
+					"id_str": "1257205764545843201",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJ9-11UEAEzM19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXJ9-11UEAEzM19.jpg",
+					"url": "https://t.co/GNzOFoBkz3",
+					"display_url": "pic.twitter.com/GNzOFoBkz3",
+					"expanded_url": "https://twitter.com/ruby_records/status/1257206135246864384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257205764545843200,
+					"id_str": "1257205764545843201",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJ9-11UEAEzM19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXJ9-11UEAEzM19.jpg",
+					"url": "https://t.co/GNzOFoBkz3",
+					"display_url": "pic.twitter.com/GNzOFoBkz3",
+					"expanded_url": "https://twitter.com/ruby_records/status/1257206135246864384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8029,
+			"friends_count": 8656,
+			"listed_count": 221,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#모트 #Motte #시차 #새앨범\nThere was a live clip shoot for the new single 'Time Lag' scheduled to be released at noon on May 8.\n\n5월 8일 정오에 발매 예정인 새로운 싱글 ‘시차’를 위한 라이브 클립 촬영이 있었어요\n\nPlease wait for the new single 'Time Lag' and related Motte contents! https://t.co/GNzOFoBkz3"
+	},
+	{
 		"created_at": "Mon May 04 07:11:47 +0000 2020",
 		"id": 1257206270290874400,
 		"id_str": "1257206270290874368",
