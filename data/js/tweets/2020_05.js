@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 14:58:15 +0000 2020",
+		"id": 1257678189708656600,
+		"id_str": "1257686048747864075",
+		"full_text": "🚨BREAKING🚨\n\nRadio 1's Big Weekend 2020 is BACK!\n\nThis year's festival is happening on air &amp; on BBC Sounds with brand new live sets from:\n@samsmith \n@BiffyClyro \n@AnneMarie \n@YoungTandBugsey \n@RitaOra \n&amp; more to be announced soon👀\n\n#BigWeekend\nMore here: https://t.co/zzOGIkZI8e https://t.co/fnUD4GZZHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigWeekend",
+					"indices": [
+						239,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samsmith",
+					"name": "samsmith",
+					"id": 457554412,
+					"id_str": "457554412",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"screen_name": "BiffyClyro",
+					"name": "Biffy Clyro",
+					"id": 36777272,
+					"id_str": "36777272",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "AnneMarie",
+					"name": "ANNE-MARIE",
+					"id": 339755472,
+					"id_str": "339755472",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"screen_name": "YoungTandBugsey",
+					"name": "Young T & Bugsey",
+					"id": 792031639832502300,
+					"id_str": "792031639832502272",
+					"indices": [
+						177,
+						193
+					]
+				},
+				{
+					"screen_name": "RitaOra",
+					"name": "Rita Ora ⚡️",
+					"id": 27725199,
+					"id_str": "27725199",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zzOGIkZI8e",
+					"expanded_url": "https://bbc.in/35ztAnm",
+					"display_url": "bbc.in/35ztAnm",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257641319608000500,
+					"id_str": "1257641319608000512",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQKHe4WoAA8Yin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQKHe4WoAA8Yin.jpg",
+					"url": "https://t.co/fnUD4GZZHa",
+					"display_url": "pic.twitter.com/fnUD4GZZHa",
+					"expanded_url": "https://twitter.com/BBCRadio1PR/status/1257678189708656640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257641319608000500,
+					"id_str": "1257641319608000512",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQKHe4WoAA8Yin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQKHe4WoAA8Yin.jpg",
+					"url": "https://t.co/fnUD4GZZHa",
+					"display_url": "pic.twitter.com/fnUD4GZZHa",
+					"expanded_url": "https://twitter.com/BBCRadio1PR/status/1257678189708656640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20050520,
+			"id_str": "20050520",
+			"name": "BBC Radio 1, 1Xtra & Asian Network Press Office",
+			"screen_name": "BBCRadio1PR",
+			"location": "London, UK",
+			"description": "Official Twitter feed of the publicity team for @BBCR1 @1Xtra @bbcasiannetwork and @bbcintroducing 🎧 ✨\n \nPress enquiries 👉 R1PressOffice@bbc.co.uk",
+			"url": "https://t.co/CMZ2fskb85",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMZ2fskb85",
+							"expanded_url": "http://www.instagram.com/bbcradio1pr",
+							"display_url": "instagram.com/bbcradio1pr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50457,
+			"friends_count": 1335,
+			"listed_count": 665,
+			"created_at": "Wed Feb 04 12:58:36 +0000 2009",
+			"favourites_count": 771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041713319537770496/B_es1u_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041713319537770496/B_es1u_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20050520/1586157460",
+			"profile_link_color": "F54242",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨BREAKING🚨\n\nRadio 1's Big Weekend 2020 is BACK!\n\nThis year's festival is happening on air &amp; on BBC Sounds with brand new live sets from:\n@samsmith \n@BiffyClyro \n@AnneMarie \n@YoungTandBugsey \n@RitaOra \n&amp; more to be announced soon👀\n\n#BigWeekend\nMore here: https://t.co/zzOGIkZI8e https://t.co/fnUD4GZZHa"
+	},
+	{
 		"created_at": "Tue May 05 11:29:25 +0000 2020",
 		"id": 1257620415049941000,
 		"id_str": "1257633493745643522",
