@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 11:29:25 +0000 2020",
+		"id": 1257620415049941000,
+		"id_str": "1257633493745643522",
+		"full_text": "#모트랜선라이브 #모트 #MotteYoutubeLive\n[모트] 신곡 \"시차\" 발매기념 랜선라이브\n5월 8일 정오 신곡 시차 발매 기념\n랜선 라이브 많은 기대 부탁드려요💖\n2020 .05.12 PM 8:00 [YouTube : 루비튜브]\n\nMotte New Single Release Youtube Live. Plz check Rubytube https://t.co/UamI7Vi635",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트랜선라이브",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "MotteYoutubeLive",
+					"indices": [
+						13,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257620407231737900,
+					"id_str": "1257620407231737856",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP3GONUcAAa2Kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXP3GONUcAAa2Kv.jpg",
+					"url": "https://t.co/UamI7Vi635",
+					"display_url": "pic.twitter.com/UamI7Vi635",
+					"expanded_url": "https://twitter.com/ruby_records/status/1257620415049940992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257620407231737900,
+					"id_str": "1257620407231737856",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP3GONUcAAa2Kv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXP3GONUcAAa2Kv.jpg",
+					"url": "https://t.co/UamI7Vi635",
+					"display_url": "pic.twitter.com/UamI7Vi635",
+					"expanded_url": "https://twitter.com/ruby_records/status/1257620415049940992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8010,
+			"friends_count": 8654,
+			"listed_count": 221,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#모트랜선라이브 #모트 #MotteYoutubeLive\n[모트] 신곡 \"시차\" 발매기념 랜선라이브\n5월 8일 정오 신곡 시차 발매 기념\n랜선 라이브 많은 기대 부탁드려요💖\n2020 .05.12 PM 8:00 [YouTube : 루비튜브]\n\nMotte New Single Release Youtube Live. Plz check Rubytube https://t.co/UamI7Vi635"
+	},
+	{
 		"created_at": "Tue May 05 10:29:54 +0000 2020",
 		"id": 1257605902644834300,
 		"id_str": "1257618518306164736",
