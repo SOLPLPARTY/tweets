@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 10:41:38 +0000 2020",
+		"id": 1257971787851325400,
+		"id_str": "1257983855505612802",
+		"full_text": "[2020 씬디스케치 랜선라이브]\n\n오늘 저녁 8시!😍 2020 씬디스케치 랜선라이브의 첫 번째 주자, ✨좋아서하는밴드✨의 리허설 현장입니다💖\n\n▶ https://t.co/ilkRJxplbW\n\n열심히 참여해주시는 분들께는 스타벅스 기프트콘(아이스 아메리카노☕)도 쏜다고 합니다!\n\n여러분~ 조금 있다 봐요~ 👋 https://t.co/GIp0hXZ3KO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ilkRJxplbW",
+					"expanded_url": "http://youtube.com/joabandkorea",
+					"display_url": "youtube.com/joabandkorea",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257971773028462600,
+					"id_str": "1257971773028462596",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EXU2qZzUcAQNobR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXU2qZzUcAQNobR.jpg",
+					"url": "https://t.co/GIp0hXZ3KO",
+					"display_url": "pic.twitter.com/GIp0hXZ3KO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1257971787851325446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257971773028462600,
+					"id_str": "1257971773028462596",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EXU2qZzUcAQNobR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXU2qZzUcAQNobR.jpg",
+					"url": "https://t.co/GIp0hXZ3KO",
+					"display_url": "pic.twitter.com/GIp0hXZ3KO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1257971787851325446/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826,
+			"friends_count": 2727,
+			"listed_count": 25,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 씬디스케치 랜선라이브]\n\n오늘 저녁 8시!😍 2020 씬디스케치 랜선라이브의 첫 번째 주자, ✨좋아서하는밴드✨의 리허설 현장입니다💖\n\n▶ https://t.co/ilkRJxplbW\n\n열심히 참여해주시는 분들께는 스타벅스 기프트콘(아이스 아메리카노☕)도 쏜다고 합니다!\n\n여러분~ 조금 있다 봐요~ 👋 https://t.co/GIp0hXZ3KO"
+	},
+	{
 		"created_at": "Wed May 06 10:12:50 +0000 2020",
 		"id": 1257976608562065400,
 		"id_str": "1257976608562065410",
