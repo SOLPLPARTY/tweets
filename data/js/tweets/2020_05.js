@@ -1,6 +1,909 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 13:09:28 +0000 2020",
+		"id": 1258021059275755500,
+		"id_str": "1258021059275755521",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |어둠의 차이가 아니라, 우리가 다 빛나고 있다는 것 | '그리 대단치도 않은 것들을 사랑하려'\nhttps://t.co/ngZFQAVgfy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ngZFQAVgfy",
+					"expanded_url": "https://youtu.be/8fsPPhonAFo",
+					"display_url": "youtu.be/8fsPPhonAFo",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n[98초페이지📖] |어둠의 차이가 아니라, 우리가 다 빛나고 있다는 것 | '그리 대단치도 않은 것들을 사랑하려'\nhttps://t.co/ngZFQAVgfy"
+	},
+	{
+		"created_at": "Wed May 06 12:51:53 +0000 2020",
+		"id": 1258016634633060400,
+		"id_str": "1258016634633060352",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 이글루(igloo) - 시(時) (Fine)\nhttps://t.co/VEDHJcVcVD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEDHJcVcVD",
+					"expanded_url": "https://youtu.be/EY-_iHKakns",
+					"display_url": "youtu.be/EY-_iHKakns",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 이글루(igloo) - 시(時) (Fine)\nhttps://t.co/VEDHJcVcVD"
+	},
+	{
+		"created_at": "Wed May 06 12:41:41 +0000 2020",
+		"id": 1258002150312931300,
+		"id_str": "1258014068281094144",
+		"full_text": "5/9(sat) [clubFF - Lust for life]\nLive Bands : 7pm - 12:15am\n러블레스 Lubless\n피싱걸스 Fishingirls\n썬더스 Thunders\n별보라 https://t.co/JSir3WJRxO.Ra\n꼬리물기 Gorymurgy\n더 바이퍼스 The Vipers\n크랙샷 Crackshot\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/DNxXQdkXMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSir3WJRxO",
+					"expanded_url": "http://Byeol.Bo",
+					"display_url": "Byeol.Bo",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258002139239944200,
+					"id_str": "1258002139239944196",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVSR8wUEAQemjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVSR8wUEAQemjy.jpg",
+					"url": "https://t.co/DNxXQdkXMi",
+					"display_url": "pic.twitter.com/DNxXQdkXMi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258002150312931328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258002139239944200,
+					"id_str": "1258002139239944196",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVSR8wUEAQemjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVSR8wUEAQemjy.jpg",
+					"url": "https://t.co/DNxXQdkXMi",
+					"display_url": "pic.twitter.com/DNxXQdkXMi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258002150312931328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258002139244191700,
+					"id_str": "1258002139244191744",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVSR8xU4AASMRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVSR8xU4AASMRQ.jpg",
+					"url": "https://t.co/DNxXQdkXMi",
+					"display_url": "pic.twitter.com/DNxXQdkXMi",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258002150312931328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6472,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/9(sat) [clubFF - Lust for life]\nLive Bands : 7pm - 12:15am\n러블레스 Lubless\n피싱걸스 Fishingirls\n썬더스 Thunders\n별보라 https://t.co/JSir3WJRxO.Ra\n꼬리물기 Gorymurgy\n더 바이퍼스 The Vipers\n크랙샷 Crackshot\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/DNxXQdkXMi"
+	},
+	{
+		"created_at": "Wed May 06 12:41:38 +0000 2020",
+		"id": 1258000886263017500,
+		"id_str": "1258014055173951488",
+		"full_text": "5/8(fri) [clubFF - I feel free]\nLive Bands : 8pm-12:15am\n사막꽃 Desert flower\n루아멜 Luamel\n애니멀다이버스 Animal divers\n피에타 Pieta\n텔레플라이 Telefly\n호랑이아들들 sons of tiger\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/uNrkyJhWLL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258000874745417700,
+					"id_str": "1258000874745417735",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVRIWJU0AcciaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVRIWJU0AcciaT.jpg",
+					"url": "https://t.co/uNrkyJhWLL",
+					"display_url": "pic.twitter.com/uNrkyJhWLL",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258000886263017472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258000874745417700,
+					"id_str": "1258000874745417735",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVRIWJU0AcciaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVRIWJU0AcciaT.jpg",
+					"url": "https://t.co/uNrkyJhWLL",
+					"display_url": "pic.twitter.com/uNrkyJhWLL",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258000886263017472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258000874741227500,
+					"id_str": "1258000874741227522",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVRIWIU4AIJxHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVRIWIU4AIJxHW.jpg",
+					"url": "https://t.co/uNrkyJhWLL",
+					"display_url": "pic.twitter.com/uNrkyJhWLL",
+					"expanded_url": "https://twitter.com/clubFF_/status/1258000886263017472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6472,
+			"friends_count": 7,
+			"listed_count": 100,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/8(fri) [clubFF - I feel free]\nLive Bands : 8pm-12:15am\n사막꽃 Desert flower\n루아멜 Luamel\n애니멀다이버스 Animal divers\n피에타 Pieta\n텔레플라이 Telefly\n호랑이아들들 sons of tiger\n*공연 순서는 위와 같습니다(상황에 따라 변경될 수 있습니다) https://t.co/uNrkyJhWLL"
+	},
+	{
+		"created_at": "Wed May 06 12:32:22 +0000 2020",
+		"id": 1258008264949682200,
+		"id_str": "1258011725145583616",
+		"full_text": "5·18민주화운동 40주년,\n무관객‧온라인 생중계로 기념합니다🙌\n\n[5·18 40주년 #오월평화페스티벌]\n▪ 40주년 #기념공연 ‘오월음악극’, ‘오월음악회’, ‘오월 무용’ \n▪ 5·18 #문학낭독 ‘오월낭독회’\n▪ 5·18 #영화제 ‘시네광주 1980’ 등\n🔎프로그램 편성표 등 자세히:　https://t.co/2Rs5rwOEO7 https://t.co/Kmrhs7rIrW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오월평화페스티벌",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "기념공연",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "문학낭독",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "영화제",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Rs5rwOEO7",
+					"expanded_url": "http://mediahub.seoul.go.kr/archives/1279575",
+					"display_url": "mediahub.seoul.go.kr/archives/12795…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258008197811429400,
+					"id_str": "1258008197811429378",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVXymsUYAIdaIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVXymsUYAIdaIo.jpg",
+					"url": "https://t.co/Kmrhs7rIrW",
+					"display_url": "pic.twitter.com/Kmrhs7rIrW",
+					"expanded_url": "https://twitter.com/seoulmania/status/1258008264949682176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258008197811429400,
+					"id_str": "1258008197811429378",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVXymsUYAIdaIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVXymsUYAIdaIo.jpg",
+					"url": "https://t.co/Kmrhs7rIrW",
+					"display_url": "pic.twitter.com/Kmrhs7rIrW",
+					"expanded_url": "https://twitter.com/seoulmania/status/1258008264949682176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 636,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93794912,
+			"id_str": "93794912",
+			"name": "서울시",
+			"screen_name": "seoulmania",
+			"location": "대한민국 서울",
+			"description": "서울특별시에서 운영하는 대표 트위터입니다. 시민분들과 서울의 소식을 함께 나누고자 합니다. \"내 삶이 행복한 서울, 시민이 주인인 서울\"!!",
+			"url": "https://t.co/VBZ8BW24xq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VBZ8BW24xq",
+							"expanded_url": "http://www.seoul.go.kr",
+							"display_url": "seoul.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227183,
+			"friends_count": 48632,
+			"listed_count": 1669,
+			"created_at": "Tue Dec 01 05:10:38 +0000 2009",
+			"favourites_count": 1294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93794912/1587967621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5·18민주화운동 40주년,\n무관객‧온라인 생중계로 기념합니다🙌\n\n[5·18 40주년 #오월평화페스티벌]\n▪ 40주년 #기념공연 ‘오월음악극’, ‘오월음악회’, ‘오월 무용’ \n▪ 5·18 #문학낭독 ‘오월낭독회’\n▪ 5·18 #영화제 ‘시네광주 1980’ 등\n🔎프로그램 편성표 등 자세히:　https://t.co/2Rs5rwOEO7 https://t.co/Kmrhs7rIrW"
+	},
+	{
 		"created_at": "Wed May 06 11:41:41 +0000 2020",
 		"id": 1257990228704284700,
 		"id_str": "1257998969919156225",
