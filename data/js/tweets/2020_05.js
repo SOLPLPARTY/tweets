@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 14:04:56 +0000 2020",
+		"id": 1257943181125210000,
+		"id_str": "1258035020272332802",
+		"full_text": "[Teaser]\n\n볼빨간사춘기 - 나비와 고양이 (Feat. 백현(BAEKHYUN))\n2020.05.07 (THU) 6PM Pre-Release\n\n📽 https://t.co/Osx7lKedMA\n\n#볼빨간사춘기 #나비와고양이 #사춘기집2 #꽃본나비 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/rKJqPVjr3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "나비와고양이",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Osx7lKedMA",
+					"expanded_url": "https://youtu.be/JJtwERZLL08",
+					"display_url": "youtu.be/JJtwERZLL08",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257927301615849500,
+					"id_str": "1257927301615849472",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"url": "https://t.co/rKJqPVjr3e",
+					"display_url": "pic.twitter.com/rKJqPVjr3e",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1257943181125210116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257927301615849500,
+					"id_str": "1257927301615849472",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXUON04UEAA0LGa.jpg",
+					"url": "https://t.co/rKJqPVjr3e",
+					"display_url": "pic.twitter.com/rKJqPVjr3e",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1257943181125210116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27577,
+			"friends_count": 2,
+			"listed_count": 201,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15328,
+		"favorite_count": 13375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser]\n\n볼빨간사춘기 - 나비와 고양이 (Feat. 백현(BAEKHYUN))\n2020.05.07 (THU) 6PM Pre-Release\n\n📽 https://t.co/Osx7lKedMA\n\n#볼빨간사춘기 #나비와고양이 #사춘기집2 #꽃본나비 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/rKJqPVjr3e"
+	},
+	{
+		"created_at": "Wed May 06 14:04:53 +0000 2020",
+		"id": 1257950836702843000,
+		"id_str": "1258035006112321537",
+		"full_text": "[Teaser] #BOL4(#볼빨간사춘기) - Leo(나비와 고양이) (feat. #BAEKHYUN(#백현)) https://t.co/FNWKLtaP1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BOL4",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257950348846592000,
+					"id_str": "1257950348846592001",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1257950348846592001/img/U4qSmgFmR4w-DiBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1257950348846592001/img/U4qSmgFmR4w-DiBu.jpg",
+					"url": "https://t.co/FNWKLtaP1f",
+					"display_url": "pic.twitter.com/FNWKLtaP1f",
+					"expanded_url": "https://twitter.com/1theK/status/1257950836702842881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257950348846592000,
+					"id_str": "1257950348846592001",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1257950348846592001/img/U4qSmgFmR4w-DiBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1257950348846592001/img/U4qSmgFmR4w-DiBu.jpg",
+					"url": "https://t.co/FNWKLtaP1f",
+					"display_url": "pic.twitter.com/FNWKLtaP1f",
+					"expanded_url": "https://twitter.com/1theK/status/1257950836702842881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30072,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257950348846592001/vid/480x270/ioawf9dRC20jXBoh.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1257950348846592001/pl/Pw22AOIMTL93wwqB.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257950348846592001/vid/1280x720/W-kbTVP5iv9rNaNK.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1257950348846592001/vid/640x360/cTkJ5JqtcwdkCsaP.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/xK9orRFJFtk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1892623,
+			"friends_count": 812,
+			"listed_count": 2807,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1588734063",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6253,
+		"favorite_count": 6725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser] #BOL4(#볼빨간사춘기) - Leo(나비와 고양이) (feat. #BAEKHYUN(#백현)) https://t.co/FNWKLtaP1f"
+	},
+	{
+		"created_at": "Wed May 06 13:42:17 +0000 2020",
+		"id": 1258029321018622000,
+		"id_str": "1258029321018621954",
+		"full_text": "【 #PlayDB 】 #블루스퀘어\n호피폴라 콘서트 (2020.06.05 ~ 2020.06.06) at 블루스퀘어 아이마켓홀\n▶ https://t.co/lvhTWIztgL\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/EvRmyHmSCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "블루스퀘어",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						129,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lvhTWIztgL",
+					"expanded_url": "https://bit.ly/2W9pYWj",
+					"display_url": "bit.ly/2W9pYWj",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258029319919677400,
+					"id_str": "1258029319919677440",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVrAErWsAAIbJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVrAErWsAAIbJN.jpg",
+					"url": "https://t.co/EvRmyHmSCg",
+					"display_url": "pic.twitter.com/EvRmyHmSCg",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1258029321018621954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258029319919677400,
+					"id_str": "1258029319919677440",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EXVrAErWsAAIbJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXVrAErWsAAIbJN.jpg",
+					"url": "https://t.co/EvRmyHmSCg",
+					"display_url": "pic.twitter.com/EvRmyHmSCg",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1258029321018621954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #블루스퀘어\n호피폴라 콘서트 (2020.06.05 ~ 2020.06.06) at 블루스퀘어 아이마켓홀\n▶ https://t.co/lvhTWIztgL\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/EvRmyHmSCg"
+	},
+	{
 		"created_at": "Wed May 06 13:09:28 +0000 2020",
 		"id": 1258021059275755500,
 		"id_str": "1258021059275755521",
