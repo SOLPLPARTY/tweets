@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 07:42:22 +0000 2020",
+		"id": 1258663519282761700,
+		"id_str": "1258663519282761728",
+		"full_text": "#genie #지니 #지니매거진\n재즈의 새로운 고전 ＃4 - 동시대 첨단 음악가가 들려주는 전통적 재즈미학\nhttps://t.co/Scm9d9B9Rj https://t.co/VXPjjAr2US",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Scm9d9B9Rj",
+					"expanded_url": "https://bit.ly/3cqXGMk",
+					"display_url": "bit.ly/3cqXGMk",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258663518313816000,
+					"id_str": "1258663518313816064",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EXerzRzWoAAV4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXerzRzWoAAV4eC.jpg",
+					"url": "https://t.co/VXPjjAr2US",
+					"display_url": "pic.twitter.com/VXPjjAr2US",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1258663519282761728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258663518313816000,
+					"id_str": "1258663518313816064",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EXerzRzWoAAV4eC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXerzRzWoAAV4eC.jpg",
+					"url": "https://t.co/VXPjjAr2US",
+					"display_url": "pic.twitter.com/VXPjjAr2US",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1258663519282761728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n재즈의 새로운 고전 ＃4 - 동시대 첨단 음악가가 들려주는 전통적 재즈미학\nhttps://t.co/Scm9d9B9Rj https://t.co/VXPjjAr2US"
+	},
+	{
+		"created_at": "Fri May 08 07:41:38 +0000 2020",
+		"id": 1258661399657504800,
+		"id_str": "1258663334322331648",
+		"full_text": "[구름아래소극장 대관 프로모션]\n⠀\n구름아래소극장에서 공연장의 방역 지침을 준수하며\n특별 대관 형태로 6월부터 정상 운영을 시작한다고 합니다!\n⠀\n자세한 내용은 구름아래소극장 홈페이지 '공지사항'에서 확인 가능하오니 많은 관심 부탁드립니다 :)\n\n📍공지사항 확인\nhttps://t.co/jG7HCGf53I https://t.co/6VEOmTeASC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jG7HCGf53I",
+					"expanded_url": "http://gurumare.co.kr/notice/view?idx=10",
+					"display_url": "gurumare.co.kr/notice/view?id…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258649234548523000,
+					"id_str": "1258649234548523008",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXeez2oVAAAGRB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXeez2oVAAAGRB3.jpg",
+					"url": "https://t.co/6VEOmTeASC",
+					"display_url": "pic.twitter.com/6VEOmTeASC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1258661399657504773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258649234548523000,
+					"id_str": "1258649234548523008",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXeez2oVAAAGRB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXeez2oVAAAGRB3.jpg",
+					"url": "https://t.co/6VEOmTeASC",
+					"display_url": "pic.twitter.com/6VEOmTeASC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1258661399657504773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258649234552656000,
+					"id_str": "1258649234552655872",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXeez2pUEAAapgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXeez2pUEAAapgg.jpg",
+					"url": "https://t.co/6VEOmTeASC",
+					"display_url": "pic.twitter.com/6VEOmTeASC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1258661399657504773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258649237752918000,
+					"id_str": "1258649237752918016",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXee0CkUMAADqHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXee0CkUMAADqHZ.jpg",
+					"url": "https://t.co/6VEOmTeASC",
+					"display_url": "pic.twitter.com/6VEOmTeASC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1258661399657504773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1258649251027943400,
+					"id_str": "1258649251027943425",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EXee00BVAAE-q2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXee00BVAAE-q2r.jpg",
+					"url": "https://t.co/6VEOmTeASC",
+					"display_url": "pic.twitter.com/6VEOmTeASC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1258661399657504773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2826,
+			"friends_count": 2726,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구름아래소극장 대관 프로모션]\n⠀\n구름아래소극장에서 공연장의 방역 지침을 준수하며\n특별 대관 형태로 6월부터 정상 운영을 시작한다고 합니다!\n⠀\n자세한 내용은 구름아래소극장 홈페이지 '공지사항'에서 확인 가능하오니 많은 관심 부탁드립니다 :)\n\n📍공지사항 확인\nhttps://t.co/jG7HCGf53I https://t.co/6VEOmTeASC"
+	},
+	{
 		"created_at": "Fri May 08 07:13:16 +0000 2020",
 		"id": 1258656196254457900,
 		"id_str": "1258656196254457857",
