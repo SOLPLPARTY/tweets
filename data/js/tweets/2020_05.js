@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 05:58:15 +0000 2020",
+		"id": 1258630108153184300,
+		"id_str": "1258637315515256839",
+		"full_text": "열 번째 SUM[숨∞]에도 함께한 입술을깨물다! \n이번 곡에서는 자연과 함께했던 과거를 생각하면 떠오르는 흐뭇하면서도 아련한 감정을 노래했다고 해요.\n\n열 번째 SUM[숨∞] NEW 앨범의 타이틀곡이기도 한 입술을깨물다의 '오늘에 부르는', 라이브로 만나보세요🎵\n전체보기&gt;https://t.co/FPa617PVBE https://t.co/2LKOD8N2Aj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FPa617PVBE",
+					"expanded_url": "https://bit.ly/35IDJhS",
+					"display_url": "bit.ly/35IDJhS",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258626218687033300,
+					"id_str": "1258626218687033345",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258626218687033345/pu/img/q1MT09WMVgiYlyvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258626218687033345/pu/img/q1MT09WMVgiYlyvT.jpg",
+					"url": "https://t.co/2LKOD8N2Aj",
+					"display_url": "pic.twitter.com/2LKOD8N2Aj",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1258630108153184256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258626218687033300,
+					"id_str": "1258626218687033345",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258626218687033345/pu/img/q1MT09WMVgiYlyvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258626218687033345/pu/img/q1MT09WMVgiYlyvT.jpg",
+					"url": "https://t.co/2LKOD8N2Aj",
+					"display_url": "pic.twitter.com/2LKOD8N2Aj",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1258630108153184256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59969,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258626218687033345/pu/vid/1280x720/99UKupVFC11DCSC8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258626218687033345/pu/pl/5_dYwDMO586N3Jbi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258626218687033345/pu/vid/640x360/iQ8bAigWqOEU8QbT.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258626218687033345/pu/vid/480x270/ueydKBz9dFb77PIT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12141,
+			"friends_count": 161,
+			"listed_count": 250,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "열 번째 SUM[숨∞]에도 함께한 입술을깨물다! \n이번 곡에서는 자연과 함께했던 과거를 생각하면 떠오르는 흐뭇하면서도 아련한 감정을 노래했다고 해요.\n\n열 번째 SUM[숨∞] NEW 앨범의 타이틀곡이기도 한 입술을깨물다의 '오늘에 부르는', 라이브로 만나보세요🎵\n전체보기&gt;https://t.co/FPa617PVBE https://t.co/2LKOD8N2Aj"
+	},
+	{
+		"created_at": "Fri May 08 05:29:42 +0000 2020",
+		"id": 1258620499300475000,
+		"id_str": "1258630132580876289",
+		"full_text": "공식 뮤직비디오도 공개 되었습니다! \nMV: https://t.co/MjyoArFu1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MjyoArFu1G",
+					"expanded_url": "https://youtu.be/_m1ENlhxP-c",
+					"display_url": "youtu.be/_m1ENlhxP-c",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258620383709683700,
+		"in_reply_to_status_id_str": "1258620383709683712",
+		"in_reply_to_user_id": 135092865,
+		"in_reply_to_user_id_str": "135092865",
+		"in_reply_to_screen_name": "SonyMusicKr_POP",
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14477,
+			"friends_count": 266,
+			"listed_count": 0,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1581037568",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공식 뮤직비디오도 공개 되었습니다! \nMV: https://t.co/MjyoArFu1G"
+	},
+	{
+		"created_at": "Fri May 08 05:29:35 +0000 2020",
+		"id": 1258620383709683700,
+		"id_str": "1258630102813941760",
+		"full_text": "그레이슨 챈스의 새로운 싱글\n[Honeysuckle]☀️☀️☀️\n\n국내 모든 음원 사이트 발매! \n🎧듣기: https://t.co/fvIj6ynipq\n\n#GreysonChance #그레이슨챈스 #음악추천 #여름느낌 https://t.co/CeYhdulRKL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GreysonChance",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "그레이슨챈스",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "여름느낌",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fvIj6ynipq",
+					"expanded_url": "https://GreysonChance.lnk.to/kDs45",
+					"display_url": "GreysonChance.lnk.to/kDs45",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258620033502023700,
+					"id_str": "1258620033502023680",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EXeEQIQUEAAuBaQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXeEQIQUEAAuBaQ.jpg",
+					"url": "https://t.co/CeYhdulRKL",
+					"display_url": "pic.twitter.com/CeYhdulRKL",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1258620383709683712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258620033502023700,
+					"id_str": "1258620033502023680",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EXeEQIQUEAAuBaQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXeEQIQUEAAuBaQ.jpg",
+					"url": "https://t.co/CeYhdulRKL",
+					"display_url": "pic.twitter.com/CeYhdulRKL",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1258620383709683712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14477,
+			"friends_count": 266,
+			"listed_count": 0,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1581037568",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그레이슨 챈스의 새로운 싱글\n[Honeysuckle]☀️☀️☀️\n\n국내 모든 음원 사이트 발매! \n🎧듣기: https://t.co/fvIj6ynipq\n\n#GreysonChance #그레이슨챈스 #음악추천 #여름느낌 https://t.co/CeYhdulRKL"
+	},
+	{
+		"created_at": "Fri May 08 05:29:27 +0000 2020",
+		"id": 1258616603366748200,
+		"id_str": "1258630068777205761",
+		"full_text": "[Listen here]\nMelon - https://t.co/FvTvA6HzVK\nGenie - https://t.co/0YEpsvnqbn\nBugs - https://t.co/jSEJJY5O4G\nVibe - https://t.co/UcRNQS6Kde\nFLO - https://t.co/UcRNQS6Kde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FvTvA6HzVK",
+					"expanded_url": "https://bit.ly/2yFekJz",
+					"display_url": "bit.ly/2yFekJz",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/0YEpsvnqbn",
+					"expanded_url": "https://bit.ly/2YKIBkQ",
+					"display_url": "bit.ly/2YKIBkQ",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/jSEJJY5O4G",
+					"expanded_url": "https://bit.ly/2YIFEBt",
+					"display_url": "bit.ly/2YIFEBt",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/UcRNQS6Kde",
+					"expanded_url": "https://bit.ly/2yFefpf",
+					"display_url": "bit.ly/2yFefpf",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/UcRNQS6Kde",
+					"expanded_url": "https://bit.ly/2yFefpf",
+					"display_url": "bit.ly/2yFefpf",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258616602074820600,
+		"in_reply_to_status_id_str": "1258616602074820609",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9582,
+			"friends_count": 2928,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[Listen here]\nMelon - https://t.co/FvTvA6HzVK\nGenie - https://t.co/0YEpsvnqbn\nBugs - https://t.co/jSEJJY5O4G\nVibe - https://t.co/UcRNQS6Kde\nFLO - https://t.co/UcRNQS6Kde"
+	},
+	{
+		"created_at": "Fri May 08 05:29:25 +0000 2020",
+		"id": 1258616602074820600,
+		"id_str": "1258630059864317953",
+		"full_text": "🆕 New Release May 8\n-\n💿 송원섭\n[마지막이라는 걸(Last)]\n\n피처링에는 Show Me The Money 4 의 우승자 베이식(Basick)이, 작곡, 편곡은 다방면으로 왕성한 활동을 하는 한국의 실력파 KPOP작곡가, 프로듀서 Cuz D가 참여한 송원섭의 새로운 싱글!\n\n✚ 앨범 자세히 보기: https://t.co/9vIFO9KCa9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9vIFO9KCa9",
+					"expanded_url": "https://bit.ly/2A7eLwF",
+					"display_url": "bit.ly/2A7eLwF",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9582,
+			"friends_count": 2928,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release May 8\n-\n💿 송원섭\n[마지막이라는 걸(Last)]\n\n피처링에는 Show Me The Money 4 의 우승자 베이식(Basick)이, 작곡, 편곡은 다방면으로 왕성한 활동을 하는 한국의 실력파 KPOP작곡가, 프로듀서 Cuz D가 참여한 송원섭의 새로운 싱글!\n\n✚ 앨범 자세히 보기: https://t.co/9vIFO9KCa9"
+	},
+	{
 		"created_at": "Fri May 08 04:29:25 +0000 2020",
 		"id": 1258608385831796700,
 		"id_str": "1258614959828762629",
