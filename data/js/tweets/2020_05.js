@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 14:29:24 +0000 2020",
+		"id": 1258752098558046200,
+		"id_str": "1258765954147893248",
+		"full_text": "[live] 곽진언 - 나침반 (이적 Cover)\n\n오랜만에 건네는 곽진언의 위로와 응원의 노래🎤💪❤️ Full Ver. https://t.co/oO3uKzbZHf\n\n#HeyPopcon #곽진언 #이적 #나침반 https://t.co/lOHsasgpCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HeyPopcon",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "나침반",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oO3uKzbZHf",
+					"expanded_url": "https://bit.ly/35PbCgY",
+					"display_url": "bit.ly/35PbCgY",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258751932836884500,
+					"id_str": "1258751932836884481",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258751932836884481/pu/img/R620C0skqZWKljrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258751932836884481/pu/img/R620C0skqZWKljrG.jpg",
+					"url": "https://t.co/lOHsasgpCH",
+					"display_url": "pic.twitter.com/lOHsasgpCH",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1258752098558046208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258751932836884500,
+					"id_str": "1258751932836884481",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258751932836884481/pu/img/R620C0skqZWKljrG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258751932836884481/pu/img/R620C0skqZWKljrG.jpg",
+					"url": "https://t.co/lOHsasgpCH",
+					"display_url": "pic.twitter.com/lOHsasgpCH",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1258752098558046208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258751932836884481/pu/vid/320x568/GzxT7D9drZr8gonK.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258751932836884481/pu/vid/720x1280/JSBP7dCENguIcIGr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258751932836884481/pu/vid/360x640/2DemHwyou-rq3h4I.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258751932836884481/pu/pl/evmLyGA1oenvq9Ea.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9374,
+			"friends_count": 6,
+			"listed_count": 119,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[live] 곽진언 - 나침반 (이적 Cover)\n\n오랜만에 건네는 곽진언의 위로와 응원의 노래🎤💪❤️ Full Ver. https://t.co/oO3uKzbZHf\n\n#HeyPopcon #곽진언 #이적 #나침반 https://t.co/lOHsasgpCH"
+	},
+	{
 		"created_at": "Fri May 08 13:41:38 +0000 2020",
 		"id": 1258745211020140500,
 		"id_str": "1258753930638524416",
