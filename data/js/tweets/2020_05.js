@@ -1,6 +1,836 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 10:42:02 +0000 2020",
+		"id": 1259068657537126400,
+		"id_str": "1259071122789851137",
+		"full_text": "(* 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)\n⠀\n1. 티켓 수령\n2. 문진표 작성\n3. 마스크 착용, 손 소독제 사용\n4. 발열 체크\n5. 공연장 입장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259068598200369200,
+		"in_reply_to_status_id_str": "1259068598200369159",
+		"in_reply_to_user_id": 2185812985,
+		"in_reply_to_user_id_str": "2185812985",
+		"in_reply_to_screen_name": "rollinghall",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 771,
+			"listed_count": 41,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(* 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)\n⠀\n1. 티켓 수령\n2. 문진표 작성\n3. 마스크 착용, 손 소독제 사용\n4. 발열 체크\n5. 공연장 입장"
+	},
+	{
+		"created_at": "Sat May 09 10:41:57 +0000 2020",
+		"id": 1259068598200369200,
+		"id_str": "1259071101377937409",
+		"full_text": "※ 롤링홀에서는 코로나19 국내 확산 및 감염병 방지와 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다. 안전과 예방에 협조 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1259068536976060400,
+		"in_reply_to_status_id_str": "1259068536976060421",
+		"in_reply_to_user_id": 2185812985,
+		"in_reply_to_user_id_str": "2185812985",
+		"in_reply_to_screen_name": "rollinghall",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 771,
+			"listed_count": 41,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 롤링홀에서는 코로나19 국내 확산 및 감염병 방지와 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다. 안전과 예방에 협조 부탁드립니다."
+	},
+	{
+		"created_at": "Sat May 09 10:41:49 +0000 2020",
+		"id": 1259068536976060400,
+		"id_str": "1259071067391504384",
+		"full_text": "📢 5/10 공연 현장 안내\n⠀\n&lt;롤링 25주년 기념 공연 : 내귀에 도청장치&amp;트랜스픽션&amp;해리빅버튼&gt;\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장대기 : 4시 / 입장시작 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 내귀에 도청장치, 트랜스픽션, 해리빅버튼\n⠀\n#내귀에도청장치 #트랜스픽션 #해리빅버튼 https://t.co/bX4JBV4uMq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내귀에도청장치",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "트랜스픽션",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "해리빅버튼",
+					"indices": [
+						185,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259068520542769200,
+					"id_str": "1259068520542769152",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259068520542769152/pu/img/NWeNiLRHw_O5OMuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259068520542769152/pu/img/NWeNiLRHw_O5OMuw.jpg",
+					"url": "https://t.co/bX4JBV4uMq",
+					"display_url": "pic.twitter.com/bX4JBV4uMq",
+					"expanded_url": "https://twitter.com/rollinghall/status/1259068536976060421/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259068520542769200,
+					"id_str": "1259068520542769152",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259068520542769152/pu/img/NWeNiLRHw_O5OMuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259068520542769152/pu/img/NWeNiLRHw_O5OMuw.jpg",
+					"url": "https://t.co/bX4JBV4uMq",
+					"display_url": "pic.twitter.com/bX4JBV4uMq",
+					"expanded_url": "https://twitter.com/rollinghall/status/1259068536976060421/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259068520542769152/pu/vid/480x480/0tmqlyMs6NPZmfai.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259068520542769152/pu/vid/320x320/cWg3Upnepj4lDlwP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259068520542769152/pu/pl/nunuMY9iESOdShT-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 771,
+			"listed_count": 41,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 5/10 공연 현장 안내\n⠀\n&lt;롤링 25주년 기념 공연 : 내귀에 도청장치&amp;트랜스픽션&amp;해리빅버튼&gt;\n• 티켓수령 : 3시 30분 (현장구매 가능)\n• 입장대기 : 4시 / 입장시작 : 4시 20분\n• 공연시작 : 5시\n• 출연 : 내귀에 도청장치, 트랜스픽션, 해리빅버튼\n⠀\n#내귀에도청장치 #트랜스픽션 #해리빅버튼 https://t.co/bX4JBV4uMq"
+	},
+	{
+		"created_at": "Sat May 09 10:41:42 +0000 2020",
+		"id": 1259062514488275000,
+		"id_str": "1259071037527990273",
+		"full_text": "+) 지난 '좋아서하는밴드'의 랜선라이브를 놓치셨다면 아래 링크를 클릭해주세요!\n▶ https://t.co/F9edi9Qhuq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9edi9Qhuq",
+					"expanded_url": "https://youtu.be/ZKmDBE3Ftmc",
+					"display_url": "youtu.be/ZKmDBE3Ftmc",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259062512378474500,
+		"in_reply_to_status_id_str": "1259062512378474497",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2827,
+			"friends_count": 2728,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "+) 지난 '좋아서하는밴드'의 랜선라이브를 놓치셨다면 아래 링크를 클릭해주세요!\n▶ https://t.co/F9edi9Qhuq"
+	},
+	{
+		"created_at": "Sat May 09 10:41:38 +0000 2020",
+		"id": 1259062512378474500,
+		"id_str": "1259071019928748034",
+		"full_text": "[2020 씬디스케치 랜선라이브]\n\n실시간 스트리밍 공연, 씬디스케치 랜선라이브의 다음 주 라인업을 공개합니다!\n\n🎈5월 12일 (화) 8~9PM 모트\n🎈YOUTUBE 채널 'RUBYTUBE'\n\n🎈5월 13일 (수) 8~9PM 소낙별&amp;하진\n🎈YOUTUBE 채널 '소낙별Official'\n\n음악을 사랑하는 여러분의 많은 관심과 시청 바랍니다🌈 https://t.co/qxCzDfxz4F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259058028445220900,
+					"id_str": "1259058028445220865",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkSmykUwAEPPFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkSmykUwAEPPFK.jpg",
+					"url": "https://t.co/qxCzDfxz4F",
+					"display_url": "pic.twitter.com/qxCzDfxz4F",
+					"expanded_url": "https://twitter.com/xindieticket/status/1259062512378474497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259058028445220900,
+					"id_str": "1259058028445220865",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkSmykUwAEPPFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkSmykUwAEPPFK.jpg",
+					"url": "https://t.co/qxCzDfxz4F",
+					"display_url": "pic.twitter.com/qxCzDfxz4F",
+					"expanded_url": "https://twitter.com/xindieticket/status/1259062512378474497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259058043024576500,
+					"id_str": "1259058043024576514",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkSno4UEAI4HBd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkSno4UEAI4HBd.jpg",
+					"url": "https://t.co/qxCzDfxz4F",
+					"display_url": "pic.twitter.com/qxCzDfxz4F",
+					"expanded_url": "https://twitter.com/xindieticket/status/1259062512378474497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259058061374709800,
+					"id_str": "1259058061374709760",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkSotPU4AA80zh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkSotPU4AA80zh.jpg",
+					"url": "https://t.co/qxCzDfxz4F",
+					"display_url": "pic.twitter.com/qxCzDfxz4F",
+					"expanded_url": "https://twitter.com/xindieticket/status/1259062512378474497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259058073936687000,
+					"id_str": "1259058073936687104",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkSpcCVcAAtXMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkSpcCVcAAtXMC.jpg",
+					"url": "https://t.co/qxCzDfxz4F",
+					"display_url": "pic.twitter.com/qxCzDfxz4F",
+					"expanded_url": "https://twitter.com/xindieticket/status/1259062512378474497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2827,
+			"friends_count": 2728,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 씬디스케치 랜선라이브]\n\n실시간 스트리밍 공연, 씬디스케치 랜선라이브의 다음 주 라인업을 공개합니다!\n\n🎈5월 12일 (화) 8~9PM 모트\n🎈YOUTUBE 채널 'RUBYTUBE'\n\n🎈5월 13일 (수) 8~9PM 소낙별&amp;하진\n🎈YOUTUBE 채널 '소낙별Official'\n\n음악을 사랑하는 여러분의 많은 관심과 시청 바랍니다🌈 https://t.co/qxCzDfxz4F"
+	},
+	{
 		"created_at": "Sat May 09 09:11:34 +0000 2020",
 		"id": 1259048354660716500,
 		"id_str": "1259048354660716544",
