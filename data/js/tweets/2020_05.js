@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 11:49:59 +0000 2020",
+		"id": 1259412844203765800,
+		"id_str": "1259450611562450944",
+		"full_text": "[민수]\n⠀\n민수의 새 싱글 ‘미니홈피’ 가 발매되었습니다. 각종 음원 사이트에서 들어보세요!\n\n#매스사 #민수 #미니홈피 #5월10일 https://t.co/Uk3w1XOwPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매스사",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "민수",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "미니홈피",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "5월10일",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259412831205654500,
+					"id_str": "1259412831205654528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"url": "https://t.co/Uk3w1XOwPj",
+					"display_url": "pic.twitter.com/Uk3w1XOwPj",
+					"expanded_url": "https://twitter.com/msbsound/status/1259412844203765760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259412831205654500,
+					"id_str": "1259412831205654528",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpVTB2VAAAB7_w.jpg",
+					"url": "https://t.co/Uk3w1XOwPj",
+					"display_url": "pic.twitter.com/Uk3w1XOwPj",
+					"expanded_url": "https://twitter.com/msbsound/status/1259412844203765760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8169,
+			"friends_count": 6446,
+			"listed_count": 105,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1583326283",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[민수]\n⠀\n민수의 새 싱글 ‘미니홈피’ 가 발매되었습니다. 각종 음원 사이트에서 들어보세요!\n\n#매스사 #민수 #미니홈피 #5월10일 https://t.co/Uk3w1XOwPj"
+	},
+	{
+		"created_at": "Sun May 10 11:49:54 +0000 2020",
+		"id": 1259409111336095700,
+		"id_str": "1259450588351172608",
+		"full_text": "[새소년 Single ‘난춘(亂春)’ D-Day]\n새소년의 싱글 난춘(亂春)이 오후 6시 발매되었습니다. \n주요 스트리밍 서비스에서 들으실 수 있으며, 뮤직비디오 풀버전은 유튜브에서 확인하세요.\n더 많은 사람들이 함께 들어주셨으면 좋겠습니다\n\nhttps://t.co/5LF434CSvN - @YouTube https://t.co/OKdoVIHGcU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5LF434CSvN",
+					"expanded_url": "https://youtu.be/5lb6gckhvlM",
+					"display_url": "youtu.be/5lb6gckhvlM",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259409032017703000,
+					"id_str": "1259409032017702912",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"url": "https://t.co/OKdoVIHGcU",
+					"display_url": "pic.twitter.com/OKdoVIHGcU",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1259409111336095744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259409032017703000,
+					"id_str": "1259409032017702912",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259409032017702912/pu/img/88YSzyUreRKIPZd4.jpg",
+					"url": "https://t.co/OKdoVIHGcU",
+					"display_url": "pic.twitter.com/OKdoVIHGcU",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1259409111336095744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/pl/iq7qd3lrLRu6aSts.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/854x480/ReNzGH2Tg2fQvbG0.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/640x360/ufOEq0kOj6R5-37a.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259409032017702912/pu/vid/480x270/7XzyW7sf8sgDKPie.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b)\n\nnew EP \"비적응 (Nonadaptation)\"\nreleased on 2020. 02. 18. TUE 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8774,
+			"friends_count": 15,
+			"listed_count": 53,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1581572779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[새소년 Single ‘난춘(亂春)’ D-Day]\n새소년의 싱글 난춘(亂春)이 오후 6시 발매되었습니다. \n주요 스트리밍 서비스에서 들으실 수 있으며, 뮤직비디오 풀버전은 유튜브에서 확인하세요.\n더 많은 사람들이 함께 들어주셨으면 좋겠습니다\n\nhttps://t.co/5LF434CSvN - @YouTube https://t.co/OKdoVIHGcU"
+	},
+	{
 		"created_at": "Sun May 10 10:41:45 +0000 2020",
 		"id": 1259430592900329500,
 		"id_str": "1259433436718272512",
