@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 12:06:28 +0000 2020",
+		"id": 1259786500352249900,
+		"id_str": "1259817147758346242",
+		"full_text": "&lt;아마도이자람밴드 콘서트&gt; 티켓 오픈 공지\n⠀\n🌼일시 : 2020.06.13, 06.14 6PM\n🌼장소 : 벨로주 홍대\n🌼티켓오픈 : 2020.05.15 8PM @네이버예약(https://t.co/aT0od9EN5X)\n-\n#아마도이자람밴드 #아마도이자람밴드콘서트 https://t.co/p75v5mIdoM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "아마도이자람밴드콘서트",
+					"indices": [
+						140,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aT0od9EN5X",
+					"expanded_url": "http://bit.ly/2Wm1SaF",
+					"display_url": "bit.ly/2Wm1SaF",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259786467338932200,
+					"id_str": "1259786467338932226",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupHg6U0AICgKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupHg6U0AICgKp.jpg",
+					"url": "https://t.co/p75v5mIdoM",
+					"display_url": "pic.twitter.com/p75v5mIdoM",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1259786500352249858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259786467338932200,
+					"id_str": "1259786467338932226",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupHg6U0AICgKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupHg6U0AICgKp.jpg",
+					"url": "https://t.co/p75v5mIdoM",
+					"display_url": "pic.twitter.com/p75v5mIdoM",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1259786500352249858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786467338944500,
+					"id_str": "1259786467338944512",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupHg6VAAAVSqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupHg6VAAAVSqo.jpg",
+					"url": "https://t.co/p75v5mIdoM",
+					"display_url": "pic.twitter.com/p75v5mIdoM",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1259786500352249858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786467347316700,
+					"id_str": "1259786467347316737",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupHg8UwAEWhXw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupHg8UwAEWhXw.jpg",
+					"url": "https://t.co/p75v5mIdoM",
+					"display_url": "pic.twitter.com/p75v5mIdoM",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1259786500352249858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786467372494800,
+					"id_str": "1259786467372494851",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupHhCU8AM_H0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupHhCU8AM_H0w.jpg",
+					"url": "https://t.co/p75v5mIdoM",
+					"display_url": "pic.twitter.com/p75v5mIdoM",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1259786500352249858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1282026302,
+			"id_str": "1282026302",
+			"name": "아마도이자람밴드",
+			"screen_name": "amadoleejaram",
+			"location": "",
+			"description": "아마도이자람밴드 / 이자람, 이민기, 김정민, 김온유.\n@yoursummerkr\n섭외 문의 : Your Summer (당신의 여름 : 070.4176.3311)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2357,
+			"friends_count": 973,
+			"listed_count": 37,
+			"created_at": "Wed Mar 20 01:47:56 +0000 2013",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991613488865787905/d_-aVsLs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991613488865787905/d_-aVsLs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1282026302/1528189691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;아마도이자람밴드 콘서트&gt; 티켓 오픈 공지\n⠀\n🌼일시 : 2020.06.13, 06.14 6PM\n🌼장소 : 벨로주 홍대\n🌼티켓오픈 : 2020.05.15 8PM @네이버예약(https://t.co/aT0od9EN5X)\n-\n#아마도이자람밴드 #아마도이자람밴드콘서트 https://t.co/p75v5mIdoM"
+	},
+	{
+		"created_at": "Mon May 11 11:36:30 +0000 2020",
+		"id": 1259809602885095400,
+		"id_str": "1259809602885095425",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n박상돈\nhttps://t.co/jxZpN9ZFq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jxZpN9ZFq7",
+					"expanded_url": "https://youtu.be/rVRCJ1KFTXc",
+					"display_url": "youtu.be/rVRCJ1KFTXc",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n박상돈\nhttps://t.co/jxZpN9ZFq7"
+	},
+	{
 		"created_at": "Mon May 11 10:29:43 +0000 2020",
 		"id": 1259788320105623600,
 		"id_str": "1259792798527733760",
