@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 10:29:43 +0000 2020",
+		"id": 1259788320105623600,
+		"id_str": "1259792798527733760",
+		"full_text": "사랑도 통역이 되나요? by 카더가든 | 망상극장 https://t.co/WmJUBQuCMW @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						52,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WmJUBQuCMW",
+					"expanded_url": "https://youtu.be/8sQHybWtTVc",
+					"display_url": "youtu.be/8sQHybWtTVc",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3496,
+			"friends_count": 5,
+			"listed_count": 87,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑도 통역이 되나요? by 카더가든 | 망상극장 https://t.co/WmJUBQuCMW @YouTube 님이 공유"
+	},
+	{
+		"created_at": "Mon May 11 10:29:34 +0000 2020",
+		"id": 1259786401563816000,
+		"id_str": "1259792760330207233",
+		"full_text": "&lt;아마도이자람밴드 콘서트&gt; 티켓 오픈 공지\n⠀\n🌼일시 : 2020.06.13, 06.14 6PM\n🌼장소 : 벨로주 홍대\n🌼티켓오픈 : 2020.05.15 8PM @네이버예약(https://t.co/HiRhoIFlnM)\n-\n#아마도이자람밴드 #아마도이자람밴드콘서트 https://t.co/45F3TLi8hf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "아마도이자람밴드콘서트",
+					"indices": [
+						140,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HiRhoIFlnM",
+					"expanded_url": "http://bit.ly/2Wm1SaF",
+					"display_url": "bit.ly/2Wm1SaF",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259786394764849200,
+					"id_str": "1259786394764849155",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupDSjUMAM0Zo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupDSjUMAM0Zo6.jpg",
+					"url": "https://t.co/45F3TLi8hf",
+					"display_url": "pic.twitter.com/45F3TLi8hf",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1259786401563815941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259786394764849200,
+					"id_str": "1259786394764849155",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupDSjUMAM0Zo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupDSjUMAM0Zo6.jpg",
+					"url": "https://t.co/45F3TLi8hf",
+					"display_url": "pic.twitter.com/45F3TLi8hf",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1259786401563815941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786394760646700,
+					"id_str": "1259786394760646656",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupDSiUEAAX0Zg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupDSiUEAAX0Zg.jpg",
+					"url": "https://t.co/45F3TLi8hf",
+					"display_url": "pic.twitter.com/45F3TLi8hf",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1259786401563815941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786394760654800,
+					"id_str": "1259786394760654848",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupDSiUMAAh_ky.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupDSiUMAAh_ky.jpg",
+					"url": "https://t.co/45F3TLi8hf",
+					"display_url": "pic.twitter.com/45F3TLi8hf",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1259786401563815941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259786394773254100,
+					"id_str": "1259786394773254149",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EXupDSlUcAURqRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXupDSlUcAURqRj.jpg",
+					"url": "https://t.co/45F3TLi8hf",
+					"display_url": "pic.twitter.com/45F3TLi8hf",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1259786401563815941/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1789,
+			"friends_count": 24,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;아마도이자람밴드 콘서트&gt; 티켓 오픈 공지\n⠀\n🌼일시 : 2020.06.13, 06.14 6PM\n🌼장소 : 벨로주 홍대\n🌼티켓오픈 : 2020.05.15 8PM @네이버예약(https://t.co/HiRhoIFlnM)\n-\n#아마도이자람밴드 #아마도이자람밴드콘서트 https://t.co/45F3TLi8hf"
+	},
+	{
+		"created_at": "Mon May 11 10:29:25 +0000 2020",
+		"id": 1259780563109425200,
+		"id_str": "1259792721981706240",
+		"full_text": "#Motte #모트 #봉봉이 @ruby_records\n[모트멜론매거진] 모트가 얘기하는 봉봉이와 함께한 촬영이야기 -\n\n모트바라기 봉봉이와 함께 브이로그를!! 멜론매거진에서 공개하고 있어요~\n\nhttps://t.co/KLpivtcU1v https://t.co/WiPQI2CplF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Motte",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "봉봉이",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ruby_records",
+					"name": "Ruby records",
+					"id": 110930534,
+					"id_str": "110930534",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KLpivtcU1v",
+					"expanded_url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=10290",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259780406838128600,
+					"id_str": "1259780406838128640",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXujmvyVcAAgl2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXujmvyVcAAgl2k.jpg",
+					"url": "https://t.co/WiPQI2CplF",
+					"display_url": "pic.twitter.com/WiPQI2CplF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1259780563109425153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259780406838128600,
+					"id_str": "1259780406838128640",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXujmvyVcAAgl2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXujmvyVcAAgl2k.jpg",
+					"url": "https://t.co/WiPQI2CplF",
+					"display_url": "pic.twitter.com/WiPQI2CplF",
+					"expanded_url": "https://twitter.com/ruby_records/status/1259780563109425153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8003,
+			"friends_count": 8644,
+			"listed_count": 211,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Motte #모트 #봉봉이 @ruby_records\n[모트멜론매거진] 모트가 얘기하는 봉봉이와 함께한 촬영이야기 -\n\n모트바라기 봉봉이와 함께 브이로그를!! 멜론매거진에서 공개하고 있어요~\n\nhttps://t.co/KLpivtcU1v https://t.co/WiPQI2CplF"
+	},
+	{
 		"created_at": "Mon May 11 10:13:32 +0000 2020",
 		"id": 1259788726995161000,
 		"id_str": "1259788726995161088",
