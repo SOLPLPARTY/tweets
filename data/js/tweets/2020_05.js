@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 15:29:29 +0000 2020",
+		"id": 1260223301541965800,
+		"id_str": "1260230624226443265",
+		"full_text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Track Video Vol.1\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/8bqOU3DOi9\n🖇NAVER V ▶ https://t.co/bbfPy39jgh\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/HLAyuKZnft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "RYUSUJEONG",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "Tiger_Eyes",
+					"indices": [
+						196,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8bqOU3DOi9",
+					"expanded_url": "https://youtu.be/KnmwSAg_BGI",
+					"display_url": "youtu.be/KnmwSAg_BGI",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/bbfPy39jgh",
+					"expanded_url": "https://www.vlive.tv/video/190843",
+					"display_url": "vlive.tv/video/190843",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260217586727284700,
+					"id_str": "1260217586727284738",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0x0x2UEAIegdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0x0x2UEAIegdD.jpg",
+					"url": "https://t.co/HLAyuKZnft",
+					"display_url": "pic.twitter.com/HLAyuKZnft",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1260223301541965824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260217586727284700,
+					"id_str": "1260217586727284738",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0x0x2UEAIegdD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0x0x2UEAIegdD.jpg",
+					"url": "https://t.co/HLAyuKZnft",
+					"display_url": "pic.twitter.com/HLAyuKZnft",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1260223301541965824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35068,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260217586727284738/vid/1280x720/_BNYa0J9uFeZBaL9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1260217586727284738/pl/5p2gtDmsHNZ4-QUQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260217586727284738/vid/640x360/5ywVb7_9AOpKG6ir.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260217586727284738/vid/480x270/MNJHBmyG2GZSG4bw.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414104,
+			"friends_count": 9,
+			"listed_count": 1851,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1589295900",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 664,
+		"favorite_count": 1002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Track Video Vol.1\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/8bqOU3DOi9\n🖇NAVER V ▶ https://t.co/bbfPy39jgh\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/HLAyuKZnft"
+	},
+	{
+		"created_at": "Tue May 12 15:29:25 +0000 2020",
+		"id": 1260223207325331500,
+		"id_str": "1260230606929244162",
+		"full_text": "[📸] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Concept Photo #01\n2020.05.20 6PM RELEASE\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/SCWm7vgjf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "RYUSUJEONG",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "Tiger_Eyes",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260217342992081000,
+					"id_str": "1260217342992080896",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0w_xzUYAA7uoE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0w_xzUYAA7uoE.jpg",
+					"url": "https://t.co/SCWm7vgjf2",
+					"display_url": "pic.twitter.com/SCWm7vgjf2",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1260223207325331459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260217342992081000,
+					"id_str": "1260217342992080896",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0w_xzUYAA7uoE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0w_xzUYAA7uoE.jpg",
+					"url": "https://t.co/SCWm7vgjf2",
+					"display_url": "pic.twitter.com/SCWm7vgjf2",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1260223207325331459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414104,
+			"friends_count": 9,
+			"listed_count": 1851,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1589295900",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 762,
+		"favorite_count": 1282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Concept Photo #01\n2020.05.20 6PM RELEASE\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/SCWm7vgjf2"
+	},
+	{
+		"created_at": "Tue May 12 15:19:21 +0000 2020",
+		"id": 1260172894031642600,
+		"id_str": "1260228074739662848",
+		"full_text": "- [격리기간의 우리들]은 5/21 목요일, 6/4 목요일, 6/11 목요일로 이어집니다.\n- 이 공연은 서울특별시, 서울문화재단의 후원을 받아 제작되었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1260172839669297200,
+		"in_reply_to_status_id_str": "1260172839669297152",
+		"in_reply_to_user_id": 929392287053836300,
+		"in_reply_to_user_id_str": "929392287053836288",
+		"in_reply_to_screen_name": "studiobroccoli",
+		"user": {
+			"id": 929392287053836300,
+			"id_str": "929392287053836288",
+			"name": "브로콜리너마저",
+			"screen_name": "studiobroccoli",
+			"location": "",
+			"description": "밴드 브로콜리너마저 입니다. 070-7745-3003 broccoliyoutoo@gmail.com https://t.co/tLNzk6AXwx",
+			"url": "https://t.co/MBSb6ZMhK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MBSb6ZMhK7",
+							"expanded_url": "http://broccoliyoutoo.com",
+							"display_url": "broccoliyoutoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tLNzk6AXwx",
+							"expanded_url": "http://www.youtube.com/VIDEOBROCCOLIYOUTOO",
+							"display_url": "youtube.com/VIDEOBROCCOLIY…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 310,
+			"listed_count": 2,
+			"created_at": "Sat Nov 11 16:56:03 +0000 2017",
+			"favourites_count": 2415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260172275598323712/CWlYgHs__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260172275598323712/CWlYgHs__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929392287053836288/1586165136",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- [격리기간의 우리들]은 5/21 목요일, 6/4 목요일, 6/11 목요일로 이어집니다.\n- 이 공연은 서울특별시, 서울문화재단의 후원을 받아 제작되었습니다."
+	},
+	{
+		"created_at": "Tue May 12 15:19:15 +0000 2020",
+		"id": 1260172839669297200,
+		"id_str": "1260228048370065410",
+		"full_text": "브로콜리너마저의 라이브와 함께 이 시대를 살아가는 우리들의 이야기를 풀어볼까 해요. \n오은시인님의 신청곡은 과연 무엇일까요?:) \n\n이번주 목요일 5/14일 저녁 19:30분, 저희는 ‘진부책방스튜디오’에서, 여러분은 브로콜리너마저 유튜브채널으로, 많은 시청&amp;댓글 기다릴게요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1260172679765561300,
+		"in_reply_to_status_id_str": "1260172679765561344",
+		"in_reply_to_user_id": 929392287053836300,
+		"in_reply_to_user_id_str": "929392287053836288",
+		"in_reply_to_screen_name": "studiobroccoli",
+		"user": {
+			"id": 929392287053836300,
+			"id_str": "929392287053836288",
+			"name": "브로콜리너마저",
+			"screen_name": "studiobroccoli",
+			"location": "",
+			"description": "밴드 브로콜리너마저 입니다. 070-7745-3003 broccoliyoutoo@gmail.com https://t.co/tLNzk6AXwx",
+			"url": "https://t.co/MBSb6ZMhK7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MBSb6ZMhK7",
+							"expanded_url": "http://broccoliyoutoo.com",
+							"display_url": "broccoliyoutoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tLNzk6AXwx",
+							"expanded_url": "http://www.youtube.com/VIDEOBROCCOLIYOUTOO",
+							"display_url": "youtube.com/VIDEOBROCCOLIY…",
+							"indices": [
+								55,
+								78
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 310,
+			"listed_count": 2,
+			"created_at": "Sat Nov 11 16:56:03 +0000 2017",
+			"favourites_count": 2415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260172275598323712/CWlYgHs__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260172275598323712/CWlYgHs__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929392287053836288/1586165136",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "브로콜리너마저의 라이브와 함께 이 시대를 살아가는 우리들의 이야기를 풀어볼까 해요. \n오은시인님의 신청곡은 과연 무엇일까요?:) \n\n이번주 목요일 5/14일 저녁 19:30분, 저희는 ‘진부책방스튜디오’에서, 여러분은 브로콜리너마저 유튜브채널으로, 많은 시청&amp;댓글 기다릴게요."
+	},
+	{
 		"created_at": "Tue May 12 14:44:27 +0000 2020",
 		"id": 1260219292534145000,
 		"id_str": "1260219292534145025",
