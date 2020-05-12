@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 11:19:22 +0000 2020",
+		"id": 1260132609528561700,
+		"id_str": "1260167679916171264",
+		"full_text": "[Album Preview]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n⠀\n📽 https://t.co/Kqm6MxPPEm\n⠀\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/eKz4tJ8sOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kqm6MxPPEm",
+					"expanded_url": "https://youtu.be/O2f_6i6y5jo",
+					"display_url": "youtu.be/O2f_6i6y5jo",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260120347891781600,
+					"id_str": "1260120347891781637",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"url": "https://t.co/eKz4tJ8sOs",
+					"display_url": "pic.twitter.com/eKz4tJ8sOs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260132609528561666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260120347891781600,
+					"id_str": "1260120347891781637",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzYx65U0AUOpNq.jpg",
+					"url": "https://t.co/eKz4tJ8sOs",
+					"display_url": "pic.twitter.com/eKz4tJ8sOs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260132609528561666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29657,
+			"friends_count": 2,
+			"listed_count": 176,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Album Preview]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n⠀\n📽 https://t.co/Kqm6MxPPEm\n⠀\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/eKz4tJ8sOs"
+	},
+	{
+		"created_at": "Tue May 12 11:19:18 +0000 2020",
+		"id": 1260087310801989600,
+		"id_str": "1260167662111342597",
+		"full_text": "[Official Photo #5]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#민들레 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/ITUQtBmzvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "민들레",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260078516122423300,
+					"id_str": "1260078516122423296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"url": "https://t.co/ITUQtBmzvh",
+					"display_url": "pic.twitter.com/ITUQtBmzvh",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260087310801989635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260078516122423300,
+					"id_str": "1260078516122423296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXyyu_aUEAA4EGt.jpg",
+					"url": "https://t.co/ITUQtBmzvh",
+					"display_url": "pic.twitter.com/ITUQtBmzvh",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260087310801989635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29657,
+			"friends_count": 2,
+			"listed_count": 176,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255331005315022853/6ZENnwYr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1588129212",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 560,
+		"favorite_count": 1790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official Photo #5]\n⠀\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) 6PM Release\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#민들레 #BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/ITUQtBmzvh"
+	},
+	{
 		"created_at": "Tue May 12 11:15:30 +0000 2020",
 		"id": 1260166707211010000,
 		"id_str": "1260166707211010049",
