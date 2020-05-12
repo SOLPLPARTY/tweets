@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 09:29:34 +0000 2020",
+		"id": 1260135036294033400,
+		"id_str": "1260140048286171138",
+		"full_text": "#레인보우노트 #RainbowNote #LP언박싱\n\n[Rainbow note] Don't Panic Seoul \n- Panic Button 언박싱(Unboxing)!! 두둥~!!!\n\nhttps://t.co/ljlPoE5OBp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "RainbowNote",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "LP언박싱",
+					"indices": [
+						21,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljlPoE5OBp",
+					"expanded_url": "https://youtu.be/8Ha34u-bXAg",
+					"display_url": "youtu.be/8Ha34u-bXAg",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8003,
+			"friends_count": 8645,
+			"listed_count": 211,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레인보우노트 #RainbowNote #LP언박싱\n\n[Rainbow note] Don't Panic Seoul \n- Panic Button 언박싱(Unboxing)!! 두둥~!!!\n\nhttps://t.co/ljlPoE5OBp"
+	},
+	{
+		"created_at": "Tue May 12 09:29:25 +0000 2020",
+		"id": 1260133338792124400,
+		"id_str": "1260140010055127040",
+		"full_text": "Toy 유희열 -  💛젝스키스💛의 명곡 ‘커플 (Couple)’을 연주해보았습니다 🎹✨ (feat. 삼시네세끼 앞마당 라이브) | 안테나 X 채널십오야\nhttps://t.co/e1BIjgLTPr \n\n#유희열 #Toy #젝스키스 #커플\n#안테나 #채널십오야 #삼시네세끼 🌱🍃🌿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "Toy",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "젝스키스",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "커플",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "채널십오야",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "삼시네세끼",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1BIjgLTPr",
+					"expanded_url": "https://youtu.be/j0H93C13d6Y",
+					"display_url": "youtu.be/j0H93C13d6Y",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34337,
+			"friends_count": 11,
+			"listed_count": 379,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1585732158",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Toy 유희열 -  💛젝스키스💛의 명곡 ‘커플 (Couple)’을 연주해보았습니다 🎹✨ (feat. 삼시네세끼 앞마당 라이브) | 안테나 X 채널십오야\nhttps://t.co/e1BIjgLTPr \n\n#유희열 #Toy #젝스키스 #커플\n#안테나 #채널십오야 #삼시네세끼 🌱🍃🌿"
+	},
+	{
+		"created_at": "Tue May 12 09:23:37 +0000 2020",
+		"id": 1260138550726705200,
+		"id_str": "1260138550726705152",
+		"full_text": "#genie #지니 #지니매거진\n발라드 여제 이수영, 리메이크 프로젝트 [Masque] 뮤직비디오 비하인드\nhttps://t.co/sm4dBuPwoD https://t.co/linnnkZhLX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sm4dBuPwoD",
+					"expanded_url": "https://bit.ly/3co8ZoE",
+					"display_url": "bit.ly/3co8ZoE",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260138549464178700,
+					"id_str": "1260138549464178689",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzpVZCWoAEIqOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzpVZCWoAEIqOQ.jpg",
+					"url": "https://t.co/linnnkZhLX",
+					"display_url": "pic.twitter.com/linnnkZhLX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1260138550726705152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260138549464178700,
+					"id_str": "1260138549464178689",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EXzpVZCWoAEIqOQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXzpVZCWoAEIqOQ.jpg",
+					"url": "https://t.co/linnnkZhLX",
+					"display_url": "pic.twitter.com/linnnkZhLX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1260138550726705152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n발라드 여제 이수영, 리메이크 프로젝트 [Masque] 뮤직비디오 비하인드\nhttps://t.co/sm4dBuPwoD https://t.co/linnnkZhLX"
+	},
+	{
 		"created_at": "Tue May 12 09:11:53 +0000 2020",
 		"id": 1260135597655691300,
 		"id_str": "1260135597655691265",
@@ -1037,7 +1547,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Tue May 12 08:41:38 +0000 2020",
 		"id": 1260127756030849000,
 		"id_str": "1260127984440291328",
-		"full_text": "[2020 씬디스케치 랜선라이브]\n⠀\n오늘 저녁 8시 🎙\n2020 씬디스케치 랜선라이브의 두 번째 주자,\n✨ 모트(Motte) ✨님의 리허설 현장입니다 💖\n⠀\n유튜브 채널 'RUBYTUBE'\n▶ https://t.co/D1cwM43xLp\n⠀⠀\n조금 있다 만나요 🙆‍♀️ https://t.co/yLk0tIEShD",
+		"full_text": "[2020 씬디스케치 랜선라이브]\n⠀\n오늘 저녁 8시 🎙\n2020 씬디스케치 랜선라이브의 두 번째 주자,\n✨ 모트(Motte) ✨님의 리허설 현장입니다 💖\n⠀\n유튜브 채널 'RUBYTUBE'\n▶ https://t.co/D1cwM43xLp\n⠀⠀\n조금 있다 만나요 🙆♀️ https://t.co/yLk0tIEShD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1251,7 +1761,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2020 씬디스케치 랜선라이브]\n⠀\n오늘 저녁 8시 🎙\n2020 씬디스케치 랜선라이브의 두 번째 주자,\n✨ 모트(Motte) ✨님의 리허설 현장입니다 💖\n⠀\n유튜브 채널 'RUBYTUBE'\n▶ https://t.co/D1cwM43xLp\n⠀⠀\n조금 있다 만나요 🙆‍♀️ https://t.co/yLk0tIEShD"
+		"text": "[2020 씬디스케치 랜선라이브]\n⠀\n오늘 저녁 8시 🎙\n2020 씬디스케치 랜선라이브의 두 번째 주자,\n✨ 모트(Motte) ✨님의 리허설 현장입니다 💖\n⠀\n유튜브 채널 'RUBYTUBE'\n▶ https://t.co/D1cwM43xLp\n⠀⠀\n조금 있다 만나요 🙆♀️ https://t.co/yLk0tIEShD"
 	},
 	{
 		"created_at": "Tue May 12 08:38:05 +0000 2020",
