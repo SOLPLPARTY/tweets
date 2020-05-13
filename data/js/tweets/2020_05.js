@@ -1,6 +1,1078 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 05:58:15 +0000 2020",
+		"id": 1260434836508065800,
+		"id_str": "1260449255107571714",
+		"full_text": "[GPD2020 블라인드 티켓 공식예매 OPEN]\n\n'그린플러그드 동해 2020' 블라인드 티켓 공식예매가 시작되었습니다! 한정수량 판매되니, 동해와 함께하실 분들은 예매를 서둘러주세요🙌\n⠀⠀\n🔥예매하기🔥\n전용예매처 https://t.co/cdp9NZODRR\n인터파크티켓 https://t.co/IJN8MV4FZ9 https://t.co/qtCGYxFvrw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cdp9NZODRR",
+					"expanded_url": "https://bit.ly/3dLc42D",
+					"display_url": "bit.ly/3dLc42D",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/IJN8MV4FZ9",
+					"expanded_url": "https://bit.ly/3byo5qE",
+					"display_url": "bit.ly/3byo5qE",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260426304408760300,
+					"id_str": "1260426304408760320",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3vC7vXsAAJPHX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3vC7vXsAAJPHX.jpg",
+					"url": "https://t.co/qtCGYxFvrw",
+					"display_url": "pic.twitter.com/qtCGYxFvrw",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1260434836508065804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260426304408760300,
+					"id_str": "1260426304408760320",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EX3vC7vXsAAJPHX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX3vC7vXsAAJPHX.jpg",
+					"url": "https://t.co/qtCGYxFvrw",
+					"display_url": "pic.twitter.com/qtCGYxFvrw",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1260434836508065804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12102,
+			"friends_count": 161,
+			"listed_count": 234,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GPD2020 블라인드 티켓 공식예매 OPEN]\n\n'그린플러그드 동해 2020' 블라인드 티켓 공식예매가 시작되었습니다! 한정수량 판매되니, 동해와 함께하실 분들은 예매를 서둘러주세요🙌\n⠀⠀\n🔥예매하기🔥\n전용예매처 https://t.co/cdp9NZODRR\n인터파크티켓 https://t.co/IJN8MV4FZ9 https://t.co/qtCGYxFvrw"
+	},
+	{
+		"created_at": "Wed May 13 05:41:42 +0000 2020",
+		"id": 1260441244867707000,
+		"id_str": "1260445090356625415",
+		"full_text": "&lt;패왕별희 디 오리지널&gt; 굿즈 증정 안내입니다!\n⠀\n아래 모든 회차 발권순 10분께 'A3 포스터'를 드립니다.\n⠀\n- 5/14(목) 14:20\n- 5/15(금) 14:40\n- 5/16(토) 16:20\n- 5/17(일) 16:40\n- 5/20(수) 14:40\n⠀\n#에무시네마\n#복합문화공간에무\n#패왕별희\n#emucinema\n#emuartspace https://t.co/ujWp2ZBJ2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에무시네마",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "복합문화공간에무",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "패왕별희",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "emucinema",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "emuartspace",
+					"indices": [
+						187,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ujWp2ZBJ2T",
+					"expanded_url": "https://www.instagram.com/p/CAE0D0el5Sr/?igshid=10q6mce4t1sai",
+					"display_url": "instagram.com/p/CAE0D0el5Sr/…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4153156332,
+			"id_str": "4153156332",
+			"name": "복합문화공간에무",
+			"screen_name": "emuartspace",
+			"location": "서울 종로구 신문로2가 7",
+			"description": "에라스무스 에무입니다. 02)730-5604",
+			"url": "https://t.co/PH1vgNIEbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH1vgNIEbF",
+							"expanded_url": "http://emuartspace.com",
+							"display_url": "emuartspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Sat Nov 07 04:12:32 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4153156332/1446870044",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;패왕별희 디 오리지널&gt; 굿즈 증정 안내입니다!\n⠀\n아래 모든 회차 발권순 10분께 'A3 포스터'를 드립니다.\n⠀\n- 5/14(목) 14:20\n- 5/15(금) 14:40\n- 5/16(토) 16:20\n- 5/17(일) 16:40\n- 5/20(수) 14:40\n⠀\n#에무시네마\n#복합문화공간에무\n#패왕별희\n#emucinema\n#emuartspace https://t.co/ujWp2ZBJ2T"
+	},
+	{
+		"created_at": "Wed May 13 05:41:38 +0000 2020",
+		"id": 1260441206233989000,
+		"id_str": "1260445073092853763",
+		"full_text": "&lt;톰보이&gt; 굿즈 증정 안내입니다!\n⠀\n아래 모든 회차 발권순 10분께 'A4 홀더'를 드립니다!\n⠀\n- 5/14(목) 19:30\n- 5/15(금) 20:00\n- 5/16(토) 14:40, 20:00\n- 5/20(수) 20:00\n⠀\n#에무시네마\n#복합문화공간에무\n#톰보이\n#셀린시아마\n#emucinema\n#emuartspace\n#tomboy https://t.co/G2ZN20Ml9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에무시네마",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "복합문화공간에무",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "톰보이",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "셀린시아마",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "emucinema",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "emuartspace",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "tomboy",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G2ZN20Ml9N",
+					"expanded_url": "https://www.instagram.com/p/CAEzOEllL1i/?igshid=1d6r9b3c7tsgr",
+					"display_url": "instagram.com/p/CAEzOEllL1i/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4153156332,
+			"id_str": "4153156332",
+			"name": "복합문화공간에무",
+			"screen_name": "emuartspace",
+			"location": "서울 종로구 신문로2가 7",
+			"description": "에라스무스 에무입니다. 02)730-5604",
+			"url": "https://t.co/PH1vgNIEbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH1vgNIEbF",
+							"expanded_url": "http://emuartspace.com",
+							"display_url": "emuartspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Sat Nov 07 04:12:32 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4153156332/1446870044",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;톰보이&gt; 굿즈 증정 안내입니다!\n⠀\n아래 모든 회차 발권순 10분께 'A4 홀더'를 드립니다!\n⠀\n- 5/14(목) 19:30\n- 5/15(금) 20:00\n- 5/16(토) 14:40, 20:00\n- 5/20(수) 20:00\n⠀\n#에무시네마\n#복합문화공간에무\n#톰보이\n#셀린시아마\n#emucinema\n#emuartspace\n#tomboy https://t.co/G2ZN20Ml9N"
+	},
+	{
+		"created_at": "Wed May 13 05:38:29 +0000 2020",
+		"id": 1260444282068091000,
+		"id_str": "1260444282068090880",
+		"full_text": "#그린플러그드 #Greenplugged \n'그린플러그드 동해 2020' 블라인드 티켓 공식예매 OPEN\nhttps://t.co/3JBq2qGBGP\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Greenplugged",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3JBq2qGBGP",
+					"expanded_url": "https://bit.ly/3cs1m0F",
+					"display_url": "bit.ly/3cs1m0F",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #Greenplugged \n'그린플러그드 동해 2020' 블라인드 티켓 공식예매 OPEN\nhttps://t.co/3JBq2qGBGP\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Wed May 13 05:37:10 +0000 2020",
+		"id": 1260443949602406400,
+		"id_str": "1260443949602406400",
+		"full_text": "#아지트라이브 #azit_live\n죠지 'fallin(feat.Liss)' 발매기념 라이브 스트리밍 [Live&amp;Direct@CJ azit]의 사본\nhttps://t.co/tFi6FynYoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아지트라이브",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "azit_live",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tFi6FynYoA",
+					"expanded_url": "https://youtu.be/TzP1GEj-ZUo",
+					"display_url": "youtu.be/TzP1GEj-ZUo",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 210,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아지트라이브 #azit_live\n죠지 'fallin(feat.Liss)' 발매기념 라이브 스트리밍 [Live&amp;Direct@CJ azit]의 사본\nhttps://t.co/tFi6FynYoA"
+	},
+	{
+		"created_at": "Wed May 13 05:29:32 +0000 2020",
+		"id": 1260441115309850600,
+		"id_str": "1260442031035428871",
+		"full_text": "#모트시차 #모트리릭 \n\n꼬부기 모트의 짱귀욤 리릭비디오 \n놓치지 않을꺼에요\n\nhttps://t.co/GVdAuUsnF2\n\n#MotteLyricVideo #꼬부기모트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트시차",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "모트리릭",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "MotteLyricVideo",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "꼬부기모트",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GVdAuUsnF2",
+					"expanded_url": "https://youtu.be/UTERXkOwDyo",
+					"display_url": "youtu.be/UTERXkOwDyo",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7987,
+			"friends_count": 8644,
+			"listed_count": 204,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#모트시차 #모트리릭 \n\n꼬부기 모트의 짱귀욤 리릭비디오 \n놓치지 않을꺼에요\n\nhttps://t.co/GVdAuUsnF2\n\n#MotteLyricVideo #꼬부기모트"
+	},
+	{
+		"created_at": "Wed May 13 05:29:30 +0000 2020",
+		"id": 1260435425098948600,
+		"id_str": "1260442022202220544",
+		"full_text": "0:09 #티켓구매방법 \n0:30 #MD구매방법\n0:50 #결합상품구매방법 \n1:18 #응원봉연동방법 \n1:45 #라이브시청\n1:53 #VLIVE채팅\n2:00 #다양하게즐기기 \n2:13 #깜짝라이브\n\n#Beyond_LIVE #SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티켓구매방법",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "MD구매방법",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "결합상품구매방법",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "응원봉연동방법",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "라이브시청",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "VLIVE채팅",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "다양하게즐기기",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "깜짝라이브",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1260435368664588300,
+		"in_reply_to_status_id_str": "1260435368664588288",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8105089,
+			"friends_count": 49,
+			"listed_count": 8241,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 858,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "0:09 #티켓구매방법 \n0:30 #MD구매방법\n0:50 #결합상품구매방법 \n1:18 #응원봉연동방법 \n1:45 #라이브시청\n1:53 #VLIVE채팅\n2:00 #다양하게즐기기 \n2:13 #깜짝라이브\n\n#Beyond_LIVE #SMTOWN"
+	},
+	{
 		"created_at": "Wed May 13 04:29:25 +0000 2020",
 		"id": 1260415880116056000,
 		"id_str": "1260426899827941379",
