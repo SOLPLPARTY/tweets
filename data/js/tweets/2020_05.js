@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 12:17:00 +0000 2020",
+		"id": 1260495000669913000,
+		"id_str": "1260544571500457985",
+		"full_text": "[Release]\n\n찬란한 사춘기의 잔상,\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) Now Released\n\n[꽃 본 나비] 사랑하는 사람을 만나서 기뻐하는 모습을 비유적으로 이르는 말.\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/PAXt6UJ9xs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260494436963942400,
+					"id_str": "1260494436963942401",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"url": "https://t.co/PAXt6UJ9xs",
+					"display_url": "pic.twitter.com/PAXt6UJ9xs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495000669913088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260494436963942400,
+					"id_str": "1260494436963942401",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4tAxSXgAERf3Z.jpg",
+					"url": "https://t.co/PAXt6UJ9xs",
+					"display_url": "pic.twitter.com/PAXt6UJ9xs",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495000669913088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29802,
+			"friends_count": 2,
+			"listed_count": 174,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1589361955",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 1220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n찬란한 사춘기의 잔상,\n볼빨간사춘기 &lt;사춘기집Ⅱ 꽃 본 나비&gt;\n2020.05.13 (WED) Now Released\n\n[꽃 본 나비] 사랑하는 사람을 만나서 기뻐하는 모습을 비유적으로 이르는 말.\n\n#볼빨간사춘기 #사춘기집2 #꽃본나비\n#BOL4 #ShofarMusic #쇼파르뮤직 https://t.co/PAXt6UJ9xs"
+	},
+	{
+		"created_at": "Wed May 13 12:16:57 +0000 2020",
+		"id": 1260495451222085600,
+		"id_str": "1260544557738913792",
+		"full_text": "[MV]\n⠀\n볼빨간사춘기 - 품\n2020.05.13 (WED) Now Released\n⠀\n📽  https://t.co/M2hgXGAxxg\n⠀\n#볼빨간사춘기 #품 #사춘기집2 #꽃본나비\n#BOL4 #Hug #ShofarMusic #쇼파르뮤직 https://t.co/C9ciZvd4w4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "품",
+					"indices": [
+						87,
+						89
+					]
+				},
+				{
+					"text": "사춘기집2",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "꽃본나비",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "Hug",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M2hgXGAxxg",
+					"expanded_url": "https://youtu.be/Bi6KH-P2Irc",
+					"display_url": "youtu.be/Bi6KH-P2Irc",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260495436877619200,
+					"id_str": "1260495436877619200",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"url": "https://t.co/C9ciZvd4w4",
+					"display_url": "pic.twitter.com/C9ciZvd4w4",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495451222085632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260495436877619200,
+					"id_str": "1260495436877619200",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4t6-QXYAAlFMc.jpg",
+					"url": "https://t.co/C9ciZvd4w4",
+					"display_url": "pic.twitter.com/C9ciZvd4w4",
+					"expanded_url": "https://twitter.com/BOL4_Official/status/1260495451222085632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1082086076947132400,
+			"id_str": "1082086076947132416",
+			"name": "BOL4_Official",
+			"screen_name": "BOL4_Official",
+			"location": "",
+			"description": "볼빨간사춘기(BOL4) OFFICIAL TWITTER",
+			"url": "https://t.co/xIofJDMWfI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xIofJDMWfI",
+							"expanded_url": "http://cafe.daum.net/Bolbbalgan4",
+							"display_url": "cafe.daum.net/Bolbbalgan4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29802,
+			"friends_count": 2,
+			"listed_count": 174,
+			"created_at": "Mon Jan 07 01:26:39 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260501506903674882/tqEudNkg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1082086076947132416/1589361955",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1041,
+		"favorite_count": 1909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV]\n⠀\n볼빨간사춘기 - 품\n2020.05.13 (WED) Now Released\n⠀\n📽  https://t.co/M2hgXGAxxg\n⠀\n#볼빨간사춘기 #품 #사춘기집2 #꽃본나비\n#BOL4 #Hug #ShofarMusic #쇼파르뮤직 https://t.co/C9ciZvd4w4"
+	},
+	{
+		"created_at": "Wed May 13 12:16:50 +0000 2020",
+		"id": 1260505461406797800,
+		"id_str": "1260544529209278465",
+		"full_text": "크러쉬X레드벨벳 조이, 20일 신곡 ‘자나깨나’ 발매 확정(공식) (출처 : 뉴스엔 | 네이버 TV연예)\n\n👉https://t.co/PHlHIt1RoB\n\n#조이 #JOY #레드벨벳 #RedVelvet #크러쉬 #Crush #자나깨나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "크러쉬",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "Crush",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "자나깨나",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PHlHIt1RoB",
+					"expanded_url": "http://naver.me/x01f7EEj",
+					"display_url": "naver.me/x01f7EEj",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535299,
+			"friends_count": 2,
+			"listed_count": 5781,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204779084196089856/CQrd2I-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5372,
+		"favorite_count": 13830,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크러쉬X레드벨벳 조이, 20일 신곡 ‘자나깨나’ 발매 확정(공식) (출처 : 뉴스엔 | 네이버 TV연예)\n\n👉https://t.co/PHlHIt1RoB\n\n#조이 #JOY #레드벨벳 #RedVelvet #크러쉬 #Crush #자나깨나"
+	},
+	{
+		"created_at": "Wed May 13 12:16:45 +0000 2020",
+		"id": 1260496942339104800,
+		"id_str": "1260544507461812226",
+		"full_text": "📣크러쉬와 레드벨벳 조이의 콜라보레이션 소식! 레드벨벳 조이가 피처링으로 참여한 '자나깨나'는 크러쉬의 ‘homemade' 시리즈의 포문을 여는 곡으로 5월 20일에 발매될 예정입니다😆\n\n#Crush #homemade #자나깨나 #Mayday \n#Joy #redvelvet #PNATION #피네이션 https://t.co/xNUlhhSsVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crush",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "homemade",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "자나깨나",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "Mayday",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "Joy",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "피네이션",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260496372412944400,
+					"id_str": "1260496372412944385",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4uxbZXkAEyg9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4uxbZXkAEyg9S.jpg",
+					"url": "https://t.co/xNUlhhSsVn",
+					"display_url": "pic.twitter.com/xNUlhhSsVn",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1260496942339104769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260496372412944400,
+					"id_str": "1260496372412944385",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4uxbZXkAEyg9S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4uxbZXkAEyg9S.jpg",
+					"url": "https://t.co/xNUlhhSsVn",
+					"display_url": "pic.twitter.com/xNUlhhSsVn",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1260496942339104769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260496372408758300,
+					"id_str": "1260496372408758273",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4uxbYXsAEQl_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4uxbYXsAEQl_b.jpg",
+					"url": "https://t.co/xNUlhhSsVn",
+					"display_url": "pic.twitter.com/xNUlhhSsVn",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1260496942339104769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31430,
+			"friends_count": 20,
+			"listed_count": 61,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣크러쉬와 레드벨벳 조이의 콜라보레이션 소식! 레드벨벳 조이가 피처링으로 참여한 '자나깨나'는 크러쉬의 ‘homemade' 시리즈의 포문을 여는 곡으로 5월 20일에 발매될 예정입니다😆\n\n#Crush #homemade #자나깨나 #Mayday \n#Joy #redvelvet #PNATION #피네이션 https://t.co/xNUlhhSsVn"
+	},
+	{
+		"created_at": "Wed May 13 12:13:41 +0000 2020",
+		"id": 1260543738117578800,
+		"id_str": "1260543738117578755",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n휘성과 나얼은 잊어라, 불행R&amp;B를 노래하는 가수?!  [뮤직코리아#5]\nhttps://t.co/B2gkEKj9T3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B2gkEKj9T3",
+					"expanded_url": "https://youtu.be/NgA3skMZn5E",
+					"display_url": "youtu.be/NgA3skMZn5E",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 211,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n휘성과 나얼은 잊어라, 불행R&amp;B를 노래하는 가수?!  [뮤직코리아#5]\nhttps://t.co/B2gkEKj9T3"
+	},
+	{
+		"created_at": "Wed May 13 11:34:06 +0000 2020",
+		"id": 1260533774321844200,
+		"id_str": "1260533774321844224",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n수현수아\nhttps://t.co/H2ZS4vJ45A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2ZS4vJ45A",
+					"expanded_url": "https://youtu.be/OhNluFU9I4A",
+					"display_url": "youtu.be/OhNluFU9I4A",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 211,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n수현수아\nhttps://t.co/H2ZS4vJ45A"
+	},
+	{
 		"created_at": "Wed May 13 11:06:00 +0000 2020",
 		"id": 1260526703039991800,
 		"id_str": "1260526703039991809",
