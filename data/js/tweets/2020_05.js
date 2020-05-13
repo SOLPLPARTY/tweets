@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 07:29:32 +0000 2020",
+		"id": 1260465640994943000,
+		"id_str": "1260472227352514563",
+		"full_text": "💿 우리같은사람들 [영웅은 어쩌다 평범한 인간이 되었나]\n✚ 앨범 자세히 보기: https://t.co/Xi5C38dEDK\n\n💿 UNTITLEDS [My Side]\n✚ 앨범 자세히 보기: https://t.co/MYksfNfbV1\n\n💿 웅태공 [Now]\n✚ 앨범 자세히 보기: https://t.co/oe78eKFq1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xi5C38dEDK",
+					"expanded_url": "https://bit.ly/35TbrB8",
+					"display_url": "bit.ly/35TbrB8",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/MYksfNfbV1",
+					"expanded_url": "https://bit.ly/2YXD6Q3",
+					"display_url": "bit.ly/2YXD6Q3",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/oe78eKFq1m",
+					"expanded_url": "https://bit.ly/2T2vrfk",
+					"display_url": "bit.ly/2T2vrfk",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260465635563315200,
+		"in_reply_to_status_id_str": "1260465635563315205",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 2924,
+			"listed_count": 257,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿 우리같은사람들 [영웅은 어쩌다 평범한 인간이 되었나]\n✚ 앨범 자세히 보기: https://t.co/Xi5C38dEDK\n\n💿 UNTITLEDS [My Side]\n✚ 앨범 자세히 보기: https://t.co/MYksfNfbV1\n\n💿 웅태공 [Now]\n✚ 앨범 자세히 보기: https://t.co/oe78eKFq1m"
+	},
+	{
+		"created_at": "Wed May 13 07:29:24 +0000 2020",
+		"id": 1260465635563315200,
+		"id_str": "1260472197522563072",
+		"full_text": "[New Release May 13]\n꾸준한 음원 발매로 자신만의 이야기를 풀어나가고 있는 우리같은사람들의 [영웅은 어쩌다 평범한 인간이 되었나], 곧 정규 앨범을 발매하는 UNTITLEDS의 선공개곡 [My Side], 그리고 신인 답지 않은 실력, 여유, 유쾌함을 여과 없이 담아 낸 웅태공의 [Now]가 발매되었습니다. https://t.co/csyFaU7iSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260464786019582000,
+					"id_str": "1260464786019581955",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4SC26WAAM8Ic6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4SC26WAAM8Ic6.jpg",
+					"url": "https://t.co/csyFaU7iSp",
+					"display_url": "pic.twitter.com/csyFaU7iSp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1260465635563315205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260464786019582000,
+					"id_str": "1260464786019581955",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4SC26WAAM8Ic6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4SC26WAAM8Ic6.jpg",
+					"url": "https://t.co/csyFaU7iSp",
+					"display_url": "pic.twitter.com/csyFaU7iSp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1260465635563315205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260464870002131000,
+					"id_str": "1260464870002130947",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4SHvxWAAMXLnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4SHvxWAAMXLnc.jpg",
+					"url": "https://t.co/csyFaU7iSp",
+					"display_url": "pic.twitter.com/csyFaU7iSp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1260465635563315205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260465154837405700,
+					"id_str": "1260465154837405700",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4SYU3XYAQffuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4SYU3XYAQffuS.jpg",
+					"url": "https://t.co/csyFaU7iSp",
+					"display_url": "pic.twitter.com/csyFaU7iSp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1260465635563315205/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9558,
+			"friends_count": 2924,
+			"listed_count": 257,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release May 13]\n꾸준한 음원 발매로 자신만의 이야기를 풀어나가고 있는 우리같은사람들의 [영웅은 어쩌다 평범한 인간이 되었나], 곧 정규 앨범을 발매하는 UNTITLEDS의 선공개곡 [My Side], 그리고 신인 답지 않은 실력, 여유, 유쾌함을 여과 없이 담아 낸 웅태공의 [Now]가 발매되었습니다. https://t.co/csyFaU7iSp"
+	},
+	{
 		"created_at": "Wed May 13 07:13:12 +0000 2020",
 		"id": 1260468117018488800,
 		"id_str": "1260468117018488833",
