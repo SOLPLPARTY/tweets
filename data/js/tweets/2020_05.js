@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 23:41:38 +0000 2020",
+		"id": 1260716717656830000,
+		"id_str": "1260716864319172608",
+		"full_text": "아침 뉴스!\n서울 메트로폴리탄 올겨울 들어 최대 적설량을 기록했습니다. 최저 기온 영하 10도 옷차림을 따뜻하게 하셔야겠습니다. https://t.co/u5GzYRtl2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u5GzYRtl2C",
+					"expanded_url": "https://twitter.com/newsculture/status/1260716079250202624",
+					"display_url": "twitter.com/newsculture/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3620,
+			"friends_count": 30,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260716079250202600,
+		"quoted_status_id_str": "1260716079250202624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u5GzYRtl2C",
+			"expanded": "https://twitter.com/newsculture/status/1260716079250202624",
+			"display": "twitter.com/newsculture/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 13 23:38:30 +0000 2020",
+			"id": 1260716079250202600,
+			"id_str": "1260716079250202624",
+			"full_text": "뮤지컬 '어쩌면 해피엔딩' 6월 개막, 전미도·정문성·양희준 출연\nhttps://t.co/x1GF9os9WF 뉴스컬처\n#어쩌면해피엔딩 #정문성 #전성우 #양희준 #전미도 #강혜인 #한재아 #성종완 #이선근",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "어쩌면해피엔딩",
+						"indices": [
+							66,
+							74
+						]
+					},
+					{
+						"text": "정문성",
+						"indices": [
+							75,
+							79
+						]
+					},
+					{
+						"text": "전성우",
+						"indices": [
+							80,
+							84
+						]
+					},
+					{
+						"text": "양희준",
+						"indices": [
+							85,
+							89
+						]
+					},
+					{
+						"text": "전미도",
+						"indices": [
+							90,
+							94
+						]
+					},
+					{
+						"text": "강혜인",
+						"indices": [
+							95,
+							99
+						]
+					},
+					{
+						"text": "한재아",
+						"indices": [
+							100,
+							104
+						]
+					},
+					{
+						"text": "성종완",
+						"indices": [
+							105,
+							109
+						]
+					},
+					{
+						"text": "이선근",
+						"indices": [
+							110,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x1GF9os9WF",
+						"expanded_url": "https://nc.asiae.co.kr/view.htm?sec=0100&idxno=2020051408320363552",
+						"display_url": "nc.asiae.co.kr/view.htm?sec=0…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182004140,
+				"id_str": "182004140",
+				"name": "뉴스컬처(공연문화)",
+				"screen_name": "NewsCulture",
+				"location": "",
+				"description": "공연문화(뮤지컬/연극/오페라/무용/클래식/전시)를 전하는 문화전문 뉴스컬처 공식 트위터입니다 :)",
+				"url": "https://t.co/Niib6uDjnZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Niib6uDjnZ",
+								"expanded_url": "http://nc.asiae.co.kr/",
+								"display_url": "nc.asiae.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19572,
+				"friends_count": 16723,
+				"listed_count": 151,
+				"created_at": "Mon Aug 23 16:01:10 +0000 2010",
+				"favourites_count": 76,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29995,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984582007127654400/F6S6NW35_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182004140/1526608062",
+				"profile_link_color": "008ED2",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1170,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 342,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아침 뉴스!\n서울 메트로폴리탄 올겨울 들어 최대 적설량을 기록했습니다. 최저 기온 영하 10도 옷차림을 따뜻하게 하셔야겠습니다. https://t.co/u5GzYRtl2C"
+	},
+	{
 		"created_at": "Wed May 13 22:45:22 +0000 2020",
 		"id": 1260675206718210000,
 		"id_str": "1260702707393810432",
