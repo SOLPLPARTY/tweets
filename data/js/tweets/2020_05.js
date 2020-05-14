@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 10:41:40 +0000 2020",
+		"id": 1260877976171761700,
+		"id_str": "1260882969096589314",
+		"full_text": "[#네이버포스트 - Playlist]\n⠀\n달빛에 취해 음악을 기울여 🌇\n\n🎵 https://t.co/Ak8APPkAFT\n-\n#인디음악추천 #플레이리스트 https://t.co/sT5MIxk3cH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버포스트",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "인디음악추천",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ak8APPkAFT",
+					"expanded_url": "http://reurl.kr/2027EF25RS",
+					"display_url": "reurl.kr/2027EF25RS",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260871011991351300,
+					"id_str": "1260871011991351298",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-DgUlU8AInITl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-DgUlU8AInITl.jpg",
+					"url": "https://t.co/sT5MIxk3cH",
+					"display_url": "pic.twitter.com/sT5MIxk3cH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1260877976171761664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260871011991351300,
+					"id_str": "1260871011991351298",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-DgUlU8AInITl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-DgUlU8AInITl.jpg",
+					"url": "https://t.co/sT5MIxk3cH",
+					"display_url": "pic.twitter.com/sT5MIxk3cH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1260877976171761664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260871018362491000,
+					"id_str": "1260871018362490882",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-DgsUU0AIcbAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-DgsUU0AIcbAZ.jpg",
+					"url": "https://t.co/sT5MIxk3cH",
+					"display_url": "pic.twitter.com/sT5MIxk3cH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1260877976171761664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260871031054405600,
+					"id_str": "1260871031054405633",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-DhbmUEAEu9HP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-DhbmUEAEu9HP.jpg",
+					"url": "https://t.co/sT5MIxk3cH",
+					"display_url": "pic.twitter.com/sT5MIxk3cH",
+					"expanded_url": "https://twitter.com/xindieticket/status/1260877976171761664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n\n※ 운영시간: 1-9PM / 저녁시간: 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2816,
+			"friends_count": 2725,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#네이버포스트 - Playlist]\n⠀\n달빛에 취해 음악을 기울여 🌇\n\n🎵 https://t.co/Ak8APPkAFT\n-\n#인디음악추천 #플레이리스트 https://t.co/sT5MIxk3cH"
+	},
+	{
+		"created_at": "Thu May 14 10:41:38 +0000 2020",
+		"id": 1260876895391907800,
+		"id_str": "1260882960162721792",
+		"full_text": "일요일(5/17) 까데호+CHS 공연은 예정대로 진행합니다.\n\n예매 : https://t.co/VVAWFk9CIW\n\n철저한 방역 준비로 운영이 되며, 스탠딩 정원의 50%인 100명 한정 입장됩니다(티켓은 7장 남아있고요, 매진 시 현매없습니다). 스탠딩이지만 뒤쪽에 25석 정도의 좌석도 준비합니다. 꼼꼼히 준비하겠습니다. https://t.co/CmVW9MDNp4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VVAWFk9CIW",
+					"expanded_url": "https://c11.kr/f1l1",
+					"display_url": "c11.kr/f1l1",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260876785295605800,
+					"id_str": "1260876785295605761",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-IwX0UwAEtrvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-IwX0UwAEtrvZ.jpg",
+					"url": "https://t.co/CmVW9MDNp4",
+					"display_url": "pic.twitter.com/CmVW9MDNp4",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1260876895391907840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1754,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260876785295605800,
+					"id_str": "1260876785295605761",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EX-IwX0UwAEtrvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX-IwX0UwAEtrvZ.jpg",
+					"url": "https://t.co/CmVW9MDNp4",
+					"display_url": "pic.twitter.com/CmVW9MDNp4",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1260876895391907840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1754,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8868,
+			"friends_count": 147,
+			"listed_count": 137,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일요일(5/17) 까데호+CHS 공연은 예정대로 진행합니다.\n\n예매 : https://t.co/VVAWFk9CIW\n\n철저한 방역 준비로 운영이 되며, 스탠딩 정원의 50%인 100명 한정 입장됩니다(티켓은 7장 남아있고요, 매진 시 현매없습니다). 스탠딩이지만 뒤쪽에 25석 정도의 좌석도 준비합니다. 꼼꼼히 준비하겠습니다. https://t.co/CmVW9MDNp4"
+	},
+	{
 		"created_at": "Thu May 14 10:16:48 +0000 2020",
 		"id": 1260876710045679600,
 		"id_str": "1260876710045679617",
