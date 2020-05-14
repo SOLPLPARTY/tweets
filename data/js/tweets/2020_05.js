@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 01:41:38 +0000 2020",
+		"id": 1260734770540994600,
+		"id_str": "1260747062917939202",
+		"full_text": "#앨런플레처 스튜디오에 놀러오세요.\n&lt;#웰컴투마이스튜디오!&gt; in 부산!\n\n🟡부산시민회관 갤러리\n🟡4/21(화)-6/21(일)\n⠀⠀⠀⠀⠀⠀\n💁🏻‍♀️자체방역 1일 2회 실시,\n마스크 착용 의무화!\n거리두기 관람 등의 방역을\n꼼꼼하게 진행하고 있습니다!\n⠀⠀⠀⠀\n#상상마당갤러리 https://t.co/R2k8X0TUbC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앨런플레처",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "웰컴투마이스튜디오",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "상상마당갤러리",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260734762278248400,
+					"id_str": "1260734762278248448",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EX8Hli2U4AAWFi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX8Hli2U4AAWFi1.jpg",
+					"url": "https://t.co/R2k8X0TUbC",
+					"display_url": "pic.twitter.com/R2k8X0TUbC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1260734770540994560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260734762278248400,
+					"id_str": "1260734762278248448",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EX8Hli2U4AAWFi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX8Hli2U4AAWFi1.jpg",
+					"url": "https://t.co/R2k8X0TUbC",
+					"display_url": "pic.twitter.com/R2k8X0TUbC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1260734770540994560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260734762265636900,
+					"id_str": "1260734762265636865",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EX8HlizUcAEq9Ns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX8HlizUcAEq9Ns.jpg",
+					"url": "https://t.co/R2k8X0TUbC",
+					"display_url": "pic.twitter.com/R2k8X0TUbC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1260734770540994560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260734762269855700,
+					"id_str": "1260734762269855744",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EX8Hli0U0AABgLU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX8Hli0U0AABgLU.jpg",
+					"url": "https://t.co/R2k8X0TUbC",
+					"display_url": "pic.twitter.com/R2k8X0TUbC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1260734770540994560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260734762269827000,
+					"id_str": "1260734762269827073",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EX8Hli0UYAEbQqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX8Hli0UYAEbQqa.jpg",
+					"url": "https://t.co/R2k8X0TUbC",
+					"display_url": "pic.twitter.com/R2k8X0TUbC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1260734770540994560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18448,
+			"friends_count": 1948,
+			"listed_count": 0,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#앨런플레처 스튜디오에 놀러오세요.\n&lt;#웰컴투마이스튜디오!&gt; in 부산!\n\n🟡부산시민회관 갤러리\n🟡4/21(화)-6/21(일)\n⠀⠀⠀⠀⠀⠀\n💁🏻‍♀️자체방역 1일 2회 실시,\n마스크 착용 의무화!\n거리두기 관람 등의 방역을\n꼼꼼하게 진행하고 있습니다!\n⠀⠀⠀⠀\n#상상마당갤러리 https://t.co/R2k8X0TUbC"
+	},
+	{
 		"created_at": "Wed May 13 23:41:38 +0000 2020",
 		"id": 1260716717656830000,
 		"id_str": "1260716864319172608",
