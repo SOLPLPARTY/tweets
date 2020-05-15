@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 11:41:37 +0000 2020",
+		"id": 1261249077787783200,
+		"id_str": "1261260445668818945",
+		"full_text": "[공연취소] 5/17(일) 까데호+CHS.\n\n변화된 상황과 출연 팀의 의사를 고려해 공연을 취소하게 되었습니다. 예매하신 분들은 전액 환불해드렸습니다. 하루이틀 전 취소하셔서 수수료가 발생하신 분들은 확인 후 umbrella@naver.com으로 메일 주시면 환불해드리겠습니다. 감사드립니다. 그리고,죄송합니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8864,
+			"friends_count": 147,
+			"listed_count": 137,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[공연취소] 5/17(일) 까데호+CHS.\n\n변화된 상황과 출연 팀의 의사를 고려해 공연을 취소하게 되었습니다. 예매하신 분들은 전액 환불해드렸습니다. 하루이틀 전 취소하셔서 수수료가 발생하신 분들은 확인 후 umbrella@naver.com으로 메일 주시면 환불해드리겠습니다. 감사드립니다. 그리고,죄송합니다"
+	},
+	{
+		"created_at": "Fri May 15 11:29:24 +0000 2020",
+		"id": 1261236699369058300,
+		"id_str": "1261257371038502912",
+		"full_text": "[#조연호] Debut Film \nㅤㅤ ㅤ\n조연호 개인 유튜브 채널 OPEN!\n채널명👉 조연호예요\nhttps://t.co/jjrst9dM5h\nㅤㅤ ㅤ\n첫 싱글 '좋겠어'\n2020. 05. 18 PM 6:00 공개\nㅤㅤ ㅤ\n#좋겠어 #발라드 #데뷔 https://t.co/2ROWqI25jp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조연호",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "좋겠어",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "발라드",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "데뷔",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jjrst9dM5h",
+					"expanded_url": "https://bit.ly/2WzSRuE",
+					"display_url": "bit.ly/2WzSRuE",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261236654796189700,
+					"id_str": "1261236654796189698",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261236654796189698/pu/img/G4j_B8tdp7lZxBRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261236654796189698/pu/img/G4j_B8tdp7lZxBRV.jpg",
+					"url": "https://t.co/2ROWqI25jp",
+					"display_url": "pic.twitter.com/2ROWqI25jp",
+					"expanded_url": "https://twitter.com/themysticstory/status/1261236699369058304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261236654796189700,
+					"id_str": "1261236654796189698",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261236654796189698/pu/img/G4j_B8tdp7lZxBRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261236654796189698/pu/img/G4j_B8tdp7lZxBRV.jpg",
+					"url": "https://t.co/2ROWqI25jp",
+					"display_url": "pic.twitter.com/2ROWqI25jp",
+					"expanded_url": "https://twitter.com/themysticstory/status/1261236699369058304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 35285,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1261236654796189698/pu/pl/h1I7IAoRs4eE3ISD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1261236654796189698/pu/vid/720x406/2rqeHq60v75KR2ct.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1261236654796189698/pu/vid/478x270/imV0KG_rhG-XefZH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19370,
+			"friends_count": 18,
+			"listed_count": 226,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#조연호] Debut Film \nㅤㅤ ㅤ\n조연호 개인 유튜브 채널 OPEN!\n채널명👉 조연호예요\nhttps://t.co/jjrst9dM5h\nㅤㅤ ㅤ\n첫 싱글 '좋겠어'\n2020. 05. 18 PM 6:00 공개\nㅤㅤ ㅤ\n#좋겠어 #발라드 #데뷔 https://t.co/2ROWqI25jp"
+	},
+	{
 		"created_at": "Fri May 15 10:02:11 +0000 2020",
 		"id": 1261235421989810200,
 		"id_str": "1261235421989810176",
