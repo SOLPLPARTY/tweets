@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 15:29:38 +0000 2020",
+		"id": 1261315515953188900,
+		"id_str": "1261317824225726464",
+		"full_text": "#지은아_스물에잇번째_생일축하해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지은아_스물에잇번째_생일축하해",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261310530653794300,
+		"in_reply_to_status_id_str": "1261310530653794305",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19534,
+			"friends_count": 1,
+			"listed_count": 50,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 1247,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#지은아_스물에잇번째_생일축하해"
+	},
+	{
+		"created_at": "Fri May 15 15:29:32 +0000 2020",
+		"id": 1261310773587927000,
+		"id_str": "1261317802461446147",
+		"full_text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] HIGHLIGHT MEDLEY\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/s8TILtpq2B\n🖇NAVER V ▶ https://t.co/V6ktZRCgYX\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/mOpK6CMAAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "RYUSUJEONG",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "Tiger_Eyes",
+					"indices": [
+						195,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s8TILtpq2B",
+					"expanded_url": "https://youtu.be/GEIc0o_FSms",
+					"display_url": "youtu.be/GEIc0o_FSms",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/V6ktZRCgYX",
+					"expanded_url": "https://www.vlive.tv/video/191209",
+					"display_url": "vlive.tv/video/191209",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261310753635577900,
+					"id_str": "1261310753635577857",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETcp3UMAEZV6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETcp3UMAEZV6k.jpg",
+					"url": "https://t.co/mOpK6CMAAB",
+					"display_url": "pic.twitter.com/mOpK6CMAAB",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1261310773587927042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261310753635577900,
+					"id_str": "1261310753635577857",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETcp3UMAEZV6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETcp3UMAEZV6k.jpg",
+					"url": "https://t.co/mOpK6CMAAB",
+					"display_url": "pic.twitter.com/mOpK6CMAAB",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1261310773587927042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413981,
+			"friends_count": 9,
+			"listed_count": 1791,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1589295900",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] HIGHLIGHT MEDLEY\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/s8TILtpq2B\n🖇NAVER V ▶ https://t.co/V6ktZRCgYX\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/mOpK6CMAAB"
+	},
+	{
+		"created_at": "Fri May 15 15:29:30 +0000 2020",
+		"id": 1261310530653794300,
+		"id_str": "1261317790771949568",
+		"full_text": "♥ Happy Birthday, IU ♥\n⠀\n#아이유 #IU\n#생일축하합니다 https://t.co/C88wa9YRWv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "생일축하합니다",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261310513834651600,
+					"id_str": "1261310513834651659",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETOsiUcAspBgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETOsiUcAspBgA.jpg",
+					"url": "https://t.co/C88wa9YRWv",
+					"display_url": "pic.twitter.com/C88wa9YRWv",
+					"expanded_url": "https://twitter.com/edam_ent/status/1261310530653794305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261310513834651600,
+					"id_str": "1261310513834651659",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EYETOsiUcAspBgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYETOsiUcAspBgA.jpg",
+					"url": "https://t.co/C88wa9YRWv",
+					"display_url": "pic.twitter.com/C88wa9YRWv",
+					"expanded_url": "https://twitter.com/edam_ent/status/1261310530653794305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19534,
+			"friends_count": 1,
+			"listed_count": 50,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4238,
+		"favorite_count": 6896,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "♥ Happy Birthday, IU ♥\n⠀\n#아이유 #IU\n#생일축하합니다 https://t.co/C88wa9YRWv"
+	},
+	{
 		"created_at": "Fri May 15 14:50:21 +0000 2020",
 		"id": 1261307939106758700,
 		"id_str": "1261307939106758656",
