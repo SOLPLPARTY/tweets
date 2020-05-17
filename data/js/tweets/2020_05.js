@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 04:41:38 +0000 2020",
+		"id": 1261866948461244400,
+		"id_str": "1261879524985274368",
+		"full_text": "&lt;해피해피 레스토랑&gt; 굿즈 이벤트!\n\n05. 19(화) 17:30 2관\n&lt;해피해피 레스토랑&gt; 예매자 총 3분(발권순)께\n해피 버터 나이프·포크 세트를 증정해 드립니다.\n\n#에무시네마 #복합문화공간에무 #해피해피레스토랑 #emucinema #emuartspace https://t.co/Vs42xAzWcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에무시네마",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "복합문화공간에무",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "해피해피레스토랑",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "emucinema",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "emuartspace",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vs42xAzWcG",
+					"expanded_url": "https://www.instagram.com/p/CARkdyxF9hr/?igshid=1h9244okbgvck",
+					"display_url": "instagram.com/p/CARkdyxF9hr/…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4153156332,
+			"id_str": "4153156332",
+			"name": "복합문화공간에무",
+			"screen_name": "emuartspace",
+			"location": "서울 종로구 신문로2가 7",
+			"description": "에라스무스 에무입니다. 02)730-5604",
+			"url": "https://t.co/PH1vgNIEbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH1vgNIEbF",
+							"expanded_url": "http://emuartspace.com",
+							"display_url": "emuartspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 21,
+			"listed_count": 7,
+			"created_at": "Sat Nov 07 04:12:32 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662847124095168512/nFe4SH7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4153156332/1446870044",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;해피해피 레스토랑&gt; 굿즈 이벤트!\n\n05. 19(화) 17:30 2관\n&lt;해피해피 레스토랑&gt; 예매자 총 3분(발권순)께\n해피 버터 나이프·포크 세트를 증정해 드립니다.\n\n#에무시네마 #복합문화공간에무 #해피해피레스토랑 #emucinema #emuartspace https://t.co/Vs42xAzWcG"
+	},
+	{
 		"created_at": "Sun May 17 03:47:02 +0000 2020",
 		"id": 1261865787377287200,
 		"id_str": "1261865787377287168",
