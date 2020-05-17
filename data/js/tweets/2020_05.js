@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 00:29:32 +0000 2020",
+		"id": 1261806982203355100,
+		"id_str": "1261816083411013633",
+		"full_text": "[엔분의일 (1/N)] 𝙈𝙪𝙨𝙞𝙘 𝙑𝙞𝙙𝙚𝙤 🎥\n날 사랑하지 않는다면 날 (If you don't love me)\n풀버전은 슈가레코드 유튜브 채널에서 감상하실 수 있습니다.\n#엔분의일 #날사랑하지않는다면날 #슈가레코드… https://t.co/LERHbaBD66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엔분의일",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "날사랑하지않는다면날",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "슈가레코드",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LERHbaBD66",
+					"expanded_url": "https://www.instagram.com/p/CANJatCFi13/?igshid=gpa5dfupge52",
+					"display_url": "instagram.com/p/CANJatCFi13/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#뷰티핸섬 #리썬 #데일리노트 #마리슈 #모브닝 #입술을깨물다 #엔분의일 #당기시오 #우리같은사람들 과 함께하는 슈가레코드",
+			"url": "https://t.co/MaZwhWtsct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWtsct",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 49,
+			"listed_count": 10,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[엔분의일 (1/N)] 𝙈𝙪𝙨𝙞𝙘 𝙑𝙞𝙙𝙚𝙤 🎥\n날 사랑하지 않는다면 날 (If you don't love me)\n풀버전은 슈가레코드 유튜브 채널에서 감상하실 수 있습니다.\n#엔분의일 #날사랑하지않는다면날 #슈가레코드… https://t.co/LERHbaBD66"
+	},
+	{
 		"created_at": "Sat May 16 18:51:53 +0000 2020",
 		"id": 1261731111476043800,
 		"id_str": "1261731111476043782",
