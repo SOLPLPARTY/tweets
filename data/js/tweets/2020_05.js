@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 05:29:25 +0000 2020",
+		"id": 1262251293151658000,
+		"id_str": "1262253939690438658",
+		"full_text": "#Rainbownote #YoutubeLive\n[Rainbow note] YouTube LIVE &amp; VLIVE\nToday 6pm 🙌🏻 \nplz check https://t.co/Twa1NB1fuY\n⠀\n📺시청방법\n- 유튜브 앱 ,브이라이브 다운\n- 루비튜브, 루비레코드 팔로우\n- 🌈레인보우노트 유튜브라이브,브이라이브 시청✨ https://t.co/lkGVLvXCTj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rainbownote",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "YoutubeLive",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Twa1NB1fuY",
+					"expanded_url": "https://bit.ly/2LG8NVW",
+					"display_url": "bit.ly/2LG8NVW",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262250280332087300,
+					"id_str": "1262250280332087300",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRp8TjU0AQDmj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRp8TjU0AQDmj6.jpg",
+					"url": "https://t.co/lkGVLvXCTj",
+					"display_url": "pic.twitter.com/lkGVLvXCTj",
+					"expanded_url": "https://twitter.com/ruby_records/status/1262251293151657985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262250280332087300,
+					"id_str": "1262250280332087300",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRp8TjU0AQDmj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRp8TjU0AQDmj6.jpg",
+					"url": "https://t.co/lkGVLvXCTj",
+					"display_url": "pic.twitter.com/lkGVLvXCTj",
+					"expanded_url": "https://twitter.com/ruby_records/status/1262251293151657985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7983,
+			"friends_count": 8640,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Rainbownote #YoutubeLive\n[Rainbow note] YouTube LIVE &amp; VLIVE\nToday 6pm 🙌🏻 \nplz check https://t.co/Twa1NB1fuY\n⠀\n📺시청방법\n- 유튜브 앱 ,브이라이브 다운\n- 루비튜브, 루비레코드 팔로우\n- 🌈레인보우노트 유튜브라이브,브이라이브 시청✨ https://t.co/lkGVLvXCTj"
+	},
+	{
 		"created_at": "Mon May 18 04:40:25 +0000 2020",
 		"id": 1262241609464385500,
 		"id_str": "1262241609464385536",
