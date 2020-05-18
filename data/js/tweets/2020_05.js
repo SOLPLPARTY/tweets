@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 15:29:25 +0000 2020",
+		"id": 1262397532610625500,
+		"id_str": "1262404933216874496",
+		"full_text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Album Making\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/r09yp5AOjC\n🖇NAVER V ▶ https://t.co/m2c8qoualV\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/TkE9Pd8ndt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "RYUSUJEONG",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "Tiger_Eyes",
+					"indices": [
+						191,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r09yp5AOjC",
+					"expanded_url": "https://youtu.be/z7DxCQ-K4rw",
+					"display_url": "youtu.be/z7DxCQ-K4rw",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/m2c8qoualV",
+					"expanded_url": "https://www.vlive.tv/video/191815",
+					"display_url": "vlive.tv/video/191815",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262364115961438200,
+					"id_str": "1262364115961438208",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EYTReaUU4AATcpF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYTReaUU4AATcpF.jpg",
+					"url": "https://t.co/TkE9Pd8ndt",
+					"display_url": "pic.twitter.com/TkE9Pd8ndt",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1262397532610625536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262364115961438200,
+					"id_str": "1262364115961438208",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EYTReaUU4AATcpF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYTReaUU4AATcpF.jpg",
+					"url": "https://t.co/TkE9Pd8ndt",
+					"display_url": "pic.twitter.com/TkE9Pd8ndt",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1262397532610625536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#Golden_Child\n#Rocket_Punch\n#W_PROJECT",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413910,
+			"friends_count": 9,
+			"listed_count": 1795,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102827421705748480/bJWoBAHC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1589295900",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 770,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] 류수정 (RYU SU JEONG) 1st Mini Album [Tiger Eyes] Album Making\n2020.05.20 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/r09yp5AOjC\n🖇NAVER V ▶ https://t.co/m2c8qoualV\n\n#Lovelyz #러블리즈 #RYUSUJEONG #류수정\n#Tiger_Eyes https://t.co/TkE9Pd8ndt"
+	},
+	{
 		"created_at": "Mon May 18 15:02:10 +0000 2020",
 		"id": 1262398078830686200,
 		"id_str": "1262398078830686215",
