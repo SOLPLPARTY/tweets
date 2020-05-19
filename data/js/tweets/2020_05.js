@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 03:01:21 +0000 2020",
+		"id": 1262579064877039600,
+		"id_str": "1262579064877039616",
+		"full_text": "#솔플파티 트위터 뉴스레터 (May 19) https://t.co/U1Q37thMUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U1Q37thMUY",
+					"expanded_url": "https://nzzl.us/vjKHdyF",
+					"display_url": "nzzl.us/vjKHdyF",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 212,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (May 19) https://t.co/U1Q37thMUY"
+	},
+	{
+		"created_at": "Tue May 19 02:48:48 +0000 2020",
+		"id": 1262568703121477600,
+		"id_str": "1262575908533092353",
+		"full_text": "-마스크를 착용하고 입장해주시길 부탁드립니다. 마스크 미착용시 공연 관람이 제한됩니다. \n-체온 측정에 협조해주세요. 체온 37도가 넘는 분들은 공연 관람이 제한됩니다.\n-공연장 입구에서 성명과 전화번호를 수집할 예정입니다. 본 공연에서 코로나19 관련 이슈가 생겼을 때만 사용될 목적입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1262567705556611000,
+		"in_reply_to_status_id_str": "1262567705556611073",
+		"in_reply_to_user_id": 2541008467,
+		"in_reply_to_user_id_str": "2541008467",
+		"in_reply_to_screen_name": "57_ohchill",
+		"user": {
+			"id": 2541008467,
+			"id_str": "2541008467",
+			"name": "오칠 (Oh Chill)",
+			"screen_name": "57_ohchill",
+			"location": "korea",
+			"description": "🔥NEW M/V🔥▶️ https://t.co/GmpdT7bLwy",
+			"url": "https://t.co/dIyyRdcP8e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dIyyRdcP8e",
+							"expanded_url": "https://ohchill.bandcamp.com/",
+							"display_url": "ohchill.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GmpdT7bLwy",
+							"expanded_url": "https://youtu.be/9cXRiZImrPo",
+							"display_url": "youtu.be/9cXRiZImrPo",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 309,
+			"listed_count": 11,
+			"created_at": "Mon Jun 02 08:02:52 +0000 2014",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213638808329019392/bnUz1dcb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213638808329019392/bnUz1dcb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2541008467/1587970827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "-마스크를 착용하고 입장해주시길 부탁드립니다. 마스크 미착용시 공연 관람이 제한됩니다. \n-체온 측정에 협조해주세요. 체온 37도가 넘는 분들은 공연 관람이 제한됩니다.\n-공연장 입구에서 성명과 전화번호를 수집할 예정입니다. 본 공연에서 코로나19 관련 이슈가 생겼을 때만 사용될 목적입니다."
+	},
+	{
+		"created_at": "Tue May 19 02:48:42 +0000 2020",
+		"id": 1262567705556611000,
+		"id_str": "1262575882725519360",
+		"full_text": "키라라 &lt;그냥하는 단독공연&gt; FINAL 공연에 오칠이 함께 합니다. 이번 공연은 키라라님이 원하는 만큼 가능한 많은 음악을 연주할 예정이라고 합니다. 오칠이들 또한 특별한 세션 연주자와 함께 연주하려고 합니다. 20회를 끝으로 마무리하는 키라라 &lt;그냥하는 단독공연&gt;에 깊은 관심 부탁드립니다! https://t.co/mypKCyZxJu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262567703140688000,
+					"id_str": "1262567703140687873",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EYWKovqU4AEqYw8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYWKovqU4AEqYw8.jpg",
+					"url": "https://t.co/mypKCyZxJu",
+					"display_url": "pic.twitter.com/mypKCyZxJu",
+					"expanded_url": "https://twitter.com/57_ohchill/status/1262567705556611073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262567703140688000,
+					"id_str": "1262567703140687873",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EYWKovqU4AEqYw8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYWKovqU4AEqYw8.jpg",
+					"url": "https://t.co/mypKCyZxJu",
+					"display_url": "pic.twitter.com/mypKCyZxJu",
+					"expanded_url": "https://twitter.com/57_ohchill/status/1262567705556611073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2541008467,
+			"id_str": "2541008467",
+			"name": "오칠 (Oh Chill)",
+			"screen_name": "57_ohchill",
+			"location": "korea",
+			"description": "🔥NEW M/V🔥▶️ https://t.co/GmpdT7bLwy",
+			"url": "https://t.co/dIyyRdcP8e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dIyyRdcP8e",
+							"expanded_url": "https://ohchill.bandcamp.com/",
+							"display_url": "ohchill.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GmpdT7bLwy",
+							"expanded_url": "https://youtu.be/9cXRiZImrPo",
+							"display_url": "youtu.be/9cXRiZImrPo",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 309,
+			"listed_count": 11,
+			"created_at": "Mon Jun 02 08:02:52 +0000 2014",
+			"favourites_count": 662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213638808329019392/bnUz1dcb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213638808329019392/bnUz1dcb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2541008467/1587970827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "키라라 &lt;그냥하는 단독공연&gt; FINAL 공연에 오칠이 함께 합니다. 이번 공연은 키라라님이 원하는 만큼 가능한 많은 음악을 연주할 예정이라고 합니다. 오칠이들 또한 특별한 세션 연주자와 함께 연주하려고 합니다. 20회를 끝으로 마무리하는 키라라 &lt;그냥하는 단독공연&gt;에 깊은 관심 부탁드립니다! https://t.co/mypKCyZxJu"
+	},
+	{
+		"created_at": "Tue May 19 02:44:09 +0000 2020",
+		"id": 1262574738959974400,
+		"id_str": "1262574738959974401",
+		"full_text": "#대림미술관 #디뮤지엄\n[다시보기] 5/6(수) 디뮤지엄《SOUNDMUSEUM: 너의 감정과 기억》온라인 중계\nhttps://t.co/yP6ZeRizpg\n#Daelim_Museum #D_MUSEUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대림미술관",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "디뮤지엄",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "Daelim_Museum",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "D_MUSEUM",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yP6ZeRizpg",
+					"expanded_url": "https://youtu.be/FRsxRUR2VEo",
+					"display_url": "youtu.be/FRsxRUR2VEo",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의 contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 212,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대림미술관 #디뮤지엄\n[다시보기] 5/6(수) 디뮤지엄《SOUNDMUSEUM: 너의 감정과 기억》온라인 중계\nhttps://t.co/yP6ZeRizpg\n#Daelim_Museum #D_MUSEUM"
+	},
+	{
+		"created_at": "Tue May 19 02:41:38 +0000 2020",
+		"id": 1262564356421611500,
+		"id_str": "1262574102151344129",
+		"full_text": "#상상마당갤러리\n혼자 일하는 창작자들의\n독립문화콘텐츠 기획전\n&lt;나 혼자 산다&gt; 5/15(금) OPEN!!\n\n🔸고경원, 김소윤, 문용, 이연옥\n🔸5/15(금)-6/30(화) 까지 (월 휴관)\n🔸KT&amp;G 상상마당 홍대 갤러리 4,5층\n🎁선물 증정 이벤트도 있어요:)\n⠀⠀⠀⠀⠀⠀\n#나혼자산다전시 #나혼자산다 #상상마당 https://t.co/DdynVB6OuC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당갤러리",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "나혼자산다전시",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "나혼자산다",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262564334120534000,
+					"id_str": "1262564334120534021",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262564334120534021/pu/img/VcU3KHhEjpC0srIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262564334120534021/pu/img/VcU3KHhEjpC0srIv.jpg",
+					"url": "https://t.co/DdynVB6OuC",
+					"display_url": "pic.twitter.com/DdynVB6OuC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1262564356421611520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262564334120534000,
+					"id_str": "1262564334120534021",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262564334120534021/pu/img/VcU3KHhEjpC0srIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262564334120534021/pu/img/VcU3KHhEjpC0srIv.jpg",
+					"url": "https://t.co/DdynVB6OuC",
+					"display_url": "pic.twitter.com/DdynVB6OuC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1262564356421611520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 4000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1262564334120534021/pu/vid/720x720/ZtfrfuiCyyuPQZKl.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1262564334120534021/pu/vid/320x320/rgBRCLnMImIARxhI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1262564334120534021/pu/pl/y3cbbpkEs6HXil3M.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1262564334120534021/pu/vid/480x480/AH-XaFUGJQSO-vOr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18436,
+			"friends_count": 1944,
+			"listed_count": 297,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당갤러리\n혼자 일하는 창작자들의\n독립문화콘텐츠 기획전\n&lt;나 혼자 산다&gt; 5/15(금) OPEN!!\n\n🔸고경원, 김소윤, 문용, 이연옥\n🔸5/15(금)-6/30(화) 까지 (월 휴관)\n🔸KT&amp;G 상상마당 홍대 갤러리 4,5층\n🎁선물 증정 이벤트도 있어요:)\n⠀⠀⠀⠀⠀⠀\n#나혼자산다전시 #나혼자산다 #상상마당 https://t.co/DdynVB6OuC"
+	},
+	{
+		"created_at": "Tue May 19 02:29:27 +0000 2020",
+		"id": 1262568889990279200,
+		"id_str": "1262571036249395201",
+		"full_text": "[#신재휘] '아무도모른다' 악역 어디로?…신재휘, '좋겠어' MV 속 '현실 남친' 매력 물씬\n▶ https://t.co/QaKcLMuZV2\n\n🎬 MV 보러가기 &gt; https://t.co/SWztZeyI37\n\n#좋겠어 #배우 #SHINJAEWHI https://t.co/APwRt4MqJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신재휘",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "좋겠어",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "SHINJAEWHI",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QaKcLMuZV2",
+					"expanded_url": "https://bit.ly/2WGwrIg",
+					"display_url": "bit.ly/2WGwrIg",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/SWztZeyI37",
+					"expanded_url": "https://youtu.be/p87t6Rp_9tg",
+					"display_url": "youtu.be/p87t6Rp_9tg",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262567848397795300,
+					"id_str": "1262567848397795328",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EYWKxMyUcAAtZer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYWKxMyUcAAtZer.jpg",
+					"url": "https://t.co/APwRt4MqJ1",
+					"display_url": "pic.twitter.com/APwRt4MqJ1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1262568889990279169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1728,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262567848397795300,
+					"id_str": "1262567848397795328",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EYWKxMyUcAAtZer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYWKxMyUcAAtZer.jpg",
+					"url": "https://t.co/APwRt4MqJ1",
+					"display_url": "pic.twitter.com/APwRt4MqJ1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1262568889990279169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1728,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19384,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신재휘] '아무도모른다' 악역 어디로?…신재휘, '좋겠어' MV 속 '현실 남친' 매력 물씬\n▶ https://t.co/QaKcLMuZV2\n\n🎬 MV 보러가기 &gt; https://t.co/SWztZeyI37\n\n#좋겠어 #배우 #SHINJAEWHI https://t.co/APwRt4MqJ1"
+	},
+	{
 		"created_at": "Tue May 19 01:10:15 +0000 2020",
 		"id": 1262551105738805200,
 		"id_str": "1262551105738805253",
