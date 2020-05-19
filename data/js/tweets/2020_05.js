@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 10:41:44 +0000 2020",
+		"id": 1262692496968052700,
+		"id_str": "1262694925721833472",
+		"full_text": "잠시 후 8시부터 시작되오니\n아래 링크를 클릭하시고 잠시만 기다려주세요 😍\n⠀\n유튜브 채널 'GRDL 유튜브’\n▶ https://t.co/US09XPutQE\n⠀\n잠시 후에 만나요 🙋",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/US09XPutQE",
+					"expanded_url": "https://youtu.be/Ixh3sEU8wyo",
+					"display_url": "youtu.be/Ixh3sEU8wyo",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262692494648553500,
+		"in_reply_to_status_id_str": "1262692494648553472",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2817,
+			"friends_count": 2724,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 8시부터 시작되오니\n아래 링크를 클릭하시고 잠시만 기다려주세요 😍\n⠀\n유튜브 채널 'GRDL 유튜브’\n▶ https://t.co/US09XPutQE\n⠀\n잠시 후에 만나요 🙋"
+	},
+	{
+		"created_at": "Tue May 19 10:41:38 +0000 2020",
+		"id": 1262692494648553500,
+		"id_str": "1262694899989786624",
+		"full_text": "[2020 씬디스케치 랜선라이브]\n⠀\n씬디스케치 랜선라이브의 네 번째 라인업인\n🌟유지희🌟님의 리허설 현장입니다 🥳\n⠀\n특유의 감성으로 깊이감과 편안함을 함께 느낄 수 있는\n싱어송라이터 유지희님의 랜선라이브 🎶 https://t.co/7qlhDXwbPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262691965088362500,
+					"id_str": "1262691965088362496",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EYX7pvfU8AADkCy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYX7pvfU8AADkCy.jpg",
+					"url": "https://t.co/7qlhDXwbPf",
+					"display_url": "pic.twitter.com/7qlhDXwbPf",
+					"expanded_url": "https://twitter.com/xindieticket/status/1262692494648553472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262691965088362500,
+					"id_str": "1262691965088362496",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EYX7pvfU8AADkCy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYX7pvfU8AADkCy.jpg",
+					"url": "https://t.co/7qlhDXwbPf",
+					"display_url": "pic.twitter.com/7qlhDXwbPf",
+					"expanded_url": "https://twitter.com/xindieticket/status/1262692494648553472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262691980288553000,
+					"id_str": "1262691980288552960",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EYX7qoHVcAA-I4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYX7qoHVcAA-I4Y.jpg",
+					"url": "https://t.co/7qlhDXwbPf",
+					"display_url": "pic.twitter.com/7qlhDXwbPf",
+					"expanded_url": "https://twitter.com/xindieticket/status/1262692494648553472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2817,
+			"friends_count": 2724,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 씬디스케치 랜선라이브]\n⠀\n씬디스케치 랜선라이브의 네 번째 라인업인\n🌟유지희🌟님의 리허설 현장입니다 🥳\n⠀\n특유의 감성으로 깊이감과 편안함을 함께 느낄 수 있는\n싱어송라이터 유지희님의 랜선라이브 🎶 https://t.co/7qlhDXwbPf"
+	},
+	{
+		"created_at": "Tue May 19 10:29:29 +0000 2020",
+		"id": 1262690665323872300,
+		"id_str": "1262691840651821056",
+		"full_text": "‘그저 하고 싶다는 Just Want To Do It’ Album Artwork\n\nRelease:\n2020. 05. 22. FRI 12PM (KST)\n\nArtwork by 위보 Wevo\nDesign by Graphic Human @rykyho https://t.co/xYUIoN8Rl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rykyho",
+					"name": "Graphic Human",
+					"id": 885155015685308400,
+					"id_str": "885155015685308416",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262690643425411000,
+					"id_str": "1262690643425411073",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EYX6cz6UwAEGHlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYX6cz6UwAEGHlK.jpg",
+					"url": "https://t.co/xYUIoN8Rl1",
+					"display_url": "pic.twitter.com/xYUIoN8Rl1",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1262690665323872257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262690643425411000,
+					"id_str": "1262690643425411073",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EYX6cz6UwAEGHlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYX6cz6UwAEGHlK.jpg",
+					"url": "https://t.co/xYUIoN8Rl1",
+					"display_url": "pic.twitter.com/xYUIoN8Rl1",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1262690665323872257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘그저 하고 싶다는 Just Want To Do It’ Album Artwork\n\nRelease:\n2020. 05. 22. FRI 12PM (KST)\n\nArtwork by 위보 Wevo\nDesign by Graphic Human @rykyho https://t.co/xYUIoN8Rl1"
+	},
+	{
 		"created_at": "Tue May 19 10:13:29 +0000 2020",
 		"id": 1262687817647390700,
 		"id_str": "1262687817647390720",
