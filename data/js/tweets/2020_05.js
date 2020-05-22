@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 01:58:15 +0000 2020",
+		"id": 1263646698015867000,
+		"id_str": "1263650348843110406",
+		"full_text": "안녕하세요, 스테핑스톤페스티벌입니다. \n아쉬운 말씀을 전해드리려합니다. \n\n올해 7월 10일(금) ~ 11일(토) 진행 예정이었던 스테핑 스톤 페스티벌은 코로나19의 확산 방지와 도민 및 관광객 여러분의\n안전을 위해 취소되었음을 알려드립니다. \n\n더 행복하고 즐거운 페스티벌로 찾아뵙도록 하겠습니다 https://t.co/rcZ7kT1obM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263646686385025000,
+					"id_str": "1263646686385025024",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlf91eUMAAQY81.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYlf91eUMAAQY81.jpg",
+					"url": "https://t.co/rcZ7kT1obM",
+					"display_url": "pic.twitter.com/rcZ7kT1obM",
+					"expanded_url": "https://twitter.com/sarangho/status/1263646698015866880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263646686385025000,
+					"id_str": "1263646686385025024",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlf91eUMAAQY81.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYlf91eUMAAQY81.jpg",
+					"url": "https://t.co/rcZ7kT1obM",
+					"display_url": "pic.twitter.com/rcZ7kT1obM",
+					"expanded_url": "https://twitter.com/sarangho/status/1263646698015866880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117625867,
+			"id_str": "117625867",
+			"name": "스테핑스톤페스티벌",
+			"screen_name": "sarangho",
+			"location": "Jeju hamdeok",
+			"description": "스테핑 스톤 페스티벌 공식 계정입니다. 2019년 7월 12일(금)~13일(토) 2일간, 함덕해수욕장에서 만나요! https://t.co/QVEbW4fk0d",
+			"url": "https://t.co/kKnV8PllOx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kKnV8PllOx",
+							"expanded_url": "http://www.facebook.com/jejustst",
+							"display_url": "facebook.com/jejustst",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QVEbW4fk0d",
+							"expanded_url": "http://ststjeju.net",
+							"display_url": "ststjeju.net",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 287,
+			"listed_count": 7,
+			"created_at": "Fri Feb 26 03:16:32 +0000 2010",
+			"favourites_count": 908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141327107823300608/_GGJmMp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141327107823300608/_GGJmMp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117625867/1491806654",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요, 스테핑스톤페스티벌입니다. \n아쉬운 말씀을 전해드리려합니다. \n\n올해 7월 10일(금) ~ 11일(토) 진행 예정이었던 스테핑 스톤 페스티벌은 코로나19의 확산 방지와 도민 및 관광객 여러분의\n안전을 위해 취소되었음을 알려드립니다. \n\n더 행복하고 즐거운 페스티벌로 찾아뵙도록 하겠습니다 https://t.co/rcZ7kT1obM"
+	},
+	{
 		"created_at": "Thu May 21 23:13:05 +0000 2020",
 		"id": 1263608785203089400,
 		"id_str": "1263608785203089411",
