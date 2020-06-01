@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 11:29:30 +0000 2020",
+		"id": 1267415639154557000,
+		"id_str": "1267417987163840512",
+		"full_text": "[📸]\nWith Woollim '이어달리기' Lyrics Card\n\n#이어달리기_With_Woollim\n#With_Woollim #이어달리기 #Relay #Relay_Challenge\n#INFINITE #Lovelyz #GoldenChild #RocketPunch #Woollim_Rookie https://t.co/TabugYFsli",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						38,
+						57
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "Relay",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "RocketPunch",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "Woollim_Rookie",
+					"indices": [
+						148,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267415610083819500,
+					"id_str": "1267415610083819521",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EZbDyEXUwAEM3um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZbDyEXUwAEM3um.jpg",
+					"url": "https://t.co/TabugYFsli",
+					"display_url": "pic.twitter.com/TabugYFsli",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1267415639154556931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267415610083819500,
+					"id_str": "1267415610083819521",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EZbDyEXUwAEM3um.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZbDyEXUwAEM3um.jpg",
+					"url": "https://t.co/TabugYFsli",
+					"display_url": "pic.twitter.com/TabugYFsli",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1267415639154556931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267415610083774500,
+					"id_str": "1267415610083774464",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EZbDyEXUEAA-bef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZbDyEXUEAA-bef.jpg",
+					"url": "https://t.co/TabugYFsli",
+					"display_url": "pic.twitter.com/TabugYFsli",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1267415639154556931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1267415610109001700,
+					"id_str": "1267415610109001728",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EZbDyEdVAAAF7pe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZbDyEdVAAAF7pe.jpg",
+					"url": "https://t.co/TabugYFsli",
+					"display_url": "pic.twitter.com/TabugYFsli",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1267415639154556931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416663,
+			"friends_count": 9,
+			"listed_count": 1786,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1708,
+		"favorite_count": 2558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸]\nWith Woollim '이어달리기' Lyrics Card\n\n#이어달리기_With_Woollim\n#With_Woollim #이어달리기 #Relay #Relay_Challenge\n#INFINITE #Lovelyz #GoldenChild #RocketPunch #Woollim_Rookie https://t.co/TabugYFsli"
+	},
+	{
+		"created_at": "Mon Jun 01 11:29:27 +0000 2020",
+		"id": 1267414516251259000,
+		"id_str": "1267417974127890433",
+		"full_text": "#이어달리기_With_Woollim\n\nTikTok #이어달리기_챌린지 다음 주자를 정해주세요!이 트윗의 리트윗(🔁),마음(💟)수에 따라 정해집니다!\n\n⏰6/2 11:00AM까지\n\n🔁 룸메즈\n💟 블랙홀즈\n\n#With_Woollim #이어달리기 #Relay #Relay_Challenge\n#INFINITE #Lovelyz #GoldenChild #RocketPunch #Woollim_Rookie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						0,
+						19
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "Relay",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						142,
+						158
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "RocketPunch",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"text": "Woollim_Rookie",
+					"indices": [
+						204,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416663,
+			"friends_count": 9,
+			"listed_count": 1786,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1881,
+		"favorite_count": 3025,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#이어달리기_With_Woollim\n\nTikTok #이어달리기_챌린지 다음 주자를 정해주세요!이 트윗의 리트윗(🔁),마음(💟)수에 따라 정해집니다!\n\n⏰6/2 11:00AM까지\n\n🔁 룸메즈\n💟 블랙홀즈\n\n#With_Woollim #이어달리기 #Relay #Relay_Challenge\n#INFINITE #Lovelyz #GoldenChild #RocketPunch #Woollim_Rookie"
+	},
+	{
 		"created_at": "Mon Jun 01 11:03:04 +0000 2020",
 		"id": 1267411337711411200,
 		"id_str": "1267411337711411200",
