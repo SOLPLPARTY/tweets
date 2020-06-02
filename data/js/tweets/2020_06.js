@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 10:41:37 +0000 2020",
+		"id": 1267762263529623600,
+		"id_str": "1267768327528747008",
+		"full_text": "[#씬디스케치 #랜선라이브 : 열두달(12DAL) - 그저 그런 날]\n\n2020 씬디스케치 랜선라이브에서 뛰어난 가창력을 선보인 ✨#열두달(12DAL)✨의 라이브 클립 영상을 공개합니다🎉\n\n▶ https://t.co/TRwu1sHUgZ\n\n랜선라이브의 클립 영상은 순차 공개될 예정이니, 앞으로도 많은 관심 부탁드립니다🌟",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디스케치",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "랜선라이브",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "열두달",
+					"indices": [
+						73,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TRwu1sHUgZ",
+					"expanded_url": "https://youtu.be/xMD1GB9FMPY",
+					"display_url": "youtu.be/xMD1GB9FMPY",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2816,
+			"friends_count": 2724,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디스케치 #랜선라이브 : 열두달(12DAL) - 그저 그런 날]\n\n2020 씬디스케치 랜선라이브에서 뛰어난 가창력을 선보인 ✨#열두달(12DAL)✨의 라이브 클립 영상을 공개합니다🎉\n\n▶ https://t.co/TRwu1sHUgZ\n\n랜선라이브의 클립 영상은 순차 공개될 예정이니, 앞으로도 많은 관심 부탁드립니다🌟"
+	},
+	{
 		"created_at": "Tue Jun 02 10:01:04 +0000 2020",
 		"id": 1267758122535444500,
 		"id_str": "1267758122535444480",
