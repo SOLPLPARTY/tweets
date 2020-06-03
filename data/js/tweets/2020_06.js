@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 11:32:55 +0000 2020",
+		"id": 1268143624568672300,
+		"id_str": "1268143624568672262",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n날파리 분장한 나잠수, 염탐소년단의 컴백?! [뮤직코리아#8]\nhttps://t.co/YWIOs6abVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YWIOs6abVf",
+					"expanded_url": "https://youtu.be/cJV63HC6tg0",
+					"display_url": "youtu.be/cJV63HC6tg0",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n날파리 분장한 나잠수, 염탐소년단의 컴백?! [뮤직코리아#8]\nhttps://t.co/YWIOs6abVf"
+	},
+	{
+		"created_at": "Wed Jun 03 11:29:29 +0000 2020",
+		"id": 1268132347339108400,
+		"id_str": "1268142758453182467",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 인피니트의 #해바라기 #김성규 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃🏃‍♀️\n\n▶ https://t.co/qeYQSABGwI\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#INFINITE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "해바라기",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "김성규",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						60,
+						79
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qeYQSABGwI",
+					"expanded_url": "https://vt.tiktok.com/ANChb1/",
+					"display_url": "vt.tiktok.com/ANChb1/",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268129905658585000,
+		"in_reply_to_status_id_str": "1268129905658585088",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416795,
+			"friends_count": 9,
+			"listed_count": 1784,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1469,
+		"favorite_count": 1675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 인피니트의 #해바라기 #김성규 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃🏃‍♀️\n\n▶ https://t.co/qeYQSABGwI\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#INFINITE"
+	},
+	{
 		"created_at": "Wed Jun 03 10:29:29 +0000 2020",
 		"id": 1268118172630085600,
 		"id_str": "1268127658715623424",
