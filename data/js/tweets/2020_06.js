@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 05:15:05 +0000 2020",
+		"id": 1268048539017511000,
+		"id_str": "1268048539017510913",
+		"full_text": "#루비레코드 #Ruby_Records\n[Rainbow Note VLOG]  ✨오늘 밤은(Tonight)✨MV촬영 브이로그\nhttps://t.co/eO7RT19ubF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO7RT19ubF",
+					"expanded_url": "https://youtu.be/so-1uDz92cQ",
+					"display_url": "youtu.be/so-1uDz92cQ",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[Rainbow Note VLOG]  ✨오늘 밤은(Tonight)✨MV촬영 브이로그\nhttps://t.co/eO7RT19ubF"
+	},
+	{
 		"created_at": "Wed Jun 03 03:58:23 +0000 2020",
 		"id": 1268014951731347500,
 		"id_str": "1268029235064647680",
@@ -934,7 +1065,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Wed Jun 03 03:29:30 +0000 2020",
 		"id": 1268016208806244400,
 		"id_str": "1268021966990123008",
-		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #진지 #서지수 #JIN 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/wp9MGxEs6e\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #진지 #서지수 #JIN 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/wp9MGxEs6e\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1105,7 +1236,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #진지 #서지수 #JIN 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/wp9MGxEs6e\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #진지 #서지수 #JIN 입니다😁\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/wp9MGxEs6e\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
 	},
 	{
 		"created_at": "Wed Jun 03 03:29:28 +0000 2020",
