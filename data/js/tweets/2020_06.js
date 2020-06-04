@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 09:15:42 +0000 2020",
+		"id": 1268471480582647800,
+		"id_str": "1268471480582647808",
+		"full_text": "#쇼파르뮤직 #Shofar_Music\n[MV] 최유리 - '동네'\nhttps://t.co/WST2vmdpZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Shofar_Music",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WST2vmdpZ9",
+					"expanded_url": "https://youtu.be/Z4p9xF9nZis",
+					"display_url": "youtu.be/Z4p9xF9nZis",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼파르뮤직 #Shofar_Music\n[MV] 최유리 - '동네'\nhttps://t.co/WST2vmdpZ9"
+	},
+	{
+		"created_at": "Thu Jun 04 09:06:17 +0000 2020",
+		"id": 1268469110528237600,
+		"id_str": "1268469110528237568",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n다운 (Dvwn) - 콘크리트 (feat. CHEEZE) 공식 예고편 ｜Official Trailer\nhttps://t.co/FHrVWk1vtg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHrVWk1vtg",
+					"expanded_url": "https://youtu.be/xHuZNnYXonQ",
+					"display_url": "youtu.be/xHuZNnYXonQ",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n다운 (Dvwn) - 콘크리트 (feat. CHEEZE) 공식 예고편 ｜Official Trailer\nhttps://t.co/FHrVWk1vtg"
+	},
+	{
+		"created_at": "Thu Jun 04 08:57:24 +0000 2020",
+		"id": 1268466875048112000,
+		"id_str": "1268466875048112139",
+		"full_text": "#Melon #멜론 #멜론매거진\n영화로부터 얻은 영감으로, HarryBigButton (해리빅버튼) [Dirty Harry]\nhttps://t.co/2fvwWiVerz https://t.co/LRIpeYtlLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2fvwWiVerz",
+					"expanded_url": "https://bit.ly/2XukjKU",
+					"display_url": "bit.ly/2XukjKU",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268466873663963100,
+					"id_str": "1268466873663963137",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EZp_5qYXQAEXyC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZp_5qYXQAEXyC6.jpg",
+					"url": "https://t.co/LRIpeYtlLz",
+					"display_url": "pic.twitter.com/LRIpeYtlLz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1268466875048112139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268466873663963100,
+					"id_str": "1268466873663963137",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EZp_5qYXQAEXyC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZp_5qYXQAEXyC6.jpg",
+					"url": "https://t.co/LRIpeYtlLz",
+					"display_url": "pic.twitter.com/LRIpeYtlLz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1268466875048112139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 368,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n영화로부터 얻은 영감으로, HarryBigButton (해리빅버튼) [Dirty Harry]\nhttps://t.co/2fvwWiVerz https://t.co/LRIpeYtlLz"
+	},
+	{
+		"created_at": "Thu Jun 04 08:42:13 +0000 2020",
+		"id": 1268456492455178200,
+		"id_str": "1268463053806370816",
+		"full_text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻‍♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268456072626360300,
+					"id_str": "1268456072626360320",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EZp2E9YU0AA8S5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZp2E9YU0AA8S5-.jpg",
+					"url": "https://t.co/FjEFgQ6UTC",
+					"display_url": "pic.twitter.com/FjEFgQ6UTC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1268456492455178241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268456072626360300,
+					"id_str": "1268456072626360320",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EZp2E9YU0AA8S5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZp2E9YU0AA8S5-.jpg",
+					"url": "https://t.co/FjEFgQ6UTC",
+					"display_url": "pic.twitter.com/FjEFgQ6UTC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1268456492455178241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18410,
+			"friends_count": 1939,
+			"listed_count": 295,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻‍♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC"
+	},
+	{
 		"created_at": "Thu Jun 04 08:04:02 +0000 2020",
 		"id": 1268453446149169200,
 		"id_str": "1268453446149169152",
