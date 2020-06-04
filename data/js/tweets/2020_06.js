@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 10:41:37 +0000 2020",
+		"id": 1268482681488044000,
+		"id_str": "1268493103293440000",
+		"full_text": "[씬디스케치 랜선라이브 : 1/N(엔분의일) - 날 사랑하지 않는다면 날]\n\n폭발적 가창력으로 마지막을 장식해준\n✨1/N의 ‘날 사랑하지 않는다면 날’ 라이브 영상입니다.\n\n유튜브에서 \"씬디 티켓라운지\"를 검색하시면,\n지난 랜선라이브 영상들을 감상하실 수 있습니다 ღ'ᴗ'ღ\n\nhttps://t.co/QYTWgp5Fln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYTWgp5Fln",
+					"expanded_url": "https://youtu.be/hEc3cFqy6W8",
+					"display_url": "youtu.be/hEc3cFqy6W8",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2813,
+			"friends_count": 2722,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디스케치 랜선라이브 : 1/N(엔분의일) - 날 사랑하지 않는다면 날]\n\n폭발적 가창력으로 마지막을 장식해준\n✨1/N의 ‘날 사랑하지 않는다면 날’ 라이브 영상입니다.\n\n유튜브에서 \"씬디 티켓라운지\"를 검색하시면,\n지난 랜선라이브 영상들을 감상하실 수 있습니다 ღ'ᴗ'ღ\n\nhttps://t.co/QYTWgp5Fln"
+	},
+	{
+		"created_at": "Thu Jun 04 10:29:37 +0000 2020",
+		"id": 1268482850535301000,
+		"id_str": "1268490080580259840",
+		"full_text": "[유튜브]\n양자택일로 알아보는 OurR(아월)의 취향표 📝\n회원이를 당황시킨 질문은?\n지금 바로 해피로봇 유튜브에서 확인하세요!\n\n🔗 https://t.co/P1Cb5zyfS7 https://t.co/pCJiDE7nX8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P1Cb5zyfS7",
+					"expanded_url": "http://youtu.be/bveoABzXcjM",
+					"display_url": "youtu.be/bveoABzXcjM",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268482808919453700,
+					"id_str": "1268482808919453696",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268482808919453696/pu/img/FjxcxhrdHRqtiEBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268482808919453696/pu/img/FjxcxhrdHRqtiEBs.jpg",
+					"url": "https://t.co/pCJiDE7nX8",
+					"display_url": "pic.twitter.com/pCJiDE7nX8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1268482850535301120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268482808919453700,
+					"id_str": "1268482808919453696",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268482808919453696/pu/img/FjxcxhrdHRqtiEBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268482808919453696/pu/img/FjxcxhrdHRqtiEBs.jpg",
+					"url": "https://t.co/pCJiDE7nX8",
+					"display_url": "pic.twitter.com/pCJiDE7nX8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1268482850535301120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18155,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268482808919453696/pu/pl/2oZJbIRELxC8H0W-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268482808919453696/pu/vid/480x480/6ZK-rp_IiYogK-d4.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268482808919453696/pu/vid/720x720/PzQRETUkthxhEBel.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268482808919453696/pu/vid/320x320/_rH5Kb9H-Yix69Rr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13195,
+			"friends_count": 2408,
+			"listed_count": 260,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유튜브]\n양자택일로 알아보는 OurR(아월)의 취향표 📝\n회원이를 당황시킨 질문은?\n지금 바로 해피로봇 유튜브에서 확인하세요!\n\n🔗 https://t.co/P1Cb5zyfS7 https://t.co/pCJiDE7nX8"
+	},
+	{
+		"created_at": "Thu Jun 04 10:29:29 +0000 2020",
+		"id": 1268478004285501400,
+		"id_str": "1268490046581215232",
+		"full_text": "[오지은] 물고기 1시간 동안 같이 듣기\n6월 5일 금요일 밤 11시\n유어썸머 유튜브 채널\n실시간으로 이야기도 함께할까 합니다.\n\nhttps://t.co/edmfJDg8st\n\n#오지은 #물고기 #1시간반복재생 #함께듣기 @heaventomorrow https://t.co/0TniHxU6wp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "1시간반복재생",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "함께듣기",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heaventomorrow",
+					"name": "오지은",
+					"id": 128304069,
+					"id_str": "128304069",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/edmfJDg8st",
+					"expanded_url": "https://youtu.be/jQkjMveIpu4",
+					"display_url": "youtu.be/jQkjMveIpu4",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268477863138701300,
+					"id_str": "1268477863138701313",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268477863138701313/pu/img/E5BlmYQkidqsYn5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268477863138701313/pu/img/E5BlmYQkidqsYn5p.jpg",
+					"url": "https://t.co/0TniHxU6wp",
+					"display_url": "pic.twitter.com/0TniHxU6wp",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1268478004285501446/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268477863138701300,
+					"id_str": "1268477863138701313",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268477863138701313/pu/img/E5BlmYQkidqsYn5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268477863138701313/pu/img/E5BlmYQkidqsYn5p.jpg",
+					"url": "https://t.co/0TniHxU6wp",
+					"display_url": "pic.twitter.com/0TniHxU6wp",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1268478004285501446/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 28613,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268477863138701313/pu/vid/360x270/L6XBSa8-efxuKDqa.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268477863138701313/pu/vid/480x360/350YkublXthJ-2bX.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268477863138701313/pu/vid/720x540/s7t10gyxmDQDkB0N.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268477863138701313/pu/pl/xChl6FQeq9yxzrOw.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1805,
+			"friends_count": 24,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[오지은] 물고기 1시간 동안 같이 듣기\n6월 5일 금요일 밤 11시\n유어썸머 유튜브 채널\n실시간으로 이야기도 함께할까 합니다.\n\nhttps://t.co/edmfJDg8st\n\n#오지은 #물고기 #1시간반복재생 #함께듣기 @heaventomorrow https://t.co/0TniHxU6wp"
+	},
+	{
 		"created_at": "Thu Jun 04 09:58:14 +0000 2020",
 		"id": 1268479342671048700,
 		"id_str": "1268482185184583680",
@@ -358,7 +934,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Thu Jun 04 09:29:42 +0000 2020",
 		"id": 1268470150237282300,
 		"id_str": "1268475003156205569",
-		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -529,13 +1105,13 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch"
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch"
 	},
 	{
 		"created_at": "Thu Jun 04 09:29:36 +0000 2020",
 		"id": 1268470081194872800,
 		"id_str": "1268474977529081858",
-		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -706,13 +1282,13 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild"
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild"
 	},
 	{
 		"created_at": "Thu Jun 04 09:29:31 +0000 2020",
 		"id": 1268470004900491300,
 		"id_str": "1268474956129632256",
-		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -883,7 +1459,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃♂️🏃♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
 	},
 	{
 		"created_at": "Thu Jun 04 09:29:27 +0000 2020",
