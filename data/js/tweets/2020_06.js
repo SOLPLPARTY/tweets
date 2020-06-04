@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 09:58:14 +0000 2020",
+		"id": 1268479342671048700,
+		"id_str": "1268482185184583680",
+		"full_text": "☮ 피스 다큐-레이션 EP.01 &lt;애리의 신세계&gt;\nhttps://t.co/0fofP0AV4u\n\n기획 및 디렉팅 | 피스트레인\n촬영 및 제작 | 스튜디오 유유히\n촬영 협조 | 저지라이트 벨로주망원\n인터뷰 전문 ▶ https://t.co/FcMOEaRe6i https://t.co/HydRWbkqcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fofP0AV4u",
+					"expanded_url": "https://youtu.be/i3PHQCdNPWg",
+					"display_url": "youtu.be/i3PHQCdNPWg",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/FcMOEaRe6i",
+					"expanded_url": "https://bit.ly/370Y3f2",
+					"display_url": "bit.ly/370Y3f2",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268479310781755400,
+					"id_str": "1268479310781755393",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqLNmQUMAE9zAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqLNmQUMAE9zAq.jpg",
+					"url": "https://t.co/HydRWbkqcZ",
+					"display_url": "pic.twitter.com/HydRWbkqcZ",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1268479342671048704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268479310781755400,
+					"id_str": "1268479310781755393",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqLNmQUMAE9zAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqLNmQUMAE9zAq.jpg",
+					"url": "https://t.co/HydRWbkqcZ",
+					"display_url": "pic.twitter.com/HydRWbkqcZ",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1268479342671048704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮ 피스 다큐-레이션 EP.01 &lt;애리의 신세계&gt;\nhttps://t.co/0fofP0AV4u\n\n기획 및 디렉팅 | 피스트레인\n촬영 및 제작 | 스튜디오 유유히\n촬영 협조 | 저지라이트 벨로주망원\n인터뷰 전문 ▶ https://t.co/FcMOEaRe6i https://t.co/HydRWbkqcZ"
+	},
+	{
+		"created_at": "Thu Jun 04 09:29:51 +0000 2020",
+		"id": 1268472716765479000,
+		"id_str": "1268475041538334722",
+		"full_text": "['동네' 바로듣기]\n⠀\n멜론 https://t.co/gQuOcAVkJB\n지니 https://t.co/Xf5NEihrGa\n플로 https://t.co/941nHznvcx\n벅스 https://t.co/jI1VOWuHG5\n소리바다 https://t.co/R845b97eFP\n네이버뮤직 https://t.co/TDOOYSucPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gQuOcAVkJB",
+					"expanded_url": "https://bit.ly/2U6HwAK",
+					"display_url": "bit.ly/2U6HwAK",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/Xf5NEihrGa",
+					"expanded_url": "https://bit.ly/3cwsb2T",
+					"display_url": "bit.ly/3cwsb2T",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/941nHznvcx",
+					"expanded_url": "https://bit.ly/3cw7Omk",
+					"display_url": "bit.ly/3cw7Omk",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/jI1VOWuHG5",
+					"expanded_url": "https://bit.ly/2AAcdYc",
+					"display_url": "bit.ly/2AAcdYc",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/R845b97eFP",
+					"expanded_url": "https://bit.ly/2XYjid7",
+					"display_url": "bit.ly/2XYjid7",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/TDOOYSucPn",
+					"expanded_url": "https://bit.ly/3ctdWMl",
+					"display_url": "bit.ly/3ctdWMl",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268467529741144000,
+		"in_reply_to_status_id_str": "1268467529741144064",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8082,
+			"friends_count": 12,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1582004148",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['동네' 바로듣기]\n⠀\n멜론 https://t.co/gQuOcAVkJB\n지니 https://t.co/Xf5NEihrGa\n플로 https://t.co/941nHznvcx\n벅스 https://t.co/jI1VOWuHG5\n소리바다 https://t.co/R845b97eFP\n네이버뮤직 https://t.co/TDOOYSucPn"
+	},
+	{
+		"created_at": "Thu Jun 04 09:29:42 +0000 2020",
+		"id": 1268470150237282300,
+		"id_str": "1268475003156205569",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "언니라인",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "쥬리",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "연희",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						67,
+						86
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "RocketPunch",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WwGVKGGYiJ",
+					"expanded_url": "https://vt.tiktok.com/AjQAVM/",
+					"display_url": "vt.tiktok.com/AjQAVM/",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268470081194872800,
+		"in_reply_to_status_id_str": "1268470081194872833",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416878,
+			"friends_count": 9,
+			"listed_count": 1784,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 로켓펀치의 든든한 #언니라인 #쥬리 #연희 입니다😘\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WwGVKGGYiJ\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#RocketPunch"
+	},
+	{
+		"created_at": "Thu Jun 04 09:29:36 +0000 2020",
+		"id": 1268470081194872800,
+		"id_str": "1268474977529081858",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "맏막즈",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "이대열",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "최보민",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						65,
+						84
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						165,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ccz7SvZg13",
+					"expanded_url": "https://vt.tiktok.com/AjqLcm/",
+					"display_url": "vt.tiktok.com/AjqLcm/",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268470004900491300,
+		"in_reply_to_status_id_str": "1268470004900491271",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416878,
+			"friends_count": 9,
+			"listed_count": 1784,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 1306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #맏막즈 #이대열 #최보민 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/Ccz7SvZg13\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild"
+	},
+	{
+		"created_at": "Thu Jun 04 09:29:31 +0000 2020",
+		"id": 1268470004900491300,
+		"id_str": "1268474956129632256",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "비주얼",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "이미주",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "정예인",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						67,
+						86
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WD9RCv2dxw",
+					"expanded_url": "https://vt.tiktok.com/AjWc1Y/",
+					"display_url": "vt.tiktok.com/AjWc1Y/",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268361866947879000,
+		"in_reply_to_status_id_str": "1268361866947878912",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416878,
+			"friends_count": 9,
+			"listed_count": 1784,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #비주얼 조합 #이미주 #정예인 입니다❤\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/WD9RCv2dxw\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
+	},
+	{
+		"created_at": "Thu Jun 04 09:29:27 +0000 2020",
+		"id": 1268469635487129600,
+		"id_str": "1268474938496897025",
+		"full_text": "[공연] 쏜애플 콘서트 '물의 기억'\n오늘 오후 8시, 인터파크에서 티켓 오픈이 있습니다.\n\n🔗 https://t.co/d3n4PPPzRP https://t.co/YFgXqOl0os",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d3n4PPPzRP",
+					"expanded_url": "http://bit.ly/2AAIFcX",
+					"display_url": "bit.ly/2AAIFcX",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268469483301032000,
+					"id_str": "1268469483301031936",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268469483301031936/pu/img/y4ZmoW2eorcAC0y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268469483301031936/pu/img/y4ZmoW2eorcAC0y6.jpg",
+					"url": "https://t.co/YFgXqOl0os",
+					"display_url": "pic.twitter.com/YFgXqOl0os",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1268469635487129600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268469483301032000,
+					"id_str": "1268469483301031936",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268469483301031936/pu/img/y4ZmoW2eorcAC0y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268469483301031936/pu/img/y4ZmoW2eorcAC0y6.jpg",
+					"url": "https://t.co/YFgXqOl0os",
+					"display_url": "pic.twitter.com/YFgXqOl0os",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1268469635487129600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14874,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268469483301031936/pu/vid/480x480/6Sfj1VNqsC-yJTX4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268469483301031936/pu/pl/DC2mb-AoBnrh9GrD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268469483301031936/pu/vid/720x720/3NwBsjSoDGl7IukL.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268469483301031936/pu/vid/320x320/5eKbMkD43whGuXmx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13194,
+			"friends_count": 2408,
+			"listed_count": 260,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연] 쏜애플 콘서트 '물의 기억'\n오늘 오후 8시, 인터파크에서 티켓 오픈이 있습니다.\n\n🔗 https://t.co/d3n4PPPzRP https://t.co/YFgXqOl0os"
+	},
+	{
 		"created_at": "Thu Jun 04 09:15:42 +0000 2020",
 		"id": 1268471480582647800,
 		"id_str": "1268471480582647808",
@@ -482,7 +1582,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Thu Jun 04 08:42:13 +0000 2020",
 		"id": 1268456492455178200,
 		"id_str": "1268463053806370816",
-		"full_text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻‍♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC",
+		"full_text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -650,7 +1750,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻‍♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC"
+		"text": "KT&amp;G 상상마당 춘천 스테이\n📍청결 안심 투숙 절차 안내📍\n\n💁🏻♀️ KT&amp;G 상상마당 춘천 스테이는\n위생안전 관리에 최선을 다하고 있습니다. https://t.co/FjEFgQ6UTC"
 	},
 	{
 		"created_at": "Thu Jun 04 08:04:02 +0000 2020",
