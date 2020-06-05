@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 13:11:04 +0000 2020",
+		"id": 1268893100824461300,
+		"id_str": "1268893100824461313",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n『스트로베리 노래방🎤🍓』 부끄럽네 ☞ 윤지영\nhttps://t.co/XBA35oihvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XBA35oihvi",
+					"expanded_url": "https://youtu.be/pRHHRZIj9Z0",
+					"display_url": "youtu.be/pRHHRZIj9Z0",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n『스트로베리 노래방🎤🍓』 부끄럽네 ☞ 윤지영\nhttps://t.co/XBA35oihvi"
+	},
+	{
+		"created_at": "Fri Jun 05 13:06:16 +0000 2020",
+		"id": 1268883090820132900,
+		"id_str": "1268891890608308225",
+		"full_text": "[MV TEASER] 헤이즈(Heize) - 일이 너무 잘 돼 (Things are going well) (Title)\n\n헤이즈 6번째 미니앨범 [Lyricist] \n타이틀곡 '일이 너무 잘 돼’ MV티저\n\n▶https://t.co/lzWD37WKaf\n\n2020.06.10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #일이너무잘돼\n#Things_are_going_well #20200610 https://t.co/1NwjKY9i2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "Things_are_going_well",
+					"indices": [
+						208,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzWD37WKaf",
+					"expanded_url": "https://youtu.be/f3o5j1p2GBw",
+					"display_url": "youtu.be/f3o5j1p2GBw",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268882629962522600,
+					"id_str": "1268882629962522624",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268882629962522624/pu/img/xhS6QIQbjhQAiGQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268882629962522624/pu/img/xhS6QIQbjhQAiGQj.jpg",
+					"url": "https://t.co/1NwjKY9i2Z",
+					"display_url": "pic.twitter.com/1NwjKY9i2Z",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268883090820132864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268882629962522600,
+					"id_str": "1268882629962522624",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268882629962522624/pu/img/xhS6QIQbjhQAiGQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268882629962522624/pu/img/xhS6QIQbjhQAiGQj.jpg",
+					"url": "https://t.co/1NwjKY9i2Z",
+					"display_url": "pic.twitter.com/1NwjKY9i2Z",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268883090820132864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47047,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268882629962522624/pu/vid/640x360/PxI1UEO70aG2skCI.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268882629962522624/pu/vid/1280x720/EtJuEyAwHIcHklKk.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268882629962522624/pu/vid/480x270/EKoevFaYhlVNwzOg.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268882629962522624/pu/pl/l4kMdnJ18gnYaoKn.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38650,
+			"friends_count": 0,
+			"listed_count": 351,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 605,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV TEASER] 헤이즈(Heize) - 일이 너무 잘 돼 (Things are going well) (Title)\n\n헤이즈 6번째 미니앨범 [Lyricist] \n타이틀곡 '일이 너무 잘 돼’ MV티저\n\n▶https://t.co/lzWD37WKaf\n\n2020.06.10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #일이너무잘돼\n#Things_are_going_well #20200610 https://t.co/1NwjKY9i2Z"
+	},
+	{
 		"created_at": "Fri Jun 05 11:29:25 +0000 2020",
 		"id": 1268855595899089000,
 		"id_str": "1268867517356937217",
