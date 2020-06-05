@@ -1,6 +1,1101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 09:12:33 +0000 2020",
+		"id": 1268833076316176400,
+		"id_str": "1268833076316176386",
+		"full_text": "#SMTOWN\nSUPER JUNIOR-K.R.Y. '푸르게 빛나던 우리의 계절 (When We Were Us)' MV Teaser #2\nhttps://t.co/u7Ek1HS0Dm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u7Ek1HS0Dm",
+					"expanded_url": "https://youtu.be/RRXDbSH8Ky8",
+					"display_url": "youtu.be/RRXDbSH8Ky8",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nSUPER JUNIOR-K.R.Y. '푸르게 빛나던 우리의 계절 (When We Were Us)' MV Teaser #2\nhttps://t.co/u7Ek1HS0Dm"
+	},
+	{
+		"created_at": "Fri Jun 05 09:10:29 +0000 2020",
+		"id": 1268832553349283800,
+		"id_str": "1268832553349283843",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] OV - Blue Sky (Feat. 가호 (Gaho), godok) (prod. OV) / Official Teaser\nhttps://t.co/tp24sm72vH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tp24sm72vH",
+					"expanded_url": "https://youtu.be/Nu90jLxsQ8E",
+					"display_url": "youtu.be/Nu90jLxsQ8E",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] OV - Blue Sky (Feat. 가호 (Gaho), godok) (prod. OV) / Official Teaser\nhttps://t.co/tp24sm72vH"
+	},
+	{
+		"created_at": "Fri Jun 05 09:08:22 +0000 2020",
+		"id": 1268749353096626200,
+		"id_str": "1268832022077665281",
+		"full_text": "#fujirock #フジロック https://t.co/puy6ERQ31o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fujirock",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "フジロック",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268749328568348700,
+					"id_str": "1268749328568348672",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuAys5U8AAL-cx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuAys5U8AAL-cx.jpg",
+					"url": "https://t.co/puy6ERQ31o",
+					"display_url": "pic.twitter.com/puy6ERQ31o",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268749353096626176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268749328568348700,
+					"id_str": "1268749328568348672",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuAys5U8AAL-cx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuAys5U8AAL-cx.jpg",
+					"url": "https://t.co/puy6ERQ31o",
+					"display_url": "pic.twitter.com/puy6ERQ31o",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268749353096626176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268724230008397800,
+		"in_reply_to_status_id_str": "1268724230008397824",
+		"in_reply_to_user_id": 117395470,
+		"in_reply_to_user_id_str": "117395470",
+		"in_reply_to_screen_name": "fujirock_jp",
+		"user": {
+			"id": 117395470,
+			"id_str": "117395470",
+			"name": "FUJI ROCK FESTIVAL",
+			"screen_name": "fujirock_jp",
+			"location": "Naeba Ski Resort, Niigata",
+			"description": "SEE YOU IN 2021！\nFUJI ROCK FESTIVAL '21 | AUG 20 21 22|\n▪︎Instagram https://t.co/TkGUbS14lX\n▪︎Facebook https://t.co/wMQOzVqSaS…",
+			"url": "https://t.co/N8kADaarcd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8kADaarcd",
+							"expanded_url": "http://www.fujirockfestival.com/",
+							"display_url": "fujirockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TkGUbS14lX",
+							"expanded_url": "http://instagram.com/fujirock_jp",
+							"display_url": "instagram.com/fujirock_jp",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/wMQOzVqSaS",
+							"expanded_url": "http://facebook.com/fujirockfestiv",
+							"display_url": "facebook.com/fujirockfestiv",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 180809,
+			"friends_count": 83,
+			"listed_count": 4301,
+			"created_at": "Thu Feb 25 12:37:41 +0000 2010",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117395470/1591348249",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 733,
+		"favorite_count": 1445,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#fujirock #フジロック https://t.co/puy6ERQ31o"
+	},
+	{
+		"created_at": "Fri Jun 05 09:08:20 +0000 2020",
+		"id": 1268724233657409500,
+		"id_str": "1268832014465003523",
+		"full_text": "FUJI ROCK FESTIVAL ’20\nNOTICE OF POSTPONEMENT\nhttps://t.co/Oax6OezP8O #fujirock https://t.co/t7jlkvkgTv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fujirock",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oax6OezP8O",
+					"expanded_url": "https://en.fujirockfestival.com/",
+					"display_url": "en.fujirockfestival.com",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268723533825208300,
+					"id_str": "1268723533825208320",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpVP_UcAA-dQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpVP_UcAA-dQg.jpg",
+					"url": "https://t.co/t7jlkvkgTv",
+					"display_url": "pic.twitter.com/t7jlkvkgTv",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724233657409536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268723533825208300,
+					"id_str": "1268723533825208320",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpVP_UcAA-dQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpVP_UcAA-dQg.jpg",
+					"url": "https://t.co/t7jlkvkgTv",
+					"display_url": "pic.twitter.com/t7jlkvkgTv",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724233657409536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268723708270502000,
+					"id_str": "1268723708270501888",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpfZ2UYAA1Xgs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpfZ2UYAA1Xgs.jpg",
+					"url": "https://t.co/t7jlkvkgTv",
+					"display_url": "pic.twitter.com/t7jlkvkgTv",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724233657409536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268724230008397800,
+		"in_reply_to_status_id_str": "1268724230008397824",
+		"in_reply_to_user_id": 117395470,
+		"in_reply_to_user_id_str": "117395470",
+		"in_reply_to_screen_name": "fujirock_jp",
+		"user": {
+			"id": 117395470,
+			"id_str": "117395470",
+			"name": "FUJI ROCK FESTIVAL",
+			"screen_name": "fujirock_jp",
+			"location": "Naeba Ski Resort, Niigata",
+			"description": "SEE YOU IN 2021！\nFUJI ROCK FESTIVAL '21 | AUG 20 21 22|\n▪︎Instagram https://t.co/TkGUbS14lX\n▪︎Facebook https://t.co/wMQOzVqSaS…",
+			"url": "https://t.co/N8kADaarcd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8kADaarcd",
+							"expanded_url": "http://www.fujirockfestival.com/",
+							"display_url": "fujirockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TkGUbS14lX",
+							"expanded_url": "http://instagram.com/fujirock_jp",
+							"display_url": "instagram.com/fujirock_jp",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/wMQOzVqSaS",
+							"expanded_url": "http://facebook.com/fujirockfestiv",
+							"display_url": "facebook.com/fujirockfestiv",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 180809,
+			"friends_count": 83,
+			"listed_count": 4301,
+			"created_at": "Thu Feb 25 12:37:41 +0000 2010",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117395470/1591348249",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 348,
+		"favorite_count": 447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FUJI ROCK FESTIVAL ’20\nNOTICE OF POSTPONEMENT\nhttps://t.co/Oax6OezP8O #fujirock https://t.co/t7jlkvkgTv"
+	},
+	{
+		"created_at": "Fri Jun 05 09:08:18 +0000 2020",
+		"id": 1268724230008397800,
+		"id_str": "1268832003446599680",
+		"full_text": "FUJI ROCK FESTIVAL ’20\n開催延期のお知らせ\nhttps://t.co/P4GW6Lv9T5\n#fujirock #フジロック https://t.co/DeK6ArDsJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fujirock",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "フジロック",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P4GW6Lv9T5",
+					"expanded_url": "https://fujirockfestival.com/news/detail/4203",
+					"display_url": "fujirockfestival.com/news/detail/42…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268723399456551000,
+					"id_str": "1268723399456550912",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpNbbVcAAZKhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpNbbVcAAZKhg.jpg",
+					"url": "https://t.co/DeK6ArDsJq",
+					"display_url": "pic.twitter.com/DeK6ArDsJq",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724230008397824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268723399456551000,
+					"id_str": "1268723399456550912",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpNbbVcAAZKhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpNbbVcAAZKhg.jpg",
+					"url": "https://t.co/DeK6ArDsJq",
+					"display_url": "pic.twitter.com/DeK6ArDsJq",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724230008397824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268723421946372000,
+					"id_str": "1268723421946372096",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtpOvNU4AAUt1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtpOvNU4AAUt1d.jpg",
+					"url": "https://t.co/DeK6ArDsJq",
+					"display_url": "pic.twitter.com/DeK6ArDsJq",
+					"expanded_url": "https://twitter.com/fujirock_jp/status/1268724230008397824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117395470,
+			"id_str": "117395470",
+			"name": "FUJI ROCK FESTIVAL",
+			"screen_name": "fujirock_jp",
+			"location": "Naeba Ski Resort, Niigata",
+			"description": "SEE YOU IN 2021！\nFUJI ROCK FESTIVAL '21 | AUG 20 21 22|\n▪︎Instagram https://t.co/TkGUbS14lX\n▪︎Facebook https://t.co/wMQOzVqSaS…",
+			"url": "https://t.co/N8kADaarcd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N8kADaarcd",
+							"expanded_url": "http://www.fujirockfestival.com/",
+							"display_url": "fujirockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TkGUbS14lX",
+							"expanded_url": "http://instagram.com/fujirock_jp",
+							"display_url": "instagram.com/fujirock_jp",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/wMQOzVqSaS",
+							"expanded_url": "http://facebook.com/fujirockfestiv",
+							"display_url": "facebook.com/fujirockfestiv",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 180809,
+			"friends_count": 83,
+			"listed_count": 4301,
+			"created_at": "Thu Feb 25 12:37:41 +0000 2010",
+			"favourites_count": 913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253881863560544256/pd1AG1gW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117395470/1591348249",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9568,
+		"favorite_count": 11438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "FUJI ROCK FESTIVAL ’20\n開催延期のお知らせ\nhttps://t.co/P4GW6Lv9T5\n#fujirock #フジロック https://t.co/DeK6ArDsJq"
+	},
+	{
+		"created_at": "Fri Jun 05 09:03:09 +0000 2020",
+		"id": 1268830709818540000,
+		"id_str": "1268830709818540032",
+		"full_text": "#문화가있는날 #블로그\n문화가 있는 날, 6월 공연과 함께하는 댓글 이벤트\nhttps://t.co/jLhSYMfs8p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jLhSYMfs8p",
+					"expanded_url": "https://bit.ly/3eTjSQ6",
+					"display_url": "bit.ly/3eTjSQ6",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n문화가 있는 날, 6월 공연과 함께하는 댓글 이벤트\nhttps://t.co/jLhSYMfs8p"
+	},
+	{
 		"created_at": "Fri Jun 05 08:11:19 +0000 2020",
 		"id": 1268817664014721000,
 		"id_str": "1268817664014721025",
