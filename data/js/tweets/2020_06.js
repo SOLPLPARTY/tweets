@@ -1,6 +1,1863 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 09:57:28 +0000 2020",
+		"id": 1268844379575406600,
+		"id_str": "1268844379575406597",
+		"full_text": "#Melon #멜론 #멜론매거진\n정식 데뷔의 신호탄, 방예담 (TREASURE) '왜요 (WAYO)'\nhttps://t.co/GySqNhAkvM https://t.co/mDEZyu6M2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GySqNhAkvM",
+					"expanded_url": "https://bit.ly/3dC0NBN",
+					"display_url": "bit.ly/3dC0NBN",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268844378384142300,
+					"id_str": "1268844378384142344",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvXPVDWkAg5_eq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvXPVDWkAg5_eq.jpg",
+					"url": "https://t.co/mDEZyu6M2t",
+					"display_url": "pic.twitter.com/mDEZyu6M2t",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1268844379575406597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268844378384142300,
+					"id_str": "1268844378384142344",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvXPVDWkAg5_eq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvXPVDWkAg5_eq.jpg",
+					"url": "https://t.co/mDEZyu6M2t",
+					"display_url": "pic.twitter.com/mDEZyu6M2t",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1268844379575406597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n정식 데뷔의 신호탄, 방예담 (TREASURE) '왜요 (WAYO)'\nhttps://t.co/GySqNhAkvM https://t.co/mDEZyu6M2t"
+	},
+	{
+		"created_at": "Fri Jun 05 09:54:05 +0000 2020",
+		"id": 1268829916528808000,
+		"id_str": "1268843526197936129",
+		"full_text": "[MV TEASER] 헤이즈(Heize) - 일이 너무 잘 돼 (Things are going well) (Title)\n\n헤이즈 6번째 미니앨범 [Lyricist] 타이틀곡 '일이 너무 잘 돼’ MV 티저\n▶https://t.co/lzWD37F9iH\n\n2020.06.10 (WED) 6PM (KST) Release\n#헤이즈 #Heize #Lyricist #일이_너무_잘_돼#Things_are_going_well #20200610 https://t.co/aXIcQjdjQv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lzWD37F9iH",
+					"expanded_url": "https://youtu.be/f3o5j1p2GBw",
+					"display_url": "youtu.be/f3o5j1p2GBw",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268800487609909200,
+					"id_str": "1268800487609909248",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1268800487609909248/img/kcHpnkrnH2gsHfqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268800487609909248/img/kcHpnkrnH2gsHfqR.jpg",
+					"url": "https://t.co/aXIcQjdjQv",
+					"display_url": "pic.twitter.com/aXIcQjdjQv",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268829916528807936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268800487609909200,
+					"id_str": "1268800487609909248",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1268800487609909248/img/kcHpnkrnH2gsHfqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268800487609909248/img/kcHpnkrnH2gsHfqR.jpg",
+					"url": "https://t.co/aXIcQjdjQv",
+					"display_url": "pic.twitter.com/aXIcQjdjQv",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268829916528807936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47047,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268800487609909248/vid/480x270/FLfH7f1LR50HrC0Z.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268800487609909248/vid/1280x720/C0cHKlv_nbTeRM5G.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1268800487609909248/pl/L5DKqBrYpopb3ZyX.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268800487609909248/vid/640x360/szRkEf0QeLi_M2Mg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38619,
+			"friends_count": 0,
+			"listed_count": 353,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 504,
+		"favorite_count": 1013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV TEASER] 헤이즈(Heize) - 일이 너무 잘 돼 (Things are going well) (Title)\n\n헤이즈 6번째 미니앨범 [Lyricist] 타이틀곡 '일이 너무 잘 돼’ MV 티저\n▶https://t.co/lzWD37F9iH\n\n2020.06.10 (WED) 6PM (KST) Release\n#헤이즈 #Heize #Lyricist #일이_너무_잘_돼#Things_are_going_well #20200610 https://t.co/aXIcQjdjQv"
+	},
+	{
+		"created_at": "Fri Jun 05 09:52:50 +0000 2020",
+		"id": 1268483370549305300,
+		"id_str": "1268843211839008768",
+		"full_text": "'Heize' The 6th mini album [Lyricist] 📝Track List\n\n1. Lyricist [Title]\n2. Things are going well [Title]\n3. Your name (Feat. ASH ISLAND)\n4. 1/1440 (Feat. Ji Chanel)\n5. Not to see you again.\n\n2020. 06. 10 (WED) 6PM (KST) Release https://t.co/4hSYegAQi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268483212872827000,
+					"id_str": "1268483212872826880",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqOwurUwAAbm58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqOwurUwAAbm58.jpg",
+					"url": "https://t.co/4hSYegAQi4",
+					"display_url": "pic.twitter.com/4hSYegAQi4",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268483370549305345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268483212872827000,
+					"id_str": "1268483212872826880",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqOwurUwAAbm58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqOwurUwAAbm58.jpg",
+					"url": "https://t.co/4hSYegAQi4",
+					"display_url": "pic.twitter.com/4hSYegAQi4",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268483370549305345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268483174159405000,
+		"in_reply_to_status_id_str": "1268483174159405056",
+		"in_reply_to_user_id": 4746792673,
+		"in_reply_to_user_id_str": "4746792673",
+		"in_reply_to_screen_name": "Heize_Official",
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38619,
+			"friends_count": 0,
+			"listed_count": 353,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 756,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Heize' The 6th mini album [Lyricist] 📝Track List\n\n1. Lyricist [Title]\n2. Things are going well [Title]\n3. Your name (Feat. ASH ISLAND)\n4. 1/1440 (Feat. Ji Chanel)\n5. Not to see you again.\n\n2020. 06. 10 (WED) 6PM (KST) Release https://t.co/4hSYegAQi4"
+	},
+	{
+		"created_at": "Fri Jun 05 09:52:46 +0000 2020",
+		"id": 1268483174159405000,
+		"id_str": "1268843194575237120",
+		"full_text": "[TRACK LIST] '헤이즈' 6번째 미니앨범 [Lyricist]📝\n\n1. 작사가[Title]\n2. 일이 너무 잘 돼[Title]\n3. 너의 이름은 (Feat.ASH ISLAND)\n4. 1/1440 (Feat.지샤넬)\n5. Not to see you again.\n\n2020.06.10 (WED) 6PM (KST)\n\n#헤이즈 #Heize #작사가 #일이너무잘돼 #너의이름은 #1/1440 #Nottoseeyouagain. https://t.co/ClMGUP1xw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "너의이름은",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "Nottoseeyouagain",
+					"indices": [
+						218,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268482830717223000,
+					"id_str": "1268482830717222913",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqOafCVAAEi709.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqOafCVAAEi709.jpg",
+					"url": "https://t.co/ClMGUP1xw8",
+					"display_url": "pic.twitter.com/ClMGUP1xw8",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268483174159405056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268482830717223000,
+					"id_str": "1268482830717222913",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EZqOafCVAAEi709.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZqOafCVAAEi709.jpg",
+					"url": "https://t.co/ClMGUP1xw8",
+					"display_url": "pic.twitter.com/ClMGUP1xw8",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1268483174159405056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38619,
+			"friends_count": 0,
+			"listed_count": 353,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 420,
+		"favorite_count": 1355,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TRACK LIST] '헤이즈' 6번째 미니앨범 [Lyricist]📝\n\n1. 작사가[Title]\n2. 일이 너무 잘 돼[Title]\n3. 너의 이름은 (Feat.ASH ISLAND)\n4. 1/1440 (Feat.지샤넬)\n5. Not to see you again.\n\n2020.06.10 (WED) 6PM (KST)\n\n#헤이즈 #Heize #작사가 #일이너무잘돼 #너의이름은 #1/1440 #Nottoseeyouagain. https://t.co/ClMGUP1xw8"
+	},
+	{
+		"created_at": "Fri Jun 05 09:41:47 +0000 2020",
+		"id": 1268831093890801700,
+		"id_str": "1268840432227831808",
+		"full_text": "#예스24스테이지\n6/6(토) 공휴일 스케쥴로 공연이 진행됩니다!\n\n1관 뮤지컬&lt;#라흐마니노프&gt; \n오후2시, 오후6시\n\n2관 뮤지컬&lt;#미아파밀리아&gt;\n아폴로니아 인앤바 오픈 준비 중\n\n3관 뮤지컬&lt;#미드나잇:액터뮤지션&gt; \n오후3시, 오후6시30분\n\n호국영령의 명복을 빌며, \n유공자분들께 가슴 깊이 감사드립니다 https://t.co/rZYCC5ZlMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24스테이지",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "라흐마니노프",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "미아파밀리아",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "미드나잇",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rZYCC5ZlMJ",
+					"expanded_url": "https://twitter.com/hjculture/status/1268819310182449152",
+					"display_url": "twitter.com/hjculture/stat…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 30,
+			"listed_count": 16,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268819310182449200,
+		"quoted_status_id_str": "1268819310182449152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rZYCC5ZlMJ",
+			"expanded": "https://twitter.com/hjculture/status/1268819310182449152",
+			"display": "twitter.com/hjculture/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 08:17:51 +0000 2020",
+			"id": 1268819310182449200,
+			"id_str": "1268819310182449152",
+			"full_text": "이번 주말, \n라흐의 방으로 놀러오시는 분들께\n특.별.히! 강조드립니다.\n안내사항👓을 꼭 체크해주세요!\n✔️✔️✔️\n\n#차표바꾸세요_라흐마니노프씨\n#뮤지컬 #라흐마니노프 https://t.co/BIIN4CwYnr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "차표바꾸세요_라흐마니노프씨",
+						"indices": [
+							66,
+							81
+						]
+					},
+					{
+						"text": "뮤지컬",
+						"indices": [
+							82,
+							86
+						]
+					},
+					{
+						"text": "라흐마니노프",
+						"indices": [
+							87,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268818830903500800,
+						"id_str": "1268818830903500800",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EZvAARRUYAAMpsZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZvAARRUYAAMpsZ.jpg",
+						"url": "https://t.co/BIIN4CwYnr",
+						"display_url": "pic.twitter.com/BIIN4CwYnr",
+						"expanded_url": "https://twitter.com/HJCULTURE/status/1268819310182449152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268818830903500800,
+						"id_str": "1268818830903500800",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EZvAARRUYAAMpsZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZvAARRUYAAMpsZ.jpg",
+						"url": "https://t.co/BIIN4CwYnr",
+						"display_url": "pic.twitter.com/BIIN4CwYnr",
+						"expanded_url": "https://twitter.com/HJCULTURE/status/1268819310182449152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1268818922540654600,
+						"id_str": "1268818922540654593",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EZvAFmpUYAExZUi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZvAFmpUYAExZUi.jpg",
+						"url": "https://t.co/BIIN4CwYnr",
+						"display_url": "pic.twitter.com/BIIN4CwYnr",
+						"expanded_url": "https://twitter.com/HJCULTURE/status/1268819310182449152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 676,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 887,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 892,
+								"h": 887,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 285502189,
+				"id_str": "285502189",
+				"name": "HJ컬쳐(주)",
+				"screen_name": "HJCULTURE",
+				"location": "서울시 강남구 신사동",
+				"description": "뮤지컬 공연 제작사 HJ컬쳐입니다. / #뮤지컬 #라흐마니노프 3.14-6.21 예스24스테이지 1관 / OST 관련 문의는 help@hjculture.com / 네이버 스토어팜 \"문화상회\" OPEN! / HJ컬쳐 멤버십 모바일어플 ▶ 앱스토어 HJ컬쳐 멤버십 검색!",
+				"url": "https://t.co/YKGXlbg8vb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YKGXlbg8vb",
+								"expanded_url": "http://bit.ly/2Hadw03",
+								"display_url": "bit.ly/2Hadw03",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83207,
+				"friends_count": 2899,
+				"listed_count": 100,
+				"created_at": "Thu Apr 21 08:13:27 +0000 2011",
+				"favourites_count": 161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9894,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268448101154480128/zDpievbh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268448101154480128/zDpievbh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/285502189/1589191929",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 132,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 55,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24스테이지\n6/6(토) 공휴일 스케쥴로 공연이 진행됩니다!\n\n1관 뮤지컬&lt;#라흐마니노프&gt; \n오후2시, 오후6시\n\n2관 뮤지컬&lt;#미아파밀리아&gt;\n아폴로니아 인앤바 오픈 준비 중\n\n3관 뮤지컬&lt;#미드나잇:액터뮤지션&gt; \n오후3시, 오후6시30분\n\n호국영령의 명복을 빌며, \n유공자분들께 가슴 깊이 감사드립니다 https://t.co/rZYCC5ZlMJ"
+	},
+	{
+		"created_at": "Fri Jun 05 09:29:42 +0000 2020",
+		"id": 1268835752672034800,
+		"id_str": "1268837389339942912",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 울림루키의 잘생김 폭발 #잘옆잘 #황윤성 #차준호 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/0phsMwPgw5\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Woollim_Rookie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "잘옆잘",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "황윤성",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "차준호",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						71,
+						90
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "Woollim_Rookie",
+					"indices": [
+						171,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0phsMwPgw5",
+					"expanded_url": "https://vt.tiktok.com/AhvG3H/",
+					"display_url": "vt.tiktok.com/AhvG3H/",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268835627027456000,
+		"in_reply_to_status_id_str": "1268835627027456000",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417007,
+			"friends_count": 9,
+			"listed_count": 1785,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1145,
+		"favorite_count": 1584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 울림루키의 잘생김 폭발 #잘옆잘 #황윤성 #차준호 입니다😍\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃‍♀️🏃\n\n▶ https://t.co/0phsMwPgw5\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Woollim_Rookie"
+	},
+	{
+		"created_at": "Fri Jun 05 09:29:40 +0000 2020",
+		"id": 1268835627027456000,
+		"id_str": "1268837380510924800",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #룸메즈 #Y #이장준 입니다🥰\n앞으로도 #이어달리기_With_Woollim 해주세요🏃🏃‍♀️🏃‍♂️\n\n▶ https://t.co/opWQaCF0qD\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "룸메즈",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "Y",
+					"indices": [
+						45,
+						47
+					]
+				},
+				{
+					"text": "이장준",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						63,
+						82
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/opWQaCF0qD",
+					"expanded_url": "https://vt.tiktok.com/AhwTwj/",
+					"display_url": "vt.tiktok.com/AhwTwj/",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268832149047619600,
+		"in_reply_to_status_id_str": "1268832149047619584",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417007,
+			"friends_count": 9,
+			"listed_count": 1785,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 1250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 골든차일드의 #룸메즈 #Y #이장준 입니다🥰\n앞으로도 #이어달리기_With_Woollim 해주세요🏃🏃‍♀️🏃‍♂️\n\n▶ https://t.co/opWQaCF0qD\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#GoldenChild"
+	},
+	{
+		"created_at": "Fri Jun 05 09:29:30 +0000 2020",
+		"id": 1268835617397338000,
+		"id_str": "1268837342317613056",
+		"full_text": "[영상소식]넷보다 나은 둘｜①경희&amp;우건 편 영상이 업데이트 되었습니다. -에이프릴 세컨드&gt;&gt;https://t.co/aY8DUqhaFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aY8DUqhaFm",
+					"expanded_url": "http://kko.to/ktO1qYTYj",
+					"display_url": "kko.to/ktO1qYTYj",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://partner.melon.com/\" rel=\"nofollow\">Melon Partner Center</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2179,
+			"friends_count": 2433,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[영상소식]넷보다 나은 둘｜①경희&amp;우건 편 영상이 업데이트 되었습니다. -에이프릴 세컨드&gt;&gt;https://t.co/aY8DUqhaFm"
+	},
+	{
+		"created_at": "Fri Jun 05 09:29:24 +0000 2020",
+		"id": 1268832149047619600,
+		"id_str": "1268837316669378560",
+		"full_text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #스사짝꿍 #베이비소울 #유지애 입니다🥰\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃🏃‍♀️\n\n▶ https://t.co/PDAiTSjkcu\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tiktok",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "이어달리기_챌린지",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "스사짝꿍",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "베이비소울",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "유지애",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이어달리기_With_Woollim",
+					"indices": [
+						67,
+						86
+					]
+				},
+				{
+					"text": "이어달리기",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "With_Woollim",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "Relay_Challenge",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PDAiTSjkcu",
+					"expanded_url": "https://vt.tiktok.com/Akdsny/",
+					"display_url": "vt.tiktok.com/Akdsny/",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268753870651441200,
+		"in_reply_to_status_id_str": "1268753870651441153",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417007,
+			"friends_count": 9,
+			"listed_count": 1785,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264937148546813952/ik4h9q-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1590419493",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #Tiktok]\n\n#이어달리기_챌린지 의 이번 주자는 러블리즈의 #스사짝꿍 #베이비소울 #유지애 입니다🥰\n앞으로도 #이어달리기_With_Woollim 해주세요🏃‍♂️🏃🏃‍♀️\n\n▶ https://t.co/PDAiTSjkcu\n\n#이어달리기 #With_Woollim #Relay_Challenge\n#Lovelyz"
+	},
+	{
 		"created_at": "Fri Jun 05 09:12:33 +0000 2020",
 		"id": 1268833076316176400,
 		"id_str": "1268833076316176386",
