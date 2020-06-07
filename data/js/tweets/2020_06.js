@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 08:29:25 +0000 2020",
+		"id": 1269541279429353500,
+		"id_str": "1269546994848149504",
+		"full_text": "[#하림] 사운드체크 곡이 이렇게 좋아도 되는 건가요.. 🙊 \nJTBC 비긴어게인 코리아 의 문을 연 하림, 크러쉬의 듀엣곡 '출국'이 발매되었습니다.\n\n#비긴어게인코리아\n#출국\n#하림\n#크러쉬 \n#jtbc\n#매주토요일오후11시방송 https://t.co/32aqJf1xdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하림",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "출국",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "하림",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "크러쉬",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "jtbc",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "매주토요일오후11시방송",
+					"indices": [
+						116,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269541268578656300,
+					"id_str": "1269541268578656257",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ5RDrVUYAEjukU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ5RDrVUYAEjukU.jpg",
+					"url": "https://t.co/32aqJf1xdw",
+					"display_url": "pic.twitter.com/32aqJf1xdw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1269541279429353473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269541268578656300,
+					"id_str": "1269541268578656257",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ5RDrVUYAEjukU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ5RDrVUYAEjukU.jpg",
+					"url": "https://t.co/32aqJf1xdw",
+					"display_url": "pic.twitter.com/32aqJf1xdw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1269541279429353473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19613,
+			"friends_count": 18,
+			"listed_count": 219,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하림] 사운드체크 곡이 이렇게 좋아도 되는 건가요.. 🙊 \nJTBC 비긴어게인 코리아 의 문을 연 하림, 크러쉬의 듀엣곡 '출국'이 발매되었습니다.\n\n#비긴어게인코리아\n#출국\n#하림\n#크러쉬 \n#jtbc\n#매주토요일오후11시방송 https://t.co/32aqJf1xdw"
+	},
+	{
 		"created_at": "Sun Jun 07 08:04:46 +0000 2020",
 		"id": 1269537344077496300,
 		"id_str": "1269540792416137216",
