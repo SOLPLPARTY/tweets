@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 19:49:19 +0000 2020",
+		"id": 1269645292040630300,
+		"id_str": "1269718096740184065",
+		"full_text": "[MV TEASER] 헤이즈(Heize) - 너의 이름은(Your name) (Feat. ASH ISLAND)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n'너의 이름은' (Feat. ASH ISLAND) 뮤직비디오 티저\n▶️ https://t.co/jlTPyb7IRg\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name #ASHISLAND https://t.co/siuPzAWTec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "너의이름은",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "Your_name",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"text": "ASHISLAND",
+					"indices": [
+						232,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jlTPyb7IRg",
+					"expanded_url": "https://youtu.be/TF5NkP-XI5I",
+					"display_url": "youtu.be/TF5NkP-XI5I",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269622361147363300,
+					"id_str": "1269622361147363329",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ6citdUwAEBRj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ6citdUwAEBRj5.jpg",
+					"url": "https://t.co/siuPzAWTec",
+					"display_url": "pic.twitter.com/siuPzAWTec",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269645292040630273/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269622361147363300,
+					"id_str": "1269622361147363329",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ6citdUwAEBRj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ6citdUwAEBRj5.jpg",
+					"url": "https://t.co/siuPzAWTec",
+					"display_url": "pic.twitter.com/siuPzAWTec",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1269645292040630273/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50384,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269622361147363329/vid/1280x720/rCAG53oaMjnLrJAA.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269622361147363329/pl/VsMQ428eOBYRmdJ_.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269622361147363329/vid/640x360/66LjjxVmyCou1rUR.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269622361147363329/vid/480x270/Z76qtQ8o0MK6milq.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38844,
+			"friends_count": 0,
+			"listed_count": 353,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 560,
+		"favorite_count": 1333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV TEASER] 헤이즈(Heize) - 너의 이름은(Your name) (Feat. ASH ISLAND)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n'너의 이름은' (Feat. ASH ISLAND) 뮤직비디오 티저\n▶️ https://t.co/jlTPyb7IRg\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name #ASHISLAND https://t.co/siuPzAWTec"
+	},
+	{
 		"created_at": "Sun Jun 07 18:51:54 +0000 2020",
 		"id": 1269703646809337900,
 		"id_str": "1269703646809337856",
