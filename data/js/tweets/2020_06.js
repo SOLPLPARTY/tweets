@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 08:04:46 +0000 2020",
+		"id": 1269537344077496300,
+		"id_str": "1269540792416137216",
+		"full_text": "크라잉넛 신한카드 디지털 스테이지 라이브\n5시 시작!\n\n저도 지금 접속중입니다😻\n\n지금 👇아래 주소로 들어오시면 크라잉넛과 채팅하면서 라이브를 즐기실수 있습니다📺🐿\n\nhttps://t.co/o5BzbRf9LJ\n\n#크라잉넛 #유튜브라이브 #신한카드 #서울문화재단 https://t.co/bMrSsLukca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크라잉넛",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "신한카드",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "서울문화재단",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o5BzbRf9LJ",
+					"expanded_url": "https://www.youtube.com/watch?v=G76Tyktk8u8&feature=share",
+					"display_url": "youtube.com/watch?v=G76Tyk…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269537330345308200,
+					"id_str": "1269537330345308161",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ5NecRUcAEdrBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ5NecRUcAEdrBt.jpg",
+					"url": "https://t.co/bMrSsLukca",
+					"display_url": "pic.twitter.com/bMrSsLukca",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1269537344077496320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269537330345308200,
+					"id_str": "1269537330345308161",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ5NecRUcAEdrBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ5NecRUcAEdrBt.jpg",
+					"url": "https://t.co/bMrSsLukca",
+					"display_url": "pic.twitter.com/bMrSsLukca",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1269537344077496320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269537330349478000,
+					"id_str": "1269537330349477888",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ5NecSUEAASkGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ5NecSUEAASkGf.jpg",
+					"url": "https://t.co/bMrSsLukca",
+					"display_url": "pic.twitter.com/bMrSsLukca",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1269537344077496320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139751998,
+			"id_str": "139751998",
+			"name": "한경록",
+			"screen_name": "thecaptainrock",
+			"location": "",
+			"description": "CryingNut bass CaptainRock☠️🌹",
+			"url": "https://t.co/xL5jURrP6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xL5jURrP6m",
+							"expanded_url": "http://blog.naver.com/captainrock1",
+							"display_url": "blog.naver.com/captainrock1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12004,
+			"friends_count": 740,
+			"listed_count": 314,
+			"created_at": "Mon May 03 15:31:23 +0000 2010",
+			"favourites_count": 982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크라잉넛 신한카드 디지털 스테이지 라이브\n5시 시작!\n\n저도 지금 접속중입니다😻\n\n지금 👇아래 주소로 들어오시면 크라잉넛과 채팅하면서 라이브를 즐기실수 있습니다📺🐿\n\nhttps://t.co/o5BzbRf9LJ\n\n#크라잉넛 #유튜브라이브 #신한카드 #서울문화재단 https://t.co/bMrSsLukca"
+	},
+	{
 		"created_at": "Sun Jun 07 06:59:31 +0000 2020",
 		"id": 1269524372680773600,
 		"id_str": "1269524372680773633",
