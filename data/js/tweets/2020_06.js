@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 00:29:25 +0000 2020",
+		"id": 1269420649174335500,
+		"id_str": "1269426198305746944",
+		"full_text": "[L.O.P]랜드오브피스 [140 그램 블랙 디스크]\n\nEP 앨범 [Life In Timog] 이후 랜드오브피스가 디지털 음원으로만 발표한 노래들을 모두 담아 소장가치가 업! 추가로 데모 버전도 수록된 밴드의 첫 한정판 바이닐 앨범.\n\n노다지바이닐 펀딩 GoGo👉 https://t.co/VluWv4DEFk\n\n#랜드오브피스 #LP https://t.co/sDPCnfoh5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "랜드오브피스",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						181,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VluWv4DEFk",
+					"expanded_url": "https://bit.ly/2zWtISz",
+					"display_url": "bit.ly/2zWtISz",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269420640425017300,
+					"id_str": "1269420640425017344",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3jWMcVAAA802c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3jWMcVAAA802c.jpg",
+					"url": "https://t.co/sDPCnfoh5b",
+					"display_url": "pic.twitter.com/sDPCnfoh5b",
+					"expanded_url": "https://twitter.com/ruby_records/status/1269420649174335488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 765,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269420640425017300,
+					"id_str": "1269420640425017344",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3jWMcVAAA802c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3jWMcVAAA802c.jpg",
+					"url": "https://t.co/sDPCnfoh5b",
+					"display_url": "pic.twitter.com/sDPCnfoh5b",
+					"expanded_url": "https://twitter.com/ruby_records/status/1269420649174335488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 765,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7952,
+			"friends_count": 8609,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[L.O.P]랜드오브피스 [140 그램 블랙 디스크]\n\nEP 앨범 [Life In Timog] 이후 랜드오브피스가 디지털 음원으로만 발표한 노래들을 모두 담아 소장가치가 업! 추가로 데모 버전도 수록된 밴드의 첫 한정판 바이닐 앨범.\n\n노다지바이닐 펀딩 GoGo👉 https://t.co/VluWv4DEFk\n\n#랜드오브피스 #LP https://t.co/sDPCnfoh5b"
+	},
+	{
 		"created_at": "Sat Jun 06 22:05:20 +0000 2020",
 		"id": 1269389940661661700,
 		"id_str": "1269389940661661699",
