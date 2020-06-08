@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 17:41:38 +0000 2020",
+		"id": 1270043108965675000,
+		"id_str": "1270048353334833158",
+		"full_text": "전시 중인 너와 함께.\nGGANGGANGGANGG &amp; ME.\n-\nPhotos by @stillm45 \n-\n[전시일정]\n-\n조수민 &lt;깡깡깡&gt;\nSUMIN &lt;GGANGGANGGANGG&gt;\n-\n을지로 오브(@55ooofff)\n2020.5.27~6.28\n수~일요일 오후 2시~8시\n월, 화요일 휴무\n-\nExhibition Duration: 27 MAY~28 JUNE,… https://t.co/cJfCzybldv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stillm45",
+					"name": "STILLM45",
+					"id": 930816682406187000,
+					"id_str": "930816682406187009",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cJfCzybldv",
+					"expanded_url": "https://www.instagram.com/p/CBLqmRzFwWX/?igshid=cghsdidgzxer",
+					"display_url": "instagram.com/p/CBLqmRzFwWX/…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전시 중인 너와 함께.\nGGANGGANGGANGG &amp; ME.\n-\nPhotos by @stillm45 \n-\n[전시일정]\n-\n조수민 &lt;깡깡깡&gt;\nSUMIN &lt;GGANGGANGGANGG&gt;\n-\n을지로 오브(@55ooofff)\n2020.5.27~6.28\n수~일요일 오후 2시~8시\n월, 화요일 휴무\n-\nExhibition Duration: 27 MAY~28 JUNE,… https://t.co/cJfCzybldv"
+	},
+	{
 		"created_at": "Mon Jun 08 16:11:09 +0000 2020",
 		"id": 1269959064353554400,
 		"id_str": "1270025581350907906",
