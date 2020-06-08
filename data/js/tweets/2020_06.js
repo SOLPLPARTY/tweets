@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 13:29:25 +0000 2020",
+		"id": 1269977477050327000,
+		"id_str": "1269984880772947968",
+		"full_text": "[📺] 좋아하면 울림🔔\n\n[좋아하면 울림🔔] 인피니트 10주년 맞이🎉 인스피릿의 감성을 울림💙 | INFINITE\n▶ https://t.co/u5lRitaWfE\n\n#Woollim #울림\n#INFINITE #인피니트 https://t.co/89NfuVyATK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Woollim",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "울림",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u5lRitaWfE",
+					"expanded_url": "https://youtu.be/uEMF1l1QV50",
+					"display_url": "youtu.be/uEMF1l1QV50",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269939527876874200,
+					"id_str": "1269939527876874240",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-7Ra1UEAA8rMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-7Ra1UEAA8rMg.jpg",
+					"url": "https://t.co/89NfuVyATK",
+					"display_url": "pic.twitter.com/89NfuVyATK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1269977477050327040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269939527876874200,
+					"id_str": "1269939527876874240",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-7Ra1UEAA8rMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-7Ra1UEAA8rMg.jpg",
+					"url": "https://t.co/89NfuVyATK",
+					"display_url": "pic.twitter.com/89NfuVyATK",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1269977477050327040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417400,
+			"friends_count": 9,
+			"listed_count": 1785,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1591542170",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4132,
+		"favorite_count": 4652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] 좋아하면 울림🔔\n\n[좋아하면 울림🔔] 인피니트 10주년 맞이🎉 인스피릿의 감성을 울림💙 | INFINITE\n▶ https://t.co/u5lRitaWfE\n\n#Woollim #울림\n#INFINITE #인피니트 https://t.co/89NfuVyATK"
+	},
+	{
 		"created_at": "Mon Jun 08 12:59:32 +0000 2020",
 		"id": 1269977360448852000,
 		"id_str": "1269977360448851968",
