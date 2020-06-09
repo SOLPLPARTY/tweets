@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 13:51:42 +0000 2020",
+		"id": 1270324132933038000,
+		"id_str": "1270352876972371968",
+		"full_text": "Something's about to come 💥\n\nPhotographe by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/K8Ur7cllpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270324124607340500,
+					"id_str": "1270324124607340544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"url": "https://t.co/K8Ur7cllpo",
+					"display_url": "pic.twitter.com/K8Ur7cllpo",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1270324132933038081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270324124607340500,
+					"id_str": "1270324124607340544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEZD5TUYAA6ZLf.jpg",
+					"url": "https://t.co/K8Ur7cllpo",
+					"display_url": "pic.twitter.com/K8Ur7cllpo",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1270324132933038081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 2,
+			"listed_count": 8,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something's about to come 💥\n\nPhotographe by OH SE AE\nHair &amp; Make-up by Lee Eun Seo\nStyling by Mo Eun Seo https://t.co/K8Ur7cllpo"
+	},
+	{
+		"created_at": "Tue Jun 09 13:48:16 +0000 2020",
+		"id": 1269967967338414000,
+		"id_str": "1270352011611877376",
+		"full_text": "14일 일요일입니다 죄송..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269961438153502700,
+		"in_reply_to_status_id_str": "1269961438153502720",
+		"in_reply_to_user_id": 3777260774,
+		"in_reply_to_user_id_str": "3777260774",
+		"in_reply_to_screen_name": "allthejealousy",
+		"user": {
+			"id": 3777260774,
+			"id_str": "3777260774",
+			"name": "천미지",
+			"screen_name": "allthejealousy",
+			"location": "",
+			"description": "Cheon Miji  EP 몸 / 1집 Mother and Lover himijimusic@gmail.com",
+			"url": "https://t.co/wNVqnZZXlK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wNVqnZZXlK",
+							"expanded_url": "http://soundcloud.com/alljealousy",
+							"display_url": "soundcloud.com/alljealousy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 284,
+			"listed_count": 5,
+			"created_at": "Sun Oct 04 04:19:57 +0000 2015",
+			"favourites_count": 4263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3777260774/1582042177",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "14일 일요일입니다 죄송.."
+	},
+	{
+		"created_at": "Tue Jun 09 13:48:12 +0000 2020",
+		"id": 1269961438153502700,
+		"id_str": "1270351994935406597",
+		"full_text": "https://t.co/ADi2vnH1ks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ADi2vnH1ks",
+					"expanded_url": "https://www.instagram.com/p/CBLEuLOF3y8/?igshid=l7ez0udy56ua",
+					"display_url": "instagram.com/p/CBLEuLOF3y8/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269961385175216000,
+		"in_reply_to_status_id_str": "1269961385175216128",
+		"in_reply_to_user_id": 3777260774,
+		"in_reply_to_user_id_str": "3777260774",
+		"in_reply_to_screen_name": "allthejealousy",
+		"user": {
+			"id": 3777260774,
+			"id_str": "3777260774",
+			"name": "천미지",
+			"screen_name": "allthejealousy",
+			"location": "",
+			"description": "Cheon Miji  EP 몸 / 1집 Mother and Lover himijimusic@gmail.com",
+			"url": "https://t.co/wNVqnZZXlK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wNVqnZZXlK",
+							"expanded_url": "http://soundcloud.com/alljealousy",
+							"display_url": "soundcloud.com/alljealousy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 284,
+			"listed_count": 5,
+			"created_at": "Sun Oct 04 04:19:57 +0000 2015",
+			"favourites_count": 4263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3777260774/1582042177",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ADi2vnH1ks"
+	},
+	{
+		"created_at": "Tue Jun 09 13:47:31 +0000 2020",
+		"id": 1269961385175216000,
+		"id_str": "1270351825946865665",
+		"full_text": "참 오래 기다렸어요 솔로셋으로 노래합니다 저는 이번에 여러가지 새로운 시도를 해보려고 해요 가셋리스트와 약간의 가사 일부를 공유해봅니다 아래 타래에 인스타 링크로 코로나 관련 유의사항을 확인해주세요 고맙습니다\n⠀\n👉6월 14일 (토) PM 9:00\n👉망원 아이다호\n👉티켓 무료입장유료퇴장 https://t.co/gEZiMQa9GH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269961370759389200,
+					"id_str": "1269961370759389189",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_PI16U4AUhJcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_PI16U4AUhJcF.jpg",
+					"url": "https://t.co/gEZiMQa9GH",
+					"display_url": "pic.twitter.com/gEZiMQa9GH",
+					"expanded_url": "https://twitter.com/allthejealousy/status/1269961385175216128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269961370759389200,
+					"id_str": "1269961370759389189",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_PI16U4AUhJcF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_PI16U4AUhJcF.jpg",
+					"url": "https://t.co/gEZiMQa9GH",
+					"display_url": "pic.twitter.com/gEZiMQa9GH",
+					"expanded_url": "https://twitter.com/allthejealousy/status/1269961385175216128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269961370763583500,
+					"id_str": "1269961370763583489",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_PI17U4AES5Gu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_PI17U4AES5Gu.jpg",
+					"url": "https://t.co/gEZiMQa9GH",
+					"display_url": "pic.twitter.com/gEZiMQa9GH",
+					"expanded_url": "https://twitter.com/allthejealousy/status/1269961385175216128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269961370763587600,
+					"id_str": "1269961370763587586",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_PI17U8AICnC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_PI17U8AICnC1.jpg",
+					"url": "https://t.co/gEZiMQa9GH",
+					"display_url": "pic.twitter.com/gEZiMQa9GH",
+					"expanded_url": "https://twitter.com/allthejealousy/status/1269961385175216128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269961370780307500,
+					"id_str": "1269961370780307456",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ_PI1_UEAAdW8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ_PI1_UEAAdW8s.jpg",
+					"url": "https://t.co/gEZiMQa9GH",
+					"display_url": "pic.twitter.com/gEZiMQa9GH",
+					"expanded_url": "https://twitter.com/allthejealousy/status/1269961385175216128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3777260774,
+			"id_str": "3777260774",
+			"name": "천미지",
+			"screen_name": "allthejealousy",
+			"location": "",
+			"description": "Cheon Miji  EP 몸 / 1집 Mother and Lover himijimusic@gmail.com",
+			"url": "https://t.co/wNVqnZZXlK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wNVqnZZXlK",
+							"expanded_url": "http://soundcloud.com/alljealousy",
+							"display_url": "soundcloud.com/alljealousy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 284,
+			"listed_count": 5,
+			"created_at": "Sun Oct 04 04:19:57 +0000 2015",
+			"favourites_count": 4263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229659233655721989/YHKCYYPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3777260774/1582042177",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참 오래 기다렸어요 솔로셋으로 노래합니다 저는 이번에 여러가지 새로운 시도를 해보려고 해요 가셋리스트와 약간의 가사 일부를 공유해봅니다 아래 타래에 인스타 링크로 코로나 관련 유의사항을 확인해주세요 고맙습니다\n⠀\n👉6월 14일 (토) PM 9:00\n👉망원 아이다호\n👉티켓 무료입장유료퇴장 https://t.co/gEZiMQa9GH"
+	},
+	{
 		"created_at": "Tue Jun 09 13:13:03 +0000 2020",
 		"id": 1270343151811772400,
 		"id_str": "1270343151811772418",
