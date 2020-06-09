@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 10:43:27 +0000 2020",
+		"id": 1270305502606626800,
+		"id_str": "1270305502606626816",
+		"full_text": "#genie #지니 #지니매거진\n동화 속 팅커벨이 되어 만난 우주소녀 [Neverland] 자켓 촬영 현장 비하인드\nhttps://t.co/UehHBkQzZb https://t.co/awr4RruiEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UehHBkQzZb",
+					"expanded_url": "https://bit.ly/37fZSom",
+					"display_url": "bit.ly/37fZSom",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270305501478355000,
+					"id_str": "1270305501478354944",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEIH4vXgAANH1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEIH4vXgAANH1n.jpg",
+					"url": "https://t.co/awr4RruiEz",
+					"display_url": "pic.twitter.com/awr4RruiEz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1270305502606626816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270305501478355000,
+					"id_str": "1270305501478354944",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEIH4vXgAANH1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEIH4vXgAANH1n.jpg",
+					"url": "https://t.co/awr4RruiEz",
+					"display_url": "pic.twitter.com/awr4RruiEz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1270305502606626816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/GCEfwO8QQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCEfwO8QQD",
+							"expanded_url": "http://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n동화 속 팅커벨이 되어 만난 우주소녀 [Neverland] 자켓 촬영 현장 비하인드\nhttps://t.co/UehHBkQzZb https://t.co/awr4RruiEz"
+	},
+	{
+		"created_at": "Tue Jun 09 10:29:35 +0000 2020",
+		"id": 1270297897133695000,
+		"id_str": "1270302011569901569",
+		"full_text": "[#하재숙] '동상이몽2' 하재숙 \"사랑해 주셔서 감사…끈끈한 부부 된 것 같다\" 하차 소감\n▶https://t.co/eoHjqgJ073\n\n#SBS #동상이몽2 #너는내운명 #HaJaeSuk https://t.co/gD3vOVwMo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하재숙",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "동상이몽2",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "너는내운명",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "HaJaeSuk",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eoHjqgJ073",
+					"expanded_url": "http://bit.ly/2YevoPz",
+					"display_url": "bit.ly/2YevoPz",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270297547739771000,
+					"id_str": "1270297547739770880",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEA46wUMAAjJ6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEA46wUMAAjJ6G.jpg",
+					"url": "https://t.co/gD3vOVwMo2",
+					"display_url": "pic.twitter.com/gD3vOVwMo2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1270297897133694977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 1686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270297547739771000,
+					"id_str": "1270297547739770880",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EaEA46wUMAAjJ6G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaEA46wUMAAjJ6G.jpg",
+					"url": "https://t.co/gD3vOVwMo2",
+					"display_url": "pic.twitter.com/gD3vOVwMo2",
+					"expanded_url": "https://twitter.com/themysticstory/status/1270297897133694977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 998,
+							"h": 1686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19627,
+			"friends_count": 18,
+			"listed_count": 221,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하재숙] '동상이몽2' 하재숙 \"사랑해 주셔서 감사…끈끈한 부부 된 것 같다\" 하차 소감\n▶https://t.co/eoHjqgJ073\n\n#SBS #동상이몽2 #너는내운명 #HaJaeSuk https://t.co/gD3vOVwMo2"
+	},
+	{
+		"created_at": "Tue Jun 09 10:29:32 +0000 2020",
+		"id": 1270294826831896600,
+		"id_str": "1270301998550786048",
+		"full_text": "🌀\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single \n‘Whenever Wherever’ \n\nConcept Photo ver. 1\n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/ocQ4PE7Qm6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "언제라도어디에서라도",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"text": "WheneverWherever",
+					"indices": [
+						152,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270294817637949400,
+					"id_str": "1270294817637949445",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaD-aAVUYAU6rAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaD-aAVUYAU6rAo.jpg",
+					"url": "https://t.co/ocQ4PE7Qm6",
+					"display_url": "pic.twitter.com/ocQ4PE7Qm6",
+					"expanded_url": "https://twitter.com/antennamusic/status/1270294826831896577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270294817637949400,
+					"id_str": "1270294817637949445",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaD-aAVUYAU6rAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaD-aAVUYAU6rAo.jpg",
+					"url": "https://t.co/ocQ4PE7Qm6",
+					"display_url": "pic.twitter.com/ocQ4PE7Qm6",
+					"expanded_url": "https://twitter.com/antennamusic/status/1270294826831896577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270294817772171300,
+					"id_str": "1270294817772171265",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaD-aA1UcAEgMJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaD-aA1UcAEgMJI.jpg",
+					"url": "https://t.co/ocQ4PE7Qm6",
+					"display_url": "pic.twitter.com/ocQ4PE7Qm6",
+					"expanded_url": "https://twitter.com/antennamusic/status/1270294826831896577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN804wu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN804wu",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34227,
+			"friends_count": 11,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1590571600",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌀\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single \n‘Whenever Wherever’ \n\nConcept Photo ver. 1\n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/ocQ4PE7Qm6"
+	},
+	{
 		"created_at": "Tue Jun 09 09:57:32 +0000 2020",
 		"id": 1270293946439270400,
 		"id_str": "1270293946439270408",
