@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 03:58:15 +0000 2020",
+		"id": 1270188932852924400,
+		"id_str": "1270203528456347660",
+		"full_text": "평화에 관한 가장 사적인 글 [Peace, blank]\n일곱번째 에세이 &lt;기억이 몰려오는 순간&gt;\n글 | 김복희 (시인)\n전문 ▶ https://t.co/HNDlnqtblL\n*에세이 전문은 공식 홈페이지 CONTENTS 란에서 확인할 수 있습니다. https://t.co/vtSKRfSu0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HNDlnqtblL",
+					"expanded_url": "https://bit.ly/30liGRM",
+					"display_url": "bit.ly/30liGRM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270188930713841700,
+					"id_str": "1270188930713841666",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCeGkzU8AIjGN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCeGkzU8AIjGN1.jpg",
+					"url": "https://t.co/vtSKRfSu0t",
+					"display_url": "pic.twitter.com/vtSKRfSu0t",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1270188932852924417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270188930713841700,
+					"id_str": "1270188930713841666",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCeGkzU8AIjGN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCeGkzU8AIjGN1.jpg",
+					"url": "https://t.co/vtSKRfSu0t",
+					"display_url": "pic.twitter.com/vtSKRfSu0t",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1270188932852924417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 37,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평화에 관한 가장 사적인 글 [Peace, blank]\n일곱번째 에세이 &lt;기억이 몰려오는 순간&gt;\n글 | 김복희 (시인)\n전문 ▶ https://t.co/HNDlnqtblL\n*에세이 전문은 공식 홈페이지 CONTENTS 란에서 확인할 수 있습니다. https://t.co/vtSKRfSu0t"
+	},
+	{
+		"created_at": "Tue Jun 09 03:41:38 +0000 2020",
+		"id": 1270198215837532200,
+		"id_str": "1270199347096027137",
+		"full_text": "[‘코로나 19 음악산업 대응책 논의’ 세미나 마감 예정 공지]\n\n세미나에 많은 분들께서 신청해주셨다고 합니다.\n\n장소 여건 상 진행을 위해 오늘 저녁 9시 신청 접수를 마감할 예정이라고 하니 아직 신청 하지 않으신 분들은 아래 링크를 확인해주세요.\n⠀\n- 참가 신청 링크 : https://t.co/Delz1F4U5R https://t.co/LitVt3PTeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Delz1F4U5R",
+					"expanded_url": "https://c11.kr/fezi",
+					"display_url": "c11.kr/fezi",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/LitVt3PTeu",
+					"expanded_url": "https://twitter.com/xindieticket/status/1268855200179052544",
+					"display_url": "twitter.com/xindieticket/s…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804,
+			"friends_count": 2715,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268855200179052500,
+		"quoted_status_id_str": "1268855200179052544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LitVt3PTeu",
+			"expanded": "https://twitter.com/xindieticket/status/1268855200179052544",
+			"display": "twitter.com/xindieticket/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 10:40:28 +0000 2020",
+			"id": 1268855200179052500,
+			"id_str": "1268855200179052544",
+			"full_text": "[코로나19 음악산업 대응책 논의 세미나 개최]\n\n위축된 음악 산업계 피해 지원 대책에 대한 여러 의견을 듣고 논의할 수 있는 자리가 마련된다고 합니다.\n\n음악 산업계 전반의 누구나 참여 가능하니, 많은 관심과 참여를 부탁드립니다.\n\n▶︎ 참가신청 링크 : https://t.co/Delz1F4U5R https://t.co/50PXEViPfK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Delz1F4U5R",
+						"expanded_url": "https://c11.kr/fezi",
+						"display_url": "c11.kr/fezi",
+						"indices": [
+							144,
+							167
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1268854667972235300,
+						"id_str": "1268854667972235264",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EZvgmQwU0AAX6no.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZvgmQwU0AAX6no.jpg",
+						"url": "https://t.co/50PXEViPfK",
+						"display_url": "pic.twitter.com/50PXEViPfK",
+						"expanded_url": "https://twitter.com/xindieticket/status/1268855200179052544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 679,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 679,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268854667972235300,
+						"id_str": "1268854667972235264",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EZvgmQwU0AAX6no.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZvgmQwU0AAX6no.jpg",
+						"url": "https://t.co/50PXEViPfK",
+						"display_url": "pic.twitter.com/50PXEViPfK",
+						"expanded_url": "https://twitter.com/xindieticket/status/1268855200179052544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 679,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 679,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1220731080,
+				"id_str": "1220731080",
+				"name": "씬디 티켓라운지",
+				"screen_name": "xindieticket",
+				"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+				"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(당분간 직원 재택근무가 실시됩니다. 문의는 아래 연락처로 연락 바랍니다.)\n☎ 02-322-2218",
+				"url": "https://t.co/dqX6O3D21p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dqX6O3D21p",
+								"expanded_url": "http://xindieticket.kr",
+								"display_url": "xindieticket.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2804,
+				"friends_count": 2715,
+				"listed_count": 22,
+				"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+				"favourites_count": 5203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[‘코로나 19 음악산업 대응책 논의’ 세미나 마감 예정 공지]\n\n세미나에 많은 분들께서 신청해주셨다고 합니다.\n\n장소 여건 상 진행을 위해 오늘 저녁 9시 신청 접수를 마감할 예정이라고 하니 아직 신청 하지 않으신 분들은 아래 링크를 확인해주세요.\n⠀\n- 참가 신청 링크 : https://t.co/Delz1F4U5R https://t.co/LitVt3PTeu"
+	},
+	{
 		"created_at": "Tue Jun 09 03:08:41 +0000 2020",
 		"id": 1270191055682654200,
 		"id_str": "1270191055682654208",
