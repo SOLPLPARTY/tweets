@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 20:10:01 +0000 2020",
+		"id": 1270647120307974100,
+		"id_str": "1270810472439181312",
+		"full_text": "[MV] 헤이즈(Heize) - 작사가 / 일이 너무 잘 돼 \n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가 / 일이 너무 잘 돼' 뮤직비디오 1분 ver. \n\nFull MV ▶️ https://t.co/RAwO7x09nx\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 https://t.co/FkXnBBFNPJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RAwO7x09nx",
+					"expanded_url": "https://youtu.be/P9_nq8q6JDY",
+					"display_url": "youtu.be/P9_nq8q6JDY",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270623296900325400,
+					"id_str": "1270623296900325376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"url": "https://t.co/FkXnBBFNPJ",
+					"display_url": "pic.twitter.com/FkXnBBFNPJ",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270647120307974145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270623296900325400,
+					"id_str": "1270623296900325376",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaIs2q9VcAAeIjn.jpg",
+					"url": "https://t.co/FkXnBBFNPJ",
+					"display_url": "pic.twitter.com/FkXnBBFNPJ",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270647120307974145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/480x270/IBlCzlbDYzM90IDR.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/1280x720/GQWO1ZKylaBpOl3-.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/vid/640x360/o6pb5k05KsTiGkiU.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1270623296900325376/pl/KBrAAp920O0gBzbG.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39240,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 984,
+		"favorite_count": 1849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 헤이즈(Heize) - 작사가 / 일이 너무 잘 돼 \n\n'헤이즈' 6번째 미니앨범 [Lyricist]\n타이틀곡 '작사가 / 일이 너무 잘 돼' 뮤직비디오 1분 ver. \n\nFull MV ▶️ https://t.co/RAwO7x09nx\n\n2020. 06. 10 (WED) 6PM (KST) Release\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 https://t.co/FkXnBBFNPJ"
+	},
+	{
+		"created_at": "Wed Jun 10 20:09:58 +0000 2020",
+		"id": 1270646180658077700,
+		"id_str": "1270810456504975360",
+		"full_text": "▶️FLO : https://t.co/xtFVFaZdV7\n▶️소리바다 : https://t.co/0aYxdEjRTc\n▶️네이버뮤직 : https://t.co/xMBaNO4o08\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/oPMUXXJLvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "일이너무잘돼",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "Things_are_going_well",
+					"indices": [
+						135,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xtFVFaZdV7",
+					"expanded_url": "https://bit.ly/2BSFCxu",
+					"display_url": "bit.ly/2BSFCxu",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/0aYxdEjRTc",
+					"expanded_url": "https://bit.ly/3cMMnxG",
+					"display_url": "bit.ly/3cMMnxG",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/xMBaNO4o08",
+					"expanded_url": "https://bit.ly/2YdIjkw",
+					"display_url": "bit.ly/2YdIjkw",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270646155819380700,
+					"id_str": "1270646155819380738",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"url": "https://t.co/oPMUXXJLvI",
+					"display_url": "pic.twitter.com/oPMUXXJLvI",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270646180658077696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270646155819380700,
+					"id_str": "1270646155819380738",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaI98lDUcAI76xw.jpg",
+					"url": "https://t.co/oPMUXXJLvI",
+					"display_url": "pic.twitter.com/oPMUXXJLvI",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1270646180658077696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270644678400991200,
+		"in_reply_to_status_id_str": "1270644678400991233",
+		"in_reply_to_user_id": 4746792673,
+		"in_reply_to_user_id_str": "4746792673",
+		"in_reply_to_screen_name": "Heize_Official",
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39240,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "▶️FLO : https://t.co/xtFVFaZdV7\n▶️소리바다 : https://t.co/0aYxdEjRTc\n▶️네이버뮤직 : https://t.co/xMBaNO4o08\n\n#헤이즈 #Heize #Lyricist #작사가 #일이너무잘돼 #Things_are_going_well https://t.co/oPMUXXJLvI"
+	},
+	{
+		"created_at": "Wed Jun 10 20:09:53 +0000 2020",
+		"id": 1270644678400991200,
+		"id_str": "1270810437173391361",
+		"full_text": "[Comeback]\n헤이즈의 6번째 미니앨범 [Lyricist]가 발매되었습니다!👏\n모든 음원 사이트에서 '작사가'와 '일이 너무 잘 돼'를 만나보세요!\n\n▶️지니: https://t.co/TaXYuahmKx\n▶️멜론: https://t.co/f7UM4GZHlV\n▶️벅스: https://t.co/wgYlSg0rG1\n\n#헤이즈 #Heize #Lyricist #작사가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "작사가",
+					"indices": [
+						200,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TaXYuahmKx",
+					"expanded_url": "https://bit.ly/2UveOcZ",
+					"display_url": "bit.ly/2UveOcZ",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/f7UM4GZHlV",
+					"expanded_url": "https://bit.ly/30pSN3a",
+					"display_url": "bit.ly/30pSN3a",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/wgYlSg0rG1",
+					"expanded_url": "https://bit.ly/2XPExPs",
+					"display_url": "bit.ly/2XPExPs",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39240,
+			"friends_count": 0,
+			"listed_count": 357,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 968,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Comeback]\n헤이즈의 6번째 미니앨범 [Lyricist]가 발매되었습니다!👏\n모든 음원 사이트에서 '작사가'와 '일이 너무 잘 돼'를 만나보세요!\n\n▶️지니: https://t.co/TaXYuahmKx\n▶️멜론: https://t.co/f7UM4GZHlV\n▶️벅스: https://t.co/wgYlSg0rG1\n\n#헤이즈 #Heize #Lyricist #작사가"
+	},
+	{
 		"created_at": "Wed Jun 10 17:05:29 +0000 2020",
 		"id": 1270764032170037200,
 		"id_str": "1270764032170037250",
