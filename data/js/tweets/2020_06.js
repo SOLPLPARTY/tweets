@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 20:23:21 +0000 2020",
+		"id": 1269925721314480000,
+		"id_str": "1270813827622305793",
+		"full_text": "신해경 [속꿈,속꿈] 2017년 신해경이 첫 EP [나의 가역반응]을 발표한 후 3년 만에 공개하는 첫 정규 앨범 발매 됩니다.\n2020.06.17.  https://t.co/DdJIbm8krq https://t.co/kycP3Vhz0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdJIbm8krq",
+					"expanded_url": "http://bitly.kr/YwPfiP6KnqF",
+					"display_url": "bitly.kr/YwPfiP6KnqF",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269925624363155500,
+					"id_str": "1269925624363155456",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"url": "https://t.co/kycP3Vhz0L",
+					"display_url": "pic.twitter.com/kycP3Vhz0L",
+					"expanded_url": "https://twitter.com/Hyangmusic/status/1269925721314480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269925624363155500,
+					"id_str": "1269925624363155456",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-uoINVAAAD-5r.jpg",
+					"url": "https://t.co/kycP3Vhz0L",
+					"display_url": "pic.twitter.com/kycP3Vhz0L",
+					"expanded_url": "https://twitter.com/Hyangmusic/status/1269925721314480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160560726,
+			"id_str": "160560726",
+			"name": "Hyang Music",
+			"screen_name": "Hyangmusic",
+			"location": "Seoul,South Korea",
+			"description": "",
+			"url": "http://t.co/mHUYqcCmuZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHUYqcCmuZ",
+							"expanded_url": "http://www.hyangmusic.com",
+							"display_url": "hyangmusic.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4306,
+			"friends_count": 103,
+			"listed_count": 179,
+			"created_at": "Mon Jun 28 14:27:52 +0000 2010",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034696390/hlogo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034696390/hlogo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160560726/1456324076",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신해경 [속꿈,속꿈] 2017년 신해경이 첫 EP [나의 가역반응]을 발표한 후 3년 만에 공개하는 첫 정규 앨범 발매 됩니다.\n2020.06.17.  https://t.co/DdJIbm8krq https://t.co/kycP3Vhz0L"
+	},
+	{
 		"created_at": "Wed Jun 10 20:10:01 +0000 2020",
 		"id": 1270647120307974100,
 		"id_str": "1270810472439181312",
