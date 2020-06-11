@@ -1,6 +1,1205 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 10:16:05 +0000 2020",
+		"id": 1271023392649629700,
+		"id_str": "1271023392649629696",
+		"full_text": "#딩고뮤직 #dingo_music\n[4K] 100초로 듣는 영탁ㅣ⭐️당신이 사랑하는 모든 '탁'이야⭐️ ㅣ 100SEC YOUNGTAKㅣ딩고뮤직 l 니가 왜 거기서 나와,누나가 딱이야,찐이야,꼰대라떼\nhttps://t.co/jC66oIJIfj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jC66oIJIfj",
+					"expanded_url": "https://youtu.be/CWF3FhJRkUQ",
+					"display_url": "youtu.be/CWF3FhJRkUQ",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[4K] 100초로 듣는 영탁ㅣ⭐️당신이 사랑하는 모든 '탁'이야⭐️ ㅣ 100SEC YOUNGTAKㅣ딩고뮤직 l 니가 왜 거기서 나와,누나가 딱이야,찐이야,꼰대라떼\nhttps://t.co/jC66oIJIfj"
+	},
+	{
+		"created_at": "Thu Jun 11 09:57:24 +0000 2020",
+		"id": 1271018690155368400,
+		"id_str": "1271018690155368448",
+		"full_text": "#Melon #멜론 #멜론매거진\n무더운 여름밤을 빛내줄, 모모랜드 (MOMOLAND) [Starry Night]\nhttps://t.co/kAzo9odesS https://t.co/9XnInoEYxs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kAzo9odesS",
+					"expanded_url": "https://bit.ly/2XQEQtc",
+					"display_url": "bit.ly/2XQEQtc",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271018689052250000,
+					"id_str": "1271018689052250112",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOQw3fXkAAVZvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOQw3fXkAAVZvM.jpg",
+					"url": "https://t.co/9XnInoEYxs",
+					"display_url": "pic.twitter.com/9XnInoEYxs",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1271018690155368448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271018689052250000,
+					"id_str": "1271018689052250112",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOQw3fXkAAVZvM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOQw3fXkAAVZvM.jpg",
+					"url": "https://t.co/9XnInoEYxs",
+					"display_url": "pic.twitter.com/9XnInoEYxs",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1271018690155368448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n무더운 여름밤을 빛내줄, 모모랜드 (MOMOLAND) [Starry Night]\nhttps://t.co/kAzo9odesS https://t.co/9XnInoEYxs"
+	},
+	{
+		"created_at": "Thu Jun 11 09:57:15 +0000 2020",
+		"id": 1271018652599492600,
+		"id_str": "1271018652599492609",
+		"full_text": "#Melon #멜론 #멜론매거진\n자신의 솔직함과 경험을 바탕으로 한, 식케이 (Sik-K) [HEADLINER]\nhttps://t.co/uNEgi1sb66 https://t.co/Br0eDcJWiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uNEgi1sb66",
+					"expanded_url": "https://bit.ly/3heYeYB",
+					"display_url": "bit.ly/3heYeYB",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271018651492266000,
+					"id_str": "1271018651492265985",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOQurkXsAEK3tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOQurkXsAEK3tx.jpg",
+					"url": "https://t.co/Br0eDcJWiN",
+					"display_url": "pic.twitter.com/Br0eDcJWiN",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1271018652599492609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271018651492266000,
+					"id_str": "1271018651492265985",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOQurkXsAEK3tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOQurkXsAEK3tx.jpg",
+					"url": "https://t.co/Br0eDcJWiN",
+					"display_url": "pic.twitter.com/Br0eDcJWiN",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1271018652599492609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 216,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n자신의 솔직함과 경험을 바탕으로 한, 식케이 (Sik-K) [HEADLINER]\nhttps://t.co/uNEgi1sb66 https://t.co/Br0eDcJWiN"
+	},
+	{
+		"created_at": "Thu Jun 11 09:29:39 +0000 2020",
+		"id": 1271011474199072800,
+		"id_str": "1271011704688775168",
+		"full_text": "#이지형 여름 싱글\n“Your Summer”\n20200612 PM12\n-\n#yoursummer https://t.co/I2N88tTMxt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지형",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "yoursummer",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271011434676105200,
+					"id_str": "1271011434676105218",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271011434676105218/pu/img/57B8DH4C4INzGy6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271011434676105218/pu/img/57B8DH4C4INzGy6u.jpg",
+					"url": "https://t.co/I2N88tTMxt",
+					"display_url": "pic.twitter.com/I2N88tTMxt",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1271011474199072770/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271011434676105200,
+					"id_str": "1271011434676105218",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271011434676105218/pu/img/57B8DH4C4INzGy6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271011434676105218/pu/img/57B8DH4C4INzGy6u.jpg",
+					"url": "https://t.co/I2N88tTMxt",
+					"display_url": "pic.twitter.com/I2N88tTMxt",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1271011474199072770/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 18493,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1271011434676105218/pu/pl/HHgSZ-LysGiC3qdb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271011434676105218/pu/vid/720x406/AzE-T3_MEvFqf5Wf.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271011434676105218/pu/vid/478x270/vn9oXpnKdQNkDrCF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1801,
+			"friends_count": 24,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이지형 여름 싱글\n“Your Summer”\n20200612 PM12\n-\n#yoursummer https://t.co/I2N88tTMxt"
+	},
+	{
+		"created_at": "Thu Jun 11 09:29:30 +0000 2020",
+		"id": 1271004298462113800,
+		"id_str": "1271011666491256833",
+		"full_text": "🍃\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single \n‘Whenever Wherever’ \n\nConcept Photo ver. 2\n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/HbDX3Sj7ue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "언제라도어디에서라도",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"text": "WheneverWherever",
+					"indices": [
+						152,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271004288144171000,
+					"id_str": "1271004288144171008",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaODqn7U4AAb7B4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaODqn7U4AAb7B4.jpg",
+					"url": "https://t.co/HbDX3Sj7ue",
+					"display_url": "pic.twitter.com/HbDX3Sj7ue",
+					"expanded_url": "https://twitter.com/antennamusic/status/1271004298462113792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271004288144171000,
+					"id_str": "1271004288144171008",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaODqn7U4AAb7B4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaODqn7U4AAb7B4.jpg",
+					"url": "https://t.co/HbDX3Sj7ue",
+					"display_url": "pic.twitter.com/HbDX3Sj7ue",
+					"expanded_url": "https://twitter.com/antennamusic/status/1271004298462113792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271004288148336600,
+					"id_str": "1271004288148336641",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EaODqn8UcAEuUZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaODqn8UcAEuUZC.jpg",
+					"url": "https://t.co/HbDX3Sj7ue",
+					"display_url": "pic.twitter.com/HbDX3Sj7ue",
+					"expanded_url": "https://twitter.com/antennamusic/status/1271004298462113792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN804wu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN804wu",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34227,
+			"friends_count": 11,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1590571600",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍃\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single \n‘Whenever Wherever’ \n\nConcept Photo ver. 2\n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/HbDX3Sj7ue"
+	},
+	{
+		"created_at": "Thu Jun 11 09:29:25 +0000 2020",
+		"id": 1270996853492867000,
+		"id_str": "1271011645083566081",
+		"full_text": "[#헤르쯔아날로그] 신보 소식💌\n6월 15일 정오(낮 12시)\n헤르쯔 아날로그의 새로운 싱글 ‘우발적 산보’가 발매됩니다🚶‍♀️🚶‍♂️🚶 https://t.co/XnfEe8p5NY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤르쯔아날로그",
+					"indices": [
+						1,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270996840880586800,
+					"id_str": "1270996840880586752",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaN85ItUwAAi72D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaN85ItUwAAi72D.jpg",
+					"url": "https://t.co/XnfEe8p5NY",
+					"display_url": "pic.twitter.com/XnfEe8p5NY",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1270996853492867072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270996840880586800,
+					"id_str": "1270996840880586752",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaN85ItUwAAi72D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaN85ItUwAAi72D.jpg",
+					"url": "https://t.co/XnfEe8p5NY",
+					"display_url": "pic.twitter.com/XnfEe8p5NY",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1270996853492867072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#헤르쯔아날로그] 신보 소식💌\n6월 15일 정오(낮 12시)\n헤르쯔 아날로그의 새로운 싱글 ‘우발적 산보’가 발매됩니다🚶‍♀️🚶‍♂️🚶 https://t.co/XnfEe8p5NY"
+	},
+	{
 		"created_at": "Thu Jun 11 09:08:04 +0000 2020",
 		"id": 1271006275497791500,
 		"id_str": "1271006275497791493",
