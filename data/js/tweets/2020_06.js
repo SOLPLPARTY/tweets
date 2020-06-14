@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 15:29:39 +0000 2020",
+		"id": 1272182421270573000,
+		"id_str": "1272189466300624896",
+		"full_text": "[📽] Golden Child 4th Mini Album [Take A Leap] Comeback Trailer #SEUNGMIN (#승민)\n2020.06.23 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/wQCjpgr4wG\n🖇NAVER V ▶ https://t.co/xslF4ZGrIc\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/8oxJN0pquw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEUNGMIN",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "승민",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "Take_A_Leap",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "ONE",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "Lucid_dream",
+					"indices": [
+						212,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wQCjpgr4wG",
+					"expanded_url": "https://youtu.be/U8Oly6r0eks",
+					"display_url": "youtu.be/U8Oly6r0eks",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/xslF4ZGrIc",
+					"expanded_url": "https://www.vlive.tv/video/197441",
+					"display_url": "vlive.tv/video/197441",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272142026079797200,
+					"id_str": "1272142026079797250",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOvQOU0AArqub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOvQOU0AArqub.jpg",
+					"url": "https://t.co/8oxJN0pquw",
+					"display_url": "pic.twitter.com/8oxJN0pquw",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182421270573057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272142026079797200,
+					"id_str": "1272142026079797250",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOvQOU0AArqub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOvQOU0AArqub.jpg",
+					"url": "https://t.co/8oxJN0pquw",
+					"display_url": "pic.twitter.com/8oxJN0pquw",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182421270573057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26652,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272142026079797250/vid/640x360/xAIc7hC91_NhhF4e.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272142026079797250/vid/480x270/ejAW_LGO3BnQ19qX.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272142026079797250/vid/1280x720/JN6lvF2QxKmdX7sB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272142026079797250/pl/9OnZZHXbYOYTDXKl.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418408,
+			"friends_count": 9,
+			"listed_count": 1791,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1592061561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 886,
+		"favorite_count": 1697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] Golden Child 4th Mini Album [Take A Leap] Comeback Trailer #SEUNGMIN (#승민)\n2020.06.23 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/wQCjpgr4wG\n🖇NAVER V ▶ https://t.co/xslF4ZGrIc\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/8oxJN0pquw"
+	},
+	{
+		"created_at": "Sun Jun 14 15:29:35 +0000 2020",
+		"id": 1272182271894675500,
+		"id_str": "1272189449020071940",
+		"full_text": "[📸] Golden Child 4th Mini Album [Take A Leap] Concept Photo\n#SEUNGMIN (#승민)\n2020.06.23 6PM RELEASE\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/cIiBGr4FqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEUNGMIN",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "승민",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "Take_A_Leap",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "ONE",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "Lucid_dream",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272141984333918200,
+					"id_str": "1272141984333918209",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOZQgVcAEoL5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOZQgVcAEoL5K.jpg",
+					"url": "https://t.co/cIiBGr4FqL",
+					"display_url": "pic.twitter.com/cIiBGr4FqL",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182271894675459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272141984333918200,
+					"id_str": "1272141984333918209",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOZQgVcAEoL5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOZQgVcAEoL5K.jpg",
+					"url": "https://t.co/cIiBGr4FqL",
+					"display_url": "pic.twitter.com/cIiBGr4FqL",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182271894675459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418408,
+			"friends_count": 9,
+			"listed_count": 1791,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1592061561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1075,
+		"favorite_count": 2299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Golden Child 4th Mini Album [Take A Leap] Concept Photo\n#SEUNGMIN (#승민)\n2020.06.23 6PM RELEASE\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/cIiBGr4FqL"
+	},
+	{
+		"created_at": "Sun Jun 14 15:29:33 +0000 2020",
+		"id": 1272182160011653000,
+		"id_str": "1272189439956090880",
+		"full_text": "[📽] Golden Child 4th Mini Album [Take A Leap] Comeback Trailer #JAEHYUN (#재현)\n2020.06.23 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/WbWmfTaTtN\n🖇NAVER V ▶ https://t.co/fnkWAuNdMu\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/3rBoTBQJdF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAEHYUN",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "재현",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "Take_A_Leap",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "ONE",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "Lucid_dream",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WbWmfTaTtN",
+					"expanded_url": "https://youtu.be/WAzxbpWs6wA",
+					"display_url": "youtu.be/WAzxbpWs6wA",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/fnkWAuNdMu",
+					"expanded_url": "https://www.vlive.tv/video/197439",
+					"display_url": "vlive.tv/video/197439",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272141612848570400,
+					"id_str": "1272141612848570369",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOWuJUMAAUCSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOWuJUMAAUCSo.jpg",
+					"url": "https://t.co/3rBoTBQJdF",
+					"display_url": "pic.twitter.com/3rBoTBQJdF",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182160011653120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272141612848570400,
+					"id_str": "1272141612848570369",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeOWuJUMAAUCSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeOWuJUMAAUCSo.jpg",
+					"url": "https://t.co/3rBoTBQJdF",
+					"display_url": "pic.twitter.com/3rBoTBQJdF",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1272182160011653120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26026,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272141612848570369/vid/640x360/dvVta2A3z6-o0nNb.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272141612848570369/vid/1280x720/CSYcXZJiZiNUPagW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272141612848570369/pl/UqDoDhl82VTk3kQl.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272141612848570369/vid/480x270/lDUgwap3luW6fZky.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 418408,
+			"friends_count": 9,
+			"listed_count": 1791,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1592061561",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 904,
+		"favorite_count": 1718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] Golden Child 4th Mini Album [Take A Leap] Comeback Trailer #JAEHYUN (#재현)\n2020.06.23 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/WbWmfTaTtN\n🖇NAVER V ▶ https://t.co/fnkWAuNdMu\n\n#GoldenChild #골든차일드\n#Take_A_Leap #ONE #Lucid_dream https://t.co/3rBoTBQJdF"
+	},
+	{
 		"created_at": "Sun Jun 14 13:29:25 +0000 2020",
 		"id": 1272154845978321000,
 		"id_str": "1272159206351802369",
