@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 12:29:24 +0000 2020",
+		"id": 1272136965152845800,
+		"id_str": "1272144106534436865",
+		"full_text": "[#아마도이자람밴드] 어제와 오늘 다른 게스트와 다른 셋리스트로 진행된 아마도이자람밴드 콘서트 🎸 어떠셨나요? 좋은 기억과 함께 남은 주말 잘 마무리하시길 바랍니다 ✨ https://t.co/fwzxivWlJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272136951609483300,
+					"id_str": "1272136951609483264",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeJ0UJU4AAj7KG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeJ0UJU4AAj7KG.jpg",
+					"url": "https://t.co/fwzxivWlJF",
+					"display_url": "pic.twitter.com/fwzxivWlJF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1272136965152845825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272136951609483300,
+					"id_str": "1272136951609483264",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeJ0UJU4AAj7KG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeJ0UJU4AAj7KG.jpg",
+					"url": "https://t.co/fwzxivWlJF",
+					"display_url": "pic.twitter.com/fwzxivWlJF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1272136965152845825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272136951605284900,
+					"id_str": "1272136951605284864",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeJ0UIU0AA0Mjh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeJ0UIU0AA0Mjh.jpg",
+					"url": "https://t.co/fwzxivWlJF",
+					"display_url": "pic.twitter.com/fwzxivWlJF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1272136965152845825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272136951605284900,
+					"id_str": "1272136951605284865",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeJ0UIU0AED7bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeJ0UIU0AED7bu.jpg",
+					"url": "https://t.co/fwzxivWlJF",
+					"display_url": "pic.twitter.com/fwzxivWlJF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1272136965152845825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272136951609491500,
+					"id_str": "1272136951609491456",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeJ0UJVAAA6p45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeJ0UJVAAA6p45.jpg",
+					"url": "https://t.co/fwzxivWlJF",
+					"display_url": "pic.twitter.com/fwzxivWlJF",
+					"expanded_url": "https://twitter.com/YourSummerKR/status/1272136965152845825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YourSummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1805,
+			"friends_count": 24,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978966061050609669/wmNssQkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1522238671",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아마도이자람밴드] 어제와 오늘 다른 게스트와 다른 셋리스트로 진행된 아마도이자람밴드 콘서트 🎸 어떠셨나요? 좋은 기억과 함께 남은 주말 잘 마무리하시길 바랍니다 ✨ https://t.co/fwzxivWlJF"
+	},
+	{
 		"created_at": "Sun Jun 14 12:08:47 +0000 2020",
 		"id": 1272138915646976000,
 		"id_str": "1272138915646976001",
