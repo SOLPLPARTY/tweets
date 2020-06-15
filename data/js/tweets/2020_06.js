@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 09:57:24 +0000 2020",
+		"id": 1272468240527175700,
+		"id_str": "1272468240527175681",
+		"full_text": "#Melon #멜론 #멜론매거진\n3,2,1 김사월 LIVE 시작!\nhttps://t.co/gNx99kjz2Q https://t.co/PeMubSVCqV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gNx99kjz2Q",
+					"expanded_url": "https://bit.ly/3d24G1X",
+					"display_url": "bit.ly/3d24G1X",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272468239445119000,
+					"id_str": "1272468239445118976",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai3HzgX0AAGZUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai3HzgX0AAGZUR.jpg",
+					"url": "https://t.co/PeMubSVCqV",
+					"display_url": "pic.twitter.com/PeMubSVCqV",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1272468240527175681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272468239445119000,
+					"id_str": "1272468239445118976",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eai3HzgX0AAGZUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eai3HzgX0AAGZUR.jpg",
+					"url": "https://t.co/PeMubSVCqV",
+					"display_url": "pic.twitter.com/PeMubSVCqV",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1272468240527175681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n3,2,1 김사월 LIVE 시작!\nhttps://t.co/gNx99kjz2Q https://t.co/PeMubSVCqV"
+	},
+	{
+		"created_at": "Mon Jun 15 09:29:28 +0000 2020",
+		"id": 1272457452080918500,
+		"id_str": "1272461212215922689",
+		"full_text": "[공연]\n솔루션스 콘서트 'LOADING'\n\n티켓 오픈\n6월 22일(월) 7PM at 인터파크 티켓\n⠀⠀\n일시: 7월 11일(토) 7PM - 7월 12일(일) 6PM\n장소: 웨스트브릿지\nmore 🔗 https://t.co/dg8am0fkrY https://t.co/CDnV7JIAni",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dg8am0fkrY",
+					"expanded_url": "http://bit.ly/2N0WuVc",
+					"display_url": "bit.ly/2N0WuVc",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272457439103742000,
+					"id_str": "1272457439103741952",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaitTJGU8AAMdod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaitTJGU8AAMdod.jpg",
+					"url": "https://t.co/CDnV7JIAni",
+					"display_url": "pic.twitter.com/CDnV7JIAni",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1272457452080918528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272457439103742000,
+					"id_str": "1272457439103741952",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EaitTJGU8AAMdod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaitTJGU8AAMdod.jpg",
+					"url": "https://t.co/CDnV7JIAni",
+					"display_url": "pic.twitter.com/CDnV7JIAni",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1272457452080918528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13183,
+			"friends_count": 2406,
+			"listed_count": 261,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연]\n솔루션스 콘서트 'LOADING'\n\n티켓 오픈\n6월 22일(월) 7PM at 인터파크 티켓\n⠀⠀\n일시: 7월 11일(토) 7PM - 7월 12일(일) 6PM\n장소: 웨스트브릿지\nmore 🔗 https://t.co/dg8am0fkrY https://t.co/CDnV7JIAni"
+	},
+	{
 		"created_at": "Mon Jun 15 09:14:26 +0000 2020",
 		"id": 1272457425468166100,
 		"id_str": "1272457425468166144",
