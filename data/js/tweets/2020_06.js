@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 13:00:00 +0000 2020",
+		"id": 1272453795021074400,
+		"id_str": "1272514193653067776",
+		"full_text": "[MV] \n헤이즈(Heize) - 너의 이름은 (Your name) (Feat. ASH ISLAND)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\nTrack 3. '너의 이름은' 뮤직비디오 1분 ver.\n\nFull MV ▶ https://t.co/GOW4JozKPU\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name #ASHISLAND https://t.co/3ArAp4m1Xu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "너의이름은",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "Your_name",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "ASHISLAND",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOW4JozKPU",
+					"expanded_url": "https://youtu.be/nOVU2HFL4VA",
+					"display_url": "youtu.be/nOVU2HFL4VA",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272444394419835000,
+					"id_str": "1272444394419834880",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EaiizeOU0AEGQNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaiizeOU0AEGQNm.jpg",
+					"url": "https://t.co/3ArAp4m1Xu",
+					"display_url": "pic.twitter.com/3ArAp4m1Xu",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1272453795021074432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272444394419835000,
+					"id_str": "1272444394419834880",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EaiizeOU0AEGQNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaiizeOU0AEGQNm.jpg",
+					"url": "https://t.co/3ArAp4m1Xu",
+					"display_url": "pic.twitter.com/3ArAp4m1Xu",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1272453795021074432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60269,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272444394419834880/pl/JUDLU03s3wZBzI1F.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272444394419834880/vid/640x360/xuXm3_mIX4htLJ_m.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272444394419834880/vid/480x270/A1mAtYOJyhDB69gi.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272444394419834880/vid/1280x720/dqV3Yh6Nppgg8jQ5.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "헤이즈(Heize) - 너의 이름은 (Your name) (Feat. ASH ISLAND) MV",
+						"description": "헤이즈(Heize) - 너의 이름은 (Your name) (Feat. ASH ISLAND) MV 1분ver.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39401,
+			"friends_count": 0,
+			"listed_count": 363,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 1094,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] \n헤이즈(Heize) - 너의 이름은 (Your name) (Feat. ASH ISLAND)\n\n'헤이즈' 6번째 미니앨범 [Lyricist]\nTrack 3. '너의 이름은' 뮤직비디오 1분 ver.\n\nFull MV ▶ https://t.co/GOW4JozKPU\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name #ASHISLAND https://t.co/3ArAp4m1Xu"
+	},
+	{
+		"created_at": "Mon Jun 15 12:59:24 +0000 2020",
+		"id": 1272499677015859200,
+		"id_str": "1272514043207536640",
+		"full_text": "It's an honor to be part of iScreaM Vol.2 : NCT DREAM Ridin' Remixes. Ridin' is my favorite song. Does anyone want to listen to my remix? Look forward to it!! 🐲🙏🐲 #ScreaMRecords #NCTDREAM #NCTDREAM_Ridin #Ridin #IMLAY #임레이 #iScreaM #SMTOWN https://t.co/vJqOpWVAcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "NCTDREAM_Ridin",
+					"indices": [
+						188,
+						203
+					]
+				},
+				{
+					"text": "Ridin",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						232,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272499667117371400,
+					"id_str": "1272499667117371394",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EajTtItVcAIFGlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajTtItVcAIFGlO.jpg",
+					"url": "https://t.co/vJqOpWVAcv",
+					"display_url": "pic.twitter.com/vJqOpWVAcv",
+					"expanded_url": "https://twitter.com/leimlay/status/1272499677015859202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272499667117371400,
+					"id_str": "1272499667117371394",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EajTtItVcAIFGlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajTtItVcAIFGlO.jpg",
+					"url": "https://t.co/vJqOpWVAcv",
+					"display_url": "pic.twitter.com/vJqOpWVAcv",
+					"expanded_url": "https://twitter.com/leimlay/status/1272499677015859202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773953697,
+			"id_str": "2773953697",
+			"name": "IMLAY",
+			"screen_name": "leimlay",
+			"location": "Seoul",
+			"description": "@SMTOWNGLOBAL @ScreaM_Records Instagram: imlaykid IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV is OUT NOW✨",
+			"url": "https://t.co/ekAJ9HAdLI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ekAJ9HAdLI",
+							"expanded_url": "https://youtu.be/r2dAhHvbhI4",
+							"display_url": "youtu.be/r2dAhHvbhI4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1334,
+			"friends_count": 124,
+			"listed_count": 13,
+			"created_at": "Wed Aug 27 17:19:34 +0000 2014",
+			"favourites_count": 3081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270649151168995329/3eBaNvyR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270649151168995329/3eBaNvyR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2773953697/1591499972",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's an honor to be part of iScreaM Vol.2 : NCT DREAM Ridin' Remixes. Ridin' is my favorite song. Does anyone want to listen to my remix? Look forward to it!! 🐲🙏🐲 #ScreaMRecords #NCTDREAM #NCTDREAM_Ridin #Ridin #IMLAY #임레이 #iScreaM #SMTOWN https://t.co/vJqOpWVAcv"
+	},
+	{
+		"created_at": "Mon Jun 15 12:51:53 +0000 2020",
+		"id": 1272512149831721000,
+		"id_str": "1272512149831720961",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 이세계 (ESEGYE) - 낭만젊음사랑 (RomanceYouthLove)\nhttps://t.co/XABirnlzD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XABirnlzD6",
+					"expanded_url": "https://youtu.be/J8F-sVVNPZg",
+					"display_url": "youtu.be/J8F-sVVNPZg",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 이세계 (ESEGYE) - 낭만젊음사랑 (RomanceYouthLove)\nhttps://t.co/XABirnlzD6"
+	},
+	{
+		"created_at": "Mon Jun 15 12:46:31 +0000 2020",
+		"id": 1272510799022633000,
+		"id_str": "1272510799022632961",
+		"full_text": "#PlayDB #플레이디비\n뮤지컬 '모차르트!' 2020 '힘내라 공연' 토크 콘서트 '나는 나는 음악' - 박강현, 이시목\nhttps://t.co/lBKCqHZzkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lBKCqHZzkv",
+					"expanded_url": "https://youtu.be/bSCXTCDvjoI",
+					"display_url": "youtu.be/bSCXTCDvjoI",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PlayDB #플레이디비\n뮤지컬 '모차르트!' 2020 '힘내라 공연' 토크 콘서트 '나는 나는 음악' - 박강현, 이시목\nhttps://t.co/lBKCqHZzkv"
+	},
+	{
 		"created_at": "Mon Jun 15 11:29:28 +0000 2020",
 		"id": 1272490287969927200,
 		"id_str": "1272491408000155648",
