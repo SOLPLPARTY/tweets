@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 11:29:28 +0000 2020",
+		"id": 1272490287969927200,
+		"id_str": "1272491408000155648",
+		"full_text": "DJs &amp; Performers:\n\nMS. FRIDAY\nQUANDOL\nSALAMANDA\nSUGAR SUKYUL\nVON BUENO\n\n* Live &amp; Direct: https://t.co/IH7o6iQrSd\n\n* 본 공연은 유튜브 스트리밍만으로 진행되며 오프라인 입장은 불가능합니다.\n \n*자율기부 후원이 가능합니다. (은행이체/Paypal)\n\n#moomblast https://t.co/EdRxkucgdT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "moomblast",
+					"indices": [
+						198,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IH7o6iQrSd",
+					"expanded_url": "http://www.youtube.com/senggistudio",
+					"display_url": "youtube.com/senggistudio",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272490261008900000,
+					"id_str": "1272490261008900098",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EajLJoOUYAIuSw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajLJoOUYAIuSw3.jpg",
+					"url": "https://t.co/EdRxkucgdT",
+					"display_url": "pic.twitter.com/EdRxkucgdT",
+					"expanded_url": "https://twitter.com/bombino_records/status/1272490287969927171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272490261008900000,
+					"id_str": "1272490261008900098",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EajLJoOUYAIuSw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajLJoOUYAIuSw3.jpg",
+					"url": "https://t.co/EdRxkucgdT",
+					"display_url": "pic.twitter.com/EdRxkucgdT",
+					"expanded_url": "https://twitter.com/bombino_records/status/1272490287969927171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272490267543625700,
+					"id_str": "1272490267543625739",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EajLKAkUYAsDRh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajLKAkUYAsDRh7.jpg",
+					"url": "https://t.co/EdRxkucgdT",
+					"display_url": "pic.twitter.com/EdRxkucgdT",
+					"expanded_url": "https://twitter.com/bombino_records/status/1272490287969927171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272490271112958000,
+					"id_str": "1272490271112957953",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EajLKN3UEAEHf4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajLKN3UEAEHf4I.jpg",
+					"url": "https://t.co/EdRxkucgdT",
+					"display_url": "pic.twitter.com/EdRxkucgdT",
+					"expanded_url": "https://twitter.com/bombino_records/status/1272490287969927171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1352,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272490274959224800,
+					"id_str": "1272490274959224832",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EajLKcMVcAAQKz2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajLKcMVcAAQKz2.jpg",
+					"url": "https://t.co/EdRxkucgdT",
+					"display_url": "pic.twitter.com/EdRxkucgdT",
+					"expanded_url": "https://twitter.com/bombino_records/status/1272490287969927171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272486571703300000,
+		"in_reply_to_status_id_str": "1272486571703300096",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 68,
+			"listed_count": 7,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DJs &amp; Performers:\n\nMS. FRIDAY\nQUANDOL\nSALAMANDA\nSUGAR SUKYUL\nVON BUENO\n\n* Live &amp; Direct: https://t.co/IH7o6iQrSd\n\n* 본 공연은 유튜브 스트리밍만으로 진행되며 오프라인 입장은 불가능합니다.\n \n*자율기부 후원이 가능합니다. (은행이체/Paypal)\n\n#moomblast https://t.co/EdRxkucgdT"
+	},
+	{
 		"created_at": "Mon Jun 15 11:10:23 +0000 2020",
 		"id": 1272486605756993500,
 		"id_str": "1272486605756993539",
