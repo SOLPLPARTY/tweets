@@ -1,6 +1,1035 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 09:57:25 +0000 2020",
+		"id": 1272830632037683200,
+		"id_str": "1272830632037683200",
+		"full_text": "#Melon #멜론 #멜론매거진\n듀엣 장인의 귀환, 슬옹, Kei (김지연) [여자사람 친구]\nhttps://t.co/8TocCn1Jlt https://t.co/KoAFpp1lH7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TocCn1Jlt",
+					"expanded_url": "https://bit.ly/3hxJmot",
+					"display_url": "bit.ly/3hxJmot",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272830631039434800,
+					"id_str": "1272830631039434752",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaoAtxZXgAAuUHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaoAtxZXgAAuUHZ.jpg",
+					"url": "https://t.co/KoAFpp1lH7",
+					"display_url": "pic.twitter.com/KoAFpp1lH7",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1272830632037683200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272830631039434800,
+					"id_str": "1272830631039434752",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EaoAtxZXgAAuUHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaoAtxZXgAAuUHZ.jpg",
+					"url": "https://t.co/KoAFpp1lH7",
+					"display_url": "pic.twitter.com/KoAFpp1lH7",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1272830632037683200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n듀엣 장인의 귀환, 슬옹, Kei (김지연) [여자사람 친구]\nhttps://t.co/8TocCn1Jlt https://t.co/KoAFpp1lH7"
+	},
+	{
+		"created_at": "Tue Jun 16 09:41:38 +0000 2020",
+		"id": 1272825651070857200,
+		"id_str": "1272826658995818497",
+		"full_text": "#예스24스테이지\n\n오늘부터 지하3층(1,2관/던그라스 향)과 \n지상3층(3관/ 눈우드 향) 화장실에는 \n\n토일렛 퍼퓸 브랜드 #멜리스 의 제품이 \n배치 되어 있습니다! \n\n항균 성분이 있어 휴지에 뿌려 변기 커버에,\n\n사용 전, 변기 내에 두번씩 뿌려주세요! \n\nhttps://t.co/jYSMNf8hlx https://t.co/0U47zPCxSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24스테이지",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "멜리스",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jYSMNf8hlx",
+					"expanded_url": "https://www.mellys.co.kr/",
+					"display_url": "mellys.co.kr",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272825636168429600,
+					"id_str": "1272825636168429568",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ean8LCDUcAAejY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ean8LCDUcAAejY_.jpg",
+					"url": "https://t.co/0U47zPCxSW",
+					"display_url": "pic.twitter.com/0U47zPCxSW",
+					"expanded_url": "https://twitter.com/yes24stage/status/1272825651070857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1718,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272825636168429600,
+					"id_str": "1272825636168429568",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ean8LCDUcAAejY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ean8LCDUcAAejY_.jpg",
+					"url": "https://t.co/0U47zPCxSW",
+					"display_url": "pic.twitter.com/0U47zPCxSW",
+					"expanded_url": "https://twitter.com/yes24stage/status/1272825651070857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1718,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3806,
+			"friends_count": 30,
+			"listed_count": 16,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24스테이지\n\n오늘부터 지하3층(1,2관/던그라스 향)과 \n지상3층(3관/ 눈우드 향) 화장실에는 \n\n토일렛 퍼퓸 브랜드 #멜리스 의 제품이 \n배치 되어 있습니다! \n\n항균 성분이 있어 휴지에 뿌려 변기 커버에,\n\n사용 전, 변기 내에 두번씩 뿌려주세요! \n\nhttps://t.co/jYSMNf8hlx https://t.co/0U47zPCxSW"
+	},
+	{
+		"created_at": "Tue Jun 16 09:29:33 +0000 2020",
+		"id": 1272820135103873000,
+		"id_str": "1272823618905477120",
+		"full_text": "[#로시] \n📽 로시TV 시즌2가 오조오억년만에 돌아옵니다💙\n블루밍이라면 구독 꾹❗좋아요 꾹❗알림설정🔔까지 해주는 센스:) COMING SOON  2020.06.18\n\n🔗https://t.co/GdlGML0ezP\n\n#로시 #ROTHY #로시티비 #시즌2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "로시",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "ROTHY",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "로시티비",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "시즌2",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GdlGML0ezP",
+					"expanded_url": "https://youtu.be/rpS-NdUzex4",
+					"display_url": "youtu.be/rpS-NdUzex4",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 1,
+			"listed_count": 22,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#로시] \n📽 로시TV 시즌2가 오조오억년만에 돌아옵니다💙\n블루밍이라면 구독 꾹❗좋아요 꾹❗알림설정🔔까지 해주는 센스:) COMING SOON  2020.06.18\n\n🔗https://t.co/GdlGML0ezP\n\n#로시 #ROTHY #로시티비 #시즌2"
+	},
+	{
+		"created_at": "Tue Jun 16 09:29:30 +0000 2020",
+		"id": 1272818890771361800,
+		"id_str": "1272823605819211777",
+		"full_text": "#Rainbownote #레인보우노트 #vlog\n🌈레인보우노트🌈 [VLOG]\n산으로 간 우당탕탕 무지개 브이로그🤘\n[정규 1집 Rainbow note]\n[New Single] '여름안의 추억' 🎼\nhttps://t.co/xs3MLnIn0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rainbownote",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "vlog",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xs3MLnIn0Y",
+					"expanded_url": "https://youtu.be/Xewa7tSvH4E",
+					"display_url": "youtu.be/Xewa7tSvH4E",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7937,
+			"friends_count": 8601,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Rainbownote #레인보우노트 #vlog\n🌈레인보우노트🌈 [VLOG]\n산으로 간 우당탕탕 무지개 브이로그🤘\n[정규 1집 Rainbow note]\n[New Single] '여름안의 추억' 🎼\nhttps://t.co/xs3MLnIn0Y"
+	},
+	{
+		"created_at": "Tue Jun 16 09:29:25 +0000 2020",
+		"id": 1272816241703452700,
+		"id_str": "1272823584344465408",
+		"full_text": "[D-1]\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single\n‘Whenever Wherever’ \n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/9PaKfnqSrO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "언제라도어디에서라도",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "WheneverWherever",
+					"indices": [
+						133,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272816230714368000,
+					"id_str": "1272816230714368001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EanznkAU4AEQfbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EanznkAU4AEQfbj.jpg",
+					"url": "https://t.co/9PaKfnqSrO",
+					"display_url": "pic.twitter.com/9PaKfnqSrO",
+					"expanded_url": "https://twitter.com/antennamusic/status/1272816241703452672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272816230714368000,
+					"id_str": "1272816230714368001",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EanznkAU4AEQfbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EanznkAU4AEQfbj.jpg",
+					"url": "https://t.co/9PaKfnqSrO",
+					"display_url": "pic.twitter.com/9PaKfnqSrO",
+					"expanded_url": "https://twitter.com/antennamusic/status/1272816241703452672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34314,
+			"friends_count": 11,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]\n\n정승환 싱글 ‘언제라도 어디에서라도’\n\nJung Seung Hwan Single\n‘Whenever Wherever’ \n\n2020. 06. 17. 6PM Release\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever https://t.co/9PaKfnqSrO"
+	},
+	{
+		"created_at": "Tue Jun 16 09:23:38 +0000 2020",
+		"id": 1272822128807760000,
+		"id_str": "1272822128807759877",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n그리프 (Griff) - Forgive Myself 가사 번역 뮤직비디오\nhttps://t.co/jw4adEMJaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jw4adEMJaD",
+					"expanded_url": "https://youtu.be/5tVIcW2Wgqk",
+					"display_url": "youtu.be/5tVIcW2Wgqk",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n그리프 (Griff) - Forgive Myself 가사 번역 뮤직비디오\nhttps://t.co/jw4adEMJaD"
+	},
+	{
 		"created_at": "Tue Jun 16 09:03:04 +0000 2020",
 		"id": 1272816954508824600,
 		"id_str": "1272816954508824576",
