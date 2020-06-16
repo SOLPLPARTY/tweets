@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 23:09:57 +0000 2020",
+		"id": 1272906786048073700,
+		"id_str": "1273030081846312960",
+		"full_text": "새로운 선미가 궁금해?\nR U ready for drippin SUNMI?\n⠀\n#선미 #SUNMI\n#보라빛밤 #pporappippam\n#200629_6pm\n#보라빛밤에_선미랑 https://t.co/t4y2yTWFj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "보라빛밤",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "pporappippam",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"text": "200629_6pm",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "보라빛밤에_선미랑",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272830805245440000,
+					"id_str": "1272830805245440000",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EaoA36XUMAAOUSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaoA36XUMAAOUSd.jpg",
+					"url": "https://t.co/t4y2yTWFj9",
+					"display_url": "pic.twitter.com/t4y2yTWFj9",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1272906786048073728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272830805245440000,
+					"id_str": "1272830805245440000",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EaoA36XUMAAOUSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaoA36XUMAAOUSd.jpg",
+					"url": "https://t.co/t4y2yTWFj9",
+					"display_url": "pic.twitter.com/t4y2yTWFj9",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1272906786048073728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895202531978104800,
+			"id_str": "895202531978104832",
+			"name": "선미 SUNMI",
+			"screen_name": "official_sunmi_",
+			"location": "",
+			"description": "SUNMI Official Twitter",
+			"url": "https://t.co/j9kgBMrEdJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j9kgBMrEdJ",
+							"expanded_url": "https://www.facebook.com/groups/officialsunmi/",
+							"display_url": "facebook.com/groups/officia…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242970,
+			"friends_count": 2,
+			"listed_count": 1032,
+			"created_at": "Wed Aug 09 08:38:10 +0000 2017",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166274031479181313/2s5CIaLV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895202531978104832/1566896375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12358,
+		"favorite_count": 35343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 선미가 궁금해?\nR U ready for drippin SUNMI?\n⠀\n#선미 #SUNMI\n#보라빛밤 #pporappippam\n#200629_6pm\n#보라빛밤에_선미랑 https://t.co/t4y2yTWFj9"
+	},
+	{
+		"created_at": "Tue Jun 16 23:09:53 +0000 2020",
+		"id": 1272858462460862500,
+		"id_str": "1273030064100253697",
+		"full_text": "[Credit]\n⠀\n• Film Director : Hong tae sik\n• Film Crew : Han In hee, Kim jin yu\n• Sound &amp; Audio Mixing : Heo jung wook\n• Audio Digital Editing : swja\n• Styling : Koo song yee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1272858355497758700,
+		"in_reply_to_status_id_str": "1272858355497758720",
+		"in_reply_to_user_id": 253607159,
+		"in_reply_to_user_id_str": "253607159",
+		"in_reply_to_screen_name": "sunwooJeongA",
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13673,
+			"friends_count": 125,
+			"listed_count": 57,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1591663015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[Credit]\n⠀\n• Film Director : Hong tae sik\n• Film Crew : Han In hee, Kim jin yu\n• Sound &amp; Audio Mixing : Heo jung wook\n• Audio Digital Editing : swja\n• Styling : Koo song yee"
+	},
+	{
 		"created_at": "Tue Jun 16 18:51:53 +0000 2020",
 		"id": 1272965135796183000,
 		"id_str": "1272965135796183040",
