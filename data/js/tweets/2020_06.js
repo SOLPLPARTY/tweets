@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 01:29:25 +0000 2020",
+		"id": 1272695789437849600,
+		"id_str": "1272702788259233793",
+		"full_text": "#바이닐 #LP #펀딩 \n[얼리버드] 바이닐 펀딩🙌🏻\n디지털 음원으로만 만났던 띵곡들을 아날로그\nLP로 소장할 수 있는 단 한번의 기회!\n한정판 LP 1종 패키지🎼\n한정판 LP 4종 패키지🎼\n노다지바이닐 펀딩 GoGo👉 https://t.co/VluWv4DEFk https://t.co/4IDJemRqMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바이닐",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "펀딩",
+					"indices": [
+						9,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VluWv4DEFk",
+					"expanded_url": "https://bit.ly/2zWtISz",
+					"display_url": "bit.ly/2zWtISz",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272695592012050400,
+					"id_str": "1272695592012050434",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EamF5d0VcAI7hNY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EamF5d0VcAI7hNY.jpg",
+					"url": "https://t.co/4IDJemRqMN",
+					"display_url": "pic.twitter.com/4IDJemRqMN",
+					"expanded_url": "https://twitter.com/ruby_records/status/1272695789437849600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272695592012050400,
+					"id_str": "1272695592012050434",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EamF5d0VcAI7hNY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EamF5d0VcAI7hNY.jpg",
+					"url": "https://t.co/4IDJemRqMN",
+					"display_url": "pic.twitter.com/4IDJemRqMN",
+					"expanded_url": "https://twitter.com/ruby_records/status/1272695789437849600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7937,
+			"friends_count": 8601,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#바이닐 #LP #펀딩 \n[얼리버드] 바이닐 펀딩🙌🏻\n디지털 음원으로만 만났던 띵곡들을 아날로그\nLP로 소장할 수 있는 단 한번의 기회!\n한정판 LP 1종 패키지🎼\n한정판 LP 4종 패키지🎼\n노다지바이닐 펀딩 GoGo👉 https://t.co/VluWv4DEFk https://t.co/4IDJemRqMN"
+	},
+	{
 		"created_at": "Tue Jun 16 00:29:25 +0000 2020",
 		"id": 1272687173855146000,
 		"id_str": "1272687689763115009",
