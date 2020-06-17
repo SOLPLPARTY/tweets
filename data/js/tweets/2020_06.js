@@ -1,6 +1,1378 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 05:58:17 +0000 2020",
+		"id": 1273118437209002000,
+		"id_str": "1273132839240859650",
+		"full_text": "모든 예매자분들은 취소 수수료 없이 전액 환불 처리될 예정이며, 각 예매처별 절차에 따라 취소 절차가 진행됩니다. 이미지 내 예매처별 안내를 확인 부탁 드립니다. 환불 관련 자세한 사항은 각 예매처 고객센터로 문의 부탁드립니다. https://t.co/DiwV76XZWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273118371060633600,
+					"id_str": "1273118371060633602",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EasGacgX0AIvcmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasGacgX0AIvcmI.jpg",
+					"url": "https://t.co/DiwV76XZWt",
+					"display_url": "pic.twitter.com/DiwV76XZWt",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118437209001984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273118371060633600,
+					"id_str": "1273118371060633602",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EasGacgX0AIvcmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasGacgX0AIvcmI.jpg",
+					"url": "https://t.co/DiwV76XZWt",
+					"display_url": "pic.twitter.com/DiwV76XZWt",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118437209001984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273118371144511500,
+					"id_str": "1273118371144511490",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EasGac0XsAIZKhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasGac0XsAIZKhr.jpg",
+					"url": "https://t.co/DiwV76XZWt",
+					"display_url": "pic.twitter.com/DiwV76XZWt",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118437209001984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273118371228397600,
+					"id_str": "1273118371228397576",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EasGadIXsAgvd-u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasGadIXsAgvd-u.jpg",
+					"url": "https://t.co/DiwV76XZWt",
+					"display_url": "pic.twitter.com/DiwV76XZWt",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118437209001984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273118316773720000,
+		"in_reply_to_status_id_str": "1273118316773720064",
+		"in_reply_to_user_id": 116351905,
+		"in_reply_to_user_id_str": "116351905",
+		"in_reply_to_screen_name": "GREENPLUGGED",
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12048,
+			"friends_count": 69,
+			"listed_count": 233,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 예매자분들은 취소 수수료 없이 전액 환불 처리될 예정이며, 각 예매처별 절차에 따라 취소 절차가 진행됩니다. 이미지 내 예매처별 안내를 확인 부탁 드립니다. 환불 관련 자세한 사항은 각 예매처 고객센터로 문의 부탁드립니다. https://t.co/DiwV76XZWt"
+	},
+	{
+		"created_at": "Wed Jun 17 05:58:15 +0000 2020",
+		"id": 1273118316773720000,
+		"id_str": "1273132830344785923",
+		"full_text": "안녕하세요 그린플러그드 페스티벌입니다.\n\n7월 25일과 26일 예정이었던 ‘그린플러그드 동해 2020’의 개최를 취소하게 되었습니다.\n\n연이어 취소 소식을 전해드리게 되어 안타깝고 죄송한 마음입니다. 그린플러그드 동해는 내년에 더 풍성한 공연과 다채로운 프로그램으로 다시 찾아뵙겠습니다. https://t.co/OlWF4KZM58",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273115761440161800,
+					"id_str": "1273115761440161794",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EasECi6XgAIzpaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasECi6XgAIzpaM.jpg",
+					"url": "https://t.co/OlWF4KZM58",
+					"display_url": "pic.twitter.com/OlWF4KZM58",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118316773720064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273115761440161800,
+					"id_str": "1273115761440161794",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EasECi6XgAIzpaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasECi6XgAIzpaM.jpg",
+					"url": "https://t.co/OlWF4KZM58",
+					"display_url": "pic.twitter.com/OlWF4KZM58",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118316773720064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273115761557549000,
+					"id_str": "1273115761557549057",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EasECjWWsAEHf48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasECjWWsAEHf48.jpg",
+					"url": "https://t.co/OlWF4KZM58",
+					"display_url": "pic.twitter.com/OlWF4KZM58",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118316773720064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273115761654063000,
+					"id_str": "1273115761654063112",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EasECjtXYAgu1lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasECjtXYAgu1lU.jpg",
+					"url": "https://t.co/OlWF4KZM58",
+					"display_url": "pic.twitter.com/OlWF4KZM58",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1273118316773720064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12048,
+			"friends_count": 69,
+			"listed_count": 233,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1586859770",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 그린플러그드 페스티벌입니다.\n\n7월 25일과 26일 예정이었던 ‘그린플러그드 동해 2020’의 개최를 취소하게 되었습니다.\n\n연이어 취소 소식을 전해드리게 되어 안타깝고 죄송한 마음입니다. 그린플러그드 동해는 내년에 더 풍성한 공연과 다채로운 프로그램으로 다시 찾아뵙겠습니다. https://t.co/OlWF4KZM58"
+	},
+	{
+		"created_at": "Wed Jun 17 05:41:38 +0000 2020",
+		"id": 1273119750734975000,
+		"id_str": "1273128650024591362",
+		"full_text": "New Single Now Available\n-\n페이션츠 - 깡깡깡\nPATiENTS - GGANGGANGGANGG\n\nFrom Exhibition '#GGANGGANGGANGG' by Sumin Jo\n\n\"The Sound of Destruction = The Sound of Creation\"\n\nDirected &amp; Performace by Sumin Jo\n\nMusic by PATiENTS… https://t.co/5ETGq6BvkV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GGANGGANGGANGG",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ETGq6BvkV",
+					"expanded_url": "https://www.instagram.com/p/CBhhmdvg8DS/?igshid=pyrkh2er2lh9",
+					"display_url": "instagram.com/p/CBhhmdvg8DS/…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Single Now Available\n-\n페이션츠 - 깡깡깡\nPATiENTS - GGANGGANGGANGG\n\nFrom Exhibition '#GGANGGANGGANGG' by Sumin Jo\n\n\"The Sound of Destruction = The Sound of Creation\"\n\nDirected &amp; Performace by Sumin Jo\n\nMusic by PATiENTS… https://t.co/5ETGq6BvkV"
+	},
+	{
+		"created_at": "Wed Jun 17 05:29:55 +0000 2020",
+		"id": 1273123321098444800,
+		"id_str": "1273125701831532544",
+		"full_text": "#바이닐펀딩 #모트 #레인보우노트 #랜드오브피스\n노다지바이닐 펀딩 OPEN!! 🙌🏻\n띵곡들을 아날로그 LP로 소장할 수 있는 기회!\n한정판 티셔츠 추가 &amp; 나만의 메세지 영상까지!!\n모트, 레인보우 노트, 랜드오브피스의 첫 LP\n지금 바로 펀딩하기\nGoGo👉 https://t.co/VluWv4m3NM https://t.co/08F2PIQ2B1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바이닐펀딩",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "랜드오브피스",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VluWv4m3NM",
+					"expanded_url": "https://bit.ly/2zWtISz",
+					"display_url": "bit.ly/2zWtISz",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273123260524368000,
+					"id_str": "1273123260524367873",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EasK3DLXkAEcBlc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasK3DLXkAEcBlc.jpg",
+					"url": "https://t.co/08F2PIQ2B1",
+					"display_url": "pic.twitter.com/08F2PIQ2B1",
+					"expanded_url": "https://twitter.com/ruby_records/status/1273123321098444805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273123260524368000,
+					"id_str": "1273123260524367873",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EasK3DLXkAEcBlc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasK3DLXkAEcBlc.jpg",
+					"url": "https://t.co/08F2PIQ2B1",
+					"display_url": "pic.twitter.com/08F2PIQ2B1",
+					"expanded_url": "https://twitter.com/ruby_records/status/1273123321098444805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7934,
+			"friends_count": 8599,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#바이닐펀딩 #모트 #레인보우노트 #랜드오브피스\n노다지바이닐 펀딩 OPEN!! 🙌🏻\n띵곡들을 아날로그 LP로 소장할 수 있는 기회!\n한정판 티셔츠 추가 &amp; 나만의 메세지 영상까지!!\n모트, 레인보우 노트, 랜드오브피스의 첫 LP\n지금 바로 펀딩하기\nGoGo👉 https://t.co/VluWv4m3NM https://t.co/08F2PIQ2B1"
+	},
+	{
+		"created_at": "Wed Jun 17 05:29:48 +0000 2020",
+		"id": 1273122390743138300,
+		"id_str": "1273125672018460675",
+		"full_text": "[#박시연] [공식] 박시연 '화양연화' 종영→'산후조리원' 특별출연..열일\n▶️ https://t.co/XmcOzylxCQ\n\n#산후조리원 #tvN https://t.co/PXatWgesri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박시연",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "산후조리원",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						78,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XmcOzylxCQ",
+					"expanded_url": "http://bit.ly/2USKJEt",
+					"display_url": "bit.ly/2USKJEt",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273122299705786400,
+					"id_str": "1273122299705786371",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EasJ_H2XgAMmL0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasJ_H2XgAMmL0a.jpg",
+					"url": "https://t.co/PXatWgesri",
+					"display_url": "pic.twitter.com/PXatWgesri",
+					"expanded_url": "https://twitter.com/themysticstory/status/1273122390743138304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273122299705786400,
+					"id_str": "1273122299705786371",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EasJ_H2XgAMmL0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasJ_H2XgAMmL0a.jpg",
+					"url": "https://t.co/PXatWgesri",
+					"display_url": "pic.twitter.com/PXatWgesri",
+					"expanded_url": "https://twitter.com/themysticstory/status/1273122390743138304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273122299714175000,
+					"id_str": "1273122299714174976",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EasJ_H4XgAAGAxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasJ_H4XgAAGAxg.jpg",
+					"url": "https://t.co/PXatWgesri",
+					"display_url": "pic.twitter.com/PXatWgesri",
+					"expanded_url": "https://twitter.com/themysticstory/status/1273122390743138304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19679,
+			"friends_count": 18,
+			"listed_count": 221,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#박시연] [공식] 박시연 '화양연화' 종영→'산후조리원' 특별출연..열일\n▶️ https://t.co/XmcOzylxCQ\n\n#산후조리원 #tvN https://t.co/PXatWgesri"
+	},
+	{
+		"created_at": "Wed Jun 17 05:29:41 +0000 2020",
+		"id": 1273119919702454300,
+		"id_str": "1273125642075332618",
+		"full_text": "https://t.co/XqyMdyr3Zn https://t.co/9ZN9Rr5VQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqyMdyr3Zn",
+					"expanded_url": "https://youtu.be/2eBzD-4DOt0",
+					"display_url": "youtu.be/2eBzD-4DOt0",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273119853218578400,
+					"id_str": "1273119853218578438",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273119853218578438/pu/img/FetoQo7s1ZP9IjtK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273119853218578438/pu/img/FetoQo7s1ZP9IjtK.jpg",
+					"url": "https://t.co/9ZN9Rr5VQR",
+					"display_url": "pic.twitter.com/9ZN9Rr5VQR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1273119919702454278/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273119853218578400,
+					"id_str": "1273119853218578438",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273119853218578438/pu/img/FetoQo7s1ZP9IjtK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273119853218578438/pu/img/FetoQo7s1ZP9IjtK.jpg",
+					"url": "https://t.co/9ZN9Rr5VQR",
+					"display_url": "pic.twitter.com/9ZN9Rr5VQR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1273119919702454278/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 45612,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273119853218578438/pu/vid/478x270/6THFDz3V6nXA_Gk4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273119853218578438/pu/pl/w9FdJsakOX3yIsqf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273119853218578438/pu/vid/720x406/bYU1yHeb0pYDXqFv.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3484,
+			"friends_count": 5,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/XqyMdyr3Zn https://t.co/9ZN9Rr5VQR"
+	},
+	{
+		"created_at": "Wed Jun 17 05:29:32 +0000 2020",
+		"id": 1273118677114802200,
+		"id_str": "1273125603873640455",
+		"full_text": "오마카세 아니고 이모카세?! 메뉴판 없이 말하는대로 만들어주는 성수동 시골집 (성수동 노포, 카더가든, 오존, 오래된 정원) https://t.co/XqyMdyr3Zn 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XqyMdyr3Zn",
+					"expanded_url": "https://youtu.be/2eBzD-4DOt0",
+					"display_url": "youtu.be/2eBzD-4DOt0",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3484,
+			"friends_count": 5,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오마카세 아니고 이모카세?! 메뉴판 없이 말하는대로 만들어주는 성수동 시골집 (성수동 노포, 카더가든, 오존, 오래된 정원) https://t.co/XqyMdyr3Zn 출처 @YouTube"
+	},
+	{
 		"created_at": "Wed Jun 17 05:01:40 +0000 2020",
 		"id": 1273118591978791000,
 		"id_str": "1273118591978790912",
