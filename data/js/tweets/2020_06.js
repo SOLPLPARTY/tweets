@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 03:58:15 +0000 2020",
+		"id": 1273088263561965600,
+		"id_str": "1273102631284637708",
+		"full_text": "☮ DMZ 피스트레인 뮤직페스티벌 2020 타임테이블 공개\n\n지금 우리, 철원에서 눈부신 평화와 만나게 될 날이  한 달 앞으로 다가왔습니다. DMZ 피스트레인 뮤직 페스티벌 2020의 최종 타임테이블을 공개합니다.\n\n라인업과 타임테이블은 피스트레인 공식 홈페이지에서도 확인하실 수 있습니다! https://t.co/2FDT1iXX5J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273088256930803700,
+					"id_str": "1273088256930803712",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EarrBkoU8AAmDwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarrBkoU8AAmDwt.jpg",
+					"url": "https://t.co/2FDT1iXX5J",
+					"display_url": "pic.twitter.com/2FDT1iXX5J",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1273088263561965568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273088256930803700,
+					"id_str": "1273088256930803712",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EarrBkoU8AAmDwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarrBkoU8AAmDwt.jpg",
+					"url": "https://t.co/2FDT1iXX5J",
+					"display_url": "pic.twitter.com/2FDT1iXX5J",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1273088263561965568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273088261179629600,
+					"id_str": "1273088261179629568",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EarrB0dU4AAgm-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarrB0dU4AAgm-x.jpg",
+					"url": "https://t.co/2FDT1iXX5J",
+					"display_url": "pic.twitter.com/2FDT1iXX5J",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1273088263561965568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 38,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮ DMZ 피스트레인 뮤직페스티벌 2020 타임테이블 공개\n\n지금 우리, 철원에서 눈부신 평화와 만나게 될 날이  한 달 앞으로 다가왔습니다. DMZ 피스트레인 뮤직 페스티벌 2020의 최종 타임테이블을 공개합니다.\n\n라인업과 타임테이블은 피스트레인 공식 홈페이지에서도 확인하실 수 있습니다! https://t.co/2FDT1iXX5J"
+	},
+	{
+		"created_at": "Wed Jun 17 03:29:33 +0000 2020",
+		"id": 1273090428917608400,
+		"id_str": "1273095409653690371",
+		"full_text": "[공연]\nDAYBREAK 'SUMMER MADNESS 2020 : + -'\n\n티켓 오픈\n6월 24일(수) 8PM at 인터파크 티켓\n\n일시: 8월 1일(토) - 8월 2일(일) 7PM\n장소: 올림픽공원 88호수 수변무대\nmore 🔗 https://t.co/Ot0eOrGWlb\n\n✴️거리두기좌석제로 진행됩니다. https://t.co/JfOVbBDDrG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ot0eOrGWlb",
+					"expanded_url": "http://bit.ly/3d75uT5",
+					"display_url": "bit.ly/3d75uT5",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273090420239548400,
+					"id_str": "1273090420239548418",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ears_flUwAIWUe1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ears_flUwAIWUe1.jpg",
+					"url": "https://t.co/JfOVbBDDrG",
+					"display_url": "pic.twitter.com/JfOVbBDDrG",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1273090428917608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1468,
+							"h": 1468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273090420239548400,
+					"id_str": "1273090420239548418",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ears_flUwAIWUe1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ears_flUwAIWUe1.jpg",
+					"url": "https://t.co/JfOVbBDDrG",
+					"display_url": "pic.twitter.com/JfOVbBDDrG",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1273090428917608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1468,
+							"h": 1468,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13184,
+			"friends_count": 1989,
+			"listed_count": 261,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연]\nDAYBREAK 'SUMMER MADNESS 2020 : + -'\n\n티켓 오픈\n6월 24일(수) 8PM at 인터파크 티켓\n\n일시: 8월 1일(토) - 8월 2일(일) 7PM\n장소: 올림픽공원 88호수 수변무대\nmore 🔗 https://t.co/Ot0eOrGWlb\n\n✴️거리두기좌석제로 진행됩니다. https://t.co/JfOVbBDDrG"
+	},
+	{
+		"created_at": "Wed Jun 17 03:29:30 +0000 2020",
+		"id": 1273082676849725400,
+		"id_str": "1273095396559147009",
+		"full_text": "[기사] ‘컴백 D-DAY’ 정승환, 여름 발라드 ‘언제라도 어디에서라도’ 발매 \n(출처 : 파이낸셜뉴스 | 네이버 TV연예) \nhttps://t.co/aHcZmgfJjC\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "언제라도어디에서라도",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "WheneverWherever",
+					"indices": [
+						129,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aHcZmgfJjC",
+					"expanded_url": "http://naver.me/FbBqamhs",
+					"display_url": "naver.me/FbBqamhs",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34346,
+			"friends_count": 11,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] ‘컴백 D-DAY’ 정승환, 여름 발라드 ‘언제라도 어디에서라도’ 발매 \n(출처 : 파이낸셜뉴스 | 네이버 TV연예) \nhttps://t.co/aHcZmgfJjC\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever"
+	},
+	{
 		"created_at": "Wed Jun 17 03:14:22 +0000 2020",
 		"id": 1273091588055539700,
 		"id_str": "1273091588055539712",
