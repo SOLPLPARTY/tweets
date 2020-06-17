@@ -1,6 +1,1428 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 06:57:42 +0000 2020",
+		"id": 1273147793595662300,
+		"id_str": "1273147793595662337",
+		"full_text": "#Melon #멜론 #멜론매거진\n우리는 어떻게든 흥에 겨울 민족이었지, JTBC 비긴어게인 코리아\nhttps://t.co/S1D5anW2ER https://t.co/a9CN49Eo2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S1D5anW2ER",
+					"expanded_url": "https://bit.ly/2CfGA7b",
+					"display_url": "bit.ly/2CfGA7b",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273147792203157500,
+					"id_str": "1273147792203157504",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EashK-zXkAAAPue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashK-zXkAAAPue.jpg",
+					"url": "https://t.co/a9CN49Eo2l",
+					"display_url": "pic.twitter.com/a9CN49Eo2l",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273147793595662337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273147792203157500,
+					"id_str": "1273147792203157504",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EashK-zXkAAAPue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashK-zXkAAAPue.jpg",
+					"url": "https://t.co/a9CN49Eo2l",
+					"display_url": "pic.twitter.com/a9CN49Eo2l",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273147793595662337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n우리는 어떻게든 흥에 겨울 민족이었지, JTBC 비긴어게인 코리아\nhttps://t.co/S1D5anW2ER https://t.co/a9CN49Eo2l"
+	},
+	{
+		"created_at": "Wed Jun 17 06:57:34 +0000 2020",
+		"id": 1273147759646969900,
+		"id_str": "1273147759646969857",
+		"full_text": "#Melon #멜론 #멜론매거진\n베이스가 안 들리는 Metallica 4집, 어떻게 들어야 좋을까?\nhttps://t.co/Ty2Qba0QkU https://t.co/OsganZsKsQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ty2Qba0QkU",
+					"expanded_url": "https://bit.ly/2UPqN5k",
+					"display_url": "bit.ly/2UPqN5k",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273147758292205600,
+					"id_str": "1273147758292205568",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EashJAeXgAAPw0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashJAeXgAAPw0l.jpg",
+					"url": "https://t.co/OsganZsKsQ",
+					"display_url": "pic.twitter.com/OsganZsKsQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273147759646969857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273147758292205600,
+					"id_str": "1273147758292205568",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EashJAeXgAAPw0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EashJAeXgAAPw0l.jpg",
+					"url": "https://t.co/OsganZsKsQ",
+					"display_url": "pic.twitter.com/OsganZsKsQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273147759646969857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n베이스가 안 들리는 Metallica 4집, 어떻게 들어야 좋을까?\nhttps://t.co/Ty2Qba0QkU https://t.co/OsganZsKsQ"
+	},
+	{
+		"created_at": "Wed Jun 17 06:51:53 +0000 2020",
+		"id": 1273146329544437800,
+		"id_str": "1273146329544437763",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 페이션츠 (PATiENTS) - 깡깡깡 (GGANGGANGGANGG)\nhttps://t.co/HRGF0IaJle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRGF0IaJle",
+					"expanded_url": "https://youtu.be/Xqdjoncf_MQ",
+					"display_url": "youtu.be/Xqdjoncf_MQ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 페이션츠 (PATiENTS) - 깡깡깡 (GGANGGANGGANGG)\nhttps://t.co/HRGF0IaJle"
+	},
+	{
+		"created_at": "Wed Jun 17 06:43:18 +0000 2020",
+		"id": 1273144171289854000,
+		"id_str": "1273144171289853958",
+		"full_text": "【 #PlayDB 】 #올림픽공원\n데이브레이크 콘서트 (2020.08.01 ~ 2020.08.01) at 올림픽공원내 88호수 수변무대\n▶ https://t.co/ODriAGJM65\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/MFQ2PGlNso",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "올림픽공원",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ODriAGJM65",
+					"expanded_url": "https://bit.ly/3fvzKIX",
+					"display_url": "bit.ly/3fvzKIX",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273144170207740000,
+					"id_str": "1273144170207739904",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Easd4J0XgAA63Pu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Easd4J0XgAA63Pu.jpg",
+					"url": "https://t.co/MFQ2PGlNso",
+					"display_url": "pic.twitter.com/MFQ2PGlNso",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273144171289853958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273144170207740000,
+					"id_str": "1273144170207739904",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Easd4J0XgAA63Pu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Easd4J0XgAA63Pu.jpg",
+					"url": "https://t.co/MFQ2PGlNso",
+					"display_url": "pic.twitter.com/MFQ2PGlNso",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1273144171289853958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 90,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #올림픽공원\n데이브레이크 콘서트 (2020.08.01 ~ 2020.08.01) at 올림픽공원내 88호수 수변무대\n▶ https://t.co/ODriAGJM65\n　\n#플레이DB #플레이디비\n#공연일정 #티켓공지 https://t.co/MFQ2PGlNso"
+	},
+	{
+		"created_at": "Wed Jun 17 06:41:59 +0000 2020",
+		"id": 1273143242691838000,
+		"id_str": "1273143839402967040",
+		"full_text": "&lt;코로나19 감염 예방 물품 지원&gt;  \n\n📍 일시 : 6월 17일 (수) PM 5시부터 PM 8시 ~ 소진 시까지\n📍 장소 : 씬디 티켓라운지\n📍 자격 : 합주실에서 연습, 합주 진행하는 뮤지션\n📍 지원물품 : 마이크 커버, 손소독제, 손소독겔\n📍 필요사항 : 현장에서 물품 지원 신청서 및 개인정보 수집 동의서 작성",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273143240380878800,
+		"in_reply_to_status_id_str": "1273143240380878851",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2807,
+			"friends_count": 2722,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;코로나19 감염 예방 물품 지원&gt;  \n\n📍 일시 : 6월 17일 (수) PM 5시부터 PM 8시 ~ 소진 시까지\n📍 장소 : 씬디 티켓라운지\n📍 자격 : 합주실에서 연습, 합주 진행하는 뮤지션\n📍 지원물품 : 마이크 커버, 손소독제, 손소독겔\n📍 필요사항 : 현장에서 물품 지원 신청서 및 개인정보 수집 동의서 작성"
+	},
+	{
+		"created_at": "Wed Jun 17 06:41:53 +0000 2020",
+		"id": 1273143240380878800,
+		"id_str": "1273143813704495104",
+		"full_text": "아티스트 분들의 합주 시 개인 방역을 위한 마이크 커버, 손소독제 및 손소독겔을 무상으로 지원하오니, 연습실 및 합주실 사용 시 유용하게 사용되기를 바랍니다.\n\n사전 신청 없이 현장 신청만으로 수령이 가능하며, 자세한 내용은 아래 내용을 참고 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273143238141108200,
+		"in_reply_to_status_id_str": "1273143238141108225",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2807,
+			"friends_count": 2722,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아티스트 분들의 합주 시 개인 방역을 위한 마이크 커버, 손소독제 및 손소독겔을 무상으로 지원하오니, 연습실 및 합주실 사용 시 유용하게 사용되기를 바랍니다.\n\n사전 신청 없이 현장 신청만으로 수령이 가능하며, 자세한 내용은 아래 내용을 참고 부탁드립니다."
+	},
+	{
+		"created_at": "Wed Jun 17 06:41:44 +0000 2020",
+		"id": 1273143238141108200,
+		"id_str": "1273143775460765698",
+		"full_text": "[아티스트 코로나19 감염 예방 물품 지원] \n\n(사)한국음악레이블산업협회는 방역시스템 준비가 미흡한 합주실에서 연습이 불가피한 아티스트에게 도움을 드리고자 '코로나19 감염 예방 물품 지원'을 진행합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2807,
+			"friends_count": 2722,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[아티스트 코로나19 감염 예방 물품 지원] \n\n(사)한국음악레이블산업협회는 방역시스템 준비가 미흡한 합주실에서 연습이 불가피한 아티스트에게 도움을 드리고자 '코로나19 감염 예방 물품 지원'을 진행합니다."
+	},
+	{
+		"created_at": "Wed Jun 17 06:41:38 +0000 2020",
+		"id": 1273139000677748700,
+		"id_str": "1273143749829431298",
+		"full_text": "@HJCULTURE 마지막이라고 하지마!!\n\n╭┈┈┈┈╯   ╰┈┈┈╮\n\n ╰┳┳╯    ╰┳┳╯\n\n  라　    　　 라\n\n 흐  　    　　 흐\n     ╰┈┈╯\n  흑 ╭━━━━━╮　 흑\n      ┈┈┈┈ \n　　💧     　　 💧",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HJCULTURE",
+					"name": "HJ컬쳐(주)",
+					"id": 285502189,
+					"id_str": "285502189",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1273136567670968300,
+		"in_reply_to_status_id_str": "1273136567670968320",
+		"in_reply_to_user_id": 285502189,
+		"in_reply_to_user_id_str": "285502189",
+		"in_reply_to_screen_name": "HJCULTURE",
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3813,
+			"friends_count": 30,
+			"listed_count": 17,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 301,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@HJCULTURE 마지막이라고 하지마!!\n\n╭┈┈┈┈╯   ╰┈┈┈╮\n\n ╰┳┳╯    ╰┳┳╯\n\n  라　    　　 라\n\n 흐  　    　　 흐\n     ╰┈┈╯\n  흑 ╭━━━━━╮　 흑\n      ┈┈┈┈ \n　　💧     　　 💧"
+	},
+	{
+		"created_at": "Wed Jun 17 06:29:25 +0000 2020",
+		"id": 1273138651778744300,
+		"id_str": "1273140674167177218",
+		"full_text": "드디어 올해 첫 페스티벌입니다😍🤩😷 2020 @dmz_peacetrain의 타임테이블이 공개되었어요. 드링킹소년소녀합창단 @BandDBGC는 7월 18일(토) 15:40 플레이 스테이지 첫 순서입니다 💙💙💙 https://t.co/vDXKB4YHnE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dmz_peacetrain",
+					"name": "DMZ Peace Train Music Festival",
+					"id": 993804824138473500,
+					"id_str": "993804824138473476",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "BandDBGC",
+					"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+					"id": 944548838731157500,
+					"id_str": "944548838731157506",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273138578453921800,
+					"id_str": "1273138578453921792",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EasYyq6XgAAqT6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasYyq6XgAAqT6Y.jpg",
+					"url": "https://t.co/vDXKB4YHnE",
+					"display_url": "pic.twitter.com/vDXKB4YHnE",
+					"expanded_url": "https://twitter.com/electric_muse/status/1273138651778744321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273138578453921800,
+					"id_str": "1273138578453921792",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EasYyq6XgAAqT6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasYyq6XgAAqT6Y.jpg",
+					"url": "https://t.co/vDXKB4YHnE",
+					"display_url": "pic.twitter.com/vDXKB4YHnE",
+					"expanded_url": "https://twitter.com/electric_muse/status/1273138651778744321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273138611014242300,
+					"id_str": "1273138611014242305",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EasY0kNWkAEQlbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EasY0kNWkAEQlbX.jpg",
+					"url": "https://t.co/vDXKB4YHnE",
+					"display_url": "pic.twitter.com/vDXKB4YHnE",
+					"expanded_url": "https://twitter.com/electric_muse/status/1273138651778744321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 575,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 326,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3416,
+			"friends_count": 1312,
+			"listed_count": 109,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 올해 첫 페스티벌입니다😍🤩😷 2020 @dmz_peacetrain의 타임테이블이 공개되었어요. 드링킹소년소녀합창단 @BandDBGC는 7월 18일(토) 15:40 플레이 스테이지 첫 순서입니다 💙💙💙 https://t.co/vDXKB4YHnE"
+	},
+	{
 		"created_at": "Wed Jun 17 05:58:17 +0000 2020",
 		"id": 1273118437209002000,
 		"id_str": "1273132839240859650",
