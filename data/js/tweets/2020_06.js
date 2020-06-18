@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 14:13:49 +0000 2020",
+		"id": 1273540960866181000,
+		"id_str": "1273619934602342400",
+		"full_text": "[Making]\n헤이즈 6번째 미니 앨범 [Lyricist] 📝\nTrack 3. '너의 이름은 (Feat. ASH ISLAND)' 뮤직비디오 메이킹필름 🎬\n\n▶ https://t.co/TSVL8npOVB\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name https://t.co/s975bmHdvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "Lyricist",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "너의이름은",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "Your_name",
+					"indices": [
+						144,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TSVL8npOVB",
+					"expanded_url": "https://youtu.be/Qt6_7ycyGJ0",
+					"display_url": "youtu.be/Qt6_7ycyGJ0",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273515276680573000,
+					"id_str": "1273515276680572929",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EaxvZZKUMAE8Ice.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaxvZZKUMAE8Ice.jpg",
+					"url": "https://t.co/s975bmHdvH",
+					"display_url": "pic.twitter.com/s975bmHdvH",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1273540960866181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273515276680573000,
+					"id_str": "1273515276680572929",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EaxvZZKUMAE8Ice.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaxvZZKUMAE8Ice.jpg",
+					"url": "https://t.co/s975bmHdvH",
+					"display_url": "pic.twitter.com/s975bmHdvH",
+					"expanded_url": "https://twitter.com/Heize_Official/status/1273540960866181120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4746792673,
+			"id_str": "4746792673",
+			"name": "Heize Official",
+			"screen_name": "Heize_Official",
+			"location": "",
+			"description": "Heize Official Twitter",
+			"url": "https://t.co/MjKhKjHEsv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjKhKjHEsv",
+							"expanded_url": "http://cafe.daum.net/HEIZE",
+							"display_url": "cafe.daum.net/HEIZE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39482,
+			"friends_count": 0,
+			"listed_count": 364,
+			"created_at": "Tue Jan 12 05:51:35 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268017406888173568/OSTk2hB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4746792673/1591153885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Making]\n헤이즈 6번째 미니 앨범 [Lyricist] 📝\nTrack 3. '너의 이름은 (Feat. ASH ISLAND)' 뮤직비디오 메이킹필름 🎬\n\n▶ https://t.co/TSVL8npOVB\n\n#헤이즈 #Heize #Lyricist #너의이름은 #Your_name https://t.co/s975bmHdvH"
+	},
+	{
 		"created_at": "Thu Jun 18 12:51:53 +0000 2020",
 		"id": 1273599313764126700,
 		"id_str": "1273599313764126722",
