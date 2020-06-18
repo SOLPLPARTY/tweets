@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 03:50:18 +0000 2020",
+		"id": 1273463021571117000,
+		"id_str": "1273463021571117058",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nJC 스튜어트 (JC Stewart) - I Need You To Hate Me 가사 번역 뮤직비디오\nhttps://t.co/9Ku2JPHwrI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Ku2JPHwrI",
+					"expanded_url": "https://youtu.be/D5NnM4x2KpE",
+					"display_url": "youtu.be/D5NnM4x2KpE",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nJC 스튜어트 (JC Stewart) - I Need You To Hate Me 가사 번역 뮤직비디오\nhttps://t.co/9Ku2JPHwrI"
+	},
+	{
+		"created_at": "Thu Jun 18 03:29:39 +0000 2020",
+		"id": 1273456199711613000,
+		"id_str": "1273457823016464384",
+		"full_text": "더더(THETHE)-슬픔(Rewind) https://t.co/Vdiv9zkMZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vdiv9zkMZ1",
+					"expanded_url": "http://blog.naver.com/chili7272/222004704667",
+					"display_url": "blog.naver.com/chili7272/2220…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 2432,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더더(THETHE)-슬픔(Rewind) https://t.co/Vdiv9zkMZ1"
+	},
+	{
+		"created_at": "Thu Jun 18 03:29:30 +0000 2020",
+		"id": 1273454024621084700,
+		"id_str": "1273457784659591169",
+		"full_text": "멜론 https://t.co/MTHAb3A2QZ\n지니 https://t.co/wHTbHmi3Sw\n벅스 https://t.co/3zkz9CbyBQ\nVibe https://t.co/qU4f3HJwpg\nFLO https://t.co/SAGVrMZeqQ\nSpotify https://t.co/RylVvnIQoD\nApple Music https://t.co/F2Uc3Vsmsi\nQQ Music https://t.co/v59c9iwmpK https://t.co/dGVuq0IEAA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MTHAb3A2QZ",
+					"expanded_url": "https://bit.ly/2ALxmz8",
+					"display_url": "bit.ly/2ALxmz8",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/wHTbHmi3Sw",
+					"expanded_url": "https://bit.ly/2YKNp8j",
+					"display_url": "bit.ly/2YKNp8j",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/3zkz9CbyBQ",
+					"expanded_url": "https://bit.ly/2CiTUHW",
+					"display_url": "bit.ly/2CiTUHW",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/qU4f3HJwpg",
+					"expanded_url": "https://bit.ly/2AP7br8",
+					"display_url": "bit.ly/2AP7br8",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/SAGVrMZeqQ",
+					"expanded_url": "https://bit.ly/3efggrR",
+					"display_url": "bit.ly/3efggrR",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/RylVvnIQoD",
+					"expanded_url": "https://spoti.fi/3epefcV",
+					"display_url": "spoti.fi/3epefcV",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/F2Uc3Vsmsi",
+					"expanded_url": "https://apple.co/3d7jP1P",
+					"display_url": "apple.co/3d7jP1P",
+					"indices": [
+						182,
+						205
+					]
+				},
+				{
+					"url": "https://t.co/v59c9iwmpK",
+					"expanded_url": "https://bit.ly/37PNhIZ",
+					"display_url": "bit.ly/37PNhIZ",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273453993499357200,
+					"id_str": "1273453993499357184",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaw3qPhU8AA1WsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaw3qPhU8AA1WsD.jpg",
+					"url": "https://t.co/dGVuq0IEAA",
+					"display_url": "pic.twitter.com/dGVuq0IEAA",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1273454024621084672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273453993499357200,
+					"id_str": "1273453993499357184",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaw3qPhU8AA1WsD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaw3qPhU8AA1WsD.jpg",
+					"url": "https://t.co/dGVuq0IEAA",
+					"display_url": "pic.twitter.com/dGVuq0IEAA",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1273454024621084672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273453847038443500,
+		"in_reply_to_status_id_str": "1273453847038443520",
+		"in_reply_to_user_id": 892616925859020800,
+		"in_reply_to_user_id_str": "892616925859020800",
+		"in_reply_to_screen_name": "Beeline_Records",
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/MTHAb3A2QZ\n지니 https://t.co/wHTbHmi3Sw\n벅스 https://t.co/3zkz9CbyBQ\nVibe https://t.co/qU4f3HJwpg\nFLO https://t.co/SAGVrMZeqQ\nSpotify https://t.co/RylVvnIQoD\nApple Music https://t.co/F2Uc3Vsmsi\nQQ Music https://t.co/v59c9iwmpK https://t.co/dGVuq0IEAA"
+	},
+	{
+		"created_at": "Thu Jun 18 03:29:25 +0000 2020",
+		"id": 1273453847038443500,
+		"id_str": "1273457762937327622",
+		"full_text": "[New Release]\n\n위댄스의 새로운 싱글 '시티펑크 City Punk'의 음원과 뮤직비디오가 공개되었습니다!\n\nhttps://t.co/00MNVRn6TS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/00MNVRn6TS",
+					"expanded_url": "https://www.youtube.com/watch?v=MRhTdqG2fgs",
+					"display_url": "youtube.com/watch?v=MRhTdq…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release]\n\n위댄스의 새로운 싱글 '시티펑크 City Punk'의 음원과 뮤직비디오가 공개되었습니다!\n\nhttps://t.co/00MNVRn6TS"
+	},
+	{
 		"created_at": "Thu Jun 18 03:15:01 +0000 2020",
 		"id": 1273454142275629000,
 		"id_str": "1273454142275629058",
