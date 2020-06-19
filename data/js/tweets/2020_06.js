@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 07:29:29 +0000 2020",
+		"id": 1273870073392849000,
+		"id_str": "1273880566337802241",
+		"full_text": "#레인보우노트 #Rainbownote\n🌈레인보우노트🌈 [멜론매거진]\n[뉴 레트로 사운드의 듀오, 레인보우 노트]\n[New Single] '여름안의 추억' 🎼\n-\nhttps://t.co/v6WYTCP5Wz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Rainbownote",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v6WYTCP5Wz",
+					"expanded_url": "https://m2.melon.com/musicstory/detail.htm?mstorySeq=10392",
+					"display_url": "m2.melon.com/musicstory/det…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7936,
+			"friends_count": 8599,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레인보우노트 #Rainbownote\n🌈레인보우노트🌈 [멜론매거진]\n[뉴 레트로 사운드의 듀오, 레인보우 노트]\n[New Single] '여름안의 추억' 🎼\n-\nhttps://t.co/v6WYTCP5Wz"
+	},
+	{
 		"created_at": "Fri Jun 19 06:59:34 +0000 2020",
 		"id": 1273873039520825300,
 		"id_str": "1273873039520825344",
