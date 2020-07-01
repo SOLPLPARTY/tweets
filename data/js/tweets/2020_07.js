@@ -1,6 +1,1085 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 01 06:01:26 +0000 2020",
+		"id": 1278207063416504300,
+		"id_str": "1278207063416504321",
+		"full_text": "#바이어스 #BIAS\n[BIAS PLAYER] 데미안 (DEMIAN) - KARMA\nhttps://t.co/Oom7U6VN4F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바이어스",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BIAS",
+					"indices": [
+						6,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oom7U6VN4F",
+					"expanded_url": "https://youtu.be/lAghmq1GbhU",
+					"display_url": "youtu.be/lAghmq1GbhU",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#바이어스 #BIAS\n[BIAS PLAYER] 데미안 (DEMIAN) - KARMA\nhttps://t.co/Oom7U6VN4F"
+	},
+	{
+		"created_at": "Wed Jul 01 05:41:40 +0000 2020",
+		"id": 1278195703752257500,
+		"id_str": "1278202087453667328",
+		"full_text": "https://t.co/BvGEICZ4JU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvGEICZ4JU",
+					"expanded_url": "https://n.news.naver.com/article/016/0001693880",
+					"display_url": "n.news.naver.com/article/016/00…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1278195635095658500,
+		"in_reply_to_status_id_str": "1278195635095658502",
+		"in_reply_to_user_id": 1104695434893652000,
+		"in_reply_to_user_id_str": "1104695434893651968",
+		"in_reply_to_screen_name": "yes24stage",
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3970,
+			"friends_count": 30,
+			"listed_count": 17,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BvGEICZ4JU"
+	},
+	{
+		"created_at": "Wed Jul 01 05:41:38 +0000 2020",
+		"id": 1278195635095658500,
+		"id_str": "1278202078599557120",
+		"full_text": "#예스24스테이지\n종로구 '실내 공기질 관리 우수시설'로 선정되었습니다\n개관 이후 실내 공기질 개선 모니터링 시스템 구축, 환기 매뉴얼 재정비, 객석 적정 온습도 관리, 외부 공기 순환시스템 재구축 등으로 보다 나은 공기질 개선을 위해 노력하고 있으며 더 나은 개선을 위해 노력하겠습니다 https://t.co/Rp7UmrgL3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24스테이지",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278195612010205200,
+					"id_str": "1278195612010205186",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0QIw9U0AIrfcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0QIw9U0AIrfcj.jpg",
+					"url": "https://t.co/Rp7UmrgL3A",
+					"display_url": "pic.twitter.com/Rp7UmrgL3A",
+					"expanded_url": "https://twitter.com/yes24stage/status/1278195635095658502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278195612010205200,
+					"id_str": "1278195612010205186",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0QIw9U0AIrfcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0QIw9U0AIrfcj.jpg",
+					"url": "https://t.co/Rp7UmrgL3A",
+					"display_url": "pic.twitter.com/Rp7UmrgL3A",
+					"expanded_url": "https://twitter.com/yes24stage/status/1278195635095658502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3970,
+			"friends_count": 30,
+			"listed_count": 17,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24스테이지\n종로구 '실내 공기질 관리 우수시설'로 선정되었습니다\n개관 이후 실내 공기질 개선 모니터링 시스템 구축, 환기 매뉴얼 재정비, 객석 적정 온습도 관리, 외부 공기 순환시스템 재구축 등으로 보다 나은 공기질 개선을 위해 노력하고 있으며 더 나은 개선을 위해 노력하겠습니다 https://t.co/Rp7UmrgL3A"
+	},
+	{
+		"created_at": "Wed Jul 01 05:29:42 +0000 2020",
+		"id": 1278194485244031000,
+		"id_str": "1278199076182544384",
+		"full_text": "오늘부터 7월 16일 발매 예정인 위댄스 [Dance Pop] CD의 예약판매를 진행합니다! 더불어 앨범 발매를 기념해 특별히 제작된 토끼새 은목걸이를 판매를 시작합니다.\n\nMore info: https://t.co/Ryb7W90njr https://t.co/3NyNeLpIU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ryb7W90njr",
+					"expanded_url": "http://wedance.co.kr",
+					"display_url": "wedance.co.kr",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278188109100839000,
+					"id_str": "1278188109100838912",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0JUCcVcAAHtet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0JUCcVcAAHtet.jpg",
+					"url": "https://t.co/3NyNeLpIU4",
+					"display_url": "pic.twitter.com/3NyNeLpIU4",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1278194485244030976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278188109100839000,
+					"id_str": "1278188109100838912",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0JUCcVcAAHtet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0JUCcVcAAHtet.jpg",
+					"url": "https://t.co/3NyNeLpIU4",
+					"display_url": "pic.twitter.com/3NyNeLpIU4",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1278194485244030976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278188109100773400,
+					"id_str": "1278188109100773381",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0JUCcUcAU_xy9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0JUCcUcAU_xy9.jpg",
+					"url": "https://t.co/3NyNeLpIU4",
+					"display_url": "pic.twitter.com/3NyNeLpIU4",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1278194485244030976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278188149542248400,
+					"id_str": "1278188149542248448",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0JWZGUYAADs3M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0JWZGUYAADs3M.jpg",
+					"url": "https://t.co/3NyNeLpIU4",
+					"display_url": "pic.twitter.com/3NyNeLpIU4",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1278194485244030976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1988,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1278188177212059600,
+					"id_str": "1278188177212059648",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb0JYALUMAADQXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb0JYALUMAADQXY.jpg",
+					"url": "https://t.co/3NyNeLpIU4",
+					"display_url": "pic.twitter.com/3NyNeLpIU4",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1278194485244030976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1740,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1019,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부터 7월 16일 발매 예정인 위댄스 [Dance Pop] CD의 예약판매를 진행합니다! 더불어 앨범 발매를 기념해 특별히 제작된 토끼새 은목걸이를 판매를 시작합니다.\n\nMore info: https://t.co/Ryb7W90njr https://t.co/3NyNeLpIU4"
+	},
+	{
+		"created_at": "Wed Jul 01 05:29:34 +0000 2020",
+		"id": 1278193070123540500,
+		"id_str": "1278199042149945345",
+		"full_text": "[1년 전 오늘] 박재정의 미니앨범 &lt;노랫말&gt;이 나온지 벌써 1년. 타이틀곡 '다시 태어날 수 있다면'을 들으며 1년 전 오늘을 추억해볼까요? \n\n▶️ https://t.co/nqtO62ePuh\n\n#1년전오늘 #박재정 #ParcJaeJung\n#노랫말 #다시태어날수있다면 #IfOnly #1주년 https://t.co/NtDmHJMvKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1년전오늘",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "박재정",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "ParcJaeJung",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "노랫말",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "다시태어날수있다면",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "IfOnly",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "1주년",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nqtO62ePuh",
+					"expanded_url": "https://youtu.be/SNahydozKZY",
+					"display_url": "youtu.be/SNahydozKZY",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278191267134890000,
+					"id_str": "1278191267134889984",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278191267134889984/pu/img/hzj6Qu7E1YKqRVY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278191267134889984/pu/img/hzj6Qu7E1YKqRVY0.jpg",
+					"url": "https://t.co/NtDmHJMvKT",
+					"display_url": "pic.twitter.com/NtDmHJMvKT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1278193070123540482/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278191267134890000,
+					"id_str": "1278191267134889984",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278191267134889984/pu/img/hzj6Qu7E1YKqRVY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278191267134889984/pu/img/hzj6Qu7E1YKqRVY0.jpg",
+					"url": "https://t.co/NtDmHJMvKT",
+					"display_url": "pic.twitter.com/NtDmHJMvKT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1278193070123540482/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 111120,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278191267134889984/pu/vid/720x720/cyaCETDMvjQqEGfH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278191267134889984/pu/vid/480x480/I13PSVbWfEbgAna4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278191267134889984/pu/pl/cOLgllKc3dTeUjZH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278191267134889984/pu/vid/320x320/sjkfwJb7RxGpPqkw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19751,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1년 전 오늘] 박재정의 미니앨범 &lt;노랫말&gt;이 나온지 벌써 1년. 타이틀곡 '다시 태어날 수 있다면'을 들으며 1년 전 오늘을 추억해볼까요? \n\n▶️ https://t.co/nqtO62ePuh\n\n#1년전오늘 #박재정 #ParcJaeJung\n#노랫말 #다시태어날수있다면 #IfOnly #1주년 https://t.co/NtDmHJMvKT"
+	},
+	{
+		"created_at": "Wed Jul 01 05:29:27 +0000 2020",
+		"id": 1278186421040238600,
+		"id_str": "1278199016489209857",
+		"full_text": "✚ 앨범 자세히 보기: https://t.co/GffGRbCjwy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GffGRbCjwy",
+					"expanded_url": "https://bit.ly/3ikk7WT",
+					"display_url": "bit.ly/3ikk7WT",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278186416745312300,
+		"in_reply_to_status_id_str": "1278186416745312259",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9521,
+			"friends_count": 2912,
+			"listed_count": 249,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✚ 앨범 자세히 보기: https://t.co/GffGRbCjwy"
+	},
+	{
 		"created_at": "Wed Jul 01 05:11:42 +0000 2020",
 		"id": 1278194546321612800,
 		"id_str": "1278194546321612800",
