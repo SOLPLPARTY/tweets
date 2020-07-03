@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 09:57:07 +0000 2020",
+		"id": 1278991149504528400,
+		"id_str": "1278991149504528384",
+		"full_text": "#Melon #멜론 #멜론매거진\n'지금, 여기, 우리' 오늘을 살아가는 주문, 자우림 [HOLA!]\nhttps://t.co/DZzQxAWnTD https://t.co/KMEUE94Pdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZzQxAWnTD",
+					"expanded_url": "https://bit.ly/2BZrmmA",
+					"display_url": "bit.ly/2BZrmmA",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1278991148468633600,
+					"id_str": "1278991148468633601",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_jrFNXgAEefio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_jrFNXgAEefio.jpg",
+					"url": "https://t.co/KMEUE94Pdw",
+					"display_url": "pic.twitter.com/KMEUE94Pdw",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1278991149504528384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278991148468633600,
+					"id_str": "1278991148468633601",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_jrFNXgAEefio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_jrFNXgAEefio.jpg",
+					"url": "https://t.co/KMEUE94Pdw",
+					"display_url": "pic.twitter.com/KMEUE94Pdw",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1278991149504528384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n'지금, 여기, 우리' 오늘을 살아가는 주문, 자우림 [HOLA!]\nhttps://t.co/DZzQxAWnTD https://t.co/KMEUE94Pdw"
+	},
+	{
+		"created_at": "Fri Jul 03 09:29:43 +0000 2020",
+		"id": 1278980700851462100,
+		"id_str": "1278984256572792832",
+		"full_text": "[#자우림] 여름 미니앨범[HOLA!] 발매❣️\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패\n\n각종 음원사이트에서 들으실 수 있습니다.\n#JAURIM #HOLA! #모닝왈츠 #우리들의실패 https://t.co/oURtfD4uCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "HOLA",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "모닝왈츠",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "우리들의실패",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278980691800121300,
+					"id_str": "1278980691800121345",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"url": "https://t.co/oURtfD4uCg",
+					"display_url": "pic.twitter.com/oURtfD4uCg",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1278980700851462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278980691800121300,
+					"id_str": "1278980691800121345",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_aKbFUYAETyod.jpg",
+					"url": "https://t.co/oURtfD4uCg",
+					"display_url": "pic.twitter.com/oURtfD4uCg",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1278980700851462144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1676,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#자우림] 여름 미니앨범[HOLA!] 발매❣️\n\n&lt;track list&gt;\n1. HOLA!\n2. 모닝 왈츠\n3. 우리들의 실패\n\n각종 음원사이트에서 들으실 수 있습니다.\n#JAURIM #HOLA! #모닝왈츠 #우리들의실패 https://t.co/oURtfD4uCg"
+	},
+	{
+		"created_at": "Fri Jul 03 09:29:39 +0000 2020",
+		"id": 1278977221370077200,
+		"id_str": "1278984239300608001",
+		"full_text": "[🎵] 로시가 참여한 SBS드라마 편의점 샛별이 OST 'Part.4-잠이 오지 않는 밤에'가 7월 4일 오후 6시 전 음원사이트를 통해 공개됩니다. 많은 관심 부탁드려요~💙\n오늘 본방사수 하는것도 잊지 않는 센스😉\n\n#로시 #rothy #편의점샛별이 #OST #잠이오지않는밤에 https://t.co/btdOlJ9lbk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "rothy",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "편의점샛별이",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "잠이오지않는밤에",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278977166600884200,
+					"id_str": "1278977166600884224",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_W9OsU0AApXU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_W9OsU0AApXU1.jpg",
+					"url": "https://t.co/btdOlJ9lbk",
+					"display_url": "pic.twitter.com/btdOlJ9lbk",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1278977221370077185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278977166600884200,
+					"id_str": "1278977166600884224",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_W9OsU0AApXU1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_W9OsU0AApXU1.jpg",
+					"url": "https://t.co/btdOlJ9lbk",
+					"display_url": "pic.twitter.com/btdOlJ9lbk",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1278977221370077185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1983,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎵] 로시가 참여한 SBS드라마 편의점 샛별이 OST 'Part.4-잠이 오지 않는 밤에'가 7월 4일 오후 6시 전 음원사이트를 통해 공개됩니다. 많은 관심 부탁드려요~💙\n오늘 본방사수 하는것도 잊지 않는 센스😉\n\n#로시 #rothy #편의점샛별이 #OST #잠이오지않는밤에 https://t.co/btdOlJ9lbk"
+	},
+	{
+		"created_at": "Fri Jul 03 09:29:35 +0000 2020",
+		"id": 1278977036401258500,
+		"id_str": "1278984222120820736",
+		"full_text": "[Teaser] 혼돈균X이미뇩\n달라도 너무 다른 두 사람\n8월, 특별한 무언가가 찾아옵니다.\n(https://t.co/y5OtO9aCpu)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y5OtO9aCpu",
+					"expanded_url": "http://youtu.be/ALEbEWyCN00",
+					"display_url": "youtu.be/ALEbEWyCN00",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13128,
+			"friends_count": 1986,
+			"listed_count": 261,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser] 혼돈균X이미뇩\n달라도 너무 다른 두 사람\n8월, 특별한 무언가가 찾아옵니다.\n(https://t.co/y5OtO9aCpu)"
+	},
+	{
+		"created_at": "Fri Jul 03 09:29:30 +0000 2020",
+		"id": 1278976875881132000,
+		"id_str": "1278984200637558786",
+		"full_text": "🎬 M/V BEHIND\n\n정승환 '언제라도 어디에서라도'\n\nJung Seung Hwan \n'Whenever Wherever'\n\n✔️ https://t.co/mKcxdgeeRt\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "언제라도어디에서라도",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						116,
+						130
+					]
+				},
+				{
+					"text": "WheneverWherever",
+					"indices": [
+						131,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mKcxdgeeRt",
+					"expanded_url": "https://youtu.be/KvX0rwrR5X4",
+					"display_url": "youtu.be/KvX0rwrR5X4",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34344,
+			"friends_count": 11,
+			"listed_count": 371,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎬 M/V BEHIND\n\n정승환 '언제라도 어디에서라도'\n\nJung Seung Hwan \n'Whenever Wherever'\n\n✔️ https://t.co/mKcxdgeeRt\n\n#정승환 #언제라도어디에서라도\n#JungSeungHwan #WheneverWherever"
+	},
+	{
 		"created_at": "Fri Jul 03 09:16:11 +0000 2020",
 		"id": 1278980851183870000,
 		"id_str": "1278980851183869954",
