@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 09:41:07 +0000 2020",
+		"id": 1279349513778540500,
+		"id_str": "1279349513778540544",
+		"full_text": "#플랫폼창동61\n[플랫폼코드 콘서트] 2020 서울블루스페스티벌 : 국내외 블루스 뮤지션들이 총출동하는 블루스페스티벌 (2020년 8월 28일(금) - 8월 30일(일))\n▶ https://t.co/YVyNnsKLQq\n　\n#Platform61 #공연일정 #티켓공지 https://t.co/xjAmsKO9yV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플랫폼창동61",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Platform61",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YVyNnsKLQq",
+					"expanded_url": "https://bit.ly/2VHI7JR",
+					"display_url": "bit.ly/2VHI7JR",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279349512604188700,
+					"id_str": "1279349512604188672",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEpmnpXgAAdBm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEpmnpXgAAdBm6.jpg",
+					"url": "https://t.co/xjAmsKO9yV",
+					"display_url": "pic.twitter.com/xjAmsKO9yV",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1279349513778540544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279349512604188700,
+					"id_str": "1279349512604188672",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEpmnpXgAAdBm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEpmnpXgAAdBm6.jpg",
+					"url": "https://t.co/xjAmsKO9yV",
+					"display_url": "pic.twitter.com/xjAmsKO9yV",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1279349513778540544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#플랫폼창동61\n[플랫폼코드 콘서트] 2020 서울블루스페스티벌 : 국내외 블루스 뮤지션들이 총출동하는 블루스페스티벌 (2020년 8월 28일(금) - 8월 30일(일))\n▶ https://t.co/YVyNnsKLQq\n　\n#Platform61 #공연일정 #티켓공지 https://t.co/xjAmsKO9yV"
+	},
+	{
+		"created_at": "Sat Jul 04 09:29:30 +0000 2020",
+		"id": 1279341640801349600,
+		"id_str": "1279346587811094529",
+		"full_text": "[🎥] SBS 드라마 '편의점 샛별이' OST | 로시(Rothy) - 잠이 오지 않는 밤에  \n녹음 스케치 현장을 공개합니다! \n음원도 공개되었으니 많은 관심 부탁드려요💙\n\n🔗  https://t.co/bNNr9jqLg8\n\n#로시 #rothy #잠이오지않는밤에 #편의점샛별이 #ost #SBS https://t.co/rYDbPItRBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "rothy",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "잠이오지않는밤에",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "편의점샛별이",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "ost",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNNr9jqLg8",
+					"expanded_url": "https://youtu.be/CGDm0sj10yg",
+					"display_url": "youtu.be/CGDm0sj10yg",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279341598623465500,
+					"id_str": "1279341598623465473",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEiZ9xVAAE0iSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEiZ9xVAAE0iSN.jpg",
+					"url": "https://t.co/rYDbPItRBL",
+					"display_url": "pic.twitter.com/rYDbPItRBL",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1279341640801349632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279341598623465500,
+					"id_str": "1279341598623465473",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEiZ9xVAAE0iSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEiZ9xVAAE0iSN.jpg",
+					"url": "https://t.co/rYDbPItRBL",
+					"display_url": "pic.twitter.com/rYDbPItRBL",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1279341640801349632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1985,
+			"friends_count": 1,
+			"listed_count": 22,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥] SBS 드라마 '편의점 샛별이' OST | 로시(Rothy) - 잠이 오지 않는 밤에  \n녹음 스케치 현장을 공개합니다! \n음원도 공개되었으니 많은 관심 부탁드려요💙\n\n🔗  https://t.co/bNNr9jqLg8\n\n#로시 #rothy #잠이오지않는밤에 #편의점샛별이 #ost #SBS https://t.co/rYDbPItRBL"
+	},
+	{
+		"created_at": "Sat Jul 04 09:29:27 +0000 2020",
+		"id": 1279341548883214300,
+		"id_str": "1279346574741647360",
+		"full_text": "[#로시] SBS 드라마 편의점 샛별이 OST '잠이 오지 않는 밤에' 가 전 음원사이트에 공개 되었어요:) 💙 \n\n🎵Melon https://t.co/yrJxxUa5jr\n🎵Genie https://t.co/EY4PnlPuRR\n🎵Naver Music https://t.co/b4kvOC53Ow\n🎵Soribada https://t.co/IN6R4mpTM0\n\n#rothy #잠이오지않는밤에 #편의점샛별이 #ost https://t.co/Vc5E9IpihM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "rothy",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "잠이오지않는밤에",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "편의점샛별이",
+					"indices": [
+						216,
+						223
+					]
+				},
+				{
+					"text": "ost",
+					"indices": [
+						224,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yrJxxUa5jr",
+					"expanded_url": "http://shorturl.at/bdgzG",
+					"display_url": "shorturl.at/bdgzG",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/EY4PnlPuRR",
+					"expanded_url": "http://shorturl.at/hIN89",
+					"display_url": "shorturl.at/hIN89",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/b4kvOC53Ow",
+					"expanded_url": "http://shorturl.at/AUY35",
+					"display_url": "shorturl.at/AUY35",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/IN6R4mpTM0",
+					"expanded_url": "http://shorturl.at/fgOY4",
+					"display_url": "shorturl.at/fgOY4",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279341534911946800,
+					"id_str": "1279341534911946752",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEiWQbUYAA6TIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEiWQbUYAA6TIG.jpg",
+					"url": "https://t.co/Vc5E9IpihM",
+					"display_url": "pic.twitter.com/Vc5E9IpihM",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1279341548883214336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279341534911946800,
+					"id_str": "1279341534911946752",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EcEiWQbUYAA6TIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcEiWQbUYAA6TIG.jpg",
+					"url": "https://t.co/Vc5E9IpihM",
+					"display_url": "pic.twitter.com/Vc5E9IpihM",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1279341548883214336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1985,
+			"friends_count": 1,
+			"listed_count": 22,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#로시] SBS 드라마 편의점 샛별이 OST '잠이 오지 않는 밤에' 가 전 음원사이트에 공개 되었어요:) 💙 \n\n🎵Melon https://t.co/yrJxxUa5jr\n🎵Genie https://t.co/EY4PnlPuRR\n🎵Naver Music https://t.co/b4kvOC53Ow\n🎵Soribada https://t.co/IN6R4mpTM0\n\n#rothy #잠이오지않는밤에 #편의점샛별이 #ost https://t.co/Vc5E9IpihM"
+	},
+	{
 		"created_at": "Sat Jul 04 07:55:25 +0000 2020",
 		"id": 1279322913783656400,
 		"id_str": "1279322913783656449",
