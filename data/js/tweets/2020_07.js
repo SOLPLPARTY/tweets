@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 04:29:25 +0000 2020",
+		"id": 1279633380305277000,
+		"id_str": "1279633458004930561",
+		"full_text": "오픈되었던 펀딩 '노다지 바이닐마켓' 내일 마감됩니다 📀 \n\n모트, 레인보우노트, 랜드오브피스 참한금액의 LP &amp; 아트웍 티셔츠, 굿즈와 공연 싸인회까지 듬뿍담긴 노다지 바이닐 마켓 📀 놓치지 마세요!\n\n노다지바이닐 와디즈 GoGo 👉👉  https://t.co/TMpEtqlWew https://t.co/35eliM5nRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMpEtqlWew",
+					"expanded_url": "http://bit.ly/2zWtISz",
+					"display_url": "bit.ly/2zWtISz",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/35eliM5nRr",
+					"expanded_url": "https://www.instagram.com/p/CCPzwGklw5a/?igshid=4dctfjeicjqk",
+					"display_url": "instagram.com/p/CCPzwGklw5a/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7907,
+			"friends_count": 8457,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오픈되었던 펀딩 '노다지 바이닐마켓' 내일 마감됩니다 📀 \n\n모트, 레인보우노트, 랜드오브피스 참한금액의 LP &amp; 아트웍 티셔츠, 굿즈와 공연 싸인회까지 듬뿍담긴 노다지 바이닐 마켓 📀 놓치지 마세요!\n\n노다지바이닐 와디즈 GoGo 👉👉  https://t.co/TMpEtqlWew https://t.co/35eliM5nRr"
+	},
+	{
 		"created_at": "Sun Jul 05 03:31:48 +0000 2020",
 		"id": 1279618958035910700,
 		"id_str": "1279618958035910656",
