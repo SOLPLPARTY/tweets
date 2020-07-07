@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 05:58:15 +0000 2020",
+		"id": 1280369929275928600,
+		"id_str": "1280380589892304896",
+		"full_text": "[그린플러그드 경주 2020 1차라인업 발표 D-1]\n\n지친 마음을 어루만져줄 휴식의 공간 ‘그린플러그드 경주 2020’, 가을의 로맨틱 음악 여행을 함께 떠날 아티스트가 누군지 궁금하다면? 내일 오후 2시, 잊지마세요!\n\n📌할인티켓 정보\n양일권 90,000원, 일일권프리 60,000원 https://t.co/rTivgKgh5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280369911928287200,
+					"id_str": "1280369911928287232",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTJprWVcAA8xzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTJprWVcAA8xzb.jpg",
+					"url": "https://t.co/rTivgKgh5T",
+					"display_url": "pic.twitter.com/rTivgKgh5T",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1280369929275928576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280369911928287200,
+					"id_str": "1280369911928287232",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTJprWVcAA8xzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTJprWVcAA8xzb.jpg",
+					"url": "https://t.co/rTivgKgh5T",
+					"display_url": "pic.twitter.com/rTivgKgh5T",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1280369929275928576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280369922384687000,
+					"id_str": "1280369922384687105",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTJqSTVcAE_iHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTJqSTVcAE_iHS.jpg",
+					"url": "https://t.co/rTivgKgh5T",
+					"display_url": "pic.twitter.com/rTivgKgh5T",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1280369929275928576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11982,
+			"friends_count": 69,
+			"listed_count": 234,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1593147907",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 경주 2020 1차라인업 발표 D-1]\n\n지친 마음을 어루만져줄 휴식의 공간 ‘그린플러그드 경주 2020’, 가을의 로맨틱 음악 여행을 함께 떠날 아티스트가 누군지 궁금하다면? 내일 오후 2시, 잊지마세요!\n\n📌할인티켓 정보\n양일권 90,000원, 일일권프리 60,000원 https://t.co/rTivgKgh5T"
+	},
+	{
 		"created_at": "Tue Jul 07 05:17:24 +0000 2020",
 		"id": 1280370309183475700,
 		"id_str": "1280370309183475712",
