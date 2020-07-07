@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 09:57:09 +0000 2020",
+		"id": 1280440708512563200,
+		"id_str": "1280440708512563201",
+		"full_text": "#Melon #멜론 #멜론매거진\n어쩌면 지금 이게 사랑인가 보다, 유승우 '걸을까'\nhttps://t.co/hWBS7evTHv https://t.co/nYaU6eSYbT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWBS7evTHv",
+					"expanded_url": "https://bit.ly/2O3fUJm",
+					"display_url": "bit.ly/2O3fUJm",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280440707363287000,
+					"id_str": "1280440707363287042",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUKCg5WsAIjrUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUKCg5WsAIjrUW.jpg",
+					"url": "https://t.co/nYaU6eSYbT",
+					"display_url": "pic.twitter.com/nYaU6eSYbT",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1280440708512563201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280440707363287000,
+					"id_str": "1280440707363287042",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUKCg5WsAIjrUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUKCg5WsAIjrUW.jpg",
+					"url": "https://t.co/nYaU6eSYbT",
+					"display_url": "pic.twitter.com/nYaU6eSYbT",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1280440708512563201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n어쩌면 지금 이게 사랑인가 보다, 유승우 '걸을까'\nhttps://t.co/hWBS7evTHv https://t.co/nYaU6eSYbT"
+	},
+	{
+		"created_at": "Tue Jul 07 09:29:34 +0000 2020",
+		"id": 1280426331180691500,
+		"id_str": "1280433769648963584",
+		"full_text": "[Teaser]\n⠀\nWH3N(웬) 'into your arms' D-1\n📽 https://t.co/sIURYCo5YO \n𝟐𝟎𝟐𝟎. 𝟎𝟕. 𝟎𝟖 𝟔𝐏𝐌 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 ⏳\n\n#WH3N #웬 #into_your_arms\n#쇼파르뮤직 #ShofarMusic https://t.co/EtDr9ih5Dh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						101,
+						103
+					]
+				},
+				{
+					"text": "into_your_arms",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sIURYCo5YO",
+					"expanded_url": "http://youtu.be/-kl0qC67eAI",
+					"display_url": "youtu.be/-kl0qC67eAI",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280413378779902000,
+					"id_str": "1280413378779901952",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTxLx_VcAArI8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTxLx_VcAArI8_.jpg",
+					"url": "https://t.co/EtDr9ih5Dh",
+					"display_url": "pic.twitter.com/EtDr9ih5Dh",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1280426331180691462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280413378779902000,
+					"id_str": "1280413378779901952",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EcTxLx_VcAArI8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcTxLx_VcAArI8_.jpg",
+					"url": "https://t.co/EtDr9ih5Dh",
+					"display_url": "pic.twitter.com/EtDr9ih5Dh",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1280426331180691462/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8051,
+			"friends_count": 5,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1594106279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Teaser]\n⠀\nWH3N(웬) 'into your arms' D-1\n📽 https://t.co/sIURYCo5YO \n𝟐𝟎𝟐𝟎. 𝟎𝟕. 𝟎𝟖 𝟔𝐏𝐌 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 ⏳\n\n#WH3N #웬 #into_your_arms\n#쇼파르뮤직 #ShofarMusic https://t.co/EtDr9ih5Dh"
+	},
+	{
 		"created_at": "Tue Jul 07 09:08:47 +0000 2020",
 		"id": 1280428539448352800,
 		"id_str": "1280428539448352769",
