@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 08:13:47 +0000 2020",
+		"id": 1280683019695566800,
+		"id_str": "1281139472210395137",
+		"full_text": "[#레벨업 아슬한 프로젝트]\n\n#레드벨벳 의 첫 유닛 아이린&amp;슬기!\n둘만의 아슬한 케미를 담은 '아슬한 프로젝트'가 시작된다!\n\n오늘 드디어 첫 방송!\n👉https://t.co/x5O3VhDX1d\n\n매주 수요일 오전 11시 wavve에서!!😍\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레벨업",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "아슬한프로젝트",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x5O3VhDX1d",
+					"expanded_url": "http://bitly.kr/EwbeIK7dj0R",
+					"display_url": "bitly.kr/EwbeIK7dj0R",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8179,
+			"friends_count": 0,
+			"listed_count": 26,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 1206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레벨업 아슬한 프로젝트]\n\n#레드벨벳 의 첫 유닛 아이린&amp;슬기!\n둘만의 아슬한 케미를 담은 '아슬한 프로젝트'가 시작된다!\n\n오늘 드디어 첫 방송!\n👉https://t.co/x5O3VhDX1d\n\n매주 수요일 오전 11시 wavve에서!!😍\n\n#아이린 #슬기 #RedVelvet #IRENE #SEULGI #아슬한프로젝트 #SMCC_STUDIO"
+	},
+	{
 		"created_at": "Thu Jul 09 06:59:32 +0000 2020",
 		"id": 1281120786502373400,
 		"id_str": "1281120786502373377",
