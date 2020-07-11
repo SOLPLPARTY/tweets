@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 08:29:25 +0000 2020",
+		"id": 1281857453118730200,
+		"id_str": "1281868183142531072",
+		"full_text": "[공연]\n솔루션스 콘서트 ‘LOADING’\n\n검역/티켓/민트샵 17:00\n입장 줄 서기 18:20\n공연장 입장 18:30\n공연 시작 19:00\n\n✅체온 측정 및 문진표 작성 후 채워드리는 손목 밴드와 실물 티켓을 모두 소지하셔야 입장이 가능합니다.\n\n✅소량의 좌석 현장 판매를 진행합니다. https://t.co/V7l2cy4xbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281857430893195300,
+					"id_str": "1281857430893195265",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EcoSirUVcAEKBYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcoSirUVcAEKBYu.jpg",
+					"url": "https://t.co/V7l2cy4xbl",
+					"display_url": "pic.twitter.com/V7l2cy4xbl",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1281857453118730241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281857430893195300,
+					"id_str": "1281857430893195265",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EcoSirUVcAEKBYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcoSirUVcAEKBYu.jpg",
+					"url": "https://t.co/V7l2cy4xbl",
+					"display_url": "pic.twitter.com/V7l2cy4xbl",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1281857453118730241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13122,
+			"friends_count": 1984,
+			"listed_count": 261,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연]\n솔루션스 콘서트 ‘LOADING’\n\n검역/티켓/민트샵 17:00\n입장 줄 서기 18:20\n공연장 입장 18:30\n공연 시작 19:00\n\n✅체온 측정 및 문진표 작성 후 채워드리는 손목 밴드와 실물 티켓을 모두 소지하셔야 입장이 가능합니다.\n\n✅소량의 좌석 현장 판매를 진행합니다. https://t.co/V7l2cy4xbl"
+	},
+	{
 		"created_at": "Sat Jul 11 06:59:32 +0000 2020",
 		"id": 1281845563928051700,
 		"id_str": "1281845563928051714",
