@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 10:41:38 +0000 2020",
+		"id": 1281894801688768500,
+		"id_str": "1281901455356682241",
+		"full_text": "[신보추천]\n\n'라피나 앤 캐비'의 데뷔 앨범 [안개꽃]이 발매되었습니다!🤩\n8-90년대가 생각나는 신스사운드, 리듬 머신을 통한 레트로한 느낌, 수려한 톤과 이펙트는 칠웨이브를 연상시키는데요.\n차분하고 편안한 초여름 저녁, 들을 음악을 찾고 계셨다면 주목해보세요✨\n\nMV👉https://t.co/YrLuDxfJWy https://t.co/4LwjOVIejw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YrLuDxfJWy",
+					"expanded_url": "http://reurl.kr/2C790050ZJ",
+					"display_url": "reurl.kr/2C790050ZJ",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281894666787414000,
+					"id_str": "1281894666787414016",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco0aF1U4AABND7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco0aF1U4AABND7.jpg",
+					"url": "https://t.co/4LwjOVIejw",
+					"display_url": "pic.twitter.com/4LwjOVIejw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1281894801688768513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 971,
+							"h": 971,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 971,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281894666787414000,
+					"id_str": "1281894666787414016",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco0aF1U4AABND7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco0aF1U4AABND7.jpg",
+					"url": "https://t.co/4LwjOVIejw",
+					"display_url": "pic.twitter.com/4LwjOVIejw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1281894801688768513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 971,
+							"h": 971,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 971,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281894698919932000,
+					"id_str": "1281894698919931904",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco0b9iUMAAoKqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco0b9iUMAAoKqV.jpg",
+					"url": "https://t.co/4LwjOVIejw",
+					"display_url": "pic.twitter.com/4LwjOVIejw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1281894801688768513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 559,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796,
+			"friends_count": 2713,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신보추천]\n\n'라피나 앤 캐비'의 데뷔 앨범 [안개꽃]이 발매되었습니다!🤩\n8-90년대가 생각나는 신스사운드, 리듬 머신을 통한 레트로한 느낌, 수려한 톤과 이펙트는 칠웨이브를 연상시키는데요.\n차분하고 편안한 초여름 저녁, 들을 음악을 찾고 계셨다면 주목해보세요✨\n\nMV👉https://t.co/YrLuDxfJWy https://t.co/4LwjOVIejw"
+	},
+	{
 		"created_at": "Sat Jul 11 08:29:25 +0000 2020",
 		"id": 1281857453118730200,
 		"id_str": "1281868183142531072",
