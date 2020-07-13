@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 00:41:38 +0000 2020",
+		"id": 1282462751265157000,
+		"id_str": "1282475237507031040",
+		"full_text": "FF  is REOPENING !!\n\n2020/07/17 FRI !!!\n\n#clubff #엪엪 #ff #재오픈 #reopening #에프에프 #클럽ff https://t.co/Rj0OQDzYN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubff",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "엪엪",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "ff",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "재오픈",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "reopening",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "에프에프",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "클럽ff",
+					"indices": [
+						79,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282462741660184600,
+					"id_str": "1282462741660184577",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecw5EZpUMAEP4TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecw5EZpUMAEP4TI.jpg",
+					"url": "https://t.co/Rj0OQDzYN3",
+					"display_url": "pic.twitter.com/Rj0OQDzYN3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1282462751265157120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282462741660184600,
+					"id_str": "1282462741660184577",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecw5EZpUMAEP4TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecw5EZpUMAEP4TI.jpg",
+					"url": "https://t.co/Rj0OQDzYN3",
+					"display_url": "pic.twitter.com/Rj0OQDzYN3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1282462751265157120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6387,
+			"friends_count": 7,
+			"listed_count": 80,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FF  is REOPENING !!\n\n2020/07/17 FRI !!!\n\n#clubff #엪엪 #ff #재오픈 #reopening #에프에프 #클럽ff https://t.co/Rj0OQDzYN3"
+	},
+	{
 		"created_at": "Sun Jul 12 16:29:29 +0000 2020",
 		"id": 1282344068022857700,
 		"id_str": "1282351383770013696",
