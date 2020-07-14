@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 12:06:27 +0000 2020",
+		"id": 1283009966069231600,
+		"id_str": "1283009966069231617",
+		"full_text": "#미스틱엔터테인먼트 #MYSTIC\n미스틱 김수현\nhttps://t.co/RIy2ZJTMCk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MYSTIC",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RIy2ZJTMCk",
+					"expanded_url": "https://youtu.be/hvlSAE5248g",
+					"display_url": "youtu.be/hvlSAE5248g",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미스틱엔터테인먼트 #MYSTIC\n미스틱 김수현\nhttps://t.co/RIy2ZJTMCk"
+	},
+	{
+		"created_at": "Tue Jul 14 11:29:27 +0000 2020",
+		"id": 1282998624314486800,
+		"id_str": "1283000653393137664",
+		"full_text": "[#노수산나] 흥이 넘쳐났던 KBS2 월화드라마 '그놈이 그놈이다' 티저 촬영 현장 비하인드가 공개되었습니다!\n▶️https://t.co/UeZwnKuR2P\n\n#KBS2 #월화드라마 #그놈이그놈이다 #오영은 https://t.co/iIA4hT9YtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노수산나",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "월화드라마",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "그놈이그놈이다",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "오영은",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UeZwnKuR2P",
+					"expanded_url": "http://naver.me/xLvhVW6E",
+					"display_url": "naver.me/xLvhVW6E",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282998617347780600,
+					"id_str": "1282998617347780610",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec4gceJU8AIzbG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec4gceJU8AIzbG6.jpg",
+					"url": "https://t.co/iIA4hT9YtT",
+					"display_url": "pic.twitter.com/iIA4hT9YtT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1282998624314486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282998617347780600,
+					"id_str": "1282998617347780610",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec4gceJU8AIzbG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec4gceJU8AIzbG6.jpg",
+					"url": "https://t.co/iIA4hT9YtT",
+					"display_url": "pic.twitter.com/iIA4hT9YtT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1282998624314486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1282998617347723300,
+					"id_str": "1282998617347723267",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec4gceJUEAMvUBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec4gceJUEAMvUBa.jpg",
+					"url": "https://t.co/iIA4hT9YtT",
+					"display_url": "pic.twitter.com/iIA4hT9YtT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1282998624314486785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19761,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#노수산나] 흥이 넘쳐났던 KBS2 월화드라마 '그놈이 그놈이다' 티저 촬영 현장 비하인드가 공개되었습니다!\n▶️https://t.co/UeZwnKuR2P\n\n#KBS2 #월화드라마 #그놈이그놈이다 #오영은 https://t.co/iIA4hT9YtT"
+	},
+	{
 		"created_at": "Tue Jul 14 11:16:12 +0000 2020",
 		"id": 1282997320825606100,
 		"id_str": "1282997320825606144",
