@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 05:29:25 +0000 2020",
+		"id": 1282904460759457800,
+		"id_str": "1282910048394645505",
+		"full_text": "#라피나앤캐비\n\n[레이블픽] [라피나 앤 캐비]  각자만의 예술 세계를 지니고 있는 다재다능한 아티스트, 라피나 앤 캐비\n이번 앨범 ‘안개꽃’을 주제로 일러스트를 그리는 라피나가 삽화를, 글을 쓰는 캐비가 이에 어울리는 글을 쓰기로 했답니다.\n-\n자세한 내용보기-&gt; https://t.co/6eUORp6Hap https://t.co/cURYzHCEaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라피나앤캐비",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eUORp6Hap",
+					"expanded_url": "https://bit.ly/30e5KeS",
+					"display_url": "bit.ly/30e5KeS",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282904413095354400,
+					"id_str": "1282904413095354368",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3KxD9UYAAI1Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3KxD9UYAAI1Zu.jpg",
+					"url": "https://t.co/cURYzHCEaL",
+					"display_url": "pic.twitter.com/cURYzHCEaL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1282904460759457793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282904413095354400,
+					"id_str": "1282904413095354368",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec3KxD9UYAAI1Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec3KxD9UYAAI1Zu.jpg",
+					"url": "https://t.co/cURYzHCEaL",
+					"display_url": "pic.twitter.com/cURYzHCEaL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1282904460759457793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7908,
+			"friends_count": 8452,
+			"listed_count": 203,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라피나앤캐비\n\n[레이블픽] [라피나 앤 캐비]  각자만의 예술 세계를 지니고 있는 다재다능한 아티스트, 라피나 앤 캐비\n이번 앨범 ‘안개꽃’을 주제로 일러스트를 그리는 라피나가 삽화를, 글을 쓰는 캐비가 이에 어울리는 글을 쓰기로 했답니다.\n-\n자세한 내용보기-&gt; https://t.co/6eUORp6Hap https://t.co/cURYzHCEaL"
+	},
+	{
 		"created_at": "Tue Jul 14 05:13:00 +0000 2020",
 		"id": 1282905915239391200,
 		"id_str": "1282905915239391232",
