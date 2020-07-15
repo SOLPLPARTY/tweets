@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 01:58:19 +0000 2020",
+		"id": 1283204851753562000,
+		"id_str": "1283219311134416896",
+		"full_text": "KLOOK, 트레이지 예매자 분들의 경우 이메일을 통하여 환불 관련 절차를 안내 받으실 수 있으며, 하나티켓, 위메프, 인터파크 예매자 분들께는 문자 메시지로 안내될 예정이오니 확인하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283204777518620700,
+		"in_reply_to_status_id_str": "1283204777518620673",
+		"in_reply_to_user_id": 1068591308514578400,
+		"in_reply_to_user_id_str": "1068591308514578432",
+		"in_reply_to_screen_name": "EDC__Korea",
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\n#EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 9,
+			"listed_count": 2,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1594774949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "KLOOK, 트레이지 예매자 분들의 경우 이메일을 통하여 환불 관련 절차를 안내 받으실 수 있으며, 하나티켓, 위메프, 인터파크 예매자 분들께는 문자 메시지로 안내될 예정이오니 확인하여 주시기 바랍니다."
+	},
+	{
+		"created_at": "Wed Jul 15 01:58:16 +0000 2020",
+		"id": 1283204777518620700,
+		"id_str": "1283219297997815810",
+		"full_text": "EDC Korea 2020 행사가 2021년으로 연기되어 안내 드립니다.\n하나티켓, 트레이지, 위메프 예매자 분들의 경우, 티켓을 2021년도까지 유지하실 경우 추가적인 혜택들을 받으실 수 있습니다.\n내년에 참여하기 어렵거나, KLOOK, 인터파크에서 예매하신 경우, 전액 환불됨을 알려드립니다. https://t.co/m9TbUIKUZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283202027133132800,
+					"id_str": "1283202027133132805",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec7ZcepU4AUfL_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec7ZcepU4AUfL_Q.jpg",
+					"url": "https://t.co/m9TbUIKUZk",
+					"display_url": "pic.twitter.com/m9TbUIKUZk",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1283204777518620673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283202027133132800,
+					"id_str": "1283202027133132805",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec7ZcepU4AUfL_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec7ZcepU4AUfL_Q.jpg",
+					"url": "https://t.co/m9TbUIKUZk",
+					"display_url": "pic.twitter.com/m9TbUIKUZk",
+					"expanded_url": "https://twitter.com/EDC__Korea/status/1283204777518620673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068591308514578400,
+			"id_str": "1068591308514578432",
+			"name": "EDC Korea",
+			"screen_name": "EDC__Korea",
+			"location": "Republic of Korea",
+			"description": "The official account of Electric Daisy Carnival Korea 🌼🎉\n#EDCKorea",
+			"url": "https://t.co/4K2ETs4Xeo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4K2ETs4Xeo",
+							"expanded_url": "http://korea.electricdaisycarnival.com",
+							"display_url": "korea.electricdaisycarnival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 9,
+			"listed_count": 2,
+			"created_at": "Fri Nov 30 19:43:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216526008884416513/89LzFV27_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068591308514578432/1594774949",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EDC Korea 2020 행사가 2021년으로 연기되어 안내 드립니다.\n하나티켓, 트레이지, 위메프 예매자 분들의 경우, 티켓을 2021년도까지 유지하실 경우 추가적인 혜택들을 받으실 수 있습니다.\n내년에 참여하기 어렵거나, KLOOK, 인터파크에서 예매하신 경우, 전액 환불됨을 알려드립니다. https://t.co/m9TbUIKUZk"
+	},
+	{
 		"created_at": "Wed Jul 15 00:48:12 +0000 2020",
 		"id": 1283201664372146200,
 		"id_str": "1283201664372146176",
