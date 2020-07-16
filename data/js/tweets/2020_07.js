@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 16 03:11:55 +0000 2020",
+		"id": 1283600221117788200,
+		"id_str": "1283600221117788162",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n7월 16일 | Deadbuttons, 느티\nhttps://t.co/HgKsf7tR0h\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HgKsf7tR0h",
+					"expanded_url": "https://bit.ly/3j3Oem9",
+					"display_url": "bit.ly/3j3Oem9",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n7월 16일 | Deadbuttons, 느티\nhttps://t.co/HgKsf7tR0h\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Thu Jul 16 03:01:09 +0000 2020",
+		"id": 1283597512159514600,
+		"id_str": "1283597512159514624",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Jul 16) https://t.co/mFuVF920Iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mFuVF920Iz",
+					"expanded_url": "https://nzzl.us/zlLipJm",
+					"display_url": "nzzl.us/zlLipJm",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Jul 16) https://t.co/mFuVF920Iz"
+	},
+	{
+		"created_at": "Thu Jul 16 02:41:38 +0000 2020",
+		"id": 1283588351333765000,
+		"id_str": "1283592599320899590",
+		"full_text": "상상마당_#라운지프로젝트 12\n'스무살, 날개가 돋아날 때'\n&lt;#마당을나온암탉&gt; 20주년 기념 #전시\n\n🟡기간 : 7월 11일(토) ~ 30일(목)\n🟡시간 : 11시30분 ~ 20시30분 (휴관일 없음)\n🟡장소 : KT&amp;G 상상마당 홍대 라운지(3F)\n🟡구성 : 도서 및 굿즈 판매(*홈페이지 참고 https://t.co/Gy6RIR32N1 ) https://t.co/id2YRW4aWC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마당을나온암탉",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "전시",
+					"indices": [
+						59,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gy6RIR32N1",
+					"expanded_url": "http://bit.ly/2ZuX3xw",
+					"display_url": "bit.ly/2ZuX3xw",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283588346489397200,
+					"id_str": "1283588346489397248",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EdA4zOZU4AA62Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdA4zOZU4AA62Va.jpg",
+					"url": "https://t.co/id2YRW4aWC",
+					"display_url": "pic.twitter.com/id2YRW4aWC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1283588351333765121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283588346489397200,
+					"id_str": "1283588346489397248",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EdA4zOZU4AA62Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdA4zOZU4AA62Va.jpg",
+					"url": "https://t.co/id2YRW4aWC",
+					"display_url": "pic.twitter.com/id2YRW4aWC",
+					"expanded_url": "https://twitter.com/SSmadang/status/1283588351333765121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18279,
+			"friends_count": 1935,
+			"listed_count": 294,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상상마당_#라운지프로젝트 12\n'스무살, 날개가 돋아날 때'\n&lt;#마당을나온암탉&gt; 20주년 기념 #전시\n\n🟡기간 : 7월 11일(토) ~ 30일(목)\n🟡시간 : 11시30분 ~ 20시30분 (휴관일 없음)\n🟡장소 : KT&amp;G 상상마당 홍대 라운지(3F)\n🟡구성 : 도서 및 굿즈 판매(*홈페이지 참고 https://t.co/Gy6RIR32N1 ) https://t.co/id2YRW4aWC"
+	},
+	{
+		"created_at": "Thu Jul 16 02:29:31 +0000 2020",
+		"id": 1283588332291686400,
+		"id_str": "1283589549214633987",
+		"full_text": "Balenciaga's Fall/Winter 2020 Campaign https://t.co/ZzIbtNnVRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283588216201769000,
+					"id_str": "1283588216201768961",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EdA4rpCVcAEIf0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdA4rpCVcAEIf0v.jpg",
+					"url": "https://t.co/ZzIbtNnVRp",
+					"display_url": "pic.twitter.com/ZzIbtNnVRp",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1283588332291686401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283588216201769000,
+					"id_str": "1283588216201768961",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EdA4rpCVcAEIf0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdA4rpCVcAEIf0v.jpg",
+					"url": "https://t.co/ZzIbtNnVRp",
+					"display_url": "pic.twitter.com/ZzIbtNnVRp",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1283588332291686401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1283588244248998000,
+					"id_str": "1283588244248997888",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EdA4tRhUMAA4u3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdA4tRhUMAA4u3n.jpg",
+					"url": "https://t.co/ZzIbtNnVRp",
+					"display_url": "pic.twitter.com/ZzIbtNnVRp",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1283588332291686401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3500,
+			"friends_count": 5,
+			"listed_count": 81,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Balenciaga's Fall/Winter 2020 Campaign https://t.co/ZzIbtNnVRp"
+	},
+	{
 		"created_at": "Thu Jul 16 02:11:46 +0000 2020",
 		"id": 1283585085913149400,
 		"id_str": "1283585085913149443",
