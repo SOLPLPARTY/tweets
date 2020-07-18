@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 04:29:25 +0000 2020",
+		"id": 1284343847405752300,
+		"id_str": "1284344499251163142",
+		"full_text": "배인혁x우주히피 &lt;최악의 커플&gt; 🎤🎸❤️ 곧 연희예술극장에서 만나요!\n-\n•티켓부스 오픈 / 손소독 및 온도체크 : 공연 1시간 전\n•관객 입장 : 공연 30분 전\n•티켓 현장구매 가능합니다.\n-\n#우주히피 #배인혁 #최악의커플 https://t.co/9Y3IScSil5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주히피",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "배인혁",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "최악의커플",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284343804468686800,
+					"id_str": "1284343804468686848",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLn4qrUcAA1WW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLn4qrUcAA1WW8.jpg",
+					"url": "https://t.co/9Y3IScSil5",
+					"display_url": "pic.twitter.com/9Y3IScSil5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1284343847405752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284343804468686800,
+					"id_str": "1284343804468686848",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLn4qrUcAA1WW8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLn4qrUcAA1WW8.jpg",
+					"url": "https://t.co/9Y3IScSil5",
+					"display_url": "pic.twitter.com/9Y3IScSil5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1284343847405752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284343804477108200,
+					"id_str": "1284343804477108224",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLn4qtU8AAqRXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLn4qtU8AAqRXy.jpg",
+					"url": "https://t.co/9Y3IScSil5",
+					"display_url": "pic.twitter.com/9Y3IScSil5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1284343847405752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284343804472856600,
+					"id_str": "1284343804472856579",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLn4qsUEAMVotc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLn4qsUEAMVotc.jpg",
+					"url": "https://t.co/9Y3IScSil5",
+					"display_url": "pic.twitter.com/9Y3IScSil5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1284343847405752320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1821,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배인혁x우주히피 &lt;최악의 커플&gt; 🎤🎸❤️ 곧 연희예술극장에서 만나요!\n-\n•티켓부스 오픈 / 손소독 및 온도체크 : 공연 1시간 전\n•관객 입장 : 공연 30분 전\n•티켓 현장구매 가능합니다.\n-\n#우주히피 #배인혁 #최악의커플 https://t.co/9Y3IScSil5"
+	},
+	{
 		"created_at": "Sat Jul 18 03:58:15 +0000 2020",
 		"id": 1284322810299510800,
 		"id_str": "1284336658746413057",
