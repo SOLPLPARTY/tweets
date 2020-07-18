@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 03:58:15 +0000 2020",
+		"id": 1284322810299510800,
+		"id_str": "1284336658746413057",
+		"full_text": "☮#내년에봐피스트레인_인증샷_이벤트\n7.18-19 이번 주말, 돌아온 철원 가서 철업(Cheer Up)! 그리운 고석정을 추억해보세요 ... ✨\n피스트레인에서 ‘눈부신 평화와 만났던 순간’\n\n※ 본 이벤트는 인스타그램에서만 진행되는 이벤트입니다. https://t.co/C2KMFMWO34",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내년에봐피스트레인_인증샷_이벤트",
+					"indices": [
+						1,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284322787818000400,
+					"id_str": "1284322787818000385",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLUxVjU0AEKu4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLUxVjU0AEKu4U.jpg",
+					"url": "https://t.co/C2KMFMWO34",
+					"display_url": "pic.twitter.com/C2KMFMWO34",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1284322810299510784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284322787818000400,
+					"id_str": "1284322787818000385",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLUxVjU0AEKu4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLUxVjU0AEKu4U.jpg",
+					"url": "https://t.co/C2KMFMWO34",
+					"display_url": "pic.twitter.com/C2KMFMWO34",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1284322810299510784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284322787830558700,
+					"id_str": "1284322787830558720",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLUxVmUcAABe4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLUxVmUcAABe4c.jpg",
+					"url": "https://t.co/C2KMFMWO34",
+					"display_url": "pic.twitter.com/C2KMFMWO34",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1284322810299510784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284322787822145500,
+					"id_str": "1284322787822145536",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLUxVkUEAAKRfU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLUxVkUEAAKRfU.jpg",
+					"url": "https://t.co/C2KMFMWO34",
+					"display_url": "pic.twitter.com/C2KMFMWO34",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1284322810299510784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1284322787830591500,
+					"id_str": "1284322787830591488",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EdLUxVmU8AA8Wr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdLUxVmU8AA8Wr3.jpg",
+					"url": "https://t.co/C2KMFMWO34",
+					"display_url": "pic.twitter.com/C2KMFMWO34",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1284322810299510784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☮#내년에봐피스트레인_인증샷_이벤트\n7.18-19 이번 주말, 돌아온 철원 가서 철업(Cheer Up)! 그리운 고석정을 추억해보세요 ... ✨\n피스트레인에서 ‘눈부신 평화와 만났던 순간’\n\n※ 본 이벤트는 인스타그램에서만 진행되는 이벤트입니다. https://t.co/C2KMFMWO34"
+	},
+	{
 		"created_at": "Sat Jul 18 03:18:22 +0000 2020",
 		"id": 1284326620669579300,
 		"id_str": "1284326620669579269",
