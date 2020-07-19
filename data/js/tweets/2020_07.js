@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 16:29:37 +0000 2020",
+		"id": 1284878446615658500,
+		"id_str": "1284888133633540114",
+		"full_text": "🎤 정승환의 호소력 짙은 목소리로 재해석한 '눈,코,입'♪ https://t.co/PFwAONdMaC\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFwAONdMaC",
+					"expanded_url": "http://naver.me/GmaYTCE2",
+					"display_url": "naver.me/GmaYTCE2",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34419,
+			"friends_count": 11,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤 정승환의 호소력 짙은 목소리로 재해석한 '눈,코,입'♪ https://t.co/PFwAONdMaC\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아"
+	},
+	{
+		"created_at": "Sun Jul 19 16:29:28 +0000 2020",
+		"id": 1284878369079718000,
+		"id_str": "1284888095381389312",
+		"full_text": "🎤 애절함으로 전국민 홀린 \n정승환의 첫인상 같은 곡 '사랑에 빠지고 싶다'♪ \nhttps://t.co/tVlYWCqYym\n\n🎤 듣는 순간 고막 꽃길 예약🌼 \n비긴어게인 코리아 팀 '꽃길만 걷게 해줄게'♩\nhttps://t.co/OLXWzkYhP9\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tVlYWCqYym",
+					"expanded_url": "http://naver.me/FLSg7uhq",
+					"display_url": "naver.me/FLSg7uhq",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/OLXWzkYhP9",
+					"expanded_url": "http://naver.me/FwwUEV7x",
+					"display_url": "naver.me/FwwUEV7x",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34419,
+			"friends_count": 11,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤 애절함으로 전국민 홀린 \n정승환의 첫인상 같은 곡 '사랑에 빠지고 싶다'♪ \nhttps://t.co/tVlYWCqYym\n\n🎤 듣는 순간 고막 꽃길 예약🌼 \n비긴어게인 코리아 팀 '꽃길만 걷게 해줄게'♩\nhttps://t.co/OLXWzkYhP9\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아"
+	},
+	{
 		"created_at": "Sun Jul 19 15:16:13 +0000 2020",
 		"id": 1284869662040305700,
 		"id_str": "1284869662040305666",
