@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 03:29:39 +0000 2020",
+		"id": 1285052522806145000,
+		"id_str": "1285054237127380993",
+		"full_text": "[#하림] 지금 이 시간, 하림이 건네는 위로 한 줌. 소향과 함께한 비긴어게인 송도해변🏖 버스킹🎹버전 I'll Be There 발매!\n\n각 음원사이트🎧를 통해 지금 바로 확인하세요☑️\n\n#JTBC #비긴어게인 #소향 #IllBeThere #버스킹 https://t.co/6AyuM8lXLH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하림",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "소향",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "IllBeThere",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "버스킹",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285052464807293000,
+					"id_str": "1285052464807292929",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVsaIKUMAED7Om.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVsaIKUMAED7Om.jpg",
+					"url": "https://t.co/6AyuM8lXLH",
+					"display_url": "pic.twitter.com/6AyuM8lXLH",
+					"expanded_url": "https://twitter.com/themysticstory/status/1285052522806145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285052464807293000,
+					"id_str": "1285052464807292929",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVsaIKUMAED7Om.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVsaIKUMAED7Om.jpg",
+					"url": "https://t.co/6AyuM8lXLH",
+					"display_url": "pic.twitter.com/6AyuM8lXLH",
+					"expanded_url": "https://twitter.com/themysticstory/status/1285052522806145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19730,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하림] 지금 이 시간, 하림이 건네는 위로 한 줌. 소향과 함께한 비긴어게인 송도해변🏖 버스킹🎹버전 I'll Be There 발매!\n\n각 음원사이트🎧를 통해 지금 바로 확인하세요☑️\n\n#JTBC #비긴어게인 #소향 #IllBeThere #버스킹 https://t.co/6AyuM8lXLH"
+	},
+	{
+		"created_at": "Mon Jul 20 03:29:37 +0000 2020",
+		"id": 1285047412852052000,
+		"id_str": "1285054228281675777",
+		"full_text": "[Release]\n\nJTBC '비긴어게인 코리아' Episode.7 \n소향, #정승환 - 'My Heart Will Go On'\n\nMelon https://t.co/yFTFK62y4E\nGenie https://t.co/D3cqhc9Iir\nBugs https://t.co/3oOqLNvude\n\n전 온라인 음원 사이트에서 감상하실 수 있습니다.\n\n#정승환 #JungSeungHwan \n#비긴어게인 #비긴어게인코리아 https://t.co/gl2JzwtyPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yFTFK62y4E",
+					"expanded_url": "https://bit.ly/3eRyJuh",
+					"display_url": "bit.ly/3eRyJuh",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/D3cqhc9Iir",
+					"expanded_url": "https://bit.ly/30w3Mql",
+					"display_url": "bit.ly/30w3Mql",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/3oOqLNvude",
+					"expanded_url": "https://bit.ly/30r5ucv",
+					"display_url": "bit.ly/30r5ucv",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285047403351961600,
+					"id_str": "1285047403351961602",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVnzgxU8AIkzdR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVnzgxU8AIkzdR.jpg",
+					"url": "https://t.co/gl2JzwtyPY",
+					"display_url": "pic.twitter.com/gl2JzwtyPY",
+					"expanded_url": "https://twitter.com/antennamusic/status/1285047412852051968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285047403351961600,
+					"id_str": "1285047403351961602",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVnzgxU8AIkzdR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVnzgxU8AIkzdR.jpg",
+					"url": "https://t.co/gl2JzwtyPY",
+					"display_url": "pic.twitter.com/gl2JzwtyPY",
+					"expanded_url": "https://twitter.com/antennamusic/status/1285047412852051968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol _ Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34423,
+			"friends_count": 11,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\nJTBC '비긴어게인 코리아' Episode.7 \n소향, #정승환 - 'My Heart Will Go On'\n\nMelon https://t.co/yFTFK62y4E\nGenie https://t.co/D3cqhc9Iir\nBugs https://t.co/3oOqLNvude\n\n전 온라인 음원 사이트에서 감상하실 수 있습니다.\n\n#정승환 #JungSeungHwan \n#비긴어게인 #비긴어게인코리아 https://t.co/gl2JzwtyPY"
+	},
+	{
+		"created_at": "Mon Jul 20 03:29:34 +0000 2020",
+		"id": 1285044747808063500,
+		"id_str": "1285054215166074880",
+		"full_text": "이번 EP의 프로듀서인 Theo Verney와 앨범커버 디자인을 맡은 Storm Studios의 작업기/코멘트를 모레코즈 네이버 포스트에서 확인하실 수 있습니다.\n\nhttps://t.co/SnN54xuS5L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SnN54xuS5L",
+					"expanded_url": "https://post.naver.com/viewer/postView.nhn?volumeNo=28821374&memberNo=46869193",
+					"display_url": "post.naver.com/viewer/postVie…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285044241186517000,
+		"in_reply_to_status_id_str": "1285044241186516993",
+		"in_reply_to_user_id": 892616925859020800,
+		"in_reply_to_user_id_str": "892616925859020800",
+		"in_reply_to_screen_name": "Beeline_Records",
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 EP의 프로듀서인 Theo Verney와 앨범커버 디자인을 맡은 Storm Studios의 작업기/코멘트를 모레코즈 네이버 포스트에서 확인하실 수 있습니다.\n\nhttps://t.co/SnN54xuS5L"
+	},
+	{
+		"created_at": "Mon Jul 20 03:29:29 +0000 2020",
+		"id": 1285044241186517000,
+		"id_str": "1285054193728917505",
+		"full_text": "[New Release]\n\nYouth Sector의 EP [Mundanity]가 발매되었습니다. 각종 스트리밍 사이트에서 감상하실 수 있습니다.\n\n멜론 https://t.co/rTsopFnyO2\n지니 https://t.co/m5bJlkIjYK\nFLO https://t.co/VXhovVQCP3\n벅스 https://t.co/XEfjFZLNQi\nVIBE https://t.co/CL7W6eZiCT https://t.co/LaRXcPijOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rTsopFnyO2",
+					"expanded_url": "https://bit.ly/32qosCx",
+					"display_url": "bit.ly/32qosCx",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/m5bJlkIjYK",
+					"expanded_url": "https://bit.ly/3eBa0Kt",
+					"display_url": "bit.ly/3eBa0Kt",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/VXhovVQCP3",
+					"expanded_url": "https://bit.ly/2ZB2cnB",
+					"display_url": "bit.ly/2ZB2cnB",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/XEfjFZLNQi",
+					"expanded_url": "https://bit.ly/398O8F1",
+					"display_url": "bit.ly/398O8F1",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/CL7W6eZiCT",
+					"expanded_url": "https://bit.ly/2WzeTxe",
+					"display_url": "bit.ly/2WzeTxe",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285043529773805600,
+					"id_str": "1285043529773805568",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVkSCkU8AApfgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVkSCkU8AApfgL.jpg",
+					"url": "https://t.co/LaRXcPijOC",
+					"display_url": "pic.twitter.com/LaRXcPijOC",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1285044241186516993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285043529773805600,
+					"id_str": "1285043529773805568",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVkSCkU8AApfgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVkSCkU8AApfgL.jpg",
+					"url": "https://t.co/LaRXcPijOC",
+					"display_url": "pic.twitter.com/LaRXcPijOC",
+					"expanded_url": "https://twitter.com/Beeline_Records/status/1285044241186516993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892616925859020800,
+			"id_str": "892616925859020800",
+			"name": "BeelineRecords",
+			"screen_name": "Beeline_Records",
+			"location": "대한민국 서울",
+			"description": "Independent record label / artist management service based in Seoul, South Korea",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 7,
+			"listed_count": 2,
+			"created_at": "Wed Aug 02 05:23:53 +0000 2017",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034687449685880832/Kj_wabzU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892616925859020800/1535523709",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release]\n\nYouth Sector의 EP [Mundanity]가 발매되었습니다. 각종 스트리밍 사이트에서 감상하실 수 있습니다.\n\n멜론 https://t.co/rTsopFnyO2\n지니 https://t.co/m5bJlkIjYK\nFLO https://t.co/VXhovVQCP3\n벅스 https://t.co/XEfjFZLNQi\nVIBE https://t.co/CL7W6eZiCT https://t.co/LaRXcPijOC"
+	},
+	{
 		"created_at": "Mon Jul 20 03:15:41 +0000 2020",
 		"id": 1285050718899011600,
 		"id_str": "1285050718899011584",
