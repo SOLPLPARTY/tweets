@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 02:01:04 +0000 2020",
+		"id": 1285031941729910800,
+		"id_str": "1285031941729910784",
+		"full_text": "#그린플러그드 #GreenPlugged\n🔥역대그플복습하기🔥 [LIVE] 마틴스미스(Martin Smith) - Stupid Love GREENPLUGGED DONGHAE 2019\nhttps://t.co/gbLnRa451n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그린플러그드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "GreenPlugged",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gbLnRa451n",
+					"expanded_url": "https://youtu.be/5K2L_9wsGU4",
+					"display_url": "youtu.be/5K2L_9wsGU4",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그린플러그드 #GreenPlugged\n🔥역대그플복습하기🔥 [LIVE] 마틴스미스(Martin Smith) - Stupid Love GREENPLUGGED DONGHAE 2019\nhttps://t.co/gbLnRa451n"
+	},
+	{
+		"created_at": "Mon Jul 20 01:29:32 +0000 2020",
+		"id": 1285020755755856000,
+		"id_str": "1285024006563823624",
+		"full_text": "모던보이 주간스케줄\n\"2020. 07. 20 ~ 2020. 07. 26\"\n\n스케줄 보러가기 👇\nhttps://t.co/eqttfUY0mD https://t.co/bkRnBsUWBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqttfUY0mD",
+					"expanded_url": "https://bit.ly/2ODzwUC",
+					"display_url": "bit.ly/2ODzwUC",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285020728199245800,
+					"id_str": "1285020728199245824",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVPi0FUcAAnGOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVPi0FUcAAnGOP.jpg",
+					"url": "https://t.co/bkRnBsUWBr",
+					"display_url": "pic.twitter.com/bkRnBsUWBr",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1285020755755855872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285020728199245800,
+					"id_str": "1285020728199245824",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVPi0FUcAAnGOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVPi0FUcAAnGOP.jpg",
+					"url": "https://t.co/bkRnBsUWBr",
+					"display_url": "pic.twitter.com/bkRnBsUWBr",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1285020755755855872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2177785068,
+			"id_str": "2177785068",
+			"name": "모던보이엔터테인먼트",
+			"screen_name": "m_boyrecord",
+			"location": "",
+			"description": "소속아티스트 몽니, 고고보이스, 숨의숲, 윤기타, 빨간의자, 로썸 / 뮤지컬배우 김신의",
+			"url": "https://t.co/wzug4Je0hj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wzug4Je0hj",
+							"expanded_url": "http://modernboyent.com",
+							"display_url": "modernboyent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1267,
+			"friends_count": 1332,
+			"listed_count": 9,
+			"created_at": "Wed Nov 06 10:06:17 +0000 2013",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177785068/1561506274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모던보이 주간스케줄\n\"2020. 07. 20 ~ 2020. 07. 26\"\n\n스케줄 보러가기 👇\nhttps://t.co/eqttfUY0mD https://t.co/bkRnBsUWBr"
+	},
+	{
 		"created_at": "Mon Jul 20 00:48:10 +0000 2020",
 		"id": 1285013595336712200,
 		"id_str": "1285013595336712192",
