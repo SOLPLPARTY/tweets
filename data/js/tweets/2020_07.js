@@ -1,6 +1,1583 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 07:05:49 +0000 2020",
+		"id": 1285413393654939600,
+		"id_str": "1285471022435581953",
+		"full_text": "안녕하세요. 초현실 미디어 아티스트 이기택입니다.\n이번에 아이린 퍼포먼스 영상 콜라보를 하게 되었습니다. 두명의 아이린이 펼치는 퍼포먼스가 주제인 만큼, 딥러닝을 이용한 페이스 체인지와 버추얼 카메라로  촬영을 하였습니다. 추후 메이킹 영상도 올릴 예정입니다. 많은 응원 부탁드립니다. :) https://t.co/zjazCRYdUh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjazCRYdUh",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1285409258914238464",
+					"display_url": "twitter.com/RVsmtown/statu…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4665183012,
+			"id_str": "4665183012",
+			"name": "Kitaek,Lee",
+			"screen_name": "taekgallery",
+			"location": "대한민국",
+			"description": "Surrealist from Korea",
+			"url": "https://t.co/x63LeP8tpB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x63LeP8tpB",
+							"expanded_url": "https://www.instagram.com/taekgallery/",
+							"display_url": "instagram.com/taekgallery/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Mon Dec 28 04:29:07 +0000 2015",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4665183012/1451278005",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285409258914238500,
+		"quoted_status_id_str": "1285409258914238464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zjazCRYdUh",
+			"expanded": "https://twitter.com/RVsmtown/status/1285409258914238464",
+			"display": "twitter.com/RVsmtown/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 21 03:00:23 +0000 2020",
+			"id": 1285409258914238500,
+			"id_str": "1285409258914238464",
+			"full_text": "Red Velvet - IRENE &amp; SEULGI Episode 2 \"IRENE\"\n\n🎬 https://t.co/KlU86HDWug\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #놀이 #Naughty #Diamond #FeelGood #Jelly",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedVelvet_IRENE_SEULGI",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"text": "레드벨벳_아이린_슬기",
+						"indices": [
+							102,
+							114
+						]
+					},
+					{
+						"text": "IRENE",
+						"indices": [
+							115,
+							121
+						]
+					},
+					{
+						"text": "아이린",
+						"indices": [
+							122,
+							126
+						]
+					},
+					{
+						"text": "SEULGI",
+						"indices": [
+							127,
+							134
+						]
+					},
+					{
+						"text": "슬기",
+						"indices": [
+							135,
+							138
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							139,
+							149
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							150,
+							155
+						]
+					},
+					{
+						"text": "Monster",
+						"indices": [
+							156,
+							164
+						]
+					},
+					{
+						"text": "놀이",
+						"indices": [
+							165,
+							168
+						]
+					},
+					{
+						"text": "Naughty",
+						"indices": [
+							169,
+							177
+						]
+					},
+					{
+						"text": "Diamond",
+						"indices": [
+							178,
+							186
+						]
+					},
+					{
+						"text": "FeelGood",
+						"indices": [
+							187,
+							196
+						]
+					},
+					{
+						"text": "Jelly",
+						"indices": [
+							197,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KlU86HDWug",
+						"expanded_url": "https://youtu.be/-Pp4M5dhkKc",
+						"display_url": "youtu.be/-Pp4M5dhkKc",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873092428755894300,
+				"id_str": "873092428755894272",
+				"name": "Red Velvet",
+				"screen_name": "RVsmtown",
+				"location": "",
+				"description": "💜Happiness! Red Velvet💜",
+				"url": "https://t.co/pjjIYiVH17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjjIYiVH17",
+								"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+								"display_url": "youtu.be/Ujb-gvqsoi0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2924898,
+				"friends_count": 1,
+				"listed_count": 6247,
+				"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1440,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10504,
+			"favorite_count": 20635,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "no"
+		},
+		"retweet_count": 968,
+		"favorite_count": 1420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 초현실 미디어 아티스트 이기택입니다.\n이번에 아이린 퍼포먼스 영상 콜라보를 하게 되었습니다. 두명의 아이린이 펼치는 퍼포먼스가 주제인 만큼, 딥러닝을 이용한 페이스 체인지와 버추얼 카메라로  촬영을 하였습니다. 추후 메이킹 영상도 올릴 예정입니다. 많은 응원 부탁드립니다. :) https://t.co/zjazCRYdUh"
+	},
+	{
+		"created_at": "Tue Jul 21 07:05:47 +0000 2020",
+		"id": 1283843602301345800,
+		"id_str": "1285471013480722432",
+		"full_text": "안녕하세요, 이번에 레드벨벳 유닛활동에\n초현실 미디어 작가로 콜라보를 하게 되었습니다.\n총 3편의 영상에 VFX를 담당했으며,\n영혼과 그래픽카드를 갈아 넣었습니다~\n\n앞으로 공개될 3편 많은 응원 부탁드립니다~^^\nhttps://t.co/Y4r2zUdeq4 https://t.co/emnhQXZAvH https://t.co/fTkRvGiojV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y4r2zUdeq4",
+					"expanded_url": "https://www.instagram.com/taekgallery/",
+					"display_url": "instagram.com/taekgallery/",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/emnhQXZAvH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1283778416576258048",
+					"display_url": "twitter.com/RVsmtown/statu…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283843549289562000,
+					"id_str": "1283843549289562112",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EdEg5-6UwAAJ1gH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdEg5-6UwAAJ1gH.jpg",
+					"url": "https://t.co/fTkRvGiojV",
+					"display_url": "pic.twitter.com/fTkRvGiojV",
+					"expanded_url": "https://twitter.com/taekgallery/status/1283843602301345792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283843549289562000,
+					"id_str": "1283843549289562112",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EdEg5-6UwAAJ1gH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdEg5-6UwAAJ1gH.jpg",
+					"url": "https://t.co/fTkRvGiojV",
+					"display_url": "pic.twitter.com/fTkRvGiojV",
+					"expanded_url": "https://twitter.com/taekgallery/status/1283843602301345792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4665183012,
+			"id_str": "4665183012",
+			"name": "Kitaek,Lee",
+			"screen_name": "taekgallery",
+			"location": "대한민국",
+			"description": "Surrealist from Korea",
+			"url": "https://t.co/x63LeP8tpB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x63LeP8tpB",
+							"expanded_url": "https://www.instagram.com/taekgallery/",
+							"display_url": "instagram.com/taekgallery/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Mon Dec 28 04:29:07 +0000 2015",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4665183012/1451278005",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283778416576258000,
+		"quoted_status_id_str": "1283778416576258048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/emnhQXZAvH",
+			"expanded": "https://twitter.com/RVsmtown/status/1283778416576258048",
+			"display": "twitter.com/RVsmtown/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 16 15:00:00 +0000 2020",
+			"id": 1283778416576258000,
+			"id_str": "1283778416576258048",
+			"full_text": "Red Velvet - IRENE &amp; SEULGI '놀이 (Naughty)' Episode Teaser\n\n🎬 🎧 2020.07.20. 12PM (KST)\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster #놀이 #Naughty https://t.co/65h9fKkPVC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedVelvet_IRENE_SEULGI",
+						"indices": [
+							91,
+							114
+						]
+					},
+					{
+						"text": "레드벨벳_아이린_슬기",
+						"indices": [
+							115,
+							127
+						]
+					},
+					{
+						"text": "IRENE",
+						"indices": [
+							128,
+							134
+						]
+					},
+					{
+						"text": "아이린",
+						"indices": [
+							135,
+							139
+						]
+					},
+					{
+						"text": "SEULGI",
+						"indices": [
+							140,
+							147
+						]
+					},
+					{
+						"text": "슬기",
+						"indices": [
+							148,
+							151
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							152,
+							162
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							163,
+							168
+						]
+					},
+					{
+						"text": "Monster",
+						"indices": [
+							169,
+							177
+						]
+					},
+					{
+						"text": "놀이",
+						"indices": [
+							178,
+							181
+						]
+					},
+					{
+						"text": "Naughty",
+						"indices": [
+							182,
+							190
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283756274090299400,
+						"id_str": "1283756274090299392",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EdDZusNUYAAkUgX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdDZusNUYAAkUgX.jpg",
+						"url": "https://t.co/65h9fKkPVC",
+						"display_url": "pic.twitter.com/65h9fKkPVC",
+						"expanded_url": "https://twitter.com/RVsmtown/status/1283778416576258048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283756274090299400,
+						"id_str": "1283756274090299392",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/EdDZusNUYAAkUgX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdDZusNUYAAkUgX.jpg",
+						"url": "https://t.co/65h9fKkPVC",
+						"display_url": "pic.twitter.com/65h9fKkPVC",
+						"expanded_url": "https://twitter.com/RVsmtown/status/1283778416576258048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 37538,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1283756274090299392/vid/1280x720/KisWPShv1rruZBds.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1283756274090299392/vid/640x360/Rhsq07QaydK3iwt-.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1283756274090299392/pl/mr_Q_vnP-F_FOYN8.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1283756274090299392/vid/480x270/4_HiNFuWIpTICwGC.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873092428755894300,
+				"id_str": "873092428755894272",
+				"name": "Red Velvet",
+				"screen_name": "RVsmtown",
+				"location": "",
+				"description": "💜Happiness! Red Velvet💜",
+				"url": "https://t.co/pjjIYiVH17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjjIYiVH17",
+								"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+								"display_url": "youtu.be/Ujb-gvqsoi0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2924898,
+				"friends_count": 1,
+				"listed_count": 6247,
+				"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1440,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55385,
+			"favorite_count": 117220,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "et"
+		},
+		"retweet_count": 135,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요, 이번에 레드벨벳 유닛활동에\n초현실 미디어 작가로 콜라보를 하게 되었습니다.\n총 3편의 영상에 VFX를 담당했으며,\n영혼과 그래픽카드를 갈아 넣었습니다~\n\n앞으로 공개될 3편 많은 응원 부탁드립니다~^^\nhttps://t.co/Y4r2zUdeq4 https://t.co/emnhQXZAvH https://t.co/fTkRvGiojV"
+	},
+	{
+		"created_at": "Tue Jul 21 06:58:19 +0000 2020",
+		"id": 1285469135586185200,
+		"id_str": "1285469135586185218",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 강찬구 (KANG CHAN GU) - 내 얼굴 (My Face)\nhttps://t.co/de0A48fquu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/de0A48fquu",
+					"expanded_url": "https://youtu.be/tedM3IHYJIo",
+					"display_url": "youtu.be/tedM3IHYJIo",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 강찬구 (KANG CHAN GU) - 내 얼굴 (My Face)\nhttps://t.co/de0A48fquu"
+	},
+	{
+		"created_at": "Tue Jul 21 06:58:19 +0000 2020",
+		"id": 1285469134285938700,
+		"id_str": "1285469134285938690",
+		"full_text": "#포크라노스 #POCLANOS\n[MV] Jade - No more (feat. CHE) / Official Music Video\nhttps://t.co/RNO6rX9nOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RNO6rX9nOS",
+					"expanded_url": "https://youtu.be/W7QJs7Fjl7Y",
+					"display_url": "youtu.be/W7QJs7Fjl7Y",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#포크라노스 #POCLANOS\n[MV] Jade - No more (feat. CHE) / Official Music Video\nhttps://t.co/RNO6rX9nOS"
+	},
+	{
+		"created_at": "Tue Jul 21 06:58:18 +0000 2020",
+		"id": 1285469132868202500,
+		"id_str": "1285469132868202496",
+		"full_text": "#포크라노스 #POCLANOS\n[MV] Repenteve(레펜티브) - 언팔로우 (Unfollow) / Lyric Video\nhttps://t.co/A6ZtqAC7ia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A6ZtqAC7ia",
+					"expanded_url": "https://youtu.be/duK-v4MVcb4",
+					"display_url": "youtu.be/duK-v4MVcb4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[MV] Repenteve(레펜티브) - 언팔로우 (Unfollow) / Lyric Video\nhttps://t.co/A6ZtqAC7ia"
+	},
+	{
+		"created_at": "Tue Jul 21 06:57:12 +0000 2020",
+		"id": 1285468855226310700,
+		"id_str": "1285468855226310660",
+		"full_text": "#Melon #멜론 #멜론매거진\n영원히 기억될 이모 랩의 전설, Juice WRLD의 [Legend Never Die]\nhttps://t.co/cUJdPL9453 https://t.co/7Nlaznv1m8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUJdPL9453",
+					"expanded_url": "https://bit.ly/39e0kV4",
+					"display_url": "bit.ly/39e0kV4",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285468854085456000,
+					"id_str": "1285468854085455875",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EdbnHLGXkAMsi8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdbnHLGXkAMsi8S.jpg",
+					"url": "https://t.co/7Nlaznv1m8",
+					"display_url": "pic.twitter.com/7Nlaznv1m8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285468855226310660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285468854085456000,
+					"id_str": "1285468854085455875",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EdbnHLGXkAMsi8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdbnHLGXkAMsi8S.jpg",
+					"url": "https://t.co/7Nlaznv1m8",
+					"display_url": "pic.twitter.com/7Nlaznv1m8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285468855226310660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n영원히 기억될 이모 랩의 전설, Juice WRLD의 [Legend Never Die]\nhttps://t.co/cUJdPL9453 https://t.co/7Nlaznv1m8"
+	},
+	{
+		"created_at": "Tue Jul 21 06:41:18 +0000 2020",
+		"id": 1285464853390471200,
+		"id_str": "1285464853390471168",
+		"full_text": "#포크라노스 #POCLANOS\n[B-Side] 세 번째: DJ Wreckx, 신해경, 그리고 Summer Soul\nhttps://t.co/hUub56N4fv\n#블로그 #매거진 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hUub56N4fv",
+					"expanded_url": "https://bit.ly/32FVbnE",
+					"display_url": "bit.ly/32FVbnE",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[B-Side] 세 번째: DJ Wreckx, 신해경, 그리고 Summer Soul\nhttps://t.co/hUub56N4fv\n#블로그 #매거진 #유통사 #인디음악 #인디"
+	},
+	{
 		"created_at": "Tue Jul 21 05:47:08 +0000 2020",
 		"id": 1285451222770765800,
 		"id_str": "1285451222770765824",
