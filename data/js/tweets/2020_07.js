@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 10:43:22 +0000 2020",
+		"id": 1285525769645633500,
+		"id_str": "1285525769645633536",
+		"full_text": "#genie #지니 #지니매거진\n시티팝 여신 유키카 [서울여자] 컨셉포토 촬영 현장 스케치\nhttps://t.co/xzLG3VXsSY https://t.co/si7MzVkXwd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzLG3VXsSY",
+					"expanded_url": "https://bit.ly/3eLbAcQ",
+					"display_url": "bit.ly/3eLbAcQ",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285525768483872800,
+					"id_str": "1285525768483872769",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Edca4BwXoAE5qZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edca4BwXoAE5qZQ.jpg",
+					"url": "https://t.co/si7MzVkXwd",
+					"display_url": "pic.twitter.com/si7MzVkXwd",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285525769645633536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285525768483872800,
+					"id_str": "1285525768483872769",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Edca4BwXoAE5qZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edca4BwXoAE5qZQ.jpg",
+					"url": "https://t.co/si7MzVkXwd",
+					"display_url": "pic.twitter.com/si7MzVkXwd",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285525769645633536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n시티팝 여신 유키카 [서울여자] 컨셉포토 촬영 현장 스케치\nhttps://t.co/xzLG3VXsSY https://t.co/si7MzVkXwd"
+	},
+	{
+		"created_at": "Tue Jul 21 10:43:14 +0000 2020",
+		"id": 1285525736162558000,
+		"id_str": "1285525736162557952",
+		"full_text": "#genie #지니 #지니매거진\n다시 만난 다섯 원석, 'D.COY'의 두 번째 싱글 [GO AWAY]\nhttps://t.co/3V9SanaVK0 https://t.co/YmKESpygpz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3V9SanaVK0",
+					"expanded_url": "https://bit.ly/30uff9S",
+					"display_url": "bit.ly/30uff9S",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285525734778429400,
+					"id_str": "1285525734778429441",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Edca2EMXYAEwGcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edca2EMXYAEwGcR.jpg",
+					"url": "https://t.co/YmKESpygpz",
+					"display_url": "pic.twitter.com/YmKESpygpz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285525736162557952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285525734778429400,
+					"id_str": "1285525734778429441",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Edca2EMXYAEwGcR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edca2EMXYAEwGcR.jpg",
+					"url": "https://t.co/YmKESpygpz",
+					"display_url": "pic.twitter.com/YmKESpygpz",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1285525736162557952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n다시 만난 다섯 원석, 'D.COY'의 두 번째 싱글 [GO AWAY]\nhttps://t.co/3V9SanaVK0 https://t.co/YmKESpygpz"
+	},
+	{
+		"created_at": "Tue Jul 21 10:34:11 +0000 2020",
+		"id": 1285521361260048400,
+		"id_str": "1285523460983119873",
+		"full_text": "(아직 멀었지만) 9월 27일 이랑의 뮤직토크쇼가 열립니다. 얼리버드 티켓은 내일 오픈합니다.\n-얼리버드 오픈: 7월22일 수요일 오후3시\n-예매링크: https://t.co/sF3GNFyJo8\n예매하신 분들 중 두 분을 추첨하여, 이랑과 함께하는 공연기획회의에 초대합니다♡ https://t.co/A5FJ3iwJWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sF3GNFyJo8",
+					"expanded_url": "https://bit.ly/32mCeGg",
+					"display_url": "bit.ly/32mCeGg",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285521353097900000,
+					"id_str": "1285521353097900032",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EdcW3BKUcAAWDeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdcW3BKUcAAWDeF.jpg",
+					"url": "https://t.co/A5FJ3iwJWk",
+					"display_url": "pic.twitter.com/A5FJ3iwJWk",
+					"expanded_url": "https://twitter.com/2lang2/status/1285521361260048384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 636,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285521353097900000,
+					"id_str": "1285521353097900032",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EdcW3BKUcAAWDeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdcW3BKUcAAWDeF.jpg",
+					"url": "https://t.co/A5FJ3iwJWk",
+					"display_url": "pic.twitter.com/A5FJ3iwJWk",
+					"expanded_url": "https://twitter.com/2lang2/status/1285521361260048384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 636,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31367,
+			"friends_count": 994,
+			"listed_count": 165,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(아직 멀었지만) 9월 27일 이랑의 뮤직토크쇼가 열립니다. 얼리버드 티켓은 내일 오픈합니다.\n-얼리버드 오픈: 7월22일 수요일 오후3시\n-예매링크: https://t.co/sF3GNFyJo8\n예매하신 분들 중 두 분을 추첨하여, 이랑과 함께하는 공연기획회의에 초대합니다♡ https://t.co/A5FJ3iwJWk"
+	},
+	{
 		"created_at": "Tue Jul 21 09:57:34 +0000 2020",
 		"id": 1285514245589938200,
 		"id_str": "1285514245589938176",
