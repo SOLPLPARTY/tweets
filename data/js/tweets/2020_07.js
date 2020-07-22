@@ -1,6 +1,767 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 09:13:13 +0000 2020",
+		"id": 1285865470298591200,
+		"id_str": "1285865470298591233",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE] FA Presents Live Week with Paper Brick - Jung JinHyeong \"Jetski\"\nhttps://t.co/YrocRvrvHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YrocRvrvHH",
+					"expanded_url": "https://youtu.be/VJYAW_BczWw",
+					"display_url": "youtu.be/VJYAW_BczWw",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE] FA Presents Live Week with Paper Brick - Jung JinHyeong \"Jetski\"\nhttps://t.co/YrocRvrvHH"
+	},
+	{
+		"created_at": "Wed Jul 22 09:13:11 +0000 2020",
+		"id": 1285865462170091500,
+		"id_str": "1285865462170091521",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n김미정 - How to Love feat. BIGONE (Live Visualizer) l 김미정 - How to Love feat. 빅원\nhttps://t.co/1bQ39Cwv9I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1bQ39Cwv9I",
+					"expanded_url": "https://youtu.be/FYaDzPBhfGE",
+					"display_url": "youtu.be/FYaDzPBhfGE",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n김미정 - How to Love feat. BIGONE (Live Visualizer) l 김미정 - How to Love feat. 빅원\nhttps://t.co/1bQ39Cwv9I"
+	},
+	{
+		"created_at": "Wed Jul 22 08:41:41 +0000 2020",
+		"id": 1285848570076127200,
+		"id_str": "1285857536734879745",
+		"full_text": "1관 뮤지컬&lt;어쩌면 해피엔딩&gt;: \nhttps://t.co/vXe8FgChG8\n2관 뮤지컬&lt;미아 파밀리아&gt;:\nhttps://t.co/B64J1vGpeY\n3관 연극&lt;라스트 세션&gt;:\nhttps://t.co/2aQMQTNszU\n\n*당일에 한해 사전 등록 가능\n** 이용이 어려우신 분들을 위해 \n기존 지류 문진표와 병행 운영하오니 \n관람에 참고 부탁드립니다! https://t.co/NGhYDYLLfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXe8FgChG8",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/36898",
+					"display_url": "m.ticket.yes24.com/COVID19/36898",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/B64J1vGpeY",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/36752",
+					"display_url": "m.ticket.yes24.com/COVID19/36752",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/2aQMQTNszU",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/36911",
+					"display_url": "m.ticket.yes24.com/COVID19/36911",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285848560538284000,
+					"id_str": "1285848560538284033",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhAc_3U8AEnqXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdhAc_3U8AEnqXI.jpg",
+					"url": "https://t.co/NGhYDYLLfS",
+					"display_url": "pic.twitter.com/NGhYDYLLfS",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285848570076127233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285848560538284000,
+					"id_str": "1285848560538284033",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EdhAc_3U8AEnqXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdhAc_3U8AEnqXI.jpg",
+					"url": "https://t.co/NGhYDYLLfS",
+					"display_url": "pic.twitter.com/NGhYDYLLfS",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285848570076127233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1285847603658121200,
+		"in_reply_to_status_id_str": "1285847603658121216",
+		"in_reply_to_user_id": 1104695434893652000,
+		"in_reply_to_user_id_str": "1104695434893651968",
+		"in_reply_to_screen_name": "yes24stage",
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 30,
+			"listed_count": 17,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1관 뮤지컬&lt;어쩌면 해피엔딩&gt;: \nhttps://t.co/vXe8FgChG8\n2관 뮤지컬&lt;미아 파밀리아&gt;:\nhttps://t.co/B64J1vGpeY\n3관 연극&lt;라스트 세션&gt;:\nhttps://t.co/2aQMQTNszU\n\n*당일에 한해 사전 등록 가능\n** 이용이 어려우신 분들을 위해 \n기존 지류 문진표와 병행 운영하오니 \n관람에 참고 부탁드립니다! https://t.co/NGhYDYLLfS"
+	},
+	{
+		"created_at": "Wed Jul 22 08:41:38 +0000 2020",
+		"id": 1285847603658121200,
+		"id_str": "1285857523690602496",
+		"full_text": "#예스24스테이지\n&lt;온라인 문진표&gt; 시행 안내\n\n펜을 통한 교차감염의 우려와 \n개인정보 보호를 위해\n#예스24 의 온라인 문진표를 공연장에 \n본격 도입하게 되었습니다\n\n아래 이미지를 참고하여 주시기 바랍니다 https://t.co/9J33k9mBop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예스24스테이지",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "예스24",
+					"indices": [
+						62,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285847592480288800,
+					"id_str": "1285847592480288768",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Edg_kpkUMAABx5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edg_kpkUMAABx5P.jpg",
+					"url": "https://t.co/9J33k9mBop",
+					"display_url": "pic.twitter.com/9J33k9mBop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285847603658121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285847592480288800,
+					"id_str": "1285847592480288768",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Edg_kpkUMAABx5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edg_kpkUMAABx5P.jpg",
+					"url": "https://t.co/9J33k9mBop",
+					"display_url": "pic.twitter.com/9J33k9mBop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285847603658121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1285847592484475000,
+					"id_str": "1285847592484474881",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Edg_kplUEAENnjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edg_kplUEAENnjV.jpg",
+					"url": "https://t.co/9J33k9mBop",
+					"display_url": "pic.twitter.com/9J33k9mBop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285847603658121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1285847592476147700,
+					"id_str": "1285847592476147713",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Edg_kpjVAAEt3bC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edg_kpjVAAEt3bC.jpg",
+					"url": "https://t.co/9J33k9mBop",
+					"display_url": "pic.twitter.com/9J33k9mBop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285847603658121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1285847592476131300,
+					"id_str": "1285847592476131329",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Edg_kpjUwAExm0m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edg_kpjUwAExm0m.jpg",
+					"url": "https://t.co/9J33k9mBop",
+					"display_url": "pic.twitter.com/9J33k9mBop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1285847603658121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 30,
+			"listed_count": 17,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예스24스테이지\n&lt;온라인 문진표&gt; 시행 안내\n\n펜을 통한 교차감염의 우려와 \n개인정보 보호를 위해\n#예스24 의 온라인 문진표를 공연장에 \n본격 도입하게 되었습니다\n\n아래 이미지를 참고하여 주시기 바랍니다 https://t.co/9J33k9mBop"
+	},
+	{
 		"created_at": "Wed Jul 22 08:08:10 +0000 2020",
 		"id": 1285849102127857700,
 		"id_str": "1285849102127857666",
