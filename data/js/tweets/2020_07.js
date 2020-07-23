@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 09:57:10 +0000 2020",
+		"id": 1286238922238984200,
+		"id_str": "1286238922238984194",
+		"full_text": "#Melon #멜론 #멜론매거진\n성장한 자신을 맞이하기 위한 단계, 이하이 '홀로'\nhttps://t.co/N3kYaKXVyh https://t.co/BTJ5WhpJS8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N3kYaKXVyh",
+					"expanded_url": "https://bit.ly/39iWFFC",
+					"display_url": "bit.ly/39iWFFC",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286238921253425200,
+					"id_str": "1286238921253425152",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Edmje-2XkAAU6Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edmje-2XkAAU6Me.jpg",
+					"url": "https://t.co/BTJ5WhpJS8",
+					"display_url": "pic.twitter.com/BTJ5WhpJS8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1286238922238984194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286238921253425200,
+					"id_str": "1286238921253425152",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Edmje-2XkAAU6Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edmje-2XkAAU6Me.jpg",
+					"url": "https://t.co/BTJ5WhpJS8",
+					"display_url": "pic.twitter.com/BTJ5WhpJS8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1286238922238984194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n성장한 자신을 맞이하기 위한 단계, 이하이 '홀로'\nhttps://t.co/N3kYaKXVyh https://t.co/BTJ5WhpJS8"
+	},
+	{
+		"created_at": "Thu Jul 23 09:29:41 +0000 2020",
+		"id": 1286224684279718000,
+		"id_str": "1286232005966004224",
+		"full_text": "[#로시]\n로시TV ㅣ EP.06 저희도 VR해봤는데요. 살림살이 다 부술 뻔 해가지구요.🔨 VR 체험기🕶\n\n🔗https://t.co/UbxxGwNFHV\n\n#로시 #rothy #로시tv #VR #체험 #브이로그 #일상 https://t.co/C87ALpFCXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "로시",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "rothy",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "로시tv",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "VR",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "체험",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "브이로그",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "일상",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UbxxGwNFHV",
+					"expanded_url": "https://youtu.be/Ww7kAzo7LyY",
+					"display_url": "youtu.be/Ww7kAzo7LyY",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286224678554493000,
+					"id_str": "1286224678554492928",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EdmWh8qU4AAjT_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdmWh8qU4AAjT_l.jpg",
+					"url": "https://t.co/C87ALpFCXF",
+					"display_url": "pic.twitter.com/C87ALpFCXF",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1286224684279717889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286224678554493000,
+					"id_str": "1286224678554492928",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EdmWh8qU4AAjT_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdmWh8qU4AAjT_l.jpg",
+					"url": "https://t.co/C87ALpFCXF",
+					"display_url": "pic.twitter.com/C87ALpFCXF",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1286224684279717889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1989,
+			"friends_count": 1,
+			"listed_count": 24,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#로시]\n로시TV ㅣ EP.06 저희도 VR해봤는데요. 살림살이 다 부술 뻔 해가지구요.🔨 VR 체험기🕶\n\n🔗https://t.co/UbxxGwNFHV\n\n#로시 #rothy #로시tv #VR #체험 #브이로그 #일상 https://t.co/C87ALpFCXF"
+	},
+	{
+		"created_at": "Thu Jul 23 09:29:34 +0000 2020",
+		"id": 1286224535553896400,
+		"id_str": "1286231975800516609",
+		"full_text": "[D-6]\n\n보라미유 '어쩌다, 여름'\n2020. 07. 29 6PM Release 💙\n\n#보라미유 #Boramiyu #어쩌다여름\n#쇼파르뮤직 #ShofarMusic https://t.co/flOCzSy9ia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "어쩌다여름",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286185383626076200,
+					"id_str": "1286185383626076161",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlyyrpU8AEIhfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlyyrpU8AEIhfq.jpg",
+					"url": "https://t.co/flOCzSy9ia",
+					"display_url": "pic.twitter.com/flOCzSy9ia",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1286224535553896448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286185383626076200,
+					"id_str": "1286185383626076161",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlyyrpU8AEIhfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlyyrpU8AEIhfq.jpg",
+					"url": "https://t.co/flOCzSy9ia",
+					"display_url": "pic.twitter.com/flOCzSy9ia",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1286224535553896448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8026,
+			"friends_count": 5,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1594106279",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-6]\n\n보라미유 '어쩌다, 여름'\n2020. 07. 29 6PM Release 💙\n\n#보라미유 #Boramiyu #어쩌다여름\n#쇼파르뮤직 #ShofarMusic https://t.co/flOCzSy9ia"
+	},
+	{
 		"created_at": "Thu Jul 23 09:09:15 +0000 2020",
 		"id": 1286226861387849700,
 		"id_str": "1286226861387849728",
