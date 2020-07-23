@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 04:10:46 +0000 2020",
+		"id": 1286145009159270400,
+		"id_str": "1286151747816132609",
+		"full_text": "드디어 마지막 영상이 공개되었습니다. 응원해 주신 분들 모두 감사드리며 추후 CG 메이킹 영상도 공개하겠습니다. 레드벨벳 화이팅!! https://t.co/IQssNH5ESQ https://t.co/mmte8ht3YQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IQssNH5ESQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1280335832230985729",
+					"display_url": "twitter.com/RVsmtown/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286145006273585200,
+					"id_str": "1286145006273585153",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlOEaSUYAEBSwC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlOEaSUYAEBSwC.jpg",
+					"url": "https://t.co/mmte8ht3YQ",
+					"display_url": "pic.twitter.com/mmte8ht3YQ",
+					"expanded_url": "https://twitter.com/taekgallery/status/1286145009159270402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286145006273585200,
+					"id_str": "1286145006273585153",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlOEaSUYAEBSwC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlOEaSUYAEBSwC.jpg",
+					"url": "https://t.co/mmte8ht3YQ",
+					"display_url": "pic.twitter.com/mmte8ht3YQ",
+					"expanded_url": "https://twitter.com/taekgallery/status/1286145009159270402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4665183012,
+			"id_str": "4665183012",
+			"name": "Kitaek,Lee",
+			"screen_name": "taekgallery",
+			"location": "대한민국",
+			"description": "Surrealist from Korea",
+			"url": "https://t.co/x63LeP8tpB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x63LeP8tpB",
+							"expanded_url": "https://www.instagram.com/taekgallery/",
+							"display_url": "instagram.com/taekgallery/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 1,
+			"listed_count": 1,
+			"created_at": "Mon Dec 28 04:29:07 +0000 2015",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/681331780230619136/Fzka4Eah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4665183012/1451278005",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280335832230985700,
+		"quoted_status_id_str": "1280335832230985729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IQssNH5ESQ",
+			"expanded": "https://twitter.com/RVsmtown/status/1280335832230985729",
+			"display": "twitter.com/RVsmtown/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 03:00:24 +0000 2020",
+			"id": 1280335832230985700,
+			"id_str": "1280335832230985729",
+			"full_text": "Red Velvet - IRENE &amp; SEULGI 'Monster' MV\n\n🎬https://t.co/fooe7phe4n\n\n#RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #SEULGI #슬기 #RedVelvet #레드벨벳 #Monster",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RedVelvet_IRENE_SEULGI",
+						"indices": [
+							72,
+							95
+						]
+					},
+					{
+						"text": "레드벨벳_아이린_슬기",
+						"indices": [
+							96,
+							108
+						]
+					},
+					{
+						"text": "IRENE",
+						"indices": [
+							109,
+							115
+						]
+					},
+					{
+						"text": "아이린",
+						"indices": [
+							116,
+							120
+						]
+					},
+					{
+						"text": "SEULGI",
+						"indices": [
+							121,
+							128
+						]
+					},
+					{
+						"text": "슬기",
+						"indices": [
+							129,
+							132
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							133,
+							143
+						]
+					},
+					{
+						"text": "레드벨벳",
+						"indices": [
+							144,
+							149
+						]
+					},
+					{
+						"text": "Monster",
+						"indices": [
+							150,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fooe7phe4n",
+						"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+						"display_url": "youtu.be/Ujb-gvqsoi0",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873092428755894300,
+				"id_str": "873092428755894272",
+				"name": "Red Velvet",
+				"screen_name": "RVsmtown",
+				"location": "",
+				"description": "💜Happiness! Red Velvet💜",
+				"url": "https://t.co/pjjIYiVH17",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjjIYiVH17",
+								"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+								"display_url": "youtu.be/Ujb-gvqsoi0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2934618,
+				"friends_count": 1,
+				"listed_count": 6264,
+				"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+				"favourites_count": 54,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1445,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67505,
+			"favorite_count": 114187,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "no"
+		},
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 마지막 영상이 공개되었습니다. 응원해 주신 분들 모두 감사드리며 추후 CG 메이킹 영상도 공개하겠습니다. 레드벨벳 화이팅!! https://t.co/IQssNH5ESQ https://t.co/mmte8ht3YQ"
+	},
+	{
+		"created_at": "Thu Jul 23 03:29:35 +0000 2020",
+		"id": 1286137543478583300,
+		"id_str": "1286141383900880908",
+		"full_text": "#무드온 [좋은 꿈을 꾸어요]\n\n아무 걱정하지말고\n오늘도 좋은 꿈을 꾸어요\n\n✚ 앨범 자세히 보기: https://t.co/ZNEJjQhZ3L https://t.co/gAXy2Z80qC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "무드온",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZNEJjQhZ3L",
+					"expanded_url": "https://bit.ly/32J6gnY",
+					"display_url": "bit.ly/32J6gnY",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286137483273494500,
+					"id_str": "1286137483273494528",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlHOg7U4AAv_in.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlHOg7U4AAv_in.jpg",
+					"url": "https://t.co/gAXy2Z80qC",
+					"display_url": "pic.twitter.com/gAXy2Z80qC",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1286137543478583296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286137483273494500,
+					"id_str": "1286137483273494528",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EdlHOg7U4AAv_in.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdlHOg7U4AAv_in.jpg",
+					"url": "https://t.co/gAXy2Z80qC",
+					"display_url": "pic.twitter.com/gAXy2Z80qC",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1286137543478583296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9545,
+			"friends_count": 2905,
+			"listed_count": 249,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1595320816",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#무드온 [좋은 꿈을 꾸어요]\n\n아무 걱정하지말고\n오늘도 좋은 꿈을 꾸어요\n\n✚ 앨범 자세히 보기: https://t.co/ZNEJjQhZ3L https://t.co/gAXy2Z80qC"
+	},
+	{
+		"created_at": "Thu Jul 23 03:29:31 +0000 2020",
+		"id": 1286136886541525000,
+		"id_str": "1286141366624571392",
+		"full_text": "@9thenumber  @9andthenumbers \n#9와숫자들 #드라마출사표 #출사표 #수목드라마 #이대로도좋은하루를살고있어 #ost",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "드라마출사표",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "출사표",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "이대로도좋은하루를살고있어",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"text": "ost",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9thenumber",
+					"name": "9(9와 숫자들)",
+					"id": 368811091,
+					"id_str": "368811091",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "9andthenumbers",
+					"name": "9와 숫자들",
+					"id": 118578410,
+					"id_str": "118578410",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1286135843858481200,
+		"in_reply_to_status_id_str": "1286135843858481154",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 336,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1587958427",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@9thenumber  @9andthenumbers \n#9와숫자들 #드라마출사표 #출사표 #수목드라마 #이대로도좋은하루를살고있어 #ost"
+	},
+	{
+		"created_at": "Thu Jul 23 03:29:29 +0000 2020",
+		"id": 1286135843858481200,
+		"id_str": "1286141357778755584",
+		"full_text": "소리바다: https://t.co/soNEvv3teb\n네이버: https://t.co/rnQPXhRk0d \n\n그 외 처음으로 드라마 ost에 참여한 소감을 이야기한 영상들도 올라와 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/soNEvv3teb",
+					"expanded_url": "http://www.soribada.com/music/album/KO0012148",
+					"display_url": "soribada.com/music/album/KO…",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/rnQPXhRk0d",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4690563&trackId=41088420",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1286135842113691600,
+		"in_reply_to_status_id_str": "1286135842113691649",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 336,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1587958427",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소리바다: https://t.co/soNEvv3teb\n네이버: https://t.co/rnQPXhRk0d \n\n그 외 처음으로 드라마 ost에 참여한 소감을 이야기한 영상들도 올라와 있습니다."
+	},
+	{
 		"created_at": "Thu Jul 23 03:18:22 +0000 2020",
 		"id": 1286138557942370300,
 		"id_str": "1286138557942370304",
