@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 15:29:39 +0000 2020",
+		"id": 1286677740414857200,
+		"id_str": "1286684982631686147",
+		"full_text": "[📸] Rocket Punch 3rd Mini Album \n[BLUE PUNCH] PROMOTION SCHEDULE\n\n🚀 TITLE : JUICY\n🚀 2020. 08. 04. 6PM RELEASE\n\n#RocketPunch #로켓펀치\n#BLUE_PUNCH #JUICY https://t.co/RSdHrWLTE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RocketPunch",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "BLUE_PUNCH",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "JUICY",
+					"indices": [
+						142,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286652580030947300,
+					"id_str": "1286652580030947328",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EdsbtF4VoAAQKHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdsbtF4VoAAQKHy.jpg",
+					"url": "https://t.co/RSdHrWLTE5",
+					"display_url": "pic.twitter.com/RSdHrWLTE5",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1286677740414857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286652580030947300,
+					"id_str": "1286652580030947328",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EdsbtF4VoAAQKHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdsbtF4VoAAQKHy.jpg",
+					"url": "https://t.co/RSdHrWLTE5",
+					"display_url": "pic.twitter.com/RSdHrWLTE5",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1286677740414857216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420431,
+			"friends_count": 9,
+			"listed_count": 1781,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1595505628",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 787,
+		"favorite_count": 1564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Rocket Punch 3rd Mini Album \n[BLUE PUNCH] PROMOTION SCHEDULE\n\n🚀 TITLE : JUICY\n🚀 2020. 08. 04. 6PM RELEASE\n\n#RocketPunch #로켓펀치\n#BLUE_PUNCH #JUICY https://t.co/RSdHrWLTE5"
+	},
+	{
 		"created_at": "Fri Jul 24 13:06:11 +0000 2020",
 		"id": 1286648878041792500,
 		"id_str": "1286648878041792514",
