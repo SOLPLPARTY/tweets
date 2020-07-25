@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 08:29:25 +0000 2020",
+		"id": 1286929286478225400,
+		"id_str": "1286941612782899200",
+		"full_text": "[1년 전 오늘] 오늘은 PERC%NT의 '9'가 세상에 나온지 일년 째 되는 날! 함께 들어볼까요?\n⠀\n'괜찮은 척할 필요는 없잖아\n눈을 뜨면 한순간뿐일 Nine'\n⠀\n▶️https://t.co/zsAykfM6kL\n⠀\n#1년전오늘 #PERCENT #퍼센트\n#LISTEN031 #9 #1주년\n⠀ https://t.co/TBa65dPaUe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1년전오늘",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "PERCENT",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "LISTEN031",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "1주년",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zsAykfM6kL",
+					"expanded_url": "https://youtu.be/ooemxSI_9LU",
+					"display_url": "youtu.be/ooemxSI_9LU",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286928796877115400,
+					"id_str": "1286928796877115398",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286928796877115398/pu/img/f1dYeqJcMTS4eK8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286928796877115398/pu/img/f1dYeqJcMTS4eK8R.jpg",
+					"url": "https://t.co/TBa65dPaUe",
+					"display_url": "pic.twitter.com/TBa65dPaUe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1286929286478225408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286928796877115400,
+					"id_str": "1286928796877115398",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286928796877115398/pu/img/f1dYeqJcMTS4eK8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286928796877115398/pu/img/f1dYeqJcMTS4eK8R.jpg",
+					"url": "https://t.co/TBa65dPaUe",
+					"display_url": "pic.twitter.com/TBa65dPaUe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1286929286478225408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 134920,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1286928796877115398/pu/vid/320x320/O_-xs_-DZdjZV0LB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1286928796877115398/pu/pl/aDCZVaVT3PosZ_oV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1286928796877115398/pu/vid/480x480/h2xiSmMiC2dIBdnJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1286928796877115398/pu/vid/720x720/QqkEOp46ftZg9-oe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19753,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1년 전 오늘] 오늘은 PERC%NT의 '9'가 세상에 나온지 일년 째 되는 날! 함께 들어볼까요?\n⠀\n'괜찮은 척할 필요는 없잖아\n눈을 뜨면 한순간뿐일 Nine'\n⠀\n▶️https://t.co/zsAykfM6kL\n⠀\n#1년전오늘 #PERCENT #퍼센트\n#LISTEN031 #9 #1주년\n⠀ https://t.co/TBa65dPaUe"
+	},
+	{
 		"created_at": "Sat Jul 25 08:04:14 +0000 2020",
 		"id": 1286935276267409400,
 		"id_str": "1286935276267409408",
