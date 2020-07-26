@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 26 09:03:06 +0000 2020",
+		"id": 1287312476925841400,
+		"id_str": "1287312476925841410",
+		"full_text": "#SM_STATION\n[STATION] 서울시향 X 박인영 Interview #비하인더스테이션\nhttps://t.co/dQxAgchlsC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_STATION",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "비하인더스테이션",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dQxAgchlsC",
+					"expanded_url": "https://youtu.be/EgY4fdv14Yk",
+					"display_url": "youtu.be/EgY4fdv14Yk",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 티켓예매 공지 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 / 전시회 / 북토크\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n참가하기\n▶ https://t.co/mr16mdiyD3",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mr16mdiyD3",
+							"expanded_url": "http://join.solplparty.com",
+							"display_url": "join.solplparty.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 227,
+			"friends_count": 367,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SM_STATION\n[STATION] 서울시향 X 박인영 Interview #비하인더스테이션\nhttps://t.co/dQxAgchlsC"
+	},
+	{
+		"created_at": "Sun Jul 26 08:41:40 +0000 2020",
+		"id": 1287297616007454700,
+		"id_str": "1287307085655539713",
+		"full_text": "@ninjatune @bigdadarecords ❤️",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ninjatune",
+					"name": "Ninja Tune",
+					"id": 19294707,
+					"id_str": "19294707",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "bigdadarecords",
+					"name": "Big Dada",
+					"id": 36920131,
+					"id_str": "36920131",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1287108930150305800,
+		"in_reply_to_status_id_str": "1287108930150305794",
+		"in_reply_to_user_id": 19294707,
+		"in_reply_to_user_id_str": "19294707",
+		"in_reply_to_screen_name": "ninjatune",
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2600,
+			"friends_count": 545,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@ninjatune @bigdadarecords ❤️"
+	},
+	{
 		"created_at": "Sun Jul 26 07:41:38 +0000 2020",
 		"id": 1287281092362481700,
 		"id_str": "1287291976904253441",
