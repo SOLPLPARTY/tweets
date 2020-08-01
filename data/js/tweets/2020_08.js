@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 10:15:04 +0000 2020",
+		"id": 1289049871807402000,
+		"id_str": "1289504917153964037",
+		"full_text": "⚡ 開催決定！⚡\n⛺FUJI ROCK FESTIVAL’20 LIVE ON YOUTUBE\n\n#フジロック 公式 YouTube チャンネルより、過去のアーティストパフォーマンス映像を #ライブ配信 ！\n過去映像の他に、新たに制作された映像も…!?\n\n📡2020.8.21〜23\n\n🔎詳細\nhttps://t.co/AuZrBx8q8B\n\n@fujirock_jp #キープオンフジロック https://t.co/uDATlkGIi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "フジロック",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "ライブ配信",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "キープオンフジロック",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fujirock_jp",
+					"name": "FUJI ROCK FESTIVAL",
+					"id": 117395470,
+					"id_str": "117395470",
+					"indices": [
+						172,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AuZrBx8q8B",
+					"expanded_url": "https://yt.be/FRF20",
+					"display_url": "yt.be/FRF20",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289049870360289300,
+					"id_str": "1289049870360289281",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOgBwSWoAEeJs8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOgBwSWoAEeJs8.png",
+					"url": "https://t.co/uDATlkGIi2",
+					"display_url": "pic.twitter.com/uDATlkGIi2",
+					"expanded_url": "https://twitter.com/YouTubeJapan/status/1289049871807401984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289049870360289300,
+					"id_str": "1289049870360289281",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EeOgBwSWoAEeJs8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeOgBwSWoAEeJs8.png",
+					"url": "https://t.co/uDATlkGIi2",
+					"display_url": "pic.twitter.com/uDATlkGIi2",
+					"expanded_url": "https://twitter.com/YouTubeJapan/status/1289049871807401984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111048816,
+			"id_str": "111048816",
+			"name": "YouTube Japan",
+			"screen_name": "YouTubeJapan",
+			"location": "東京都港区",
+			"description": "YouTube 日本版公式twitterです。おすすめの動画、チャンネル、ユーザー参加型企画をつぶやきます。クリエイター向けの情報はこちら：@ytcreatorsjapan // YouTubeに関する質問や疑問は @TeamYouTubeまで。（日本語対応可）",
+			"url": "https://t.co/ME3Q7L2d2z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ME3Q7L2d2z",
+							"expanded_url": "https://www.youtube.com/YouTubeJapan",
+							"display_url": "youtube.com/YouTubeJapan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336352,
+			"friends_count": 825,
+			"listed_count": 1896,
+			"created_at": "Wed Feb 03 16:53:12 +0000 2010",
+			"favourites_count": 11395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C9191D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265192075433095168/LQXhK582_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265192075433095168/LQXhK582_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111048816/1593568965",
+			"profile_link_color": "1B7FCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "⚡ 開催決定！⚡\n⛺FUJI ROCK FESTIVAL’20 LIVE ON YOUTUBE\n\n#フジロック 公式 YouTube チャンネルより、過去のアーティストパフォーマンス映像を #ライブ配信 ！\n過去映像の他に、新たに制作された映像も…!?\n\n📡2020.8.21〜23\n\n🔎詳細\nhttps://t.co/AuZrBx8q8B\n\n@fujirock_jp #キープオンフジロック https://t.co/uDATlkGIi2"
+	},
+	{
 		"created_at": "Sat Aug 01 09:08:28 +0000 2020",
 		"id": 1289488153607155700,
 		"id_str": "1289488153607155713",
