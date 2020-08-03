@@ -1,6 +1,1275 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 03 03:57:17 +0000 2020",
+		"id": 1290134617958133800,
+		"id_str": "1290134617958133760",
+		"full_text": "#Melon #멜론 #멜론매거진\n마치 시원한 여름 바다에 온 듯한 기분, 보라미유 '어쩌다, 여름'\nhttps://t.co/TodNCPAcMH https://t.co/I3P2hfLu2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TodNCPAcMH",
+					"expanded_url": "https://bit.ly/2ENenWJ",
+					"display_url": "bit.ly/2ENenWJ",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290134616930529300,
+					"id_str": "1290134616930529285",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Eed6mUKUMAU2ql3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eed6mUKUMAU2ql3.jpg",
+					"url": "https://t.co/I3P2hfLu2E",
+					"display_url": "pic.twitter.com/I3P2hfLu2E",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1290134617958133760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290134616930529300,
+					"id_str": "1290134616930529285",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Eed6mUKUMAU2ql3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eed6mUKUMAU2ql3.jpg",
+					"url": "https://t.co/I3P2hfLu2E",
+					"display_url": "pic.twitter.com/I3P2hfLu2E",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1290134617958133760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 229,
+			"friends_count": 366,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n마치 시원한 여름 바다에 온 듯한 기분, 보라미유 '어쩌다, 여름'\nhttps://t.co/TodNCPAcMH https://t.co/I3P2hfLu2E"
+	},
+	{
+		"created_at": "Mon Aug 03 03:29:44 +0000 2020",
+		"id": 1290122629425188900,
+		"id_str": "1290127688112324609",
+		"full_text": "[#이정혁] 쉬지않고 💖얼굴열일한 정혁OPPA의 방학 탐구생활이 궁금하다면? \n▶️ https://t.co/SLfqJtXlSd https://t.co/yGvLFQU6nk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이정혁",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLfqJtXlSd",
+					"expanded_url": "https://bit.ly/2Dq3RE7",
+					"display_url": "bit.ly/2Dq3RE7",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290122598194372600,
+					"id_str": "1290122598194372611",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedvqu4UYAMa6bN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedvqu4UYAMa6bN.jpg",
+					"url": "https://t.co/yGvLFQU6nk",
+					"display_url": "pic.twitter.com/yGvLFQU6nk",
+					"expanded_url": "https://twitter.com/themysticstory/status/1290122629425188865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290122598194372600,
+					"id_str": "1290122598194372611",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedvqu4UYAMa6bN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedvqu4UYAMa6bN.jpg",
+					"url": "https://t.co/yGvLFQU6nk",
+					"display_url": "pic.twitter.com/yGvLFQU6nk",
+					"expanded_url": "https://twitter.com/themysticstory/status/1290122629425188865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19803,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이정혁] 쉬지않고 💖얼굴열일한 정혁OPPA의 방학 탐구생활이 궁금하다면? \n▶️ https://t.co/SLfqJtXlSd https://t.co/yGvLFQU6nk"
+	},
+	{
+		"created_at": "Mon Aug 03 03:29:37 +0000 2020",
+		"id": 1290121380978028500,
+		"id_str": "1290127658005590017",
+		"full_text": "몽니 2020 단 한번의 여행 In 제주\n/ 티저 (teaser)\n.\n* 공연일시 : 2020. 09. 05(토) ~ 06(일) 1박 2일\n* 공연장소 : 플레이스 캠프 제주\n* 티켓오픈 : 2020. 08. 06(목) PM 2 / 멜론티켓 https://t.co/dKvtLs8s42 https://t.co/CdTAoxf8ZJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dKvtLs8s42",
+					"expanded_url": "https://bit.ly/30a8D19",
+					"display_url": "bit.ly/30a8D19",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290120512253784000,
+					"id_str": "1290120512253784066",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290120512253784066/pu/img/ydkjm9cwvtXaEEkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290120512253784066/pu/img/ydkjm9cwvtXaEEkV.jpg",
+					"url": "https://t.co/CdTAoxf8ZJ",
+					"display_url": "pic.twitter.com/CdTAoxf8ZJ",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1290121380978028545/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290120512253784000,
+					"id_str": "1290120512253784066",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1290120512253784066/pu/img/ydkjm9cwvtXaEEkV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1290120512253784066/pu/img/ydkjm9cwvtXaEEkV.jpg",
+					"url": "https://t.co/CdTAoxf8ZJ",
+					"display_url": "pic.twitter.com/CdTAoxf8ZJ",
+					"expanded_url": "https://twitter.com/m_boyrecord/status/1290121380978028545/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57524,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290120512253784066/pu/vid/640x360/kwSDmWUhx7jspuiy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1290120512253784066/pu/pl/btjzAVsNd8Js4Y6J.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290120512253784066/pu/vid/1280x720/HLB3tRtHYHvNzJIo.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1290120512253784066/pu/vid/480x270/3asnEkL4ZmDVgLf6.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2177785068,
+			"id_str": "2177785068",
+			"name": "모던보이엔터테인먼트",
+			"screen_name": "m_boyrecord",
+			"location": "",
+			"description": "소속아티스트 몽니, 고고보이스, 숨의숲, 윤기타, 빨간의자, 로썸 / 뮤지컬배우 김신의",
+			"url": "https://t.co/wzug4Je0hj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wzug4Je0hj",
+							"expanded_url": "http://modernboyent.com",
+							"display_url": "modernboyent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1270,
+			"friends_count": 1330,
+			"listed_count": 10,
+			"created_at": "Wed Nov 06 10:06:17 +0000 2013",
+			"favourites_count": 676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838929101633138688/35DKpUK6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2177785068/1561506274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몽니 2020 단 한번의 여행 In 제주\n/ 티저 (teaser)\n.\n* 공연일시 : 2020. 09. 05(토) ~ 06(일) 1박 2일\n* 공연장소 : 플레이스 캠프 제주\n* 티켓오픈 : 2020. 08. 06(목) PM 2 / 멜론티켓 https://t.co/dKvtLs8s42 https://t.co/CdTAoxf8ZJ"
+	},
+	{
+		"created_at": "Mon Aug 03 03:29:28 +0000 2020",
+		"id": 1290120682676789200,
+		"id_str": "1290127619518734336",
+		"full_text": "[공지] 아이유 공식 팬클럽 '유애나' 4기 모집 오픈 안내\n\n▶ 공식 팬카페 : https://t.co/LV81lO4aR0\n▶ 멜론 티켓 : https://t.co/5yyYZPKiPA\n\n📍 자세한 내용은\n공식 팬카페와 멜론티켓을 확인해 주세요!\n\n #아이유 #IU #유애나 #UAENA https://t.co/m4dTGnVMnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "유애나",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "UAENA",
+					"indices": [
+						154,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LV81lO4aR0",
+					"expanded_url": "http://cafe.daum.net/IU/NDuY/451",
+					"display_url": "cafe.daum.net/IU/NDuY/451",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/5yyYZPKiPA",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=4591",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290120643887820800,
+					"id_str": "1290120643887820800",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedt4-hU8AA2SGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedt4-hU8AA2SGr.jpg",
+					"url": "https://t.co/m4dTGnVMnv",
+					"display_url": "pic.twitter.com/m4dTGnVMnv",
+					"expanded_url": "https://twitter.com/edam_ent/status/1290120682676789253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290120643887820800,
+					"id_str": "1290120643887820800",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedt4-hU8AA2SGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eedt4-hU8AA2SGr.jpg",
+					"url": "https://t.co/m4dTGnVMnv",
+					"display_url": "pic.twitter.com/m4dTGnVMnv",
+					"expanded_url": "https://twitter.com/edam_ent/status/1290120682676789253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290120652813291500,
+					"id_str": "1290120652813291520",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eedt5fxU0AAIWmc.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eedt5fxU0AAIWmc.png",
+					"url": "https://t.co/m4dTGnVMnv",
+					"display_url": "pic.twitter.com/m4dTGnVMnv",
+					"expanded_url": "https://twitter.com/edam_ent/status/1290120682676789253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 372,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 656,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27123,
+			"friends_count": 1,
+			"listed_count": 77,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 896,
+		"favorite_count": 1822,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 아이유 공식 팬클럽 '유애나' 4기 모집 오픈 안내\n\n▶ 공식 팬카페 : https://t.co/LV81lO4aR0\n▶ 멜론 티켓 : https://t.co/5yyYZPKiPA\n\n📍 자세한 내용은\n공식 팬카페와 멜론티켓을 확인해 주세요!\n\n #아이유 #IU #유애나 #UAENA https://t.co/m4dTGnVMnv"
+	},
+	{
+		"created_at": "Mon Aug 03 03:29:25 +0000 2020",
+		"id": 1290120439407075300,
+		"id_str": "1290127606096883714",
+		"full_text": "[#LUCY]\n⠀\nD-10\nLUCY 1st Mini Album 'PANORAMA'\nTrack List OPEN!\n\n2020.08.13 6PM(KST) https://t.co/fbLzNxoDMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCY",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fbLzNxoDMM",
+					"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1290120207466299393",
+					"display_url": "twitter.com/BANDLUCY_mysti…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19803,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290120207466299400,
+		"quoted_status_id_str": "1290120207466299393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fbLzNxoDMM",
+			"expanded": "https://twitter.com/BANDLUCY_mystic/status/1290120207466299393",
+			"display": "twitter.com/BANDLUCY_mysti…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 03 03:00:01 +0000 2020",
+			"id": 1290120207466299400,
+			"id_str": "1290120207466299393",
+			"full_text": "#LUCY\n⠀\n[D-10]\nLUCY 1st Mini Album 'PANORAMA'\nTrack List를 공개 합니다\n⠀\n다양한 여름의 단상들을 펼쳐낼 6개의 트랙!\n기대해주세요💙\n⠀\n+'수박깨러가' means 'Let’s go to crush a watermelon'\n⠀\n#LUCY #루시 #신예찬 #최상엽 #조원상\n#신광일 #PANORAMA https://t.co/qPDCN9d2es",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LUCY",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "LUCY",
+						"indices": [
+							152,
+							157
+						]
+					},
+					{
+						"text": "루시",
+						"indices": [
+							158,
+							161
+						]
+					},
+					{
+						"text": "신예찬",
+						"indices": [
+							162,
+							166
+						]
+					},
+					{
+						"text": "최상엽",
+						"indices": [
+							167,
+							171
+						]
+					},
+					{
+						"text": "조원상",
+						"indices": [
+							172,
+							176
+						]
+					},
+					{
+						"text": "신광일",
+						"indices": [
+							177,
+							181
+						]
+					},
+					{
+						"text": "PANORAMA",
+						"indices": [
+							182,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1290112346480717800,
+						"id_str": "1290112346480717824",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/EedmWARUMAAsvWr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EedmWARUMAAsvWr.jpg",
+						"url": "https://t.co/qPDCN9d2es",
+						"display_url": "pic.twitter.com/qPDCN9d2es",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1290120207466299393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290112346480717800,
+						"id_str": "1290112346480717824",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/EedmWARUMAAsvWr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EedmWARUMAAsvWr.jpg",
+						"url": "https://t.co/qPDCN9d2es",
+						"display_url": "pic.twitter.com/qPDCN9d2es",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1290120207466299393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1290112358388392000,
+						"id_str": "1290112358388391937",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/EedmWsoU4AEodSG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EedmWsoU4AEodSG.jpg",
+						"url": "https://t.co/qPDCN9d2es",
+						"display_url": "pic.twitter.com/qPDCN9d2es",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1290120207466299393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1350,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1248459032320327700,
+				"id_str": "1248459032320327683",
+				"name": "BAND LUCY | 밴드 루시",
+				"screen_name": "BANDLUCY_mystic",
+				"location": "대한민국",
+				"description": "BAND LUCY official twitter 신예찬(바이올린), 최상엽(보컬), 조원상(베이스/프로듀서), 신광일(드럼/보컬) 👉유튜브 https://t.co/B8kJb9sezG 👉팬카페 https://t.co/Bl5TdRkgPc",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B8kJb9sezG",
+								"expanded_url": "https://bit.ly/31g7KUp",
+								"display_url": "bit.ly/31g7KUp",
+								"indices": [
+									78,
+									101
+								]
+							},
+							{
+								"url": "https://t.co/Bl5TdRkgPc",
+								"expanded_url": "http://cafe.daum.net/band.lucy",
+								"display_url": "cafe.daum.net/band.lucy",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10394,
+				"friends_count": 3,
+				"listed_count": 138,
+				"created_at": "Fri Apr 10 03:53:29 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248459032320327683/1586872497",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 534,
+			"favorite_count": 875,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "[#LUCY]\n⠀\nD-10\nLUCY 1st Mini Album 'PANORAMA'\nTrack List OPEN!\n\n2020.08.13 6PM(KST) https://t.co/fbLzNxoDMM"
+	},
+	{
 		"created_at": "Mon Aug 03 03:15:31 +0000 2020",
 		"id": 1290124107304951800,
 		"id_str": "1290124107304951808",
