@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 15:29:25 +0000 2020",
+		"id": 1291026179995009000,
+		"id_str": "1291033576541233152",
+		"full_text": "ROTHY \nSINGLE [OCEAN VIEW] \n\nCONCEPT PHOTO 1 \n2020. 08. 13 6PM(KST)\n\n#로시 #ROTHY #OCEANVIEW https://t.co/UKKeWCrhPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로시",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "ROTHY",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "OCEANVIEW",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291025553558876200,
+					"id_str": "1291025553558876161",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeqk5pvUMAEfeIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeqk5pvUMAEfeIm.jpg",
+					"url": "https://t.co/UKKeWCrhPe",
+					"display_url": "pic.twitter.com/UKKeWCrhPe",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1291026179995009025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291025553558876200,
+					"id_str": "1291025553558876161",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeqk5pvUMAEfeIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeqk5pvUMAEfeIm.jpg",
+					"url": "https://t.co/UKKeWCrhPe",
+					"display_url": "pic.twitter.com/UKKeWCrhPe",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1291026179995009025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291025553563164700,
+					"id_str": "1291025553563164672",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeqk5pwVoAAtBC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeqk5pwVoAAtBC4.jpg",
+					"url": "https://t.co/UKKeWCrhPe",
+					"display_url": "pic.twitter.com/UKKeWCrhPe",
+					"expanded_url": "https://twitter.com/dorothy_company/status/1291026179995009025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1907527430,
+			"id_str": "1907527430",
+			"name": "도로시컴퍼니",
+			"screen_name": "dorothy_company",
+			"location": "",
+			"description": "DOROTHY COMPANY OFFICIAL TWITTER",
+			"url": "https://t.co/Ujgx9vWztC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ujgx9vWztC",
+							"expanded_url": "https://www.youtube.com/user/dorothycp",
+							"display_url": "youtube.com/user/dorothycp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991,
+			"friends_count": 1,
+			"listed_count": 23,
+			"created_at": "Thu Sep 26 11:04:13 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494382806001139712/8RcnmuiH_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907527430/1591590908",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ROTHY \nSINGLE [OCEAN VIEW] \n\nCONCEPT PHOTO 1 \n2020. 08. 13 6PM(KST)\n\n#로시 #ROTHY #OCEANVIEW https://t.co/UKKeWCrhPe"
+	},
+	{
 		"created_at": "Wed Aug 05 12:55:22 +0000 2020",
 		"id": 1290994809541468200,
 		"id_str": "1290994809541468160",
