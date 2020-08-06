@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 15:12:01 +0000 2020",
+		"id": 1291391584379056000,
+		"id_str": "1291391584379056128",
+		"full_text": "#SMTOWN\n[STATION] BOL4 볼빨간사춘기 '아틀란티스 소녀 (Atlantis Princess)' Teaser - Our Beloved BoA #2\nhttps://t.co/49Fc5bmVwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/49Fc5bmVwf",
+					"expanded_url": "https://youtu.be/hQslvfH6hIw",
+					"display_url": "youtu.be/hQslvfH6hIw",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 366,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\n[STATION] BOL4 볼빨간사춘기 '아틀란티스 소녀 (Atlantis Princess)' Teaser - Our Beloved BoA #2\nhttps://t.co/49Fc5bmVwf"
+	},
+	{
+		"created_at": "Thu Aug 06 15:07:28 +0000 2020",
+		"id": 1291297964971962400,
+		"id_str": "1291390442085339143",
+		"full_text": "TAEMIN 태민 ‘2 KIDS’ Live Video Teaser\n\n#태민 #TAEMIN #샤이니 #SHINee\n#2KIDS\n#NeverGonnaDanceAgain\n#Prologue https://t.co/LbSnCfbLAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "2KIDS",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						70,
+						91
+					]
+				},
+				{
+					"text": "Prologue",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291294789808226300,
+					"id_str": "1291294789808226304",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeubas5UwAAM94b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeubas5UwAAM94b.jpg",
+					"url": "https://t.co/LbSnCfbLAf",
+					"display_url": "pic.twitter.com/LbSnCfbLAf",
+					"expanded_url": "https://twitter.com/SHINee/status/1291297964971962369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291294789808226300,
+					"id_str": "1291294789808226304",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeubas5UwAAM94b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeubas5UwAAM94b.jpg",
+					"url": "https://t.co/LbSnCfbLAf",
+					"display_url": "pic.twitter.com/LbSnCfbLAf",
+					"expanded_url": "https://twitter.com/SHINee/status/1291297964971962369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29112,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291294789808226304/vid/480x270/MklbR77fhH0-n_Nt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1291294789808226304/pl/RmNzv_TzpaspJSG9.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291294789808226304/vid/1280x720/8JTtfBwvqMw-_03H.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291294789808226304/vid/640x360/_1Xb-5nUF4FxOg5u.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1310597,
+			"friends_count": 2,
+			"listed_count": 2966,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288348431472160769/RUBTNBsP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288348431472160769/RUBTNBsP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1596532212",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10882,
+		"favorite_count": 26061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 ‘2 KIDS’ Live Video Teaser\n\n#태민 #TAEMIN #샤이니 #SHINee\n#2KIDS\n#NeverGonnaDanceAgain\n#Prologue https://t.co/LbSnCfbLAf"
+	},
+	{
 		"created_at": "Thu Aug 06 13:05:56 +0000 2020",
 		"id": 1291359855350096000,
 		"id_str": "1291359855350095873",
