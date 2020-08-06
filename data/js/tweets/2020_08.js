@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 11:41:40 +0000 2020",
+		"id": 1291326009367646200,
+		"id_str": "1291338648214962177",
+		"full_text": "&lt;언제까지나 네 곁에 있을게&gt;\n\n📍일시 : 8/8(토) 오후 7시 \n📍장소 : 프리즘홀 (양화로12길 6)\n📍라인업 : 헤이맨, P:Q (PQ TIME, 피큐 타임), 러스트러블, 한뉘\n📍티켓 : 현매 25,000원 (예매 없음)\n📍문의 : 070-8150-2979",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1291326007593459700,
+		"in_reply_to_status_id_str": "1291326007593459713",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 2709,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;언제까지나 네 곁에 있을게&gt;\n\n📍일시 : 8/8(토) 오후 7시 \n📍장소 : 프리즘홀 (양화로12길 6)\n📍라인업 : 헤이맨, P:Q (PQ TIME, 피큐 타임), 러스트러블, 한뉘\n📍티켓 : 현매 25,000원 (예매 없음)\n📍문의 : 070-8150-2979"
+	},
+	{
+		"created_at": "Thu Aug 06 11:41:38 +0000 2020",
+		"id": 1291326007593459700,
+		"id_str": "1291338639381757952",
+		"full_text": "[공연추천]\n\n'나에게만 들리는 속삭임'을 원하신다면 이 공연을 주목해보세요-!\n바로 이번 주 토요일, 검증받은 실력으로 주목받고 있는 팀들의 공연이 진행됩니다😘\n여러 분위기의 음악을 한 자리에서 만나볼 수 있는 기회, 놓치지 마세요👣\n\n✨프리즘홀은 공연 전후 철저한 방역을 실시합니다. https://t.co/iT2RfNFoNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291325804001951700,
+					"id_str": "1291325804001951744",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeu1-hzVAAA-_Gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeu1-hzVAAA-_Gy.jpg",
+					"url": "https://t.co/iT2RfNFoNO",
+					"display_url": "pic.twitter.com/iT2RfNFoNO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1291326007593459713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291325804001951700,
+					"id_str": "1291325804001951744",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeu1-hzVAAA-_Gy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeu1-hzVAAA-_Gy.jpg",
+					"url": "https://t.co/iT2RfNFoNO",
+					"display_url": "pic.twitter.com/iT2RfNFoNO",
+					"expanded_url": "https://twitter.com/xindieticket/status/1291326007593459713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 2709,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n\n'나에게만 들리는 속삭임'을 원하신다면 이 공연을 주목해보세요-!\n바로 이번 주 토요일, 검증받은 실력으로 주목받고 있는 팀들의 공연이 진행됩니다😘\n여러 분위기의 음악을 한 자리에서 만나볼 수 있는 기회, 놓치지 마세요👣\n\n✨프리즘홀은 공연 전후 철저한 방역을 실시합니다. https://t.co/iT2RfNFoNO"
+	},
+	{
+		"created_at": "Thu Aug 06 11:32:22 +0000 2020",
+		"id": 1291336310213443600,
+		"id_str": "1291336310213443585",
+		"full_text": "【 #레드벨벳 】 #RedVelvet\n2020 소리바다 베스트 케이뮤직 어워드 (2020.08.13 ~ 2020.08.13) at 추후 공지\n▶ https://t.co/r1qOXlLsm0\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/TYuc8PxNCd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r1qOXlLsm0",
+					"expanded_url": "https://bit.ly/2DF3Fkt",
+					"display_url": "bit.ly/2DF3Fkt",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291336309114536000,
+					"id_str": "1291336309114535937",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeu_iAZWAAEG3nH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeu_iAZWAAEG3nH.jpg",
+					"url": "https://t.co/TYuc8PxNCd",
+					"display_url": "pic.twitter.com/TYuc8PxNCd",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1291336310213443585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291336309114536000,
+					"id_str": "1291336309114535937",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/Eeu_iAZWAAEG3nH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eeu_iAZWAAEG3nH.jpg",
+					"url": "https://t.co/TYuc8PxNCd",
+					"display_url": "pic.twitter.com/TYuc8PxNCd",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1291336310213443585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 366,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #레드벨벳 】 #RedVelvet\n2020 소리바다 베스트 케이뮤직 어워드 (2020.08.13 ~ 2020.08.13) at 추후 공지\n▶ https://t.co/r1qOXlLsm0\n　\n#PlayDB #플레이DB\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/TYuc8PxNCd"
+	},
+	{
 		"created_at": "Thu Aug 06 11:11:28 +0000 2020",
 		"id": 1291331048756973600,
 		"id_str": "1291331048756973568",
