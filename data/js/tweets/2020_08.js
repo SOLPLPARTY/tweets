@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 09:41:46 +0000 2020",
+		"id": 1291303646513127400,
+		"id_str": "1291308474253672450",
+		"full_text": "#할인혜택\n📌#SK텔레콤 제휴 소식 안내📌\nT멤버쉽 고객이라면 누구나!\n상상마당에서 다양한 할인 혜택받고\n문화예술 즐겨요:)\n\n&lt;쿠폰 다운로드 방법&gt;\n1. T멤버십 APP실행\n2. 홍대입구 지역 클릭\n3. 할인 쿠폰 다운로드\n\nSKT 로컬 제휴 \"홍대\" 보러가기\nhttps://t.co/fD9k7tZwja\n\n#홍대제휴 #BOOSTPARK https://t.co/B1gbDFKeIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "할인혜택",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SK텔레콤",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "홍대제휴",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "BOOSTPARK",
+					"indices": [
+						184,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fD9k7tZwja",
+					"expanded_url": "https://bit.ly/2XxWbqe",
+					"display_url": "bit.ly/2XxWbqe",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291303313363755000,
+					"id_str": "1291303313363755008",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuhhZpU4AATn9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuhhZpU4AATn9i.jpg",
+					"url": "https://t.co/B1gbDFKeIP",
+					"display_url": "pic.twitter.com/B1gbDFKeIP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1291303646513127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291303313363755000,
+					"id_str": "1291303313363755008",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuhhZpU4AATn9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuhhZpU4AATn9i.jpg",
+					"url": "https://t.co/B1gbDFKeIP",
+					"display_url": "pic.twitter.com/B1gbDFKeIP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1291303646513127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291303313363759000,
+					"id_str": "1291303313363759106",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuhhZpU8AITBX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuhhZpU8AITBX4.jpg",
+					"url": "https://t.co/B1gbDFKeIP",
+					"display_url": "pic.twitter.com/B1gbDFKeIP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1291303646513127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291303313363759000,
+					"id_str": "1291303313363759105",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuhhZpU8AEQhmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuhhZpU8AEQhmI.jpg",
+					"url": "https://t.co/B1gbDFKeIP",
+					"display_url": "pic.twitter.com/B1gbDFKeIP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1291303646513127424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18242,
+			"friends_count": 1928,
+			"listed_count": 296,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#할인혜택\n📌#SK텔레콤 제휴 소식 안내📌\nT멤버쉽 고객이라면 누구나!\n상상마당에서 다양한 할인 혜택받고\n문화예술 즐겨요:)\n\n&lt;쿠폰 다운로드 방법&gt;\n1. T멤버십 APP실행\n2. 홍대입구 지역 클릭\n3. 할인 쿠폰 다운로드\n\nSKT 로컬 제휴 \"홍대\" 보러가기\nhttps://t.co/fD9k7tZwja\n\n#홍대제휴 #BOOSTPARK https://t.co/B1gbDFKeIP"
+	},
+	{
+		"created_at": "Thu Aug 06 09:41:38 +0000 2020",
+		"id": 1291294727833178000,
+		"id_str": "1291308440258785281",
+		"full_text": "[2020.08.06(목) 교통 안내]\n\n역에서 오시는길 및 주차 안내: https://t.co/o0HZ7XKIk4\n\n교통 상황을 고려하시어 여유있는 이동시간을 계획하여 주시기를 바랍니다! https://t.co/mAu5ua0dxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o0HZ7XKIk4",
+					"expanded_url": "https://m.place.naver.com/place/1524725593/feed?feedType=feed",
+					"display_url": "m.place.naver.com/place/15247255…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291294714210082800,
+					"id_str": "1291294714210082817",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuZs3TU4AE7mJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuZs3TU4AE7mJ3.jpg",
+					"url": "https://t.co/mAu5ua0dxe",
+					"display_url": "pic.twitter.com/mAu5ua0dxe",
+					"expanded_url": "https://twitter.com/yes24stage/status/1291294727833178112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1123,
+							"h": 794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291294714210082800,
+					"id_str": "1291294714210082817",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EeuZs3TU4AE7mJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeuZs3TU4AE7mJ3.jpg",
+					"url": "https://t.co/mAu5ua0dxe",
+					"display_url": "pic.twitter.com/mAu5ua0dxe",
+					"expanded_url": "https://twitter.com/yes24stage/status/1291294727833178112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1123,
+							"h": 794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4150,
+			"friends_count": 30,
+			"listed_count": 16,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020.08.06(목) 교통 안내]\n\n역에서 오시는길 및 주차 안내: https://t.co/o0HZ7XKIk4\n\n교통 상황을 고려하시어 여유있는 이동시간을 계획하여 주시기를 바랍니다! https://t.co/mAu5ua0dxe"
+	},
+	{
+		"created_at": "Thu Aug 06 09:29:27 +0000 2020",
+		"id": 1291302740606369800,
+		"id_str": "1291305377636782081",
+		"full_text": "[#오늘의존]\n🎼 아카펠라 버전 ‘Sipping My Life’ \n다섯 존박의 화음은 이어폰으로 즐겨요 우리🎧\n풀버전은 유튜브에서 ‘존박의 트루존쇼’ 검색!\n▶️ https://t.co/cc5iUngxMM\n\n#존박 #JohnPark #SippingMyLife\n#존박의트루존쇼 #아카펠라 #Acappella https://t.co/CT3cSu8xCK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의존",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "SippingMyLife",
+					"indices": [
+						130,
+						144
+					]
+				},
+				{
+					"text": "존박의트루존쇼",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "아카펠라",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "Acappella",
+					"indices": [
+						160,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cc5iUngxMM",
+					"expanded_url": "https://youtu.be/6zdI0EpOssw",
+					"display_url": "youtu.be/6zdI0EpOssw",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291302650525302800,
+					"id_str": "1291302650525302784",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291302650525302784/pu/img/fRwSCYRxXFk_3y84.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291302650525302784/pu/img/fRwSCYRxXFk_3y84.jpg",
+					"url": "https://t.co/CT3cSu8xCK",
+					"display_url": "pic.twitter.com/CT3cSu8xCK",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1291302740606369793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291302650525302800,
+					"id_str": "1291302650525302784",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1291302650525302784/pu/img/fRwSCYRxXFk_3y84.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1291302650525302784/pu/img/fRwSCYRxXFk_3y84.jpg",
+					"url": "https://t.co/CT3cSu8xCK",
+					"display_url": "pic.twitter.com/CT3cSu8xCK",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1291302740606369793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28217,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291302650525302784/pu/vid/480x270/blWiqObnvgU1g2Ij.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291302650525302784/pu/vid/640x360/kVxRkWLijp-GMl_F.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1291302650525302784/pu/vid/1280x720/Qv7paUypaKH7gs67.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1291302650525302784/pu/pl/NYaCkNE3XX7IBFcv.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9197,
+			"friends_count": 5,
+			"listed_count": 110,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오늘의존]\n🎼 아카펠라 버전 ‘Sipping My Life’ \n다섯 존박의 화음은 이어폰으로 즐겨요 우리🎧\n풀버전은 유튜브에서 ‘존박의 트루존쇼’ 검색!\n▶️ https://t.co/cc5iUngxMM\n\n#존박 #JohnPark #SippingMyLife\n#존박의트루존쇼 #아카펠라 #Acappella https://t.co/CT3cSu8xCK"
+	},
+	{
 		"created_at": "Thu Aug 06 09:04:01 +0000 2020",
 		"id": 1291298975425998800,
 		"id_str": "1291298975425998848",
