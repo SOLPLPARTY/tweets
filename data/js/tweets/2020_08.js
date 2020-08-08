@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 09:29:38 +0000 2020",
+		"id": 1292028095289933800,
+		"id_str": "1292030198494437376",
+		"full_text": "D-8 &lt;이&gt;\n\n밤하늘에 끝과 끝을 \n이어 선을 그어봅니다. \n빛xx xxx x xx\n나x xxx x\n는xx, xxxx xx xxx\n별xx xx. xxx xx xx xx xxx\n에x xxxx xx xxxx. \n\n밤이 빛나는 별에서 만나요\n\n2020 8 16 일요일 6시\nat 망원 낙랑파라\n\n10일 정오 예매 오픈 \nhttps://t.co/fFUw43k4gB\n\n#유정목 #밤이빛나는별에 https://t.co/v9eCNoG3cT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						208,
+						212
+					]
+				},
+				{
+					"text": "밤이빛나는별에",
+					"indices": [
+						213,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fFUw43k4gB",
+					"expanded_url": "https://docs.google.com/forms/d/1N-_Ozctpo4evFYoUU34s7I4ys5NW1yCniIgzB699LWo/edit",
+					"display_url": "docs.google.com/forms/d/1N-_Oz…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292027986380636200,
+					"id_str": "1292027986380636160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee40m7AUwAAA99M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee40m7AUwAAA99M.jpg",
+					"url": "https://t.co/v9eCNoG3cT",
+					"display_url": "pic.twitter.com/v9eCNoG3cT",
+					"expanded_url": "https://twitter.com/orm_ent/status/1292028095289933825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292027986380636200,
+					"id_str": "1292027986380636160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee40m7AUwAAA99M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee40m7AUwAAA99M.jpg",
+					"url": "https://t.co/v9eCNoG3cT",
+					"display_url": "pic.twitter.com/v9eCNoG3cT",
+					"expanded_url": "https://twitter.com/orm_ent/status/1292028095289933825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 335,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1587958427",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-8 &lt;이&gt;\n\n밤하늘에 끝과 끝을 \n이어 선을 그어봅니다. \n빛xx xxx x xx\n나x xxx x\n는xx, xxxx xx xxx\n별xx xx. xxx xx xx xx xxx\n에x xxxx xx xxxx. \n\n밤이 빛나는 별에서 만나요\n\n2020 8 16 일요일 6시\nat 망원 낙랑파라\n\n10일 정오 예매 오픈 \nhttps://t.co/fFUw43k4gB\n\n#유정목 #밤이빛나는별에 https://t.co/v9eCNoG3cT"
+	},
+	{
+		"created_at": "Sat Aug 08 09:29:35 +0000 2020",
+		"id": 1292024670141612000,
+		"id_str": "1292030185446014976",
+		"full_text": "#LOVER! - #디어클라우드\n 들어보세요. \nhttps://t.co/ttSisU9mvF https://t.co/BEZgd3TQ9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOVER",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ttSisU9mvF",
+					"expanded_url": "http://kko.to/1w2WinzDM",
+					"display_url": "kko.to/1w2WinzDM",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292024669181100000,
+					"id_str": "1292024669181100032",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee4xl1eUwAAuRZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee4xl1eUwAAuRZD.jpg",
+					"url": "https://t.co/BEZgd3TQ9o",
+					"display_url": "pic.twitter.com/BEZgd3TQ9o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1292024670141612032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292024669181100000,
+					"id_str": "1292024669181100032",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee4xl1eUwAAuRZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee4xl1eUwAAuRZD.jpg",
+					"url": "https://t.co/BEZgd3TQ9o",
+					"display_url": "pic.twitter.com/BEZgd3TQ9o",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1292024670141612032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.melon.com\" rel=\"nofollow\">MelonMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2694,
+			"friends_count": 355,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 16116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOVER! - #디어클라우드\n 들어보세요. \nhttps://t.co/ttSisU9mvF https://t.co/BEZgd3TQ9o"
+	},
+	{
+		"created_at": "Sat Aug 08 09:29:28 +0000 2020",
+		"id": 1292022902431322000,
+		"id_str": "1292030155624534016",
+		"full_text": "주말에 에너지 충전이 필요할\n유애나를 위해 준비해봤어요🎁\n무편집본은 아니지만\n집콕시그널 비하인드를 받아주겠니?💜\n\nEDAM YouTube ▶▶ https://t.co/lKlHxsG1QT\n\n#아이유 #IU #집콕시그널\n#이담_프로젝트 #EDAM_Project https://t.co/UZADI1LE7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "집콕시그널",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "이담_프로젝트",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "EDAM_Project",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lKlHxsG1QT",
+					"expanded_url": "https://youtu.be/nGPl7XxHmXQ",
+					"display_url": "youtu.be/nGPl7XxHmXQ",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1292022891274309600,
+					"id_str": "1292022891274309632",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee4v-WQUEAASCxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee4v-WQUEAASCxF.jpg",
+					"url": "https://t.co/UZADI1LE7S",
+					"display_url": "pic.twitter.com/UZADI1LE7S",
+					"expanded_url": "https://twitter.com/edam_ent/status/1292022902431322114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292022891274309600,
+					"id_str": "1292022891274309632",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee4v-WQUEAASCxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee4v-WQUEAASCxF.jpg",
+					"url": "https://t.co/UZADI1LE7S",
+					"display_url": "pic.twitter.com/UZADI1LE7S",
+					"expanded_url": "https://twitter.com/edam_ent/status/1292022902431322114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27366,
+			"friends_count": 1,
+			"listed_count": 79,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1471,
+		"favorite_count": 4593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주말에 에너지 충전이 필요할\n유애나를 위해 준비해봤어요🎁\n무편집본은 아니지만\n집콕시그널 비하인드를 받아주겠니?💜\n\nEDAM YouTube ▶▶ https://t.co/lKlHxsG1QT\n\n#아이유 #IU #집콕시그널\n#이담_프로젝트 #EDAM_Project https://t.co/UZADI1LE7S"
+	},
+	{
 		"created_at": "Sat Aug 08 08:29:25 +0000 2020",
 		"id": 1292002935262470100,
 		"id_str": "1292015042423148545",
