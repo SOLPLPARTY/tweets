@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 06:29:25 +0000 2020",
+		"id": 1291970757824639000,
+		"id_str": "1291984844147367936",
+		"full_text": "#레인보우노트 #뮤지엄콘서트 #Rainbownote\n&lt;뮤지엄 콘서트&gt;의 첫번째 뮤지션 \n‘레인보우 노트 (Rainbow Note)’ -  소행성\n\n역사와 문화를 간직한 인천 중구 일대의 문화 스팟 및 뮤지엄에서 진행되는 &lt;뮤지엄 콘서트&gt;\n\n레인보우노트 편\nhttps://t.co/Ob9G11f8bJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "뮤지엄콘서트",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "Rainbownote",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ob9G11f8bJ",
+					"expanded_url": "https://m.youtube.com/watch?v=d_t9p9ebhz8",
+					"display_url": "m.youtube.com/watch?v=d_t9p9…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7883,
+			"friends_count": 8431,
+			"listed_count": 204,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레인보우노트 #뮤지엄콘서트 #Rainbownote\n&lt;뮤지엄 콘서트&gt;의 첫번째 뮤지션 \n‘레인보우 노트 (Rainbow Note)’ -  소행성\n\n역사와 문화를 간직한 인천 중구 일대의 문화 스팟 및 뮤지엄에서 진행되는 &lt;뮤지엄 콘서트&gt;\n\n레인보우노트 편\nhttps://t.co/Ob9G11f8bJ"
+	},
+	{
 		"created_at": "Sat Aug 08 05:57:19 +0000 2020",
 		"id": 1291976766811263000,
 		"id_str": "1291976766811262977",
