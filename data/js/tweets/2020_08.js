@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 16:29:37 +0000 2020",
+		"id": 1292489265427824600,
+		"id_str": "1292498277997383680",
+		"full_text": "🎤 담담하게 정승환이 전하는 \n마지막 위로 곡 '도망가자'♬ \nhttps://t.co/WPRypmlSKG\n\n🎤 비긴어게인 코리아 팀의 마지막 버스킹 \n'뜨거운 안녕 (안테나 워리어스 ver.)'♪ \nhttps://t.co/diIFBC86GR\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WPRypmlSKG",
+					"expanded_url": "http://naver.me/xhsFzKN0",
+					"display_url": "naver.me/xhsFzKN0",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/diIFBC86GR",
+					"expanded_url": "http://naver.me/5sELsuJw",
+					"display_url": "naver.me/5sELsuJw",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34472,
+			"friends_count": 11,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤 담담하게 정승환이 전하는 \n마지막 위로 곡 '도망가자'♬ \nhttps://t.co/WPRypmlSKG\n\n🎤 비긴어게인 코리아 팀의 마지막 버스킹 \n'뜨거운 안녕 (안테나 워리어스 ver.)'♪ \nhttps://t.co/diIFBC86GR\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아"
+	},
+	{
+		"created_at": "Sun Aug 09 16:29:32 +0000 2020",
+		"id": 1292488890083754000,
+		"id_str": "1292498256572887047",
+		"full_text": "🎤 노래만큼 궁금한 엔딩 이수현x헨리x크러쉬x정승환의 'Perhaps Love (사랑인가요)'♪ \nhttps://t.co/5o04vCOg9K\n\n🎤 (두둠칫) 멈출 수 없는 흥💃🕺 \n비긴어게인 코리아 팀의 'Juice'♪\nhttps://t.co/g1cXbUQmV5\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "비긴어게인코리아",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5o04vCOg9K",
+					"expanded_url": "http://naver.me/5JYxp35n",
+					"display_url": "naver.me/5JYxp35n",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/g1cXbUQmV5",
+					"expanded_url": "http://naver.me/FPapnZmR",
+					"display_url": "naver.me/FPapnZmR",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seung Hwan, Lee Jin Ah, CHAI, Yun Seokcheol Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34472,
+			"friends_count": 11,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1591934172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤 노래만큼 궁금한 엔딩 이수현x헨리x크러쉬x정승환의 'Perhaps Love (사랑인가요)'♪ \nhttps://t.co/5o04vCOg9K\n\n🎤 (두둠칫) 멈출 수 없는 흥💃🕺 \n비긴어게인 코리아 팀의 'Juice'♪\nhttps://t.co/g1cXbUQmV5\n\n(출처 : 비긴어게인 코리아 | 네이버TV)\n#정승환 #비긴어게인 #비긴어게인코리아"
+	},
+	{
 		"created_at": "Sun Aug 09 15:29:29 +0000 2020",
 		"id": 1292483144982106000,
 		"id_str": "1292483144982106112",
