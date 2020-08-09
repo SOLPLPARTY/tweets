@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 01:37:54 +0000 2020",
+		"id": 1292249234331246600,
+		"id_str": "1292273869827395585",
+		"full_text": "Welcome to the OFFICIAL SMUSA Twitter account! 🎉 We are so excited to be launching a new channel for us to share updates &amp; interact with you all. We hope you will look forward to all of the exciting things we have in the works to continue uniting our artists with their fans! 😊 https://t.co/6E0KFmTNyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292196177685835800,
+					"id_str": "1292196177685835776",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee7Nk8cU8AAyqs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee7Nk8cU8AAyqs8.jpg",
+					"url": "https://t.co/6E0KFmTNyy",
+					"display_url": "pic.twitter.com/6E0KFmTNyy",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1292249234331246592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292196177685835800,
+					"id_str": "1292196177685835776",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee7Nk8cU8AAyqs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee7Nk8cU8AAyqs8.jpg",
+					"url": "https://t.co/6E0KFmTNyy",
+					"display_url": "pic.twitter.com/6E0KFmTNyy",
+					"expanded_url": "https://twitter.com/SMTOWN_USA/status/1292249234331246592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280628247747678200,
+			"id_str": "1280628247747678208",
+			"name": "SMTOWNUSA",
+			"screen_name": "SMTOWN_USA",
+			"location": "",
+			"description": "The Official Twitter of SMUSA",
+			"url": "https://t.co/KdM169wLtq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdM169wLtq",
+							"expanded_url": "http://smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15167,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Jul 07 22:25:11 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288887781670842369/7OejPbf__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280628247747678208/1596129921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4346,
+		"favorite_count": 22153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to the OFFICIAL SMUSA Twitter account! 🎉 We are so excited to be launching a new channel for us to share updates &amp; interact with you all. We hope you will look forward to all of the exciting things we have in the works to continue uniting our artists with their fans! 😊 https://t.co/6E0KFmTNyy"
+	},
+	{
 		"created_at": "Sat Aug 08 15:29:28 +0000 2020",
 		"id": 1292120753996013600,
 		"id_str": "1292120753996013571",
