@@ -1,6 +1,744 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 07:57:08 +0000 2020",
+		"id": 1293456468511989800,
+		"id_str": "1293456468511989760",
+		"full_text": "#Melon #멜론 #멜론매거진\n빈티지 오디오와 오버홀\nhttps://t.co/OKLtM3yzrI https://t.co/zhuoCds4HT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OKLtM3yzrI",
+					"expanded_url": "https://bit.ly/33SZTPw",
+					"display_url": "bit.ly/33SZTPw",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293456467429920800,
+					"id_str": "1293456467429920769",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNHzdmXkAEb_7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNHzdmXkAEb_7m.jpg",
+					"url": "https://t.co/zhuoCds4HT",
+					"display_url": "pic.twitter.com/zhuoCds4HT",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1293456468511989760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293456467429920800,
+					"id_str": "1293456467429920769",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EfNHzdmXkAEb_7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfNHzdmXkAEb_7m.jpg",
+					"url": "https://t.co/zhuoCds4HT",
+					"display_url": "pic.twitter.com/zhuoCds4HT",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1293456468511989760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n빈티지 오디오와 오버홀\nhttps://t.co/OKLtM3yzrI https://t.co/zhuoCds4HT"
+	},
+	{
+		"created_at": "Wed Aug 12 07:29:44 +0000 2020",
+		"id": 1293444183764607000,
+		"id_str": "1293449575731269638",
+		"full_text": "[#김사월]NEW Single\n김사월 (Kim Sawol)\n확률 (ray)\nMV Teaser 1\n🎧 2020.08.19 발매\n\n정규 3집 앨범 발표에 앞서 수록곡 한 곡을 선공개 합니다.\n\n#newsingle #확률 #Ray #유어썸머 https://t.co/apqqJOmKlt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "newsingle",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "확률",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "Ray",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293444133147664400,
+					"id_str": "1293444133147664386",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293444133147664386/pu/img/caqNNLbeeVhwuzeO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293444133147664386/pu/img/caqNNLbeeVhwuzeO.jpg",
+					"url": "https://t.co/apqqJOmKlt",
+					"display_url": "pic.twitter.com/apqqJOmKlt",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1293444183764606976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293444133147664400,
+					"id_str": "1293444133147664386",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293444133147664386/pu/img/caqNNLbeeVhwuzeO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293444133147664386/pu/img/caqNNLbeeVhwuzeO.jpg",
+					"url": "https://t.co/apqqJOmKlt",
+					"display_url": "pic.twitter.com/apqqJOmKlt",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1293444183764606976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 30572,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293444133147664386/pu/vid/478x270/iVjKOBxF1uUE21BV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293444133147664386/pu/vid/720x406/8mZOf0RVS7RDwyIc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1293444133147664386/pu/pl/gveT97fgsrKWN6bF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1818,
+			"friends_count": 24,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월]NEW Single\n김사월 (Kim Sawol)\n확률 (ray)\nMV Teaser 1\n🎧 2020.08.19 발매\n\n정규 3집 앨범 발표에 앞서 수록곡 한 곡을 선공개 합니다.\n\n#newsingle #확률 #Ray #유어썸머 https://t.co/apqqJOmKlt"
+	},
+	{
+		"created_at": "Wed Aug 12 07:29:35 +0000 2020",
+		"id": 1293443387626938400,
+		"id_str": "1293449537500131329",
+		"full_text": "#사운드바운드 #모트 #오왠 #나인 #우자앤쉐인 \n[사운드바운드 2020]과 함께하는 음악이 넘치는 개항장🌞\n\n✔ 역사와 문화가 살아 있는 공간들과 어울어진 음악 축제!!\n잠시후 6pm 티켓오픈!!\n⠀\nTICKETING🎉\n네이버예약👉 https://t.co/H2NOVuNcV9\n\nhttps://t.co/9A9v1C3fO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드바운드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "오왠",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						16,
+						19
+					]
+				},
+				{
+					"text": "우자앤쉐인",
+					"indices": [
+						20,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2NOVuNcV9",
+					"expanded_url": "https://bit.ly/2CjVSYZ",
+					"display_url": "bit.ly/2CjVSYZ",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/9A9v1C3fO7",
+					"expanded_url": "https://youtu.be/0wknZHhbsoU",
+					"display_url": "youtu.be/0wknZHhbsoU",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "안녕하세요. Ruby Records입니다. Youtube : https://t.co/Cm3qQe7FHT",
+			"url": "https://t.co/iuOLLhyIHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iuOLLhyIHl",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cm3qQe7FHT",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7887,
+			"friends_count": 8427,
+			"listed_count": 204,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/700694376964497408/sJ9IYSOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1455793715",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사운드바운드 #모트 #오왠 #나인 #우자앤쉐인 \n[사운드바운드 2020]과 함께하는 음악이 넘치는 개항장🌞\n\n✔ 역사와 문화가 살아 있는 공간들과 어울어진 음악 축제!!\n잠시후 6pm 티켓오픈!!\n⠀\nTICKETING🎉\n네이버예약👉 https://t.co/H2NOVuNcV9\n\nhttps://t.co/9A9v1C3fO7"
+	},
+	{
+		"created_at": "Wed Aug 12 07:29:28 +0000 2020",
+		"id": 1293434659993301000,
+		"id_str": "1293449507657654273",
+		"full_text": "https://t.co/TXiNcunvmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TXiNcunvmI",
+					"expanded_url": "https://youtu.be/VeKLs2qDtHs",
+					"display_url": "youtu.be/VeKLs2qDtHs",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293434658856689700,
+		"in_reply_to_status_id_str": "1293434658856689666",
+		"in_reply_to_user_id": 125049211,
+		"in_reply_to_user_id_str": "125049211",
+		"in_reply_to_screen_name": "mirrorballmusic",
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9557,
+			"friends_count": 2899,
+			"listed_count": 250,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1596078552",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/TXiNcunvmI"
+	},
+	{
 		"created_at": "Wed Aug 12 06:57:19 +0000 2020",
 		"id": 1293441418124497000,
 		"id_str": "1293441418124496896",
