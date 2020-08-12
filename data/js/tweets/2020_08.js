@@ -1,6 +1,136 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 09:41:47 +0000 2020",
+		"id": 1293481854238986200,
+		"id_str": "1293482804760784896",
+		"full_text": "&lt;잔다리 라이브 투어&gt;\n\n✨신청서 다운로드 : https://t.co/Ghd0yJOU5Z\n✨신청기간 : 2020년 8월 18일 (화) ~ 8월 28일 (금)\n✨결과발표 : 2020년 9월 1일 (화) \n✨상세보기 : https://t.co/ubtQwd2Jvy\n✨기타문의 : seoulindiemusicfesta@naver.com\n\n#서울인디뮤직페스타 #잔다리라이브투어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"text": "잔다리라이브투어",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ghd0yJOU5Z",
+					"expanded_url": "https://url.kr/aI8LHo",
+					"display_url": "url.kr/aI8LHo",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/ubtQwd2Jvy",
+					"expanded_url": "http://reurl.kr/32C98071FN",
+					"display_url": "reurl.kr/32C98071FN",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293481852078928000,
+		"in_reply_to_status_id_str": "1293481852078927872",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2793,
+			"friends_count": 2706,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;잔다리 라이브 투어&gt;\n\n✨신청서 다운로드 : https://t.co/Ghd0yJOU5Z\n✨신청기간 : 2020년 8월 18일 (화) ~ 8월 28일 (금)\n✨결과발표 : 2020년 9월 1일 (화) \n✨상세보기 : https://t.co/ubtQwd2Jvy\n✨기타문의 : seoulindiemusicfesta@naver.com\n\n#서울인디뮤직페스타 #잔다리라이브투어"
+	},
+	{
 		"created_at": "Wed Aug 12 09:15:25 +0000 2020",
 		"id": 1293476169753518000,
 		"id_str": "1293476169753518081",
