@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 12:08:11 +0000 2020",
+		"id": 1293882038097977300,
+		"id_str": "1293882038097977344",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n뉴욕시 힙지로 맥주 바에서 | PLAYLIST\nhttps://t.co/8NbnmmNrwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8NbnmmNrwK",
+					"expanded_url": "https://youtu.be/84vr-FaeVfM",
+					"display_url": "youtu.be/84vr-FaeVfM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n뉴욕시 힙지로 맥주 바에서 | PLAYLIST\nhttps://t.co/8NbnmmNrwK"
+	},
+	{
+		"created_at": "Thu Aug 13 11:29:32 +0000 2020",
+		"id": 1293869418435375000,
+		"id_str": "1293872308650684417",
+		"full_text": "#최낙타 낙타야 놀자 [VLOG] 첫화 공개📹 '반말은 어려워, 무해한 낙타의 하루, 양꼬치엔 하얼빈'\n\n🐫지금 유튜브 최낙타 채널에서!\nhttps://t.co/K6X6YYGt5l https://t.co/28YX9l5JtN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K6X6YYGt5l",
+					"expanded_url": "https://youtu.be/KTHmcmA48P4",
+					"display_url": "youtu.be/KTHmcmA48P4",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293869367910789000,
+					"id_str": "1293869367910789121",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293869367910789121/pu/img/gSoLajyjJtBo3mCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293869367910789121/pu/img/gSoLajyjJtBo3mCu.jpg",
+					"url": "https://t.co/28YX9l5JtN",
+					"display_url": "pic.twitter.com/28YX9l5JtN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1293869418435375104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293869367910789000,
+					"id_str": "1293869367910789121",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293869367910789121/pu/img/gSoLajyjJtBo3mCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293869367910789121/pu/img/gSoLajyjJtBo3mCu.jpg",
+					"url": "https://t.co/28YX9l5JtN",
+					"display_url": "pic.twitter.com/28YX9l5JtN",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1293869418435375104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25249,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293869367910789121/pu/vid/480x270/bVtHo2RvTCfsdqYl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1293869367910789121/pu/pl/qkAGdFPZM4LdsZT9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293869367910789121/pu/vid/1280x720/BRtpu1bfa38qvSAU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293869367910789121/pu/vid/640x360/oq7ILioqqCVtnsvG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1817,
+			"friends_count": 24,
+			"listed_count": 13,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#최낙타 낙타야 놀자 [VLOG] 첫화 공개📹 '반말은 어려워, 무해한 낙타의 하루, 양꼬치엔 하얼빈'\n\n🐫지금 유튜브 최낙타 채널에서!\nhttps://t.co/K6X6YYGt5l https://t.co/28YX9l5JtN"
+	},
+	{
+		"created_at": "Thu Aug 13 11:29:28 +0000 2020",
+		"id": 1293859672898691000,
+		"id_str": "1293872295669313537",
+		"full_text": "백예린 일반반 LP 'Every letter I sent you.' 디스크 불량 관련하여 말씀드립니다 • Regarding the defects in 'Every letter I sent you.' regular edition vinyls ▶️ https://t.co/dcTONEqcXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dcTONEqcXw",
+					"expanded_url": "http://instagram.com/p/CD04aykDgmA/",
+					"display_url": "instagram.com/p/CD04aykDgmA/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek_bv",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl\ncontact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13034,
+			"friends_count": 0,
+			"listed_count": 87,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230507788494766080/yCf5Oq22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1582210896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 일반반 LP 'Every letter I sent you.' 디스크 불량 관련하여 말씀드립니다 • Regarding the defects in 'Every letter I sent you.' regular edition vinyls ▶️ https://t.co/dcTONEqcXw"
+	},
+	{
 		"created_at": "Thu Aug 13 10:53:08 +0000 2020",
 		"id": 1293863148794126300,
 		"id_str": "1293863148794126336",
@@ -649,7 +1118,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Thu Aug 13 10:29:49 +0000 2020",
 		"id": 1293852112816754700,
 		"id_str": "1293857282686681088",
-		"full_text": "최근 자신의 바이닐 펍을 오픈한 타이거디스코와 도쿄에서 Yang Pyong이 함께 합니다. 파티 참석은 https://t.co/vOanX8UNyf에서 가능합니다. 그럼 내일, 모두 인터넷에서 만나요!🙋‍♂️ https://t.co/MzC20hcnGj",
+		"full_text": "최근 자신의 바이닐 펍을 오픈한 타이거디스코와 도쿄에서 Yang Pyong이 함께 합니다. 파티 참석은 https://t.co/vOanX8UNyf에서 가능합니다. 그럼 내일, 모두 인터넷에서 만나요!🙋♂️ https://t.co/MzC20hcnGj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -826,7 +1295,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "최근 자신의 바이닐 펍을 오픈한 타이거디스코와 도쿄에서 Yang Pyong이 함께 합니다. 파티 참석은 https://t.co/vOanX8UNyf에서 가능합니다. 그럼 내일, 모두 인터넷에서 만나요!🙋‍♂️ https://t.co/MzC20hcnGj"
+		"text": "최근 자신의 바이닐 펍을 오픈한 타이거디스코와 도쿄에서 Yang Pyong이 함께 합니다. 파티 참석은 https://t.co/vOanX8UNyf에서 가능합니다. 그럼 내일, 모두 인터넷에서 만나요!🙋♂️ https://t.co/MzC20hcnGj"
 	},
 	{
 		"created_at": "Thu Aug 13 10:29:40 +0000 2020",
@@ -1178,7 +1647,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Thu Aug 13 10:29:34 +0000 2020",
 		"id": 1293851147220840400,
 		"id_str": "1293857218157326337",
-		"full_text": "[#LUCY] MV-조깅🏃‍♂️\n\nLUCY 1st Mini Album🎶 'PANORAMA' 공개💙 https://t.co/9F9dfz4Mau",
+		"full_text": "[#LUCY] MV-조깅🏃♂️\n\nLUCY 1st Mini Album🎶 'PANORAMA' 공개💙 https://t.co/9F9dfz4Mau",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1570,7 +2039,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#LUCY] MV-조깅🏃‍♂️\n\nLUCY 1st Mini Album🎶 'PANORAMA' 공개💙 https://t.co/9F9dfz4Mau"
+		"text": "[#LUCY] MV-조깅🏃♂️\n\nLUCY 1st Mini Album🎶 'PANORAMA' 공개💙 https://t.co/9F9dfz4Mau"
 	},
 	{
 		"created_at": "Thu Aug 13 10:03:42 +0000 2020",
