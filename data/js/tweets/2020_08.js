@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 16:58:19 +0000 2020",
+		"id": 1294303556594364400,
+		"id_str": "1294317437752680448",
+		"full_text": "https://t.co/Ful8GFBdB8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294303306492256300,
+					"id_str": "1294303306492256256",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294303306492256256/pu/img/4x3464oPA3T50w-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294303306492256256/pu/img/4x3464oPA3T50w-g.jpg",
+					"url": "https://t.co/Ful8GFBdB8",
+					"display_url": "pic.twitter.com/Ful8GFBdB8",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1294303556594364426/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294303306492256300,
+					"id_str": "1294303306492256256",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294303306492256256/pu/img/4x3464oPA3T50w-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294303306492256256/pu/img/4x3464oPA3T50w-g.jpg",
+					"url": "https://t.co/Ful8GFBdB8",
+					"display_url": "pic.twitter.com/Ful8GFBdB8",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1294303556594364426/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 77100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1294303306492256256/pu/pl/5vFHGPM_5BjAkPBs.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294303306492256256/pu/vid/720x720/dnfWkK-Ll4rzzZor.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294303306492256256/pu/vid/480x480/RVbcahhC-sqAJ31U.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294303306492256256/pu/vid/320x320/TTMCIG6RUwsyqby1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294302777921794000,
+		"in_reply_to_status_id_str": "1294302777921794053",
+		"in_reply_to_user_id": 736106747572543500,
+		"in_reply_to_user_id_str": "736106747572543488",
+		"in_reply_to_screen_name": "seoulsoldout",
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "난지한강공원 중앙잔디광장",
+			"description": "코로나 19로 취소된 여름이었다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2549,
+			"friends_count": 1172,
+			"listed_count": 8,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Ful8GFBdB8"
+	},
+	{
+		"created_at": "Fri Aug 14 16:58:14 +0000 2020",
+		"id": 1294302777921794000,
+		"id_str": "1294317420421799939",
+		"full_text": "서울인기 스태프들의 기록물을 모아 만든 영상입니다. 2020년 8월 15일에 2020년 서울인기가 예정되어 있었기 때문이죠😌 언제가 될 지 모르는 서울인기도 열심히 만들어 볼께요💪🏼 관객 여러분들 모두 건강한 모습으로 또 만나요🤗 https://t.co/CMUi6QCRku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294302481329971200,
+					"id_str": "1294302481329971200",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294302481329971200/pu/img/Y18T-BdduaPw4Erd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294302481329971200/pu/img/Y18T-BdduaPw4Erd.jpg",
+					"url": "https://t.co/CMUi6QCRku",
+					"display_url": "pic.twitter.com/CMUi6QCRku",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1294302777921794053/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294302481329971200,
+					"id_str": "1294302481329971200",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294302481329971200/pu/img/Y18T-BdduaPw4Erd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294302481329971200/pu/img/Y18T-BdduaPw4Erd.jpg",
+					"url": "https://t.co/CMUi6QCRku",
+					"display_url": "pic.twitter.com/CMUi6QCRku",
+					"expanded_url": "https://twitter.com/seoulsoldout/status/1294302777921794053/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 88342,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294302481329971200/pu/vid/480x480/KGAl910aoZpHO5qz.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294302481329971200/pu/vid/720x720/2jeTnYb870IHozHb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1294302481329971200/pu/pl/2ZSj3pBH_p5QIbfH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294302481329971200/pu/vid/320x320/G1t1JdH7hzUwCvaS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736106747572543500,
+			"id_str": "736106747572543488",
+			"name": "서울인기",
+			"screen_name": "seoulsoldout",
+			"location": "난지한강공원 중앙잔디광장",
+			"description": "코로나 19로 취소된 여름이었다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2549,
+			"friends_count": 1172,
+			"listed_count": 8,
+			"created_at": "Fri May 27 08:08:19 +0000 2016",
+			"favourites_count": 2000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139085566975152128/sxkT5pgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736106747572543488/1528957783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울인기 스태프들의 기록물을 모아 만든 영상입니다. 2020년 8월 15일에 2020년 서울인기가 예정되어 있었기 때문이죠😌 언제가 될 지 모르는 서울인기도 열심히 만들어 볼께요💪🏼 관객 여러분들 모두 건강한 모습으로 또 만나요🤗 https://t.co/CMUi6QCRku"
+	},
+	{
+		"created_at": "Fri Aug 14 16:53:08 +0000 2020",
+		"id": 1294316136004288500,
+		"id_str": "1294316136004288513",
+		"full_text": "#포크라노스 #POCLANOS\n[Official Audio] 박문치 (PARKMOONCHI) - Cool한 42 (We're Cool) (with 박문치 유니버스 PARKMOONCHI UNIVERSE)\nhttps://t.co/ZbFPHraQap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "포크라노스",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POCLANOS",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZbFPHraQap",
+					"expanded_url": "https://youtu.be/bOP9GxYm0lE",
+					"display_url": "youtu.be/bOP9GxYm0lE",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.integromat.com\" rel=\"nofollow\">Integromat</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#포크라노스 #POCLANOS\n[Official Audio] 박문치 (PARKMOONCHI) - Cool한 42 (We're Cool) (with 박문치 유니버스 PARKMOONCHI UNIVERSE)\nhttps://t.co/ZbFPHraQap"
+	},
+	{
+		"created_at": "Fri Aug 14 16:29:34 +0000 2020",
+		"id": 1294296305812910000,
+		"id_str": "1294310204125913088",
+		"full_text": "경험이었습니다. 기술/도움에 スナック馬場 / 스낵 바바의 바바상, 고대영씨, 그리고 참가해주신 관객 여러분에게도 감사의 인사를. 마지막으로 “Stay Home, Stay Mellow”의 수량이 얼마 남지 않았습니다. 늦기 전에 김밥레코즈, 우주만물, FOE를 통해서 구입하시길. 그럼 다음에 또 만나요!🙋‍♂️ https://t.co/en7gUZcb55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294296039252324400,
+					"id_str": "1294296039252324352",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294296039252324352/pu/img/yV2CJibwS3l6QIpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294296039252324352/pu/img/yV2CJibwS3l6QIpS.jpg",
+					"url": "https://t.co/en7gUZcb55",
+					"display_url": "pic.twitter.com/en7gUZcb55",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1294296305812910082/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294296039252324400,
+					"id_str": "1294296039252324352",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294296039252324352/pu/img/yV2CJibwS3l6QIpS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294296039252324352/pu/img/yV2CJibwS3l6QIpS.jpg",
+					"url": "https://t.co/en7gUZcb55",
+					"display_url": "pic.twitter.com/en7gUZcb55",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1294296305812910082/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44330,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294296039252324352/pu/vid/480x270/yew5ojJhcOyb5Cvi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1294296039252324352/pu/pl/MMbrt0KmmWu-VSTa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294296039252324352/pu/vid/640x360/5P60AvuFfj8Wxhvg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1294296039252324352/pu/vid/1280x720/2eLAJvzcXp5twSxw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294295696875520000,
+		"in_reply_to_status_id_str": "1294295696875520000",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3211,
+			"friends_count": 1613,
+			"listed_count": 40,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "경험이었습니다. 기술/도움에 スナック馬場 / 스낵 바바의 바바상, 고대영씨, 그리고 참가해주신 관객 여러분에게도 감사의 인사를. 마지막으로 “Stay Home, Stay Mellow”의 수량이 얼마 남지 않았습니다. 늦기 전에 김밥레코즈, 우주만물, FOE를 통해서 구입하시길. 그럼 다음에 또 만나요!🙋‍♂️ https://t.co/en7gUZcb55"
+	},
+	{
 		"created_at": "Fri Aug 14 15:29:29 +0000 2020",
 		"id": 1294295083043434500,
 		"id_str": "1294295083043434498",
