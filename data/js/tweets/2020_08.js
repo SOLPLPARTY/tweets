@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 02:17:29 +0000 2020",
+		"id": 1294302475131007000,
+		"id_str": "1294458156416827393",
+		"full_text": "Join us on August 18 at 5 p.m. H.K.T. for a live #TIME100Talks featuring a special performance by Red Velvet (@RVsmtown) – IRENE &amp; SEULGI. \n\nRegister now: https://t.co/Dt1c3kzYhr https://t.co/Q5MmquxFjH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TIME100Talks",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dt1c3kzYhr",
+					"expanded_url": "https://ti.me/3iHgfPa",
+					"display_url": "ti.me/3iHgfPa",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1294302473214210000,
+					"id_str": "1294302473214210050",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EfZJPevXsAIRUpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfZJPevXsAIRUpJ.jpg",
+					"url": "https://t.co/Q5MmquxFjH",
+					"display_url": "pic.twitter.com/Q5MmquxFjH",
+					"expanded_url": "https://twitter.com/TIME/status/1294302475131006977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294302473214210000,
+					"id_str": "1294302473214210050",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EfZJPevXsAIRUpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfZJPevXsAIRUpJ.jpg",
+					"url": "https://t.co/Q5MmquxFjH",
+					"display_url": "pic.twitter.com/Q5MmquxFjH",
+					"expanded_url": "https://twitter.com/TIME/status/1294302475131006977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14293310,
+			"id_str": "14293310",
+			"name": "TIME",
+			"screen_name": "TIME",
+			"location": "",
+			"description": "Breaking news and current events from around the globe. Hosted by TIME staff.",
+			"url": "http://t.co/4aYbUuAeSh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4aYbUuAeSh",
+							"expanded_url": "http://www.time.com",
+							"display_url": "time.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17356621,
+			"friends_count": 498,
+			"listed_count": 100237,
+			"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+			"favourites_count": 528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 353929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1547650813",
+			"profile_link_color": "DE3333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2318,
+		"favorite_count": 4024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us on August 18 at 5 p.m. H.K.T. for a live #TIME100Talks featuring a special performance by Red Velvet (@RVsmtown) – IRENE &amp; SEULGI. \n\nRegister now: https://t.co/Dt1c3kzYhr https://t.co/Q5MmquxFjH"
+	},
+	{
 		"created_at": "Fri Aug 14 20:17:27 +0000 2020",
 		"id": 1294367553062613000,
 		"id_str": "1294367553062612992",
