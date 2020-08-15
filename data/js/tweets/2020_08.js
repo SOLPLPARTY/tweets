@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 08:41:38 +0000 2020",
+		"id": 1294548245058789400,
+		"id_str": "1294554832532049920",
+		"full_text": "빠르게 품절되었다가 재입고가 된 책들 소식입니다!\n-경요 장편 소설 &lt; 황제의 딸 1&amp;2 &gt;\n-김종완 작가님의 단상집 &lt; 우리는 사랑을 사랑해 &gt;\n-김종완 작가님의 단상집 &lt; 커피를 맛있게 마셔 잠이 오지 않으면 &gt;\n또 품절되기 전에 어서 공상온도에서 GET… https://t.co/V54QpqdLBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V54QpqdLBe",
+					"expanded_url": "https://www.instagram.com/p/CD5yPd-JCvC/?igshid=q9o3ky02y6px",
+					"display_url": "instagram.com/p/CD5yPd-JCvC/…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 192,
+			"listed_count": 8,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르게 품절되었다가 재입고가 된 책들 소식입니다!\n-경요 장편 소설 &lt; 황제의 딸 1&amp;2 &gt;\n-김종완 작가님의 단상집 &lt; 우리는 사랑을 사랑해 &gt;\n-김종완 작가님의 단상집 &lt; 커피를 맛있게 마셔 잠이 오지 않으면 &gt;\n또 품절되기 전에 어서 공상온도에서 GET… https://t.co/V54QpqdLBe"
+	},
+	{
 		"created_at": "Sat Aug 15 08:14:35 +0000 2020",
 		"id": 1294548026502131700,
 		"id_str": "1294548026502131712",
