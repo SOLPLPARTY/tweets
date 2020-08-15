@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 02:19:16 +0000 2020",
+		"id": 1294287026108248000,
+		"id_str": "1294458608399212544",
+		"full_text": "“Blood Stream”\n\nI don’t know why but I wanna go.\nIt’s in my blood stream✨\n\n최고들과 함께란.. 늘 짜릿해😆\n기대해줘요 :) \n\nD-3\n\n2020.08.17 12PM (KST)\n\nPhoto by @okto_lee \nH&amp;M Lee Eun Seo\n🧥Sponsor by biscuitshop\n\n❤️🍀⛰☘️ https://t.co/jRZJIq87c0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKTO_LEE",
+					"name": "OKTO LEE",
+					"id": 4027616773,
+					"id_str": "4027616773",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294287014649450500,
+					"id_str": "1294287014649450497",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfY7LrGU0AEkCyP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfY7LrGU0AEkCyP.jpg",
+					"url": "https://t.co/jRZJIq87c0",
+					"display_url": "pic.twitter.com/jRZJIq87c0",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1294287026108248064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294287014649450500,
+					"id_str": "1294287014649450497",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EfY7LrGU0AEkCyP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfY7LrGU0AEkCyP.jpg",
+					"url": "https://t.co/jRZJIq87c0",
+					"display_url": "pic.twitter.com/jRZJIq87c0",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1294287026108248064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 656,
+			"friends_count": 2,
+			"listed_count": 13,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240179328328949761/vVK_Wkd7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“Blood Stream”\n\nI don’t know why but I wanna go.\nIt’s in my blood stream✨\n\n최고들과 함께란.. 늘 짜릿해😆\n기대해줘요 :) \n\nD-3\n\n2020.08.17 12PM (KST)\n\nPhoto by @okto_lee \nH&amp;M Lee Eun Seo\n🧥Sponsor by biscuitshop\n\n❤️🍀⛰☘️ https://t.co/jRZJIq87c0"
+	},
+	{
 		"created_at": "Sat Aug 15 02:17:29 +0000 2020",
 		"id": 1294302475131007000,
 		"id_str": "1294458156416827393",
