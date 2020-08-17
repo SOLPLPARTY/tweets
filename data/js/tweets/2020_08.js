@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 15:29:24 +0000 2020",
+		"id": 1295374828141240300,
+		"id_str": "1295382228487352322",
+		"full_text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Promotion Schedule\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable https://t.co/NEG2he3SX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295313257004064800,
+					"id_str": "1295313257004064769",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Efngi1yU4AE1TpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efngi1yU4AE1TpK.jpg",
+					"url": "https://t.co/NEG2he3SX3",
+					"display_url": "pic.twitter.com/NEG2he3SX3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1295374828141240320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295313257004064800,
+					"id_str": "1295313257004064769",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Efngi1yU4AE1TpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efngi1yU4AE1TpK.jpg",
+					"url": "https://t.co/NEG2he3SX3",
+					"display_url": "pic.twitter.com/NEG2he3SX3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1295374828141240320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420991,
+			"friends_count": 9,
+			"listed_count": 1782,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597591064",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 700,
+		"favorite_count": 1280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Promotion Schedule\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable https://t.co/NEG2he3SX3"
+	},
+	{
 		"created_at": "Mon Aug 17 11:06:30 +0000 2020",
 		"id": 1295316066957230000,
 		"id_str": "1295316066957230080",
