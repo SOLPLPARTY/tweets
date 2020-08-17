@@ -1,6 +1,1153 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 06:57:27 +0000 2020",
+		"id": 1295253389023105000,
+		"id_str": "1295253389023105024",
+		"full_text": "#Melon #멜론 #멜론매거진\nJohn Scofield가 묵혀두었던 한 스승에 관한 이야기, [Swallow Tales]\nhttps://t.co/5nmigbijsd https://t.co/IKAg3xF7rm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nmigbijsd",
+					"expanded_url": "https://bit.ly/2Y7jKqa",
+					"display_url": "bit.ly/2Y7jKqa",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295253387978645500,
+					"id_str": "1295253387978645505",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmqGASWoAENBfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmqGASWoAENBfu.jpg",
+					"url": "https://t.co/IKAg3xF7rm",
+					"display_url": "pic.twitter.com/IKAg3xF7rm",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295253389023105024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295253387978645500,
+					"id_str": "1295253387978645505",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmqGASWoAENBfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmqGASWoAENBfu.jpg",
+					"url": "https://t.co/IKAg3xF7rm",
+					"display_url": "pic.twitter.com/IKAg3xF7rm",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295253389023105024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\nJohn Scofield가 묵혀두었던 한 스승에 관한 이야기, [Swallow Tales]\nhttps://t.co/5nmigbijsd https://t.co/IKAg3xF7rm"
+	},
+	{
+		"created_at": "Mon Aug 17 06:29:58 +0000 2020",
+		"id": 1295244983159545900,
+		"id_str": "1295246473316184064",
+		"full_text": "ES: https://t.co/xmRIRWQIhD\nIND: https://t.co/39ZIFud6Cf\nTH: https://t.co/HUZhMoCJEO\nVI: https://t.co/m0L22fJSjt\n\n#SuperJuniorKRY_BeyondLIVE #푸르게빛나는우리의계절 #TheMomentWithUs\n#슈퍼주니어KRY #SuperJuniorKRY #Beyond_LIVE #VLIVE\n#슈퍼주니어 #SUPERJUNIOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperJuniorKRY_BeyondLIVE",
+					"indices": [
+						114,
+						140
+					]
+				},
+				{
+					"text": "푸르게빛나는우리의계절",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "TheMomentWithUs",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "슈퍼주니어KRY",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "SuperJuniorKRY",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						224,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmRIRWQIhD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/39ZIFud6Cf",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/HUZhMoCJEO",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/m0L22fJSjt",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1295244980034793500,
+		"in_reply_to_status_id_str": "1295244980034793472",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147640,
+			"friends_count": 52,
+			"listed_count": 8032,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ES: https://t.co/xmRIRWQIhD\nIND: https://t.co/39ZIFud6Cf\nTH: https://t.co/HUZhMoCJEO\nVI: https://t.co/m0L22fJSjt\n\n#SuperJuniorKRY_BeyondLIVE #푸르게빛나는우리의계절 #TheMomentWithUs\n#슈퍼주니어KRY #SuperJuniorKRY #Beyond_LIVE #VLIVE\n#슈퍼주니어 #SUPERJUNIOR"
+	},
+	{
+		"created_at": "Mon Aug 17 06:29:51 +0000 2020",
+		"id": 1295244980034793500,
+		"id_str": "1295246443549208577",
+		"full_text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n📅2020.08.23 SUN 3PM (KST) \n\n🎟Tickets\nKR: https://t.co/p1QDkGdNTR\nEN: https://t.co/liDkueyZ2c\nJP: https://t.co/bklk7Jyp3W\nCN(繁): https://t.co/aohvgBqKvV\nCN(简): https://t.co/8utC4QKNiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p1QDkGdNTR",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/liDkueyZ2c",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/bklk7Jyp3W",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/aohvgBqKvV",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"url": "https://t.co/8utC4QKNiK",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1295244859045867500,
+		"in_reply_to_status_id_str": "1295244859045867520",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147640,
+			"friends_count": 52,
+			"listed_count": 8032,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n📅2020.08.23 SUN 3PM (KST) \n\n🎟Tickets\nKR: https://t.co/p1QDkGdNTR\nEN: https://t.co/liDkueyZ2c\nJP: https://t.co/bklk7Jyp3W\nCN(繁): https://t.co/aohvgBqKvV\nCN(简): https://t.co/8utC4QKNiK"
+	},
+	{
+		"created_at": "Mon Aug 17 06:29:45 +0000 2020",
+		"id": 1295244859045867500,
+		"id_str": "1295246417951416320",
+		"full_text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n설렘 가득한 인터뷰 #예성 #YESUNG \n\n[KR/EN]\nFB👉 https://t.co/1EFqPHu29s\nIG👉 https://t.co/E4APXA99ci https://t.co/WEd4pUqm5O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예성",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "YESUNG",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1EFqPHu29s",
+					"expanded_url": "https://www.facebook.com/smtown/posts/3370190356357108?__xts__[0]=68.ARDx6H8GdKJtX3L-M10JoKUm2kxpp6iG6atYlT-DuQsjN0aMV_e_NKjV4r77KeVY9T_8_Y9LV1IKAuRZAiw1UKs0ItNfWK2ZoyjD9DwvtFA5xHrG3fK0HCBz2IrGbz_Cci5xa1twyf4YcFab2LSC0txmWqhimn7u7xH6nfQdtMj4ETgDQA4XriiIdHAnDZuuHN5t4T5ICmIJcTc7VowI5IWETCjAmhpfELNHNXYDlZWtHTkePDSt93hiDuVlWjGgXCOFuqqMriOTkn_InqY69aUoOhNxTX88xCRJU-iRvgOhbT3X3cNykfruhHfaDjDWVGIyyxR3x2LkulM5slcz6vbUDA&__tn__=-R",
+					"display_url": "facebook.com/smtown/posts/3…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/E4APXA99ci",
+					"expanded_url": "https://www.instagram.com/p/CD-tPXlBzdK/",
+					"display_url": "instagram.com/p/CD-tPXlBzdK/",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295244579927539700,
+					"id_str": "1295244579927539712",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmiFTvUwAA2P7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmiFTvUwAA2P7Q.jpg",
+					"url": "https://t.co/WEd4pUqm5O",
+					"display_url": "pic.twitter.com/WEd4pUqm5O",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295244859045867520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295244579927539700,
+					"id_str": "1295244579927539712",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmiFTvUwAA2P7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmiFTvUwAA2P7Q.jpg",
+					"url": "https://t.co/WEd4pUqm5O",
+					"display_url": "pic.twitter.com/WEd4pUqm5O",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295244859045867520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1295244666573447200,
+					"id_str": "1295244666573447168",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmiKWhUYAA2w_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmiKWhUYAA2w_7.jpg",
+					"url": "https://t.co/WEd4pUqm5O",
+					"display_url": "pic.twitter.com/WEd4pUqm5O",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295244859045867520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147640,
+			"friends_count": 52,
+			"listed_count": 8032,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 1454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n설렘 가득한 인터뷰 #예성 #YESUNG \n\n[KR/EN]\nFB👉 https://t.co/1EFqPHu29s\nIG👉 https://t.co/E4APXA99ci https://t.co/WEd4pUqm5O"
+	},
+	{
+		"created_at": "Mon Aug 17 06:29:37 +0000 2020",
+		"id": 1295243475693125600,
+		"id_str": "1295246383943954432",
+		"full_text": "ES: https://t.co/xmRIRWQIhD\nIND: https://t.co/39ZIFud6Cf\nTH: https://t.co/HUZhMoCJEO\nVI: https://t.co/m0L22fJSjt\n\n#SuperJuniorKRY_BeyondLIVE #푸르게빛나는우리의계절 #TheMomentWithUs\n#슈퍼주니어KRY #SuperJuniorKRY #Beyond_LIVE #VLIVE\n#슈퍼주니어 #SUPERJUNIOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperJuniorKRY_BeyondLIVE",
+					"indices": [
+						114,
+						140
+					]
+				},
+				{
+					"text": "푸르게빛나는우리의계절",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "TheMomentWithUs",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "슈퍼주니어KRY",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "SuperJuniorKRY",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						224,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmRIRWQIhD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/39ZIFud6Cf",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/HUZhMoCJEO",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/m0L22fJSjt",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1295243470206988300,
+		"in_reply_to_status_id_str": "1295243470206988288",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147640,
+			"friends_count": 52,
+			"listed_count": 8032,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ES: https://t.co/xmRIRWQIhD\nIND: https://t.co/39ZIFud6Cf\nTH: https://t.co/HUZhMoCJEO\nVI: https://t.co/m0L22fJSjt\n\n#SuperJuniorKRY_BeyondLIVE #푸르게빛나는우리의계절 #TheMomentWithUs\n#슈퍼주니어KRY #SuperJuniorKRY #Beyond_LIVE #VLIVE\n#슈퍼주니어 #SUPERJUNIOR"
+	},
+	{
+		"created_at": "Mon Aug 17 06:29:32 +0000 2020",
+		"id": 1295243470206988300,
+		"id_str": "1295246366709555200",
+		"full_text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n📅2020.08.23 SUN 3PM (KST) \n\n🎟Tickets\nKR: https://t.co/p1QDkGdNTR\nEN: https://t.co/liDkueyZ2c\nJP: https://t.co/bklk7Jyp3W\nCN(繁): https://t.co/aohvgBqKvV\nCN(简): https://t.co/8utC4QKNiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p1QDkGdNTR",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/liDkueyZ2c",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/bklk7Jyp3W",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/aohvgBqKvV",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						202,
+						225
+					]
+				},
+				{
+					"url": "https://t.co/8utC4QKNiK",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000219?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1295243281362690000,
+		"in_reply_to_status_id_str": "1295243281362690049",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147640,
+			"friends_count": 52,
+			"listed_count": 8032,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘Beyond LIVE - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절 (The moment with us)’\n📅2020.08.23 SUN 3PM (KST) \n\n🎟Tickets\nKR: https://t.co/p1QDkGdNTR\nEN: https://t.co/liDkueyZ2c\nJP: https://t.co/bklk7Jyp3W\nCN(繁): https://t.co/aohvgBqKvV\nCN(简): https://t.co/8utC4QKNiK"
+	},
+	{
 		"created_at": "Mon Aug 17 04:53:20 +0000 2020",
 		"id": 1295222156507459600,
 		"id_str": "1295222156507459584",
