@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 13:29:25 +0000 2020",
+		"id": 1295706684401135600,
+		"id_str": "1295714418765037574",
+		"full_text": "실리카겔의 새 싱글 &lt;Kyo181&gt; 커버아트는 Daylen Seu의 작품으로 캘리포니아를 기반으로 활동하는 그녀는 Oneohtrix Point Never의 “The Station” MV를 작업한 바 있습니다.\n\nhttps://t.co/27wA3Cf3pH\n⠀\n#silicagel #kyo181 #daylenseu #실리카겔 https://t.co/mIwakcP78G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "silicagel",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "kyo181",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "daylenseu",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "실리카겔",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/27wA3Cf3pH",
+					"expanded_url": "http://www.daylenseu.com",
+					"display_url": "daylenseu.com",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/mIwakcP78G",
+					"expanded_url": "https://twitter.com/silicagel_seoul/status/1295703798489346048",
+					"display_url": "twitter.com/silicagel_seou…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63451638,
+			"id_str": "63451638",
+			"name": "붕가붕가레코드",
+			"screen_name": "BGBGrecord",
+			"location": "Korea, Republic of",
+			"description": "Independent Record Label based on Seoul",
+			"url": "https://t.co/bG9ukBSIoi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bG9ukBSIoi",
+							"expanded_url": "http://www.bgbg.co.kr",
+							"display_url": "bgbg.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10040,
+			"friends_count": 4750,
+			"listed_count": 268,
+			"created_at": "Thu Aug 06 11:27:56 +0000 2009",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/802526525274787840/13CIlW1H_normal.jpg",
+			"profile_link_color": "7C8C03",
+			"profile_sidebar_border_color": "615215",
+			"profile_sidebar_fill_color": "D1C89B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295703798489346000,
+		"quoted_status_id_str": "1295703798489346048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mIwakcP78G",
+			"expanded": "https://twitter.com/silicagel_seoul/status/1295703798489346048",
+			"display": "twitter.com/silicagel_seou…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 18 12:47:13 +0000 2020",
+			"id": 1295703798489346000,
+			"id_str": "1295703798489346048",
+			"full_text": "New Single &lt;Kyo181&gt;\n⠀\n8/23(SUN) 12:00pm\n⠀\n1. Kyo181\n2. Kyo181 (HWI remix) \n3. Kyo181 (Lee Suho remix) \n4. Kyo181 (Song Youngnam remix)\n⠀\nArtwork by Daylen Seu\n⠀\n#silicagel #kyo181 #daylenseu #실리카겔 https://t.co/vBOB1gkL13",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "silicagel",
+						"indices": [
+							167,
+							177
+						]
+					},
+					{
+						"text": "kyo181",
+						"indices": [
+							178,
+							185
+						]
+					},
+					{
+						"text": "daylenseu",
+						"indices": [
+							186,
+							196
+						]
+					},
+					{
+						"text": "실리카겔",
+						"indices": [
+							197,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1295703787651215400,
+						"id_str": "1295703787651215360",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/EftDut0UMAA9uJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EftDut0UMAA9uJC.jpg",
+						"url": "https://t.co/vBOB1gkL13",
+						"display_url": "pic.twitter.com/vBOB1gkL13",
+						"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1295703798489346048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1295703787651215400,
+						"id_str": "1295703787651215360",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/EftDut0UMAA9uJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EftDut0UMAA9uJC.jpg",
+						"url": "https://t.co/vBOB1gkL13",
+						"display_url": "pic.twitter.com/vBOB1gkL13",
+						"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1295703798489346048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3248025306,
+				"id_str": "3248025306",
+				"name": "SILICA GEL 실리카겔",
+				"screen_name": "SILICAGEL_SEOUL",
+				"location": "대한민국 서울",
+				"description": "",
+				"url": "https://t.co/wZDYZ9v0YN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wZDYZ9v0YN",
+								"expanded_url": "http://facebook.com/silicagel",
+								"display_url": "facebook.com/silicagel",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1364,
+				"friends_count": 463,
+				"listed_count": 9,
+				"created_at": "Wed Jun 17 17:56:32 +0000 2015",
+				"favourites_count": 274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 595,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290982132114849803/Acx3cswr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290982132114849803/Acx3cswr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248025306/1596629101",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실리카겔의 새 싱글 &lt;Kyo181&gt; 커버아트는 Daylen Seu의 작품으로 캘리포니아를 기반으로 활동하는 그녀는 Oneohtrix Point Never의 “The Station” MV를 작업한 바 있습니다.\n\nhttps://t.co/27wA3Cf3pH\n⠀\n#silicagel #kyo181 #daylenseu #실리카겔 https://t.co/mIwakcP78G"
+	},
+	{
 		"created_at": "Tue Aug 18 11:41:37 +0000 2020",
 		"id": 1295674469780840400,
 		"id_str": "1295687292938592259",
