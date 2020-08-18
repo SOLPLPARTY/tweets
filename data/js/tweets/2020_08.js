@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 17:43:13 +0000 2020",
+		"id": 1295645694535975000,
+		"id_str": "1295778288858619904",
+		"full_text": "[긴급공지]\n8/21 ~ 8/23 , 3일간 열리는 공연 S.O.S(Save Our Street)은 \n3개 공연장 모두 50인이하의 규모로 진행됩니다(비지정 좌석제)\n예매는 19일까지이며, 예매 마감시 별도의 현장판매는 진행되지 않습니다!\n\n예매는\nhttps://t.co/Nvk7V9w7rx https://t.co/itw5aF9e0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nvk7V9w7rx",
+					"expanded_url": "https://booking.naver.com/booking/5/bizes/383383",
+					"display_url": "booking.naver.com/booking/5/bize…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295645423399342000,
+					"id_str": "1295645423399342080",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EfsOpeCUEAAxOAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfsOpeCUEAAxOAe.jpg",
+					"url": "https://t.co/itw5aF9e0A",
+					"display_url": "pic.twitter.com/itw5aF9e0A",
+					"expanded_url": "https://twitter.com/alivenowagency/status/1295645694535974912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295645423399342000,
+					"id_str": "1295645423399342080",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EfsOpeCUEAAxOAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfsOpeCUEAAxOAe.jpg",
+					"url": "https://t.co/itw5aF9e0A",
+					"display_url": "pic.twitter.com/itw5aF9e0A",
+					"expanded_url": "https://twitter.com/alivenowagency/status/1295645694535974912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1261580239622164500,
+			"id_str": "1261580239622164480",
+			"name": "Alive Now",
+			"screen_name": "alivenowagency",
+			"location": "",
+			"description": "Promotion / Agency\n\n글로벌 에이전시 AliveNow입니다\n국내외 프로모션 설계, 진행\n공연기획,홍보 콘텐츠제작\n/ 러블레스(Lubless), 티치(TieCh)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18,
+			"friends_count": 37,
+			"listed_count": 2,
+			"created_at": "Sat May 16 08:52:39 +0000 2020",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273138392340074498/pF04oZaQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273138392340074498/pF04oZaQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1261580239622164480/1589621722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[긴급공지]\n8/21 ~ 8/23 , 3일간 열리는 공연 S.O.S(Save Our Street)은 \n3개 공연장 모두 50인이하의 규모로 진행됩니다(비지정 좌석제)\n예매는 19일까지이며, 예매 마감시 별도의 현장판매는 진행되지 않습니다!\n\n예매는\nhttps://t.co/Nvk7V9w7rx https://t.co/itw5aF9e0A"
+	},
+	{
 		"created_at": "Tue Aug 18 15:29:45 +0000 2020",
 		"id": 1295738221674938400,
 		"id_str": "1295744701723746305",
