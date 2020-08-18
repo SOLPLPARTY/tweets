@@ -1,6 +1,1421 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 15:29:45 +0000 2020",
+		"id": 1295738221674938400,
+		"id_str": "1295744701723746305",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/ArY0KHy4XG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "Milky_Way",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295600875642052600,
+					"id_str": "1295600875642052608",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfrmIctUYAAFetP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfrmIctUYAAFetP.jpg",
+					"url": "https://t.co/ArY0KHy4XG",
+					"display_url": "pic.twitter.com/ArY0KHy4XG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295738221674938373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295600875642052600,
+					"id_str": "1295600875642052608",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfrmIctUYAAFetP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfrmIctUYAAFetP.jpg",
+					"url": "https://t.co/ArY0KHy4XG",
+					"display_url": "pic.twitter.com/ArY0KHy4XG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295738221674938373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154196,
+			"friends_count": 52,
+			"listed_count": 8063,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19163,
+		"favorite_count": 37030,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/ArY0KHy4XG"
+	},
+	{
+		"created_at": "Tue Aug 18 15:29:41 +0000 2020",
+		"id": 1295737970088173600,
+		"id_str": "1295744684464189442",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/VxLq3XD51g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "Milky_Way",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295600774970450000,
+					"id_str": "1295600774970449920",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfrmClrVoAAaY7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfrmClrVoAAaY7S.jpg",
+					"url": "https://t.co/VxLq3XD51g",
+					"display_url": "pic.twitter.com/VxLq3XD51g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737970088173569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295600774970450000,
+					"id_str": "1295600774970449920",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfrmClrVoAAaY7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfrmClrVoAAaY7S.jpg",
+					"url": "https://t.co/VxLq3XD51g",
+					"display_url": "pic.twitter.com/VxLq3XD51g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737970088173569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154196,
+			"friends_count": 52,
+			"listed_count": 8063,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19772,
+		"favorite_count": 37655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/VxLq3XD51g"
+	},
+	{
+		"created_at": "Tue Aug 18 15:29:39 +0000 2020",
+		"id": 1295737718350241800,
+		"id_str": "1295744675614273538",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/KxNdWAoSat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "Milky_Way",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295600686541881300,
+					"id_str": "1295600686541881345",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrl9cQUwAEzZoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrl9cQUwAEzZoK.jpg",
+					"url": "https://t.co/KxNdWAoSat",
+					"display_url": "pic.twitter.com/KxNdWAoSat",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737718350241793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295600686541881300,
+					"id_str": "1295600686541881345",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrl9cQUwAEzZoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrl9cQUwAEzZoK.jpg",
+					"url": "https://t.co/KxNdWAoSat",
+					"display_url": "pic.twitter.com/KxNdWAoSat",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737718350241793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154196,
+			"friends_count": 52,
+			"listed_count": 8063,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37517,
+		"favorite_count": 62195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/KxNdWAoSat"
+	},
+	{
+		"created_at": "Tue Aug 18 15:29:32 +0000 2020",
+		"id": 1295737466637308000,
+		"id_str": "1295744649953456130",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/eo1vDMSfj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "Milky_Way",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295600584041496600,
+					"id_str": "1295600584041496576",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrl3eaVAAAUseG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrl3eaVAAAUseG.jpg",
+					"url": "https://t.co/eo1vDMSfj5",
+					"display_url": "pic.twitter.com/eo1vDMSfj5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737466637307906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295600584041496600,
+					"id_str": "1295600584041496576",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrl3eaVAAAUseG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrl3eaVAAAUseG.jpg",
+					"url": "https://t.co/eo1vDMSfj5",
+					"display_url": "pic.twitter.com/eo1vDMSfj5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295737466637307906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8154196,
+			"friends_count": 52,
+			"listed_count": 8063,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20347,
+		"favorite_count": 37861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/eo1vDMSfj5"
+	},
+	{
+		"created_at": "Tue Aug 18 15:29:30 +0000 2020",
+		"id": 1295737325855506400,
+		"id_str": "1295744641095139330",
+		"full_text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable https://t.co/ruk8Im0UTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295735108578599000,
+					"id_str": "1295735108578598914",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EftgN1XUYAIF9JZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EftgN1XUYAIF9JZ.jpg",
+					"url": "https://t.co/ruk8Im0UTC",
+					"display_url": "pic.twitter.com/ruk8Im0UTC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1295737325855506436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295735108578599000,
+					"id_str": "1295735108578598914",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EftgN1XUYAIF9JZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EftgN1XUYAIF9JZ.jpg",
+					"url": "https://t.co/ruk8Im0UTC",
+					"display_url": "pic.twitter.com/ruk8Im0UTC",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1295737325855506436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1061,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 421000,
+			"friends_count": 9,
+			"listed_count": 1785,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597591064",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1041,
+		"favorite_count": 1656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable https://t.co/ruk8Im0UTC"
+	},
+	{
+		"created_at": "Tue Aug 18 15:29:29 +0000 2020",
+		"id": 1295744634065428500,
+		"id_str": "1295744634065428483",
+		"full_text": "#날씨알리미\nAugust 20, 2020 : Isolated Thunderstorms\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/s663aR2eWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "날씨알리미",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "마포구",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "날씨",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "비",
+					"indices": [
+						122,
+						124
+					]
+				},
+				{
+					"text": "우산챙겨요",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LWEpY0XtVE",
+					"expanded_url": "https://youtu.be/K1fi8KUf8F8",
+					"display_url": "youtu.be/K1fi8KUf8F8",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295744633058873300,
+					"id_str": "1295744633058873355",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Efto4O0X0AsGKeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Efto4O0X0AsGKeT.png",
+					"url": "https://t.co/s663aR2eWx",
+					"display_url": "pic.twitter.com/s663aR2eWx",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295744634065428483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295744633058873300,
+					"id_str": "1295744633058873355",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Efto4O0X0AsGKeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Efto4O0X0AsGKeT.png",
+					"url": "https://t.co/s663aR2eWx",
+					"display_url": "pic.twitter.com/s663aR2eWx",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295744634065428483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#날씨알리미\nAugust 20, 2020 : Isolated Thunderstorms\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/s663aR2eWx"
+	},
+	{
 		"created_at": "Tue Aug 18 13:29:25 +0000 2020",
 		"id": 1295706684401135600,
 		"id_str": "1295714418765037574",
