@@ -1,6 +1,1066 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 02:07:24 +0000 2020",
+		"id": 1295542783671926800,
+		"id_str": "1295542783671926788",
+		"full_text": "#문화가있는날 #블로그\n찾아가는 연습실 뮤지컬 ‘빨래’ 편\nhttps://t.co/fOiLmG1UP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fOiLmG1UP5",
+					"expanded_url": "https://bit.ly/2Q09efY",
+					"display_url": "bit.ly/2Q09efY",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n찾아가는 연습실 뮤지컬 ‘빨래’ 편\nhttps://t.co/fOiLmG1UP5"
+	},
+	{
+		"created_at": "Tue Aug 18 01:29:38 +0000 2020",
+		"id": 1295529871121121300,
+		"id_str": "1295533279110729729",
+		"full_text": "Listen to SuperM ‘100’ &amp; get ENERGIZED 💯 💯 💯\n#TEN #MARK \n\n🎬 https://t.co/4JZVbQYHAQ\n\n🎧 https://t.co/LCKzUEFC9w\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred #SuperM100 #SuperMgoes100 #WeAreTheFuture #SuperMtheFuture https://t.co/m0Q4WX7K8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEN",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "MARK",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "SuperOne",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "WeGo100",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "WeGoHundred",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "SuperM100",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "SuperMgoes100",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"text": "WeAreTheFuture",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "SuperMtheFuture",
+					"indices": [
+						198,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JZVbQYHAQ",
+					"expanded_url": "https://SuperM.lnk.to/100OfficialVideo",
+					"display_url": "SuperM.lnk.to/100OfficialVid…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/LCKzUEFC9w",
+					"expanded_url": "https://superm.lnk.to/100",
+					"display_url": "superm.lnk.to/100",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295524848609816600,
+					"id_str": "1295524848609816576",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqlaFFUMAEoYVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqlaFFUMAEoYVM.jpg",
+					"url": "https://t.co/m0Q4WX7K8L",
+					"display_url": "pic.twitter.com/m0Q4WX7K8L",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529871121121281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295524848609816600,
+					"id_str": "1295524848609816576",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqlaFFUMAEoYVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqlaFFUMAEoYVM.jpg",
+					"url": "https://t.co/m0Q4WX7K8L",
+					"display_url": "pic.twitter.com/m0Q4WX7K8L",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529871121121281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9076,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524848609816576/vid/480x270/9MZ3EqlzfXfxsz9s.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524848609816576/vid/1280x720/EfOlrhDuECC6Tx-D.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1295524848609816576/pl/aNJap31ShHWSdqeX.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524848609816576/vid/640x360/kyXNjIogxHykSVr9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8149691,
+			"friends_count": 52,
+			"listed_count": 8042,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1460,
+		"favorite_count": 4856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to SuperM ‘100’ &amp; get ENERGIZED 💯 💯 💯\n#TEN #MARK \n\n🎬 https://t.co/4JZVbQYHAQ\n\n🎧 https://t.co/LCKzUEFC9w\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred #SuperM100 #SuperMgoes100 #WeAreTheFuture #SuperMtheFuture https://t.co/m0Q4WX7K8L"
+	},
+	{
+		"created_at": "Tue Aug 18 01:29:36 +0000 2020",
+		"id": 1295529610575089700,
+		"id_str": "1295533270248099840",
+		"full_text": "SuperM ‘100’ = Music💯 Performance💯\n#TAEMIN #KAI #LUCAS\n\n🎬https://t.co/4JZVbQYHAQ\n\n🎧Melon:https://t.co/YoGIMqIs2m\n🎧FLO:https://t.co/YFcSten7iu\n🎧genie:https://t.co/acmbj3Z5uf\n🎧NAVER MUSIC:https://t.co/uBvGoXm51a\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred\n#SuperM100 https://t.co/4V3VgNSVJ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "LUCAS",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "SuperOne",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "WeGo100",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "WeGoHundred",
+					"indices": [
+						238,
+						250
+					]
+				},
+				{
+					"text": "SuperM100",
+					"indices": [
+						251,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JZVbQYHAQ",
+					"expanded_url": "https://SuperM.lnk.to/100OfficialVideo",
+					"display_url": "SuperM.lnk.to/100OfficialVid…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/YoGIMqIs2m",
+					"expanded_url": "http://kko.to/o-eKZUzD0",
+					"display_url": "kko.to/o-eKZUzD0",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/YFcSten7iu",
+					"expanded_url": "http://flomuz.io/s/a.By81F",
+					"display_url": "flomuz.io/s/a.By81F",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/acmbj3Z5uf",
+					"expanded_url": "http://www.genie.co.kr/NSUWU4",
+					"display_url": "genie.co.kr/NSUWU4",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/uBvGoXm51a",
+					"expanded_url": "http://naver.me/F6z8UNkJ",
+					"display_url": "naver.me/F6z8UNkJ",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295524846785319000,
+					"id_str": "1295524846785318912",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqlKw2UYAEiYEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqlKw2UYAEiYEP.jpg",
+					"url": "https://t.co/4V3VgNSVJ7",
+					"display_url": "pic.twitter.com/4V3VgNSVJ7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529610575089669/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295524846785319000,
+					"id_str": "1295524846785318912",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqlKw2UYAEiYEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqlKw2UYAEiYEP.jpg",
+					"url": "https://t.co/4V3VgNSVJ7",
+					"display_url": "pic.twitter.com/4V3VgNSVJ7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529610575089669/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17818,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846785318912/vid/640x360/o2WOv31YofeVRUth.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1295524846785318912/pl/zUEbTi_Uz-PrPsrd.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846785318912/vid/1280x720/1VaHKHnh5DbQPFyj.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846785318912/vid/480x270/yyGC4wHiWPNvQWd_.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8149691,
+			"friends_count": 52,
+			"listed_count": 8042,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1218,
+		"favorite_count": 4312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SuperM ‘100’ = Music💯 Performance💯\n#TAEMIN #KAI #LUCAS\n\n🎬https://t.co/4JZVbQYHAQ\n\n🎧Melon:https://t.co/YoGIMqIs2m\n🎧FLO:https://t.co/YFcSten7iu\n🎧genie:https://t.co/acmbj3Z5uf\n🎧NAVER MUSIC:https://t.co/uBvGoXm51a\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred\n#SuperM100 https://t.co/4V3VgNSVJ7"
+	},
+	{
+		"created_at": "Tue Aug 18 01:29:28 +0000 2020",
+		"id": 1295529330861195300,
+		"id_str": "1295533236228169728",
+		"full_text": "SuperM ‘100’ 듣고 에너지도 💯!\n#BAEKHYUN #TAEYONG\n\n🎬https://t.co/4JZVbQYHAQ\n\n🎧Melon:https://t.co/YoGIMqIs2m\n🎧FLO:https://t.co/YFcSten7iu\n🎧genie:https://t.co/acmbj3Z5uf\n🎧NAVER MUSIC:https://t.co/uBvGoXm51a\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred\n#SuperM100 #SuperMGoes100 https://t.co/DbQ11M1kyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "TAEYONG",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"text": "SuperOne",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "WeGo100",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "WeGoHundred",
+					"indices": [
+						226,
+						238
+					]
+				},
+				{
+					"text": "SuperM100",
+					"indices": [
+						239,
+						249
+					]
+				},
+				{
+					"text": "SuperMGoes100",
+					"indices": [
+						250,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JZVbQYHAQ",
+					"expanded_url": "https://SuperM.lnk.to/100OfficialVideo",
+					"display_url": "SuperM.lnk.to/100OfficialVid…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/YoGIMqIs2m",
+					"expanded_url": "http://kko.to/o-eKZUzD0",
+					"display_url": "kko.to/o-eKZUzD0",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/YFcSten7iu",
+					"expanded_url": "http://flomuz.io/s/a.By81F",
+					"display_url": "flomuz.io/s/a.By81F",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/acmbj3Z5uf",
+					"expanded_url": "http://www.genie.co.kr/NSUWU4",
+					"display_url": "genie.co.kr/NSUWU4",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/uBvGoXm51a",
+					"expanded_url": "http://naver.me/F6z8UNkJ",
+					"display_url": "naver.me/F6z8UNkJ",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295524846974070800,
+					"id_str": "1295524846974070784",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqkytRU4AIILMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqkytRU4AIILMK.jpg",
+					"url": "https://t.co/DbQ11M1kyt",
+					"display_url": "pic.twitter.com/DbQ11M1kyt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529330861195266/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295524846974070800,
+					"id_str": "1295524846974070784",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/EfqkytRU4AIILMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfqkytRU4AIILMK.jpg",
+					"url": "https://t.co/DbQ11M1kyt",
+					"display_url": "pic.twitter.com/DbQ11M1kyt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1295529330861195266/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12513,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846974070784/vid/480x270/2ZiLS1xHfk7obDGZ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1295524846974070784/pl/9cg7MwmSt4lpwrPc.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846974070784/vid/640x360/hLKj1WZG5d53ueW0.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295524846974070784/vid/1280x720/Q5NavTdLwcN-ceWm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8149691,
+			"friends_count": 52,
+			"listed_count": 8042,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1215,
+		"favorite_count": 4346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SuperM ‘100’ 듣고 에너지도 💯!\n#BAEKHYUN #TAEYONG\n\n🎬https://t.co/4JZVbQYHAQ\n\n🎧Melon:https://t.co/YoGIMqIs2m\n🎧FLO:https://t.co/YFcSten7iu\n🎧genie:https://t.co/acmbj3Z5uf\n🎧NAVER MUSIC:https://t.co/uBvGoXm51a\n\n#SuperM #SuperOne\n#WeGo100 #WeGoHundred\n#SuperM100 #SuperMGoes100 https://t.co/DbQ11M1kyt"
+	},
+	{
 		"created_at": "Mon Aug 17 23:40:41 +0000 2020",
 		"id": 1295497588276375600,
 		"id_str": "1295505863919034370",
