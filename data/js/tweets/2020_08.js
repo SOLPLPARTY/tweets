@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 23:40:41 +0000 2020",
+		"id": 1295497588276375600,
+		"id_str": "1295505863919034370",
+		"full_text": "There were originally plans of screenings in theatres for Billie’s upcoming documentary - due to COVID it’s uncertain if this will still happen or if it means the documentary has to get pushed back until this can happen safely. \n(Information from @joeltovar56)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joeltovar56",
+					"name": "joel",
+					"id": 126850802,
+					"id_str": "126850802",
+					"indices": [
+						247,
+						259
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876036646529101800,
+			"id_str": "876036646529101824",
+			"name": "Billie Eilish Updates",
+			"screen_name": "eilishupdates",
+			"location": "",
+			"description": "— The latest updates on 5x GRAMMY Award winner Billie Eilish. (fan account, all content used as fair use).",
+			"url": "https://t.co/ggMJFmAYeG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ggMJFmAYeG",
+							"expanded_url": "http://instagram.com/eilishupd8s",
+							"display_url": "instagram.com/eilishupd8s",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138706,
+			"friends_count": 23,
+			"listed_count": 123,
+			"created_at": "Sat Jun 17 11:19:47 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289005472461266944/myoOSru7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289005472461266944/myoOSru7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876036646529101824/1597244329",
+			"profile_link_color": "889977",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There were originally plans of screenings in theatres for Billie’s upcoming documentary - due to COVID it’s uncertain if this will still happen or if it means the documentary has to get pushed back until this can happen safely. \n(Information from @joeltovar56)"
+	},
+	{
 		"created_at": "Mon Aug 17 17:05:27 +0000 2020",
 		"id": 1295406399514697700,
 		"id_str": "1295406399514697728",
