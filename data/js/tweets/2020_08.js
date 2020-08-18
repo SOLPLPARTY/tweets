@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 07:57:17 +0000 2020",
+		"id": 1295630836373627000,
+		"id_str": "1295630836373626880",
+		"full_text": "#Bugs #벅스 #뮤직포스트\n[이달의 추천] 뭘 들을까? - 2020년 8월 노래 모음! (2020.08.18)\nhttps://t.co/4LYI3VNiNT https://t.co/MBcST07wSu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "뮤직포스트",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LYI3VNiNT",
+					"expanded_url": "https://bit.ly/313Rzuo",
+					"display_url": "bit.ly/313Rzuo",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295630835509538800,
+					"id_str": "1295630835509538816",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EfsBYV6WsAA6eKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfsBYV6WsAA6eKR.jpg",
+					"url": "https://t.co/MBcST07wSu",
+					"display_url": "pic.twitter.com/MBcST07wSu",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295630836373626880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295630835509538800,
+					"id_str": "1295630835509538816",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EfsBYV6WsAA6eKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfsBYV6WsAA6eKR.jpg",
+					"url": "https://t.co/MBcST07wSu",
+					"display_url": "pic.twitter.com/MBcST07wSu",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1295630836373626880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 367,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Bugs #벅스 #뮤직포스트\n[이달의 추천] 뭘 들을까? - 2020년 8월 노래 모음! (2020.08.18)\nhttps://t.co/4LYI3VNiNT https://t.co/MBcST07wSu"
+	},
+	{
+		"created_at": "Tue Aug 18 07:37:37 +0000 2020",
+		"id": 1295619449312039000,
+		"id_str": "1295625887262453760",
+		"full_text": "[VLIVE+] 8/29 (토) Beyond LIVE - a-nation online 2020 생중계! Blue Stage, Green Stage, Yellow Stage 3개 무대에서 펼쳐지는 무대를 VLIVE에서 만나보세요!\n​\n*티켓 구매▶️ https://t.co/np7uKUYKY7\n​\n#anationonline2020 #anation2020 #anation #SUPERJUNIOR #EXO_SC #RedVelvet #SuperM https://t.co/6Lnyc8WPbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "anationonline2020",
+					"indices": [
+						165,
+						183
+					]
+				},
+				{
+					"text": "anation2020",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "anation",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"text": "EXO_SC",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						227,
+						237
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						238,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/np7uKUYKY7",
+					"expanded_url": "https://bit.ly/3hkePtX",
+					"display_url": "bit.ly/3hkePtX",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295619337114382300,
+					"id_str": "1295619337114382336",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/Efr27DDUcAAIIiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efr27DDUcAAIIiZ.jpg",
+					"url": "https://t.co/6Lnyc8WPbJ",
+					"display_url": "pic.twitter.com/6Lnyc8WPbJ",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1295619449312038912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295619337114382300,
+					"id_str": "1295619337114382336",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/Efr27DDUcAAIIiZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efr27DDUcAAIIiZ.jpg",
+					"url": "https://t.co/6Lnyc8WPbJ",
+					"display_url": "pic.twitter.com/6Lnyc8WPbJ",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1295619449312038912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4310385,
+			"friends_count": 167,
+			"listed_count": 1464,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VLIVE+] 8/29 (토) Beyond LIVE - a-nation online 2020 생중계! Blue Stage, Green Stage, Yellow Stage 3개 무대에서 펼쳐지는 무대를 VLIVE에서 만나보세요!\n​\n*티켓 구매▶️ https://t.co/np7uKUYKY7\n​\n#anationonline2020 #anation2020 #anation #SUPERJUNIOR #EXO_SC #RedVelvet #SuperM https://t.co/6Lnyc8WPbJ"
+	},
+	{
+		"created_at": "Tue Aug 18 07:37:34 +0000 2020",
+		"id": 1295608943524417500,
+		"id_str": "1295625873354178561",
+		"full_text": "【エリー・ゴールディング】\nポップ・ミュージック界の麗しき歌姫= #エリー・ゴールディング 。8月26日（水）発売「 #ブライテスト・ブルー」日本盤ボーナストラックとして「Red Velvet」とのコラボ楽曲収録！STORE限定先着特典付きでご予約受付中！ https://t.co/CxtIuGDqg6  #RedVelvet #レドベル https://t.co/6kd5uj4Jj3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "エリー・ゴールディング",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"text": "ブライテスト・ブルー",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "レドベル",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CxtIuGDqg6",
+					"expanded_url": "https://bit.ly/2C8SKyN",
+					"display_url": "bit.ly/2C8SKyN",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295608942119342000,
+					"id_str": "1295608942119342080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrtd-rX0AABhtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrtd-rX0AABhtx.jpg",
+					"url": "https://t.co/6kd5uj4Jj3",
+					"display_url": "pic.twitter.com/6kd5uj4Jj3",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1295608943524417537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295608942119342000,
+					"id_str": "1295608942119342080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Efrtd-rX0AABhtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efrtd-rX0AABhtx.jpg",
+					"url": "https://t.co/6kd5uj4Jj3",
+					"display_url": "pic.twitter.com/6kd5uj4Jj3",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1295608943524417537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26299,
+			"friends_count": 150,
+			"listed_count": 205,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【エリー・ゴールディング】\nポップ・ミュージック界の麗しき歌姫= #エリー・ゴールディング 。8月26日（水）発売「 #ブライテスト・ブルー」日本盤ボーナストラックとして「Red Velvet」とのコラボ楽曲収録！STORE限定先着特典付きでご予約受付中！ https://t.co/CxtIuGDqg6  #RedVelvet #レドベル https://t.co/6kd5uj4Jj3"
+	},
+	{
 		"created_at": "Tue Aug 18 06:57:25 +0000 2020",
 		"id": 1295615770051969000,
 		"id_str": "1295615770051969025",
