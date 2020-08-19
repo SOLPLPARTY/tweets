@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 21:20:17 +0000 2020",
+		"id": 1296108551073489000,
+		"id_str": "1296195305772212225",
+		"full_text": "멜론 https://t.co/jtuaXxVbMq\n지니 https://t.co/WPQX5odMet\nVibe https://t.co/uXLjbmJKJi\n네이버뮤직 https://t.co/SiVZu5HRIm\n벅스 https://t.co/1EyY7U52O9\n소리바다 https://t.co/FdsNmsGohc\n애플뮤직 https://t.co/ZjB0iYCPLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jtuaXxVbMq",
+					"expanded_url": "http://bit.ly/3kcFDhf",
+					"display_url": "bit.ly/3kcFDhf",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/WPQX5odMet",
+					"expanded_url": "http://bit.ly/3kgHHVx",
+					"display_url": "bit.ly/3kgHHVx",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/uXLjbmJKJi",
+					"expanded_url": "http://bit.ly/30t6MEO",
+					"display_url": "bit.ly/30t6MEO",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/SiVZu5HRIm",
+					"expanded_url": "http://bit.ly/30u6j5B",
+					"display_url": "bit.ly/30u6j5B",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/1EyY7U52O9",
+					"expanded_url": "http://bit.ly/3fptgLi",
+					"display_url": "bit.ly/3fptgLi",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/FdsNmsGohc",
+					"expanded_url": "http://bit.ly/39VJ0oa",
+					"display_url": "bit.ly/39VJ0oa",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/ZjB0iYCPLs",
+					"expanded_url": "http://apple.co/2Prb7Cs",
+					"display_url": "apple.co/2Prb7Cs",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1296108549483847700,
+		"in_reply_to_status_id_str": "1296108549483847680",
+		"in_reply_to_user_id": 1294915308386361300,
+		"in_reply_to_user_id_str": "1294915308386361345",
+		"in_reply_to_screen_name": "deadbuttons",
+		"user": {
+			"id": 1294915308386361300,
+			"id_str": "1294915308386361345",
+			"name": "Deadbuttons",
+			"screen_name": "deadbuttons",
+			"location": "",
+			"description": "데드버튼즈 Psych-punk band from Seoul, South Korea New album ‘1’ (2020) available on music streaming services",
+			"url": "https://t.co/pDQ72GnhnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDQ72GnhnL",
+							"expanded_url": "http://deadbuttons.bandcamp.com",
+							"display_url": "deadbuttons.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41,
+			"friends_count": 55,
+			"listed_count": 0,
+			"created_at": "Sun Aug 16 08:34:40 +0000 2020",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294915738784813058/P7cODi1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294915738784813058/P7cODi1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1294915308386361345/1597590677",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/jtuaXxVbMq\n지니 https://t.co/WPQX5odMet\nVibe https://t.co/uXLjbmJKJi\n네이버뮤직 https://t.co/SiVZu5HRIm\n벅스 https://t.co/1EyY7U52O9\n소리바다 https://t.co/FdsNmsGohc\n애플뮤직 https://t.co/ZjB0iYCPLs"
+	},
+	{
 		"created_at": "Wed Aug 19 17:17:25 +0000 2020",
 		"id": 1296134183761457200,
 		"id_str": "1296134183761457155",
