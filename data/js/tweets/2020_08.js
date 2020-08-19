@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 21:32:57 +0000 2020",
+		"id": 1296024109025984500,
+		"id_str": "1296198490901553152",
+		"full_text": "[VIDEO]\n⠀\n선미 (SUNMI) - BORDERLINE Special Video\n🔗 https://t.co/Pi8zSub63t\n⠀\n#선미 #SUNMI\n#BORDERLINE https://t.co/zCbBzUjulJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "BORDERLINE",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pi8zSub63t",
+					"expanded_url": "https://youtu.be/QuMdGfmFNgE",
+					"display_url": "youtu.be/QuMdGfmFNgE",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296020419015610400,
+					"id_str": "1296020419015610368",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxjtFkUEAArjVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxjtFkUEAArjVP.jpg",
+					"url": "https://t.co/zCbBzUjulJ",
+					"display_url": "pic.twitter.com/zCbBzUjulJ",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1296024109025984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296020419015610400,
+					"id_str": "1296020419015610368",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxjtFkUEAArjVP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxjtFkUEAArjVP.jpg",
+					"url": "https://t.co/zCbBzUjulJ",
+					"display_url": "pic.twitter.com/zCbBzUjulJ",
+					"expanded_url": "https://twitter.com/official_sunmi_/status/1296024109025984512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895202531978104800,
+			"id_str": "895202531978104832",
+			"name": "선미 SUNMI",
+			"screen_name": "official_sunmi_",
+			"location": "",
+			"description": "SUNMI Official Twitter",
+			"url": "https://t.co/fxiUwfaiJl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fxiUwfaiJl",
+							"expanded_url": "http://kko.to/Uj_4WTDYH",
+							"display_url": "kko.to/Uj_4WTDYH",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269630,
+			"friends_count": 2,
+			"listed_count": 1200,
+			"created_at": "Wed Aug 09 08:38:10 +0000 2017",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277424621092876289/tRkFPUAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277424621092876289/tRkFPUAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895202531978104832/1593396738",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3165,
+		"favorite_count": 11341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[VIDEO]\n⠀\n선미 (SUNMI) - BORDERLINE Special Video\n🔗 https://t.co/Pi8zSub63t\n⠀\n#선미 #SUNMI\n#BORDERLINE https://t.co/zCbBzUjulJ"
+	},
+	{
 		"created_at": "Wed Aug 19 21:20:17 +0000 2020",
 		"id": 1296108551073489000,
 		"id_str": "1296195305772212225",
