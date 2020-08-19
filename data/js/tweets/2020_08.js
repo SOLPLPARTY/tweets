@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 15:29:47 +0000 2020",
+		"id": 1296099713360334800,
+		"id_str": "1296107100746272769",
+		"full_text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/jTu7bS2RZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "Obliviate",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296097560956817400,
+					"id_str": "1296097560956817414",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efyp3VsU0AY5sXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efyp3VsU0AY5sXp.jpg",
+					"url": "https://t.co/jTu7bS2RZI",
+					"display_url": "pic.twitter.com/jTu7bS2RZI",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099713360334853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296097560956817400,
+					"id_str": "1296097560956817414",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efyp3VsU0AY5sXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efyp3VsU0AY5sXp.jpg",
+					"url": "https://t.co/jTu7bS2RZI",
+					"display_url": "pic.twitter.com/jTu7bS2RZI",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099713360334853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420964,
+			"friends_count": 9,
+			"listed_count": 1787,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597591064",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 627,
+		"favorite_count": 1175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/jTu7bS2RZI"
+	},
+	{
+		"created_at": "Wed Aug 19 15:29:42 +0000 2020",
+		"id": 1296099700186079200,
+		"id_str": "1296107079124557824",
+		"full_text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/oTqbYRI94z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "Obliviate",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296097435526164500,
+					"id_str": "1296097435526164480",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfypwCbU8AA8lrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfypwCbU8AA8lrl.jpg",
+					"url": "https://t.co/oTqbYRI94z",
+					"display_url": "pic.twitter.com/oTqbYRI94z",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099700186079236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296097435526164500,
+					"id_str": "1296097435526164480",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfypwCbU8AA8lrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfypwCbU8AA8lrl.jpg",
+					"url": "https://t.co/oTqbYRI94z",
+					"display_url": "pic.twitter.com/oTqbYRI94z",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099700186079236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097463028215800,
+					"id_str": "1296097463028215808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efypxo4U8AAWoUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efypxo4U8AAWoUU.jpg",
+					"url": "https://t.co/oTqbYRI94z",
+					"display_url": "pic.twitter.com/oTqbYRI94z",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099700186079236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097487556501500,
+					"id_str": "1296097487556501505",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfypzEQU4AEl-11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfypzEQU4AEl-11.jpg",
+					"url": "https://t.co/oTqbYRI94z",
+					"display_url": "pic.twitter.com/oTqbYRI94z",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099700186079236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097515159212000,
+					"id_str": "1296097515159212033",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efyp0rFU0AEDOd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efyp0rFU0AEDOd4.jpg",
+					"url": "https://t.co/oTqbYRI94z",
+					"display_url": "pic.twitter.com/oTqbYRI94z",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099700186079236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420964,
+			"friends_count": 9,
+			"listed_count": 1787,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597591064",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 1294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/oTqbYRI94z"
+	},
+	{
+		"created_at": "Wed Aug 19 15:29:40 +0000 2020",
+		"id": 1296099682091823000,
+		"id_str": "1296107070245175297",
+		"full_text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/ZoUBs4Pmsg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "Obliviate",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296097297411879000,
+					"id_str": "1296097297411878913",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efypn_6UMAEAKMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efypn_6UMAEAKMM.jpg",
+					"url": "https://t.co/ZoUBs4Pmsg",
+					"display_url": "pic.twitter.com/ZoUBs4Pmsg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099682091823104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296097297411879000,
+					"id_str": "1296097297411878913",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Efypn_6UMAEAKMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efypn_6UMAEAKMM.jpg",
+					"url": "https://t.co/ZoUBs4Pmsg",
+					"display_url": "pic.twitter.com/ZoUBs4Pmsg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099682091823104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097322808430600,
+					"id_str": "1296097322808430594",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfyppehU0AISdBu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfyppehU0AISdBu.jpg",
+					"url": "https://t.co/ZoUBs4Pmsg",
+					"display_url": "pic.twitter.com/ZoUBs4Pmsg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099682091823104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097344207765500,
+					"id_str": "1296097344207765504",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfypquPUwAAj7Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfypquPUwAAj7Oq.jpg",
+					"url": "https://t.co/ZoUBs4Pmsg",
+					"display_url": "pic.twitter.com/ZoUBs4Pmsg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099682091823104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1413,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296097378865299500,
+					"id_str": "1296097378865299457",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EfypsvWUwAEMK0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfypsvWUwAEMK0j.jpg",
+					"url": "https://t.co/ZoUBs4Pmsg",
+					"display_url": "pic.twitter.com/ZoUBs4Pmsg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296099682091823104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420964,
+			"friends_count": 9,
+			"listed_count": 1787,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597591064",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 598,
+		"favorite_count": 1139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/ZoUBs4Pmsg"
+	},
+	{
+		"created_at": "Wed Aug 19 15:29:34 +0000 2020",
+		"id": 1296099603444457500,
+		"id_str": "1296107044588736512",
+		"full_text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/ud9slOhjM0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "Milky_Way",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296066368295510000,
+					"id_str": "1296066368295510026",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfyNfr-VoAoep_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfyNfr-VoAoep_Y.jpg",
+					"url": "https://t.co/ud9slOhjM0",
+					"display_url": "pic.twitter.com/ud9slOhjM0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1296099603444457472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296066368295510000,
+					"id_str": "1296066368295510026",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EfyNfr-VoAoep_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfyNfr-VoAoep_Y.jpg",
+					"url": "https://t.co/ud9slOhjM0",
+					"display_url": "pic.twitter.com/ud9slOhjM0",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1296099603444457472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8159708,
+			"friends_count": 52,
+			"listed_count": 8064,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24026,
+		"favorite_count": 41209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION] \n\n['Our Beloved BoA']\n\n#1. 공중정원 / BAEKHYUN\n#2. 아틀란티스 소녀 / 볼빨간사춘기\n#3. Only One / Gallant\n#4. Milky Way / Red Velvet\n#5. 나무 / SM Classics\n\n#보아 #BoA @BoA_Official #Our_Beloved_BoA #Milky_Way #RedVelvet #레드벨벳 @RVsmtown https://t.co/ud9slOhjM0"
+	},
+	{
 		"created_at": "Wed Aug 19 13:57:12 +0000 2020",
 		"id": 1296083799978238000,
 		"id_str": "1296083799978237953",
