@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 15:29:37 +0000 2020",
+		"id": 1296462022997991400,
+		"id_str": "1296469443229491201",
+		"full_text": "[📽] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Trailer #Obliviate\n2020.09.01 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/wvhR1tREMl\n🖇NAVER V ▶ https://t.co/h3NbS1kBky\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/49DmTn0baU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Obliviate",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"text": "Obliviate",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvhR1tREMl",
+					"expanded_url": "https://youtu.be/yAv3pKq4uf8",
+					"display_url": "youtu.be/yAv3pKq4uf8",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/h3NbS1kBky",
+					"expanded_url": "https://www.vlive.tv/video/208904",
+					"display_url": "vlive.tv/video/208904",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296445568080781300,
+					"id_str": "1296445568080781319",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3mzfkU4AETZWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3mzfkU4AETZWg.jpg",
+					"url": "https://t.co/49DmTn0baU",
+					"display_url": "pic.twitter.com/49DmTn0baU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296462022997991424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296445568080781300,
+					"id_str": "1296445568080781319",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3mzfkU4AETZWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3mzfkU4AETZWg.jpg",
+					"url": "https://t.co/49DmTn0baU",
+					"display_url": "pic.twitter.com/49DmTn0baU",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296462022997991424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28028,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296445568080781319/vid/640x360/sKYtwXH7m4Huip7C.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1296445568080781319/pl/1x3ghvsZc9LHW8F4.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296445568080781319/vid/1280x720/6VFcv0pEK3SPZr3_.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296445568080781319/vid/480x270/sA_-GxIcLyXsCeIB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420961,
+			"friends_count": 9,
+			"listed_count": 1787,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597935834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 687,
+		"favorite_count": 1188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📽] 러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Trailer #Obliviate\n2020.09.01 6PM RELEASE\n\n🖇YouTube ▶ https://t.co/wvhR1tREMl\n🖇NAVER V ▶ https://t.co/h3NbS1kBky\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/49DmTn0baU"
+	},
+	{
+		"created_at": "Thu Aug 20 15:29:30 +0000 2020",
+		"id": 1296462009706242000,
+		"id_str": "1296469413332422657",
+		"full_text": "[📸]러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/jwlEg99TUJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "Unforgettable",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"text": "Obliviate",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296445389776674800,
+					"id_str": "1296445389776674816",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3mNpBU4AAKA2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3mNpBU4AAKA2j.jpg",
+					"url": "https://t.co/jwlEg99TUJ",
+					"display_url": "pic.twitter.com/jwlEg99TUJ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296462009706242049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296445389776674800,
+					"id_str": "1296445389776674816",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef3mNpBU4AAKA2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef3mNpBU4AAKA2j.jpg",
+					"url": "https://t.co/jwlEg99TUJ",
+					"display_url": "pic.twitter.com/jwlEg99TUJ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1296462009706242049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1061,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "#WoollimEntertainment\n\n#INFINITE \n#Lovelyz\n#GoldenChild\n#RocketPunch\n#Woollim_Rookie",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420961,
+			"friends_count": 9,
+			"listed_count": 1787,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1597935834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 710,
+		"favorite_count": 1375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸]러블리즈(Lovelyz) 7th Mini Album [Unforgettable] : Concept Photo\n\nTitle : Obliviate\n\n2020.09.01 6PM RELEASE\n\n#Lovelyz #러블리즈\n#Unforgettable #Obliviate https://t.co/jwlEg99TUJ"
+	},
+	{
 		"created_at": "Thu Aug 20 15:09:38 +0000 2020",
 		"id": 1296464415760486400,
 		"id_str": "1296464415760486400",
