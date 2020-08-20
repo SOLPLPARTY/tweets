@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 01:05:07 +0000 2020",
+		"id": 1296250920548749300,
+		"id_str": "1296251887763599361",
+		"full_text": "[2020 #서울라이브] 8월 23일로 예정되어 있던 라이브 기획공연(국내) 선정 공연 Record and Folk가 10월 17일로 연기되었습니다! 자세한 내용은 아래 트윗에서 확인하세요! https://t.co/vpKKdd0MZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울라이브",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpKKdd0MZ8",
+					"expanded_url": "https://twitter.com/emon0830/status/1296064812963622912",
+					"display_url": "twitter.com/emon0830/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261116900,
+			"id_str": "261116900",
+			"name": "서교예술실험센터",
+			"screen_name": "seogyo",
+			"location": "서교예술실험센터",
+			"description": "언제나 열려있는 서울시 창작공간 서교예술실험센터 공식 트위터입니다.\n\n코로나19 확산 방지를 위해 임시휴관 중입니다💡\n\n◾️ 운영사무실 운영시간: 평일 09:00-18:00 (점심시간 12:00-13:00)\n\n※ 추후 운영 내용 변경시 별도 공지가 있을 예정이니 이용에 참고 바랍니다!",
+			"url": "http://t.co/pFuyuKbf9a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pFuyuKbf9a",
+							"expanded_url": "http://cafe.naver.com/seoulartspace/",
+							"display_url": "cafe.naver.com/seoulartspace/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7643,
+			"friends_count": 2928,
+			"listed_count": 78,
+			"created_at": "Sat Mar 05 08:03:55 +0000 2011",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250728313720500225/iIVXoFiO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250728313720500225/iIVXoFiO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261116900/1591860776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "121112",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296064812963623000,
+		"quoted_status_id_str": "1296064812963622912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vpKKdd0MZ8",
+			"expanded": "https://twitter.com/emon0830/status/1296064812963622912",
+			"display": "twitter.com/emon0830/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 12:41:45 +0000 2020",
+			"id": 1296064812963623000,
+			"id_str": "1296064812963622912",
+			"full_text": "**공연 연기 일정 공지**\n\n8.23 Record and Folk 공연이 10월 17일로 연기 확정되었습니다. \n\n기존 예매자 분들을 위한 대책 및 안내 사항은 아래 블로그를 참조 부탁드리며, 새로운 예매 창은 기존 예매자 분들의 티켓 수가 정리되는 대로 새롭게 오픈토록 하겠습니다. \n\nhttps://t.co/NWmZ2uex4l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NWmZ2uex4l",
+						"expanded_url": "http://emon.egloos.com/3193361",
+						"display_url": "emon.egloos.com/3193361",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 338290549,
+				"id_str": "338290549",
+				"name": "에몬・Emon • エモン",
+				"screen_name": "emon0830",
+				"location": "서울",
+				"description": "Musician || 韓日翻訳 || Writing &Arrangement ||일본어 통번역\nAppleMusic: https://t.co/Ifxz45Zcx2  spotify: https://t.co/OxdVIWOKuJ\nemon0830@gmail.com",
+				"url": "https://t.co/8TSVoIixGF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8TSVoIixGF",
+								"expanded_url": "https://www.youtube.com/user/emon0830",
+								"display_url": "youtube.com/user/emon0830",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ifxz45Zcx2",
+								"expanded_url": "http://apple.co/2DTv80E",
+								"display_url": "apple.co/2DTv80E",
+								"indices": [
+									63,
+									86
+								]
+							},
+							{
+								"url": "https://t.co/OxdVIWOKuJ",
+								"expanded_url": "http://spoti.fi/2EuR3Ku",
+								"display_url": "spoti.fi/2EuR3Ku",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 544,
+				"friends_count": 287,
+				"listed_count": 9,
+				"created_at": "Tue Jul 19 10:52:55 +0000 2011",
+				"favourites_count": 888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042070150407581697/WjRwIgKH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042070150407581697/WjRwIgKH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/338290549/1563410332",
+				"profile_link_color": "097080",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 #서울라이브] 8월 23일로 예정되어 있던 라이브 기획공연(국내) 선정 공연 Record and Folk가 10월 17일로 연기되었습니다! 자세한 내용은 아래 트윗에서 확인하세요! https://t.co/vpKKdd0MZ8"
+	},
+	{
+		"created_at": "Thu Aug 20 00:41:46 +0000 2020",
+		"id": 1296235633967378400,
+		"id_str": "1296246008373010437",
+		"full_text": "8월 23일 예정되어 있던 실리카겔 공연의 YOUTUBE STREAMING 서비스는 오후 8시로 변경되었습니다.\n\n(카카오뱅크 3333-09-7965008 이윤호) 계좌로 15000원 입금 후 seendosi@gmail.com로 입금자명을 기재하여 보내 주시면 \n공연 30분전 해당 메일로 링크를 공유해 드립니다. 예매는 공연 1시간 전까지. https://t.co/sE2IZGlM9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296235626040184800,
+					"id_str": "1296235626040184834",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef0nbyNU0AIZ3jt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef0nbyNU0AIZ3jt.jpg",
+					"url": "https://t.co/sE2IZGlM9U",
+					"display_url": "pic.twitter.com/sE2IZGlM9U",
+					"expanded_url": "https://twitter.com/seendosi/status/1296235633967378432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296235626040184800,
+					"id_str": "1296235626040184834",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef0nbyNU0AIZ3jt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef0nbyNU0AIZ3jt.jpg",
+					"url": "https://t.co/sE2IZGlM9U",
+					"display_url": "pic.twitter.com/sE2IZGlM9U",
+					"expanded_url": "https://twitter.com/seendosi/status/1296235633967378432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3917,
+			"friends_count": 692,
+			"listed_count": 29,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 23일 예정되어 있던 실리카겔 공연의 YOUTUBE STREAMING 서비스는 오후 8시로 변경되었습니다.\n\n(카카오뱅크 3333-09-7965008 이윤호) 계좌로 15000원 입금 후 seendosi@gmail.com로 입금자명을 기재하여 보내 주시면 \n공연 30분전 해당 메일로 링크를 공유해 드립니다. 예매는 공연 1시간 전까지. https://t.co/sE2IZGlM9U"
+	},
+	{
+		"created_at": "Thu Aug 20 00:41:40 +0000 2020",
+		"id": 1296235097083924500,
+		"id_str": "1296245982758416395",
+		"full_text": "⠀\n&lt;신도시 5주년 기획공연 취소 / 스트리밍 서비스 시간 변경 안내&gt;\n⠀\n이번주 예정되어 있던 &lt;신도시 5주년 기획 공연&gt; 댄스랙스/식칼, 불싸조/아방가르드 박 공연은 아티스트들과의 협의하에 취소되었음을 알려드립니다.\n실리카겔 공연 역시 현장 관람은 취소되었고 온라인 스트리밍만 진행됩니다. https://t.co/MeNtby3P8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296235077479743500,
+					"id_str": "1296235077479743489",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef0m72qUwAE0kRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef0m72qUwAE0kRy.jpg",
+					"url": "https://t.co/MeNtby3P8r",
+					"display_url": "pic.twitter.com/MeNtby3P8r",
+					"expanded_url": "https://twitter.com/seendosi/status/1296235097083924480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296235077479743500,
+					"id_str": "1296235077479743489",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef0m72qUwAE0kRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef0m72qUwAE0kRy.jpg",
+					"url": "https://t.co/MeNtby3P8r",
+					"display_url": "pic.twitter.com/MeNtby3P8r",
+					"expanded_url": "https://twitter.com/seendosi/status/1296235097083924480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3917,
+			"friends_count": 692,
+			"listed_count": 29,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\n&lt;신도시 5주년 기획공연 취소 / 스트리밍 서비스 시간 변경 안내&gt;\n⠀\n이번주 예정되어 있던 &lt;신도시 5주년 기획 공연&gt; 댄스랙스/식칼, 불싸조/아방가르드 박 공연은 아티스트들과의 협의하에 취소되었음을 알려드립니다.\n실리카겔 공연 역시 현장 관람은 취소되었고 온라인 스트리밍만 진행됩니다. https://t.co/MeNtby3P8r"
+	},
+	{
 		"created_at": "Wed Aug 19 23:29:37 +0000 2020",
 		"id": 1296221172162420700,
 		"id_str": "1296227851138740226",
