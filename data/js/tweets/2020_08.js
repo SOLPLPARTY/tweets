@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 11:41:38 +0000 2020",
+		"id": 1296401594465091600,
+		"id_str": "1296412068736901121",
+		"full_text": "[재택근무 안내]\n\n정부의 사회적 거리 두기 2단계 시행에 따라 아래 기간 동안 직원 재택근무가 실시됩니다. \n\n모두의 안전과 코로나 19 확산 방지를 위해 잠시 씬디 티켓라운지 출입이 제한되오니, 너른 양해를 부탁 드립니다.\n⠀\n📣 재택근무 기간\n☑️ 8월 21일 (금) ~ 8월 23일 (일) https://t.co/xiUpcvPpW4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296383689165648000,
+					"id_str": "1296383689165647872",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef2uGMVUMAAUY-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef2uGMVUMAAUY-3.jpg",
+					"url": "https://t.co/xiUpcvPpW4",
+					"display_url": "pic.twitter.com/xiUpcvPpW4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1296401594465091586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296383689165648000,
+					"id_str": "1296383689165647872",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef2uGMVUMAAUY-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef2uGMVUMAAUY-3.jpg",
+					"url": "https://t.co/xiUpcvPpW4",
+					"display_url": "pic.twitter.com/xiUpcvPpW4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1296401594465091586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 2698,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재택근무 안내]\n\n정부의 사회적 거리 두기 2단계 시행에 따라 아래 기간 동안 직원 재택근무가 실시됩니다. \n\n모두의 안전과 코로나 19 확산 방지를 위해 잠시 씬디 티켓라운지 출입이 제한되오니, 너른 양해를 부탁 드립니다.\n⠀\n📣 재택근무 기간\n☑️ 8월 21일 (금) ~ 8월 23일 (일) https://t.co/xiUpcvPpW4"
+	},
+	{
 		"created_at": "Thu Aug 20 11:10:22 +0000 2020",
 		"id": 1296404201879347200,
 		"id_str": "1296404201879347200",
