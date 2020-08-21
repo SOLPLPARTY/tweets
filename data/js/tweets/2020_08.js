@@ -1,6 +1,1227 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 21 07:16:07 +0000 2020",
+		"id": 1296707640685363200,
+		"id_str": "1296707640685363201",
+		"full_text": "#문화인 #MUN_HWA_IN\nRosy (로지) New Single [Escape] Teaser #2\nhttps://t.co/w2285rFVKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "MUN_HWA_IN",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2285rFVKw",
+					"expanded_url": "https://youtu.be/L8bpzaZ2_JQ",
+					"display_url": "youtu.be/L8bpzaZ2_JQ",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 368,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#문화인 #MUN_HWA_IN\nRosy (로지) New Single [Escape] Teaser #2\nhttps://t.co/w2285rFVKw"
+	},
+	{
+		"created_at": "Fri Aug 21 06:57:31 +0000 2020",
+		"id": 1296702958818726000,
+		"id_str": "1296702958818725895",
+		"full_text": "#Melon #멜론 #멜론매거진\n퓨처 하우스의 두 강자, Oliver Heldens Vs. Tchami\nhttps://t.co/zBLMFSGMgI https://t.co/VRxqN2N8PQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBLMFSGMgI",
+					"expanded_url": "https://bit.ly/3ghHoH5",
+					"display_url": "bit.ly/3ghHoH5",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296702957816340500,
+					"id_str": "1296702957816340481",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7QeEvXYAEisLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7QeEvXYAEisLw.jpg",
+					"url": "https://t.co/VRxqN2N8PQ",
+					"display_url": "pic.twitter.com/VRxqN2N8PQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1296702958818725895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296702957816340500,
+					"id_str": "1296702957816340481",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7QeEvXYAEisLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7QeEvXYAEisLw.jpg",
+					"url": "https://t.co/VRxqN2N8PQ",
+					"display_url": "pic.twitter.com/VRxqN2N8PQ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1296702958818725895/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 368,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n퓨처 하우스의 두 강자, Oliver Heldens Vs. Tchami\nhttps://t.co/zBLMFSGMgI https://t.co/VRxqN2N8PQ"
+	},
+	{
+		"created_at": "Fri Aug 21 06:37:22 +0000 2020",
+		"id": 1296658338206355500,
+		"id_str": "1296697886223167488",
+		"full_text": "#BTS #방탄소년단 &lt;Dynamite&gt; Official MV\n(https://t.co/yH9qzNyhOD)\n\n#BTS_Dynamite",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "BTS_Dynamite",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yH9qzNyhOD",
+					"expanded_url": "https://youtu.be/gdZLi9oWNZg",
+					"display_url": "youtu.be/gdZLi9oWNZg",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15961207,
+			"friends_count": 28,
+			"listed_count": 17086,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260575,
+		"favorite_count": 533856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BTS #방탄소년단 &lt;Dynamite&gt; Official MV\n(https://t.co/yH9qzNyhOD)\n\n#BTS_Dynamite"
+	},
+	{
+		"created_at": "Fri Aug 21 06:36:35 +0000 2020",
+		"id": 1296663631900237800,
+		"id_str": "1296697690294636544",
+		"full_text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶멜론: https://t.co/hBBxqlCUCp\n▶FLO: https://t.co/ZNwOLbv87l\n▶지니: https://t.co/TydrwQWqIn\n▶벅스: https://t.co/IOBSQp3AVr\n▶VIBE: https://t.co/fmbdHLuV8R\n▶소리바다: https://t.co/xvB06dWNJv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "BTS_Dynamite",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hBBxqlCUCp",
+					"expanded_url": "https://bit.ly/3j69h6N",
+					"display_url": "bit.ly/3j69h6N",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/ZNwOLbv87l",
+					"expanded_url": "http://flomuz.io/s/a.BzpoO",
+					"display_url": "flomuz.io/s/a.BzpoO",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/TydrwQWqIn",
+					"expanded_url": "https://bit.ly/34gbtEt",
+					"display_url": "bit.ly/34gbtEt",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/IOBSQp3AVr",
+					"expanded_url": "https://bit.ly/31gok7N",
+					"display_url": "bit.ly/31gok7N",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/fmbdHLuV8R",
+					"expanded_url": "https://bit.ly/3gh706P",
+					"display_url": "bit.ly/3gh706P",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/xvB06dWNJv",
+					"expanded_url": "https://bit.ly/31dpXmD",
+					"display_url": "bit.ly/31dpXmD",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15961207,
+			"friends_count": 28,
+			"listed_count": 17086,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129995,
+		"favorite_count": 358157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶멜론: https://t.co/hBBxqlCUCp\n▶FLO: https://t.co/ZNwOLbv87l\n▶지니: https://t.co/TydrwQWqIn\n▶벅스: https://t.co/IOBSQp3AVr\n▶VIBE: https://t.co/fmbdHLuV8R\n▶소리바다: https://t.co/xvB06dWNJv"
+	},
+	{
+		"created_at": "Fri Aug 21 06:36:08 +0000 2020",
+		"id": 1296677353901326300,
+		"id_str": "1296697577153286144",
+		"full_text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶Pandora: https://t.co/NKA3zrdpyf\n▶TIDAL: https://t.co/KMcOGszpRN\n▶iHeartRadio: https://t.co/yS5O70SNN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "BTS_Dynamite",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKA3zrdpyf",
+					"expanded_url": "https://pandora.app.link/NwGUyQRC78",
+					"display_url": "pandora.app.link/NwGUyQRC78",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/KMcOGszpRN",
+					"expanded_url": "https://listen.tidal.com/album/152220421",
+					"display_url": "listen.tidal.com/album/152220421",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/yS5O70SNN7",
+					"expanded_url": "https://ihr.fm/3aNTEh9",
+					"display_url": "ihr.fm/3aNTEh9",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1296677352336789500,
+		"in_reply_to_status_id_str": "1296677352336789506",
+		"in_reply_to_user_id": 168683422,
+		"in_reply_to_user_id_str": "168683422",
+		"in_reply_to_screen_name": "BigHitEnt",
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15961207,
+			"friends_count": 28,
+			"listed_count": 17086,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22343,
+		"favorite_count": 73411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶Pandora: https://t.co/NKA3zrdpyf\n▶TIDAL: https://t.co/KMcOGszpRN\n▶iHeartRadio: https://t.co/yS5O70SNN7"
+	},
+	{
+		"created_at": "Fri Aug 21 06:35:53 +0000 2020",
+		"id": 1296677352336789500,
+		"id_str": "1296697515144654848",
+		"full_text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶Spotify: https://t.co/IlMZbU2IsD\n▶Apple Music: https://t.co/tJDVhLAe53\n▶Amazon: https://t.co/spdfB5LhyQ\n▶Youtube Music: https://t.co/O7Ka2AEL11\n▶Deezer: https://t.co/DgpHceNU2V\n▶Orchard: https://t.co/3MAdFLeKaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "BTS_Dynamite",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlMZbU2IsD",
+					"expanded_url": "https://spoti.fi/3j1fZuw",
+					"display_url": "spoti.fi/3j1fZuw",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/tJDVhLAe53",
+					"expanded_url": "https://apple.co/2FzV0R5",
+					"display_url": "apple.co/2FzV0R5",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/spdfB5LhyQ",
+					"expanded_url": "https://amzn.to/2Emx57i",
+					"display_url": "amzn.to/2Emx57i",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/O7Ka2AEL11",
+					"expanded_url": "https://bit.ly/3aLZj7i",
+					"display_url": "bit.ly/3aLZj7i",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/DgpHceNU2V",
+					"expanded_url": "https://bit.ly/2EcxTvF",
+					"display_url": "bit.ly/2EcxTvF",
+					"indices": [
+						200,
+						223
+					]
+				},
+				{
+					"url": "https://t.co/3MAdFLeKaN",
+					"expanded_url": "https://orcd.co/bts-dynamite",
+					"display_url": "orcd.co/bts-dynamite",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15961207,
+			"friends_count": 28,
+			"listed_count": 17086,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792969378828398592/2g1Delza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1477893608",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90622,
+		"favorite_count": 243897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BTS #방탄소년단 Dynamite Release \n\n#BTS_Dynamite\n\n▶Spotify: https://t.co/IlMZbU2IsD\n▶Apple Music: https://t.co/tJDVhLAe53\n▶Amazon: https://t.co/spdfB5LhyQ\n▶Youtube Music: https://t.co/O7Ka2AEL11\n▶Deezer: https://t.co/DgpHceNU2V\n▶Orchard: https://t.co/3MAdFLeKaN"
+	},
+	{
+		"created_at": "Fri Aug 21 06:35:29 +0000 2020",
+		"id": 1296688285197062100,
+		"id_str": "1296697412807884800",
+		"full_text": "오늘 #자우림 이 출연 예정인 #울산서머페스티벌 은 언택트 공연으로 진행됩니다. #마스크 와 한몸이 되어 다녀오겠습니다. 😘😷😷😷 https://t.co/vBdw5pbCyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"text": "울산서머페스티벌",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "마스크",
+					"indices": [
+						45,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296687929335541800,
+					"id_str": "1296687929335541760",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7CzTSU8AAvVMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7CzTSU8AAvVMb.jpg",
+					"url": "https://t.co/vBdw5pbCyH",
+					"display_url": "pic.twitter.com/vBdw5pbCyH",
+					"expanded_url": "https://twitter.com/love_yuna/status/1296688285197062145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296687929335541800,
+					"id_str": "1296687929335541760",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7CzTSU8AAvVMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7CzTSU8AAvVMb.jpg",
+					"url": "https://t.co/vBdw5pbCyH",
+					"display_url": "pic.twitter.com/vBdw5pbCyH",
+					"expanded_url": "https://twitter.com/love_yuna/status/1296688285197062145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273231,
+			"friends_count": 515,
+			"listed_count": 2883,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278264030881185793/Jnd0BwOv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278264030881185793/Jnd0BwOv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1593596825",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 #자우림 이 출연 예정인 #울산서머페스티벌 은 언택트 공연으로 진행됩니다. #마스크 와 한몸이 되어 다녀오겠습니다. 😘😷😷😷 https://t.co/vBdw5pbCyH"
+	},
+	{
 		"created_at": "Fri Aug 21 05:43:23 +0000 2020",
 		"id": 1296684303523418000,
 		"id_str": "1296684303523418113",
