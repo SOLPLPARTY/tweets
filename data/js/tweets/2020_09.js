@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 02 04:52:05 +0000 2020",
+		"id": 1300991847376928800,
+		"id_str": "1301020046215454727",
+		"full_text": "사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어 🔑 MV Teaser 1\n\n김사월 정규 3집\n헤븐\n2020년 9월 14일 https://t.co/dP0ZNjodDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1300988114035335200,
+					"id_str": "1300988114035335170",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300988114035335170/pu/img/HNtiGjg0HLp6bJJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300988114035335170/pu/img/HNtiGjg0HLp6bJJ-.jpg",
+					"url": "https://t.co/dP0ZNjodDV",
+					"display_url": "pic.twitter.com/dP0ZNjodDV",
+					"expanded_url": "https://twitter.com/aprilsour/status/1300991847376928770/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300988114035335200,
+					"id_str": "1300988114035335170",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300988114035335170/pu/img/HNtiGjg0HLp6bJJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300988114035335170/pu/img/HNtiGjg0HLp6bJJ-.jpg",
+					"url": "https://t.co/dP0ZNjodDV",
+					"display_url": "pic.twitter.com/dP0ZNjodDV",
+					"expanded_url": "https://twitter.com/aprilsour/status/1300991847376928770/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16183,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300988114035335170/pu/vid/640x360/K7qbypZ4F1Mc6QMN.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300988114035335170/pu/vid/1280x720/bJxUYw1K-431Sz3v.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1300988114035335170/pu/vid/480x270/dINX3RqNE0OSxO3L.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1300988114035335170/pu/pl/5xLwxRMC4kqWKZiF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12105,
+			"friends_count": 820,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295922007154909185/tgAyw_sZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295922007154909185/tgAyw_sZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1597806886",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어 🔑 MV Teaser 1\n\n김사월 정규 3집\n헤븐\n2020년 9월 14일 https://t.co/dP0ZNjodDV"
+	},
+	{
+		"created_at": "Wed Sep 02 04:43:39 +0000 2020",
+		"id": 1301017924711469000,
+		"id_str": "1301017924711469056",
+		"full_text": "#genie #지니 #지니매거진\n힙합 따라잡기 ＃34 - 하이라이트레코즈는 컴필레이션으로 유산을 남긴다\nhttps://t.co/Xved61YKdb https://t.co/2DCxIae5VY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xved61YKdb",
+					"expanded_url": "https://bit.ly/32ICbmK",
+					"display_url": "bit.ly/32ICbmK",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301017923423789000,
+					"id_str": "1301017923423789057",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4k6IQXYAE19cK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4k6IQXYAE19cK.jpg",
+					"url": "https://t.co/2DCxIae5VY",
+					"display_url": "pic.twitter.com/2DCxIae5VY",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1301017924711469056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301017923423789000,
+					"id_str": "1301017923423789057",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Eg4k6IQXYAE19cK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eg4k6IQXYAE19cK.jpg",
+					"url": "https://t.co/2DCxIae5VY",
+					"display_url": "pic.twitter.com/2DCxIae5VY",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1301017924711469056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 375,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n힙합 따라잡기 ＃34 - 하이라이트레코즈는 컴필레이션으로 유산을 남긴다\nhttps://t.co/Xved61YKdb https://t.co/2DCxIae5VY"
+	},
+	{
 		"created_at": "Wed Sep 02 03:57:26 +0000 2020",
 		"id": 1301006291431719000,
 		"id_str": "1301006291431718917",
