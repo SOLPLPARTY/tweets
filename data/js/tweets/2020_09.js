@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 16:07:04 +0000 2020",
+		"id": 1301885969184956400,
+		"id_str": "1301914689215975424",
+		"full_text": "2. 세상 모든 사람들이 나를 미워하기 시작했다X태평성대 \nhttps://t.co/4yqAU2VEzs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yqAU2VEzs",
+					"expanded_url": "https://youtu.be/7XjHpwp3pvg",
+					"display_url": "youtu.be/7XjHpwp3pvg",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1301791167999176700,
+		"in_reply_to_status_id_str": "1301791167999176704",
+		"in_reply_to_user_id": 213091891,
+		"in_reply_to_user_id_str": "213091891",
+		"in_reply_to_screen_name": "2lang2",
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31566,
+			"friends_count": 1030,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2. 세상 모든 사람들이 나를 미워하기 시작했다X태평성대 \nhttps://t.co/4yqAU2VEzs"
+	},
+	{
+		"created_at": "Fri Sep 04 16:07:01 +0000 2020",
+		"id": 1301791167999176700,
+		"id_str": "1301914675911643139",
+		"full_text": "지난 7월, 국립극장 여우락 페스티벌에서 했던 ‘이랑X소울지기’ 콜라보 무대영상에 자막을 붙여 하나씩 올려보려고 합니다. (정책상 전체 무대는 안 되고 세 곡 정도 공개가능하대요) 1. 신의놀이X북두칠성 https://t.co/0Ub7RCg9pe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Ub7RCg9pe",
+					"expanded_url": "https://youtu.be/o0Ih_UFSy2o",
+					"display_url": "youtu.be/o0Ih_UFSy2o",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "2lang2",
+			"location": "Seoul, Korea",
+			"description": "금융예술인🔥의뢰|문의 📧 info.langlee@gmail.com 📧日本の仕事はinfo.sweetdreams@gmail.com STAFF @info_langlee",
+			"url": "https://t.co/CxKklAUBvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxKklAUBvk",
+							"expanded_url": "http://www.youtube.com/langleeschool",
+							"display_url": "youtube.com/langleeschool",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31566,
+			"friends_count": 1030,
+			"listed_count": 172,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270688412232638465/Ox26SaCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 7월, 국립극장 여우락 페스티벌에서 했던 ‘이랑X소울지기’ 콜라보 무대영상에 자막을 붙여 하나씩 올려보려고 합니다. (정책상 전체 무대는 안 되고 세 곡 정도 공개가능하대요) 1. 신의놀이X북두칠성 https://t.co/0Ub7RCg9pe"
+	},
+	{
 		"created_at": "Fri Sep 04 15:07:14 +0000 2020",
 		"id": 1301899627667624000,
 		"id_str": "1301899627667623940",
