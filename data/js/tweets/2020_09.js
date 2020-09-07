@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 20:46:12 +0000 2020",
+		"id": 1302895200277160000,
+		"id_str": "1303072098642845696",
+		"full_text": "TAEMIN 태민 [Never Gonna Dance Again : Act 1 - The 3rd Album]\n\n🎧Melon: https://t.co/xq7mpuGZNK\n🎧FLO: https://t.co/QGi0gt61GL\n🎧genie: https://t.co/FxIrQo6gmk\n🎧NAVER MUSIC: https://t.co/qSvxdu5tvt\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						219,
+						240
+					]
+				},
+				{
+					"text": "Act1",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xq7mpuGZNK",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10486847",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/QGi0gt61GL",
+					"expanded_url": "http://flomuz.io/s/a.BzOHB",
+					"display_url": "flomuz.io/s/a.BzOHB",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/FxIrQo6gmk",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81563195",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/qSvxdu5tvt",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4898064",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371887,
+			"friends_count": 2,
+			"listed_count": 3142,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297563472645955584/IVxO49Fm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1598626805",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9196,
+		"favorite_count": 17232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 [Never Gonna Dance Again : Act 1 - The 3rd Album]\n\n🎧Melon: https://t.co/xq7mpuGZNK\n🎧FLO: https://t.co/QGi0gt61GL\n🎧genie: https://t.co/FxIrQo6gmk\n🎧NAVER MUSIC: https://t.co/qSvxdu5tvt\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act1\n#Criminal"
+	},
+	{
 		"created_at": "Mon Sep 07 15:29:38 +0000 2020",
 		"id": 1302992430267019300,
 		"id_str": "1302992430267019264",
